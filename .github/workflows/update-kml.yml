@@ -1,0 +1,46 @@
+name: Update DriveBC KML
+
+on:
+  schedule:
+    # Run every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-kml:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # Required to commit back to repo
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Generate KML file
+      run: |
+        python drivebc_service.py
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add drivebc_events.kml
+        
+        # Only commit if there are changes
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update DriveBC events KML - $(date -u)"
+          git push
+        else
+          echo "No changes to commit"
+        fi

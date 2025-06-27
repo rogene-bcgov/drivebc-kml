@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DriveBC Traffic Events KML</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            line-height: 1.6;
+            color: #333;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #0066cc;
+            padding-bottom: 1rem;
+            margin-bottom: 2rem;
+        }
+        .kml-link {
+            background: #0066cc;
+            color: white;
+            padding: 1rem 2rem;
+            text-decoration: none;
+            border-radius: 8px;
+            display: inline-block;
+            font-weight: bold;
+            margin: 1rem 0;
+        }
+        .kml-link:hover {
+            background: #0052a3;
+        }
+        .instructions {
+            background: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+        }
+        .info-box {
+            background: #e7f3ff;
+            border-left: 4px solid #0066cc;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid #eee;
+            color: #666;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚗 DriveBC Traffic Events</h1>
+        <p>Live traffic data from British Columbia, Canada</p>
+    </div>
+
+    <div class="info-box">
+        <strong>🔄 Auto-Updated:</strong> This KML file is automatically updated every 30 minutes with the latest traffic events from DriveBC.
+    </div>
+
+    <div style="text-align: center;">
+        <a href="drivebc_events.kml" class="kml-link" download>
+            📥 Download KML File
+        </a>
+    </div>
+
+    <div class="instructions">
+        <h2>📍 How to Use in Google Maps</h2>
+        <ol>
+            <li>Right-click the download button above and copy the link address</li>
+            <li>Go to <a href="https://mymaps.google.com" target="_blank">Google My Maps</a></li>
+            <li>Create a new map or open an existing one</li>
+            <li>Click <strong>"Import"</strong></li>
+            <li>Paste the copied link URL instead of uploading a file</li>
+            <li>The traffic events will appear as a new layer</li>
+        </ol>
+        
+        <div class="info-box">
+            <strong>💡 Pro Tip:</strong> By using the direct link instead of downloading the file, Google Maps will automatically refresh the data when you reload the map!
+        </div>
+    </div>
+
+    <div class="instructions">
+        <h2>📊 What's Included</h2>
+        <ul>
+            <li><span style="color: #ff0000;">🔴 Construction Events</span> - Road construction and maintenance</li>
+            <li><span style="color: #ffff00;">🟡 Incidents</span> - Accidents and traffic disruptions</li>
+            <li><span style="color: #00ff00;">🟢 Road Conditions</span> - Weather-related road conditions</li>
+            <li><span style="color: #0000ff;">🔵 Weather Events</span> - Weather-related traffic impacts</li>
+        </ul>
+    </div>
+
+    <div class="instructions">
+        <h2>🔧 For Developers</h2>
+        <p>Direct KML URL for API usage:</p>
+        <code style="background: #f1f1f1; padding: 0.5rem; border-radius: 4px; display: block; margin: 0.5rem 0;">
+            https://rogene-bcgov.github.io/drivebc-kml/drivebc_events.kml
+        </code>
+        <p><small>This URL updates automatically every 30 minutes</small></p>
+    </div>
+
+    <div class="footer">
+        <p>Data source: <a href="https://www.drivebc.ca" target="_blank">DriveBC</a> | 
+        Updated automatically via GitHub Actions | 
+        <a href="https://github.com/rogene-bcgov/drivebc-kml" target="_blank">View Source</a></p>
+        <p><small>Last page update: <span id="lastUpdate"></span></small></p>
+    </div>
+
+    <script>
+        // Display last update time
+        document.getElementById('lastUpdate').textContent = new Date().toLocaleString();
+    </script>
+</body>
+</html>
