@@ -1,6 +1,6 @@
-# DriveBC KML Service
+# DriveBC Enhanced KML Service
 
-A simple web service that automatically converts DriveBC traffic events to KML format every 30 minutes.
+A comprehensive web service that automatically converts DriveBC traffic events AND ferry information to KML format every 30 minutes.
 
 ## 🚀 Live Service
 
@@ -13,8 +13,10 @@ The service is automatically deployed and running at:
 - 🔄 **Auto-updates every 30 minutes** via GitHub Actions
 - 📍 **Fixed filename** (`drivebc_events.kml`) for Google Maps auto-refresh
 - 🌐 **Public access** via GitHub Pages
-- 🎨 **Color-coded events** by type (construction, incidents, weather, etc.)
+- 🚗 **Traffic events** with color-coded styling (construction, incidents, weather, etc.)
+- ⛴️ **Ferry information** with schedules, capacities, and contact details
 - 📱 **Simple web interface** with usage instructions
+- 📹 **Live webcam links** for ferry terminals
 
 ## 🛠️ Setup Instructions
 
@@ -77,24 +79,31 @@ cd drivebc-kml-service
 
 ## 🎨 Event Types & Colors
 
+### 🚗 Traffic Events
 - 🔴 **Construction** - Road construction and maintenance
 - 🟡 **Incidents** - Accidents and traffic disruptions  
 - 🟢 **Road Conditions** - Weather-related road conditions
 - 🔵 **Weather** - Weather-related traffic impacts
 - ⚪ **Other** - Miscellaneous events
 
-## 🔄 Update Frequency
+### ⛴️ Ferry Routes
+- 🟣 **Cable Ferries** - Cable-operated crossings
+- 🔷 **Scheduled Ferries** - Regular scheduled services
+- 🔹 **On-Demand Ferries** - On-demand services
+- 🟣 **Other Ferries** - Miscellaneous ferry services
 
-The service updates every 30 minutes. You can also trigger manual updates:
-- Via GitHub Actions web interface
-- By pushing commits to the repository
+## 📊 Data Sources
 
-## 📊 API Source
-
-Data is sourced from the official DriveBC API:
+**Traffic Events:**
 - **Endpoint**: `https://www.drivebc.ca/api/events/`
-- **Provider**: Government of British Columbia
-- **Coverage**: British Columbia, Canada
+- **Coverage**: All traffic events in British Columbia
+
+**Ferry Information:**
+- **Endpoint**: `https://www.drivebc.ca/api/ferries/`
+- **Coverage**: All inland ferry routes in British Columbia
+- **Details**: Schedules, capacities, contact info, webcams
+
+Both APIs are provided by the Government of British Columbia.
 
 ## 🆓 Cost
 
