@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-06-28 10:01:52 UTC
+        Last updated: 2025-06-28 10:35:48 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (233)</name>
+      <name>🚗 Traffic Events (234)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1255,27 +1255,6 @@
           <Point>
             <coordinates>-123.679091,48.363855,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Construction work between Exit 37: Gaglardi Way and Exit</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 37: Gaglardi Way and Exit 40: Brunette Ave for 3.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-27T21:30:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.914669,49.242626,0 -122.914583,49.242676,0 -122.914462,49.242747,0 -122.911395,49.244527,0 -122.910817,49.244805,0 -122.910772,49.244826,0 -122.910603,49.244898,0 -122.910442,49.244965,0 -122.90968,49.245268,0 -122.908965,49.245489,0 -122.908395,49.245642,0 -122.908191,49.245688,0 -122.908008,49.245729,0 -122.90765,49.245802,0 -122.906721,49.245959,0 -122.906292,49.246004,0 -122.905719,49.246045,0 -122.905376,49.246068,0 -122.904947,49.246068,0 -122.904689,49.246065,0 -122.904153,49.246045,0 -122.903287,49.245961,0 -122.902374,49.245822,0 -122.90149,49.245641,0 -122.90064,49.24545,0 -122.89963,49.245202,0 -122.89859,49.244898,0 -122.897936,49.24468,0 -122.89725,49.244425,0 -122.896169,49.243978,0 -122.895018,49.243436,0 -122.8946,49.243229,0 -122.894364,49.243107,0 -122.894304,49.243076,0 -122.893062,49.242401,0 -122.892601,49.242136,0 -122.892361,49.241992,0 -122.890836,49.241075,0 -122.889764,49.240428,0 -122.889153,49.240056,0 -122.886125,49.238197,0 -122.885263,49.237665,0 -122.884395,49.237127,0 -122.883221,49.236399,0 -122.882312,49.235856,0 -122.881719,49.235553,0 -122.88129,49.235353,0 -122.880945,49.235208,0 -122.880499,49.235038,0 -122.879776,49.234792,0 -122.878695,49.234499,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Youngsberg Road, in both directions. Bridge construction at Youngsberg Bridge near Princeton. Road c</name>
@@ -4398,6 +4377,47 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 87: Clearbrook Rd and Pear</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Peardonville Rd and Exit 87: Clearbrook Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-28T03:14:56-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.352095,49.044992,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between Exit 37: Gaglardi Way and Exit 40: </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 37: Gaglardi Way and Exit 40: Brunette Ave for 3.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-28T03:19:45-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.914669,49.242626,0 -122.914583,49.242676,0 -122.914462,49.242747,0 -122.911395,49.244527,0 -122.910817,49.244805,0 -122.910772,49.244826,0 -122.910603,49.244898,0 -122.910442,49.244965,0 -122.90968,49.245268,0 -122.908965,49.245489,0 -122.908395,49.245642,0 -122.908191,49.245688,0 -122.908008,49.245729,0 -122.90765,49.245802,0 -122.906721,49.245959,0 -122.906292,49.246004,0 -122.905719,49.246045,0 -122.905376,49.246068,0 -122.904947,49.246068,0 -122.904689,49.246065,0 -122.904153,49.246045,0 -122.903287,49.245961,0 -122.902374,49.245822,0 -122.90149,49.245641,0 -122.90064,49.24545,0 -122.89963,49.245202,0 -122.89859,49.244898,0 -122.897936,49.24468,0 -122.89725,49.244425,0 -122.896169,49.243978,0 -122.895018,49.243436,0 -122.8946,49.243229,0 -122.894364,49.243107,0 -122.894304,49.243076,0 -122.893062,49.242401,0 -122.892601,49.242136,0 -122.892361,49.241992,0 -122.890836,49.241075,0 -122.889764,49.240428,0 -122.889153,49.240056,0 -122.886125,49.238197,0 -122.885263,49.237665,0 -122.884395,49.237127,0 -122.883221,49.236399,0 -122.882312,49.235856,0 -122.881719,49.235553,0 -122.88129,49.235353,0 -122.880945,49.235208,0 -122.880499,49.235038,0 -122.879776,49.234792,0 -122.878695,49.234499,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 3A. Watch for falling rocks between Kootenay Bay Ferry and Junction Hwy 3 for 78.0 km (1 km </name>
           <description>
         &lt;![CDATA[
@@ -4888,7 +4908,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 24&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Cottage Lane and Junction Hwy 5 for 36.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-27T18:06:53-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-28T03:30:01-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
