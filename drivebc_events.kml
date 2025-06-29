@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-06-29 13:08:56 UTC
+        Last updated: 2025-06-29 13:37:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -905,7 +905,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>[Truncated] Highway 1 (TransCanada Highway), in both directions. Construction work planned between I</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work planned between Illecillewaet</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -915,7 +915,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Illecillewaet Brake Check and MacDonald Snowshed for 3.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-28T10:22:54-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-29T06:08:43-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3820,26 +3820,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 91, in both directions. Bridge maintenance planned at Alex Fraser Bridge (Delta). Starting S</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-24T08:20:09-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.943309,49.160815,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3A. Utility work planned between Heddle Rd and Bodard Dr for 2.1 km (9 to 11 km east of Nels</name>
           <description>
         &lt;![CDATA[
@@ -3859,6 +3839,26 @@
             <tessellate>1</tessellate>
             <coordinates>-117.222672,49.578726,0 -117.222456,49.578854,0 -117.222096,49.578969,0 -117.221746,49.579028,0 -117.2215,49.579043,0 -117.219969,49.57915,0 -117.219405,49.57924,0 -117.218793,49.579395,0 -117.218109,49.579766,0 -117.21739,49.580306,0 -117.216743,49.580652,0 -117.216219,49.580818,0 -117.214351,49.581229,0 -117.21406,49.58135,0 -117.21383,49.581512,0 -117.213655,49.581715,0 -117.213176,49.58245,0 -117.213025,49.582683,0 -117.21272,49.582957,0 -117.212279,49.583189,0 -117.211757,49.583355,0 -117.210832,49.583653,0 -117.210019,49.584039,0 -117.209401,49.584417,0 -117.208773,49.584799,0 -117.208136,49.585072,0 -117.207935,49.585159,0 -117.20713,49.585361,0 -117.206973,49.585386,0 -117.206289,49.585496,0 -117.205015,49.585701,0 -117.204101,49.585848,0 -117.202139,49.586161,0 -117.201798,49.586255,0 -117.201492,49.586376,0 -117.200961,49.58673,0 -117.200023,49.587503,0 -117.199939,49.587614,0 -117.199411,49.588314,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, in both directions. Bridge maintenance at Alex Fraser Bridge (Delta). Until Sun Jun 29 a</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-29T06:30:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.943309,49.160815,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 17 (Patricia Bay Highway). Utility work between Old East Rd and Exit 18: Keating Cross Rd fo</name>
@@ -4503,7 +4503,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. Special event planned at Stanley Park Dr (Vancouver). Starting Sun J</name>
+          <name>Highway 99, in both directions. Special event at Stanley Park Dr (Vancouver). Until Sun Jun 29 at 8:</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4513,7 +4513,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Stanley Park Dr&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-26T16:20:45-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-29T06:30:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
