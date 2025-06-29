@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-06-29 17:01:42 UTC
+        Last updated: 2025-06-29 17:34:05 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2169,6 +2169,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 8. Construction work planned between the start of Highway 8 and Porcupine Ridge Rd for 0.5 k</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 8&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 8 and Porcupine Ridge Rd for 0.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-29T10:06:55-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.271146,50.389233,0 -121.270763,50.389172,0 -121.268247,50.38877,0 -121.268018,50.388734,0 -121.267335,50.388592,0 -121.26665,50.388404,0 -121.266271,50.388225,0 -121.266247,50.388203,0 -121.266081,50.388052,0 -121.265949,50.387798,0 -121.265933,50.387658,0 -121.265941,50.387586,0 -121.265963,50.387405,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 5, in both directions. Shoulder maintenance between Allen-Meeker Rd and Thuya Creek Rd for 4</name>
           <description>
         &lt;![CDATA[
@@ -3926,26 +3947,6 @@
             <tessellate>1</tessellate>
             <coordinates>-117.222672,49.578726,0 -117.222456,49.578854,0 -117.222096,49.578969,0 -117.221746,49.579028,0 -117.2215,49.579043,0 -117.219969,49.57915,0 -117.219405,49.57924,0 -117.218793,49.579395,0 -117.218109,49.579766,0 -117.21739,49.580306,0 -117.216743,49.580652,0 -117.216219,49.580818,0 -117.214351,49.581229,0 -117.21406,49.58135,0 -117.21383,49.581512,0 -117.213655,49.581715,0 -117.213176,49.58245,0 -117.213025,49.582683,0 -117.21272,49.582957,0 -117.212279,49.583189,0 -117.211757,49.583355,0 -117.210832,49.583653,0 -117.210019,49.584039,0 -117.209401,49.584417,0 -117.208773,49.584799,0 -117.208136,49.585072,0 -117.207935,49.585159,0 -117.20713,49.585361,0 -117.206973,49.585386,0 -117.206289,49.585496,0 -117.205015,49.585701,0 -117.204101,49.585848,0 -117.202139,49.586161,0 -117.201798,49.586255,0 -117.201492,49.586376,0 -117.200961,49.58673,0 -117.200023,49.587503,0 -117.199939,49.587614,0 -117.199411,49.588314,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, in both directions. Bridge maintenance at Alex Fraser Bridge (Delta). Until Sun Jun 29 a</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-29T06:30:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.943309,49.160815,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 17 (Patricia Bay Highway). Utility work between Old East Rd and Exit 18: Keating Cross Rd fo</name>
