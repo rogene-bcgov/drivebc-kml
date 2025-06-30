@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-06-30 16:02:01 UTC
+        Last updated: 2025-06-30 16:38:46 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (212)</name>
+      <name>🚗 Traffic Events (213)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1544,27 +1544,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Tappen Beach Rd and 6</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Tappen Beach Rd and 65 Ave NW for 2.6 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-16T00:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.337813,50.767105,0 -119.337633,50.766477,0 -119.337511,50.766239,0 -119.337058,50.765789,0 -119.335429,50.764749,0 -119.334612,50.764189,0 -119.333886,50.763578,0 -119.333709,50.763365,0 -119.331727,50.761581,0 -119.331217,50.761226,0 -119.330665,50.760914,0 -119.330097,50.760635,0 -119.328438,50.759941,0 -119.327612,50.759489,0 -119.326714,50.758796,0 -119.325591,50.757727,0 -119.325337,50.757329,0 -119.325126,50.75671,0 -119.324975,50.754194,0 -119.324993,50.753578,0 -119.325431,50.751691,0 -119.325455,50.750771,0 -119.325446,50.750548,0 -119.325442,50.750456,0 -119.32532,50.750019,0 -119.324906,50.749358,0 -119.324107,50.748371,0 -119.323732,50.747919,0 -119.323636,50.747802,0 -119.32332,50.747243,0 -119.323273,50.747159,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 29, in both directions. Utility work between Bullmoose Rd and Lone Prairie Rd for 3.7 km (13</name>
           <description>
         &lt;![CDATA[
@@ -2143,6 +2122,48 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.29849,50.41143,0 -121.29842,50.411418,0 -121.298386,50.411407,0 -121.298145,50.411328,0 -121.297785,50.411211,0 -121.297081,50.410884,0 -121.296758,50.410737,0 -121.296731,50.410725,0 -121.296604,50.410643,0 -121.2962,50.410382,0 -121.295481,50.409794,0 -121.295236,50.409535,0 -121.294826,50.40902,0 -121.294838,50.408913,0 -121.294734,50.408711,0 -121.29464,50.408234,0 -121.294665,50.408112,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), southbound. Mowing between Oyster Sto-Lo Rd and Edgelow Rd N for 9.</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Edgelow Rd N and Oyster Sto-Lo Rd for 9.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T09:10:05-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.778796,48.954998,0 -123.779415,48.95759,0 -123.779467,48.95781,0 -123.779498,48.957942,0 -123.779837,48.959367,0 -123.780086,48.96013,0 -123.780606,48.961177,0 -123.78125,48.962123,0 -123.781868,48.962819,0 -123.782446,48.963369,0 -123.782649,48.963534,0 -123.783149,48.963942,0 -123.783769,48.964387,0 -123.787564,48.966668,0 -123.789807,48.968228,0 -123.790308,48.968578,0 -123.79079,48.968914,0 -123.798032,48.974177,0 -123.799995,48.975603,0 -123.800026,48.975626,0 -123.801122,48.976568,0 -123.801888,48.977348,0 -123.802145,48.977612,0 -123.802207,48.977675,0 -123.802432,48.977914,0 -123.803039,48.978558,0 -123.804475,48.980081,0 -123.804627,48.980243,0 -123.804892,48.98064,0 -123.804903,48.980657,0 -123.805049,48.980876,0 -123.80506,48.98092,0 -123.805135,48.981238,0 -123.805179,48.981425,0 -123.805242,48.982223,0 -123.805244,48.982245,0 -123.805295,48.982891,0 -123.805392,48.983294,0 -123.805615,48.983717,0 -123.805949,48.984164,0 -123.806317,48.984528,0 -123.808607,48.986426,0 -123.808919,48.986753,0 -123.80915,48.987078,0 -123.809339,48.987464,0 -123.809537,48.988069,0 -123.809876,48.989114,0 -123.810288,48.98988,0 -123.810521,48.990175,0 -123.810877,48.990624,0 -123.811351,48.99108,0 -123.811917,48.991521,0 -123.813912,48.992862,0 -123.814462,48.993231,0 -123.814902,48.993527,0 -123.815883,48.994199,0 -123.816863,48.994872,0 -123.817853,48.995551,0 -123.818059,48.995691,0 -123.818826,48.996214,0 -123.820512,48.997362,0 -123.820872,48.997556,0 -123.821348,48.997812,0 -123.82211,48.998088,0 -123.824224,48.998636,0 -123.824485,48.998703,0 -123.824609,48.998735,0 -123.825039,48.998842,0 -123.826647,48.999239,0 -123.827515,48.999527,0 -123.827571,48.999554,0 -123.827777,48.999653,0 -123.828438,48.999971,0 -123.828499,49.000012,0 -123.829099,49.000412,0 -123.829139,49.000445,0 -123.830524,49.001574,0 -123.831802,49.002624,0 -123.833112,49.003702,0 -123.833592,49.004252,0 -123.834056,49.00511,0 -123.834135,49.005461,0 -123.834318,49.006269,0 -123.834479,49.00698,0 -123.834767,49.007596,0 -123.835187,49.008112,0 -123.835616,49.00853,0 -123.836134,49.008903,0 -123.836239,49.008979,0 -123.837572,49.009664,0 -123.839605,49.010711,0 -123.840579,49.011117,0 -123.841093,49.011323,0 -123.841799,49.011555,0 -123.84386,49.012192,0 -123.843939,49.012216,0 -123.846243,49.012929,0 -123.850289,49.01418,0 -123.850615,49.014281,0 -123.85092,49.014376,0 -123.851966,49.014699,0 -123.853219,49.015087,0 -123.853504,49.015175,0 -123.853862,49.015287,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Tappen Beach Rd and 6</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Tappen Beach Rd and 65 Ave NW for 2.6 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T09:19:56-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.337813,50.767105,0 -119.337633,50.766477,0 -119.337511,50.766239,0 -119.337058,50.765789,0 -119.335429,50.764749,0 -119.334612,50.764189,0 -119.333886,50.763578,0 -119.333709,50.763365,0 -119.331727,50.761581,0 -119.331217,50.761226,0 -119.330665,50.760914,0 -119.330097,50.760635,0 -119.328438,50.759941,0 -119.327612,50.759489,0 -119.326714,50.758796,0 -119.325591,50.757727,0 -119.325337,50.757329,0 -119.325126,50.75671,0 -119.324975,50.754194,0 -119.324993,50.753578,0 -119.325431,50.751691,0 -119.325455,50.750771,0 -119.325446,50.750548,0 -119.325442,50.750456,0 -119.32532,50.750019,0 -119.324906,50.749358,0 -119.324107,50.748371,0 -119.323732,50.747919,0 -119.323636,50.747802,0 -119.32332,50.747243,0 -119.323273,50.747159,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3833,7 +3854,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; 265 Road&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 214 and 216 near Dawson Creek&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-23T07:28:41-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T09:17:10-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
