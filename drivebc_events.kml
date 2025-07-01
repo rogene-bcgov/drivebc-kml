@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-01 21:33:39 UTC
+        Last updated: 2025-07-01 22:01:48 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (207)</name>
+      <name>🚗 Traffic Events (208)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3971,7 +3971,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between the start of Needles Ferry and Needles Ferry&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T13:21:09-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T14:45:47-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3981,7 +3981,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Upper Arrow Lake Ferry, westbound. 1 sailing wait between the end of Upper Arrow Lake Ferry and Uppe</name>
+          <name>Upper Arrow Lake Ferry, westbound. Road cleared at Upper Arrow Lake Ferry (Upper Arrow Lake). Ferry </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3990,14 +3990,14 @@
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Upper Arrow Lake Ferry and the end of Upper Arrow Lake Ferry&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T11:30:12-07:00&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Upper Arrow Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T14:47:17-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-117.902818,50.628952,0</coordinates>
+            <coordinates>-117.898614,50.629029,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4060,6 +4060,27 @@
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. There is a multi-vehicle incident between Pinantan Rd an</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Pinantan Rd and Stoney Flats Rd for 4.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T14:41:24-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.816746,50.685466,0 -119.81648,50.68568,0 -119.816229,50.685922,0 -119.815704,50.686515,0 -119.815364,50.686984,0 -119.814692,50.688199,0 -119.814422,50.688783,0 -119.814334,50.688973,0 -119.814307,50.689032,0 -119.813847,50.69001,0 -119.813209,50.690862,0 -119.8128,50.691317,0 -119.812446,50.691643,0 -119.811766,50.692215,0 -119.810195,50.693439,0 -119.808435,50.694726,0 -119.806536,50.695912,0 -119.803754,50.697196,0 -119.801533,50.698111,0 -119.800148,50.698804,0 -119.799752,50.699007,0 -119.797966,50.70009,0 -119.797127,50.700699,0 -119.796148,50.701398,0 -119.795966,50.701549,0 -119.794509,50.702962,0 -119.793439,50.704337,0 -119.792673,50.705317,0 -119.792583,50.705483,0 -119.791942,50.706661,0 -119.790922,50.708867,0 -119.789847,50.710487,0 -119.788982,50.711345,0 -119.787864,50.712199,0 -119.787281,50.712581,0 -119.782293,50.715842,0 -119.781741,50.716203,0 -119.780282,50.717157,0 -119.779907,50.717422,0 -119.779895,50.717416,0 -119.779865,50.717437,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between Wilgress Lake Rest Area and Granby Rd</name>
