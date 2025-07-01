@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-01 16:38:38 UTC
+        Last updated: 2025-07-01 17:02:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (200)</name>
+      <name>🚗 Traffic Events (201)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4001,6 +4001,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.425923,48.676514,0 -123.425812,48.676569,0 -123.425728,48.676609,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 37A, in both directions. Special event planned between Vancouver St and Conway St for 0.5 km</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 37A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Vancouver St and Conway St for 0.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T09:47:19-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-129.997555,55.936141,0 -129.995418,55.936092,0 -129.993261,55.936057,0 -129.991047,55.936006,0 -129.988844,55.935954,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
