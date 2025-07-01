@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-06-30 23:33:35 UTC
+        Last updated: 2025-07-01 00:07:56 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (207)</name>
+      <name>🚗 Traffic Events (208)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3775,26 +3775,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>SW Marine Drive, westbound. Stalled vehicle at 41st Ave in Vancouver. Right lane is blocked. Next up</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; SW Marine Drive&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At 41st Ave in Vancouver&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T16:01:02-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.196769,49.234854,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. </name>
           <description>
         &lt;![CDATA[
@@ -4040,6 +4020,46 @@
             <tessellate>1</tessellate>
             <coordinates>-119.720014,50.775039,0 -119.716763,50.777823,0 -119.715267,50.779436,0 -119.714735,50.780038,0 -119.714402,50.78048,0 -119.714155,50.780798,0 -119.713891,50.78116,0 -119.713799,50.781182,0 -119.713413,50.781763,0 -119.712919,50.782547,0 -119.711302,50.78528,0 -119.711095,50.785578,0 -119.710905,50.785831,0 -119.710718,50.786049,0 -119.710528,50.786262,0 -119.710142,50.786594,0 -119.709828,50.786827,0 -119.708768,50.78748,0 -119.70826,50.787719,0 -119.707811,50.787895,0 -119.707496,50.788066,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Road cleared at Exit 36: Westminster Hwy (Richmond). Last updated Mon Jun 30</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 36: Westminster Hwy&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T16:45:04-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.086899,49.170362,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, westbound. Road cleared between No 8 Rd and No 7 Rd (Richmond). Last updated Mon Jun 30 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between No 7 Rd and No 8 Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T16:54:58-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.027197,49.177176,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Upper Arrow Lake Ferry, westbound. 1 sailing wait between Galena Bay and Shelter Bay. Approximately </name>
