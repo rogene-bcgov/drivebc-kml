@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-01 20:01:59 UTC
+        Last updated: 2025-07-01 20:35:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (201)</name>
+      <name>🚗 Traffic Events (204)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2144,6 +2144,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Nisga'a Hwy (Highway 113), in both directions. Line painting between Halliwell Ave and Highway 16 fo</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Nisga'a Hwy&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Halliwell Ave and Highway 16 for 2.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T13:18:22-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-128.631943,54.535769,0 -128.631796,54.535295,0 -128.631764,54.534976,0 -128.631759,54.534926,0 -128.631844,54.534689,0 -128.632063,54.534377,0 -128.632395,54.534065,0 -128.63244,54.534031,0 -128.632902,54.533689,0 -128.633622,54.533261,0 -128.635095,54.532384,0 -128.636313,54.531659,0 -128.636525,54.531462,0 -128.636687,54.531199,0 -128.636792,54.528619,0 -128.636924,54.525174,0 -128.636928,54.525061,0 -128.637008,54.523083,0 -128.637051,54.521815,0 -128.63685,54.52158,0 -128.636617,54.521457,0 -128.636376,54.521412,0 -128.636248,54.521389,0 -128.634621,54.521361,0 -128.634013,54.521307,0 -128.633195,54.52104,0 -128.632563,54.520834,0 -128.63218,54.520768,0 -128.631816,54.520776,0 -128.631504,54.520836,0 -128.630859,54.521106,0 -128.630845,54.521112,0 -128.630832,54.521117,0 -128.630408,54.52125,0 -128.629944,54.521312,0 -128.629418,54.521321,0 -128.628887,54.521258,0 -128.628413,54.521118,0 -128.625602,54.51993,0 -128.624574,54.519607,0 -128.624242,54.519459,0 -128.624004,54.51929,0 -128.623844,54.519069,0 -128.623835,54.519023,0 -128.623797,54.518822,0 -128.62384,54.518164,0 -128.62387,54.51762,0 -128.623885,54.51746,0 -128.623915,54.51718,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 29. Utility work planned between W Centennial Access and Lakeshore Dr for 0.8 km (23 to 24 k</name>
           <description>
         &lt;![CDATA[
@@ -2183,6 +2204,48 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.750283,49.474351,0 -123.749552,49.474374,0 -123.749169,49.474353,0 -123.748855,49.474296,0 -123.748385,49.474217,0 -123.748215,49.474124,0 -123.748152,49.474093,0 -123.747864,49.473821,0 -123.747438,49.473351,0 -123.747314,49.473218,0 -123.747162,49.473081,0 -123.747116,49.472948,0 -123.746924,49.472786,0 -123.74673,49.472682,0 -123.746554,49.472588,0 -123.744925,49.472056,0 -123.744117,49.471832,0 -123.743359,49.471622,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Line painting between Eby St and Tetrault St fo</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Eby St and Tetrault St for 0.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T13:16:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-128.59631,54.515672,0 -128.596367,54.515252,0 -128.596436,54.514747,0 -128.596543,54.514008,0 -128.596539,54.513518,0 -128.596548,54.513277,0 -128.596411,54.513275,0 -128.595955,54.513269,0 -128.594689,54.513252,0 -128.594485,54.513249,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), westbound. Line painting between Budds Rd and McBride Timber Rd for</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between McBride Timber Rd and Budds Rd for 2.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T13:30:12-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.020981,53.814793,0 -123.020286,53.814332,0 -123.019178,53.813596,0 -123.019093,53.813539,0 -123.017273,53.812328,0 -123.01717,53.812259,0 -123.012608,53.809224,0 -123.011575,53.808698,0 -123.010432,53.808298,0 -123.009276,53.808042,0 -123.008159,53.807905,0 -123.006905,53.807854,0 -123.00303,53.808187,0 -122.995018,53.808876,0 -122.994818,53.808885,0 -122.994617,53.808893,0 -122.994001,53.808919,0 -122.991825,53.808887,0 -122.9913,53.80886,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3825,7 +3888,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between the start of Needles Ferry and Needles Ferry&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T11:25:06-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-01T13:21:09-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
