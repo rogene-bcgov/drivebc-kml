@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-02 14:01:52 UTC
+        Last updated: 2025-07-02 14:36:09 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (209)</name>
+      <name>🚗 Traffic Events (211)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1628,6 +1628,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 52 E. There will be ditching between Kelly Lake Rd and Stone Creek Rd (97 km east of Tumbler</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 52 E&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Kelly Lake Rd and Stone Creek Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T07:16:43-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.230886,55.137115,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Deltaport Way, eastbound. Paving operations planned between 41b Street and Arthur Drive in Delta. St</name>
           <description>
         &lt;![CDATA[
@@ -1667,6 +1687,26 @@
             <tessellate>1</tessellate>
             <coordinates>-123.934292,49.161992,0 -123.934288,49.16279,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>003 Rolla. Road maintenance work between Blackfoot Rd and Golata Creek Rd. Until Wed Jul 2 at 4:00 P</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; 003 Rolla&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Blackfoot Rd and Golata Creek Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T07:21:35-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.056681,56.12176,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Horne Lake Rd, in both directions. Utility work planned between Whistler Rd and Leon Rd. Starting Mo</name>
