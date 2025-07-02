@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-02 17:02:28 UTC
+        Last updated: 2025-07-02 17:35:07 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (218)</name>
+      <name>🚗 Traffic Events (220)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1008,6 +1008,46 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Main St, in both directions. Utility work between Helen Rd and Peninsula Rd. Until Thu Jul 3 at 5:00</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Main St&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Helen Rd and Peninsula Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:09:36-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-125.546352,48.941844,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, in both directions. Bridge maintenance at Avola Overhead Bridge (Avola). Until Wed Jul 2 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Avola Overhead Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:23:22-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.321243,51.785818,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 5 (Coquihalla South), southbound. Utility work planned between Exit 192 and Exit 183: Othell</name>
           <description>
         &lt;![CDATA[
@@ -1039,14 +1079,14 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T09:59:06-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:03:10-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-119.000848,50.833265,0 -119.000039,50.833698,0 -118.998848,50.834335,0 -118.998522,50.834467,0 -118.998205,50.834596,0 -118.997539,50.834811,0 -118.995559,50.835278,0 -118.994713,50.835651,0 -118.994491,50.835756,0 -118.993768,50.836101,0 -118.993498,50.83624,0 -118.992999,50.836498,0 -118.992683,50.836644,0 -118.991655,50.837119,0 -118.989837,50.837844,0 -118.98951,50.837975,0 -118.98646,50.839194,0 -118.985835,50.839416,0 -118.985107,50.839596,0 -118.984544,50.839692,0 -118.983899,50.839768,0 -118.98341,50.839808,0 -118.982689,50.83981,0 -118.98195,50.839768,0 -118.981172,50.839674,0 -118.980465,50.839542,0 -118.979419,50.839247,0 -118.977338,50.838359,0 -118.977251,50.838279,0 -118.976874,50.838157,0 -118.976766,50.83813,0 -118.976392,50.838035,0 -118.97638,50.838033,0</coordinates>
+            <coordinates>-119.000848,50.833265,0 -119.000039,50.833698,0 -118.998848,50.834335,0 -118.998522,50.834467,0 -118.998205,50.834596,0 -118.997539,50.834811,0 -118.995559,50.835278,0 -118.994713,50.835651,0 -118.994491,50.835756,0 -118.993768,50.836101,0 -118.993498,50.83624,0 -118.992999,50.836498,0 -118.992683,50.836644,0 -118.991655,50.837119,0 -118.989837,50.837844,0 -118.98951,50.837975,0 -118.98646,50.839194,0 -118.985835,50.839416,0 -118.985107,50.839596,0 -118.984544,50.839692,0 -118.983899,50.839768,0 -118.98341,50.839808,0 -118.982689,50.83981,0 -118.98195,50.839768,0 -118.981172,50.839674,0 -118.980465,50.839542,0 -118.979419,50.839247,0 -118.977338,50.838359,0 -118.977251,50.838279,0 -118.976874,50.838157,0 -118.976766,50.83813,0 -118.976392,50.838035,0 -118.976379,50.838033,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -1331,8 +1371,8 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Old Alaska Highway&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Kiskatinaw Curved Bridge 30 km north of Dawson Creek&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-01-02T10:37:04-08:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:05:31-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
           <styleUrl>#style_CONSTRUCTION</styleUrl>
@@ -3256,7 +3296,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 8&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-27T14:23:58-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:25:48-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
