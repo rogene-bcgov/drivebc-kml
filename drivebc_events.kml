@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-02 16:38:43 UTC
+        Last updated: 2025-07-02 17:02:28 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (216)</name>
+      <name>🚗 Traffic Events (218)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -134,7 +134,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Chappell Creek Rec Site&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T10:09:19-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T09:48:21-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -802,6 +802,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Maintenance between Retta Lake Rd and Brew Creek Rd for 0.6 km (4 km south o</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Retta Lake Rd and Brew Creek Rd for 0.6 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T09:42:01-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.13192,50.005247,0 -123.131654,50.005658,0 -123.13132,50.006005,0 -123.130809,50.006437,0 -123.130203,50.006816,0 -123.127487,50.008519,0 -123.126829,50.008931,0 -123.12651,50.009198,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 29, in both directions. Road maintenance work between Szoo Rd and Watson Rd for 6.2 km (52 t</name>
           <description>
         &lt;![CDATA[
@@ -884,6 +905,26 @@
             <tessellate>1</tessellate>
             <coordinates>-125.44128,49.976801,0 -125.440664,49.977209,0 -125.440489,49.977282,0 -125.439923,49.977519,0 -125.438361,49.978173,0 -125.438017,49.978371,0 -125.436292,49.979821,0 -125.436014,49.980112,0 -125.435936,49.980327,0 -125.435927,49.980565,0 -125.435981,49.980741,0 -125.436098,49.980919,0 -125.437057,49.982385,0 -125.437237,49.982921,0 -125.437175,49.983175,0 -125.437075,49.983349,0 -125.436857,49.983513,0 -125.436654,49.983617,0 -125.436055,49.983765,0 -125.434169,49.984085,0 -125.432568,49.984302,0 -125.43146,49.984362,0 -125.429823,49.984371,0 -125.428579,49.984407,0 -125.428054,49.984475,0 -125.427309,49.98466,0 -125.425715,49.985304,0 -125.424525,49.985707,0 -125.424265,49.98583,0 -125.423689,49.986418,0 -125.423584,49.986497,0 -125.42345,49.986599,0 -125.423216,49.98672,0 -125.422663,49.986901,0 -125.421886,49.987042,0 -125.420821,49.98714,0 -125.419807,49.987174,0 -125.414732,49.987218,0 -125.413985,49.98729,0 -125.413823,49.987305,0 -125.413225,49.98741,0 -125.412641,49.987568,0 -125.412169,49.987735,0 -125.411786,49.987922,0 -125.411453,49.988138,0 -125.410864,49.988611,0 -125.410285,49.988994,0 -125.410114,49.989047,0 -125.409876,49.989072,0 -125.409667,49.98905,0 -125.409437,49.988994,0 -125.409196,49.988854,0 -125.409087,49.988736,0 -125.408233,49.987472,0 -125.40776,49.987088,0 -125.406951,49.986607,0 -125.40673,49.98651,0 -125.405497,49.986114,0 -125.405057,49.986002,0 -125.404672,49.986011,0 -125.404052,49.986178,0 -125.403105,49.986604,0 -125.402623,49.986758,0 -125.401994,49.9869,0 -125.401667,49.987082,0 -125.401504,49.987257,0 -125.401228,49.987813,0 -125.401205,49.987861,0 -125.400902,49.988152,0 -125.400697,49.988282,0 -125.400426,49.988387,0 -125.400043,49.988467,0 -125.400011,49.988474,0 -125.399529,49.988486,0 -125.398317,49.988366,0 -125.397728,49.988256,0 -125.397351,49.988128,0 -125.397092,49.987992,0 -125.395509,49.986981,0 -125.395006,49.986699,0 -125.394694,49.986563,0 -125.39426,49.98642,0 -125.390087,49.9854,0 -125.387537,49.984887,0 -125.386974,49.984715,0 -125.386765,49.984651,0 -125.385388,49.984056,0 -125.38473,49.98385,0 -125.3844,49.983816,0 -125.383695,49.983872,0 -125.382824,49.983857,0 -125.382091,49.98389,0 -125.381005,49.983987,0 -125.3807,49.984057,0 -125.380478,49.984171,0 -125.380301,49.984311,0 -125.380206,49.9845,0 -125.380203,49.984751,0 -125.380157,49.984875,0 -125.380094,49.985041,0 -125.379935,49.985247,0 -125.379428,49.985618,0 -125.379289,49.98581,0 -125.379238,49.986014,0 -125.379278,49.986219,0 -125.379672,49.986852,0 -125.381465,49.989455,0 -125.38165,49.989807,0 -125.381862,49.990434,0 -125.381967,49.990933,0 -125.38199,49.99128,0 -125.381935,49.991908,0 -125.381932,49.991936,0 -125.381682,49.99237,0 -125.380724,49.993628,0 -125.380602,49.993992,0 -125.38057,49.994284,0 -125.380635,49.99453,0 -125.381138,49.995509,0 -125.381183,49.995869,0 -125.381087,49.996399,0 -125.380902,49.99664,0 -125.380684,49.996859,0 -125.380367,49.997086,0 -125.37994,49.997261,0 -125.379298,49.997482,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Squilax Anglemont Rd. Bridge maintenance between Talana Bay Dr and Jack Trotter Rd. Until Wed Jul 2 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Squilax Anglemont Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Talana Bay Dr and Jack Trotter Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.412155,50.931633,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Kitsuksis Rd., in both directions. Utility work between Short st. And Spruce St. Until Fri Oct 31 at</name>
@@ -998,14 +1039,14 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-25T15:16:33-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T09:59:06-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-119.000848,50.833265,0 -119.000039,50.833698,0 -118.998848,50.834335,0 -118.998522,50.834467,0 -118.998205,50.834596,0 -118.997539,50.834811,0 -118.995559,50.835278,0 -118.994713,50.835651,0 -118.994491,50.835756,0 -118.993768,50.836101,0 -118.993498,50.83624,0 -118.992999,50.836498,0 -118.992683,50.836644,0 -118.991655,50.837119,0 -118.989837,50.837844,0 -118.98951,50.837975,0 -118.98646,50.839194,0 -118.985835,50.839416,0 -118.985107,50.839596,0 -118.984544,50.839692,0 -118.983899,50.839768,0 -118.98341,50.839808,0 -118.982689,50.83981,0 -118.98195,50.839768,0 -118.981172,50.839674,0 -118.980465,50.839542,0 -118.979419,50.839247,0 -118.977338,50.838359,0 -118.977251,50.838279,0 -118.976874,50.838157,0 -118.976766,50.83813,0 -118.976392,50.838035,0 -118.976379,50.838033,0</coordinates>
+            <coordinates>-119.000848,50.833265,0 -119.000039,50.833698,0 -118.998848,50.834335,0 -118.998522,50.834467,0 -118.998205,50.834596,0 -118.997539,50.834811,0 -118.995559,50.835278,0 -118.994713,50.835651,0 -118.994491,50.835756,0 -118.993768,50.836101,0 -118.993498,50.83624,0 -118.992999,50.836498,0 -118.992683,50.836644,0 -118.991655,50.837119,0 -118.989837,50.837844,0 -118.98951,50.837975,0 -118.98646,50.839194,0 -118.985835,50.839416,0 -118.985107,50.839596,0 -118.984544,50.839692,0 -118.983899,50.839768,0 -118.98341,50.839808,0 -118.982689,50.83981,0 -118.98195,50.839768,0 -118.981172,50.839674,0 -118.980465,50.839542,0 -118.979419,50.839247,0 -118.977338,50.838359,0 -118.977251,50.838279,0 -118.976874,50.838157,0 -118.976766,50.83813,0 -118.976392,50.838035,0 -118.97638,50.838033,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -1567,26 +1608,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Reschke Rd, in both directions. Utility work planned between Chapman Rd and Lesage Rd. Starting Wed </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Reschke Rd&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Chapman Rd and Lesage Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-24T11:27:04-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.856262,56.064413,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Cobble Hill Rd, in both directions. Utility work between Hutchinson Rd and Fisher Rd. Until Mon Jul </name>
           <description>
         &lt;![CDATA[
@@ -1604,6 +1625,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.604077,48.687089,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Reschke Rd, in both directions. Utility work between Chapman Rd and Lesage Rd. Until Wed Jul 2 at 5:</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Reschke Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Chapman Rd and Lesage Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.856262,56.064413,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -3246,27 +3287,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 5A, in both directions. Electrical maintenance planned between Exit 290: Highway 5 and Monck</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 5A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 290: Highway 5 and Monck Park Rd for 7.8 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-18T13:49:48-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.755724,50.122719,0 -120.755566,50.1227,0 -120.755441,50.122685,0 -120.754817,50.12263,0 -120.754304,50.122674,0 -120.753695,50.122787,0 -120.753272,50.122953,0 -120.752977,50.123116,0 -120.752744,50.123244,0 -120.752402,50.123511,0 -120.752084,50.123823,0 -120.751765,50.124133,0 -120.751375,50.124512,0 -120.751098,50.124783,0 -120.750626,50.12513,0 -120.750146,50.1254,0 -120.749061,50.125749,0 -120.743153,50.127635,0 -120.742716,50.127774,0 -120.741699,50.128127,0 -120.738886,50.129443,0 -120.735708,50.130929,0 -120.733457,50.131983,0 -120.732007,50.132773,0 -120.728906,50.134461,0 -120.727222,50.135378,0 -120.72512,50.136521,0 -120.724743,50.136727,0 -120.721783,50.138222,0 -120.718781,50.139738,0 -120.713209,50.142825,0 -120.713138,50.14286,0 -120.708395,50.145149,0 -120.701777,50.148632,0 -120.701467,50.148795,0 -120.700646,50.149367,0 -120.699764,50.150154,0 -120.699019,50.150886,0 -120.69458,50.154521,0 -120.693892,50.155006,0 -120.692599,50.155588,0 -120.692185,50.155774,0 -120.687051,50.157907,0 -120.67975,50.161483,0 -120.677807,50.162423,0 -120.677417,50.162611,0 -120.676223,50.163188,0 -120.67601,50.163263,0 -120.675894,50.163304,0 -120.675575,50.163369,0 -120.675157,50.163403,0 -120.674143,50.16339,0 -120.671407,50.163298,0 -120.670509,50.163268,0 -120.669986,50.163248,0 -120.669831,50.163242,0 -120.669665,50.163235,0 -120.669294,50.163221,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Pacific Marine Road, in both directions. Road construction work between Deering Road and South Shore</name>
           <description>
         &lt;![CDATA[
@@ -3285,6 +3305,27 @@
           <Point>
             <coordinates>-124.235315,48.640848,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5A, in both directions. Electrical maintenance between Exit 290: Highway 5 and Monck Park Rd</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 290: Highway 5 and Monck Park Rd for 7.8 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.755724,50.122719,0 -120.755566,50.1227,0 -120.755441,50.122685,0 -120.754817,50.12263,0 -120.754304,50.122674,0 -120.753695,50.122787,0 -120.753272,50.122953,0 -120.752977,50.123116,0 -120.752744,50.123244,0 -120.752402,50.123511,0 -120.752084,50.123823,0 -120.751765,50.124133,0 -120.751375,50.124512,0 -120.751098,50.124783,0 -120.750626,50.12513,0 -120.750146,50.1254,0 -120.749061,50.125749,0 -120.743153,50.127635,0 -120.742716,50.127774,0 -120.741699,50.128127,0 -120.738886,50.129443,0 -120.735708,50.130929,0 -120.733457,50.131983,0 -120.732007,50.132773,0 -120.728906,50.134461,0 -120.727222,50.135378,0 -120.72512,50.136521,0 -120.724743,50.136727,0 -120.721783,50.138222,0 -120.718781,50.139738,0 -120.713209,50.142825,0 -120.713138,50.14286,0 -120.708395,50.145149,0 -120.701777,50.148632,0 -120.701467,50.148795,0 -120.700646,50.149367,0 -120.699764,50.150154,0 -120.699019,50.150886,0 -120.69458,50.154521,0 -120.693892,50.155006,0 -120.692599,50.155588,0 -120.692185,50.155774,0 -120.687051,50.157907,0 -120.67975,50.161483,0 -120.677807,50.162423,0 -120.677417,50.162611,0 -120.676223,50.163188,0 -120.67601,50.163263,0 -120.675894,50.163304,0 -120.675575,50.163369,0 -120.675157,50.163403,0 -120.674143,50.16339,0 -120.671407,50.163298,0 -120.670509,50.163268,0 -120.669986,50.163248,0 -120.669831,50.163242,0 -120.669665,50.163235,0 -120.669294,50.163221,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 9, northbound. Utility work planned between McDonald Rd and Park St for 0.8 km (Kent). Start</name>
@@ -3727,7 +3768,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Allan Creek Rec Site&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T10:09:34-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T09:47:45-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
