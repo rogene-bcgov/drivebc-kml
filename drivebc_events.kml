@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-03 19:01:37 UTC
+        Last updated: 2025-07-03 19:31:29 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3904,27 +3904,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Maintenance planned between Exit 165: Flood Rd and Exit </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 165: Flood Rd and Exit 168: Flood Hope Rd for 3.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-03T11:30:30-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.520452,49.363727,0 -121.518769,49.362793,0 -121.517464,49.362104,0 -121.516978,49.361881,0 -121.515905,49.361475,0 -121.514658,49.361234,0 -121.51357,49.361144,0 -121.512874,49.361138,0 -121.511373,49.361283,0 -121.498905,49.362855,0 -121.487315,49.364239,0 -121.486437,49.364275,0 -121.483217,49.364406,0 -121.478286,49.364533,0 -121.478115,49.364537,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Exit 90: McCallum </name>
           <description>
         &lt;![CDATA[
@@ -4045,6 +4024,26 @@
             <tessellate>1</tessellate>
             <coordinates>-121.296354,51.650034,0 -121.296237,51.650347,0 -121.295939,51.651152,0 -121.295318,51.652262,0 -121.295344,51.652353,0 -121.294901,51.653079,0 -121.294214,51.654203,0 -121.293879,51.654599,0 -121.293402,51.655038,0 -121.292688,51.655515,0 -121.292333,51.655689,0 -121.291995,51.655855,0 -121.291198,51.656141,0 -121.289558,51.656731,0 -121.289527,51.656746,0 -121.288892,51.657055,0 -121.288311,51.657475,0 -121.287826,51.657973,0 -121.287808,51.658002,0 -121.287596,51.658345,0 -121.287571,51.658385,0 -121.287403,51.658797,0 -121.287323,51.659278,0 -121.287382,51.659776,0 -121.287578,51.660342,0 -121.289393,51.66401,0 -121.289666,51.664563,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Maintenance planned at Exit 165: Flood Rd (Hope). Starti</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 165: Flood Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-03T12:01:58-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.520452,49.363727,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5, in both directions. Road construction work at Allan Creek Rec Site (36 km south of Valemo</name>
