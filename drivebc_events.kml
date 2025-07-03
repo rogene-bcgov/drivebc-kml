@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-03 20:02:09 UTC
+        Last updated: 2025-07-03 20:35:03 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (237)</name>
+      <name>🚗 Traffic Events (238)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4746,23 +4746,43 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 15 (Pacific Highway), southbound. Vehicle incident between 92 Ave and 88 Ave (Surrey). Left </name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Bradner Rd and Exit 73 (Langley</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 88 Ave and 92 Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-03T12:45:59-07:00&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 73 and Bradner Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-03T12:59:15-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-122.734626,49.165493,0</coordinates>
+            <coordinates>-122.474355,49.094067,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Upper Arrow Lake Ferry, in both directions. 1 sailing wait between Shelter Bay and Galena Bay. Curre</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Shelter Bay and Galena Bay&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-03T13:02:54-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-117.900229,50.628999,0</coordinates>
           </Point>
         </Placemark>
       </Folder>
