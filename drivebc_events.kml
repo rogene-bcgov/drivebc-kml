@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-03 04:09:15 UTC
+        Last updated: 2025-07-03 04:40:43 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (223)</name>
+      <name>🚗 Traffic Events (224)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -633,27 +633,6 @@
           <Point>
             <coordinates>-122.366125,53.095279,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 15 (Pacific Highway), northbound. Paving operations planned between 48 Ave and 176 St for 0.</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 48 Ave and 176 St for 0.9 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-26T06:36:29-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.735059,49.089583,0 -122.734988,49.096229,0 -122.734985,49.096567,0 -122.735052,49.097136,0 -122.735088,49.097224,0 -122.735173,49.097433,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 7 (Lougheed Highway), eastbound. Industrial traffic may slow or block regular traffic. Betwe</name>
@@ -1257,6 +1236,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 10, eastbound. Paving operations at 172 St (Surrey). Until Fri Jul 4 at 5:00 AM PDT. From 9:</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At 172 St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T21:30:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.746089,49.104105,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97, southbound. Road construction work between Sandhill Rd and Pineview Dr (1 km south of Pe</name>
           <description>
         &lt;![CDATA[
@@ -1274,26 +1273,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-119.609537,49.450823,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 10, eastbound. Paving operations planned at 172 St (Surrey). Starting Wed Jul 2 at 9:30 PM P</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At 172 St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T08:06:13-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.746089,49.104105,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -2062,6 +2041,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 17, westbound. Crack sealing is underway between 104 Ave and 136 St for 8.7 km (Surrey). Unt</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 136 St and 104 Ave for 8.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T21:11:32-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.845251,49.213071,0 -122.844909,49.213059,0 -122.843955,49.213067,0 -122.84281,49.213142,0 -122.842142,49.213214,0 -122.84151,49.213299,0 -122.840609,49.213462,0 -122.839762,49.213659,0 -122.838202,49.214072,0 -122.837227,49.214281,0 -122.836485,49.214401,0 -122.835922,49.214465,0 -122.835371,49.214524,0 -122.834707,49.214561,0 -122.834205,49.214585,0 -122.833689,49.214584,0 -122.833218,49.214575,0 -122.832596,49.214543,0 -122.830114,49.214357,0 -122.82918,49.214306,0 -122.8283,49.214292,0 -122.826438,49.214324,0 -122.824682,49.214346,0 -122.823471,49.214389,0 -122.822299,49.214446,0 -122.820761,49.214526,0 -122.819346,49.214568,0 -122.818351,49.214586,0 -122.816928,49.214573,0 -122.816008,49.214549,0 -122.815035,49.214503,0 -122.814107,49.214445,0 -122.811764,49.214272,0 -122.811185,49.21423,0 -122.81104,49.214219,0 -122.810725,49.214196,0 -122.81058,49.214186,0 -122.810188,49.214157,0 -122.810076,49.21415,0 -122.809235,49.214066,0 -122.808208,49.213982,0 -122.807369,49.213887,0 -122.806561,49.213774,0 -122.805926,49.213671,0 -122.804003,49.213348,0 -122.802092,49.213027,0 -122.799535,49.212603,0 -122.798319,49.212402,0 -122.797452,49.21225,0 -122.796734,49.21213,0 -122.796025,49.212029,0 -122.795653,49.21198,0 -122.795109,49.211927,0 -122.794434,49.211875,0 -122.793944,49.211859,0 -122.793603,49.211848,0 -122.792397,49.211856,0 -122.791267,49.211898,0 -122.789376,49.211968,0 -122.788705,49.21198,0 -122.78787,49.211955,0 -122.787445,49.211935,0 -122.786727,49.211875,0 -122.784292,49.211608,0 -122.783648,49.211538,0 -122.782039,49.211363,0 -122.781401,49.211307,0 -122.78082,49.211265,0 -122.780076,49.211233,0 -122.779185,49.211209,0 -122.7778,49.211229,0 -122.776691,49.211276,0 -122.776104,49.211295,0 -122.775677,49.211299,0 -122.775074,49.211288,0 -122.774367,49.211231,0 -122.773681,49.21115,0 -122.773132,49.211067,0 -122.772479,49.210946,0 -122.77185,49.210801,0 -122.771812,49.21079,0 -122.77131,49.21065,0 -122.770732,49.210465,0 -122.770086,49.210225,0 -122.769496,49.209977,0 -122.7689,49.209696,0 -122.768194,49.209294,0 -122.767295,49.208762,0 -122.766594,49.208341,0 -122.765821,49.207895,0 -122.76268,49.206002,0 -122.761854,49.205497,0 -122.76107,49.205051,0 -122.758141,49.20344,0 -122.756485,49.202513,0 -122.754939,49.201648,0 -122.751737,49.199907,0 -122.74816,49.197976,0 -122.747516,49.197588,0 -122.746896,49.197178,0 -122.74641,49.196805,0 -122.745817,49.196304,0 -122.745086,49.195638,0 -122.744593,49.195214,0 -122.743174,49.194105,0 -122.742707,49.193807,0 -122.742026,49.193371,0 -122.741777,49.193212,0 -122.741413,49.192983,0 -122.741025,49.192764,0 -122.740459,49.192469,0 -122.739954,49.192207,0 -122.739652,49.192055,0 -122.738491,49.191487,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Construction work at Exit 73 (Langley - District). Until</name>
           <description>
         &lt;![CDATA[
@@ -2184,6 +2184,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.492836,49.096665,0 -122.492839,49.096796,0 -122.492864,49.098335,0 -122.492879,49.099233,0 -122.492862,49.099672,0 -122.49285,49.100002,0 -122.492829,49.100568,0 -122.492824,49.100708,0 -122.492813,49.101086,0 -122.49281,49.101178,0 -122.492806,49.101322,0 -122.4928,49.101819,0 -122.492798,49.101906,0 -122.492793,49.102066,0 -122.492785,49.102352,0 -122.492764,49.103516,0 -122.492757,49.103886,0 -122.49355,49.103908,0 -122.493854,49.103916,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Paving operations between 48 Ave and 176 St for 0.9 km (Su</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 48 Ave and 176 St for 0.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T21:30:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.735059,49.089583,0 -122.734988,49.096229,0 -122.734985,49.096567,0 -122.735052,49.097136,0 -122.735088,49.097224,0 -122.735173,49.097433,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
