@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-04 19:31:17 UTC
+        Last updated: 2025-07-04 20:01:58 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (231)</name>
+      <name>🚗 Traffic Events (232)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2466,7 +2466,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Jacobs Rd and 11th Ave for 1.8 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-03T14:24:18-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T12:39:56-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3200,6 +3200,27 @@
           <Point>
             <coordinates>-123.125318,49.32508,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>[Truncated] Highway 29, in both directions. Bridge maintenance planned between Monkman Way and Bullm</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Monkman Way and Bullmoose Rd for 0.6 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T12:52:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.016969,55.120746,0 -121.017129,55.12042,0 -121.017232,55.120213,0 -121.017606,55.119674,0 -121.017925,55.119335,0 -121.018098,55.119151,0 -121.018259,55.118979,0 -121.018462,55.118804,0 -121.018702,55.118597,0 -121.018776,55.118533,0 -121.019377,55.118118,0 -121.019783,55.117837,0 -121.020085,55.117683,0 -121.021229,55.1171,0 -121.021598,55.116965,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 7 (Lougheed Highway), in both directions. Construction work between Madaris Rd and Rowan Rd </name>
