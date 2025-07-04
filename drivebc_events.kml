@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-04 14:01:49 UTC
+        Last updated: 2025-07-04 14:35:33 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (215)</name>
+      <name>🚗 Traffic Events (217)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1067,6 +1067,27 @@
           <Point>
             <coordinates>-119.609537,49.450823,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Road sweeping between Morice River Rd and Morga</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Morice River Rd and Morgan Rd for 9.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T07:22:21-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-126.707682,54.391085,0 -126.707041,54.391049,0 -126.705987,54.390947,0 -126.702371,54.390598,0 -126.700778,54.390444,0 -126.695881,54.38992,0 -126.694299,54.389756,0 -126.693985,54.389722,0 -126.69045,54.389346,0 -126.686948,54.389012,0 -126.685753,54.388964,0 -126.684267,54.388987,0 -126.682556,54.389132,0 -126.680964,54.389363,0 -126.680051,54.38958,0 -126.678846,54.389913,0 -126.676542,54.390725,0 -126.671491,54.392506,0 -126.669676,54.393168,0 -126.668734,54.393501,0 -126.666604,54.394255,0 -126.661621,54.396023,0 -126.658814,54.397033,0 -126.657283,54.397576,0 -126.656016,54.39798,0 -126.653613,54.398333,0 -126.653353,54.398408,0 -126.65306,54.398507,0 -126.652849,54.398578,0 -126.65266,54.398642,0 -126.651441,54.399075,0 -126.650351,54.399463,0 -126.649106,54.399905,0 -126.648713,54.40004,0 -126.647655,54.400404,0 -126.646472,54.400831,0 -126.645573,54.401106,0 -126.643847,54.401124,0 -126.643437,54.401142,0 -126.6429,54.401248,0 -126.642352,54.401444,0 -126.641804,54.401756,0 -126.641417,54.402113,0 -126.641229,54.402463,0 -126.641184,54.402809,0 -126.641262,54.403355,0 -126.641345,54.403953,0 -126.641523,54.405225,0 -126.641531,54.405294,0 -126.641639,54.406243,0 -126.641663,54.407268,0 -126.641584,54.407977,0 -126.641405,54.408757,0 -126.64101,54.4097,0 -126.640592,54.410428,0 -126.640048,54.411164,0 -126.640005,54.411211,0 -126.639368,54.411906,0 -126.637343,54.413822,0 -126.635303,54.41575,0 -126.632657,54.418257,0 -126.631496,54.419357,0 -126.6291,54.421627,0 -126.623842,54.426606,0 -126.621676,54.428698,0 -126.621577,54.428776,0 -126.620774,54.429412,0 -126.619974,54.429993,0 -126.619794,54.430123,0 -126.618466,54.430969,0 -126.616815,54.431863,0 -126.615537,54.432453,0 -126.608108,54.435735,0 -126.605117,54.437056,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 33, southbound. Construction work planned between Dion Rd and Big White Rd for 1.2 km (17 to</name>
@@ -2519,7 +2540,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 8, in both directions. Construction work planned between Porcupine Ridge Rd and 14 Mile Ranc</name>
+          <name>Highway 8, in both directions. Construction work between Porcupine Ridge Rd and 14 Mile Ranch Rd for</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2529,7 +2550,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 8&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Porcupine Ridge Rd and 14 Mile Ranch Rd for 0.6 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-03T21:46:12-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T07:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3798,7 +3819,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Sylvester Road. Paving operations planned between Seux Road and Highway 7 near Mission. Starting Fri</name>
+          <name>Sylvester Road. Paving operations between Seux Road and Highway 7 near Mission. Until Fri Jul 4 at 4</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3808,7 +3829,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Sylvester Road&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Seux Road and Highway 7 near Mission&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-03T14:49:59-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T07:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4102,6 +4123,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.432976,52.815713,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between N Skeena St and Second Narrows </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Second Narrows Bridge and N Skeena St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T07:18:04-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.028295,49.28936,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
