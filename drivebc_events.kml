@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-04 20:34:32 UTC
+        Last updated: 2025-07-04 21:01:34 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3389,6 +3389,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97 (Cariboo Connector). Maintenance planned at MacKenzie Ave N (2 km north of Williams Lake)</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At MacKenzie Ave N&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T13:33:13-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.145028,52.163838,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 14, in both directions. Utility work planned between Veterans Memorial Pky and Veterans Memo</name>
           <description>
         &lt;![CDATA[
@@ -4558,7 +4578,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Needles Ferry, westbound. 1 sailing wait between the end of Needles Ferry and Needles Ferry (Needles</name>
+          <name>Needles Ferry, westbound. 1 sailing wait between Faquier BC and Needles BC. Next update time Fri Jul</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4567,14 +4587,14 @@
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Needles Ferry and the end of Needles Ferry&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T12:10:52-07:00&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Faquier BC and Needles BC&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T13:46:37-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-118.09743,49.874179,0</coordinates>
+            <coordinates>-118.090392,49.873045,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4660,43 +4680,23 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Upper Arrow Lake Ferry, in both directions. Currently operating 30 minutes behind schedule between S</name>
+          <name>Upper Arrow Lake Ferry, eastbound. 1 sailing wait between Shelter Bay and Galena Bay. Delays due to </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Shelter Bay and Galena Bay&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T13:10:13-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T13:45:24-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.900123,50.629001,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. There is a multi-vehicle incident at Brewster R</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Brewster Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T13:17:54-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.993988,54.00557,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
