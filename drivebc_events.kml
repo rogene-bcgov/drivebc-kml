@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-04 21:33:02 UTC
+        Last updated: 2025-07-04 22:01:45 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (235)</name>
+      <name>🚗 Traffic Events (234)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3446,6 +3446,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Tree pruning planned at Canoe Beach Dr NE (Salm</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Canoe Beach Dr NE&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T14:40:28-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.213455,50.75502,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, in both directions. Geotechnical investigation planned between Cleveland Ave and Finch D</name>
           <description>
         &lt;![CDATA[
@@ -3507,7 +3527,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 9, northbound. Utility work between McDonald Rd and Park St for 0.8 km (Kent). Until Fri Jul</name>
+          <name>Highway 5, northbound. Paving operations planned at Mt Paul Way (Kamloops). Starting Fri Jul 4 at 7:</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3515,17 +3535,16 @@
         &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 9&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between McDonald Rd and Park St for 0.8 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T09:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Mt Paul Way&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T14:42:27-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.766735,49.232096,0 -121.765039,49.233329,0 -121.762288,49.235198,0 -121.761904,49.235459,0 -121.761713,49.235668,0 -121.761655,49.2358,0 -121.761594,49.238143,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-120.321477,50.693642,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Airport Way, in both directions. Utility work between 2783 Airport Way and 2760 Airport Way in Revel</name>
@@ -3690,27 +3709,6 @@
           <Point>
             <coordinates>-121.782292,49.30251,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 19 (Island Highway), southbound. Utility work between Timberwest Mainline and McDonald Rd fo</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Timberwest Mainline and McDonald Rd for 3.7 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T09:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.305348,50.081094,0 -125.303357,50.078585,0 -125.298576,50.072556,0 -125.29732,50.070687,0 -125.296996,50.070383,0 -125.29666,50.070153,0 -125.296182,50.069921,0 -125.295734,50.069774,0 -125.292891,50.069212,0 -125.292576,50.069106,0 -125.292214,50.068893,0 -125.291802,50.068619,0 -125.290691,50.067884,0 -125.289787,50.067286,0 -125.28941,50.067086,0 -125.288856,50.066792,0 -125.288237,50.066527,0 -125.287051,50.066018,0 -125.284748,50.064578,0 -125.283603,50.063854,0 -125.281482,50.062512,0 -125.276367,50.059277,0 -125.276183,50.059158,0 -125.275809,50.058917,0 -125.275749,50.058878,0 -125.273124,50.057252,0 -125.272631,50.056916,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, southbound. Construction work between Exit 32: Steveston Hwy and Deas Thruway (Richmond)</name>
@@ -4674,26 +4672,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.900123,50.629001,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 73 and 248 St (Langley - D</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Exit 73&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T14:16:54-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.53055,49.116135,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
