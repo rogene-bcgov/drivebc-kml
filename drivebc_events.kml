@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-05 05:35:09 UTC
+        Last updated: 2025-07-05 06:02:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (226)</name>
+      <name>🚗 Traffic Events (227)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4174,7 +4174,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Exit 183: Othello Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T21:36:15-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T22:55:26-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4182,6 +4182,27 @@
           <Point>
             <coordinates>-121.318636,49.388211,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 4, in both directions. Vehicle recovery between Cathedral Grove/MacMillan Prov Park and Beau</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Cathedral Grove/MacMillan Prov Park and Beaufort Picnic Site for 0.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T22:54:35-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.665057,49.290568,0 -124.663497,49.291067,0 -124.662664,49.291225,0 -124.661063,49.291489,0 -124.660451,49.291547,0 -124.660299,49.291545,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. </name>
