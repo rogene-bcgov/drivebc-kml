@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-05 04:38:28 UTC
+        Last updated: 2025-07-05 05:01:51 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1483,6 +1483,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Marine Way, eastbound. Paving operations between Stewardson Way and Highway 91A in New Westminster. </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Marine Way&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Stewardson Way and Highway 91A in New Westminster&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T22:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.953,49.196795,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 93, in both directions. Construction work between Radium Hill Rd and Stanley St for 3.1 km (</name>
           <description>
         &lt;![CDATA[
@@ -1544,26 +1564,6 @@
             <tessellate>1</tessellate>
             <coordinates>-122.294319,49.117156,0 -122.294604,49.117316,0 -122.297919,49.119182,0 -122.298705,49.119624,0 -122.299418,49.120026,0 -122.301083,49.120962,0 -122.301741,49.12133,0 -122.302057,49.121509,0 -122.302336,49.121666,0 -122.305399,49.123376,0 -122.308701,49.125249,0 -122.308884,49.125351,0 -122.309178,49.125521,0 -122.311131,49.126648,0 -122.311499,49.126861,0 -122.312528,49.127414,0 -122.31278,49.127549,0 -122.31329,49.127784,0 -122.313346,49.127807,0 -122.313816,49.127973,0 -122.314199,49.128108,0 -122.314456,49.128169,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Marine Way, eastbound. Paving operations planned between Stewardson Way and Highway 91A in New Westm</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Marine Way&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Stewardson Way and Highway 91A in New Westminster&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-26T06:41:30-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.953,49.196795,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector), southbound. Utility work planned between McNaughton Ave and Barlow A</name>
@@ -4164,17 +4164,17 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 5 (Coquihalla South), southbound. Vehicle incident at Exit 183: Othello Rd (6 km north of Ho</name>
+          <name>Highway 5 (Coquihalla South), in both directions. Vehicle incident at Exit 183: Othello Rd (6 km nor</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Exit 183: Othello Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T21:17:10-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T21:36:15-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
