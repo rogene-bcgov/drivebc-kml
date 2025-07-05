@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-05 16:01:52 UTC
+        Last updated: 2025-07-05 16:36:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1399,6 +1399,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Road construction work between Redgrave and Wis</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Redgrave and Wiseman Rd for 6.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-05T09:01:32-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.335444,51.484612,0 -117.335082,51.484698,0 -117.334455,51.484847,0 -117.331003,51.48572,0 -117.329858,51.48601,0 -117.329102,51.486201,0 -117.328802,51.486277,0 -117.328424,51.48637,0 -117.323425,51.487591,0 -117.319124,51.488642,0 -117.317358,51.489074,0 -117.316437,51.4893,0 -117.310362,51.490789,0 -117.309007,51.49112,0 -117.308706,51.491194,0 -117.305068,51.492085,0 -117.303864,51.49238,0 -117.303248,51.492532,0 -117.2991,51.493549,0 -117.298732,51.49364,0 -117.298388,51.493694,0 -117.297653,51.49381,0 -117.29647,51.493895,0 -117.295544,51.4939,0 -117.295213,51.493872,0 -117.294553,51.493817,0 -117.29426,51.493778,0 -117.293774,51.493715,0 -117.293335,51.493625,0 -117.292219,51.493395,0 -117.291869,51.493323,0 -117.29122,51.493189,0 -117.285155,51.49194,0 -117.283554,51.491611,0 -117.28354,51.491608,0 -117.283221,51.491543,0 -117.281709,51.491236,0 -117.281246,51.491142,0 -117.280198,51.49093,0 -117.279414,51.490769,0 -117.2786,51.490601,0 -117.27452,51.489747,0 -117.27303,51.489434,0 -117.272784,51.489383,0 -117.266839,51.488137,0 -117.264598,51.487667,0 -117.263694,51.487477,0 -117.263447,51.487422,0 -117.261363,51.486956,0 -117.259659,51.48651,0 -117.258741,51.486212,0 -117.258177,51.486029,0 -117.255235,51.484995,0 -117.253304,51.484313,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 29, in both directions. Utility work between Bullmoose Rd and Lone Prairie Rd for 3.7 km (13</name>
           <description>
         &lt;![CDATA[
@@ -2765,27 +2786,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.734773,49.111525,0 -122.734828,49.115722,0 -122.734855,49.116536,0 -122.734862,49.118709,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Road construction work between Redgrave and Wis</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Redgrave and Wiseman Rd for 6.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-05T07:35:46-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.335444,51.484612,0 -117.335082,51.484698,0 -117.334455,51.484847,0 -117.331003,51.48572,0 -117.329858,51.48601,0 -117.329102,51.486201,0 -117.328802,51.486277,0 -117.328424,51.48637,0 -117.323425,51.487591,0 -117.319124,51.488642,0 -117.317358,51.489074,0 -117.316437,51.4893,0 -117.310362,51.490789,0 -117.309007,51.49112,0 -117.308706,51.491194,0 -117.305068,51.492085,0 -117.303864,51.49238,0 -117.303248,51.492532,0 -117.2991,51.493549,0 -117.298732,51.49364,0 -117.298388,51.493694,0 -117.297653,51.49381,0 -117.29647,51.493895,0 -117.295544,51.4939,0 -117.295213,51.493872,0 -117.294553,51.493817,0 -117.29426,51.493778,0 -117.293774,51.493715,0 -117.293335,51.493625,0 -117.292219,51.493395,0 -117.291869,51.493323,0 -117.29122,51.493189,0 -117.285155,51.49194,0 -117.283554,51.491611,0 -117.28354,51.491608,0 -117.283221,51.491543,0 -117.281709,51.491236,0 -117.281246,51.491142,0 -117.280198,51.49093,0 -117.279414,51.490769,0 -117.2786,51.490601,0 -117.27452,51.489747,0 -117.27303,51.489434,0 -117.272784,51.489383,0 -117.266839,51.488137,0 -117.264598,51.487667,0 -117.263694,51.487477,0 -117.263447,51.487422,0 -117.261363,51.486956,0 -117.259659,51.48651,0 -117.258741,51.486212,0 -117.258177,51.486029,0 -117.255235,51.484995,0 -117.253304,51.484313,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
