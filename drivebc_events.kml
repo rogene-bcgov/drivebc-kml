@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-07 03:47:33 UTC
+        Last updated: 2025-07-07 04:11:05 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3341,26 +3341,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance planned at Port Mann Bridge (Surrey).</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T08:02:46-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3A, in both directions. Utility work planned between Crescent Bay Rd and Sundance Rd for 0.4</name>
           <description>
         &lt;![CDATA[
@@ -3380,6 +3360,26 @@
             <tessellate>1</tessellate>
             <coordinates>-117.162471,49.605081,0 -117.160687,49.605755,0 -117.160527,49.605816,0 -117.160241,49.605986,0 -117.159081,49.606917,0 -117.158619,49.607187,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Port Mann Bridge (Surrey). Until F</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-06T21:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.813328,49.21973,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Rockwell Drive, in both directions. Tree pruning between Lillooet Ave. And Hicks Lake Rd. Until Fri </name>
@@ -4285,7 +4285,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Needles Ferry, in both directions. Departure delayed between Needles and Fauquier. 1 sailing wait. E</name>
+          <name>Needles Ferry, in both directions. Road cleared between Needles and Fauquier. Last updated Sun Jul 6</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4295,7 +4295,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Needles and Fauquier&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-06T20:00:50-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-06T21:05:45-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
