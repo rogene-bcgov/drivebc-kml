@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-08 14:36:27 UTC
+        Last updated: 2025-07-08 15:01:59 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (226)</name>
+      <name>🚗 Traffic Events (228)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1503,26 +1503,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 5, in both directions. Bridge maintenance planned at Lempriere Bridge (37 km north of Blue R</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Lempriere Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T07:11:17-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-119.14624,52.440955,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap</name>
           <description>
         &lt;![CDATA[
@@ -1544,6 +1524,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 5, in both directions. Bridge maintenance at Lempriere Bridge (37 km north of Blue River). U</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Lempriere Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.14624,52.440955,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Alaska Highway). Road maintenance work between Johnson Rd and Taylor Bridge for 1.1 km (</name>
           <description>
         &lt;![CDATA[
@@ -1563,6 +1563,47 @@
             <tessellate>1</tessellate>
             <coordinates>-120.662402,56.125938,0 -120.663249,56.126435,0 -120.665133,56.127535,0 -120.665197,56.127572,0 -120.665712,56.127874,0 -120.666411,56.128282,0 -120.666908,56.128573,0 -120.667459,56.128895,0 -120.668421,56.129459,0 -120.668445,56.129473,0 -120.668901,56.129781,0 -120.669245,56.130016,0 -120.670004,56.130651,0 -120.670111,56.130756,0 -120.670334,56.130975,0 -120.670592,56.131236,0 -120.670866,56.131565,0 -120.671275,56.132148,0 -120.671543,56.132625,0 -120.671776,56.133171,0 -120.671889,56.13361,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97. Road maintenance work between Powder King Rd and Old Hasler Rd for 0.9 km (45 to 46 km s</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Powder King Rd and Old Hasler Rd for 0.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T07:40:16-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.278038,55.618365,0 -122.27693,55.619138,0 -122.274805,55.620375,0 -122.274461,55.620575,0 -122.272316,55.621361,0 -122.26774,55.622423,0 -122.267681,55.622437,0 -122.267202,55.62254,0 -122.266805,55.622625,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>003 Rolla. Road maintenance work between Blackfoot Rd and Golata Creek Rd. Until Tue Jul 8 at 4:00 P</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; 003 Rolla&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Blackfoot Rd and Golata Creek Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T07:49:02-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.056681,56.12176,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 17 (Patricia Bay Highway), northbound. Utility work planned between Haliburton Rd and Gliddo</name>
@@ -2311,26 +2352,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Old Lakelse Lake Rd, in both directions. Bridge maintenance planned at Williams Creek. Starting Tue </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Old Lakelse Lake Rd&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Williams Creek&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T14:25:51-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-128.478524,54.442266,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Line painting planned between Eby St and Tetrau</name>
           <description>
         &lt;![CDATA[
@@ -2350,6 +2371,26 @@
             <tessellate>1</tessellate>
             <coordinates>-128.59631,54.515672,0 -128.596367,54.515252,0 -128.596436,54.514747,0 -128.596543,54.514008,0 -128.596539,54.513518,0 -128.596548,54.513277,0 -128.596411,54.513275,0 -128.595955,54.513269,0 -128.594689,54.513252,0 -128.594485,54.513249,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Old Lakelse Lake Rd, in both directions. Bridge maintenance at Williams Creek. Until Tue Jul 8 at 4:</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Old Lakelse Lake Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Williams Creek&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-128.478524,54.442266,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 16 (Yellowhead Highway), westbound. Line painting between Budds Rd and McBride Timber Rd for</name>
