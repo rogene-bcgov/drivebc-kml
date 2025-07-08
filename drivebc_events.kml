@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-08 22:01:47 UTC
+        Last updated: 2025-07-08 22:35:52 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (243)</name>
+      <name>🚗 Traffic Events (244)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3099,6 +3099,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97. Bridge maintenance planned between Rd 94 and 20 St (Dawson Creek). Starting Tue Jul 15 a</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Rd 94 and 20 St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T15:09:27-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.262085,55.766555,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway). Road construction work between Exit 6: McKenzie Ave and Exit 10: Bu</name>
           <description>
         &lt;![CDATA[
@@ -3242,26 +3262,6 @@
             <tessellate>1</tessellate>
             <coordinates>-122.448885,49.084053,0 -122.438194,49.079852,0 -122.426732,49.075346,0 -122.426554,49.075276,0 -122.426358,49.075198,0 -122.414414,49.070485,0 -122.403789,49.066289,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Broadwater Road, westbound. Paving operations between Lusher Road and Jones Road in Castlegar. Until</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Broadwater Road&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Lusher Road and Jones Road in Castlegar&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T09:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-117.732302,49.341197,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Road maintenance work planned between Illecillewaet Camp</name>
@@ -3788,7 +3788,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Golden Ears Bridge&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At 201st Ave Onramp&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T00:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T15:18:28-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5029,6 +5029,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.544711,49.395276,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 58: 200 St and 202 St (Lan</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 58: 200 St and 202 St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T15:32:10-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.661488,49.162012,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
