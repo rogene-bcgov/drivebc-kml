@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-08 00:06:53 UTC
+        Last updated: 2025-07-08 00:46:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (229)</name>
+      <name>🚗 Traffic Events (228)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -143,26 +143,6 @@
             <tessellate>1</tessellate>
             <coordinates>-120.347449,50.662211,0 -120.347231,50.662214,0 -120.346877,50.662205,0 -120.344019,50.662132,0 -120.340275,50.661926,0 -120.336459,50.661765,0 -120.33471,50.66173,0 -120.330509,50.661737,0 -120.329666,50.661743,0 -120.328449,50.661751,0 -120.32778,50.661756,0 -120.324741,50.661804,0 -120.323367,50.661826,0 -120.32215,50.66194,0 -120.32015,50.662249,0 -120.318901,50.662559,0 -120.317428,50.662998,0 -120.315808,50.663627,0 -120.314755,50.664146,0 -120.313974,50.664602,0 -120.313011,50.665335,0 -120.312463,50.665789,0 -120.311401,50.666669,0 -120.310821,50.667063,0 -120.31006,50.667466,0 -120.307974,50.668287,0 -120.306644,50.66881,0 -120.304966,50.669508,0 -120.303313,50.670435,0 -120.303302,50.670441,0 -120.302025,50.671183,0 -120.300986,50.671679,0 -120.299595,50.672121,0 -120.298019,50.672544,0 -120.297679,50.672635,0 -120.297466,50.672692,0 -120.297423,50.672703,0 -120.29719,50.672765,0 -120.296865,50.672851,0 -120.295797,50.673193,0 -120.294909,50.673585,0 -120.291675,50.675562,0 -120.290281,50.676416,0 -120.289588,50.676762,0 -120.288563,50.677192,0 -120.287453,50.677573,0 -120.286309,50.677893,0 -120.283474,50.678455,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Exit 37: Gaglardi Way and Exit 3</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T17:00:55-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.929895,49.236332,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector). Rest area closed between Charles Rd and Anderson Rd (15 km south of </name>
@@ -202,6 +182,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-120.845242,55.843217,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Kicking Horse Trail. Bridge damaged between 9th st north and Golf Course Dr. Road closed for repairs</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Kicking Horse Trail&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 9th st north and Golf Course Dr&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T17:24:45-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-116.993402,51.311122,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -1474,26 +1474,6 @@
             <tessellate>1</tessellate>
             <coordinates>-117.76425,51.179261,0 -117.763443,51.179792,0 -117.761823,51.180858,0 -117.760608,51.181795,0 -117.759533,51.182624,0 -117.757574,51.184274,0 -117.756942,51.184806,0 -117.756355,51.185262,0 -117.755826,51.185595,0 -117.755453,51.185779,0 -117.755254,51.185878,0 -117.754406,51.186191,0 -117.753152,51.186545,0 -117.752323,51.186779,0 -117.751597,51.187042,0 -117.750973,51.187354,0 -117.750498,51.187712,0 -117.750022,51.188255,0 -117.749727,51.188955,0 -117.749461,51.189814,0 -117.748881,51.191686,0 -117.748566,51.192447,0 -117.748277,51.192886,0 -117.748139,51.193096,0 -117.745881,51.195896,0 -117.745706,51.196142,0 -117.74546,51.196489,0 -117.745238,51.196943,0 -117.745139,51.19732,0 -117.74515,51.197721,0 -117.745534,51.199757,0 -117.745557,51.199996,0 -117.745607,51.200525,0 -117.745577,51.200712,0 -117.745528,51.201023,0 -117.745352,51.201379,0 -117.745204,51.201675,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5, in both directions. Bridge maintenance at Thunder Creek Bridge (11 km north of Blue River</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Thunder Creek Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T10:54:43-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-119.2171,52.223785,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), eastbound. Utility work between Exit 173: Old Hope Princeton Way and </name>
