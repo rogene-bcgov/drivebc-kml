@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-08 04:08:12 UTC
+        Last updated: 2025-07-08 04:39:23 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (225)</name>
+      <name>🚗 Traffic Events (227)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -780,6 +780,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 35, in both directions. Utility work between Pioneer Way and the end of Highway 35 for 0.4 k</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 35&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Pioneer Way and the end of Highway 35 for 0.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T21:28:30-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.760208,54.224226,0 -125.759326,54.224172,0 -125.758022,54.224081,0 -125.757229,54.22404,0 -125.756514,54.223999,0 -125.756036,54.22402,0 -125.755953,54.224038,0 -125.755681,54.224096,0 -125.755255,54.224238,0 -125.754746,54.224464,0 -125.754388,54.22465,0 -125.754112,54.224862,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Kitsuksis Rd., in both directions. Utility work between Short st. And Spruce St. Until Fri Oct 31 at</name>
           <description>
         &lt;![CDATA[
@@ -858,6 +879,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.482014,49.172361,0 -122.480744,49.172484,0 -122.48059,49.172501,0 -122.480396,49.172523,0 -122.479562,49.172613,0 -122.478686,49.17274,0 -122.477035,49.172903,0 -122.475687,49.173079,0 -122.475638,49.173085,0 -122.471774,49.173527,0 -122.467104,49.174061,0 -122.46689,49.174082,0 -122.46603,49.174169,0 -122.464656,49.174272,0 -122.463675,49.174307,0 -122.462421,49.174321,0 -122.461396,49.174315,0 -122.460125,49.174307,0 -122.459564,49.174306,0 -122.459015,49.174303,0 -122.454143,49.174284,0 -122.448143,49.174267,0 -122.44665,49.174207,0 -122.444206,49.174072,0 -122.444168,49.174069,0 -122.442582,49.173943,0 -122.438068,49.173671,0 -122.437837,49.173657,0 -122.43621,49.173535,0 -122.435512,49.173455,0 -122.434486,49.173338,0 -122.433964,49.173292,0 -122.433666,49.173266,0 -122.432627,49.173277,0 -122.431884,49.173302,0 -122.431736,49.17325,0 -122.429346,49.173331,0 -122.428956,49.17333,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 35, in both directions. Utility work planned between Pioneer Way and the end of Highway 35 f</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 35&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Pioneer Way and the end of Highway 35 for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T21:27:44-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.757235,54.224041,0 -125.757229,54.22404,0 -125.756514,54.223999,0 -125.756036,54.22402,0 -125.755953,54.224038,0 -125.755681,54.224096,0 -125.755255,54.224238,0 -125.754746,54.224464,0 -125.754388,54.22465,0 -125.754108,54.224865,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3527,26 +3569,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Port Mann Bridge (Surrey). Until F</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T08:06:45-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3A, in both directions. Utility work between Crescent Bay Rd and Sundance Rd for 0.4 km (14 </name>
           <description>
         &lt;![CDATA[
@@ -3566,6 +3588,26 @@
             <tessellate>1</tessellate>
             <coordinates>-117.162471,49.605081,0 -117.160687,49.605755,0 -117.160527,49.605816,0 -117.160241,49.605986,0 -117.159081,49.606917,0 -117.158619,49.607187,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Port Mann Bridge (Surrey). Until S</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T21:29:36-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.813328,49.21973,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 3A, in both directions. Utility work planned between Hall Rd and Sanca Rd for 1.4 km (10 to </name>
