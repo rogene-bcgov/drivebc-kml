@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-08 15:01:59 UTC
+        Last updated: 2025-07-08 15:35:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,30 +120,9 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (228)</name>
+      <name>🚗 Traffic Events (229)</name>
       <Folder>
         <name>Construction Events</name>
-        <Placemark>
-          <name>Highway 3A, northbound. Utility work planned between Maia Lane and Smith Rd for 1.3 km (17 to 18 km </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Smith Rd and Maia Lane for 1.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-27T15:52:28-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.799716,49.5914,0 -116.799839,49.59028,0 -116.799751,49.589661,0 -116.799431,49.588953,0 -116.799016,49.587956,0 -116.798807,49.5872,0 -116.798732,49.586558,0 -116.798826,49.586094,0 -116.798974,49.585724,0 -116.7993,49.585244,0 -116.799524,49.584915,0 -116.799653,49.584437,0 -116.799722,49.583748,0 -116.799661,49.583184,0 -116.79958,49.582963,0 -116.799329,49.58261,0 -116.798718,49.581746,0 -116.798593,49.581569,0 -116.798336,49.580971,0 -116.798095,49.58007,0</coordinates>
-          </LineString>
-        </Placemark>
         <Placemark>
           <name>Highway 5, southbound. Road construction work at Chappell Creek Rec Site (30 km north of Blue River)</name>
           <description>
@@ -1669,6 +1648,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Road construction work between Gladwin Rd and N</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Gladwin Rd and Nicomen River Rd for 8.8 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T08:09:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.503065,50.250219,0 -121.500712,50.248835,0 -121.499704,50.248308,0 -121.49885,50.247908,0 -121.497962,50.247553,0 -121.497204,50.247283,0 -121.496098,50.246959,0 -121.494678,50.246615,0 -121.494189,50.246536,0 -121.493338,50.246398,0 -121.492423,50.246277,0 -121.490416,50.246135,0 -121.489028,50.246091,0 -121.488343,50.24607,0 -121.487318,50.246064,0 -121.486755,50.246117,0 -121.486232,50.246209,0 -121.48562,50.246382,0 -121.484286,50.246876,0 -121.483292,50.247186,0 -121.482443,50.247416,0 -121.481899,50.247529,0 -121.48173,50.247563,0 -121.478454,50.248101,0 -121.478203,50.248181,0 -121.477914,50.248273,0 -121.477881,50.248288,0 -121.477247,50.248582,0 -121.476889,50.248801,0 -121.476343,50.24923,0 -121.475816,50.249699,0 -121.475508,50.250101,0 -121.475355,50.250424,0 -121.475175,50.251033,0 -121.474969,50.251407,0 -121.4747,50.251707,0 -121.474504,50.251881,0 -121.474154,50.252193,0 -121.473992,50.252482,0 -121.473947,50.252773,0 -121.473981,50.253006,0 -121.474082,50.253249,0 -121.474495,50.253869,0 -121.474569,50.254079,0 -121.474589,50.254301,0 -121.474536,50.254542,0 -121.474433,50.25473,0 -121.473415,50.256058,0 -121.473045,50.256291,0 -121.472647,50.256446,0 -121.471917,50.256677,0 -121.470773,50.256968,0 -121.470361,50.257012,0 -121.469168,50.257036,0 -121.469052,50.257047,0 -121.468388,50.257108,0 -121.467462,50.257258,0 -121.466748,50.25741,0 -121.466319,50.257459,0 -121.465093,50.257421,0 -121.464392,50.257425,0 -121.463912,50.257496,0 -121.462028,50.257905,0 -121.46157,50.257954,0 -121.460992,50.257938,0 -121.460603,50.25789,0 -121.460332,50.257831,0 -121.453118,50.255764,0 -121.452329,50.25561,0 -121.449294,50.255173,0 -121.448301,50.255052,0 -121.447937,50.255037,0 -121.447458,50.25506,0 -121.447349,50.255074,0 -121.447162,50.255097,0 -121.446681,50.255152,0 -121.445505,50.255219,0 -121.444514,50.25522,0 -121.443933,50.255273,0 -121.443213,50.255396,0 -121.44101,50.255854,0 -121.440092,50.255965,0 -121.439264,50.256172,0 -121.438946,50.256224,0 -121.438182,50.256264,0 -121.437929,50.256308,0 -121.436594,50.256784,0 -121.435952,50.256852,0 -121.435572,50.256962,0 -121.433829,50.257902,0 -121.433271,50.258132,0 -121.432408,50.258398,0 -121.42482,50.260286,0 -121.422444,50.260813,0 -121.421397,50.261116,0 -121.418324,50.26242,0 -121.41767,50.262663,0 -121.416672,50.262915,0 -121.415973,50.26304,0 -121.415475,50.263103,0 -121.414699,50.263138,0 -121.411799,50.263026,0 -121.410841,50.263015,0 -121.409682,50.263048,0 -121.407537,50.263256,0 -121.407028,50.263356,0 -121.406429,50.263524,0 -121.405917,50.263777,0 -121.405477,50.264062,0 -121.405028,50.264431,0 -121.40453,50.264901,0 -121.403893,50.265576,0 -121.403667,50.265856,0 -121.403465,50.266224,0 -121.403202,50.266852,0 -121.403017,50.267152,0 -121.402644,50.267484,0 -121.401894,50.267864,0 -121.401763,50.26794,0 -121.401415,50.268143,0 -121.401215,50.268334,0 -121.401079,50.268612,0 -121.401075,50.268776,0 -121.401071,50.268927,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 29, in both directions. Utility work between Bullmoose Rd and Lone Prairie Rd for 3.7 km (13</name>
           <description>
         &lt;![CDATA[
@@ -1708,6 +1708,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.729123,55.835223,0 -121.732743,55.835081,0 -121.733067,55.835069,0 -121.733894,55.835038,0 -121.735749,55.834969,0 -121.736227,55.834951,0 -121.738065,55.834883,0 -121.740047,55.834809,0 -121.74206,55.834734,0 -121.742298,55.834725,0 -121.742842,55.834704,0 -121.743495,55.83468,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3A, northbound. Utility work between Maia Lane and Smith Rd for 1.3 km (17 to 18 km south of</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Smith Rd and Maia Lane for 1.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T08:30:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.799716,49.5914,0 -116.799839,49.59028,0 -116.799751,49.589661,0 -116.799431,49.588953,0 -116.799016,49.587956,0 -116.798807,49.5872,0 -116.798732,49.586558,0 -116.798826,49.586094,0 -116.798974,49.585724,0 -116.7993,49.585244,0 -116.799524,49.584915,0 -116.799653,49.584437,0 -116.799722,49.583748,0 -116.799661,49.583184,0 -116.79958,49.582963,0 -116.799329,49.58261,0 -116.798718,49.581746,0 -116.798593,49.581569,0 -116.798336,49.580971,0 -116.798095,49.58007,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
