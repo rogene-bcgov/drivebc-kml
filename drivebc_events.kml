@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-08 12:02:52 UTC
+        Last updated: 2025-07-08 12:43:49 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -124,26 +124,6 @@
       <Folder>
         <name>Construction Events</name>
         <Placemark>
-          <name>Highway 93, in both directions. Bridge maintenance planned between Wasa Lake Park Dr and Wasa Juncti</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Wasa Lake Park Dr and Wasa Junction&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T04:05:58-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-115.767108,49.80952,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3A, northbound. Utility work planned between Maia Lane and Smith Rd for 1.3 km (17 to 18 km </name>
           <description>
         &lt;![CDATA[
@@ -163,6 +143,26 @@
             <tessellate>1</tessellate>
             <coordinates>-116.799716,49.5914,0 -116.799839,49.59028,0 -116.799751,49.589661,0 -116.799431,49.588953,0 -116.799016,49.587956,0 -116.798807,49.5872,0 -116.798732,49.586558,0 -116.798826,49.586094,0 -116.798974,49.585724,0 -116.7993,49.585244,0 -116.799524,49.584915,0 -116.799653,49.584437,0 -116.799722,49.583748,0 -116.799661,49.583184,0 -116.79958,49.582963,0 -116.799329,49.58261,0 -116.798718,49.581746,0 -116.798593,49.581569,0 -116.798336,49.580971,0 -116.798095,49.58007,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 93, in both directions. Bridge maintenance between Wasa Lake Park Dr and Wasa Junction (3 km</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Wasa Lake Park Dr and Wasa Junction&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T05:30:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-115.767108,49.80952,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5, southbound. Road construction work at Chappell Creek Rec Site (30 km north of Blue River)</name>
