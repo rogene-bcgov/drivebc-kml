@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-09 12:02:56 UTC
+        Last updated: 2025-07-09 12:43:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (229)</name>
+      <name>🚗 Traffic Events (226)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -510,27 +510,6 @@
           <Point>
             <coordinates>-123.691282,48.769591,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 10, in both directions. Maintenance between 172 St and 177B St for 0.6 km (Surrey). Until We</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 172 St and 177B St for 0.6 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-06T00:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.738684,49.104018,0 -122.738401,49.104018,0 -122.738189,49.104023,0 -122.737619,49.104009,0 -122.737148,49.104016,0 -122.736733,49.104016,0 -122.736237,49.104037,0 -122.734965,49.104112,0 -122.733672,49.104153,0 -122.731688,49.104131,0 -122.730303,49.104116,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Road maintenance work at Vanlerberg Rd (2 km west</name>
@@ -1212,6 +1191,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.355582,49.046519,0 -122.355566,49.046512,0 -122.353092,49.04543,0 -122.35216,49.045023,0 -122.351348,49.044642,0 -122.350675,49.044326,0 -122.349902,49.043926,0 -122.346191,49.042002,0 -122.345923,49.041862,0 -122.344336,49.04104,0 -122.343534,49.040624,0 -122.337791,49.037646,0 -122.337615,49.037554,0 -122.336276,49.037022,0 -122.335054,49.036683,0 -122.33411,49.036474,0 -122.333165,49.036317,0 -122.332319,49.036213,0 -122.332208,49.036199,0 -122.331994,49.036187,0 -122.331266,49.036147,0 -122.327049,49.035892,0 -122.325432,49.035793,0 -122.323754,49.035703,0 -122.321237,49.035562,0 -122.318001,49.035379,0 -122.316393,49.035324,0 -122.315506,49.03527,0 -122.31311,49.035124,0 -122.311253,49.035013,0 -122.30948,49.034896,0 -122.307344,49.034815,0 -122.305942,49.034735,0 -122.304948,49.034669,0 -122.302262,49.034536,0 -122.30038,49.034432,0 -122.299135,49.034349,0 -122.298128,49.034299,0 -122.295272,49.034184,0 -122.294025,49.034117,0 -122.292837,49.034037,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), in both directions. Construction work at MacKenzie Ave N (2 km north</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At MacKenzie Ave N&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T05:34:02-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.145028,52.163838,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97, northbound. Paving operations between Glenrosa Rd and Campbell Rd for 12.8 km (West Kelo</name>
@@ -1982,26 +1981,6 @@
             <tessellate>1</tessellate>
             <coordinates>-122.272706,53.876971,0 -122.272638,53.876945,0 -122.271093,53.876468,0 -122.269966,53.876222,0 -122.269008,53.876062,0 -122.267902,53.87593,0 -122.266938,53.875859,0 -122.265178,53.875833,0 -122.264153,53.875894,0 -122.262336,53.876098,0 -122.242177,53.878881,0 -122.242061,53.878897,0 -122.229362,53.880644,0 -122.21912,53.882052,0 -122.218496,53.882119,0 -122.217705,53.88214,0 -122.217015,53.882118,0 -122.216258,53.882043,0 -122.215536,53.881919,0 -122.214756,53.881722,0 -122.214131,53.881507,0 -122.213553,53.88126,0 -122.212892,53.880896,0 -122.212347,53.880513,0 -122.211845,53.880036,0 -122.209939,53.877998,0 -122.209492,53.87762,0 -122.208948,53.87726,0 -122.208333,53.876939,0 -122.207685,53.876681,0 -122.20694,53.876449,0 -122.206112,53.87627,0 -122.20535,53.876166,0 -122.204526,53.876113,0 -122.203402,53.876145,0 -122.202296,53.876293,0 -122.191588,53.878563,0 -122.180597,53.880898,0 -122.174347,53.882225,0 -122.173734,53.882356,0 -122.172321,53.882605,0 -122.170754,53.882832,0 -122.16922,53.882985,0 -122.167422,53.883106,0 -122.160305,53.883263,0 -122.154263,53.883396,0 -122.1537,53.883408,0 -122.14876,53.883517,0 -122.148289,53.883527,0 -122.147519,53.883525,0 -122.146662,53.883523,0 -122.143579,53.883458,0 -122.128873,53.883149,0 -122.128031,53.883132,0 -122.124781,53.883063,0 -122.114851,53.882853,0 -122.113552,53.882857,0 -122.112344,53.882926,0 -122.110725,53.88312,0 -122.109591,53.883344,0 -122.109022,53.883456,0 -122.107316,53.883974,0 -122.107099,53.884066,0 -122.105984,53.884539,0 -122.10505,53.885019,0 -122.101449,53.887152,0 -122.095933,53.890496,0 -122.084884,53.897192,0 -122.084721,53.897291,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, northbound. Road construction work between Derwent Way and Exit 9: Cliveden Ave (Delta).</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 9: Cliveden Ave and Derwent Way&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T22:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.948287,49.168831,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Construction work at Exit 73 (Langley - District). Until</name>
@@ -3451,26 +3430,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Bridgeport Rd., in both directions. Utility work between Jow St. And McLeod Ave. Until Wed Jul 9 at </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Bridgeport Rd.&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Jow St. and McLeod Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-03T15:30:59-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.11339,49.191995,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Utility work between Stella Rd and Francois Lak</name>
           <description>
         &lt;![CDATA[
@@ -4092,7 +4051,7 @@
       <Folder>
         <name>Special Event Events</name>
         <Placemark>
-          <name>Cypress Bowl Road, in both directions. Special event planned between Cypress Lookout and Lot 5 (High</name>
+          <name>Cypress Bowl Road, in both directions. Special event between Cypress Lookout and Lot 5 (Highway Lot)</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4102,7 +4061,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Cypress Bowl Road&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Cypress Lookout and Lot 5 (Highway Lot)&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T16:55:28-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T05:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4417,26 +4376,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.35359,51.480185,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. There is a grass fire at Lafarge Rd (Kamloops). Southbou</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Lafarge Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T22:21:50-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-120.067631,50.653572,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
