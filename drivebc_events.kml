@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-09 05:38:13 UTC
+        Last updated: 2025-07-09 06:02:30 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (236)</name>
+      <name>🚗 Traffic Events (235)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1296,26 +1296,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Steveston Hwy, in both directions. Construction work planned at Highway 99 in Richmond. Starting Tue</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Steveston Hwy&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Highway 99 in Richmond&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-05T06:12:11-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.086701,49.133462,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 5 (Coquihalla South), southbound. Shoulder maintenance planned between Exit 192 and Exit 183</name>
           <description>
         &lt;![CDATA[
@@ -1377,6 +1357,26 @@
             <tessellate>1</tessellate>
             <coordinates>-123.740642,49.464432,0 -123.739961,49.46372,0 -123.737621,49.461073,0 -123.737542,49.460983,0 -123.737111,49.460502,0 -123.736962,49.460233,0 -123.736891,49.459717,0 -123.736931,49.45917,0 -123.736903,49.458992,0 -123.736866,49.458911,0 -123.736731,49.458608,0 -123.736265,49.458105,0 -123.735561,49.457348,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Steveston Hwy, in both directions. Construction work at Highway 99 in Richmond. Until Wed Jul 9 at 4</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Steveston Hwy&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Highway 99 in Richmond&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T23:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086701,49.133462,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector), southbound. Bridge maintenance between Ferry Ave and Railway Rd (Pri</name>
@@ -2875,27 +2875,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 4, in both directions. Maintenance between Port Alberni Summit and Chalet Rd for 9.5 km (Cat</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Port Alberni Summit and Chalet Rd for 9.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T16:16:59-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.671007,49.260139,0 -124.671073,49.260211,0 -124.671219,49.260432,0 -124.671936,49.261523,0 -124.672459,49.262455,0 -124.672666,49.262873,0 -124.673759,49.265082,0 -124.673832,49.265408,0 -124.673812,49.265741,0 -124.673439,49.267158,0 -124.673435,49.267553,0 -124.673548,49.267914,0 -124.673738,49.268237,0 -124.675087,49.269712,0 -124.675378,49.270189,0 -124.675566,49.270588,0 -124.675649,49.270932,0 -124.67565,49.271252,0 -124.67556,49.271735,0 -124.674829,49.273878,0 -124.674827,49.274328,0 -124.674983,49.275682,0 -124.675006,49.276328,0 -124.674893,49.27841,0 -124.675426,49.28079,0 -124.675486,49.28106,0 -124.675513,49.281416,0 -124.675459,49.281874,0 -124.675326,49.282448,0 -124.675196,49.282729,0 -124.675013,49.282966,0 -124.674759,49.283193,0 -124.673908,49.283766,0 -124.672598,49.284649,0 -124.672261,49.284958,0 -124.670232,49.287187,0 -124.668996,49.288284,0 -124.668637,49.288687,0 -124.668385,49.288969,0 -124.668079,49.28925,0 -124.66768,49.28951,0 -124.667289,49.289704,0 -124.66594,49.290263,0 -124.665174,49.290531,0 -124.663497,49.291067,0 -124.662664,49.291225,0 -124.661063,49.291489,0 -124.660451,49.291547,0 -124.659894,49.291538,0 -124.659256,49.291476,0 -124.658083,49.291362,0 -124.656253,49.291126,0 -124.655519,49.291032,0 -124.655136,49.290982,0 -124.65452,49.290825,0 -124.653653,49.290483,0 -124.653346,49.290411,0 -124.652977,49.290365,0 -124.652562,49.29037,0 -124.651704,49.290469,0 -124.651188,49.290471,0 -124.649619,49.290339,0 -124.646381,49.289852,0 -124.644636,49.289887,0 -124.643959,49.289798,0 -124.643172,49.289629,0 -124.642753,49.289539,0 -124.641806,49.289193,0 -124.641276,49.289099,0 -124.63946,49.289079,0 -124.638773,49.289009,0 -124.637057,49.2887,0 -124.636458,49.28863,0 -124.634338,49.288547,0 -124.633643,49.288482,0 -124.633076,49.288362,0 -124.631719,49.287955,0 -124.631263,49.287893,0 -124.630844,49.287881,0 -124.629629,49.287927,0 -124.629081,49.287974,0 -124.628567,49.288069,0 -124.622969,49.289552,0 -124.622241,49.289664,0 -124.621591,49.289708,0 -124.620644,49.289694,0 -124.619201,49.289577,0 -124.618704,49.289474,0 -124.618272,49.289301,0 -124.618023,49.289141,0 -124.617211,49.288358,0 -124.616938,49.288181,0 -124.616586,49.28804,0 -124.616234,49.287986,0 -124.615866,49.287981,0 -124.615528,49.288031,0 -124.613908,49.288456,0 -124.613487,49.288531,0 -124.612186,49.288633,0 -124.611809,49.288703,0 -124.61115,49.28891,0 -124.61082,49.288976,0 -124.61053,49.288983,0 -124.609358,49.288819,0 -124.60859,49.288761,0 -124.608146,49.288687,0 -124.607649,49.288544,0 -124.606923,49.288226,0 -124.606474,49.288108,0 -124.605927,49.288009,0 -124.604229,49.287825,0 -124.603761,49.287729,0 -124.603285,49.287563,0 -124.602672,49.287233,0 -124.602317,49.287089,0 -124.601947,49.286999,0 -124.601429,49.286933,0 -124.600855,49.286901,0 -124.600372,49.286913,0 -124.600006,49.286971,0 -124.598653,49.287368,0 -124.598089,49.287458,0 -124.597412,49.287513,0 -124.59677,49.287519,0 -124.596317,49.287465,0 -124.595909,49.28735,0 -124.595594,49.287213,0 -124.593312,49.28592,0 -124.592868,49.285735,0 -124.592487,49.28563,0 -124.591775,49.285503,0 -124.591282,49.285442,0 -124.590909,49.285437,0 -124.590568,49.285476,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Utility work between 248 St and Bradner Rd for </name>
           <description>
         &lt;![CDATA[
@@ -2914,6 +2893,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.528043,49.115146,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493315,49.101517,0 -122.493081,49.101427,0 -122.492806,49.101322,0 -122.491946,49.100985,0 -122.491271,49.10072,0 -122.489508,49.100028,0 -122.487088,49.099078,0 -122.486044,49.098669,0 -122.459414,49.088185,0 -122.457886,49.08759,0 -122.456884,49.087196,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 4, in both directions. Maintenance between Port Alberni Summit and Chalet Rd for 9.5 km (Cat</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Port Alberni Summit and Chalet Rd for 9.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T16:16:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.671007,49.260139,0 -124.671073,49.260211,0 -124.671219,49.260432,0 -124.671936,49.261523,0 -124.672459,49.262455,0 -124.672666,49.262873,0 -124.673759,49.265082,0 -124.673832,49.265408,0 -124.673812,49.265741,0 -124.673439,49.267158,0 -124.673435,49.267553,0 -124.673548,49.267914,0 -124.673738,49.268237,0 -124.675087,49.269712,0 -124.675378,49.270189,0 -124.675566,49.270588,0 -124.675649,49.270932,0 -124.67565,49.271252,0 -124.67556,49.271735,0 -124.674829,49.273878,0 -124.674827,49.274328,0 -124.674983,49.275682,0 -124.675006,49.276328,0 -124.674893,49.27841,0 -124.675426,49.28079,0 -124.675486,49.28106,0 -124.675513,49.281416,0 -124.675459,49.281874,0 -124.675326,49.282448,0 -124.675196,49.282729,0 -124.675013,49.282966,0 -124.674759,49.283193,0 -124.673908,49.283766,0 -124.672598,49.284649,0 -124.672261,49.284958,0 -124.670232,49.287187,0 -124.668996,49.288284,0 -124.668637,49.288687,0 -124.668385,49.288969,0 -124.668079,49.28925,0 -124.66768,49.28951,0 -124.667289,49.289704,0 -124.66594,49.290263,0 -124.665174,49.290531,0 -124.663497,49.291067,0 -124.662664,49.291225,0 -124.661063,49.291489,0 -124.660451,49.291547,0 -124.659894,49.291538,0 -124.659256,49.291476,0 -124.658083,49.291362,0 -124.656253,49.291126,0 -124.655519,49.291032,0 -124.655136,49.290982,0 -124.65452,49.290825,0 -124.653653,49.290483,0 -124.653346,49.290411,0 -124.652977,49.290365,0 -124.652562,49.29037,0 -124.651704,49.290469,0 -124.651188,49.290471,0 -124.649619,49.290339,0 -124.646381,49.289852,0 -124.644636,49.289887,0 -124.643959,49.289798,0 -124.643172,49.289629,0 -124.642753,49.289539,0 -124.641806,49.289193,0 -124.641276,49.289099,0 -124.63946,49.289079,0 -124.638773,49.289009,0 -124.637057,49.2887,0 -124.636458,49.28863,0 -124.634338,49.288547,0 -124.633643,49.288482,0 -124.633076,49.288362,0 -124.631719,49.287955,0 -124.631263,49.287893,0 -124.630844,49.287881,0 -124.629629,49.287927,0 -124.629081,49.287974,0 -124.628567,49.288069,0 -124.622969,49.289552,0 -124.622241,49.289664,0 -124.621591,49.289708,0 -124.620644,49.289694,0 -124.619201,49.289577,0 -124.618704,49.289474,0 -124.618272,49.289301,0 -124.618023,49.289141,0 -124.617211,49.288358,0 -124.616938,49.288181,0 -124.616586,49.28804,0 -124.616234,49.287986,0 -124.615866,49.287981,0 -124.615528,49.288031,0 -124.613908,49.288456,0 -124.613487,49.288531,0 -124.612186,49.288633,0 -124.611809,49.288703,0 -124.61115,49.28891,0 -124.61082,49.288976,0 -124.61053,49.288983,0 -124.609358,49.288819,0 -124.60859,49.288761,0 -124.608146,49.288687,0 -124.607649,49.288544,0 -124.606923,49.288226,0 -124.606474,49.288108,0 -124.605927,49.288009,0 -124.604229,49.287825,0 -124.603761,49.287729,0 -124.603285,49.287563,0 -124.602672,49.287233,0 -124.602317,49.287089,0 -124.601947,49.286999,0 -124.601429,49.286933,0 -124.600855,49.286901,0 -124.600372,49.286913,0 -124.600006,49.286971,0 -124.598653,49.287368,0 -124.598089,49.287458,0 -124.597412,49.287513,0 -124.59677,49.287519,0 -124.596317,49.287465,0 -124.595909,49.28735,0 -124.595594,49.287213,0 -124.593312,49.28592,0 -124.592868,49.285735,0 -124.592487,49.28563,0 -124.591775,49.285503,0 -124.591282,49.285442,0 -124.590909,49.285437,0 -124.590568,49.285476,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4483,26 +4483,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Needles Ferry, in both directions. Departure delayed between Needles BC and Fauquier BC. Expect dela</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Needles BC and Fauquier BC&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T09:23:17-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-118.089601,49.872981,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave Rest Area (14 km east of East Boundary</name>
           <description>
         &lt;![CDATA[
@@ -4523,7 +4503,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Glover Rd and Exit 66: 232nd St</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between Glover Rd and Exit 66: 232nd St (La</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4533,7 +4513,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Glover Rd and Exit 66: 232nd St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T21:51:18-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T22:54:03-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4583,7 +4563,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Station Road, in both directions. Structural fire between Matterson Road and Kerr Road. Road closed.</name>
+          <name>Station Road, in both directions. Structural fire between Grafton Road and Kerr Road. Road closed. W</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4592,14 +4572,14 @@
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Station Road&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Matterson Road and Kerr Road&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T22:31:01-07:00&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Grafton Road and Kerr Road&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T22:37:46-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-124.417701,49.295035,0</coordinates>
+            <coordinates>-124.417723,49.293034,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
