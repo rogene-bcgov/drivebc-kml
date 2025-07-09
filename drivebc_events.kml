@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-09 21:01:46 UTC
+        Last updated: 2025-07-09 21:33:40 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1253,26 +1253,6 @@
             <tessellate>1</tessellate>
             <coordinates>-117.279389,49.505747,0 -117.279244,49.50614,0 -117.279037,49.506662,0 -117.278978,49.506812,0 -117.278967,49.507083,0 -117.27908,49.50741,0 -117.279213,49.507571,0 -117.279336,49.507721,0 -117.279547,49.507918,0 -117.279785,49.50814,0 -117.280569,49.50884,0 -117.283955,49.511859,0 -117.284416,49.51227,0 -117.284425,49.512278,0 -117.284576,49.512566,0 -117.284619,49.513273,0 -117.28462,49.513668,0 -117.284613,49.514079,0 -117.2846,49.514861,0 -117.284425,49.515393,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 27. Electrical maintenance at Elm St W (Fort St James). Until Wed Jul 9 at 4:00 PM PDT. Crew</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 27&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Elm St W&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T13:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-124.264194,54.449789,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97C. Utility work planned between Railway Ave and Brink St (Ashcroft). Starting Mon Jul 14 u</name>
@@ -5264,7 +5244,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Exit 48: 152 St and Exit 49: 156</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between Exit 48: 152 St and Exit 49: 156 St</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5274,7 +5254,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 48: 152 St and Exit 49: 156 St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T13:48:02-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T14:18:54-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5284,7 +5264,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91, northbound. Vehicle incident at Alex Fraser Bridge (Delta). Roadway reduced to one lane.</name>
+          <name>Highway 91, northbound. Road cleared at Alex Fraser Bridge (Delta). Expect delays due to heavy conge</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5294,7 +5274,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T13:59:02-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T14:31:32-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5321,6 +5301,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle at Exit 50: 160 St (Surrey). Shoulder bl</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 50: 160 St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T14:25:33-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.777814,49.192106,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
