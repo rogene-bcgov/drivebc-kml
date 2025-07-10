@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-10 15:36:23 UTC
+        Last updated: 2025-07-10 16:02:00 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (250)</name>
+      <name>🚗 Traffic Events (251)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -657,6 +657,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 33, southbound. Construction work planned between Rutland Rd and Prior Rd S for 0.2 km (Kelo</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 33&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Prior Rd S and Rutland Rd for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T08:49:13-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.383918,49.888987,0 -119.38535,49.888978,0 -119.386858,49.888971,0 -119.386873,49.888971,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Road maintenance work at Vanlerberg Rd (2 km west</name>
           <description>
         &lt;![CDATA[
@@ -675,6 +696,27 @@
           <Point>
             <coordinates>-115.07511,49.481346,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19A (Island Highway), southbound. Road maintenance work between Norwell Dr and Departure Bay</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Departure Bay Rd and Norwell Dr for 4.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T09:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.965669,49.190184,0 -123.965825,49.190227,0 -123.966037,49.190274,0 -123.968126,49.190725,0 -123.969231,49.191006,0 -123.969936,49.191271,0 -123.971526,49.192063,0 -123.979772,49.196253,0 -123.981511,49.197022,0 -123.98333,49.197826,0 -123.98378,49.198009,0 -123.984502,49.198306,0 -123.984785,49.198423,0 -123.988636,49.200006,0 -123.994423,49.202384,0 -123.995389,49.202778,0 -123.995686,49.2029,0 -123.995987,49.203015,0 -123.997766,49.20361,0 -123.998053,49.203695,0 -123.998304,49.203761,0 -123.999387,49.204045,0 -124.000777,49.204344,0 -124.001016,49.204385,0 -124.001454,49.204459,0 -124.001553,49.204477,0 -124.001982,49.20454,0 -124.004207,49.204864,0 -124.005356,49.20495,0 -124.005649,49.204972,0 -124.005942,49.204994,0 -124.007889,49.20514,0 -124.008446,49.2052,0 -124.008574,49.205213,0 -124.008793,49.205254,0 -124.009036,49.205306,0 -124.010881,49.205724,0 -124.013234,49.206275,0 -124.016338,49.207072,0 -124.016658,49.207154,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, in both directions. Paving operations between Lil'wat Pl and Seton Lake Rd for 14.9 km (</name>
@@ -2622,27 +2664,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-120.299546,56.333785,0 -120.299077,56.333785,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 19A (Island Highway), southbound. Road maintenance work planned between Norwell Dr and Depar</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Departure Bay Rd and Norwell Dr for 4.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T10:33:46-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.965669,49.190184,0 -123.965825,49.190227,0 -123.966037,49.190274,0 -123.968126,49.190725,0 -123.969231,49.191006,0 -123.969936,49.191271,0 -123.971526,49.192063,0 -123.979772,49.196253,0 -123.981511,49.197022,0 -123.98333,49.197826,0 -123.98378,49.198009,0 -123.984502,49.198306,0 -123.984785,49.198423,0 -123.988636,49.200006,0 -123.994423,49.202384,0 -123.995389,49.202778,0 -123.995686,49.2029,0 -123.995987,49.203015,0 -123.997766,49.20361,0 -123.998053,49.203695,0 -123.998304,49.203761,0 -123.999387,49.204045,0 -124.000777,49.204344,0 -124.001016,49.204385,0 -124.001454,49.204459,0 -124.001553,49.204477,0 -124.001982,49.20454,0 -124.004207,49.204864,0 -124.005356,49.20495,0 -124.005649,49.204972,0 -124.005942,49.204994,0 -124.007889,49.20514,0 -124.008446,49.2052,0 -124.008574,49.205213,0 -124.008793,49.205254,0 -124.009036,49.205306,0 -124.010881,49.205724,0 -124.013234,49.206275,0 -124.016338,49.207072,0 -124.016658,49.207154,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
