@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-10 23:01:44 UTC
+        Last updated: 2025-07-10 23:33:42 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (244)</name>
+      <name>🚗 Traffic Events (243)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1668,26 +1668,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 5 (Coquihalla South), northbound. Bridge maintenance at Exit 183: Othello Rd (6 km north of </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 183: Othello Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T13:50:18-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.318636,49.388211,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Copper Mine Road, northbound. Utility work planned at Andover Road in Sooke. Starting Tue Jul 15 at </name>
           <description>
         &lt;![CDATA[
@@ -2105,6 +2085,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 5 (Coquihalla South), northbound. Bridge maintenance between the start of Highway 5 (Coquiha</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 5 (Coquihalla South) and Exit 183: Othello Rd for 0.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T16:22:48-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.361834,49.370987,0 -121.361933,49.371035,0 -121.362582,49.371408,0 -121.363007,49.371707,0 -121.36344,49.372091,0 -121.363762,49.372455,0 -121.364134,49.373014,0 -121.364269,49.373315,0 -121.364423,49.373839,0 -121.364466,49.374282,0 -121.364403,49.374931,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 13, in both directions. Construction work at 56 Ave (Langley - District). Until Thu Jul 31 a</name>
           <description>
         &lt;![CDATA[
@@ -2416,27 +2417,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Cecil Lake Rd (Highway 103), in both directions. Road maintenance work between 263 Rd and 251 Rd for</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Cecil Lake Rd&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 263 Rd and 251 Rd for 0.8 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-08T10:02:05-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.769936,56.288644,0 -120.76961,56.288572,0 -120.769217,56.288503,0 -120.768318,56.288344,0 -120.767334,56.288224,0 -120.765004,56.287939,0 -120.764643,56.287895,0 -120.764322,56.287825,0 -120.763961,56.287747,0 -120.763407,56.287572,0 -120.762867,56.287316,0 -120.762501,56.287079,0 -120.761506,56.286258,0 -120.760732,56.285794,0 -120.759146,56.285071,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Inland Island Highway), in both directions. Electrical maintenance planned between Horne</name>
           <description>
         &lt;![CDATA[
@@ -2497,27 +2477,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-120.177036,51.339695,0 -120.177436,51.340642,0 -120.178727,51.343704,0 -120.178991,51.34433,0 -120.179386,51.344911,0 -120.179889,51.345411,0 -120.179919,51.345434,0 -120.181577,51.346665,0 -120.181963,51.347048,0 -120.181994,51.347086,0 -120.182276,51.347433,0 -120.182864,51.348394,0 -120.183039,51.348681,0 -120.18537,51.352488,0 -120.185515,51.352726,0 -120.185917,51.353381,0 -120.187689,51.356276,0 -120.188316,51.3573,0 -120.18835,51.357355,0 -120.188731,51.357854,0 -120.189185,51.358294,0 -120.189861,51.35878,0 -120.190003,51.35887,0 -120.191365,51.359726,0 -120.19191,51.360143,0 -120.19204,51.360272,0 -120.192311,51.360542,0 -120.194006,51.36269,0 -120.194818,51.363719,0 -120.195124,51.364231,0 -120.195137,51.364252,0 -120.195366,51.36484,0 -120.195501,51.365455,0 -120.195488,51.366266,0 -120.195432,51.366495,0 -120.195347,51.366846,0 -120.195325,51.366937,0 -120.194616,51.368785,0 -120.19398,51.370444,0 -120.193955,51.370837,0 -120.193947,51.370959,0 -120.194012,51.371459,0 -120.194305,51.372035,0 -120.19449,51.372399,0 -120.195478,51.374339,0 -120.196378,51.376108,0 -120.196883,51.3771,0 -120.197241,51.377915,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 29, in both directions. Road maintenance work between Halfway River Bridge and Upper Cache R</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Halfway River Bridge and Upper Cache Rd for 1.9 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T07:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.42699,56.2337,0 -121.426899,56.233869,0 -121.426588,56.234163,0 -121.425865,56.234497,0 -121.424869,56.234881,0 -121.421299,56.236254,0 -121.419311,56.237119,0 -121.418728,56.237308,0 -121.418524,56.237374,0 -121.415207,56.23802,0 -121.41001,56.239033,0 -121.409941,56.239041,0 -121.408186,56.239254,0 -121.407427,56.239402,0 -121.406725,56.239615,0 -121.406228,56.239821,0 -121.404759,56.240567,0 -121.404199,56.240795,0 -121.404044,56.240858,0 -121.403574,56.241002,0 -121.402839,56.241228,0 -121.402332,56.241343,0 -121.401699,56.241487,0 -121.400899,56.241611,0 -121.400225,56.241681,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4726,26 +4685,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Wahleach Access Rd and Exit 138</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 138: Bridal Falls Rd and Wahleach Access Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T15:14:42-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-121.680747,49.237546,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Riverside Rd, in both directions. Roadway obstruction between 233 Riverside Rd and 136 Riverside Rd.</name>
           <description>
         &lt;![CDATA[
@@ -4763,6 +4702,46 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-119.082816,50.670853,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Wahleach Access Rd and Exit 138</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 138: Bridal Falls Rd and Wahleach Access Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T16:15:47-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-121.680747,49.237546,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle at Second Narrows Bridge (North Vancouve</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T16:28:07-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.026346,49.295359,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5155,7 +5134,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 37&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Cassiar Rd and the end of Highway 37N for 116.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T15:50:11-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T16:07:24-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
