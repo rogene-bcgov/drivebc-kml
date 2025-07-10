@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-10 01:29:40 UTC
+        Last updated: 2025-07-10 02:19:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -817,6 +817,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.34238,56.244905,0 -121.337543,56.244435,0 -121.335821,56.244337,0 -121.334536,56.24436,0 -121.333245,56.244449,0 -121.32446,56.245232,0 -121.323227,56.245315,0 -121.322462,56.245289,0 -121.322399,56.245287,0 -121.321983,56.24524,0 -121.321183,56.245063,0 -121.320475,56.24479,0 -121.319766,56.244495,0 -121.319404,56.244342,0 -121.318736,56.244102,0 -121.317898,56.243861,0 -121.317226,56.243724,0 -121.316638,56.243625,0 -121.316133,56.243564,0 -121.315977,56.243547,0 -121.315724,56.243526,0 -121.315431,56.243506,0 -121.31509,56.243491,0 -121.314784,56.243484,0 -121.314528,56.243484,0 -121.314391,56.243484,0 -121.314115,56.24349,0 -121.313784,56.243505,0 -121.313542,56.243521,0 -121.313463,56.243526,0 -121.31319,56.243551,0 -121.31285,56.243586,0 -121.312499,56.243634,0 -121.312189,56.243684,0 -121.311648,56.243787,0 -121.311156,56.243903,0 -121.310744,56.244016,0 -121.309725,56.244372,0 -121.30867,56.244859,0 -121.307881,56.245225,0 -121.307251,56.245486,0 -121.306842,56.245645,0 -121.305597,56.246093,0 -121.304381,56.246515,0 -121.303748,56.246734,0 -121.302901,56.247035,0 -121.302287,56.247246,0 -121.301235,56.247609,0 -121.299637,56.248233,0 -121.297327,56.249387,0 -121.295076,56.250597,0 -121.292716,56.251893,0 -121.290853,56.25283,0 -121.290085,56.253272,0 -121.289502,56.253549,0 -121.284158,56.255984,0 -121.283145,56.256443,0 -121.282315,56.256821,0 -121.281378,56.257248,0 -121.280762,56.257514,0 -121.279731,56.257987,0 -121.278666,56.258487,0 -121.276643,56.2594,0 -121.274898,56.260161,0 -121.272841,56.261091,0 -121.27133,56.261789,0 -121.270405,56.262204,0 -121.269237,56.262754,0 -121.268077,56.263231,0 -121.267317,56.263616,0 -121.266852,56.263976,0 -121.26632,56.264352,0 -121.265752,56.264762,0 -121.26466,56.266014,0 -121.264061,56.266944,0 -121.263004,56.26818,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Alaska Highway). Road maintenance work planned between 221 Rd and Loiselle Subdiv for 0.</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 221 Rd and Loiselle Subdiv for 0.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T19:08:58-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.279951,55.782618,0 -120.280643,55.782909,0 -120.282308,55.783506,0 -120.282731,55.783659,0 -120.285346,55.784598,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4766,26 +4787,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.35359,51.480185,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident at Exit 29: Willingdon Ave (Burnaby). R</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 29: Willingdon Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T18:13:39-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.003967,49.257525,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
