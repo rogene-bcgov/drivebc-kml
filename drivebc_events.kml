@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-11 16:38:30 UTC
+        Last updated: 2025-07-11 17:02:51 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (234)</name>
+      <name>🚗 Traffic Events (238)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -885,6 +885,48 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 15 (Pacific Highway), in both directions. Utility work planned between 20 Ave and 26 Ave for</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 20 Ave and 26 Ave for 1.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T09:39:54-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.7352,49.03846,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0 -122.735303,49.049246,0 -122.735303,49.049311,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, in both directions. Rock scaling planned between Porteau Cove Rd and Sea View Dr for 2.5</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Porteau Cove Rd and Sea View Dr for 2.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T09:44:35-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.241821,49.545329,0 -123.241127,49.545813,0 -123.240535,49.546119,0 -123.239195,49.54664,0 -123.238524,49.546974,0 -123.238039,49.547259,0 -123.23765,49.547577,0 -123.237369,49.547888,0 -123.237217,49.548104,0 -123.237114,49.548352,0 -123.236855,49.549359,0 -123.236725,49.549697,0 -123.236572,49.549976,0 -123.236241,49.550391,0 -123.234884,49.551564,0 -123.234525,49.552025,0 -123.234203,49.552561,0 -123.233887,49.553167,0 -123.233827,49.553403,0 -123.233748,49.553817,0 -123.233735,49.554018,0 -123.233719,49.554157,0 -123.23354,49.555768,0 -123.233132,49.55727,0 -123.232985,49.55777,0 -123.232799,49.558441,0 -123.232716,49.558583,0 -123.232512,49.560318,0 -123.232512,49.560329,0 -123.232533,49.560646,0 -123.232559,49.560992,0 -123.232565,49.561134,0 -123.232581,49.561237,0 -123.232612,49.561381,0 -123.232645,49.561488,0 -123.232734,49.561661,0 -123.232786,49.561774,0 -123.232846,49.561902,0 -123.23293,49.562062,0 -123.233019,49.5622,0 -123.233182,49.562456,0 -123.233373,49.562695,0 -123.233457,49.562864,0 -123.233547,49.563082,0 -123.233599,49.563233,0 -123.233648,49.563431,0 -123.233657,49.563625,0 -123.233641,49.563882,0 -123.233622,49.564053,0 -123.233602,49.564206,0 -123.233586,49.564369,0 -123.233573,49.564556,0 -123.233541,49.564807,0 -123.233485,49.565042,0 -123.23343,49.565209,0 -123.233346,49.565398,0 -123.233318,49.56545,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 29, in both directions. Road maintenance work between Szoo Rd and Watson Rd for 6.2 km (52 t</name>
           <description>
         &lt;![CDATA[
@@ -903,6 +945,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.34238,56.244905,0 -121.337543,56.244435,0 -121.335821,56.244337,0 -121.334536,56.24436,0 -121.333245,56.244449,0 -121.32446,56.245232,0 -121.323227,56.245315,0 -121.322462,56.245289,0 -121.322399,56.245287,0 -121.321983,56.24524,0 -121.321183,56.245063,0 -121.320475,56.24479,0 -121.319766,56.244495,0 -121.319404,56.244342,0 -121.318736,56.244102,0 -121.317898,56.243861,0 -121.317226,56.243724,0 -121.316638,56.243625,0 -121.316133,56.243564,0 -121.315977,56.243547,0 -121.315724,56.243526,0 -121.315431,56.243506,0 -121.31509,56.243491,0 -121.314784,56.243484,0 -121.314528,56.243484,0 -121.314391,56.243484,0 -121.314115,56.24349,0 -121.313784,56.243505,0 -121.313542,56.243521,0 -121.313463,56.243526,0 -121.31319,56.243551,0 -121.31285,56.243586,0 -121.312499,56.243634,0 -121.312189,56.243684,0 -121.311648,56.243787,0 -121.311156,56.243903,0 -121.310744,56.244016,0 -121.309725,56.244372,0 -121.30867,56.244859,0 -121.307881,56.245225,0 -121.307251,56.245486,0 -121.306842,56.245645,0 -121.305597,56.246093,0 -121.304381,56.246515,0 -121.303748,56.246734,0 -121.302901,56.247035,0 -121.302287,56.247246,0 -121.301235,56.247609,0 -121.299637,56.248233,0 -121.297327,56.249387,0 -121.295076,56.250597,0 -121.292716,56.251893,0 -121.290853,56.25283,0 -121.290085,56.253272,0 -121.289502,56.253549,0 -121.284158,56.255984,0 -121.283145,56.256443,0 -121.282315,56.256821,0 -121.281378,56.257248,0 -121.280762,56.257514,0 -121.279731,56.257987,0 -121.278666,56.258487,0 -121.276643,56.2594,0 -121.274898,56.260161,0 -121.272841,56.261091,0 -121.27133,56.261789,0 -121.270405,56.262204,0 -121.269237,56.262754,0 -121.268077,56.263231,0 -121.267317,56.263616,0 -121.266852,56.263976,0 -121.26632,56.264352,0 -121.265752,56.264762,0 -121.26466,56.266014,0 -121.264061,56.266944,0 -121.263004,56.26818,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 33, in both directions. Utility work between Beaverdell Station Rd and Carmi Station for 5.2</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 33&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Beaverdell Station Rd and Carmi Station for 5.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T09:51:07-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.078408,49.445844,0 -119.07843,49.445989,0 -119.078558,49.446319,0 -119.078607,49.446445,0 -119.079639,49.447894,0 -119.080138,49.448488,0 -119.08069,49.44905,0 -119.081507,49.449724,0 -119.082237,49.450253,0 -119.083687,49.451161,0 -119.083951,49.451264,0 -119.084087,49.451349,0 -119.08417,49.451401,0 -119.084804,49.452085,0 -119.084989,49.452469,0 -119.085446,49.453929,0 -119.085939,49.455504,0 -119.086113,49.455895,0 -119.08735,49.458663,0 -119.087998,49.460112,0 -119.088218,49.46094,0 -119.088227,49.461018,0 -119.088399,49.462562,0 -119.088227,49.464623,0 -119.088153,49.46551,0 -119.088208,49.466179,0 -119.088517,49.466823,0 -119.089312,49.467712,0 -119.089555,49.468037,0 -119.089675,49.468237,0 -119.089832,49.468712,0 -119.089954,49.469599,0 -119.089971,49.470076,0 -119.090186,49.47057,0 -119.090213,49.470633,0 -119.090297,49.470713,0 -119.090771,49.471116,0 -119.091161,49.47135,0 -119.09138,49.471472,0 -119.091916,49.47164,0 -119.09427,49.47208,0 -119.094489,49.47216,0 -119.095007,49.472349,0 -119.095036,49.47236,0 -119.095449,49.472626,0 -119.09579,49.472938,0 -119.09594,49.473147,0 -119.096038,49.473283,0 -119.096167,49.47366,0 -119.096319,49.474445,0 -119.096634,49.474976,0 -119.096739,49.47507,0 -119.097014,49.475317,0 -119.097051,49.47535,0 -119.099044,49.476927,0 -119.099437,49.477427,0 -119.099911,49.478678,0 -119.100273,49.479278,0 -119.100294,49.479312,0 -119.100812,49.479946,0 -119.103153,49.482108,0 -119.104928,49.483778,0 -119.106395,49.485157,0 -119.107569,49.486225,0 -119.107605,49.486259,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -965,6 +1028,27 @@
           <Point>
             <coordinates>-119.625359,49.503553,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector). Utility work planned between Campbell Rd and Reichelt Rd for 0.9 km </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Campbell Rd and Reichelt Rd for 0.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T09:56:55-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.310137,51.591896,0 -121.309272,51.592894,0 -121.305446,51.597042,0 -121.30479,51.597621,0 -121.303557,51.598325,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla South), southbound. Utility work planned between Exit 192 and Exit 183: Othell</name>
@@ -4176,7 +4260,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 37: Gaglardi Way and Exit </name>
+          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Exit 37: Gaglardi Way and Exit 33: </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4186,7 +4270,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T09:23:58-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T09:55:11-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4213,26 +4297,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-120.845242,55.843217,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, westbound. Vehicle incident between Exit 11: Westminster Hwy and Exit 15 (Richmond). Lef</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 15 and Exit 11: Westminster Hwy&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T09:16:14-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.996778,49.169462,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4357,6 +4421,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Vehicle recovery between Goat River West Pit Rd</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Goat River West Pit Rd and West Twin Creek Bridge for 11.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T09:52:35-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.607963,53.4936,0 -120.606797,53.493948,0 -120.605053,53.494469,0 -120.603375,53.494969,0 -120.60241,53.495367,0 -120.601931,53.495614,0 -120.601381,53.495941,0 -120.600643,53.496495,0 -120.598968,53.498063,0 -120.598265,53.498608,0 -120.59788,53.498827,0 -120.596285,53.499545,0 -120.595949,53.499761,0 -120.595563,53.500073,0 -120.595506,53.500119,0 -120.594573,53.50109,0 -120.593965,53.501526,0 -120.593759,53.50162,0 -120.593481,53.501748,0 -120.592514,53.502049,0 -120.587754,53.50291,0 -120.586828,53.502982,0 -120.585904,53.502956,0 -120.585026,53.502793,0 -120.584467,53.502608,0 -120.584096,53.502486,0 -120.583288,53.502031,0 -120.582633,53.501392,0 -120.58105,53.499098,0 -120.580846,53.49865,0 -120.580752,53.498056,0 -120.581034,53.4964,0 -120.581684,53.492954,0 -120.581734,53.492451,0 -120.581638,53.491993,0 -120.581399,53.491528,0 -120.581236,53.491298,0 -120.580788,53.490896,0 -120.580222,53.490529,0 -120.579507,53.490219,0 -120.576955,53.489433,0 -120.572289,53.487995,0 -120.570936,53.487479,0 -120.569852,53.486991,0 -120.550025,53.476973,0 -120.548455,53.475943,0 -120.543846,53.472323,0 -120.53371,53.464361,0 -120.533321,53.463874,0 -120.533128,53.46348,0 -120.533025,53.46299,0 -120.533097,53.462475,0 -120.5334,53.461895,0 -120.535183,53.459794,0 -120.535458,53.45932,0 -120.53551,53.459187,0 -120.535648,53.458831,0 -120.535684,53.458737,0 -120.535828,53.458187,0 -120.535766,53.457234,0 -120.535617,53.456694,0 -120.533569,53.452264,0 -120.533001,53.451131,0 -120.5324,53.450287,0 -120.531708,53.449464,0 -120.530677,53.448522,0 -120.530623,53.448472,0 -120.527609,53.446307,0 -120.526145,53.445298,0 -120.525459,53.444924,0 -120.524269,53.444446,0 -120.523531,53.444225,0 -120.519951,53.443384,0 -120.519301,53.443186,0 -120.519201,53.443156,0 -120.518649,53.442904,0 -120.518085,53.442552,0 -120.51748,53.441991,0 -120.515611,53.439905,0 -120.515117,53.439357,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. </name>
           <description>
         &lt;![CDATA[
@@ -4469,7 +4554,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At 240 St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T08:09:46-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T09:46:42-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
