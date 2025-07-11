@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-11 14:36:20 UTC
+        Last updated: 2025-07-11 15:01:47 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -310,7 +310,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3A, in both directions. Roadside brushing planned between Willow St and Poplar St for 0.1 km</name>
+          <name>Highway 3A, in both directions. Roadside brushing between Willow St and Poplar St for 0.1 km (Nelson</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -320,7 +320,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Willow St and Poplar St for 0.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T16:17:56-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T08:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -331,7 +331,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 49, in both directions. Road maintenance work planned between Collins Rd and Rolla Rd for 0.</name>
+          <name>Highway 49, in both directions. Road maintenance work between Collins Rd and Rolla Rd for 0.4 km (2 </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -341,7 +341,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 49&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Collins Rd and Rolla Rd for 0.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T17:25:12-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T08:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -1942,27 +1942,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector), southbound. Utility work planned between McNaughton Ave and Barlow A</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Barlow Ave and McNaughton Ave for 0.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-04T08:40:33-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.498311,52.978514,0 -122.498362,52.978926,0 -122.498499,52.979842,0 -122.4986,52.980517,0 -122.498605,52.98055,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 5 (Coquihalla South), northbound. Bridge maintenance between the start of Highway 5 (Coquiha</name>
           <description>
         &lt;![CDATA[
@@ -1981,6 +1960,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.361834,49.370987,0 -121.361933,49.371035,0 -121.362582,49.371408,0 -121.363007,49.371707,0 -121.36344,49.372091,0 -121.363762,49.372455,0 -121.364134,49.373014,0 -121.364269,49.373315,0 -121.364423,49.373839,0 -121.364466,49.374282,0 -121.364403,49.374931,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), southbound. Utility work between McNaughton Ave and Barlow Ave for 0</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Barlow Ave and McNaughton Ave for 0.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.498311,52.978514,0 -122.498362,52.978926,0 -122.498499,52.979842,0 -122.4986,52.980517,0 -122.498605,52.98055,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4702,7 +4702,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Skeena Old Bridge (100th Anniversary)&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Marsh Crescent and Queensway in Terrace&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T15:08:38-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T07:48:55-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
