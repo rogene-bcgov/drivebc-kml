@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-11 01:29:50 UTC
+        Last updated: 2025-07-11 02:19:52 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (243)</name>
+      <name>🚗 Traffic Events (246)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -556,6 +556,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 97C (Okanagan Connector), eastbound. Shoulder maintenance between Pennask Summit and Brenda </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97C&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Brenda Mine Rd and Pennask Summit for 10.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T19:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.934826,49.869493,0 -119.935198,49.869604,0 -119.935323,49.869642,0 -119.936227,49.869914,0 -119.93725,49.870393,0 -119.937789,49.870734,0 -119.938263,49.871033,0 -119.939065,49.871843,0 -119.939475,49.872475,0 -119.939796,49.873315,0 -119.939868,49.873982,0 -119.939836,49.874433,0 -119.939735,49.874942,0 -119.939396,49.87573,0 -119.938671,49.876737,0 -119.933168,49.884374,0 -119.932827,49.885067,0 -119.932705,49.885314,0 -119.932624,49.885639,0 -119.932618,49.885664,0 -119.93248,49.886217,0 -119.932482,49.887151,0 -119.932679,49.88806,0 -119.933074,49.888949,0 -119.933616,49.889731,0 -119.934305,49.890474,0 -119.934764,49.890828,0 -119.93518,49.89115,0 -119.936303,49.891813,0 -119.937384,49.892296,0 -119.938719,49.892709,0 -119.940137,49.892991,0 -119.94161,49.893161,0 -119.952888,49.894201,0 -119.956928,49.894521,0 -119.961285,49.894737,0 -119.971289,49.894997,0 -119.973649,49.895205,0 -119.975929,49.895584,0 -119.978178,49.896143,0 -119.980468,49.896939,0 -119.982183,49.89769,0 -119.984052,49.898729,0 -119.988715,49.901598,0 -119.989106,49.901786,0 -119.989947,49.902189,0 -119.991327,49.902707,0 -119.992884,49.903149,0 -120.00002,49.904476,0 -120.016495,49.907536,0 -120.018057,49.907826,0 -120.019412,49.908078,0 -120.022957,49.908861,0 -120.028043,49.91001,0 -120.02808,49.910019,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Boys Rd, in both directions. Utility work between Highway 1 and Mission Rd. Until Fri Oct 31. From 7</name>
           <description>
         &lt;![CDATA[
@@ -573,6 +594,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.691282,48.769591,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, eastbound. Road maintenance work between 136 St and 104 Ave (Surrey). Until Fri Jul 11. </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 136 St and 104 Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T18:42:28-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.811553,49.214257,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -2459,7 +2500,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19 (Inland Island Highway), in both directions. Electrical maintenance planned between Horne</name>
+          <name>Highway 19 (Inland Island Highway), in both directions. Electrical maintenance between Horne Lake Rd</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2469,7 +2510,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Horne Lake Rd and Corcan Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-09T12:14:15-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T19:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4401,6 +4442,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Stalled vehicle between Welch St and Lions Gate Bridge (West Vancouver). Rig</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Lions Gate Bridge and Welch St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T19:12:58-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.136191,49.317931,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Constructio</name>
           <description>
         &lt;![CDATA[
@@ -4706,7 +4767,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Wahleach Access Rd and Exit 138</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Wahleach Access Rd and Exit 138: Br</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4716,7 +4777,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 138: Bridal Falls Rd and Wahleach Access Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T18:00:41-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T19:09:55-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
