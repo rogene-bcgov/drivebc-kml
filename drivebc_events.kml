@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-11 23:01:47 UTC
+        Last updated: 2025-07-11 23:33:48 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (235)</name>
+      <name>🚗 Traffic Events (234)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1899,6 +1899,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Road construction work planned between Hemlock </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Hemlock Grove Boardwalk and Illecillewaet Campground for 0.6 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T16:20:54-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.623371,51.246764,0 -117.622178,51.247027,0 -117.620972,51.247292,0 -117.620777,51.247335,0 -117.617498,51.247871,0 -117.616535,51.248077,0 -117.616512,51.248083,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 17 (Patricia Bay Highway), northbound. Utility work planned between Haliburton Rd and Gliddo</name>
           <description>
         &lt;![CDATA[
@@ -2332,27 +2353,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.781554,53.920544,0 -122.781553,53.920568,0 -122.781552,53.920659,0 -122.781551,53.920848,0 -122.781528,53.923048,0 -122.781523,53.923608,0 -122.781519,53.92363,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Road construction work planned between Hemlock </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Hemlock Grove Boardwalk and Illecillewaet Campground for 0.6 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T17:10:17-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.623371,51.246764,0 -117.622178,51.247027,0 -117.620972,51.247292,0 -117.620777,51.247335,0 -117.617498,51.247871,0 -117.616535,51.248077,0 -117.616512,51.248083,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3804,27 +3804,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3A, in both directions. Utility work between Crescent Bay Rd and Sundance Rd for 0.4 km (14 </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Crescent Bay Rd and Sundance Rd for 0.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T08:30:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.162471,49.605081,0 -117.160687,49.605755,0 -117.160527,49.605816,0 -117.160241,49.605986,0 -117.159081,49.606917,0 -117.158619,49.607187,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Port Mann Bridge (Surrey). Until S</name>
           <description>
         &lt;![CDATA[
@@ -3883,27 +3862,6 @@
           <Point>
             <coordinates>-121.782292,49.30251,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3A, in both directions. Utility work between Sundance Rd and Starlight Rd for 1.5 km (14 to </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Sundance Rd and Starlight Rd for 1.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T08:30:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.158619,49.607187,0 -117.157974,49.607497,0 -117.157257,49.607761,0 -117.156279,49.607989,0 -117.155185,49.608122,0 -117.153623,49.608133,0 -117.150242,49.608158,0 -117.143392,49.608033,0 -117.142977,49.608017,0 -117.142374,49.607962,0 -117.141368,49.607848,0 -117.140549,49.607722,0 -117.139549,49.607569,0 -117.138615,49.60727,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Cypress Bowl Rd, in both directions. Industrial traffic may slow or block regular traffic. Between U</name>
@@ -4562,6 +4520,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Collision between Mapes Rd and Sob Lake Rd for </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Mapes Rd and Sob Lake Rd for 7.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T16:24:33-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.849327,53.952382,0 -123.847343,53.950967,0 -123.846579,53.950423,0 -123.845599,53.949816,0 -123.844903,53.949526,0 -123.844306,53.949341,0 -123.843663,53.949197,0 -123.842927,53.949099,0 -123.842165,53.949065,0 -123.834235,53.949061,0 -123.83355,53.949045,0 -123.832774,53.948979,0 -123.832007,53.948856,0 -123.831986,53.948851,0 -123.831169,53.948659,0 -123.828704,53.947884,0 -123.827689,53.947565,0 -123.82551,53.946882,0 -123.825179,53.946811,0 -123.824714,53.946712,0 -123.823902,53.9466,0 -123.823075,53.946548,0 -123.822129,53.946555,0 -123.813087,53.94733,0 -123.809834,53.947571,0 -123.806935,53.94781,0 -123.806724,53.947813,0 -123.805977,53.947824,0 -123.804963,53.947784,0 -123.803443,53.947653,0 -123.800658,53.947414,0 -123.800557,53.947406,0 -123.800004,53.947363,0 -123.797687,53.94718,0 -123.796637,53.947184,0 -123.788966,53.947569,0 -123.788402,53.947597,0 -123.783074,53.947865,0 -123.777762,53.948131,0 -123.776411,53.948107,0 -123.77616,53.948102,0 -123.769182,53.947924,0 -123.768426,53.947865,0 -123.768253,53.947831,0 -123.767272,53.947642,0 -123.766844,53.94751,0 -123.766378,53.947367,0 -123.765447,53.94698,0 -123.765373,53.946949,0 -123.764283,53.946442,0 -123.76412,53.946366,0 -123.761048,53.944937,0 -123.760476,53.944633,0 -123.75998,53.94431,0 -123.759305,53.943805,0 -123.752908,53.938424,0 -123.752687,53.938238,0 -123.75147,53.937213,0 -123.750965,53.936789,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 3A. Watch for falling rocks between Kootenay Bay Ferry and Junction Hwy 3 for 78.0 km (1 km </name>
           <description>
         &lt;![CDATA[
@@ -4973,7 +4952,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 37&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Cassiar Rd and the end of Highway 37N for 116.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T06:48:44-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-11T16:07:47-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
