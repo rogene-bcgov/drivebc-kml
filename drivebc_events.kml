@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-11 04:13:22 UTC
+        Last updated: 2025-07-11 04:42:18 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (244)</name>
+      <name>🚗 Traffic Events (245)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -431,27 +431,6 @@
           <Point>
             <coordinates>-121.318636,49.388211,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between 248 St and Exit 73</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Exit 73 for 3.8 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T13:13:32-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.537041,49.118697,0 -122.530215,49.116002,0 -122.529425,49.115691,0 -122.528213,49.115212,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493315,49.101517,0 -122.493081,49.101427,0 -122.492806,49.101322,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Road maintenance work planned between Horsey Cr</name>
@@ -1027,6 +1006,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 17, eastbound. Road construction work between Tannery Rd and Bridgeview Dr for 3.3 km (Surre</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Tannery Rd and Bridgeview Dr for 3.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T21:24:04-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.893002,49.196199,0 -122.89264,49.196554,0 -122.891875,49.197357,0 -122.890947,49.198433,0 -122.890107,49.199406,0 -122.889864,49.19965,0 -122.88769,49.201793,0 -122.886696,49.202704,0 -122.886465,49.202897,0 -122.886111,49.20317,0 -122.885823,49.203397,0 -122.88555,49.203615,0 -122.885101,49.204022,0 -122.884891,49.204243,0 -122.884697,49.204493,0 -122.884527,49.20473,0 -122.884373,49.205,0 -122.884138,49.205419,0 -122.88403,49.20575,0 -122.88401,49.205844,0 -122.883978,49.206029,0 -122.883934,49.206184,0 -122.883837,49.206506,0 -122.88373,49.206748,0 -122.883569,49.207085,0 -122.883444,49.207272,0 -122.883355,49.207379,0 -122.883255,49.207501,0 -122.882117,49.208909,0 -122.881532,49.209562,0 -122.881238,49.209831,0 -122.881076,49.209979,0 -122.880807,49.210213,0 -122.880501,49.210423,0 -122.879861,49.210853,0 -122.879336,49.211133,0 -122.879117,49.211249,0 -122.878488,49.211526,0 -122.877761,49.211799,0 -122.876575,49.212187,0 -122.875602,49.212492,0 -122.874639,49.212799,0 -122.873916,49.212957,0 -122.873119,49.213099,0 -122.87252,49.213161,0 -122.87193,49.213207,0 -122.871154,49.213218,0 -122.86739,49.213187,0 -122.86248,49.213157,0 -122.861921,49.213152,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97. Mowing between Kloss Rd and Hasler Rd for 123.1 km (23 km south of Chetwynd to 16 km nor</name>
           <description>
         &lt;![CDATA[
@@ -1086,6 +1086,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.76425,51.179261,0 -117.763443,51.179792,0 -117.761823,51.180858,0 -117.760608,51.181795,0 -117.759533,51.182624,0 -117.757574,51.184274,0 -117.756942,51.184806,0 -117.756355,51.185262,0 -117.755826,51.185595,0 -117.755453,51.185779,0 -117.755254,51.185878,0 -117.754406,51.186191,0 -117.753152,51.186545,0 -117.752323,51.186779,0 -117.751597,51.187042,0 -117.750973,51.187354,0 -117.750498,51.187712,0 -117.750022,51.188255,0 -117.749727,51.188955,0 -117.749461,51.189814,0 -117.748881,51.191686,0 -117.748566,51.192447,0 -117.748277,51.192886,0 -117.748139,51.193096,0 -117.745881,51.195896,0 -117.745706,51.196142,0 -117.74546,51.196489,0 -117.745238,51.196943,0 -117.745139,51.19732,0 -117.74515,51.197721,0 -117.745534,51.199757,0 -117.745557,51.199996,0 -117.745607,51.200525,0 -117.745577,51.200712,0 -117.745528,51.201023,0 -117.745352,51.201379,0 -117.745204,51.201675,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work between 248 St and Exit 73 for 3.8</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Exit 73 for 3.8 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T21:30:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.537041,49.118697,0 -122.530215,49.116002,0 -122.529425,49.115691,0 -122.528213,49.115212,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493315,49.101517,0 -122.493081,49.101427,0 -122.492806,49.101322,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
