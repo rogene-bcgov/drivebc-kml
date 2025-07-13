@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-13 06:02:25 UTC
+        Last updated: 2025-07-13 06:40:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3826,25 +3826,24 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Vehicle incident between Keith Rd and Clyde Ave for 0.3 km (West Vancouver).</name>
+          <name>Highway 7 (Lougheed Highway), in both directions. Vehicle incident at Haney Bypass S (Maple Ridge). </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Clyde Ave and Keith Rd for 0.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-12T22:16:09-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Haney Bypass S&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-12T23:21:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.134913,49.328358,0 -123.134919,49.329063,0 -123.134921,49.329267,0 -123.134924,49.329725,0 -123.134925,49.329826,0 -123.134924,49.330063,0 -123.134931,49.330845,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-122.58003,49.203243,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. </name>
