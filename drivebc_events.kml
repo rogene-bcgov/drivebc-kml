@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-13 17:01:31 UTC
+        Last updated: 2025-07-13 17:34:21 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (210)</name>
+      <name>🚗 Traffic Events (211)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1404,26 +1404,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>COLLEYMOUNT ROAD, in both directions. Seal coating between FERRY LANDING and SHORT RD near Burns Lak</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; COLLEYMOUNT ROAD&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between FERRY LANDING and SHORT RD near Burns Lake&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-13T09:04:36-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-125.753858,54.052481,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and S</name>
           <description>
         &lt;![CDATA[
@@ -1464,6 +1444,26 @@
             <tessellate>1</tessellate>
             <coordinates>-121.766602,49.240568,0 -121.766426,49.240459,0 -121.765976,49.240182,0 -121.765912,49.240146,0 -121.765062,49.240076,0 -121.761335,49.239775,0 -121.75981,49.239493,0 -121.758956,49.239367,0 -121.752145,49.238849,0 -121.750206,49.238747,0 -121.750035,49.238738,0 -121.749223,49.238739,0 -121.748888,49.238739,0 -121.748376,49.238777,0 -121.747784,49.238822,0 -121.747096,49.238924,0 -121.746419,49.239025,0 -121.745752,49.23918,0 -121.745115,49.239329,0 -121.7441,49.239573,0 -121.743217,49.239886,0 -121.74218,49.240386,0 -121.741292,49.240921,0 -121.740707,49.241352,0 -121.740363,49.241648,0 -121.739668,49.242352,0 -121.737275,49.244882,0 -121.736724,49.245505,0 -121.736544,49.245684,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Colleymount Rd, in both directions. Seal coating between Ferry Landing and Short Rd near Burns Lake.</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Colleymount Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Ferry Landing and Short Rd near Burns Lake&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-13T10:03:21-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-125.753858,54.052481,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Alaska Highway). Crack sealing is underway between 245 Rd and Loiselle Subdiv for 22.3 k</name>
@@ -3987,6 +3987,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Needles Ferry, westbound. 1 sailing wait between Fauquier BC and Needles BC. Expect delays. Next upd</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Fauquier BC and Needles BC&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-13T10:15:21-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.089839,49.872978,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between East Lake Dr and Highway 3B for 39.8 </name>
           <description>
         &lt;![CDATA[
@@ -4060,7 +4080,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Ashnola Road&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Buckhorn Campground near Keremeos&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-12T19:54:04-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-13T10:12:59-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
