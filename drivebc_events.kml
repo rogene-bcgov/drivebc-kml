@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-13 05:03:35 UTC
+        Last updated: 2025-07-13 05:36:14 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3806,27 +3806,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Vehicle incident between Keith Rd and Clyde Ave for 0.3 km (West Vancouver).</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Clyde Ave and Keith Rd for 0.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-12T21:33:42-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.134913,49.328358,0 -123.134919,49.329063,0 -123.134921,49.329267,0 -123.134924,49.329725,0 -123.134925,49.329826,0 -123.134924,49.330063,0 -123.134931,49.330845,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave Rest Area (14 km east of East Boundary</name>
           <description>
         &lt;![CDATA[
@@ -3845,6 +3824,27 @@
           <Point>
             <coordinates>-117.35359,51.480185,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Vehicle incident between Keith Rd and Clyde Ave for 0.3 km (West Vancouver).</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Clyde Ave and Keith Rd for 0.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-12T22:16:09-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.134913,49.328358,0 -123.134919,49.329063,0 -123.134921,49.329267,0 -123.134924,49.329725,0 -123.134925,49.329826,0 -123.134924,49.330063,0 -123.134931,49.330845,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. </name>
