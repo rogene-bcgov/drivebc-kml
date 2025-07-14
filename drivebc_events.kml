@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-14 15:01:52 UTC
+        Last updated: 2025-07-14 15:36:12 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (225)</name>
+      <name>🚗 Traffic Events (224)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1982,27 +1982,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 2. Road maintenance work planned between 204 Rd and Clark Rd for 0.4 km (1 to 2 km south of </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 2&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 204 Rd and Clark Rd for 0.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T05:27:58-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.126554,55.699696,0 -120.126499,55.700001,0 -120.126315,55.701028,0 -120.126044,55.702262,0 -120.125761,55.703709,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), northbound. Construction work between Crace St and Nicol St for 0.1</name>
           <description>
         &lt;![CDATA[
@@ -2582,6 +2561,27 @@
           <Point>
             <coordinates>-123.056858,49.090225,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 2. Road maintenance work between Old Edmonton Hwy and Fletcher Rd for 0.2 km (2 km north of </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 2&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Old Edmonton Hwy and Fletcher Rd for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T08:00:30-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.029687,55.484976,0 -120.031053,55.485408,0 -120.031214,55.485459,0 -120.031364,55.485515,0 -120.031946,55.485735,0 -120.032465,55.48593,0 -120.033062,55.486235,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Road construction work between Gladwin Rd and N</name>
@@ -4357,26 +4357,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between United Blvd and Exit 44 (Coquitlam)</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 44 and United Blvd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T07:44:40-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.828505,49.228487,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 10, eastbound. Vehicle incident between 184 St and 188 St (Surrey). Right lane is blocked. E</name>
           <description>
         &lt;![CDATA[
@@ -4387,7 +4367,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 184 St and 188 St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T07:36:56-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T08:17:42-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4763,7 +4743,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 37&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Cassiar Rd and the end of Highway 37N for 116.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-13T15:47:31-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T08:10:58-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
