@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-14 02:20:17 UTC
+        Last updated: 2025-07-14 03:08:56 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (207)</name>
+      <name>🚗 Traffic Events (208)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -245,6 +245,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-121.936918,53.066904,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, in both directions. Road maintenance work between Old Yale Rd and Bridgeview Dr (Surrey)</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Old Yale Rd and Bridgeview Dr&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-13T19:56:02-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.868361,49.213195,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -3946,7 +3966,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>White Lake Rd, in both directions. Vehicle incident at St Andrews Rd. Road closed. Watch for traffic</name>
+          <name>White Lake Rd, in both directions. Road cleared at St Andrews Rd. Last updated Sun Jul 13 at 8:03 PM</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3956,8 +3976,8 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; White Lake Rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At St Andrews Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-13T18:32:11-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-13T20:03:58-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
