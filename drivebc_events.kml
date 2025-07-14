@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-14 20:02:08 UTC
+        Last updated: 2025-07-14 20:36:03 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (237)</name>
+      <name>🚗 Traffic Events (239)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1688,6 +1688,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.337813,50.767105,0 -119.337633,50.766477,0 -119.337511,50.766239,0 -119.337058,50.765789,0 -119.335429,50.764749,0 -119.334612,50.764189,0 -119.333886,50.763578,0 -119.333709,50.763365,0 -119.331727,50.761581,0 -119.331217,50.761226,0 -119.330665,50.760914,0 -119.330097,50.760635,0 -119.328438,50.759941,0 -119.327612,50.759489,0 -119.326714,50.758796,0 -119.325591,50.757727,0 -119.325337,50.757329,0 -119.325126,50.75671,0 -119.324975,50.754194,0 -119.324993,50.753578,0 -119.325431,50.751691,0 -119.325455,50.750771,0 -119.325446,50.750548,0 -119.325442,50.750456,0 -119.32532,50.750019,0 -119.324906,50.749358,0 -119.324107,50.748371,0 -119.323732,50.747919,0 -119.323636,50.747802,0 -119.32332,50.747243,0 -119.323273,50.747159,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), in both directions. Maintenance planned between Mill Rd and Bodnar Rd </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Mill Rd and Bodnar Rd for 4.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T13:27:28-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.935423,49.240886,0 -121.929919,49.239761,0 -121.927916,49.239351,0 -121.924915,49.238639,0 -121.918916,49.237194,0 -121.918484,49.237099,0 -121.918238,49.237045,0 -121.918081,49.237011,0 -121.91742,49.236973,0 -121.916775,49.237062,0 -121.91628,49.237207,0 -121.915798,49.237453,0 -121.914228,49.238552,0 -121.913807,49.238781,0 -121.913597,49.238895,0 -121.913315,49.238987,0 -121.91303,49.239081,0 -121.912438,49.239219,0 -121.912285,49.239234,0 -121.911782,49.239283,0 -121.911092,49.239278,0 -121.910257,49.239167,0 -121.909766,49.239018,0 -121.909371,49.238899,0 -121.908795,49.238606,0 -121.908604,49.23851,0 -121.908241,49.238219,0 -121.906497,49.236822,0 -121.906233,49.236607,0 -121.904393,49.235124,0 -121.901878,49.233636,0 -121.900972,49.233129,0 -121.900355,49.232795,0 -121.900251,49.23274,0 -121.900107,49.232662,0 -121.899152,49.232145,0 -121.898456,49.231911,0 -121.898291,49.231856,0 -121.897717,49.231715,0 -121.896956,49.231643,0 -121.896567,49.231633,0 -121.892714,49.231529,0 -121.891825,49.2314,0 -121.891018,49.23121,0 -121.889756,49.230949,0 -121.889439,49.230884,0 -121.888884,49.230806,0 -121.888042,49.230798,0 -121.887684,49.23084,0 -121.886255,49.23101,0 -121.885362,49.231116,0 -121.88481,49.231116,0 -121.884751,49.231116,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4518,6 +4539,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-119.488476,49.88356,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between 248 St and Exit 73 (Langley - D</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Exit 73&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T13:09:30-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.527408,49.114898,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
