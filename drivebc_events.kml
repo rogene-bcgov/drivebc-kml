@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-15 06:42:13 UTC
+        Last updated: 2025-07-15 07:03:30 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (241)</name>
+      <name>🚗 Traffic Events (243)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4315,6 +4315,47 @@
           <Point>
             <coordinates>-122.674115,53.676325,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, westbound. Vehicle incident at Grace Rd (Surrey). Left lane is blocked. Next update time</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Grace Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T23:47:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.905342,49.184652,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Stalled vehicle between Exit 26 and Exit 28 for 2.5 km (Delta). Right lane i</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 26 and Exit 28 for 2.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T23:48:23-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.026551,49.095394,0 -123.026691,49.095422,0 -123.027399,49.095559,0 -123.028104,49.095703,0 -123.028875,49.095893,0 -123.029787,49.096173,0 -123.029966,49.096242,0 -123.030682,49.096515,0 -123.031229,49.096756,0 -123.039738,49.100612,0 -123.047739,49.104212,0 -123.04996,49.105211,0 -123.055538,49.107769,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>265 Road. Bridge damaged between 214 and 216 near Dawson Creek. Road closed. Detour in effect. Pleas</name>
