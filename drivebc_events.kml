@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-15 20:01:50 UTC
+        Last updated: 2025-07-15 20:36:03 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1613,6 +1613,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross R</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 18: Keating Cross Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-15T13:02:11-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.397066,48.563797,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Electrical maintenance at Morden Rd (2 km south</name>
           <description>
         &lt;![CDATA[
@@ -1652,26 +1672,6 @@
             <tessellate>1</tessellate>
             <coordinates>-130.323139,54.314971,0 -130.321984,54.315677,0 -130.321106,54.31518,0 -130.320959,54.3151,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross R</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 18: Keating Cross Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-03-11T07:06:13-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.397066,48.563797,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 19A (Island Highway). Construction work between Henry Rd and Heard Rd for 2.8 km (4 to 1 km </name>
@@ -3947,26 +3947,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Timberlands Rd. Road maintenance work at Highway 1 near Nanaimo. Until Tue Jul 15 at 2:00 PM PDT. Ro</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Timberlands Rd&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Highway 1 near Nanaimo&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-15T08:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.878567,49.043959,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 4, westbound. Electrical maintenance planned at Muir Rd (Port Alberni). Starting Tue Jul 22 </name>
           <description>
         &lt;![CDATA[
@@ -5008,7 +4988,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Alex Fraser Bridge and River Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-15T12:35:44-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-15T13:25:50-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
