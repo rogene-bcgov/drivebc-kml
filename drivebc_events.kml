@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-16 12:44:02 UTC
+        Last updated: 2025-07-16 13:13:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1092,26 +1092,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations at Exit 27: E 1st Ave (Vancouver). Unt</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 27: E 1st Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-15T23:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.027735,49.269374,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 5 (Coquihalla South), southbound. Utility work planned between Exit 192 and Exit 183: Othell</name>
           <description>
         &lt;![CDATA[
@@ -1733,6 +1713,27 @@
           <Point>
             <coordinates>-122.968965,49.321323,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla North), in both directions. Mowing between Exit 315: Helmer Rd and Exit 336: W</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 315: Helmer Rd and Exit 336: Walloper Interchange for 20.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T05:44:38-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.639602,50.313761,0 -120.63909,50.315184,0 -120.63709,50.320741,0 -120.636203,50.323167,0 -120.636052,50.323587,0 -120.632607,50.333169,0 -120.63218,50.334356,0 -120.631932,50.335046,0 -120.631139,50.336925,0 -120.630831,50.337654,0 -120.630171,50.339434,0 -120.629726,50.340625,0 -120.629147,50.342434,0 -120.62822,50.345329,0 -120.627025,50.34865,0 -120.626501,50.350268,0 -120.626482,50.350377,0 -120.626253,50.351672,0 -120.62623,50.352636,0 -120.626383,50.354729,0 -120.626635,50.357498,0 -120.626949,50.360304,0 -120.626989,50.360785,0 -120.627396,50.365678,0 -120.627404,50.365894,0 -120.627433,50.366672,0 -120.627334,50.367834,0 -120.627258,50.368295,0 -120.627054,50.369124,0 -120.626658,50.370736,0 -120.625591,50.375085,0 -120.625219,50.376599,0 -120.624906,50.378358,0 -120.62472,50.380552,0 -120.624554,50.383105,0 -120.623693,50.394746,0 -120.623303,50.400009,0 -120.622975,50.404437,0 -120.622803,50.406763,0 -120.62277,50.407212,0 -120.622627,50.409143,0 -120.62259,50.409647,0 -120.622217,50.412041,0 -120.621771,50.413789,0 -120.621491,50.414696,0 -120.621033,50.415887,0 -120.620625,50.416947,0 -120.619917,50.418447,0 -120.618683,50.420579,0 -120.617893,50.421775,0 -120.616561,50.423616,0 -120.615272,50.425107,0 -120.615145,50.425243,0 -120.613891,50.426582,0 -120.610761,50.429534,0 -120.604872,50.435082,0 -120.602329,50.437391,0 -120.599997,50.439107,0 -120.598522,50.440192,0 -120.596361,50.441782,0 -120.594605,50.443444,0 -120.593706,50.444521,0 -120.592652,50.446125,0 -120.592398,50.44674,0 -120.592197,50.447229,0 -120.591733,50.44868,0 -120.591542,50.449684,0 -120.591489,50.45042,0 -120.591463,50.457739,0 -120.591376,50.458178,0 -120.591264,50.45875,0 -120.590995,50.459713,0 -120.59066,50.460482,0 -120.590639,50.460519,0 -120.590564,50.460653,0 -120.59039,50.460963,0 -120.58996,50.461728,0 -120.589779,50.46205,0 -120.589654,50.462208,0 -120.588674,50.463437,0 -120.588265,50.46395,0 -120.587314,50.464806,0 -120.586771,50.465207,0 -120.586686,50.46527,0 -120.58586,50.46588,0 -120.584848,50.466627,0 -120.573788,50.474377,0 -120.573364,50.47467,0 -120.570184,50.476863,0 -120.56859,50.47796,0 -120.561769,50.482658,0 -120.561039,50.483088,0 -120.560144,50.483536,0 -120.559928,50.483645,0 -120.559618,50.483765,0 -120.558704,50.484118,0 -120.557509,50.484451,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 17 (Patricia Bay Highway), southbound. Maintenance between Exit 21: Mt Newton Cross Rd and E</name>
@@ -3367,7 +3368,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Bridge maintenance planned between Columbia Riv</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Bridge maintenance between Columbia River Bridg</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3377,7 +3378,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Columbia River Bridge and Victoria Rd W&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-10T07:14:09-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T06:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
