@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-16 20:36:16 UTC
+        Last updated: 2025-07-16 21:01:45 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3777,6 +3777,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Crack sealing is planned between Summit Dr and </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Summit Dr and Valleyview Dr for 3.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T13:40:49-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.347449,50.662211,0 -120.347231,50.662214,0 -120.346877,50.662205,0 -120.344019,50.662132,0 -120.340275,50.661926,0 -120.336459,50.661765,0 -120.33471,50.66173,0 -120.330509,50.661737,0 -120.329666,50.661743,0 -120.328449,50.661751,0 -120.32778,50.661756,0 -120.324741,50.661804,0 -120.323367,50.661826,0 -120.32215,50.66194,0 -120.32015,50.662249,0 -120.318901,50.662559,0 -120.317428,50.662998,0 -120.315808,50.663627,0 -120.314755,50.664146,0 -120.313974,50.664602,0 -120.313011,50.665335,0 -120.312463,50.665789,0 -120.311401,50.666669,0 -120.310821,50.667063,0 -120.31006,50.667466,0 -120.307974,50.668287,0 -120.306644,50.66881,0 -120.304966,50.669508,0 -120.303313,50.670435,0 -120.303302,50.670441,0 -120.302025,50.671183,0 -120.300986,50.671679,0 -120.299595,50.672121,0 -120.298019,50.672544,0 -120.297679,50.672635,0 -120.297466,50.672692,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Construction work at Exit 73 (Langley - District). Until</name>
           <description>
         &lt;![CDATA[
@@ -3795,27 +3816,6 @@
           <Point>
             <coordinates>-122.492806,49.101322,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Maintenance planned between Pacific Way and Val</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Pacific Way and Valleyview Dr for 4.8 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T12:39:19-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.358982,50.659843,0 -120.356953,50.660706,0 -120.355922,50.661051,0 -120.355243,50.661201,0 -120.354625,50.661297,0 -120.349873,50.662037,0 -120.347893,50.662179,0 -120.347449,50.662211,0 -120.347231,50.662214,0 -120.346877,50.662205,0 -120.344019,50.662132,0 -120.340275,50.661926,0 -120.336459,50.661765,0 -120.33471,50.66173,0 -120.330509,50.661737,0 -120.329666,50.661743,0 -120.328449,50.661751,0 -120.32778,50.661756,0 -120.324741,50.661804,0 -120.323367,50.661826,0 -120.32215,50.66194,0 -120.32015,50.662249,0 -120.318901,50.662559,0 -120.317428,50.662998,0 -120.315808,50.663627,0 -120.314755,50.664146,0 -120.313974,50.664602,0 -120.313011,50.665335,0 -120.312463,50.665789,0 -120.311401,50.666669,0 -120.310821,50.667063,0 -120.31006,50.667466,0 -120.307974,50.668287,0 -120.306644,50.66881,0 -120.304966,50.669508,0 -120.303313,50.670435,0 -120.303302,50.670441,0 -120.302025,50.671183,0 -120.300986,50.671679,0 -120.299595,50.672121,0 -120.298019,50.672544,0 -120.297679,50.672635,0 -120.297466,50.672692,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97C (Okanagan Connector), in both directions. Paving operations between Loon Lake Rd and Kan</name>
