@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-16 17:36:52 UTC
+        Last updated: 2025-07-16 18:02:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (258)</name>
+      <name>🚗 Traffic Events (259)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2665,7 +2665,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97, southbound. Shoulder maintenance planned between Wabi Estates and 52nd St NW for 4.6 km </name>
+          <name>Highway 97, southbound. Shoulder maintenance between Wabi Estates and 52nd St NW for 4.6 km (Chetwyn</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2675,7 +2675,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 52nd St NW and Wabi Estates for 4.6 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T09:33:33-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T11:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3242,6 +3242,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.027735,49.269374,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 2. Electrical maintenance at 103 Ave (Dawson Creek). Until Wed Jul 16 at 1:00 PM MST. Inters</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 2&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At 103 Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T11:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.224557,55.756326,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5058,25 +5078,24 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle recovery between Oak Dr and Greely Rd f</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle at Second Narrows Bridge (North Vancouve</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Oak Dr and Greely Rd for 5.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T07:33:54-07:00&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T10:58:58-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.157129,50.99387,0 -118.156074,50.993451,0 -118.155124,50.993075,0 -118.153688,50.992616,0 -118.153308,50.992527,0 -118.152728,50.99239,0 -118.151361,50.992106,0 -118.149232,50.991817,0 -118.147961,50.991723,0 -118.147886,50.99172,0 -118.146508,50.991665,0 -118.145138,50.9917,0 -118.143707,50.991786,0 -118.143374,50.99183,0 -118.142842,50.991901,0 -118.141763,50.992045,0 -118.140578,50.99224,0 -118.139888,50.992393,0 -118.139577,50.992462,0 -118.137431,50.993079,0 -118.135252,50.993781,0 -118.135204,50.9938,0 -118.134385,50.994129,0 -118.133636,50.994521,0 -118.132875,50.995023,0 -118.132303,50.995498,0 -118.132045,50.99573,0 -118.130873,50.996785,0 -118.13063,50.996971,0 -118.130164,50.997327,0 -118.129645,50.997624,0 -118.129545,50.997681,0 -118.129371,50.997753,0 -118.128671,50.998042,0 -118.127785,50.998325,0 -118.127383,50.998457,0 -118.123334,50.999782,0 -118.122647,51.000042,0 -118.12221,51.000208,0 -118.121368,51.000646,0 -118.120462,51.001279,0 -118.116098,51.004744,0 -118.114821,51.005674,0 -118.113798,51.006247,0 -118.113401,51.006423,0 -118.112667,51.006748,0 -118.110994,51.007302,0 -118.109999,51.007531,0 -118.108738,51.007762,0 -118.106528,51.008093,0 -118.102961,51.008625,0 -118.101892,51.008812,0 -118.100843,51.0091,0 -118.099941,51.009429,0 -118.099142,51.009779,0 -118.096266,51.01104,0 -118.095161,51.011435,0 -118.094634,51.011624,0 -118.093367,51.011987,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-123.026346,49.295359,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt </name>
