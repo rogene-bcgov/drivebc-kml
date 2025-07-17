@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-17 00:07:08 UTC
+        Last updated: 2025-07-17 00:46:33 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4445,6 +4445,26 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
+          <name>Highway 97, northbound. Stalled vehicle between Campbell Rd and William R Bennett Bridge (1 km south</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Campbell Rd and William R Bennett Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T17:40:33-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-119.520496,49.877842,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Cariboo Connector). Rest area closed between Charles Rd and Anderson Rd (15 km south of </name>
           <description>
         &lt;![CDATA[
@@ -4913,48 +4933,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 37: Gaglardi Way and Exit </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T16:55:52-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.925588,49.237059,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 37A, in both directions. Road cleared between Surprise Bridge and Highway 37 Junction for 12</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 37A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Surprise Bridge and Highway 37 Junction for 12.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T16:57:09-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-129.470548,56.092875,0 -129.469974,56.092909,0 -129.467879,56.093031,0 -129.467075,56.093179,0 -129.467018,56.09319,0 -129.466428,56.093381,0 -129.465874,56.093658,0 -129.465463,56.093967,0 -129.465058,56.094467,0 -129.464967,56.095018,0 -129.465904,56.100348,0 -129.465881,56.100622,0 -129.465557,56.101353,0 -129.462293,56.106777,0 -129.462281,56.106792,0 -129.461897,56.107286,0 -129.461404,56.107671,0 -129.460691,56.10799,0 -129.459806,56.10819,0 -129.458823,56.108275,0 -129.455695,56.108049,0 -129.454983,56.108095,0 -129.454341,56.108249,0 -129.4537,56.108565,0 -129.452127,56.110086,0 -129.451292,56.110609,0 -129.450568,56.11092,0 -129.44981,56.111177,0 -129.446498,56.112028,0 -129.44561,56.112233,0 -129.444712,56.112347,0 -129.443872,56.112377,0 -129.443228,56.112354,0 -129.442559,56.112263,0 -129.435398,56.110558,0 -129.434469,56.110414,0 -129.433602,56.110405,0 -129.432789,56.11051,0 -129.432092,56.110731,0 -129.431516,56.111056,0 -129.430197,56.112219,0 -129.429951,56.112358,0 -129.42975,56.112472,0 -129.429104,56.112743,0 -129.428372,56.112941,0 -129.42739,56.11304,0 -129.426557,56.113002,0 -129.426193,56.112945,0 -129.425679,56.112864,0 -129.416418,56.110312,0 -129.407398,56.107775,0 -129.405674,56.107425,0 -129.404655,56.107346,0 -129.403335,56.107375,0 -129.384693,56.109133,0 -129.38383,56.109185,0 -129.38318,56.109162,0 -129.382618,56.109093,0 -129.381934,56.108933,0 -129.378763,56.107961,0 -129.378588,56.107907,0 -129.377743,56.107653,0 -129.374617,56.106714,0 -129.373284,56.106427,0 -129.372473,56.106354,0 -129.371315,56.106313,0 -129.351597,56.106664,0 -129.350647,56.106641,0 -129.349952,56.106565,0 -129.349186,56.106439,0 -129.346251,56.105782,0 -129.337851,56.103899,0 -129.336502,56.10362,0 -129.335582,56.10351,0 -129.334394,56.103447,0 -129.326244,56.103407,0 -129.325307,56.103377,0 -129.3242,56.103263,0 -129.323049,56.103071,0 -129.316778,56.101387,0 -129.315569,56.101114,0 -129.314351,56.100966,0 -129.308255,56.100703,0 -129.307308,56.100664,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 109: Yale Rd and Exit 116:</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between Exit 109: Yale Rd and Exit 116: Lic</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4964,13 +4943,33 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 109: Yale Rd and Exit 116: Lickman Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T16:45:25-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T17:40:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.067787,49.137191,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), eastbound. Stalled vehicle between Pitt River Bridge and Old Dewdney T</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Pitt River Bridge and Old Dewdney Trunk Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T17:35:50-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.721321,49.244008,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
