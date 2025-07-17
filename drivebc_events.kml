@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-17 20:36:03 UTC
+        Last updated: 2025-07-17 21:01:57 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (264)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -203,27 +203,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.315353,51.688011,0 -121.3159,51.688862,0 -121.317173,51.690841,0 -121.318041,51.692202,0 -121.319033,51.693756,0 -121.319955,51.695201,0 -121.321581,51.697747,0 -121.322006,51.698565,0 -121.32223,51.699417,0 -121.32222,51.700003,0 -121.322219,51.700035,0 -121.322165,51.700475,0 -121.322108,51.700646,0 -121.321888,51.701303,0 -121.321622,51.701757,0 -121.321431,51.701974,0 -121.321286,51.702206,0 -121.31875,51.70505,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 39, northbound. Construction work between the start of Highway 39 and Causeway Conn for 2.0 </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 39&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 39 and Causeway Conn for 2.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T08:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.989876,55.17284,0 -122.992706,55.178447,0 -122.9946,55.182198,0 -122.995934,55.18484,0 -122.996462,55.18554,0 -122.997093,55.186222,0 -122.998335,55.187468,0 -122.998556,55.18769,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -1051,6 +1030,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work planned between Tunkwa Lake R</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Tunkwa Lake Rd and Six Mile Hill Rd for 1.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T13:34:41-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.746467,50.761453,0 -120.746024,50.760877,0 -120.745334,50.760096,0 -120.744752,50.759538,0 -120.744279,50.759181,0 -120.743566,50.758816,0 -120.743548,50.758806,0 -120.7411,50.757889,0 -120.739078,50.757185,0 -120.737402,50.756486,0 -120.737347,50.756457,0 -120.736545,50.756047,0 -120.735803,50.75558,0 -120.735058,50.754966,0 -120.734403,50.754475,0 -120.733631,50.754153,0 -120.733576,50.75413,0 -120.73308,50.754018,0 -120.73172,50.753709,0 -120.730878,50.753471,0 -120.729891,50.753054,0 -120.728989,50.752541,0 -120.728926,50.752505,0 -120.728437,50.752158,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Kitsuksis Rd., in both directions. Utility work between Short st. And Spruce St. Until Fri Oct 31 at</name>
           <description>
         &lt;![CDATA[
@@ -1089,6 +1089,27 @@
           <Point>
             <coordinates>-119.625359,49.503553,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 23, in both directions. Utility work planned between Maley Rd and Revelstoke Dam Avalanche G</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Maley Rd and Revelstoke Dam Avalanche Gates for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T13:52:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.212962,51.019255,0 -118.21296,51.019496,0 -118.212953,51.020552,0 -118.212952,51.020674,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work planned between Campbell Rd and Reichelt Rd for 0.9 km </name>
@@ -3871,7 +3892,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Tanager Dr&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T13:35:43-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
