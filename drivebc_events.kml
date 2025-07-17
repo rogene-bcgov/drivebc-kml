@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-17 20:01:58 UTC
+        Last updated: 2025-07-17 20:36:03 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (262)</name>
+      <name>🚗 Traffic Events (264)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -780,27 +780,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 4, in both directions. Maintenance between Cathedral Grove/MacMillan Prov Park and Beaufort </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Cathedral Grove/MacMillan Prov Park and Beaufort Picnic Site for 2.7 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T09:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.673908,49.283766,0 -124.672598,49.284649,0 -124.672261,49.284958,0 -124.670232,49.287187,0 -124.668996,49.288284,0 -124.668637,49.288687,0 -124.668385,49.288969,0 -124.668079,49.28925,0 -124.66768,49.28951,0 -124.667289,49.289704,0 -124.66594,49.290263,0 -124.665174,49.290531,0 -124.663497,49.291067,0 -124.662664,49.291225,0 -124.661063,49.291489,0 -124.660451,49.291547,0 -124.659894,49.291538,0 -124.659256,49.291476,0 -124.658083,49.291362,0 -124.656253,49.291126,0 -124.655519,49.291032,0 -124.655136,49.290982,0 -124.65452,49.290825,0 -124.653653,49.290483,0 -124.653346,49.290411,0 -124.652977,49.290365,0 -124.652562,49.29037,0 -124.651704,49.290469,0 -124.651188,49.290471,0 -124.649619,49.290339,0 -124.646381,49.289852,0 -124.644636,49.289887,0 -124.643959,49.289798,0 -124.643172,49.289629,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector), southbound. Construction work between Umiti Pit Rd and Pollard Rd (1</name>
           <description>
         &lt;![CDATA[
@@ -884,6 +863,48 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 3A, in both directions. Tree pruning planned between Kokanee Glcr Park Rd and Kokanee Landin</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Kokanee Glcr Park Rd and Kokanee Landing Rd for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T13:00:23-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.11288,49.61192,0 -117.110216,49.612154,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 11, northbound. Utility work planned between McCallum Rd and Bateman Rd for 1.0 km (Abbotsfo</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between McCallum Rd and Bateman Rd for 1.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T13:03:17-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.286147,49.066107,0 -122.286042,49.06909,0 -122.285977,49.07081,0 -122.285941,49.071775,0 -122.285507,49.074338,0 -122.285442,49.074716,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Peardonville Rd and Exit 9</name>
           <description>
         &lt;![CDATA[
@@ -947,6 +968,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 11, northbound. Utility work planned between McCallum Rd and Bateman Rd for 1.0 km (Abbotsfo</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between McCallum Rd and Bateman Rd for 1.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T13:03:05-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.286147,49.066107,0 -122.286042,49.06909,0 -122.285977,49.07081,0 -122.285941,49.071775,0 -122.285507,49.074338,0 -122.285442,49.074716,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 33, in both directions. Utility work between Beaverdell Station Rd and Carmi Station for 5.2</name>
           <description>
         &lt;![CDATA[
@@ -966,6 +1008,26 @@
             <tessellate>1</tessellate>
             <coordinates>-119.078408,49.445844,0 -119.07843,49.445989,0 -119.078558,49.446319,0 -119.078607,49.446445,0 -119.079639,49.447894,0 -119.080138,49.448488,0 -119.08069,49.44905,0 -119.081507,49.449724,0 -119.082237,49.450253,0 -119.083687,49.451161,0 -119.083951,49.451264,0 -119.084087,49.451349,0 -119.08417,49.451401,0 -119.084804,49.452085,0 -119.084989,49.452469,0 -119.085446,49.453929,0 -119.085939,49.455504,0 -119.086113,49.455895,0 -119.08735,49.458663,0 -119.087998,49.460112,0 -119.088218,49.46094,0 -119.088227,49.461018,0 -119.088399,49.462562,0 -119.088227,49.464623,0 -119.088153,49.46551,0 -119.088208,49.466179,0 -119.088517,49.466823,0 -119.089312,49.467712,0 -119.089555,49.468037,0 -119.089675,49.468237,0 -119.089832,49.468712,0 -119.089954,49.469599,0 -119.089971,49.470076,0 -119.090186,49.47057,0 -119.090213,49.470633,0 -119.090297,49.470713,0 -119.090771,49.471116,0 -119.091161,49.47135,0 -119.09138,49.471472,0 -119.091916,49.47164,0 -119.09427,49.47208,0 -119.094489,49.47216,0 -119.095007,49.472349,0 -119.095036,49.47236,0 -119.095449,49.472626,0 -119.09579,49.472938,0 -119.09594,49.473147,0 -119.096038,49.473283,0 -119.096167,49.47366,0 -119.096319,49.474445,0 -119.096634,49.474976,0 -119.096739,49.47507,0 -119.097014,49.475317,0 -119.097051,49.47535,0 -119.099044,49.476927,0 -119.099437,49.477427,0 -119.099911,49.478678,0 -119.100273,49.479278,0 -119.100294,49.479312,0 -119.100812,49.479946,0 -119.103153,49.482108,0 -119.104928,49.483778,0 -119.106395,49.485157,0 -119.107569,49.486225,0 -119.107605,49.486259,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 11, northbound. Utility work planned at McCallum Rd (Abbotsford). Starting Sat Aug 23 until </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At McCallum Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T13:04:40-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.286147,49.066107,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla South), in both directions. Construction work between Exit 202: Portia and Exi</name>
@@ -4626,26 +4688,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-120.845242,55.843217,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, northbound. Road cleared at Alex Fraser Bridge (Delta). Last updated Thu Jul 17 at 12:49</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T12:49:01-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.943309,49.160815,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
