@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-17 04:13:33 UTC
+        Last updated: 2025-07-17 04:42:39 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -674,6 +674,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-124.801632,51.936174,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance between Port Mann Bridge and Port Man</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Port Mann Bridge and Port Mann East Service Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T21:18:23-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.813053,49.219058,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -1693,26 +1713,6 @@
             <tessellate>1</tessellate>
             <coordinates>-121.935423,49.240886,0 -121.929919,49.239761,0 -121.927916,49.239351,0 -121.924915,49.238639,0 -121.918916,49.237194,0 -121.918484,49.237099,0 -121.918238,49.237045,0 -121.918081,49.237011,0 -121.91742,49.236973,0 -121.916775,49.237062,0 -121.91628,49.237207,0 -121.915798,49.237453,0 -121.914228,49.238552,0 -121.913807,49.238781,0 -121.913597,49.238895,0 -121.913315,49.238987,0 -121.91303,49.239081,0 -121.912438,49.239219,0 -121.912285,49.239234,0 -121.911782,49.239283,0 -121.911092,49.239278,0 -121.910257,49.239167,0 -121.909766,49.239018,0 -121.909371,49.238899,0 -121.908795,49.238606,0 -121.908604,49.23851,0 -121.908241,49.238219,0 -121.906497,49.236822,0 -121.906233,49.236607,0 -121.904393,49.235124,0 -121.901878,49.233636,0 -121.900972,49.233129,0 -121.900355,49.232795,0 -121.900251,49.23274,0 -121.900107,49.232662,0 -121.899152,49.232145,0 -121.898456,49.231911,0 -121.898291,49.231856,0 -121.897717,49.231715,0 -121.896956,49.231643,0 -121.896567,49.231633,0 -121.892714,49.231529,0 -121.891825,49.2314,0 -121.891018,49.23121,0 -121.889756,49.230949,0 -121.889439,49.230884,0 -121.888884,49.230806,0 -121.888042,49.230798,0 -121.887684,49.23084,0 -121.886255,49.23101,0 -121.885362,49.231116,0 -121.88481,49.231116,0 -121.884751,49.231116,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Mountain Seymour Road, in both directions. Roadside brushing at Indian River Dr in North Vancouver -</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Mountain Seymour Road&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Indian River Dr in North Vancouver - District&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T05:30:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.968965,49.321323,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 17 (Patricia Bay Highway), southbound. Maintenance between Exit 21: Mt Newton Cross Rd and E</name>
@@ -4424,26 +4424,6 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
-          <name>Highway 99, southbound. Vehicle incident at Exit 16 (Delta). Right lane is blocked. Last updated Wed</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 16&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T20:45:19-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.895552,49.092342,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector). Rest area closed between Charles Rd and Anderson Rd (15 km south of </name>
           <description>
         &lt;![CDATA[
@@ -4461,6 +4441,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.674115,53.676325,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Vehicle incident at Exit 16 (Delta). Right lane is blocked. Expect delays. L</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 16&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-16T21:34:17-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.895552,49.092342,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
