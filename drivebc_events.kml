@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-17 19:32:45 UTC
+        Last updated: 2025-07-17 20:01:58 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -636,7 +636,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>[Truncated] Front St, in both directions. Construction work planned between Columbia St and Begbie S</name>
+          <name>Front St, in both directions. Construction work planned between Columbia St and Begbie St in New Wes</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -646,7 +646,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Front St&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Columbia St and Begbie St in New Westminster&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T12:28:22-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T12:32:14-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -756,6 +756,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.282834,49.461569,0 -117.282707,49.460995,0 -117.282429,49.460371,0 -117.281035,49.458437,0 -117.280945,49.458311,0 -117.280724,49.458005,0 -117.279707,49.456597,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 9, northbound. Utility work planned between Bristol Dr and Park St for 0.3 km (Kent). Starti</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 9&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Bristol Dr and Park St for 0.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T12:51:49-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.761669,49.235769,0 -121.761655,49.2358,0 -121.761594,49.238143,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -2144,26 +2165,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-121.24715,49.490815,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97 (Cariboo Connector), in both directions. Construction work at MacKenzie Ave N (2 km north</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At MacKenzie Ave N&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T07:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.145028,52.163838,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4608,26 +4609,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Stalled vehicle between Lake Trail and Stanley Park Dr (Vancouver). Centre l</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Lake Trail and Stanley Park Dr&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T12:06:16-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.142305,49.311394,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>265 Road. Bridge damaged between 214 and 216 near Dawson Creek. Road closed. Detour in effect. Pleas</name>
           <description>
         &lt;![CDATA[
@@ -4645,6 +4626,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-120.845242,55.843217,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, northbound. Road cleared at Alex Fraser Bridge (Delta). Last updated Thu Jul 17 at 12:49</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T12:49:01-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.943309,49.160815,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
