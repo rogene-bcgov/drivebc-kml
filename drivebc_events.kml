@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-17 13:13:18 UTC
+        Last updated: 2025-07-17 13:42:19 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (236)</name>
+      <name>🚗 Traffic Events (241)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1879,6 +1879,46 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97 (Cariboo Connector), northbound. Bridge maintenance planned between Railway Rd and Ferry </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Railway Rd and Ferry Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T06:12:57-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.747256,53.890224,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Paul Lake Rd, in both directions. Paving operations planned at Pinatan-Pritchard Rd 20 km east of Ka</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Paul Lake Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Pinatan-Pritchard Rd 20 km east of Kamloops&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T06:19:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.176337,50.743681,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97. Road maintenance work between Powder King Rd and Old Hasler Rd for 0.9 km (45 to 46 km s</name>
           <description>
         &lt;![CDATA[
@@ -2108,6 +2148,46 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 97 (Cariboo Connector), in both directions. Construction work planned at MacKenzie Ave N (2 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At MacKenzie Ave N&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T06:26:44-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.145028,52.163838,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned at Exit 29: Willingdon Ave (Bu</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 29: Willingdon Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T06:29:57-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.003967,49.257525,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 29. Utility work between W Centennial Access and Lakeshore Dr for 0.8 km (23 to 24 km north </name>
           <description>
         &lt;![CDATA[
@@ -2229,6 +2309,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-121.24715,49.490815,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations planned at Exit 29: Willingdon Ave (Bu</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 29: Willingdon Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T06:32:43-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.003964,49.257525,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
