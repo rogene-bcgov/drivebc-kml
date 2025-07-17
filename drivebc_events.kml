@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-17 22:02:00 UTC
+        Last updated: 2025-07-17 22:36:41 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (270)</name>
+      <name>🚗 Traffic Events (273)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -216,7 +216,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Chappell Creek Rec Site&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T10:07:07-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:19:19-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -1715,6 +1715,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 29. Bridge maintenance planned between Johnson Creek Rd and Peace Canyon Access Rd (10 km so</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Johnson Creek Rd and Peace Canyon Access Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:04:35-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.955454,55.965924,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 37, in both directions. Bridge construction at Hanna North Bridge (7 km north of Meziadin). </name>
           <description>
         &lt;![CDATA[
@@ -1732,6 +1752,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-129.304188,56.152954,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>88 Ave. Road construction work planned between 200 St and 201 St in Langley - City. Starting Tue Jul</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; 88 Ave&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 200 St and 201 St in Langley - City&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:22:29-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.666897,49.16127,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -1819,6 +1859,48 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Construction work between Exit 20 and 72 St for 4.1 km (Delta). Until Fri Au</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 20 and 72 St for 4.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:25:52-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.963112,49.090598,0 -122.963126,49.090598,0 -122.979427,49.090562,0 -123.000453,49.090559,0 -123.001842,49.090648,0 -123.003566,49.090922,0 -123.014233,49.092998,0 -123.019085,49.093942,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (Malahat Highway), in both directions. Line painting planned between Whittaker Rd and Mill</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Whittaker Rd and Mill Bay Rd for 7.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:27:56-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.561794,48.566074,0 -123.561765,48.566093,0 -123.561399,48.566327,0 -123.560599,48.566822,0 -123.559836,48.567174,0 -123.559271,48.567385,0 -123.55882,48.567522,0 -123.558155,48.567667,0 -123.557505,48.56778,0 -123.556922,48.567839,0 -123.555646,48.567945,0 -123.555226,48.567971,0 -123.554224,48.568049,0 -123.553292,48.568118,0 -123.552212,48.56818,0 -123.551928,48.56818,0 -123.551565,48.568172,0 -123.551148,48.568143,0 -123.550546,48.568071,0 -123.548162,48.567741,0 -123.547261,48.567621,0 -123.546311,48.56755,0 -123.545324,48.567536,0 -123.54438,48.567595,0 -123.543434,48.567699,0 -123.542694,48.567814,0 -123.542169,48.567919,0 -123.541897,48.567981,0 -123.541508,48.568073,0 -123.541061,48.568193,0 -123.539623,48.568574,0 -123.539518,48.568637,0 -123.539385,48.568671,0 -123.539037,48.56876,0 -123.538712,48.568842,0 -123.538075,48.569004,0 -123.537434,48.569167,0 -123.536785,48.569332,0 -123.535451,48.569671,0 -123.534057,48.570025,0 -123.531768,48.570607,0 -123.530853,48.570839,0 -123.530325,48.571002,0 -123.529458,48.571373,0 -123.528837,48.571737,0 -123.528424,48.57202,0 -123.528106,48.572282,0 -123.527787,48.572602,0 -123.527422,48.573058,0 -123.527192,48.573429,0 -123.526991,48.573846,0 -123.526841,48.574334,0 -123.526788,48.574673,0 -123.52682,48.57535,0 -123.527032,48.57604,0 -123.52735,48.57668,0 -123.527583,48.577021,0 -123.528629,48.578153,0 -123.529531,48.57913,0 -123.530023,48.579662,0 -123.530577,48.580378,0 -123.530753,48.580776,0 -123.530796,48.580935,0 -123.530867,48.581196,0 -123.530868,48.58133,0 -123.530871,48.581677,0 -123.530856,48.581771,0 -123.530802,48.582096,0 -123.530756,48.582232,0 -123.530671,48.582484,0 -123.5302,48.583376,0 -123.530062,48.583634,0 -123.530028,48.583698,0 -123.529916,48.584071,0 -123.529879,48.584407,0 -123.529902,48.584733,0 -123.530047,48.585262,0 -123.530053,48.585283,0 -123.530334,48.585806,0 -123.531742,48.588433,0 -123.531799,48.58865,0 -123.531891,48.589006,0 -123.531886,48.589337,0 -123.531857,48.591217,0 -123.531927,48.591883,0 -123.532017,48.592151,0 -123.532304,48.592633,0 -123.533436,48.593752,0 -123.533646,48.594011,0 -123.533846,48.594336,0 -123.533969,48.594644,0 -123.534028,48.594992,0 -123.534037,48.595144,0 -123.534051,48.59541,0 -123.534003,48.595836,0 -123.533972,48.596106,0 -123.533949,48.596303,0 -123.533928,48.596493,0 -123.533918,48.596583,0 -123.533881,48.596909,0 -123.533885,48.597393,0 -123.533888,48.597678,0 -123.534032,48.598497,0 -123.534156,48.598887,0 -123.53414,48.599006,0 -123.534506,48.600008,0 -123.534946,48.601212,0 -123.534978,48.6013,0 -123.535106,48.601651,0 -123.535266,48.602093,0 -123.53558,48.602954,0 -123.537329,48.607758,0 -123.537408,48.607974,0 -123.537454,48.6081,0 -123.537563,48.6084,0 -123.537687,48.608711,0 -123.538046,48.609449,0 -123.538172,48.609716,0 -123.538193,48.609767,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 17 (Patricia Bay Highway), southbound. Maintenance between Exit 21: Mt Newton Cross Rd and E</name>
           <description>
         &lt;![CDATA[
@@ -1878,6 +1960,27 @@
           <Point>
             <coordinates>-119.609537,49.450823,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (Malahat Highway), in both directions. Line painting planned between Finlayson Arm Rd and </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Finlayson Arm Rd and Aspen Rd for 3.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:28:52-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.554618,48.490969,0 -123.554559,48.491231,0 -123.554568,48.491453,0 -123.554667,48.491855,0 -123.55488,48.492325,0 -123.554966,48.492515,0 -123.555042,48.492695,0 -123.555118,48.492879,0 -123.555151,48.493214,0 -123.555073,48.493569,0 -123.55484,48.494248,0 -123.554817,48.494568,0 -123.554878,48.494914,0 -123.555268,48.495676,0 -123.555446,48.496027,0 -123.555542,48.496361,0 -123.555583,48.496819,0 -123.55559,48.497721,0 -123.555644,48.498081,0 -123.555839,48.499401,0 -123.556114,48.501256,0 -123.556139,48.501426,0 -123.556118,48.501743,0 -123.555942,48.502226,0 -123.555241,48.503246,0 -123.555146,48.50348,0 -123.555089,48.503621,0 -123.555043,48.503907,0 -123.5551,48.504237,0 -123.555236,48.504556,0 -123.555521,48.504934,0 -123.556517,48.505837,0 -123.556778,48.506197,0 -123.556977,48.506625,0 -123.557067,48.507258,0 -123.557078,48.507364,0 -123.557103,48.507614,0 -123.557121,48.507785,0 -123.557118,48.507941,0 -123.557102,48.508778,0 -123.556852,48.512891,0 -123.556683,48.513937,0 -123.556344,48.51545,0 -123.555551,48.518991,0 -123.555536,48.519058,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and S</name>
@@ -1940,6 +2043,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.740642,49.464432,0 -123.739961,49.46372,0 -123.737621,49.461073,0 -123.737542,49.460983,0 -123.737111,49.460502,0 -123.736962,49.460233,0 -123.736891,49.459717,0 -123.736931,49.45917,0 -123.736903,49.458992,0 -123.736866,49.458911,0 -123.736731,49.458608,0 -123.736265,49.458105,0 -123.735561,49.457348,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla South), in both directions. Line painting planned between the start of Highway</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 5 (Coquihalla South) and Exit 183: Othello Rd for 5.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:31:02-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.357422,49.368733,0 -121.357815,49.369,0 -121.361933,49.371035,0 -121.362582,49.371408,0 -121.363007,49.371707,0 -121.36344,49.372091,0 -121.363762,49.372455,0 -121.364134,49.373014,0 -121.364269,49.373315,0 -121.364423,49.373839,0 -121.364466,49.374282,0 -121.3644,49.374967,0 -121.364253,49.375407,0 -121.364108,49.375693,0 -121.363838,49.376034,0 -121.363159,49.376728,0 -121.362322,49.377438,0 -121.361531,49.377833,0 -121.360478,49.378187,0 -121.3595,49.378381,0 -121.358049,49.378513,0 -121.35427,49.378754,0 -121.353183,49.378745,0 -121.352642,49.378697,0 -121.351513,49.378392,0 -121.350994,49.378252,0 -121.349593,49.377759,0 -121.349087,49.377614,0 -121.34852,49.377488,0 -121.348454,49.377478,0 -121.34823,49.377444,0 -121.347946,49.377401,0 -121.347474,49.377361,0 -121.346957,49.377357,0 -121.346188,49.37741,0 -121.345145,49.377552,0 -121.34429,49.377679,0 -121.342896,49.377894,0 -121.340437,49.378279,0 -121.339259,49.378472,0 -121.337888,49.378675,0 -121.336152,49.378924,0 -121.334826,49.378926,0 -121.325026,49.378754,0 -121.323759,49.378769,0 -121.322365,49.378955,0 -121.321713,49.379166,0 -121.321268,49.379345,0 -121.320765,49.379567,0 -121.320287,49.379847,0 -121.319968,49.38014,0 -121.319604,49.380519,0 -121.319218,49.380934,0 -121.318895,49.381639,0 -121.318813,49.382202,0 -121.31876,49.382784,0 -121.31872,49.383902,0 -121.318714,49.384631,0 -121.318712,49.384874,0 -121.318709,49.385243,0 -121.318708,49.385396,0 -121.318703,49.385575,0 -121.318697,49.385828,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -2179,7 +2303,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Paul Lake Rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Pinatan-Pritchard Rd 20 km east of Kamloops&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T07:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:14:48-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -2831,26 +2955,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Knouff Lake Road. Paving operations between Heffley Louis Creek Road and Knouff lake Road near Sun P</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Knouff Lake Road&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Heffley Louis Creek Road and Knouff lake Road near Sun Peaks&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-15T00:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.1694,50.863614,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 99, in both directions. Bridge maintenance planned between Lil'wat Pl and Seton Lake Rd (39 </name>
           <description>
         &lt;![CDATA[
@@ -2890,6 +2994,26 @@
             <tessellate>1</tessellate>
             <coordinates>-123.031731,49.279576,0 -123.031702,49.278279,0 -123.031689,49.277664,0 -123.031683,49.277432,0 -123.031678,49.277359,0 -123.031607,49.276368,0 -123.03141,49.275612,0 -123.031121,49.274868,0 -123.030644,49.274134,0 -123.030579,49.274044,0 -123.030429,49.273834,0 -123.028993,49.271824,0 -123.028721,49.271393,0 -123.027904,49.269717,0 -123.027828,49.269563,0 -123.027813,49.269531,0 -123.027735,49.269374,0 -123.027667,49.269241,0 -123.026675,49.267296,0 -123.026493,49.266825,0 -123.026406,49.266363,0 -123.026199,49.265096,0 -123.026166,49.264894,0 -123.026147,49.264782,0 -123.026109,49.264532,0 -123.025977,49.263657,0 -123.025854,49.263314,0 -123.025759,49.263052,0 -123.02568,49.262907,0 -123.025571,49.262708,0 -123.02539,49.262469,0 -123.025335,49.262397,0 -123.025274,49.262315,0 -123.025123,49.262117,0 -123.02503,49.261994,0 -123.024916,49.261893,0 -123.024344,49.261385,0 -123.024112,49.261214,0 -123.023708,49.260915,0 -123.023544,49.260793,0 -123.023162,49.260558,0 -123.022943,49.260423,0 -123.022707,49.260313,0 -123.022503,49.260172,0 -123.02141,49.259426,0 -123.02112,49.259228,0 -123.020412,49.258744,0 -123.019802,49.258332,0 -123.019762,49.258308,0 -123.019716,49.258278,0 -123.019493,49.258145,0 -123.019262,49.258021,0 -123.018901,49.257856,0 -123.018524,49.257715,0 -123.018156,49.257605,0 -123.017855,49.257532,0 -123.01758,49.257479,0 -123.017062,49.257409,0 -123.01668,49.257384,0 -123.016427,49.257378,0 -123.016158,49.25738,0 -123.015962,49.257388,0 -123.015787,49.257396,0 -123.015539,49.257414,0 -123.01517,49.257444,0 -123.0146,49.257493,0 -123.013485,49.257579,0 -123.013158,49.257595,0 -123.012748,49.257602,0 -123.012009,49.2576,0 -123.008426,49.257566,0 -123.006559,49.257548,0 -123.005673,49.257539,0 -123.004948,49.257533,0 -123.004186,49.257528,0 -123.003967,49.257525,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Knouff Lake Road. Paving operations between Heffley Louis Creek Road and Knouff lake Road near Sun P</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Knouff Lake Road&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Heffley Louis Creek Road and Knouff lake Road near Sun Peaks&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:15:36-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.1694,50.863614,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5. Construction work between Webb Rd and Mount Olie St for 1.9 km (Little Fort). Until Thu J</name>
@@ -4130,27 +4254,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Maintenance between Kokanee Way and Miners Bluf</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Kokanee Way and Miners Bluff Rd for 11.8 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T09:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.119079,50.659174,0 -120.118918,50.659156,0 -120.118866,50.659152,0 -120.118051,50.659075,0 -120.116882,50.659031,0 -120.11569,50.659053,0 -120.115421,50.659081,0 -120.112464,50.659382,0 -120.112203,50.659409,0 -120.110738,50.659508,0 -120.109293,50.659539,0 -120.107615,50.659487,0 -120.10619,50.659398,0 -120.104416,50.65919,0 -120.104341,50.65918,0 -120.098967,50.658449,0 -120.091839,50.657478,0 -120.091432,50.657423,0 -120.082413,50.656194,0 -120.082078,50.656149,0 -120.080681,50.655877,0 -120.080488,50.655839,0 -120.07808,50.655371,0 -120.074246,50.654826,0 -120.07372,50.654753,0 -120.072821,50.654628,0 -120.072668,50.654606,0 -120.072207,50.654511,0 -120.071096,50.654281,0 -120.069379,50.653926,0 -120.068058,50.653653,0 -120.067631,50.653572,0 -120.067037,50.653445,0 -120.066082,50.653345,0 -120.065242,50.653345,0 -120.064037,50.653421,0 -120.06375,50.653462,0 -120.062814,50.653598,0 -120.061817,50.653743,0 -120.061571,50.653779,0 -120.060751,50.653898,0 -120.059961,50.653974,0 -120.059119,50.65406,0 -120.058973,50.654074,0 -120.058772,50.654079,0 -120.05738,50.654108,0 -120.057165,50.654112,0 -120.056819,50.6541,0 -120.056573,50.654092,0 -120.056189,50.654079,0 -120.056034,50.654074,0 -120.055575,50.654059,0 -120.052538,50.653957,0 -120.049811,50.653866,0 -120.048263,50.653814,0 -120.046023,50.653739,0 -120.045693,50.653728,0 -120.04432,50.653682,0 -120.041858,50.653599,0 -120.041455,50.653586,0 -120.041043,50.653572,0 -120.03908,50.653502,0 -120.030864,50.653208,0 -120.029353,50.653154,0 -120.028996,50.653141,0 -120.027296,50.652985,0 -120.026422,50.652859,0 -120.024772,50.652623,0 -120.02211,50.652241,0 -120.017677,50.651604,0 -120.015196,50.651248,0 -120.01431,50.65112,0 -120.011625,50.650735,0 -120.010634,50.650592,0 -120.009654,50.650451,0 -120.009163,50.650358,0 -120.008599,50.650251,0 -120.008055,50.650147,0 -120.006689,50.649772,0 -120.006425,50.649673,0 -120.006282,50.64962,0 -120.003671,50.648645,0 -120.001739,50.647924,0 -120.001428,50.647825,0 -120.00129,50.647781,0 -120.001036,50.647701,0 -120.000833,50.647637,0 -120.000648,50.64759,0 -120.000108,50.647455,0 -120.000002,50.647429,0 -119.999847,50.6474,0 -119.999693,50.647372,0 -119.999568,50.647349,0 -119.999438,50.647326,0 -119.999097,50.647263,0 -119.9989,50.647246,0 -119.998837,50.64724,0 -119.997854,50.647153,0 -119.997822,50.64715,0 -119.99767,50.647137,0 -119.997539,50.647136,0 -119.997401,50.647136,0 -119.996962,50.647133,0 -119.996282,50.64713,0 -119.995956,50.647128,0 -119.994287,50.647119,0 -119.992945,50.647112,0 -119.991691,50.647106,0 -119.990252,50.647098,0 -119.990131,50.647098,0 -119.989411,50.647102,0 -119.989209,50.647103,0 -119.988437,50.647107,0 -119.988191,50.647118,0 -119.987522,50.647149,0 -119.987261,50.647161,0 -119.987127,50.647167,0 -119.986993,50.647179,0 -119.986584,50.647215,0 -119.986417,50.64723,0 -119.985975,50.64727,0 -119.985422,50.647344,0 -119.985379,50.64735,0 -119.984555,50.647461,0 -119.984064,50.647547,0 -119.982261,50.647959,0 -119.981883,50.648046,0 -119.979259,50.648646,0 -119.978338,50.648789,0 -119.97799,50.648844,0 -119.975932,50.649117,0 -119.975756,50.649141,0 -119.974946,50.649249,0 -119.96909,50.64993,0 -119.966767,50.650201,0 -119.965085,50.650396,0 -119.964351,50.650482,0 -119.964076,50.650496,0 -119.963146,50.650542,0 -119.962998,50.650542,0 -119.961885,50.650542,0 -119.961578,50.650523,0 -119.960989,50.650487,0 -119.960716,50.65047,0 -119.960678,50.650467,0 -119.96048,50.650444,0 -119.960029,50.650391,0 -119.959993,50.650387,0 -119.959777,50.650362,0 -119.959598,50.650341,0 -119.959333,50.650289,0 -119.959275,50.650278,0 -119.958729,50.650172,0 -119.958139,50.650029,0 -119.955974,50.649503,0 -119.955971,50.649503,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 7 (Lougheed Highway), in both directions. Construction work between Madaris Rd and Rowan Rd </name>
           <description>
         &lt;![CDATA[
@@ -4932,47 +5035,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.373433,52.214655,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, westbound. Road cleared between Boundary Rd and Exit 11: Westminster Hwy (Richmond). Las</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 11: Westminster Hwy and Boundary Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T14:48:09-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.964545,49.173862,0 -122.96416,49.174108,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97. Vehicle incident at Meadowlark Rd (4 km north of Vernon). Lane closures in both directio</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Meadowlark Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T14:50:09-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-119.247323,50.31486,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
