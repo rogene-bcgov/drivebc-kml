@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-18 16:02:53 UTC
+        Last updated: 2025-07-18 16:39:39 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (258)</name>
+      <name>🚗 Traffic Events (257)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -823,27 +823,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3A, in both directions. Tree pruning planned between Kokanee Glcr Park Rd and Kokanee Landin</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Kokanee Glcr Park Rd and Kokanee Landing Rd for 0.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T13:00:23-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.11288,49.61192,0 -117.110216,49.612154,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 11, northbound. Utility work planned between McCallum Rd and Bateman Rd for 1.0 km (Abbotsfo</name>
           <description>
         &lt;![CDATA[
@@ -862,6 +841,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.286147,49.066107,0 -122.286042,49.06909,0 -122.285977,49.07081,0 -122.285941,49.071775,0 -122.285507,49.074338,0 -122.285442,49.074716,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3A, in both directions. Tree pruning between Kokanee Glcr Park Rd and Kokanee Landing Rd for</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Kokanee Glcr Park Rd and Kokanee Landing Rd for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T09:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.11288,49.61192,0 -117.110216,49.612154,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4872,26 +4872,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-119.082816,50.670853,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 17, westbound. Stalled vehicle between Grace Rd and Highway 91 Connector (Delta). Right lane</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Highway 91 Connector and Grace Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T08:47:58-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.919584,49.170877,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
