@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-18 00:46:38 UTC
+        Last updated: 2025-07-18 01:30:10 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (268)</name>
+      <name>🚗 Traffic Events (269)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4151,6 +4151,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Utility work planned between Denman St and Wren Trail for 0.5 km (Vancouver)</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Denman St and Wren Trail for 0.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T18:03:13-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.133798,49.292674,0 -123.135273,49.293615,0 -123.136072,49.294137,0 -123.136244,49.294137,0 -123.136722,49.294458,0 -123.136887,49.29474,0 -123.136912,49.29492,0 -123.13692,49.294981,0 -123.136836,49.295275,0 -123.136654,49.295583,0 -123.136414,49.295989,0 -123.136354,49.296065,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 7B (Mary Hill Bypass), westbound. Construction work between Kingsway Ave and Coast Meridian </name>
           <description>
         &lt;![CDATA[
@@ -4418,27 +4439,6 @@
           <Point>
             <coordinates>-121.25318,49.479311,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 28, eastbound. Utility work between Argonaut Main and Forbes Landing Rd for 7.2 km (1 to 8 k</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 28&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Argonaut Main and Forbes Landing Rd for 7.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T08:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.44128,49.976801,0 -125.440664,49.977209,0 -125.440489,49.977282,0 -125.439923,49.977519,0 -125.438361,49.978173,0 -125.438017,49.978371,0 -125.436292,49.979821,0 -125.436014,49.980112,0 -125.435936,49.980327,0 -125.435927,49.980565,0 -125.435981,49.980741,0 -125.436098,49.980919,0 -125.437057,49.982385,0 -125.437237,49.982921,0 -125.437175,49.983175,0 -125.437075,49.983349,0 -125.436857,49.983513,0 -125.436654,49.983617,0 -125.436055,49.983765,0 -125.434169,49.984085,0 -125.432568,49.984302,0 -125.43146,49.984362,0 -125.429823,49.984371,0 -125.428579,49.984407,0 -125.428054,49.984475,0 -125.427309,49.98466,0 -125.425715,49.985304,0 -125.424525,49.985707,0 -125.424265,49.98583,0 -125.423689,49.986418,0 -125.423584,49.986497,0 -125.42345,49.986599,0 -125.423216,49.98672,0 -125.422663,49.986901,0 -125.421886,49.987042,0 -125.420821,49.98714,0 -125.419807,49.987174,0 -125.414732,49.987218,0 -125.413985,49.98729,0 -125.413823,49.987305,0 -125.413225,49.98741,0 -125.412641,49.987568,0 -125.412169,49.987735,0 -125.411786,49.987922,0 -125.411453,49.988138,0 -125.410864,49.988611,0 -125.410285,49.988994,0 -125.410114,49.989047,0 -125.409876,49.989072,0 -125.409667,49.98905,0 -125.409437,49.988994,0 -125.409196,49.988854,0 -125.409087,49.988736,0 -125.408233,49.987472,0 -125.40776,49.987088,0 -125.406951,49.986607,0 -125.40673,49.98651,0 -125.405497,49.986114,0 -125.405057,49.986002,0 -125.404672,49.986011,0 -125.404052,49.986178,0 -125.403105,49.986604,0 -125.402623,49.986758,0 -125.401994,49.9869,0 -125.401667,49.987082,0 -125.401504,49.987257,0 -125.401228,49.987813,0 -125.401205,49.987861,0 -125.400902,49.988152,0 -125.400697,49.988282,0 -125.400426,49.988387,0 -125.400043,49.988467,0 -125.400011,49.988474,0 -125.399529,49.988486,0 -125.398317,49.988366,0 -125.397728,49.988256,0 -125.397351,49.988128,0 -125.397092,49.987992,0 -125.395509,49.986981,0 -125.395006,49.986699,0 -125.394694,49.986563,0 -125.39426,49.98642,0 -125.390087,49.9854,0 -125.387537,49.984887,0 -125.386974,49.984715,0 -125.386765,49.984651,0 -125.385388,49.984056,0 -125.38473,49.98385,0 -125.3844,49.983816,0 -125.383695,49.983872,0 -125.382824,49.983857,0 -125.382091,49.98389,0 -125.381005,49.983987,0 -125.3807,49.984057,0 -125.380478,49.984171,0 -125.380301,49.984311,0 -125.380206,49.9845,0 -125.380203,49.984751,0 -125.380157,49.984875,0 -125.380094,49.985041,0 -125.379935,49.985247,0 -125.379428,49.985618,0 -125.379289,49.98581,0 -125.379238,49.986014,0 -125.379278,49.986219,0 -125.379672,49.986852,0 -125.381465,49.989455,0 -125.38165,49.989807,0 -125.381862,49.990434,0 -125.381967,49.990933,0 -125.38199,49.99128,0 -125.381935,49.991908,0 -125.381932,49.991936,0 -125.381682,49.99237,0 -125.380724,49.993628,0 -125.380602,49.993992,0 -125.38057,49.994284,0 -125.380635,49.99453,0 -125.381138,49.995509,0 -125.381183,49.995869,0 -125.381087,49.996399,0 -125.380902,49.99664,0 -125.380684,49.996859,0 -125.380367,49.997086,0 -125.37994,49.997261,0 -125.379298,49.997482,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 4, in both directions. Construction work between Hydro Hill West Creek and Kennedy River Res</name>
@@ -4863,7 +4863,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Watson Dr E and Savona Access Rd for 1.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T14:19:48-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T17:52:46-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -5162,26 +5162,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 33: Kensington Ave and Exi</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 32: Sprott St and Exit 33: Kensington Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T17:18:25-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.969389,49.245172,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 55: 192 St and Exit 58: 20</name>
           <description>
         &lt;![CDATA[
@@ -5202,7 +5182,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 7B (Mary Hill Bypass), eastbound. Police incident between the start of Highway 7B (Mary Hill</name>
+          <name>Highway 7B (Mary Hill Bypass), eastbound. Road cleared between the start of Highway 7B (Mary Hill By</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5212,13 +5192,33 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 7B&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 7B (Mary Hill Bypass) and United Blvd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T17:31:05-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T18:14:46-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.852588,49.231185,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Stalled vehicle between Lost Lagoon Rd and Wren Trail (Vancouver). Right lan</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Lost Lagoon Rd and Wren Trail&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T18:06:02-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.13619,49.29639,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5426,6 +5426,26 @@
           <styleUrl>#style_SPECIAL_EVENT</styleUrl>
           <Point>
             <coordinates>-125.111909,48.804192,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Horseshoe Bay Drive, in both directions. Special event planned between Pasco Rd and Marine Dr. Start</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Horseshoe Bay Drive&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Pasco Rd and Marine Dr&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T18:22:40-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-123.268777,49.377898,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
