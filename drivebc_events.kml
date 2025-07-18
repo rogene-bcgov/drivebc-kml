@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-18 17:03:58 UTC
+        Last updated: 2025-07-18 17:37:13 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (259)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -760,27 +760,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 15 (Pacific Highway), in both directions. Utility work between 20 Ave and 26 Ave for 1.2 km </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 20 Ave and 26 Ave for 1.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-13T00:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.7352,49.03846,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0 -122.735303,49.049246,0 -122.735303,49.049311,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 11, in both directions. Construction work planned between Matsqui Trail Regional Pk and Lond</name>
           <description>
         &lt;![CDATA[
@@ -841,6 +820,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.286147,49.066107,0 -122.286042,49.06909,0 -122.285977,49.07081,0 -122.285941,49.071775,0 -122.285507,49.074338,0 -122.285442,49.074716,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), in both directions. Utility work between 20 Ave and 26 Ave for 1.2 km </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 20 Ave and 26 Ave for 1.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T10:12:44-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.7352,49.03846,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0 -122.735303,49.049246,0 -122.735303,49.049311,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4782,7 +4782,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Colleymount Rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At 53.5km near Burns Lake&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-19T08:24:11-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T10:06:07-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4934,6 +4934,47 @@
           <Point>
             <coordinates>-122.267387,49.006032,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle at Second Narrows Bridge (North Vancouve</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T10:21:49-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.026346,49.295359,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5. Vehicle recovery between Albreda Pit Rd and Camp Creek/HWY 5 Bridge for 4.3 km (17 to 21 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Albreda Pit Rd and Camp Creek/HWY 5 Bridge for 4.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T10:10:28-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.18094,52.652848,0 -119.181463,52.653052,0 -119.182417,52.653348,0 -119.185135,52.654097,0 -119.186077,52.654377,0 -119.186734,52.654613,0 -119.191536,52.656722,0 -119.193544,52.657584,0 -119.193949,52.657757,0 -119.194222,52.65789,0 -119.195089,52.658313,0 -119.195906,52.658765,0 -119.196498,52.659173,0 -119.197185,52.659717,0 -119.197322,52.659825,0 -119.19811,52.660621,0 -119.198674,52.661377,0 -119.199176,52.662182,0 -119.199982,52.663476,0 -119.201919,52.666583,0 -119.201938,52.666614,0 -119.202053,52.666798,0 -119.20266,52.667546,0 -119.204036,52.66886,0 -119.205755,52.670431,0 -119.207783,52.672285,0 -119.208314,52.67277,0 -119.20879,52.673166,0 -119.209842,52.673902,0 -119.210701,52.674421,0 -119.211516,52.674842,0 -119.213556,52.675729,0 -119.215433,52.676311,0 -119.216717,52.676613,0 -119.217657,52.676787,0 -119.220933,52.67727,0 -119.222834,52.677653,0 -119.22438,52.67806,0 -119.224516,52.678105,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt </name>
