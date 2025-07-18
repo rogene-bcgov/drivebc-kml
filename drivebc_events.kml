@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-18 03:07:22 UTC
+        Last updated: 2025-07-18 03:50:41 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -123,6 +123,27 @@
       <name>🚗 Traffic Events (266)</name>
       <Folder>
         <name>Construction Events</name>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Mowing between Exit 119: Vedder Rd and Exit 99: South Pa</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 99: South Parallel Rd and Exit 119: Vedder Rd for 20.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T20:32:11-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.180624,49.056382,0 -122.180348,49.056506,0 -122.180261,49.056546,0 -122.176731,49.058144,0 -122.172881,49.059889,0 -122.171956,49.060377,0 -122.170349,49.061307,0 -122.16276,49.065955,0 -122.158969,49.068277,0 -122.141419,49.07901,0 -122.141128,49.079188,0 -122.126464,49.088159,0 -122.125788,49.08858,0 -122.125148,49.089028,0 -122.124591,49.089511,0 -122.123757,49.090357,0 -122.122375,49.092175,0 -122.120061,49.095225,0 -122.116442,49.100007,0 -122.114085,49.103119,0 -122.111414,49.106646,0 -122.1113,49.106797,0 -122.11095,49.107258,0 -122.110789,49.107471,0 -122.104631,49.115599,0 -122.101384,49.119883,0 -122.100692,49.120658,0 -122.100008,49.121224,0 -122.099047,49.121814,0 -122.098555,49.122045,0 -122.097854,49.122313,0 -122.097131,49.122551,0 -122.096888,49.12263,0 -122.096682,49.122699,0 -122.095989,49.12293,0 -122.095091,49.123227,0 -122.094813,49.123319,0 -122.089663,49.125022,0 -122.08854,49.125421,0 -122.088109,49.125574,0 -122.087154,49.12601,0 -122.086089,49.126558,0 -122.084856,49.127261,0 -122.0845,49.127612,0 -122.084133,49.127886,0 -122.081623,49.129756,0 -122.078795,49.131829,0 -122.077931,49.13242,0 -122.073929,49.135434,0 -122.073422,49.135758,0 -122.072647,49.136135,0 -122.071772,49.136464,0 -122.070959,49.136672,0 -122.069934,49.136878,0 -122.060004,49.138325,0 -122.05868,49.138518,0 -122.039974,49.140932,0 -122.02876,49.142377,0 -122.027027,49.142632,0 -122.025373,49.142998,0 -122.022035,49.143963,0 -122.020949,49.144189,0 -122.020039,49.144322,0 -122.0189,49.144415,0 -122.01753,49.144438,0 -122.0117,49.144303,0 -122.006977,49.144219,0 -122.006907,49.144219,0 -122.003081,49.144157,0 -121.999997,49.144107,0 -121.999873,49.144105,0 -121.99975,49.144103,0 -121.999572,49.1441,0 -121.999088,49.144092,0 -121.983239,49.143787,0 -121.977708,49.143681,0 -121.977602,49.14368,0 -121.969274,49.14352,0 -121.967859,49.143585,0 -121.967236,49.143653,0 -121.965676,49.143902,0 -121.964755,49.144076,0 -121.964486,49.144142,0 -121.962445,49.144643,0 -121.962149,49.144716,0 -121.961942,49.144767,0</coordinates>
+          </LineString>
+        </Placemark>
         <Placemark>
           <name>Main Street, in both directions. Paving operations planned between Mountain Highway and Highway 1. S</name>
           <description>
@@ -4852,27 +4873,6 @@
           <Point>
             <coordinates>-116.919946,49.641505,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Landslide between Watson Dr E and Savona Access</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Watson Dr E and Savona Access Rd for 1.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T17:52:46-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.824952,50.756352,0 -120.817061,50.758609,0 -120.816659,50.75871,0 -120.816241,50.758815,0 -120.814949,50.759076,0 -120.81369,50.759287,0 -120.813313,50.759325,0 -120.812715,50.759386,0 -120.812378,50.75942,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>McKay Road, in both directions. Flooding at McKay Road. Road closed. Next update time Thu Apr 9, 202</name>
