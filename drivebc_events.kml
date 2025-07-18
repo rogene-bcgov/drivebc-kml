@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-18 14:02:18 UTC
+        Last updated: 2025-07-18 14:36:52 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (251)</name>
+      <name>🚗 Traffic Events (253)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4810,6 +4810,47 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-119.082816,50.670853,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Exit 37: Gaglardi Way and Exit 33: </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T07:19:54-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.967706,49.24363,0 -122.967563,49.243531,0 -122.967452,49.243458,0 -122.967232,49.243318,0 -122.966467,49.242887,0 -122.96524,49.242345,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, westbound. Stalled vehicle between Grace Rd and Highway 91 Connector (Delta). Right lane</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Highway 91 Connector and Grace Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T07:24:58-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.919584,49.170877,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
