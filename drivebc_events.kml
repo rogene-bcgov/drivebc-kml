@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-18 18:41:12 UTC
+        Last updated: 2025-07-18 19:02:50 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2752,26 +2752,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 17A, southbound. Tree pruning between Highway 99 and Ladner Trunk Rd (Delta). Until Fri Jul </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 17A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Ladner Trunk Rd and Highway 99&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T08:08:50-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.057308,49.099309,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97, southbound. Maintenance between North Nechako Rd and 10th Ave for 0.4 km (Prince George)</name>
           <description>
         &lt;![CDATA[
@@ -4968,7 +4948,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; 4th Avenue&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Highway 11 in Abbotsford&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T08:47:34-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T11:46:08-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -5017,6 +4997,27 @@
           <Point>
             <coordinates>-123.50468,48.818979,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), in both directions. Vehicle incident between Pigeon Rd and Moose Dr </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Pigeon Rd and Moose Dr for 1.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T11:45:52-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.928308,52.10451,0 -121.928293,52.104822,0 -121.928307,52.106676,0 -121.928308,52.106742,0 -121.92833,52.10693,0 -121.928408,52.107593,0 -121.928478,52.107884,0 -121.928583,52.108194,0 -121.928734,52.108482,0 -121.928746,52.108503,0 -121.928788,52.108576,0 -121.929244,52.109485,0 -121.92986,52.110258,0 -121.929993,52.110342,0 -121.930285,52.110663,0 -121.930442,52.110833,0 -121.931362,52.111648,0 -121.931662,52.111888,0 -121.932394,52.112479,0 -121.932857,52.112783,0 -121.934467,52.113842,0 -121.935586,52.114529,0 -121.935979,52.114769,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Upper Arrow Lake Ferry. Departure delayed between Shelter Bay and Galena Bay. From 8:45 AM to 11:00 </name>
