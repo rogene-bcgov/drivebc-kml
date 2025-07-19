@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-19 01:29:44 UTC
+        Last updated: 2025-07-19 02:18:58 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (252)</name>
+      <name>🚗 Traffic Events (251)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1325,6 +1325,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations between 65 Ave NW and Tappen Beach Rd </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Tappen Beach Rd and 65 Ave NW for 2.6 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T00:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.337813,50.767105,0 -119.337633,50.766477,0 -119.337511,50.766239,0 -119.337058,50.765789,0 -119.335429,50.764749,0 -119.334612,50.764189,0 -119.333886,50.763578,0 -119.333709,50.763365,0 -119.331727,50.761581,0 -119.331217,50.761226,0 -119.330665,50.760914,0 -119.330097,50.760635,0 -119.328438,50.759941,0 -119.327612,50.759489,0 -119.326714,50.758796,0 -119.325591,50.757727,0 -119.325337,50.757329,0 -119.325126,50.75671,0 -119.324975,50.754194,0 -119.324993,50.753578,0 -119.325431,50.751691,0 -119.325455,50.750771,0 -119.325446,50.750548,0 -119.325442,50.750456,0 -119.32532,50.750019,0 -119.324906,50.749358,0 -119.324107,50.748371,0 -119.323732,50.747919,0 -119.323636,50.747802,0 -119.32332,50.747243,0 -119.323273,50.747159,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway), eastbound. Maintenance planned between Domano Blvd and Range Rd for</name>
           <description>
         &lt;![CDATA[
@@ -2028,27 +2049,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Paving operations between 65 Ave NW and Tappen Beach Rd </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Tappen Beach Rd and 65 Ave NW for 2.6 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T00:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.337813,50.767105,0 -119.337633,50.766477,0 -119.337511,50.766239,0 -119.337058,50.765789,0 -119.335429,50.764749,0 -119.334612,50.764189,0 -119.333886,50.763578,0 -119.333709,50.763365,0 -119.331727,50.761581,0 -119.331217,50.761226,0 -119.330665,50.760914,0 -119.330097,50.760635,0 -119.328438,50.759941,0 -119.327612,50.759489,0 -119.326714,50.758796,0 -119.325591,50.757727,0 -119.325337,50.757329,0 -119.325126,50.75671,0 -119.324975,50.754194,0 -119.324993,50.753578,0 -119.325431,50.751691,0 -119.325455,50.750771,0 -119.325446,50.750548,0 -119.325442,50.750456,0 -119.32532,50.750019,0 -119.324906,50.749358,0 -119.324107,50.748371,0 -119.323732,50.747919,0 -119.323636,50.747802,0 -119.32332,50.747243,0 -119.323273,50.747159,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 5 (Coquihalla South). Construction work planned between Exit 183: Othello Rd and Exit 195 fo</name>
           <description>
         &lt;![CDATA[
@@ -2089,26 +2089,6 @@
             <tessellate>1</tessellate>
             <coordinates>-122.278038,55.618365,0 -122.27693,55.619138,0 -122.274805,55.620375,0 -122.274461,55.620575,0 -122.272316,55.621361,0 -122.26774,55.622423,0 -122.267681,55.622437,0 -122.267202,55.62254,0 -122.266805,55.622625,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Paul Lake Rd, in both directions. Paving operations at Pinatan-Pritchard Rd 20 km east of Kamloops. </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Paul Lake Rd&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Pinatan-Pritchard Rd 20 km east of Kamloops&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T15:14:48-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.176337,50.743681,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Road construction work between Hemlock Grove Bo</name>
@@ -2523,27 +2503,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-118.475271,51.483341,0 -118.475417,51.483538,0 -118.475594,51.483775,0 -118.47597,51.484282,0 -118.477838,51.486797,0 -118.47991,51.489586,0 -118.482153,51.492604,0 -118.482751,51.493409,0 -118.483299,51.494055,0 -118.484152,51.494901,0 -118.485138,51.495684,0 -118.48574,51.496093,0 -118.489953,51.498954,0 -118.490724,51.499534,0 -118.491239,51.500003,0 -118.491272,51.500033,0 -118.491453,51.500225,0 -118.491492,51.500266,0 -118.491708,51.500496,0 -118.492444,51.501488,0 -118.494201,51.503857,0 -118.494778,51.504509,0 -118.494879,51.504604,0 -118.495318,51.505018,0 -118.495934,51.50551,0 -118.497847,51.506794,0 -118.498072,51.506945,0 -118.498648,51.507396,0 -118.499181,51.50786,0 -118.500917,51.509746,0 -118.501819,51.510726,0 -118.502615,51.511592,0 -118.504448,51.513583,0 -118.504979,51.514225,0 -118.505315,51.514699,0 -118.505521,51.514988,0 -118.505825,51.515524,0 -118.506249,51.516477,0 -118.506464,51.517155,0 -118.507267,51.520813,0 -118.507634,51.52248,0 -118.507863,51.523523,0 -118.508367,51.525818,0 -118.508376,51.525862,0 -118.508548,51.526294,0 -118.508748,51.526637,0 -118.509332,51.527518,0 -118.510946,51.529953,0 -118.511585,51.530916,0 -118.512576,51.532411,0 -118.513344,51.533568,0 -118.515442,51.536731,0 -118.515794,51.537226,0 -118.515963,51.537463,0 -118.51645,51.538028,0 -118.517071,51.538612,0 -118.517079,51.53862,0 -118.51772,51.539169,0 -118.517805,51.539241,0 -118.518872,51.540154,0 -118.519484,51.540678,0 -118.523344,51.543982,0 -118.523997,51.544541,0 -118.524421,51.544904,0 -118.524847,51.545269,0 -118.527726,51.547732,0 -118.528616,51.548494,0 -118.52957,51.54931,0 -118.52999,51.549669,0 -118.530956,51.550495,0 -118.531016,51.550538,0 -118.531525,51.550902,0 -118.532045,51.551209,0 -118.532526,51.551455,0 -118.533064,51.55169,0 -118.533296,51.551774,0 -118.53373,51.551931,0 -118.534217,51.552078,0 -118.53484,51.552231,0 -118.534925,51.552247,0 -118.535593,51.552371,0 -118.537702,51.552677,0 -118.538565,51.552838,0 -118.539335,51.553046,0 -118.539747,51.553187,0 -118.539925,51.553248,0 -118.540604,51.553525,0 -118.541098,51.553767,0 -118.541647,51.554083,0 -118.542125,51.554417,0 -118.542297,51.554563,0 -118.542649,51.554862,0 -118.543906,51.556166,0 -118.544098,51.556365,0 -118.544274,51.556548,0 -118.547415,51.559807,0 -118.547464,51.559858,0 -118.551827,51.564383,0 -118.551933,51.564494,0 -118.55221,51.564781,0 -118.553203,51.56581,0 -118.55366,51.566218,0 -118.553872,51.566408,0 -118.554692,51.567027,0 -118.555492,51.567553,0 -118.556198,51.567956,0 -118.557363,51.56855,0 -118.557563,51.568643,0 -118.560332,51.569928,0 -118.561202,51.570363,0 -118.562031,51.570856,0 -118.562456,51.571148,0 -118.562551,51.571213,0 -118.563589,51.572062,0 -118.564825,51.573074,0 -118.565651,51.57366,0 -118.566605,51.574202,0 -118.566747,51.574283,0 -118.568596,51.575166,0 -118.569392,51.575611,0 -118.570118,51.576104,0 -118.570828,51.576685,0 -118.571024,51.576844,0 -118.571226,51.577044,0 -118.571868,51.577675,0 -118.574177,51.579947,0 -118.575383,51.581134,0 -118.575758,51.581502,0 -118.576427,51.58216,0 -118.577321,51.583039,0 -118.577941,51.583649,0 -118.578125,51.58383,0 -118.5788,51.584494,0 -118.579195,51.584882,0 -118.579861,51.585537,0 -118.580152,51.585823,0 -118.580794,51.586386,0 -118.580846,51.586425,0 -118.581435,51.58687,0 -118.582033,51.587282,0 -118.582445,51.587528,0 -118.582781,51.587729,0 -118.583136,51.587915,0 -118.583736,51.588229,0 -118.584809,51.588719,0 -118.588572,51.590115,0 -118.589576,51.590555,0 -118.590143,51.590854,0 -118.590972,51.591363,0 -118.594948,51.594046,0 -118.596149,51.594856,0 -118.596371,51.595006,0 -118.598937,51.596737,0 -118.599349,51.597048,0 -118.59963,51.597259,0 -118.599998,51.59759,0 -118.6002,51.597771,0 -118.600636,51.598296,0 -118.600937,51.598735,0 -118.60099,51.598814,0 -118.601199,51.599181,0 -118.601399,51.599648,0 -118.601496,51.600003,0 -118.601529,51.600123,0 -118.60155,51.600264,0 -118.601613,51.600683,0 -118.601594,51.601372,0 -118.60147,51.602045,0 -118.601399,51.60227,0 -118.601329,51.602492,0 -118.60104,51.603122,0 -118.600588,51.603797,0 -118.600009,51.604567,0 -118.599505,51.605236,0 -118.599155,51.605783,0 -118.598903,51.606259,0 -118.598761,51.606637,0 -118.598648,51.607234,0 -118.598641,51.607684,0 -118.598718,51.608199,0 -118.598878,51.608741,0 -118.598995,51.608991,0 -118.599129,51.609276,0 -118.599446,51.609759,0 -118.600021,51.610378,0 -118.600645,51.61105,0 -118.604259,51.614942,0 -118.607155,51.618059,0 -118.608268,51.619257,0 -118.608727,51.619751,0 -118.610462,51.621619,0 -118.61115,51.62246,0 -118.611637,51.623184,0 -118.612035,51.623953,0 -118.612362,51.624881,0 -118.612558,51.625734,0 -118.612809,51.626828,0 -118.612994,51.627634,0 -118.612998,51.627652,0 -118.613468,51.629696,0 -118.61347,51.629705,0 -118.613544,51.630027,0 -118.614325,51.633425,0 -118.615359,51.637924,0 -118.616578,51.643228,0 -118.616645,51.643718,0 -118.616674,51.644444,0 -118.616575,51.645506,0 -118.616345,51.646394,0 -118.615995,51.647287,0 -118.615635,51.648012,0 -118.615239,51.648661,0 -118.614841,51.649237,0 -118.614733,51.649392,0 -118.613559,51.651088,0 -118.610716,51.655194,0 -118.610453,51.655659,0 -118.610395,51.655761,0 -118.610221,51.656226,0 -118.610099,51.656733,0 -118.610069,51.657174,0 -118.610075,51.657312,0 -118.610088,51.657577,0 -118.6102,51.658121,0 -118.610353,51.65855,0 -118.610651,51.659111,0 -118.610947,51.659517,0 -118.612848,51.66212,0 -118.61572,51.66605,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 33. Maintenance between McCulloch Rd and Big White Rd for 1.5 km (30 to 29 km south of Kelow</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 33&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between McCulloch Rd and Big White Rd for 1.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T07:56:33-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.1262,49.75726,0 -119.126014,49.757629,0 -119.125939,49.757778,0 -119.125612,49.75825,0 -119.125203,49.758717,0 -119.120688,49.763003,0 -119.120666,49.763021,0 -119.120158,49.763443,0 -119.119663,49.763855,0 -119.119305,49.764153,0 -119.119064,49.764324,0 -119.118213,49.764929,0 -119.115212,49.76691,0 -119.11497,49.767069,0 -119.114826,49.767164,0 -119.113588,49.767981,0 -119.113558,49.768001,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4448,26 +4407,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Upper Arrow Lake Ferry. Currently operating 20 minutes behind schedule between the start of Upper Ar</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between the start of Upper Arrow Lake Ferry and Upper Arrow Lake Ferry&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T18:15:35-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-117.881781,50.629335,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Constructio</name>
           <description>
         &lt;![CDATA[
@@ -4588,26 +4527,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 6 NS, in both directions. Downed hydro lines between Cote Rd and Osachoff Rd (1 km west of P</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Cote Rd and Osachoff Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T17:44:37-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-117.544818,49.441874,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Kootenay Lake Ferry. Possible ferry delays between Balfour and Kootenay Bay. Until Mon Jul 21. High </name>
           <description>
         &lt;![CDATA[
@@ -4628,6 +4547,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 97A, in both directions. Vehicle incident between Mara Heights Rd and Sicamous Creek Frtg (2</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Mara Heights Rd and Sicamous Creek Frtg&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T18:53:03-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.993668,50.78836,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>McKay Road, in both directions. Flooding at McKay Road. Road closed. Next update time Thu Apr 9, 202</name>
           <description>
         &lt;![CDATA[
@@ -4645,6 +4584,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.373433,52.214655,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 6 NS, in both directions. Downed hydro lines between Cote Rd and Osachoff Rd (1 km west of P</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Cote Rd and Osachoff Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T19:02:50-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-117.544818,49.441874,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4939,6 +4898,27 @@
       </Folder>
       <Folder>
         <name>Special Event Events</name>
+        <Placemark>
+          <name>Highway 95A, in both directions. Special event planned between Mark St and St. Marys Ave for 0.2 km </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Mark St and St. Marys Ave for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-18T18:51:04-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.983683,49.683805,0 -115.983037,49.684708,0 -115.981941,49.684401,0</coordinates>
+          </LineString>
+        </Placemark>
         <Placemark>
           <name>Fisher Rd, in both directions. Special event planned between Holland Ave and Watson Ave. Starting Sa</name>
           <description>
