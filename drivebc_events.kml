@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-19 17:35:22 UTC
+        Last updated: 2025-07-19 18:02:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4627,6 +4627,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, in both directions. Vehicle recovery at Pemberton Farm Rd E (Pemberton). Single lane alt</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Pemberton Farm Rd E&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-19T10:51:03-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.760917,50.314517,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Upper Arrow Lake Ferry. Departure delayed between Shelter Bay and Galena Bay. From 8:45 AM to 11:00 </name>
           <description>
         &lt;![CDATA[
@@ -4691,27 +4711,6 @@
       </Folder>
       <Folder>
         <name>Special Event Events</name>
-        <Placemark>
-          <name>Highway 95A, in both directions. Special event between Mark St and St. Marys Ave for 0.2 km (Kimberl</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Mark St and St. Marys Ave for 0.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-19T09:30:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-115.983683,49.683805,0 -115.983037,49.684708,0 -115.981941,49.684401,0</coordinates>
-          </LineString>
-        </Placemark>
         <Placemark>
           <name>Fisher Rd, in both directions. Special event planned between Holland Ave and Watson Ave. Starting Sa</name>
           <description>
