@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-21 18:42:01 UTC
+        Last updated: 2025-07-21 19:03:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (249)</name>
+      <name>🚗 Traffic Events (250)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -289,7 +289,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Ravine Way. Construction work between Highway 1 and Highway 17 near Victoria. Expect delays. Eastbou</name>
+          <name>Ravine Way. Construction work between Highway 1 and Highway 17 near Victoria. Expect delays. Last up</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -299,7 +299,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Ravine Way&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Highway 1 and Highway 17 near Victoria&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-12T01:36:39-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T11:40:45-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -2544,27 +2544,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Highview Terr and </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Highview Terr and Nicol St for 1.7 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-14T15:45:06-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.933475,49.14776,0 -123.933506,49.147865,0 -123.933595,49.148221,0 -123.933716,49.150644,0 -123.933821,49.152524,0 -123.933851,49.153367,0 -123.933871,49.153839,0 -123.933889,49.154012,0 -123.933909,49.15469,0 -123.933912,49.155123,0 -123.933958,49.155617,0 -123.933992,49.156087,0 -123.933997,49.156568,0 -123.934018,49.156685,0 -123.934058,49.157328,0 -123.934073,49.157686,0 -123.934085,49.15796,0 -123.93409,49.158044,0 -123.934169,49.159658,0 -123.934169,49.159877,0 -123.934292,49.161889,0 -123.934287,49.162881,0 -123.934287,49.162995,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Inland Island Highway), in both directions. Bridge maintenance between Corcan Rd and Par</name>
           <description>
         &lt;![CDATA[
@@ -3080,6 +3059,27 @@
           <Point>
             <coordinates>-121.449748,50.255239,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Highview Terr and </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Highview Terr and Nicol St for 1.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T11:50:06-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.933475,49.14776,0 -123.933506,49.147865,0 -123.933595,49.148221,0 -123.933716,49.150644,0 -123.933821,49.152524,0 -123.933851,49.153367,0 -123.933871,49.153839,0 -123.933889,49.154012,0 -123.933909,49.15469,0 -123.933912,49.155123,0 -123.933958,49.155617,0 -123.933992,49.156087,0 -123.933997,49.156568,0 -123.934018,49.156685,0 -123.934058,49.157328,0 -123.934073,49.157686,0 -123.934085,49.15796,0 -123.93409,49.158044,0 -123.934169,49.159658,0 -123.934169,49.159877,0 -123.934292,49.161889,0 -123.934287,49.162881,0 -123.934287,49.162995,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 22, in both directions. Utility work planned at Columbia Ave (Castlegar). Starting Tue Jul 2</name>
@@ -4614,7 +4614,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave Rest Area (14 km east of East Boundary</name>
+          <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave (14 km east of East Boundary of Glacie</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4624,7 +4624,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Redgrave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-05-21T09:39:35-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T11:51:02-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4856,6 +4856,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-119.082816,50.670853,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, westbound. Stalled vehicle between Tannery Rd and Grace Rd (Surrey). Stall on Tannery Rd</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Grace Rd and Tannery Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T11:48:43-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.893172,49.196034,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
