@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-22 16:02:13 UTC
+        Last updated: 2025-07-22 16:40:05 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (260)</name>
+      <name>🚗 Traffic Events (263)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1446,6 +1446,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 19A (Island Highway), northbound. Utility work between 107th St and 106th St for 0.2 km (Nan</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 107th St and 106th St for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T09:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.00894,49.205285,0 -124.009036,49.205306,0 -124.010881,49.205724,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Old Alaska Highway. Geotechnical investigation at Kiskatinaw Curved Bridge 30 km north of Dawson Cre</name>
           <description>
         &lt;![CDATA[
@@ -1484,27 +1505,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.780258,49.288175,0 -121.780135,49.288572,0 -121.780094,49.290854,0 -121.780327,49.291455,0 -121.780844,49.292603,0 -121.780985,49.292916,0 -121.781205,49.293229,0 -121.781531,49.293531,0 -121.782042,49.293889,0 -121.783047,49.294605,0 -121.783438,49.294884,0 -121.783769,49.295203,0 -121.783949,49.295545,0 -121.784174,49.296395,0 -121.784496,49.297719,0 -121.784501,49.297743,0 -121.784655,49.29821,0 -121.784817,49.298703,0 -121.785052,49.299264,0 -121.785239,49.299711,0 -121.78529,49.300003,0 -121.785316,49.300147,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 19A (Island Highway), northbound. Utility work planned between 107th St and 106th St for 0.2</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 107th St and 106th St for 0.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T14:58:32-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.00894,49.205285,0 -124.009036,49.205306,0 -124.010881,49.205724,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3429,27 +3429,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Highview Terr and </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Highview Terr and Nicol St for 1.7 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T11:50:06-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.933475,49.14776,0 -123.933506,49.147865,0 -123.933595,49.148221,0 -123.933716,49.150644,0 -123.933821,49.152524,0 -123.933851,49.153367,0 -123.933871,49.153839,0 -123.933889,49.154012,0 -123.933909,49.15469,0 -123.933912,49.155123,0 -123.933958,49.155617,0 -123.933992,49.156087,0 -123.933997,49.156568,0 -123.934018,49.156685,0 -123.934058,49.157328,0 -123.934073,49.157686,0 -123.934085,49.15796,0 -123.93409,49.158044,0 -123.934169,49.159658,0 -123.934169,49.159877,0 -123.934292,49.161889,0 -123.934287,49.162881,0 -123.934287,49.162995,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 97C (Okanagan Connector), in both directions. Paving operations between Loon Lake Rd and Kan</name>
           <description>
         &lt;![CDATA[
@@ -3489,6 +3468,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-120.57954,49.165732,0 -120.57857,49.166057,0 -120.57808,49.166133,0 -120.578008,49.166134,0 -120.577674,49.166138,0 -120.577029,49.166078,0 -120.575231,49.165735,0 -120.574844,49.165703,0 -120.574624,49.165731,0 -120.574309,49.165839,0 -120.574072,49.166011,0 -120.573699,49.166477,0 -120.573418,49.166618,0 -120.572865,49.166737,0 -120.572401,49.166788,0 -120.571944,49.166762,0 -120.571796,49.166713,0 -120.571764,49.166686,0 -120.571216,49.166231,0 -120.570887,49.166048,0 -120.570176,49.165725,0 -120.569776,49.165624,0 -120.569557,49.165616,0 -120.569329,49.165642,0 -120.56889,49.165771,0 -120.567591,49.166276,0 -120.56717,49.166469,0 -120.566768,49.166734,0 -120.566511,49.167,0 -120.566219,49.167524,0 -120.566101,49.168262,0 -120.565994,49.168623,0 -120.565643,49.169184,0 -120.565423,49.16942,0 -120.565066,49.169656,0 -120.564606,49.169825,0 -120.564352,49.169864,0 -120.564149,49.169865,0 -120.563809,49.169866,0 -120.562462,49.16966,0 -120.561608,49.169677,0 -120.559831,49.170067,0 -120.559038,49.170299,0 -120.557954,49.170705,0 -120.557283,49.17103,0 -120.557203,49.171069,0 -120.556571,49.171515,0 -120.555032,49.172833,0 -120.554722,49.173099,0 -120.552714,49.174496,0 -120.552204,49.174941,0 -120.55181,49.175425,0 -120.551638,49.17579,0 -120.551557,49.176333,0 -120.551574,49.177124,0 -120.551728,49.178887,0 -120.551839,49.179217,0 -120.552039,49.179632,0 -120.552343,49.180016,0 -120.553004,49.180621,0 -120.554085,49.181609,0 -120.554308,49.181891,0 -120.554419,49.182215,0 -120.554548,49.183139,0 -120.55479,49.183816,0 -120.554846,49.184513,0 -120.554918,49.184869,0 -120.55534,49.186171,0 -120.555649,49.186701,0 -120.556759,49.188158,0 -120.557139,49.188519,0 -120.557472,49.188664,0 -120.557648,49.18871,0 -120.557803,49.188752,0 -120.558308,49.188805,0 -120.558668,49.188813,0 -120.559158,49.188764,0 -120.559916,49.188557,0 -120.559979,49.188539,0 -120.560484,49.188506,0 -120.560889,49.18857,0 -120.561288,49.18871,0 -120.561608,49.188886,0 -120.561647,49.188935,0 -120.561806,49.18913,0 -120.561754,49.189426,0 -120.561595,49.189605,0 -120.561459,49.189686,0 -120.561119,49.1898,0 -120.560318,49.189898,0 -120.560052,49.189992,0 -120.559825,49.190141,0 -120.559722,49.190262,0 -120.559588,49.190525,0 -120.559442,49.191251,0 -120.55938,49.191562,0 -120.55938,49.191793,0 -120.559862,49.192993,0 -120.560074,49.193521,0 -120.560289,49.194058,0 -120.561525,49.197138,0 -120.561587,49.197461,0 -120.561592,49.197489,0 -120.561563,49.197952,0 -120.561452,49.198258,0 -120.561129,49.199149,0 -120.561039,49.199397,0 -120.560899,49.199688,0 -120.560749,49.200001,0 -120.560386,49.200756,0 -120.560087,49.20131,0 -120.559955,49.201553,0 -120.55966,49.202098,0 -120.559476,49.202356,0 -120.559149,49.202646,0 -120.558829,49.202851,0 -120.558745,49.202905,0 -120.557967,49.203313,0 -120.557654,49.203559,0 -120.557419,49.203886,0 -120.556572,49.205457,0 -120.55625,49.205852,0 -120.555353,49.206785,0 -120.555085,49.207112,0 -120.55497,49.207303,0 -120.554929,49.207467,0 -120.555063,49.208239,0 -120.555105,49.208483,0 -120.555038,49.208762,0 -120.554843,49.208942,0 -120.554611,49.209041,0 -120.552446,49.20954,0 -120.552177,49.209627,0 -120.551782,49.209852,0 -120.551453,49.210133,0 -120.551212,49.210469,0 -120.551103,49.210835,0 -120.551158,49.213174,0 -120.551343,49.214174,0 -120.551643,49.214936,0 -120.551761,49.215567,0 -120.551763,49.215625,0 -120.551771,49.215832,0 -120.551733,49.216154,0 -120.551614,49.216352,0 -120.551509,49.216444,0 -120.551307,49.21662,0 -120.551036,49.216765,0 -120.550547,49.216909,0 -120.549698,49.217054,0 -120.54916,49.217196,0 -120.548772,49.217382,0 -120.548594,49.21753,0 -120.548307,49.217863,0 -120.547383,49.219252,0 -120.547262,49.219638,0 -120.547221,49.220421,0 -120.547141,49.221953,0 -120.547053,49.222152,0 -120.5464,49.223068,0 -120.546266,49.223412,0 -120.546234,49.223761,0 -120.546243,49.224631,0 -120.546348,49.224959,0 -120.546459,49.225115,0 -120.546564,49.225262,0 -120.546839,49.225493,0 -120.54718,49.225721,0 -120.547834,49.22608,0 -120.547935,49.226149,0 -120.548195,49.226325,0 -120.548489,49.226611,0 -120.548697,49.226888,0 -120.548828,49.227261,0 -120.548812,49.227927,0 -120.548839,49.228256,0 -120.548962,49.228576,0 -120.549213,49.229053,0 -120.549304,49.229388,0 -120.549305,49.22956,0 -120.549161,49.230396,0 -120.549185,49.230733,0 -120.54934,49.231227,0 -120.549536,49.231535,0 -120.54981,49.231815,0 -120.552153,49.233792,0 -120.553043,49.234372,0 -120.554325,49.234982,0 -120.555077,49.235176,0 -120.555877,49.235263,0 -120.556884,49.235373,0 -120.557899,49.235626,0 -120.558742,49.23603,0 -120.559426,49.236573,0 -120.56199,49.238957,0 -120.562205,49.239115,0 -120.562335,49.239209,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Highview Terr and Nicol St</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Highview Terr and Nicol St for 1.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T09:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.933475,49.14776,0 -123.933506,49.147865,0 -123.933595,49.148221,0 -123.933716,49.150644,0 -123.933821,49.152524,0 -123.933851,49.153367,0 -123.933871,49.153839,0 -123.933889,49.154012,0 -123.933909,49.15469,0 -123.933912,49.155123,0 -123.933958,49.155617,0 -123.933992,49.156087,0 -123.933997,49.156568,0 -123.934018,49.156685,0 -123.934058,49.157328,0 -123.934073,49.157686,0 -123.934085,49.15796,0 -123.93409,49.158044,0 -123.934169,49.159658,0 -123.934169,49.159877,0 -123.934292,49.161889,0 -123.934287,49.162881,0 -123.934287,49.162995,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3575,6 +3575,47 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 93, southbound. Shoulder maintenance between Arrow Rd and Fairmont Resort Rd for 23.0 km (1 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Fairmont Resort Rd and Arrow Rd for 23.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T09:10:57-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.856734,50.336494,0 -115.856718,50.337012,0 -115.856806,50.338462,0 -115.856933,50.339441,0 -115.857441,50.341511,0 -115.857685,50.342503,0 -115.857996,50.343697,0 -115.858327,50.345059,0 -115.858642,50.346286,0 -115.858772,50.346793,0 -115.858957,50.347515,0 -115.859189,50.348419,0 -115.859528,50.349744,0 -115.860447,50.353338,0 -115.860721,50.354408,0 -115.86092,50.355133,0 -115.86101,50.355462,0 -115.86136,50.356361,0 -115.861397,50.356433,0 -115.861483,50.356598,0 -115.861917,50.357428,0 -115.862072,50.357725,0 -115.862196,50.357915,0 -115.862542,50.358444,0 -115.86282,50.358804,0 -115.863249,50.359359,0 -115.864873,50.361273,0 -115.866652,50.36337,0 -115.870424,50.367816,0 -115.871337,50.368892,0 -115.872109,50.369801,0 -115.87283,50.37065,0 -115.873542,50.371489,0 -115.874498,50.372616,0 -115.874763,50.372927,0 -115.879935,50.37902,0 -115.881081,50.380369,0 -115.883313,50.382997,0 -115.884441,50.384325,0 -115.889526,50.390311,0 -115.89729,50.399446,0 -115.897753,50.399991,0 -115.903135,50.406321,0 -115.90497,50.408479,0 -115.907812,50.41182,0 -115.907996,50.412036,0 -115.908964,50.413174,0 -115.909751,50.414099,0 -115.911084,50.415668,0 -115.912688,50.417553,0 -115.913326,50.418305,0 -115.914327,50.419481,0 -115.914508,50.419695,0 -115.919539,50.425611,0 -115.920571,50.426622,0 -115.921375,50.427272,0 -115.922435,50.427998,0 -115.923613,50.42866,0 -115.923847,50.428762,0 -115.926337,50.429848,0 -115.93478,50.433468,0 -115.935182,50.43364,0 -115.935959,50.43403,0 -115.936548,50.434326,0 -115.937531,50.434874,0 -115.938641,50.435561,0 -115.93946,50.436141,0 -115.940076,50.436628,0 -115.940243,50.43676,0 -115.940931,50.437397,0 -115.943743,50.440002,0 -115.955891,50.4515,0 -115.956966,50.452406,0 -115.958061,50.45325,0 -115.958347,50.453471,0 -115.958853,50.453861,0 -115.963271,50.456926,0 -115.964464,50.457754,0 -115.970006,50.461602,0 -115.971606,50.462722,0 -115.973817,50.464269,0 -115.975843,50.465686,0 -115.976297,50.466003,0 -115.977579,50.4669,0 -115.97856,50.467586,0 -115.978607,50.467619,0 -115.980295,50.468807,0 -115.98274,50.470529,0 -115.983514,50.471183,0 -115.983714,50.471412,0 -115.984074,50.471823,0 -115.984666,50.47265,0 -115.984933,50.473146,0 -115.98511,50.473537,0 -115.985175,50.473681,0 -115.985644,50.474794,0 -115.986087,50.475841,0 -115.987455,50.479075,0 -115.987932,50.480204,0 -115.988771,50.482189,0 -115.989042,50.483011,0 -115.989154,50.483683,0 -115.98917,50.483777,0 -115.989178,50.484284,0 -115.989136,50.484822,0 -115.98874,50.487062,0 -115.988486,50.488498,0 -115.988166,50.490311,0 -115.988111,50.490913,0 -115.988067,50.491772,0 -115.988118,50.492394,0 -115.988185,50.493221,0 -115.988343,50.494153,0 -115.988521,50.494817,0 -115.988615,50.49517,0 -115.989038,50.496134,0 -115.990804,50.49973,0 -115.990933,50.499992,0 -115.994336,50.506896,0 -115.99457,50.507374,0 -115.996603,50.511527,0 -115.997071,50.512462,0 -115.997692,50.513648,0 -115.997742,50.513725,0 -115.99808,50.514266,0 -115.998794,50.515039,0 -115.99925,50.515604,0 -115.999455,50.515778,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Mt Seymour Rd, northbound. Shoulder maintenance between Mt Seymour Pkwy and Old Buck Trail in North </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Mt Seymour Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Mt Seymour Pkwy and Old Buck Trail in North Vancouver - District&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T09:10:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.969775,49.322188,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Paving operations at Cedar Ave (Fernie). Until Mo</name>
           <description>
         &lt;![CDATA[
@@ -3633,6 +3674,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-129.867369,58.947826,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 24. Utility work between Wavey Lake Forest Service Rd and Machete Lake Rd 37 km east of Lone</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 24&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Wavey Lake Forest Service Rd and Machete Lake Rd 37 km east of Lone Butte&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T09:26:55-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.651225,51.499386,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -3950,7 +4011,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 4, westbound. Electrical maintenance planned at Muir Rd (Port Alberni). Starting Tue Jul 22 </name>
+          <name>Highway 4, westbound. Electrical maintenance at Muir Rd (Port Alberni). Until Tue Jul 22 at 1:00 PM </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3960,7 +4021,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Muir Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T11:54:43-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T09:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4908,7 +4969,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T08:53:40-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T09:14:34-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
