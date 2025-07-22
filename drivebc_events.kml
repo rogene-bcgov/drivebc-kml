@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-22 04:14:29 UTC
+        Last updated: 2025-07-22 04:42:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (241)</name>
+      <name>🚗 Traffic Events (242)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -204,6 +204,26 @@
             <tessellate>1</tessellate>
             <coordinates>-121.315353,51.688011,0 -121.3159,51.688862,0 -121.317173,51.690841,0 -121.318041,51.692202,0 -121.319033,51.693756,0 -121.319955,51.695201,0 -121.321581,51.697747,0 -121.322006,51.698565,0 -121.32223,51.699417,0 -121.32222,51.700003,0 -121.322219,51.700035,0 -121.322165,51.700475,0 -121.322108,51.700646,0 -121.321888,51.701303,0 -121.321622,51.701757,0 -121.321431,51.701974,0 -121.321286,51.702206,0 -121.31875,51.70505,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Port Mann Bridge (Surrey). Until T</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T21:22:16-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.813328,49.21973,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Industrial traffic may slow or block regular tr</name>
