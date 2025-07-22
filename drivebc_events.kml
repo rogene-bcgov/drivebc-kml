@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-22 01:30:03 UTC
+        Last updated: 2025-07-22 02:20:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,29 +120,9 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (242)</name>
+      <name>🚗 Traffic Events (243)</name>
       <Folder>
         <name>Construction Events</name>
-        <Placemark>
-          <name>Main Street, in both directions. Paving operations between Mountain Highway and Highway 1. Until Sun</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Main Street&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Mountain Highway and Highway 1&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T00:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.028272,49.304812,0</coordinates>
-          </Point>
-        </Placemark>
         <Placemark>
           <name>Highway 26. Utility work between Shmidt Road and Cinderella Road. Until Fri Aug 1. From 6:30 AM to 5</name>
           <description>
@@ -161,6 +141,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-121.936918,53.066904,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Main Street, in both directions. Paving operations between Mountain Highway and Highway 1. Until Sun</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Main Street&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Mountain Highway and Highway 1&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T00:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.028272,49.304812,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -512,26 +512,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 19 (Inland Island Highway), in both directions. Electrical maintenance planned at Exit 21: N</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 21: Northfield Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T05:37:13-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-124.002423,49.188452,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 7 (Lougheed Highway), westbound. Utility work between Maria Lane and Junction with Highway 9</name>
           <description>
         &lt;![CDATA[
@@ -572,6 +552,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.301741,49.12133,0 -122.302057,49.121509,0 -122.302336,49.121666,0 -122.305399,49.123376,0 -122.308701,49.125249,0 -122.308884,49.125351,0 -122.309178,49.125521,0 -122.311131,49.126648,0 -122.311499,49.126861,0 -122.312388,49.127339,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19 (Inland Island Highway), in both directions. Electrical maintenance at Exit 21: Northfiel</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 21: Northfield Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T19:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.002423,49.188452,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 11, northbound. Utility work planned between McCallum Rd and Bateman Rd for 1.0 km (Abbotsfo</name>
@@ -679,26 +679,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19 (Inland Island Highway), in both directions. Electrical maintenance planned at 5th St (Na</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At 5th St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T05:38:26-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.97169,49.154372,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 11, northbound. Utility work planned between McCallum Rd and Bateman Rd for 1.0 km (Abbotsfo</name>
           <description>
         &lt;![CDATA[
@@ -718,6 +698,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.286147,49.066107,0 -122.286042,49.06909,0 -122.285977,49.07081,0 -122.285941,49.071775,0 -122.285507,49.074338,0 -122.285442,49.074716,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19 (Inland Island Highway), in both directions. Electrical maintenance at 5th St (Nanaimo). </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At 5th St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T19:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.97169,49.154372,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 33, in both directions. Utility work between Beaverdell Station Rd and Carmi Station for 5.2</name>
@@ -1856,26 +1856,6 @@
             <tessellate>1</tessellate>
             <coordinates>-128.577046,54.512004,0 -128.57698,54.512027,0 -128.576456,54.512026,0 -128.572711,54.511961,0 -128.570493,54.511926,0 -128.567625,54.511874,0 -128.567377,54.511867,0 -128.566139,54.511831,0 -128.56519,54.511803,0 -128.562883,54.511792,0 -128.56223,54.511781,0 -128.561586,54.511766,0 -128.561147,54.511765,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 17, in both directions. Paving operations at 104 Ave (Surrey). Until Fri Jul 25 at 5:00 AM P</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At 104 Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T18:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.738491,49.191487,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 14, in both directions. Utility work planned between Grant Rd W and Croce Rd for 0.3 km (Soo</name>
@@ -3593,6 +3573,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>[Truncated] Highway 17, in both directions. Paving operations between 136 St and 104 Ave for 8.7 km </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 136 St and 104 Ave for 8.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T18:34:33-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.845251,49.213071,0 -122.844909,49.213059,0 -122.843955,49.213067,0 -122.84281,49.213142,0 -122.842142,49.213214,0 -122.84151,49.213299,0 -122.840609,49.213462,0 -122.839762,49.213659,0 -122.838202,49.214072,0 -122.837227,49.214281,0 -122.836485,49.214401,0 -122.835922,49.214465,0 -122.835371,49.214524,0 -122.834707,49.214561,0 -122.834205,49.214585,0 -122.833689,49.214584,0 -122.833218,49.214575,0 -122.832596,49.214543,0 -122.830114,49.214357,0 -122.82918,49.214306,0 -122.8283,49.214292,0 -122.826438,49.214324,0 -122.824682,49.214346,0 -122.823471,49.214389,0 -122.822299,49.214446,0 -122.820761,49.214526,0 -122.819346,49.214568,0 -122.818351,49.214586,0 -122.816928,49.214573,0 -122.816008,49.214549,0 -122.815035,49.214503,0 -122.814107,49.214445,0 -122.811764,49.214272,0 -122.811185,49.21423,0 -122.81104,49.214219,0 -122.810725,49.214196,0 -122.81058,49.214186,0 -122.810188,49.214157,0 -122.810076,49.21415,0 -122.809235,49.214066,0 -122.808208,49.213982,0 -122.807369,49.213887,0 -122.806561,49.213774,0 -122.805926,49.213671,0 -122.804003,49.213348,0 -122.802092,49.213027,0 -122.799535,49.212603,0 -122.798319,49.212402,0 -122.797452,49.21225,0 -122.796734,49.21213,0 -122.796025,49.212029,0 -122.795653,49.21198,0 -122.795109,49.211927,0 -122.794434,49.211875,0 -122.793944,49.211859,0 -122.793603,49.211848,0 -122.792397,49.211856,0 -122.791267,49.211898,0 -122.789376,49.211968,0 -122.788705,49.21198,0 -122.78787,49.211955,0 -122.787445,49.211935,0 -122.786727,49.211875,0 -122.784292,49.211608,0 -122.783648,49.211538,0 -122.782039,49.211363,0 -122.781401,49.211307,0 -122.78082,49.211265,0 -122.780076,49.211233,0 -122.779185,49.211209,0 -122.7778,49.211229,0 -122.776691,49.211276,0 -122.776104,49.211295,0 -122.775677,49.211299,0 -122.775074,49.211288,0 -122.774367,49.211231,0 -122.773681,49.21115,0 -122.773132,49.211067,0 -122.772479,49.210946,0 -122.77185,49.210801,0 -122.771812,49.21079,0 -122.77131,49.21065,0 -122.770732,49.210465,0 -122.770086,49.210225,0 -122.769496,49.209977,0 -122.7689,49.209696,0 -122.768194,49.209294,0 -122.767295,49.208762,0 -122.766594,49.208341,0 -122.765821,49.207895,0 -122.76268,49.206002,0 -122.761854,49.205497,0 -122.76107,49.205051,0 -122.758141,49.20344,0 -122.756485,49.202513,0 -122.754939,49.201648,0 -122.751737,49.199907,0 -122.74816,49.197976,0 -122.747516,49.197588,0 -122.746896,49.197178,0 -122.74641,49.196805,0 -122.745817,49.196304,0 -122.745086,49.195638,0 -122.744593,49.195214,0 -122.743174,49.194105,0 -122.742707,49.193807,0 -122.742026,49.193371,0 -122.741777,49.193212,0 -122.741413,49.192983,0 -122.741025,49.192764,0 -122.740459,49.192469,0 -122.739954,49.192207,0 -122.739652,49.192055,0 -122.738491,49.191487,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Utility work between 248 St and Bradner Rd for </name>
           <description>
         &lt;![CDATA[
@@ -3632,6 +3633,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.671007,49.260139,0 -124.671073,49.260211,0 -124.671219,49.260432,0 -124.671936,49.261523,0 -124.672459,49.262455,0 -124.672666,49.262873,0 -124.673759,49.265082,0 -124.673832,49.265408,0 -124.673812,49.265741,0 -124.673439,49.267158,0 -124.673435,49.267553,0 -124.673548,49.267914,0 -124.673738,49.268237,0 -124.675087,49.269712,0 -124.675378,49.270189,0 -124.675566,49.270588,0 -124.675649,49.270932,0 -124.67565,49.271252,0 -124.67556,49.271735,0 -124.674829,49.273878,0 -124.674827,49.274328,0 -124.674983,49.275682,0 -124.675006,49.276328,0 -124.674893,49.27841,0 -124.675426,49.28079,0 -124.675486,49.28106,0 -124.675513,49.281416,0 -124.675459,49.281874,0 -124.675326,49.282448,0 -124.675196,49.282729,0 -124.675013,49.282966,0 -124.674759,49.283193,0 -124.673908,49.283766,0 -124.672598,49.284649,0 -124.672261,49.284958,0 -124.670232,49.287187,0 -124.668996,49.288284,0 -124.668637,49.288687,0 -124.668385,49.288969,0 -124.668079,49.28925,0 -124.66768,49.28951,0 -124.667289,49.289704,0 -124.66594,49.290263,0 -124.665174,49.290531,0 -124.663497,49.291067,0 -124.662664,49.291225,0 -124.661063,49.291489,0 -124.660451,49.291547,0 -124.659894,49.291538,0 -124.659256,49.291476,0 -124.658083,49.291362,0 -124.656253,49.291126,0 -124.655519,49.291032,0 -124.655136,49.290982,0 -124.65452,49.290825,0 -124.653653,49.290483,0 -124.653346,49.290411,0 -124.652977,49.290365,0 -124.652562,49.29037,0 -124.651704,49.290469,0 -124.651188,49.290471,0 -124.649619,49.290339,0 -124.646381,49.289852,0 -124.644636,49.289887,0 -124.643959,49.289798,0 -124.643172,49.289629,0 -124.642753,49.289539,0 -124.641806,49.289193,0 -124.641276,49.289099,0 -124.63946,49.289079,0 -124.638773,49.289009,0 -124.637057,49.2887,0 -124.636458,49.28863,0 -124.634338,49.288547,0 -124.633643,49.288482,0 -124.633076,49.288362,0 -124.631719,49.287955,0 -124.631263,49.287893,0 -124.630844,49.287881,0 -124.629629,49.287927,0 -124.629081,49.287974,0 -124.628567,49.288069,0 -124.622969,49.289552,0 -124.622241,49.289664,0 -124.621591,49.289708,0 -124.620644,49.289694,0 -124.619201,49.289577,0 -124.618704,49.289474,0 -124.618272,49.289301,0 -124.618023,49.289141,0 -124.617211,49.288358,0 -124.616938,49.288181,0 -124.616586,49.28804,0 -124.616234,49.287986,0 -124.615866,49.287981,0 -124.615528,49.288031,0 -124.613908,49.288456,0 -124.613487,49.288531,0 -124.612186,49.288633,0 -124.611809,49.288703,0 -124.61115,49.28891,0 -124.61082,49.288976,0 -124.61053,49.288983,0 -124.609358,49.288819,0 -124.60859,49.288761,0 -124.608146,49.288687,0 -124.607649,49.288544,0 -124.606923,49.288226,0 -124.606474,49.288108,0 -124.605927,49.288009,0 -124.604229,49.287825,0 -124.603761,49.287729,0 -124.603285,49.287563,0 -124.602672,49.287233,0 -124.602317,49.287089,0 -124.601947,49.286999,0 -124.601429,49.286933,0 -124.600855,49.286901,0 -124.600372,49.286913,0 -124.600006,49.286971,0 -124.598653,49.287368,0 -124.598089,49.287458,0 -124.597412,49.287513,0 -124.59677,49.287519,0 -124.596317,49.287465,0 -124.595909,49.28735,0 -124.595594,49.287213,0 -124.593312,49.28592,0 -124.592868,49.285735,0 -124.592487,49.28563,0 -124.591775,49.285503,0 -124.591282,49.285442,0 -124.590909,49.285437,0 -124.590568,49.285476,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Paving operations planned between Ford Rd and B</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Ford Rd and Bolton Rd for 4.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T18:59:39-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.320006,50.809041,0 -119.320123,50.808709,0 -119.320614,50.807336,0 -119.320768,50.807153,0 -119.321518,50.806268,0 -119.322524,50.805356,0 -119.32441,50.803645,0 -119.324569,50.803461,0 -119.324915,50.803039,0 -119.325244,50.802436,0 -119.325397,50.801931,0 -119.325409,50.801717,0 -119.325447,50.801068,0 -119.325447,50.800999,0 -119.325435,50.799998,0 -119.325429,50.799502,0 -119.325542,50.798769,0 -119.325618,50.798476,0 -119.325627,50.798454,0 -119.325807,50.797998,0 -119.326099,50.797472,0 -119.326133,50.797404,0 -119.32643,50.796813,0 -119.326433,50.796804,0 -119.326561,50.796444,0 -119.32664,50.796072,0 -119.326676,50.795517,0 -119.326614,50.794758,0 -119.326557,50.794071,0 -119.326567,50.793974,0 -119.326607,50.793555,0 -119.326706,50.793218,0 -119.326988,50.792575,0 -119.328457,50.789231,0 -119.328605,50.788837,0 -119.328719,50.788533,0 -119.328752,50.788444,0 -119.329124,50.787751,0 -119.32932,50.787468,0 -119.329451,50.787278,0 -119.329626,50.78708,0 -119.329871,50.786801,0 -119.329918,50.786748,0 -119.330266,50.786407,0 -119.330311,50.786363,0 -119.330507,50.7862,0 -119.330769,50.785982,0 -119.331316,50.785528,0 -119.332217,50.784782,0 -119.333037,50.784101,0 -119.333224,50.78395,0 -119.333508,50.783719,0 -119.333782,50.783497,0 -119.33399,50.783328,0 -119.334453,50.782923,0 -119.335434,50.781873,0 -119.336696,50.780521,0 -119.339241,50.778248,0 -119.339261,50.77823,0 -119.339814,50.777605,0 -119.340229,50.776875,0 -119.340321,50.776621,0 -119.340417,50.77636,0 -119.340519,50.775798,0 -119.340522,50.775705,0 -119.340532,50.775371,0 -119.340547,50.774892,0 -119.340555,50.77463,0 -119.340562,50.774397,0 -119.340507,50.773972,0 -119.340476,50.773733,0 -119.340229,50.773051,0 -119.339929,50.772508,0 -119.339853,50.77237,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4811,26 +4833,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. Police incident at Lions Gate Bridge (West Vancouver). Road closed. </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Lions Gate Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T18:00:13-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.13737,49.31659,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between Wilgress Lake Rest Area and Granby Rd</name>
           <description>
         &lt;![CDATA[
@@ -4850,6 +4852,26 @@
             <tessellate>1</tessellate>
             <coordinates>-118.534306,49.145445,0 -118.534553,49.145377,0 -118.534915,49.1452,0 -118.535332,49.145013,0 -118.535816,49.144568,0 -118.53629,49.143595,0 -118.536542,49.143158,0 -118.536968,49.142646,0 -118.537798,49.141897,0 -118.538167,49.1415,0 -118.538341,49.141187,0 -118.538443,49.140866,0 -118.538444,49.140835,0 -118.538458,49.140503,0 -118.538423,49.140294,0 -118.538345,49.140078,0 -118.538105,49.139658,0 -118.537581,49.139007,0 -118.537156,49.138357,0 -118.537047,49.13807,0 -118.53701,49.137824,0 -118.537026,49.137556,0 -118.537132,49.137197,0 -118.540034,49.131805,0 -118.540503,49.131051,0 -118.540745,49.130736,0 -118.541041,49.13044,0 -118.541419,49.130166,0 -118.541876,49.129912,0 -118.542488,49.129622,0 -118.542653,49.129547,0 -118.543753,49.129047,0 -118.544395,49.128544,0 -118.544813,49.128016,0 -118.545159,49.127287,0 -118.545184,49.127235,0 -118.545382,49.126466,0 -118.54538,49.125964,0 -118.545231,49.125392,0 -118.544816,49.12479,0 -118.544223,49.1243,0 -118.542264,49.12303,0 -118.542229,49.123008,0 -118.54064,49.121977,0 -118.537846,49.120593,0 -118.537449,49.120325,0 -118.537349,49.120258,0 -118.53679,49.119803,0 -118.536597,49.119612,0 -118.536401,49.119416,0 -118.535501,49.118249,0 -118.535266,49.117896,0 -118.535052,49.11749,0 -118.534248,49.115328,0 -118.534149,49.115063,0 -118.533991,49.114636,0 -118.533419,49.113101,0 -118.533389,49.112953,0 -118.533314,49.112593,0 -118.532895,49.110572,0 -118.532855,49.110376,0 -118.532707,49.109662,0 -118.532527,49.109225,0 -118.53238,49.109012,0 -118.532262,49.108844,0 -118.532206,49.108763,0 -118.530592,49.106802,0 -118.529644,49.10548,0 -118.529615,49.105439,0 -118.529268,49.104897,0 -118.529048,49.104386,0 -118.528642,49.103445,0 -118.52836,49.102312,0 -118.528332,49.101798,0 -118.528308,49.101354,0 -118.528377,49.099999,0 -118.528393,49.099693,0 -118.52849,49.097784,0 -118.528535,49.096909,0 -118.52888,49.096028,0 -118.529337,49.095409,0 -118.529855,49.094926,0 -118.530412,49.094528,0 -118.531352,49.094068,0 -118.54264,49.089626,0 -118.544597,49.08843,0 -118.545901,49.086958,0 -118.546297,49.085617,0 -118.546318,49.085546,0 -118.546372,49.085361,0 -118.546298,49.084521,0 -118.546233,49.083788,0 -118.545896,49.082985,0 -118.54441,49.079441,0 -118.544394,49.079393,0 -118.544017,49.078269,0 -118.543997,49.078208,0 -118.54355,49.074912,0 -118.543562,49.074153,0 -118.543729,49.073652,0 -118.544017,49.073201,0 -118.545207,49.071972,0 -118.545631,49.071406,0 -118.545871,49.070798,0 -118.546082,49.06807,0 -118.546459,49.066951,0 -118.547357,49.065035,0 -118.547643,49.064036,0 -118.547668,49.063416,0 -118.54769,49.062877,0 -118.547436,49.060297,0 -118.547357,49.059498,0 -118.547305,49.058968,0 -118.547034,49.056217,0 -118.546975,49.055882,0 -118.546639,49.054464,0 -118.546314,49.053637,0 -118.545988,49.052809,0 -118.545816,49.052371,0 -118.543905,49.049058,0 -118.5439,49.04905,0 -118.543751,49.048628,0 -118.543564,49.047079,0 -118.543316,49.046396,0 -118.543231,49.046272,0 -118.542991,49.045922,0 -118.542505,49.045443,0 -118.540066,49.043603,0 -118.539356,49.042827,0 -118.539118,49.042396,0 -118.538856,49.041919,0 -118.53862,49.041079,0 -118.538616,49.040408,0 -118.538615,49.040219,0 -118.538615,49.040207,0 -118.538995,49.037087,0 -118.539187,49.035504,0 -118.539189,49.035493,0 -118.539299,49.034706,0 -118.540194,49.028312,0 -118.540615,49.025299,0 -118.541016,49.022432,0 -118.541096,49.021861,0 -118.541005,49.020438,0 -118.539865,49.01386,0 -118.539684,49.012893,0 -118.539463,49.010004,0 -118.539439,49.009797,0 -118.539307,49.007968,0 -118.539035,49.007124,0 -118.53824,49.005918,0 -118.537432,49.004858,0 -118.536301,49.003373,0 -118.536256,49.003314,0 -118.535664,49.002807,0 -118.534877,49.002383,0 -118.534208,49.002167,0 -118.53416,49.002152,0 -118.533239,49.001992,0 -118.53238,49.001978,0 -118.531358,49.002121,0 -118.530459,49.002402,0 -118.529812,49.002729,0 -118.529156,49.003248,0 -118.528725,49.003856,0 -118.527791,49.005707,0 -118.527321,49.006326,0 -118.526662,49.006956,0 -118.525719,49.007612,0 -118.525218,49.007876,0 -118.520023,49.010001,0 -118.519956,49.010028,0 -118.518748,49.010459,0 -118.517573,49.010748,0 -118.51632,49.010896,0 -118.514527,49.01092,0 -118.50656,49.010915,0 -118.505797,49.010923,0 -118.505208,49.010988,0 -118.505076,49.011028,0 -118.504618,49.011138,0 -118.504163,49.011326,0 -118.503777,49.011532,0 -118.503366,49.011837,0 -118.5027,49.012479,0 -118.500509,49.014673,0 -118.499511,49.015667,0 -118.499466,49.015702,0 -118.4993,49.015825,0 -118.498994,49.016048,0 -118.498636,49.016223,0 -118.498284,49.016362,0 -118.497804,49.016487,0 -118.493274,49.017244,0 -118.492009,49.01753,0 -118.489935,49.018223,0 -118.488168,49.018807,0 -118.48598,49.019405,0 -118.482605,49.020235,0 -118.477422,49.021502,0 -118.475876,49.021891,0 -118.475301,49.022036,0 -118.475254,49.022052,0 -118.474722,49.022234,0 -118.474616,49.022281,0 -118.474137,49.022455,0 -118.473914,49.022537,0 -118.470766,49.023962,0 -118.467914,49.025223,0 -118.4646,49.026669,0 -118.464588,49.026674,0 -118.463409,49.02713,0 -118.462212,49.027595,0 -118.461042,49.028049,0 -118.459871,49.028519,0 -118.459739,49.028586,0 -118.459223,49.028838,0 -118.459089,49.028903,0 -118.458874,49.029008,0 -118.458763,49.029047,0 -118.458555,49.029119,0 -118.457954,49.029265,0 -118.457832,49.029294,0 -118.457515,49.029333,0 -118.455617,49.029567,0 -118.45295,49.029878,0 -118.452611,49.029939,0 -118.45165,49.030169,0 -118.450415,49.030501,0 -118.449078,49.030865,0 -118.448502,49.031017,0 -118.447741,49.031217,0 -118.446462,49.031555,0 -118.445291,49.031865,0 -118.445199,49.031889,0 -118.444921,49.031962,0 -118.44419,49.032155,0 -118.444109,49.032176,0 -118.443919,49.032226,0 -118.44264,49.032573,0 -118.441353,49.032914,0 -118.440076,49.033239,0 -118.438902,49.033556,0 -118.437752,49.03387,0 -118.436603,49.034174,0 -118.436327,49.034241,0 -118.436287,49.034251,0 -118.435727,49.034388,0 -118.435659,49.034404,0 -118.435455,49.034454,0 -118.435269,49.0345,0 -118.434827,49.034514,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Stalled vehicle between Lake Trail and Stanley Park Dr (Vancouver). Right la</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Lake Trail and Stanley Park Dr&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T19:03:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.145242,49.305598,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39</name>
@@ -4999,7 +5021,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Horseshoe Bay Drive, in both directions. Special event planned between Pasco Rd and Marine Dr. Start</name>
+          <name>Horseshoe Bay Drive, in both directions. Special event between Pasco Rd and Marine Dr. Until Mon Jul</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5009,7 +5031,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Horseshoe Bay Drive&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Pasco Rd and Marine Dr&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T18:22:40-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T19:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
