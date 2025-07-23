@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-23 03:51:47 UTC
+        Last updated: 2025-07-23 04:15:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,9 +120,29 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (248)</name>
+      <name>🚗 Traffic Events (250)</name>
       <Folder>
         <name>Construction Events</name>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance between United Blvd and Port Mann Bri</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between United Blvd and Port Mann Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T21:13:34-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.81405,49.221641,0</coordinates>
+          </Point>
+        </Placemark>
         <Placemark>
           <name>Highway 97. Crack sealing is underway between 245 Rd and Downtown Dawson Creek for 19.5 km (Dawson C</name>
           <description>
@@ -3949,27 +3969,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91, in both directions. Bridge maintenance planned between Exit 15 and Exit 11: Westminster </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 15 and Exit 11: Westminster Hwy for 0.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-17T18:55:39-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.999419,49.169425,0 -122.999041,49.16943,0 -122.998719,49.169434,0 -122.998633,49.169436,0 -122.998324,49.16944,0 -122.998066,49.169444,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 7B (Mary Hill Bypass), westbound. Construction work between Coast Meridian Rd and Broadway S</name>
           <description>
         &lt;![CDATA[
@@ -4009,6 +4008,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.780319,53.869196,0 -122.780291,53.869257,0 -122.780132,53.869613,0 -122.778517,53.873228,0 -122.778296,53.873612,0 -122.777969,53.873997,0 -122.777466,53.87448,0 -122.776907,53.874815,0 -122.776388,53.875054,0 -122.775941,53.875208,0 -122.77535,53.875353,0 -122.774737,53.875425,0 -122.773359,53.875492,0 -122.772912,53.875544,0 -122.77241,53.875681,0 -122.771938,53.875868,0 -122.771498,53.876129,0 -122.771059,53.876474,0 -122.770699,53.876925,0 -122.77046,53.877407,0 -122.770005,53.880949,0 -122.769961,53.881279,0 -122.769783,53.882624,0 -122.769697,53.882963,0 -122.76966,53.883055,0 -122.769521,53.8834,0 -122.768739,53.884387,0 -122.767701,53.885803,0 -122.76743,53.886381,0 -122.767287,53.887098,0 -122.767274,53.888354,0 -122.767262,53.888797,0 -122.76726,53.888878,0 -122.767256,53.889312,0 -122.767204,53.892195,0 -122.767168,53.893705,0 -122.767162,53.893952,0 -122.767121,53.89457,0 -122.767095,53.894915,0 -122.767169,53.895554,0 -122.767691,53.896665,0 -122.76795,53.897221,0 -122.768002,53.897342,0 -122.768217,53.897775,0 -122.768713,53.898751,0 -122.768754,53.8992,0 -122.768672,53.899718,0 -122.7683,53.900325,0 -122.768076,53.900573,0 -122.763956,53.903776,0 -122.763569,53.904077,0 -122.762638,53.904809,0 -122.762271,53.905023,0 -122.762189,53.905071,0 -122.76143,53.905298,0 -122.760843,53.905381,0 -122.760576,53.905411,0 -122.759237,53.905414,0 -122.757916,53.905421,0 -122.756557,53.905427,0 -122.756326,53.905427,0 -122.755132,53.905433,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, in both directions. Bridge maintenance between Exit 15 and Exit 11: Westminster Hwy for </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 15 and Exit 11: Westminster Hwy for 0.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T21:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.999419,49.169425,0 -122.999041,49.16943,0 -122.998719,49.169434,0 -122.998633,49.169436,0 -122.998324,49.16944,0 -122.998066,49.169444,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4382,6 +4402,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.939482,49.15144,0 -122.938662,49.149421,0 -122.938318,49.148609,0 -122.938218,49.148359,0 -122.938159,49.148212,0 -122.936927,49.145318,0 -122.936915,49.145289,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97. Crack sealing is planned between Hanna Rd and Monte Creek for 4.7 km (3 to 8 km east of </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Hanna Rd and Monte Creek for 4.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T20:59:57-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.892117,50.604992,0 -119.892489,50.606302,0 -119.8925,50.606531,0 -119.892532,50.607212,0 -119.892238,50.608233,0 -119.891962,50.608941,0 -119.89192,50.609049,0 -119.891908,50.609191,0 -119.891866,50.609686,0 -119.891973,50.610124,0 -119.892301,50.610557,0 -119.892951,50.61104,0 -119.8944,50.611553,0 -119.894936,50.611835,0 -119.895415,50.612217,0 -119.89564,50.612396,0 -119.89597,50.612797,0 -119.896288,50.613183,0 -119.896322,50.613213,0 -119.896959,50.61378,0 -119.898159,50.614404,0 -119.898686,50.614678,0 -119.90425,50.617651,0 -119.905022,50.618204,0 -119.905465,50.618603,0 -119.905693,50.618809,0 -119.905885,50.618982,0 -119.906917,50.619744,0 -119.909611,50.621154,0 -119.912489,50.622734,0 -119.912682,50.622806,0 -119.913014,50.622929,0 -119.913618,50.623053,0 -119.914211,50.623081,0 -119.914367,50.623064,0 -119.915554,50.622933,0 -119.916239,50.622955,0 -119.91679,50.62305,0 -119.917317,50.623223,0 -119.917776,50.623465,0 -119.918131,50.623733,0 -119.918457,50.624151,0 -119.918688,50.624677,0 -119.918751,50.625132,0 -119.918569,50.625925,0 -119.918567,50.626222,0 -119.918747,50.626778,0 -119.91904,50.627365,0 -119.919208,50.627587,0 -119.919297,50.627705,0 -119.919599,50.627991,0 -119.919875,50.628186,0 -119.919997,50.628271,0 -119.920639,50.628617,0 -119.921128,50.62888,0 -119.921763,50.629222,0 -119.922709,50.629731,0 -119.923278,50.630027,0 -119.923594,50.630191,0 -119.924028,50.630416,0 -119.924191,50.630487,0 -119.924651,50.630688,0 -119.925089,50.630829,0 -119.925239,50.630877,0 -119.9253,50.630975,0 -119.929984,50.632017,0 -119.931346,50.632332,0 -119.935418,50.633267,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
