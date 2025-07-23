@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-23 19:03:11 UTC
+        Last updated: 2025-07-23 19:33:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (270)</name>
+      <name>🚗 Traffic Events (272)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1217,6 +1217,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>[Truncated] Highway 15 (Pacific Highway), southbound. Paving operations planned at 88 Ave (Surrey). </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At 88 Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T12:02:30-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.734628,49.162603,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97. Industrial traffic may slow or block regular traffic. Between Powder King Rd and Old Has</name>
           <description>
         &lt;![CDATA[
@@ -1299,6 +1319,26 @@
             <tessellate>1</tessellate>
             <coordinates>-125.887807,54.334491,0 -125.887612,54.333799,0 -125.887173,54.332106,0 -125.886748,54.331196,0 -125.886123,54.330308,0 -125.886026,54.330175,0 -125.885253,54.329116,0 -125.885062,54.328855,0 -125.884813,54.328515,0 -125.883926,54.327303,0 -125.883514,54.32674,0 -125.881923,54.324566,0 -125.881592,54.324203,0 -125.881042,54.323717,0 -125.880465,54.323303,0 -125.879773,54.322895,0 -125.876846,54.321532,0 -125.876275,54.321266,0 -125.873753,54.320091,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Canyon Drive, in both directions. Construction work planned between Beryl Prairie Rd and Summer Rd. </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Canyon Drive&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Beryl Prairie Rd and Summer Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T12:20:47-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.011856,56.031449,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5, in both directions. Construction work between River St and Paul Lake Rd for 4.9 km (Kamlo</name>
@@ -3805,26 +3845,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 93, in both directions. Bridge maintenance between Elk River Bridge and Fitzpatrick Rd (11 k</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Elk River Bridge and Fitzpatrick Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T06:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-115.167707,49.179718,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 5. Utility work planned between Allen-Meeker Rd and Thuya Creek Rd for 4.6 km (10 to 5 km so</name>
           <description>
         &lt;![CDATA[
@@ -5086,6 +5106,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.418333,52.868329,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 2. Material spill between Independent Rd and Siegert Rd (10 km north of British Columbia and</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; SPILL&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 2&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Independent Rd and Siegert Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T12:27:38-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-120.076731,55.556326,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
