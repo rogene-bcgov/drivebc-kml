@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-24 02:20:01 UTC
+        Last updated: 2025-07-24 03:06:56 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4638,6 +4638,26 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
+          <name>Highway 10, eastbound. Vehicle incident between 176A St and 177B St (Surrey). Right lane is blocked.</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 176A St and 177B St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T19:24:48-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.730365,49.104117,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Cariboo Connector). Rest area closed between Charles Rd and Anderson Rd (15 km south of </name>
           <description>
         &lt;![CDATA[
@@ -5054,7 +5074,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Big Bar Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T18:32:09-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T19:40:07-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5187,27 +5207,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.982038,54.950606,0 -122.982097,54.950652,0 -122.982886,54.951184,0 -122.984041,54.95182,0 -122.984211,54.951891,0 -122.987342,54.953188,0 -122.988127,54.953583,0 -122.988667,54.953919,0 -122.989329,54.954392,0 -122.990287,54.955192,0 -122.99154,54.956261,0 -122.991701,54.956398,0 -122.99225,54.956871,0 -122.993616,54.958038,0 -122.994681,54.95895,0 -122.996155,54.960127,0 -122.997544,54.961039,0 -122.997821,54.961221,0 -123.00078,54.962946,0 -123.00136,54.963284,0 -123.002352,54.963895,0 -123.006296,54.96649,0 -123.007027,54.967037,0 -123.007456,54.967404,0 -123.009673,54.969239,0 -123.013928,54.972758,0 -123.014705,54.973313,0 -123.015543,54.973761,0 -123.016653,54.974203,0 -123.017765,54.974528,0 -123.019145,54.974792,0 -123.021731,54.975117,0 -123.022042,54.975155,0 -123.022928,54.975318,0 -123.024282,54.975659,0 -123.025485,54.976079,0 -123.026522,54.976566,0 -123.030095,54.978541,0 -123.03065,54.978907,0 -123.03138,54.979504,0 -123.031989,54.980145,0 -123.032459,54.980823,0 -123.032797,54.981522,0 -123.032993,54.982209,0 -123.033059,54.985209,0 -123.033095,54.986862,0 -123.033096,54.987026,0 -123.033097,54.987276,0 -123.033102,54.988363,0 -123.033106,54.989145,0 -123.033107,54.989264,0 -123.033109,54.98938,0 -123.033145,54.991681,0 -123.033146,54.991719,0 -123.03315,54.991827,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 17 (Patricia Bay Highway), southbound. Special event between Lands End Rd and Exit 31 (North</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 31 and Lands End Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T18:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.425923,48.676514,0 -123.425812,48.676569,0 -123.425728,48.676609,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
