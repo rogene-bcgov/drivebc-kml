@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-24 10:38:31 UTC
+        Last updated: 2025-07-24 11:01:53 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (254)</name>
+      <name>🚗 Traffic Events (255)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2560,6 +2560,27 @@
           <Point>
             <coordinates>-122.492757,49.103886,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 93, in both directions. Bridge maintenance planned between Wasa Lake Park Dr and Wasa Juncti</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Wasa Lake Park Dr and Wasa Junction for 0.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T03:55:12-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.765981,49.808823,0 -115.766276,49.809,0 -115.766484,49.809126,0 -115.767806,49.809961,0 -115.767882,49.81001,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Utility work between Junction Hwy 3A and Devon St</name>
