@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-24 22:36:30 UTC
+        Last updated: 2025-07-24 23:02:07 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2376,6 +2376,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 5 (Coquihalla South), southbound. Utility work planned between Exit 228: Coquihalla Lakes Rd</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 221: Falls Lake Rd and Exit 228: Coquihalla Lakes Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T15:46:55-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.038887,49.621587,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Carolin Mine Rd, in both directions. Construction work planned between Siwash Creek Rd and Shylock R</name>
           <description>
         &lt;![CDATA[
@@ -2757,8 +2777,8 @@
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Wasa Lake Park Dr and Wasa Junction for 0.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T15:17:48-07:00&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; &lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T16:17:48-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -2893,27 +2913,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway), westbound. Road maintenance work between 2nd St N and 3rd Ave S for 1</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 3rd Ave S and 2nd St N for 1.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-115.7773,49.508365,0 -115.777039,49.508526,0 -115.777028,49.508532,0 -115.775894,49.509193,0 -115.775884,49.509199,0 -115.774539,49.509994,0 -115.774529,49.51,0 -115.77398,49.510317,0 -115.773146,49.510807,0 -115.771761,49.511624,0 -115.771751,49.51163,0 -115.770848,49.512156,0 -115.769435,49.512978,0 -115.76921,49.513138,0 -115.768752,49.513466,0 -115.768026,49.514062,0 -115.768018,49.514069,0 -115.766956,49.514961,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 9, in both directions. Utility work planned between Emerald Ave and Miami River Dr for 1.4 k</name>
           <description>
         &lt;![CDATA[
@@ -2953,6 +2952,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.738189,49.104023,0 -122.738191,49.10415,0 -122.738181,49.104451,0 -122.738159,49.105085,0 -122.738128,49.105988,0 -122.738134,49.106888,0 -122.738134,49.106918,0 -122.738055,49.107211,0 -122.737837,49.107576,0 -122.737638,49.107778,0 -122.737165,49.108087,0 -122.736799,49.108253,0 -122.736707,49.108294,0 -122.735814,49.108697,0 -122.735443,49.108932,0 -122.735248,49.109102,0 -122.735194,49.109149,0 -122.734964,49.109459,0 -122.734858,49.109698,0 -122.734787,49.109964,0 -122.734773,49.111494,0 -122.734828,49.115722,0 -122.734855,49.116536,0 -122.734862,49.11872,0 -122.734863,49.118802,0 -122.734855,49.120027,0 -122.734852,49.120374,0 -122.734847,49.121029,0 -122.734846,49.121323,0 -122.734839,49.123375,0 -122.734756,49.125806,0 -122.734723,49.126794,0 -122.734704,49.127249,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), westbound. Road maintenance work between 2nd St N and 3rd Ave S for 1</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; &lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.7773,49.508365,0 -115.777039,49.508526,0 -115.777028,49.508532,0 -115.775894,49.509193,0 -115.775884,49.509199,0 -115.774539,49.509994,0 -115.774529,49.51,0 -115.77398,49.510317,0 -115.773146,49.510807,0 -115.771761,49.511624,0 -115.771751,49.51163,0 -115.770848,49.512156,0 -115.769435,49.512978,0 -115.76921,49.513138,0 -115.768752,49.513466,0 -115.768026,49.514062,0 -115.768018,49.514069,0 -115.766956,49.514961,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5168,47 +5188,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Cassiar Tunnel and Exit 25: McGill </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 25: McGill St and Cassiar Tunnel for 0.8 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T15:26:31-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.031074,49.287065,0 -123.031082,49.287057,0 -123.031161,49.28697,0 -123.031493,49.286554,0 -123.031711,49.286216,0 -123.031942,49.285795,0 -123.032045,49.28521,0 -123.032074,49.284992,0 -123.032065,49.284718,0 -123.032038,49.283846,0 -123.032034,49.283772,0 -123.031968,49.283127,0 -123.03179,49.281377,0 -123.031772,49.281202,0 -123.031766,49.281145,0 -123.031761,49.2809,0 -123.031757,49.280726,0 -123.031745,49.280204,0 -123.031733,49.27983,0 -123.031731,49.279576,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, northbound. Road cleared at Alex Fraser Bridge (Delta). Expect delays due to congestion.</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T15:23:53-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.943309,49.160815,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3A. Watch for falling rocks between Kootenay Bay Ferry and Junction Hwy 3 for 78.0 km (1 km </name>
           <description>
         &lt;![CDATA[
@@ -5251,6 +5230,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 3, in both directions. Forest fire between Highway 41 and Canning Road in Grand Forks. Road </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Highway 41 and Canning Road in Grand Forks&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T15:53:28-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.50257,49.01261,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Riverside Rd, in both directions. Roadway obstruction between 233 Riverside Rd and 136 Riverside Rd.</name>
           <description>
         &lt;![CDATA[
@@ -5261,7 +5260,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Riverside Rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 233 Riverside Rd and 136 Riverside Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T03:16:00-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T15:42:53-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -5322,7 +5321,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Big Bar Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T11:18:43-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T15:38:23-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
