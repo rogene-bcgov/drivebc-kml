@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-24 15:01:52 UTC
+        Last updated: 2025-07-24 15:35:34 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (255)</name>
+      <name>🚗 Traffic Events (257)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1166,7 +1166,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Illecillewaet Brake Check and MacDonald Snowshed for 3.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T12:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T08:02:27-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -1466,27 +1466,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector), in both directions. Bridge maintenance planned between Finning Rd an</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Finning Rd and Priest Rd for 0.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T14:48:18-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.495047,53.015533,0 -122.495024,53.015847,0 -122.495016,53.015977,0 -122.495011,53.01603,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Old Alaska Highway. Geotechnical investigation at Kiskatinaw Curved Bridge 30 km north of Dawson Cre</name>
           <description>
         &lt;![CDATA[
@@ -1505,6 +1484,27 @@
           <Point>
             <coordinates>-120.564212,55.957219,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), in both directions. Bridge maintenance between Finning Rd and Priest</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Finning Rd and Priest Rd for 0.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.495047,53.015533,0 -122.495024,53.015847,0 -122.495016,53.015977,0 -122.495011,53.01603,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 9, in both directions. Utility work between Emerald Ave and Miami River Dr for 1.4 km (Harri</name>
@@ -3122,7 +3122,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Bridge maintenance planned at Mcbride Bridge (1 km east of McBride)</name>
+          <name>Highway 16 (Yellowhead Highway). Bridge maintenance at Mcbride Bridge (1 km east of McBride). Until </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3132,7 +3132,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Mcbride Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:45:46-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T08:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3243,6 +3243,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-119.815122,49.213088,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, southbound. Industrial traffic may slow or block regular traffic. At Melychuck Rd (14 km</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Melychuck Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T08:28:35-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.390037,55.714846,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5047,7 +5067,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector), in both directions. Vehicle incident between Naver Creek Rd and Nave</name>
+          <name>Highway 97 (Cariboo Connector), in both directions. Road cleared between Naver Creek Rd and Naver Cr</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5057,8 +5077,8 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Naver Creek Rd and Naver Creek Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T04:13:18-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T08:16:57-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
@@ -5087,26 +5107,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Stalled vehicle between SW Marine Dr and W 71st Ave (Vancouver). Centre lane</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between SW Marine Dr and W 71st Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:54:55-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.130228,49.206568,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector), in both directions. Vehicle fire at Big Bar Rd (7 km north of Clinto</name>
           <description>
         &lt;![CDATA[
@@ -5124,6 +5124,46 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-121.501918,51.145716,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Road cleared between Blundell Rd and Exit 36: Westminster Hwy (Richmond). La</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Blundell Rd and Exit 36: Westminster Hwy&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T08:29:51-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.086539,49.156404,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, southbound. Stalled vehicle at William R Bennett Bridge (Kelowna). Left lane is blocked.</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At William R Bennett Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T08:27:07-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-119.511078,49.8795,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
