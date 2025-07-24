@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-24 14:38:16 UTC
+        Last updated: 2025-07-24 15:01:52 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (252)</name>
+      <name>🚗 Traffic Events (255)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1466,26 +1466,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Old Alaska Highway. Geotechnical investigation at Kiskatinaw Curved Bridge 30 km north of Dawson Cre</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Old Alaska Highway&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Kiskatinaw Curved Bridge 30 km north of Dawson Creek&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:05:31-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.564212,55.957219,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector), in both directions. Bridge maintenance planned between Finning Rd an</name>
           <description>
         &lt;![CDATA[
@@ -1505,6 +1485,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.495047,53.015533,0 -122.495024,53.015847,0 -122.495016,53.015977,0 -122.495011,53.01603,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Old Alaska Highway. Geotechnical investigation at Kiskatinaw Curved Bridge 30 km north of Dawson Cre</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Old Alaska Highway&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Kiskatinaw Curved Bridge 30 km north of Dawson Creek&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-02T10:05:31-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.564212,55.957219,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 9, in both directions. Utility work between Emerald Ave and Miami River Dr for 1.4 km (Harri</name>
@@ -3039,6 +3039,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 97, in both directions. Bridge maintenance planned between Secrest Hill Rd and Enterprise Wa</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Secrest Hill Rd and Enterprise Way for 1.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:36:38-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.550749,49.229752,0 -119.548902,49.230337,0 -119.54853,49.230426,0 -119.547926,49.230571,0 -119.54752,49.230615,0 -119.547268,49.230616,0 -119.547137,49.230617,0 -119.546745,49.230577,0 -119.544734,49.230098,0 -119.544533,49.23005,0 -119.543564,49.22982,0 -119.54351,49.229807,0 -119.543196,49.229751,0 -119.542762,49.229674,0 -119.542108,49.229646,0 -119.541971,49.229653,0 -119.541807,49.229662,0 -119.541615,49.229673,0 -119.541491,49.22968,0 -119.541441,49.229683,0 -119.540922,49.229769,0 -119.540785,49.229792,0 -119.540036,49.230031,0 -119.539434,49.230308,0 -119.53941,49.230325,0 -119.538995,49.230626,0 -119.538842,49.230736,0 -119.537597,49.231696,0 -119.533441,49.234895,0 -119.533032,49.235159,0 -119.530285,49.236677,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Bradner Rd, in both directions. Construction work at Downes Rd in Abbotsford. Until Thu Jul 31. From</name>
           <description>
         &lt;![CDATA[
@@ -3080,6 +3101,47 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned between Exit 29: Willingdon Av</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Grandview Highway and Exit 29: Willingdon Ave for 0.8 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:53:14-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.01547,49.25742,0 -123.01517,49.257444,0 -123.0146,49.257493,0 -123.013485,49.257579,0 -123.013158,49.257595,0 -123.012748,49.257602,0 -123.012009,49.2576,0 -123.008426,49.257566,0 -123.006559,49.257548,0 -123.005673,49.257539,0 -123.004948,49.257533,0 -123.004186,49.257528,0 -123.003967,49.257525,0 -123.00395,49.257525,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Bridge maintenance planned at Mcbride Bridge (1 km east of McBride)</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Mcbride Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:45:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.140937,53.301889,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 101, in both directions. Utility work between St. Marys Hospital Dr and Monkey Tree Lane for</name>
           <description>
         &lt;![CDATA[
@@ -3119,6 +3181,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.555908,48.525171,0 -123.556166,48.525407,0 -123.556602,48.525803,0 -123.557547,48.52655,0 -123.557795,48.526762,0 -123.55802,48.526959,0 -123.560031,48.528594,0 -123.560169,48.528736,0 -123.560358,48.529018,0 -123.560485,48.529248,0 -123.56069,48.529901,0 -123.560752,48.530097,0 -123.560715,48.530378,0 -123.56065,48.530873,0 -123.560639,48.530957,0 -123.56037,48.531611,0 -123.559687,48.533271,0 -123.559573,48.533944,0 -123.559591,48.534052,0 -123.559595,48.534081,0 -123.55969,48.534655,0 -123.559808,48.534941,0 -123.559935,48.535246,0 -123.560256,48.536062,0 -123.560271,48.5361,0 -123.560501,48.536673,0 -123.560882,48.537626,0 -123.561224,48.538276,0 -123.561829,48.538919,0 -123.562001,48.539073,0 -123.564242,48.541079,0 -123.564468,48.541281,0 -123.564597,48.541398,0 -123.564638,48.541435,0 -123.564711,48.54154,0 -123.564851,48.54174,0 -123.564938,48.541864,0 -123.565032,48.541999,0 -123.565051,48.542066,0 -123.565119,48.542309,0 -123.565179,48.542558,0 -123.565136,48.543063,0 -123.564957,48.543732,0 -123.564904,48.543921,0 -123.564621,48.544909,0 -123.564532,48.545323,0 -123.564523,48.5455,0 -123.564498,48.545983,0 -123.564507,48.546023,0 -123.564517,48.546067,0 -123.56463,48.546571,0 -123.564788,48.546868,0 -123.56485,48.546986,0 -123.564944,48.547163,0 -123.565295,48.547575,0 -123.565727,48.547941,0 -123.56591,48.548075,0 -123.56659,48.548572,0 -123.566731,48.548688,0 -123.566879,48.548809,0 -123.567416,48.549248,0 -123.567709,48.549577,0 -123.568319,48.550213,0 -123.568807,48.550822,0 -123.569427,48.551606,0 -123.570054,48.552397,0 -123.570875,48.553434,0 -123.571197,48.553841,0 -123.571225,48.553876,0 -123.571538,48.554271,0 -123.571761,48.554548,0 -123.5719,48.554795,0 -123.571999,48.554972,0 -123.572099,48.555346,0 -123.572155,48.555646,0 -123.572129,48.556082,0 -123.572088,48.556289,0 -123.572046,48.556423,0 -123.572004,48.556555,0 -123.57196,48.556682,0 -123.571822,48.556951,0 -123.570834,48.558849,0 -123.57079,48.558934,0 -123.570378,48.559717,0 -123.570227,48.560016,0 -123.570064,48.560335,0 -123.569821,48.560743,0 -123.569728,48.560832,0 -123.569493,48.561079,0 -123.569381,48.561196,0 -123.569347,48.561231,0 -123.568997,48.561517,0 -123.567242,48.562652,0 -123.566842,48.562914,0 -123.566682,48.563009,0 -123.566367,48.563209,0 -123.56585,48.563522,0 -123.564571,48.564327,0 -123.562124,48.565862,0 -123.562051,48.565907,0 -123.561933,48.56598,0 -123.561794,48.566074,0 -123.561765,48.566093,0 -123.561399,48.566327,0 -123.560599,48.566822,0 -123.559836,48.567174,0 -123.559271,48.567385,0 -123.55882,48.567522,0 -123.558155,48.567667,0 -123.557505,48.56778,0 -123.556922,48.567839,0 -123.555646,48.567945,0 -123.555226,48.567971,0 -123.554224,48.568049,0 -123.553292,48.568118,0 -123.552212,48.56818,0 -123.551928,48.56818,0 -123.551565,48.568172,0 -123.551148,48.568143,0 -123.550546,48.568071,0 -123.548162,48.567741,0 -123.547261,48.567621,0 -123.546311,48.56755,0 -123.545324,48.567536,0 -123.54438,48.567595,0 -123.544316,48.567602,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 37A, in both directions. Road sweeping between Bear #2 Bridge and Windy Point Bridge for 21.</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 37A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Bear #2 Bridge and Windy Point Bridge for 21.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:56:20-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-129.8809,56.096138,0 -129.880672,56.096423,0 -129.880389,56.096679,0 -129.879602,56.097391,0 -129.878645,56.098057,0 -129.877135,56.098998,0 -129.876808,56.099202,0 -129.875557,56.099983,0 -129.873707,56.101137,0 -129.872752,56.10195,0 -129.870836,56.103839,0 -129.870019,56.10449,0 -129.86911,56.105013,0 -129.865554,56.106483,0 -129.86474,56.106685,0 -129.863905,56.106812,0 -129.862774,56.106952,0 -129.862609,56.106972,0 -129.86068,56.107154,0 -129.857912,56.107458,0 -129.856811,56.107498,0 -129.855845,56.107534,0 -129.854246,56.10776,0 -129.852966,56.107792,0 -129.852082,56.107747,0 -129.850546,56.107625,0 -129.849946,56.107504,0 -129.849387,56.10739,0 -129.848258,56.107064,0 -129.847463,56.10692,0 -129.846573,56.106825,0 -129.843303,56.106974,0 -129.841051,56.106925,0 -129.84037,56.106972,0 -129.838664,56.107345,0 -129.837526,56.107509,0 -129.835508,56.107606,0 -129.834741,56.107683,0 -129.833807,56.107862,0 -129.833039,56.108095,0 -129.830763,56.109127,0 -129.829811,56.109559,0 -129.826871,56.110763,0 -129.82378,56.111744,0 -129.819852,56.11299,0 -129.818654,56.113315,0 -129.817595,56.113538,0 -129.807327,56.115153,0 -129.804017,56.115674,0 -129.803648,56.11571,0 -129.802943,56.115778,0 -129.799994,56.115796,0 -129.799653,56.115798,0 -129.796645,56.115893,0 -129.795592,56.116023,0 -129.79439,56.116322,0 -129.791197,56.117466,0 -129.790528,56.117635,0 -129.79015,56.1177,0 -129.789996,56.117727,0 -129.789799,56.11775,0 -129.789469,56.117789,0 -129.78889,56.117806,0 -129.784792,56.117725,0 -129.783695,56.117651,0 -129.782863,56.117575,0 -129.778479,56.117171,0 -129.773022,56.116741,0 -129.770903,56.116753,0 -129.769343,56.116655,0 -129.768661,56.116532,0 -129.766859,56.116207,0 -129.76606,56.116135,0 -129.764913,56.116147,0 -129.755953,56.117071,0 -129.754977,56.117092,0 -129.753882,56.117047,0 -129.752398,56.11696,0 -129.748449,56.116728,0 -129.743684,56.116628,0 -129.741939,56.11669,0 -129.740131,56.116842,0 -129.738622,56.117042,0 -129.738258,56.11709,0 -129.73584,56.117484,0 -129.734794,56.117654,0 -129.733231,56.117843,0 -129.732294,56.117916,0 -129.73223,56.117916,0 -129.731076,56.117921,0 -129.730559,56.117892,0 -129.729887,56.117854,0 -129.729187,56.117747,0 -129.72904,56.117725,0 -129.728824,56.117692,0 -129.728804,56.117689,0 -129.727717,56.117472,0 -129.726781,56.117385,0 -129.724291,56.117372,0 -129.722206,56.117362,0 -129.721779,56.117333,0 -129.721272,56.117299,0 -129.72039,56.117169,0 -129.713668,56.116174,0 -129.709309,56.115529,0 -129.706028,56.115044,0 -129.700541,56.11431,0 -129.69249,56.113109,0 -129.692003,56.11301,0 -129.6902,56.112643,0 -129.690113,56.11262,0 -129.688581,56.112213,0 -129.68713,56.111738,0 -129.687041,56.111709,0 -129.684525,56.11079,0 -129.68116,56.109828,0 -129.681139,56.109821,0 -129.679202,56.109241,0 -129.677247,56.108615,0 -129.674927,56.107872,0 -129.671071,56.106637,0 -129.670131,56.106336,0 -129.669495,56.106178,0 -129.668802,56.106094,0 -129.665649,56.10581,0 -129.663846,56.105672,0 -129.661414,56.105403,0 -129.658875,56.104987,0 -129.657095,56.104725,0 -129.656774,56.104678,0 -129.653704,56.104611,0 -129.653629,56.104607,0 -129.651711,56.104506,0 -129.647982,56.104652,0 -129.646695,56.104615,0 -129.643534,56.104273,0 -129.640354,56.104122,0 -129.638107,56.104015,0 -129.637559,56.104007,0 -129.636835,56.103996,0 -129.630998,56.103909,0 -129.630298,56.103899,0 -129.627083,56.10385,0 -129.626385,56.103885,0 -129.62616,56.103896,0 -129.625889,56.103928,0 -129.624062,56.104143,0 -129.623092,56.104202,0 -129.620772,56.104062,0 -129.618252,56.103841,0 -129.617454,56.103726,0 -129.616879,56.103643,0 -129.614558,56.103168,0 -129.614019,56.103058,0 -129.612963,56.102942,0 -129.612095,56.10292,0 -129.611323,56.102945,0 -129.611197,56.102949,0 -129.611058,56.102968,0 -129.610883,56.102991,0 -129.607792,56.103403,0 -129.60587,56.103542,0 -129.601144,56.103613,0 -129.599996,56.10367,0 -129.599628,56.103688,0 -129.596092,56.103958,0 -129.59598,56.103967,0 -129.595899,56.103973,0 -129.595579,56.103998,0 -129.589636,56.104453,0 -129.58735,56.104628,0 -129.585714,56.104667,0 -129.578125,56.10443,0 -129.577835,56.104421,0 -129.577798,56.10442,0 -129.577661,56.104422,0 -129.576608,56.104439,0 -129.576464,56.104452,0 -129.576062,56.104488,0 -129.575817,56.10451,0 -129.575789,56.104513,0 -129.574714,56.104665,0 -129.572926,56.105028,0 -129.572142,56.105187,0 -129.570715,56.105476,0 -129.570657,56.105485,0 -129.570197,56.105554,0 -129.569323,56.105684,0 -129.568062,56.105798,0 -129.568035,56.105801,0 -129.566414,56.105864,0 -129.564744,56.105793,0 -129.563454,56.105739,0 -129.560895,56.10563,0 -129.560735,56.105623,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4984,46 +5067,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 15 (Pacific Highway), northbound. Vehicle incident at 80 Ave (Surrey). Roadway reduced to on</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At 80 Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:00:17-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.734699,49.148036,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 15 (Pacific Highway), southbound. Road cleared between Highway 10 and 176 St (Surrey). Last </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 176 St and Highway 10&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:27:37-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.738187,49.103581,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt </name>
           <description>
         &lt;![CDATA[
@@ -5041,6 +5084,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.50468,48.818979,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Stalled vehicle between SW Marine Dr and W 71st Ave (Vancouver). Centre lane</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between SW Marine Dr and W 71st Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T07:54:55-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.130228,49.206568,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
