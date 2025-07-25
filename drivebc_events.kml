@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-25 03:51:02 UTC
+        Last updated: 2025-07-25 04:14:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (255)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -595,27 +595,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 4, in both directions. Utility work planned between Maltby Rd and Radar Hill for 0.3 km (1 k</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Maltby Rd and Radar Hill for 0.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T11:03:31-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.844748,49.091984,0 -125.84434,49.091776,0 -125.844136,49.091726,0 -125.844077,49.091711,0 -125.843798,49.09169,0 -125.842471,49.091783,0 -125.841817,49.09189,0 -125.840985,49.092081,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>1 Ave, in both directions. Geotechnical investigation between 2 Ave and Hanna Drive. Until Thu Jul 2</name>
           <description>
         &lt;![CDATA[
@@ -634,6 +613,27 @@
           <Point>
             <coordinates>-117.741102,49.125489,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 4, in both directions. Utility work between Maltby Rd and Radar Hill for 0.3 km (1 km west o</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Maltby Rd and Radar Hill for 0.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T21:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.844748,49.091984,0 -125.84434,49.091776,0 -125.844136,49.091726,0 -125.844077,49.091711,0 -125.843798,49.09169,0 -125.842471,49.091783,0 -125.841817,49.09189,0 -125.840985,49.092081,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector), southbound. Construction work between Umiti Pit Rd and Pollard Rd (1</name>
@@ -3080,7 +3080,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance planned at Port Mann Bridge (Surrey).</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Port Mann Bridge (Surrey). Until F</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3090,7 +3090,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T20:38:05-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T21:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3426,6 +3426,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-121.034077,50.157577,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Nelson Rd, in both directions. Construction work planned between Likely Rd and Likely Rd in 150 Mile</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Nelson Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Likely Rd and Likely Rd in 150 Mile House&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T21:01:27-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.946611,52.127536,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
