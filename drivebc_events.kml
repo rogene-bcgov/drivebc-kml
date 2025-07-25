@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-25 13:41:59 UTC
+        Last updated: 2025-07-25 14:02:29 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (250)</name>
+      <name>🚗 Traffic Events (249)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -658,26 +658,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Heffley Louis Creek Rd. Paving operations at Lower Heffley Lake Rd. Until Mon Jul 28. From 7:00 AM t</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Heffley Louis Creek Rd&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Lower Heffley Lake Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-25T06:01:56-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.09576,50.849285,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 7 (Lougheed Highway), westbound. Utility work between Maria Lane and Junction with Highway 9</name>
           <description>
         &lt;![CDATA[
@@ -697,6 +677,26 @@
             <tessellate>1</tessellate>
             <coordinates>-121.766602,49.240568,0 -121.766426,49.240459,0 -121.765976,49.240182,0 -121.765912,49.240146,0 -121.765062,49.240076,0 -121.761335,49.239775,0 -121.75981,49.239493,0 -121.758956,49.239367,0 -121.752145,49.238849,0 -121.750206,49.238747,0 -121.750035,49.238738,0 -121.749223,49.238739,0 -121.748888,49.238739,0 -121.748376,49.238777,0 -121.747784,49.238822,0 -121.747096,49.238924,0 -121.746419,49.239025,0 -121.745752,49.23918,0 -121.745115,49.239329,0 -121.7441,49.239573,0 -121.743217,49.239886,0 -121.74218,49.240386,0 -121.741292,49.240921,0 -121.740707,49.241352,0 -121.740363,49.241648,0 -121.739668,49.242352,0 -121.737275,49.244882,0 -121.736724,49.245505,0 -121.736544,49.245684,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Heffley Louis Creek Rd. Paving operations at Lower Heffley Lake Rd. Until Mon Jul 28. From 7:00 AM t</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Heffley Louis Creek Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Lower Heffley Lake Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-25T06:01:56-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.09576,50.849285,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 15 (Pacific Highway), in both directions. Utility work between 20 Ave and 26 Ave for 1.2 km </name>
@@ -2833,6 +2833,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 95A, southbound. Road construction work between Jennings Ave and St. Marys Ave for 0.1 km (K</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between St. Marys Ave and Jennings Ave for 0.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T23:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.9818,49.684362,0 -115.981503,49.68428,0 -115.980522,49.684003,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, in both directions. Road sweeping between Exit 3: Horseshoe Bay Junction and Cleveland A</name>
           <description>
         &lt;![CDATA[
@@ -2872,27 +2893,6 @@
           <Point>
             <coordinates>-122.492806,49.101322,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 95A, southbound. Road construction work between Jennings Ave and St. Marys Ave for 0.1 km (K</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between St. Marys Ave and Jennings Ave for 0.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T23:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-115.9818,49.684362,0 -115.981503,49.68428,0 -115.980522,49.684003,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 17, eastbound. Construction work planned between Tannery Road and 124 Street in Surrey. Star</name>
@@ -3369,7 +3369,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Nelson Rd, in both directions. Construction work planned between Likely Rd and Likely Rd in 150 Mile</name>
+          <name>Nelson Rd, in both directions. Construction work between Likely Rd and Likely Rd in 150 Mile House. </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3379,7 +3379,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Nelson Rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Likely Rd and Likely Rd in 150 Mile House&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T21:01:27-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-25T07:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -4301,27 +4301,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.440304,49.11559,0 -125.440299,49.115734,0 -125.440212,49.115931,0 -125.440032,49.116097,0 -125.439747,49.116244,0 -125.439287,49.116398,0 -125.438524,49.116584,0 -125.437914,49.116612,0 -125.437418,49.116705,0 -125.436999,49.116815,0 -125.436511,49.117009,0 -125.436256,49.117167,0 -125.436111,49.117312,0 -125.436009,49.117474,0 -125.435835,49.118055,0 -125.435619,49.118464,0 -125.435585,49.118652,0 -125.435613,49.118819,0 -125.435797,49.119181,0 -125.435799,49.119323,0 -125.435716,49.119481,0 -125.435504,49.119633,0 -125.434745,49.119945,0 -125.433751,49.120412,0 -125.432804,49.120814,0 -125.432387,49.120938,0 -125.431921,49.121017,0 -125.431221,49.121067,0 -125.430456,49.121042,0 -125.429567,49.120899,0 -125.429064,49.120854,0 -125.428705,49.120849,0 -125.428342,49.120901,0 -125.427902,49.12105,0 -125.425916,49.121921,0 -125.425675,49.12208,0 -125.425494,49.122263,0 -125.425466,49.122308,0 -125.42535,49.122499,0 -125.424996,49.12371,0 -125.424931,49.124064,0 -125.424933,49.124362,0 -125.424981,49.124673,0 -125.425105,49.125029,0 -125.425269,49.125372,0 -125.425465,49.125781,0 -125.425523,49.125902,0 -125.425742,49.126262,0 -125.426022,49.126587,0 -125.426285,49.126826,0 -125.426937,49.127319,0 -125.427569,49.1279,0 -125.42776,49.128148,0 -125.427802,49.128318,0 -125.427766,49.128467,0 -125.427624,49.128653,0 -125.427411,49.128815,0 -125.427172,49.128934,0 -125.426888,49.128998,0 -125.426714,49.129018,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Crack sealing is underway between Summit Dr and</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Summit Dr and Valleyview Dr for 3.9 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-22T15:54:25-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.347449,50.662211,0 -120.347231,50.662214,0 -120.346877,50.662205,0 -120.344019,50.662132,0 -120.340275,50.661926,0 -120.336459,50.661765,0 -120.33471,50.66173,0 -120.330509,50.661737,0 -120.329666,50.661743,0 -120.328449,50.661751,0 -120.32778,50.661756,0 -120.324741,50.661804,0 -120.323367,50.661826,0 -120.32215,50.66194,0 -120.32015,50.662249,0 -120.318901,50.662559,0 -120.317428,50.662998,0 -120.315808,50.663627,0 -120.314755,50.664146,0 -120.313974,50.664602,0 -120.313011,50.665335,0 -120.312463,50.665789,0 -120.311401,50.666669,0 -120.310821,50.667063,0 -120.31006,50.667466,0 -120.307974,50.668287,0 -120.306644,50.66881,0 -120.304966,50.669508,0 -120.303313,50.670435,0 -120.303302,50.670441,0 -120.302025,50.671183,0 -120.300986,50.671679,0 -120.299595,50.672121,0 -120.298019,50.672544,0 -120.297679,50.672635,0 -120.297466,50.672692,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
