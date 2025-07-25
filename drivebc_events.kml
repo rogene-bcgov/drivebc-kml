@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-25 14:02:29 UTC
+        Last updated: 2025-07-25 14:36:51 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (249)</name>
+      <name>🚗 Traffic Events (250)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2378,27 +2378,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), in both directions. Construction work planned between Madaris Rd and G</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Madaris Rd and Gledhill Rd for 1.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T16:14:20-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.199484,49.162247,0 -122.198383,49.163203,0 -122.19663,49.16468,0 -122.196292,49.16448,0 -122.196274,49.164469,0 -122.195328,49.163623,0 -122.194772,49.163327,0 -122.194514,49.163229,0 -122.194227,49.163119,0 -122.192958,49.162635,0 -122.192672,49.162525,0 -122.192434,49.162434,0 -122.191334,49.162041,0 -122.190972,49.161941,0 -122.190384,49.161836,0 -122.190037,49.161806,0 -122.188337,49.161806,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 29, in both directions. Utility work between N Access Rd and Lakeshore Dr for 26.3 km (Chetw</name>
           <description>
         &lt;![CDATA[
@@ -2438,6 +2417,27 @@
           <Point>
             <coordinates>-121.24715,49.490815,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), in both directions. Construction work planned between Madaris Rd and G</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Madaris Rd and Gledhill Rd for 1.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-25T07:25:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.199484,49.162247,0 -122.198383,49.163203,0 -122.19663,49.16468,0 -122.196292,49.16448,0 -122.196274,49.164469,0 -122.195328,49.163623,0 -122.194772,49.163327,0 -122.194514,49.163229,0 -122.194227,49.163119,0 -122.192958,49.162635,0 -122.192672,49.162525,0 -122.192434,49.162434,0 -122.191334,49.162041,0 -122.190972,49.161941,0 -122.190384,49.161836,0 -122.190037,49.161806,0 -122.188337,49.161806,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), northbound. Construction work between Crace St and Nicol St for 0.1</name>
@@ -4775,6 +4775,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.418333,52.868329,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Port Mann East Service Rd and Ex</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Port Mann East Service Rd and Exit 48: 152 St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-25T07:23:26-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.799989,49.20334,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
