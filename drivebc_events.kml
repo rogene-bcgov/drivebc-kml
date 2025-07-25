@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-25 05:39:31 UTC
+        Last updated: 2025-07-25 06:02:33 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -554,7 +554,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Glade Ferry. Ferry will be out of service at Glade Ferry. Starting Thu Jul 24 at 11:00 PM PDT until </name>
+          <name>Glade Ferry. Ferry is out of service at Glade Ferry. Until Fri Jul 25 at 5:00 AM PDT. Due to require</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -564,7 +564,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Glade Ferry&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Glade Ferry&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T06:22:01-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T23:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -2811,27 +2811,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 95A, southbound. Road construction work planned between Jennings Ave and St. Marys Ave for 0</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between St. Marys Ave and Jennings Ave for 0.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-15T13:40:54-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-115.9818,49.684362,0 -115.981503,49.68428,0 -115.980522,49.684003,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 99, in both directions. Road sweeping between Exit 3: Horseshoe Bay Junction and Cleveland A</name>
           <description>
         &lt;![CDATA[
@@ -2871,6 +2850,27 @@
           <Point>
             <coordinates>-122.492806,49.101322,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 95A, southbound. Road construction work between Jennings Ave and St. Marys Ave for 0.1 km (K</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between St. Marys Ave and Jennings Ave for 0.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T23:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.9818,49.684362,0 -115.981503,49.68428,0 -115.980522,49.684003,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 17, eastbound. Construction work planned between Tannery Road and 124 Street in Surrey. Star</name>
