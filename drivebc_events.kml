@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-27 20:35:32 UTC
+        Last updated: 2025-07-27 21:01:32 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (242)</name>
+      <name>🚗 Traffic Events (243)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4391,6 +4391,26 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
+          <name>Highway 99, northbound. There is a grass fire between Alice Lake Rd and Daisy Lake Rd (Squamish). Ri</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Alice Lake Rd and Daisy Lake Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-27T13:55:15-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.129748,49.796968,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Upper Arrow Lake Ferry, in both directions. Possible ferry delays between Shelter Bay and Galena Bay</name>
           <description>
         &lt;![CDATA[
@@ -4401,7 +4421,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Shelter Bay and Galena Bay&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-27T12:42:43-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-27T13:59:30-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
