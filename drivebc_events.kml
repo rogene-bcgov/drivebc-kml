@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-27 21:01:32 UTC
+        Last updated: 2025-07-27 21:33:58 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (243)</name>
+      <name>🚗 Traffic Events (245)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -449,6 +449,47 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.399912,48.564989,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Maintenance between Port Mann Bridge and Exit 48: 152 St</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Port Mann Bridge and Exit 48: 152 St for 1.8 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-27T14:13:33-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.811272,49.214743,0 -122.811184,49.214545,0 -122.811081,49.21431,0 -122.81104,49.214219,0 -122.810817,49.213712,0 -122.81078,49.213631,0 -122.810689,49.213427,0 -122.81062,49.21328,0 -122.810535,49.213114,0 -122.810445,49.212951,0 -122.810336,49.212778,0 -122.810314,49.212743,0 -122.810254,49.212656,0 -122.810163,49.212529,0 -122.810106,49.21245,0 -122.810004,49.212322,0 -122.809923,49.212224,0 -122.8098,49.212086,0 -122.809714,49.211995,0 -122.809649,49.21193,0 -122.80959,49.211868,0 -122.809492,49.211774,0 -122.809405,49.211695,0 -122.809281,49.211582,0 -122.809177,49.211494,0 -122.809057,49.211394,0 -122.808992,49.21134,0 -122.808817,49.211199,0 -122.808766,49.211158,0 -122.807078,49.209869,0 -122.806157,49.209139,0 -122.805506,49.208599,0 -122.804707,49.207919,0 -122.804096,49.207373,0 -122.803322,49.206656,0 -122.802365,49.205735,0 -122.80132,49.204691,0 -122.800105,49.203458,0 -122.799262,49.202603,0 -122.798224,49.201501,0 -122.798027,49.201297,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Bridge maintenance planned at United Blvd (Coquitlam). S</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At United Blvd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-27T14:27:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.820253,49.226958,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4401,7 +4442,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Alice Lake Rd and Daisy Lake Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-27T13:55:15-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-27T14:27:59-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
