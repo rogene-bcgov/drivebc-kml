@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-27 01:30:09 UTC
+        Last updated: 2025-07-27 02:20:47 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2056,7 +2056,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; 56 Ave&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 256 St and 264 St in Langley - District&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T15:08:28-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-26T19:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3244,26 +3244,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-122.492806,49.101322,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Nelson Rd, in both directions. Construction work between Likely Rd and Likely Rd in 150 Mile House. </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Nelson Rd&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Likely Rd and Likely Rd in 150 Mile House&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-25T07:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.946611,52.127536,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4878,6 +4858,27 @@
           <Point>
             <coordinates>-120.173848,51.556499,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Alaska Highway). Collision between Big Bam Rd and McMahon Dr for 0.4 km (Taylor). Clean </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Big Bam Rd and McMahon Dr for 0.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-26T19:04:36-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.672213,56.137187,0 -120.672229,56.137458,0 -120.672344,56.139419,0 -120.672373,56.139913,0 -120.672399,56.140353,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt </name>
