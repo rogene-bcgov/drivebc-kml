@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-28 14:38:10 UTC
+        Last updated: 2025-07-28 15:02:09 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1734,6 +1734,27 @@
           <Point>
             <coordinates>-119.609537,49.450823,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97. Bridge maintenance between Kinney Rd and Booth Rd for 3.0 km (11 to 8 km north of Prince</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Kinney Rd and Booth Rd for 3.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T07:44:16-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.680069,54.096458,0 -122.680007,54.096488,0 -122.679911,54.096534,0 -122.67936,54.096803,0 -122.678236,54.097352,0 -122.676386,54.098107,0 -122.675524,54.098334,0 -122.67485,54.098473,0 -122.673914,54.098613,0 -122.672649,54.098685,0 -122.668533,54.098775,0 -122.666648,54.098817,0 -122.665186,54.098914,0 -122.663783,54.099055,0 -122.662014,54.099281,0 -122.660159,54.099596,0 -122.658535,54.099945,0 -122.654155,54.101257,0 -122.653266,54.10159,0 -122.652531,54.101982,0 -122.651805,54.102524,0 -122.651234,54.103221,0 -122.65097,54.103787,0 -122.650953,54.103927,0 -122.65093,54.104117,0 -122.650926,54.104152,0 -122.65091,54.104286,0 -122.651141,54.105788,0 -122.651144,54.106167,0 -122.651076,54.106691,0 -122.650911,54.107208,0 -122.65065,54.107721,0 -122.650223,54.108311,0 -122.649871,54.108716,0 -122.649678,54.108917,0 -122.649156,54.109458,0 -122.64832,54.110303,0 -122.64795,54.110743,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, northbound. Bridge maintenance between Lions Bay Ave and Depot Rd for 38.3 km (Lions Bay</name>
@@ -4752,26 +4773,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-126.479614,53.985412,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), southbound. Vehicle incident at Campbell Hill Dr (1 km south of Cac</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Campbell Hill Dr&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T05:25:58-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-121.317517,50.79053,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
