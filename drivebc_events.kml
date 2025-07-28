@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-28 15:02:09 UTC
+        Last updated: 2025-07-28 15:37:06 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (243)</name>
+      <name>🚗 Traffic Events (245)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -699,7 +699,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. There will be ditching between Willowbrook Rd a</name>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Ditching between Willowbrook Rd and Rod and Gun</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -709,7 +709,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Willowbrook Rd and Rod and Gun Frtg for 1.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T07:24:20-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T08:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -740,6 +740,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Ditching between Eichenberger Rd and Morice Riv</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Eichenberger Rd and Morice River Rd for 3.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-126.738372,54.427615,0 -126.736765,54.424706,0 -126.734124,54.419923,0 -126.733818,54.419369,0 -126.733483,54.418761,0 -126.731319,54.415069,0 -126.727475,54.408225,0 -126.727249,54.407857,0 -126.726015,54.405855,0 -126.724943,54.404326,0 -126.72276,54.401359,0 -126.722088,54.400676,0 -126.72093,54.39975,0 -126.720363,54.399325,0 -126.720083,54.399126,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Heffley Louis Creek Rd. Paving operations at Lower Heffley Lake Rd. Until Mon Jul 28. From 7:00 AM t</name>
           <description>
         &lt;![CDATA[
@@ -758,27 +779,6 @@
           <Point>
             <coordinates>-120.09576,50.849285,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. There will be ditching between Eichenberger Rd </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Eichenberger Rd and Morice River Rd for 3.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T07:27:20-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-126.738372,54.427615,0 -126.736765,54.424706,0 -126.734124,54.419923,0 -126.733818,54.419369,0 -126.733483,54.418761,0 -126.731319,54.415069,0 -126.727475,54.408225,0 -126.727249,54.407857,0 -126.726015,54.405855,0 -126.724943,54.404326,0 -126.72276,54.401359,0 -126.722088,54.400676,0 -126.72093,54.39975,0 -126.720363,54.399325,0 -126.720083,54.399126,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 15 (Pacific Highway), in both directions. Utility work between 20 Ave and 26 Ave for 1.2 km </name>
@@ -820,27 +820,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.355582,49.046519,0 -122.355566,49.046512,0 -122.353092,49.04543,0 -122.35216,49.045023,0 -122.351348,49.044642,0 -122.350675,49.044326,0 -122.349902,49.043926,0 -122.346191,49.042002,0 -122.345923,49.041862,0 -122.344336,49.04104,0 -122.343534,49.040624,0 -122.337791,49.037646,0 -122.337615,49.037554,0 -122.336276,49.037022,0 -122.335054,49.036683,0 -122.33411,49.036474,0 -122.333165,49.036317,0 -122.332319,49.036213,0 -122.332208,49.036199,0 -122.331994,49.036187,0 -122.331266,49.036147,0 -122.327049,49.035892,0 -122.325432,49.035793,0 -122.323754,49.035703,0 -122.321237,49.035562,0 -122.318001,49.035379,0 -122.316393,49.035324,0 -122.315506,49.03527,0 -122.31311,49.035124,0 -122.311253,49.035013,0 -122.30948,49.034896,0 -122.307344,49.034815,0 -122.305942,49.034735,0 -122.304948,49.034669,0 -122.302262,49.034536,0 -122.30038,49.034432,0 -122.299135,49.034349,0 -122.298128,49.034299,0 -122.295272,49.034184,0 -122.294025,49.034117,0 -122.292837,49.034037,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 39, northbound. Construction work planned between the start of Highway 39 and Dump Rd for 10</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 39&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 39 and Dump Rd for 10.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-15T08:59:15-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.071218,55.229633,0 -123.079315,55.237025,0 -123.087205,55.244225,0 -123.088752,55.245837,0 -123.089503,55.246824,0 -123.089967,55.247516,0 -123.090564,55.248407,0 -123.090801,55.24876,0 -123.092691,55.251581,0 -123.093268,55.252443,0 -123.096227,55.256859,0 -123.096359,55.257057,0 -123.096552,55.257345,0 -123.097247,55.258381,0 -123.098314,55.259715,0 -123.09848,55.259901,0 -123.098676,55.26012,0 -123.098968,55.260445,0 -123.101661,55.263451,0 -123.104072,55.266141,0 -123.104742,55.266888,0 -123.105299,55.267616,0 -123.106274,55.269217,0 -123.106692,55.269903,0 -123.106985,55.270385,0 -123.108591,55.273021,0 -123.108837,55.273819,0 -123.108863,55.274228,0 -123.10871,55.275054,0 -123.108041,55.276527,0 -123.106351,55.280248,0 -123.104814,55.28363,0 -123.104421,55.284494,0 -123.103131,55.287334,0 -123.102947,55.287884,0 -123.102869,55.288119,0 -123.102824,55.2889,0 -123.102956,55.289479,0 -123.103242,55.290112,0 -123.109975,55.300149,0 -123.110588,55.301178,0 -123.110815,55.30189,0 -123.110877,55.302429,0 -123.110629,55.304342,0 -123.110642,55.304767,0 -123.110741,55.305201,0 -123.110942,55.305653,0 -123.114477,55.311272,0 -123.114771,55.311996,0 -123.114827,55.312564,0 -123.114811,55.312618,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -1385,27 +1364,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Shoulder maintenance planned between Oak Dr and Greely R</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Oak Dr and Greely Rd for 5.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T12:46:34-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.157129,50.99387,0 -118.156074,50.993451,0 -118.155124,50.993075,0 -118.153688,50.992616,0 -118.153308,50.992527,0 -118.152728,50.99239,0 -118.151361,50.992106,0 -118.149232,50.991817,0 -118.147961,50.991723,0 -118.147886,50.99172,0 -118.146508,50.991665,0 -118.145138,50.9917,0 -118.143707,50.991786,0 -118.143374,50.99183,0 -118.142842,50.991901,0 -118.141763,50.992045,0 -118.140578,50.99224,0 -118.139888,50.992393,0 -118.139577,50.992462,0 -118.137431,50.993079,0 -118.135252,50.993781,0 -118.135204,50.9938,0 -118.134385,50.994129,0 -118.133636,50.994521,0 -118.132875,50.995023,0 -118.132303,50.995498,0 -118.132045,50.99573,0 -118.130873,50.996785,0 -118.13063,50.996971,0 -118.130164,50.997327,0 -118.129645,50.997624,0 -118.129545,50.997681,0 -118.129371,50.997753,0 -118.128671,50.998042,0 -118.127785,50.998325,0 -118.127383,50.998457,0 -118.123334,50.999782,0 -118.122647,51.000042,0 -118.12221,51.000208,0 -118.121368,51.000646,0 -118.120462,51.001279,0 -118.116098,51.004744,0 -118.114821,51.005674,0 -118.113798,51.006247,0 -118.113401,51.006423,0 -118.112667,51.006748,0 -118.110994,51.007302,0 -118.109999,51.007531,0 -118.108738,51.007762,0 -118.106528,51.008093,0 -118.102961,51.008625,0 -118.101892,51.008812,0 -118.100843,51.0091,0 -118.099941,51.009429,0 -118.099142,51.009779,0 -118.096266,51.01104,0 -118.095161,51.011435,0 -118.094634,51.011624,0 -118.093367,51.011987,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Island Highway). Utility work planned between Garfield Rd and Duncan Bay Main for 25.2 k</name>
           <description>
         &lt;![CDATA[
@@ -1799,6 +1757,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Shoulder maintenance between Oak Dr and Greely Rd for 5.</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Oak Dr and Greely Rd for 5.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.157129,50.99387,0 -118.156074,50.993451,0 -118.155124,50.993075,0 -118.153688,50.992616,0 -118.153308,50.992527,0 -118.152728,50.99239,0 -118.151361,50.992106,0 -118.149232,50.991817,0 -118.147961,50.991723,0 -118.147886,50.99172,0 -118.146508,50.991665,0 -118.145138,50.9917,0 -118.143707,50.991786,0 -118.143374,50.99183,0 -118.142842,50.991901,0 -118.141763,50.992045,0 -118.140578,50.99224,0 -118.139888,50.992393,0 -118.139577,50.992462,0 -118.137431,50.993079,0 -118.135252,50.993781,0 -118.135204,50.9938,0 -118.134385,50.994129,0 -118.133636,50.994521,0 -118.132875,50.995023,0 -118.132303,50.995498,0 -118.132045,50.99573,0 -118.130873,50.996785,0 -118.13063,50.996971,0 -118.130164,50.997327,0 -118.129645,50.997624,0 -118.129545,50.997681,0 -118.129371,50.997753,0 -118.128671,50.998042,0 -118.127785,50.998325,0 -118.127383,50.998457,0 -118.123334,50.999782,0 -118.122647,51.000042,0 -118.12221,51.000208,0 -118.121368,51.000646,0 -118.120462,51.001279,0 -118.116098,51.004744,0 -118.114821,51.005674,0 -118.113798,51.006247,0 -118.113401,51.006423,0 -118.112667,51.006748,0 -118.110994,51.007302,0 -118.109999,51.007531,0 -118.108738,51.007762,0 -118.106528,51.008093,0 -118.102961,51.008625,0 -118.101892,51.008812,0 -118.100843,51.0091,0 -118.099941,51.009429,0 -118.099142,51.009779,0 -118.096266,51.01104,0 -118.095161,51.011435,0 -118.094634,51.011624,0 -118.093367,51.011987,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 17. Paving operations at Ravine Way (Saanich). Until Fri Aug 1. Watch for traffic control. E</name>
           <description>
         &lt;![CDATA[
@@ -1982,27 +1961,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Coburn St and Shuswap Ave for 0.7 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T06:52:30-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.6825,50.817227,0 -119.680667,50.818505,0 -119.680114,50.818891,0 -119.679972,50.81899,0 -119.679653,50.819212,0 -119.679248,50.819496,0 -119.677113,50.820985,0 -119.676128,50.821673,0 -119.675784,50.821913,0 -119.675751,50.821936,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (Kicking Horse Pass). Maintenance between Golden Donald Upper Rd and Yoho Bridge for 7.8 k</name>
           <description>
         &lt;![CDATA[
@@ -2024,6 +1982,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Coburn St and Shuswap Ave for 0.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T06:52:30-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.6825,50.817227,0 -119.680667,50.818505,0 -119.680114,50.818891,0 -119.679972,50.81899,0 -119.679653,50.819212,0 -119.679248,50.819496,0 -119.677113,50.820985,0 -119.676128,50.821673,0 -119.675784,50.821913,0 -119.675751,50.821936,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance between Kerr St and Terrace </name>
           <description>
         &lt;![CDATA[
@@ -2042,6 +2021,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-128.577046,54.512004,0 -128.57698,54.512027,0 -128.576456,54.512026,0 -128.572711,54.511961,0 -128.570493,54.511926,0 -128.567625,54.511874,0 -128.567377,54.511867,0 -128.566139,54.511831,0 -128.56519,54.511803,0 -128.562883,54.511792,0 -128.56223,54.511781,0 -128.561586,54.511766,0 -128.561147,54.511765,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 39, northbound. Construction work between the start of Highway 39 and Dump Rd for 10.0 km (M</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 39&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 39 and Dump Rd for 10.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.071218,55.229633,0 -123.079315,55.237025,0 -123.087205,55.244225,0 -123.088752,55.245837,0 -123.089503,55.246824,0 -123.089967,55.247516,0 -123.090564,55.248407,0 -123.090801,55.24876,0 -123.092691,55.251581,0 -123.093268,55.252443,0 -123.096227,55.256859,0 -123.096359,55.257057,0 -123.096552,55.257345,0 -123.097247,55.258381,0 -123.098314,55.259715,0 -123.09848,55.259901,0 -123.098676,55.26012,0 -123.098968,55.260445,0 -123.101661,55.263451,0 -123.104072,55.266141,0 -123.104742,55.266888,0 -123.105299,55.267616,0 -123.106274,55.269217,0 -123.106692,55.269903,0 -123.106985,55.270385,0 -123.108591,55.273021,0 -123.108837,55.273819,0 -123.108863,55.274228,0 -123.10871,55.275054,0 -123.108041,55.276527,0 -123.106351,55.280248,0 -123.104814,55.28363,0 -123.104421,55.284494,0 -123.103131,55.287334,0 -123.102947,55.287884,0 -123.102869,55.288119,0 -123.102824,55.2889,0 -123.102956,55.289479,0 -123.103242,55.290112,0 -123.109975,55.300149,0 -123.110588,55.301178,0 -123.110815,55.30189,0 -123.110877,55.302429,0 -123.110629,55.304342,0 -123.110642,55.304767,0 -123.110741,55.305201,0 -123.110942,55.305653,0 -123.114477,55.311272,0 -123.114771,55.311996,0 -123.114827,55.312564,0 -123.114811,55.312618,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -2458,6 +2458,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.671448,53.083944,0 -119.669833,53.083474,0 -119.668841,53.083102,0 -119.667801,53.082652,0 -119.666136,53.081802,0 -119.664284,53.080816,0 -119.661455,53.07931,0 -119.658694,53.07784,0 -119.657491,53.0772,0 -119.656239,53.076586,0 -119.654991,53.07606,0 -119.651218,53.07447,0 -119.648532,53.073356,0 -119.648072,53.073165,0 -119.647556,53.072951,0 -119.64127,53.070342,0 -119.639588,53.069643,0 -119.637348,53.068713,0 -119.636176,53.068226,0 -119.629707,53.065539,0 -119.626377,53.064156,0 -119.6238,53.063032,0 -119.623203,53.062772,0 -119.615687,53.059101,0 -119.614485,53.058514,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Roadside brushing between Grand Blvd and Hook R</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Grand Blvd and Hook Rd for 17.6 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T08:01:29-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.226607,50.671911,0 -120.225978,50.671779,0 -120.224856,50.671545,0 -120.222617,50.671078,0 -120.22171,50.670926,0 -120.220929,50.670891,0 -120.220072,50.670901,0 -120.220009,50.670902,0 -120.218713,50.67106,0 -120.218387,50.671127,0 -120.217229,50.671366,0 -120.215364,50.6717,0 -120.214284,50.671753,0 -120.213316,50.67172,0 -120.21223,50.671552,0 -120.212022,50.671504,0 -120.206196,50.67015,0 -120.204626,50.669785,0 -120.204459,50.669746,0 -120.203938,50.669653,0 -120.202892,50.669466,0 -120.200529,50.669145,0 -120.199993,50.669111,0 -120.197859,50.668979,0 -120.196227,50.668965,0 -120.196125,50.668968,0 -120.188299,50.669228,0 -120.187629,50.669247,0 -120.187077,50.669263,0 -120.186869,50.669266,0 -120.184696,50.6693,0 -120.182271,50.669337,0 -120.181533,50.669405,0 -120.181275,50.669428,0 -120.180305,50.669518,0 -120.178579,50.669607,0 -120.17745,50.669594,0 -120.176603,50.66955,0 -120.171306,50.669091,0 -120.161829,50.668271,0 -120.159074,50.667953,0 -120.158315,50.667866,0 -120.153256,50.667395,0 -120.15082,50.667047,0 -120.146182,50.666042,0 -120.145738,50.665967,0 -120.145224,50.66588,0 -120.143745,50.66563,0 -120.142924,50.665452,0 -120.138372,50.664468,0 -120.131322,50.662943,0 -120.130066,50.662671,0 -120.129839,50.662622,0 -120.129603,50.662552,0 -120.128469,50.662214,0 -120.128349,50.662178,0 -120.128183,50.662114,0 -120.127353,50.661794,0 -120.127227,50.661745,0 -120.127128,50.6617,0 -120.126964,50.661626,0 -120.126472,50.661403,0 -120.125084,50.660761,0 -120.124831,50.660663,0 -120.123464,50.660129,0 -120.123425,50.660114,0 -120.123287,50.66007,0 -120.123019,50.659983,0 -120.122309,50.659755,0 -120.120838,50.659425,0 -120.119753,50.659248,0 -120.119079,50.659174,0 -120.118918,50.659156,0 -120.118866,50.659152,0 -120.118051,50.659075,0 -120.116882,50.659031,0 -120.11569,50.659053,0 -120.115421,50.659081,0 -120.112464,50.659382,0 -120.112203,50.659409,0 -120.110738,50.659508,0 -120.109293,50.659539,0 -120.107615,50.659487,0 -120.10619,50.659398,0 -120.104416,50.65919,0 -120.104341,50.65918,0 -120.098967,50.658449,0 -120.091839,50.657478,0 -120.091432,50.657423,0 -120.082413,50.656194,0 -120.082078,50.656149,0 -120.080681,50.655877,0 -120.080488,50.655839,0 -120.07808,50.655371,0 -120.074246,50.654826,0 -120.07372,50.654753,0 -120.072821,50.654628,0 -120.072668,50.654606,0 -120.072207,50.654511,0 -120.071096,50.654281,0 -120.069379,50.653926,0 -120.068058,50.653653,0 -120.067631,50.653572,0 -120.067037,50.653445,0 -120.066082,50.653345,0 -120.065242,50.653345,0 -120.064037,50.653421,0 -120.06375,50.653462,0 -120.062814,50.653598,0 -120.061817,50.653743,0 -120.061571,50.653779,0 -120.060751,50.653898,0 -120.059961,50.653974,0 -120.059119,50.65406,0 -120.058973,50.654074,0 -120.058772,50.654079,0 -120.05738,50.654108,0 -120.057165,50.654112,0 -120.056819,50.6541,0 -120.056573,50.654092,0 -120.056189,50.654079,0 -120.056034,50.654074,0 -120.055575,50.654059,0 -120.052538,50.653957,0 -120.049811,50.653866,0 -120.048263,50.653814,0 -120.046023,50.653739,0 -120.045693,50.653728,0 -120.04432,50.653682,0 -120.041858,50.653599,0 -120.041455,50.653586,0 -120.041043,50.653572,0 -120.03908,50.653502,0 -120.030864,50.653208,0 -120.029353,50.653154,0 -120.028996,50.653141,0 -120.027296,50.652985,0 -120.026422,50.652859,0 -120.024772,50.652623,0 -120.02211,50.652241,0 -120.017677,50.651604,0 -120.015196,50.651248,0 -120.01431,50.65112,0 -120.011625,50.650735,0 -120.010634,50.650592,0 -120.009654,50.650451,0 -120.009163,50.650358,0 -120.008599,50.650251,0 -120.008055,50.650147,0 -120.006689,50.649772,0 -120.006425,50.649673,0 -120.006282,50.64962,0 -120.003671,50.648645,0 -120.001739,50.647924,0 -120.001428,50.647825,0 -120.00129,50.647781,0 -120.001036,50.647701,0 -120.000833,50.647637,0 -120.000648,50.64759,0 -120.000108,50.647455,0 -120.000002,50.647429,0 -119.999847,50.6474,0 -119.999693,50.647372,0 -119.999568,50.647349,0 -119.999438,50.647326,0 -119.999097,50.647263,0 -119.9989,50.647246,0 -119.998837,50.64724,0 -119.997854,50.647153,0 -119.997822,50.64715,0 -119.99767,50.647137,0 -119.997539,50.647136,0 -119.997401,50.647136,0 -119.996962,50.647133,0 -119.996282,50.64713,0 -119.995956,50.647128,0 -119.994287,50.647119,0 -119.992945,50.647112,0 -119.991691,50.647106,0 -119.990252,50.647098,0 -119.990131,50.647098,0 -119.989411,50.647102,0 -119.989209,50.647103,0 -119.988437,50.647107,0 -119.988191,50.647118,0 -119.987522,50.647149,0 -119.987261,50.647161,0 -119.987127,50.647167,0 -119.986993,50.647179,0 -119.986584,50.647215,0 -119.986417,50.64723,0 -119.985975,50.64727,0 -119.985422,50.647344,0 -119.985379,50.64735,0 -119.984555,50.647461,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4473,7 +4494,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 15 (Pacific Highway). Vehicle incident at 80 Ave (Surrey). Lane closures in both directions </name>
+          <name>Highway 15 (Pacific Highway). Road cleared at 80 Ave (Surrey). Last updated Mon Jul 28 at 8:26 AM PD</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4483,7 +4504,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At 80 Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T07:00:03-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T08:26:03-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5044,6 +5065,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.982038,54.950606,0 -122.982097,54.950652,0 -122.982886,54.951184,0 -122.984041,54.95182,0 -122.984211,54.951891,0 -122.987342,54.953188,0 -122.988127,54.953583,0 -122.988667,54.953919,0 -122.989329,54.954392,0 -122.990287,54.955192,0 -122.99154,54.956261,0 -122.991701,54.956398,0 -122.99225,54.956871,0 -122.993616,54.958038,0 -122.994681,54.95895,0 -122.996155,54.960127,0 -122.997544,54.961039,0 -122.997821,54.961221,0 -123.00078,54.962946,0 -123.00136,54.963284,0 -123.002352,54.963895,0 -123.006296,54.96649,0 -123.007027,54.967037,0 -123.007456,54.967404,0 -123.009673,54.969239,0 -123.013928,54.972758,0 -123.014705,54.973313,0 -123.015543,54.973761,0 -123.016653,54.974203,0 -123.017765,54.974528,0 -123.019145,54.974792,0 -123.021731,54.975117,0 -123.022042,54.975155,0 -123.022928,54.975318,0 -123.024282,54.975659,0 -123.025485,54.976079,0 -123.026522,54.976566,0 -123.030095,54.978541,0 -123.03065,54.978907,0 -123.03138,54.979504,0 -123.031989,54.980145,0 -123.032459,54.980823,0 -123.032797,54.981522,0 -123.032993,54.982209,0 -123.033059,54.985209,0 -123.033095,54.986862,0 -123.033096,54.987026,0 -123.033097,54.987276,0 -123.033102,54.988363,0 -123.033106,54.989145,0 -123.033107,54.989264,0 -123.033109,54.98938,0 -123.033145,54.991681,0 -123.033146,54.991719,0 -123.03315,54.991827,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 6. Special event between Salmo and Hwy 3 Junction. Expect Major delays due to congestion. La</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 6&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Salmo and Hwy 3 Junction&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T08:20:27-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-117.281986,49.180557,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 4A, in both directions. Special event planned between Ford Rd and Station Rd for 0.2 km (7 k</name>
