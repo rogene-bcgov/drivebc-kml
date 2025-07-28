@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-28 20:36:43 UTC
+        Last updated: 2025-07-28 21:01:45 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (264)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4384,6 +4384,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Construction work planned between 68A Ave and Fraser Hwy f</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 68A Ave and Fraser Hwy for 1.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T13:43:42-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.734704,49.127249,0 -122.734701,49.127596,0 -122.734674,49.129701,0 -122.734624,49.137511,0 -122.734651,49.138055,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 7B (Mary Hill Bypass), westbound. Construction work between Coast Meridian Rd and Broadway S</name>
           <description>
         &lt;![CDATA[
@@ -5373,23 +5394,23 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 10, eastbound. Vehicle incident between 160 St and 168 St (Surrey). Left lane is blocked. Ex</name>
+          <name>Upper Arrow Lake Ferry, in both directions. Currently operating 30 minutes behind schedule between S</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 160 St and 168 St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T13:22:33-07:00&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Shelter Bay and Galena Bay&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T13:54:15-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-122.764584,49.104306,0</coordinates>
+            <coordinates>-117.901313,50.629425,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
