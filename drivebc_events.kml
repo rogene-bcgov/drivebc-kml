@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-29 21:34:58 UTC
+        Last updated: 2025-07-29 22:01:46 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (275)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3119,6 +3119,27 @@
           <Point>
             <coordinates>-123.088138,49.331915,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, southbound. Utility work between Nordic Dr and Austin Rd for 0.9 km (Prince George). Unt</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Austin Rd and Nordic Dr for 0.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T14:54:52-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.794751,53.993922,0 -122.796462,53.994868,0 -122.797813,53.995685,0 -122.798441,53.996173,0 -122.799165,53.996814,0 -122.799983,53.997738,0 -122.800002,53.997768,0 -122.800378,53.998353,0 -122.800505,53.99862,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Utility work between Willow River Rest Area and</name>
