@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-29 14:39:18 UTC
+        Last updated: 2025-07-29 15:03:33 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (256)</name>
+      <name>🚗 Traffic Events (257)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -782,7 +782,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Road sweeping planned between Rowland Rd and Wildwood Dr for 2.4 km</name>
+          <name>Highway 16 (Yellowhead Highway). Road sweeping between Rowland Rd and Wildwood Dr for 2.4 km (Decker</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -792,7 +792,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Rowland Rd and Wildwood Dr for 2.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:32:16-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T08:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -862,6 +862,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.355582,49.046519,0 -122.355566,49.046512,0 -122.353092,49.04543,0 -122.35216,49.045023,0 -122.351348,49.044642,0 -122.350675,49.044326,0 -122.349902,49.043926,0 -122.346191,49.042002,0 -122.345923,49.041862,0 -122.344336,49.04104,0 -122.343534,49.040624,0 -122.337791,49.037646,0 -122.337615,49.037554,0 -122.336276,49.037022,0 -122.335054,49.036683,0 -122.33411,49.036474,0 -122.333165,49.036317,0 -122.332319,49.036213,0 -122.332208,49.036199,0 -122.331994,49.036187,0 -122.331266,49.036147,0 -122.327049,49.035892,0 -122.325432,49.035793,0 -122.323754,49.035703,0 -122.321237,49.035562,0 -122.318001,49.035379,0 -122.316393,49.035324,0 -122.315506,49.03527,0 -122.31311,49.035124,0 -122.311253,49.035013,0 -122.30948,49.034896,0 -122.307344,49.034815,0 -122.305942,49.034735,0 -122.304948,49.034669,0 -122.302262,49.034536,0 -122.30038,49.034432,0 -122.299135,49.034349,0 -122.298128,49.034299,0 -122.295272,49.034184,0 -122.294025,49.034117,0 -122.292837,49.034037,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Utility work between Stella Rd and Francois Lak</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Stella Rd and Francois Lake Rd for 2.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.911677,54.060658,0 -124.909946,54.060321,0 -124.907342,54.059815,0 -124.906683,54.059656,0 -124.905766,54.059373,0 -124.905694,54.059345,0 -124.904879,54.059026,0 -124.904182,54.05867,0 -124.903504,54.058256,0 -124.902919,54.057803,0 -124.902737,54.057621,0 -124.902334,54.05722,0 -124.902118,54.056924,0 -124.901945,54.056688,0 -124.901637,54.056082,0 -124.90147,54.055547,0 -124.901178,54.054164,0 -124.900911,54.052902,0 -124.900137,54.049243,0 -124.899968,54.04884,0 -124.899721,54.048478,0 -124.899428,54.04816,0 -124.899088,54.047855,0 -124.898806,54.047634,0 -124.898325,54.047315,0 -124.897513,54.046882,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -989,27 +1010,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 35, in both directions. Bridge maintenance planned between Pioneer Way and the end of Highwa</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 35&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Pioneer Way and the end of Highway 35 for 0.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T17:18:27-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.760208,54.224226,0 -125.759326,54.224172,0 -125.758022,54.224081,0 -125.757229,54.22404,0 -125.756514,54.223999,0 -125.756036,54.22402,0 -125.755953,54.224038,0 -125.755681,54.224096,0 -125.755255,54.224238,0 -125.754746,54.224464,0 -125.754388,54.22465,0 -125.754104,54.224868,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Newton Dr. Bridge maintenance between Sparton Dr and Duchess Dr. Until Thu Jul 31. From 9:00 AM to 3</name>
           <description>
         &lt;![CDATA[
@@ -1048,6 +1048,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.13485,49.337625,0 -123.13468,49.337613,0 -123.13432,49.337606,0 -123.131149,49.337552,0 -123.130549,49.337498,0 -123.130406,49.337477,0 -123.129609,49.33736,0 -123.128894,49.337162,0 -123.12773,49.336698,0 -123.127018,49.336317,0 -123.126851,49.336219,0 -123.126815,49.336197,0 -123.121352,49.332984,0 -123.121029,49.33283,0 -123.120609,49.332681,0 -123.12001,49.332563,0 -123.119691,49.332533,0 -123.119076,49.332516,0 -123.119065,49.332516,0 -123.118594,49.332511,0 -123.118424,49.332496,0 -123.11746,49.332497,0 -123.117181,49.332497,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 35, in both directions. Bridge maintenance between Pioneer Way and the end of Highway 35 for</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 35&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Pioneer Way and the end of Highway 35 for 0.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T08:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.760208,54.224226,0 -125.759326,54.224172,0 -125.758022,54.224081,0 -125.757229,54.22404,0 -125.756514,54.223999,0 -125.756036,54.22402,0 -125.755953,54.224038,0 -125.755681,54.224096,0 -125.755255,54.224238,0 -125.754746,54.224464,0 -125.754388,54.22465,0 -125.754104,54.224868,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -1382,27 +1403,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.80556,49.468115,0 -123.805219,49.468173,0 -123.804663,49.468371,0 -123.804457,49.468444,0 -123.803535,49.468772,0 -123.803101,49.468831,0 -123.80264,49.468835,0 -123.801396,49.468645,0 -123.801091,49.468596,0 -123.799512,49.468358,0 -123.798481,49.468109,0 -123.796423,49.467411,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Utility work planned between Stella Rd and Fran</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Stella Rd and Francois Lake Rd for 2.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-24T11:35:42-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.911677,54.060658,0 -124.909946,54.060321,0 -124.907342,54.059815,0 -124.906683,54.059656,0 -124.905766,54.059373,0 -124.905694,54.059345,0 -124.904879,54.059026,0 -124.904182,54.05867,0 -124.903504,54.058256,0 -124.902919,54.057803,0 -124.902737,54.057621,0 -124.902334,54.05722,0 -124.902118,54.056924,0 -124.901945,54.056688,0 -124.901637,54.056082,0 -124.90147,54.055547,0 -124.901178,54.054164,0 -124.900911,54.052902,0 -124.900137,54.049243,0 -124.899968,54.04884,0 -124.899721,54.048478,0 -124.899428,54.04816,0 -124.899088,54.047855,0 -124.898806,54.047634,0 -124.898325,54.047315,0 -124.897513,54.046882,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3225,7 +3225,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97, in both directions. Shoulder maintenance planned between Trepanier Bench Rd and Buchanan</name>
+          <name>Highway 97, in both directions. Shoulder maintenance between Trepanier Bench Rd and Buchanan Rd for </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3235,7 +3235,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Trepanier Bench Rd and Buchanan Rd for 1.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-25T11:28:23-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T08:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4761,26 +4761,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Downed hydro lines at Exit 32: Steveston Hwy (Richmond). Expect Major delays</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:14:59-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.086593,49.133477,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector). Rest area closed between Charles Rd and Anderson Rd (15 km south of </name>
           <description>
         &lt;![CDATA[
@@ -4798,6 +4778,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.674115,53.676325,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Downed hydro lines at Exit 32: Steveston Hwy (Richmond). Exit ramp is closed</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:46:07-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.086593,49.133477,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4898,6 +4898,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.479074,53.155476,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Vehicle incident between Exit 32: Steveston Hwy and Blundell Rd (Richmond). </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 32: Steveston Hwy and Blundell Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:56:06-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.086551,49.152951,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
