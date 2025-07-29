@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-29 19:34:04 UTC
+        Last updated: 2025-07-29 20:02:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (273)</name>
+      <name>🚗 Traffic Events (274)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -674,27 +674,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-120.775419,56.289759,0 -120.770529,56.288776,0 -120.76961,56.288572,0 -120.769217,56.288503,0 -120.768318,56.288344,0 -120.767334,56.288224,0 -120.765004,56.287939,0 -120.764643,56.287895,0 -120.764322,56.287825,0 -120.763961,56.287747,0 -120.763407,56.287572,0 -120.762867,56.287316,0 -120.762501,56.287079,0 -120.761506,56.286258,0 -120.760732,56.285794,0 -120.757804,56.284459,0 -120.757122,56.284193,0 -120.757036,56.284165,0 -120.756996,56.284152,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 93, in both directions. Construction work between Radium Hill Rd and Stanley St for 3.1 km (</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Radium Hill Rd and Stanley St for 3.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:27:57-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.049264,50.59543,0 -116.050248,50.595759,0 -116.053906,50.596759,0 -116.054068,50.59681,0 -116.054683,50.597004,0 -116.055297,50.597283,0 -116.05595,50.597644,0 -116.056403,50.597977,0 -116.056786,50.598329,0 -116.057126,50.598739,0 -116.057402,50.599201,0 -116.057585,50.59966,0 -116.05772,50.6,0 -116.058053,50.600838,0 -116.058423,50.601769,0 -116.058528,50.602036,0 -116.058902,50.602665,0 -116.059882,50.604045,0 -116.060264,50.604589,0 -116.060702,50.605189,0 -116.061233,50.605944,0 -116.061882,50.606861,0 -116.062523,50.607771,0 -116.063296,50.608835,0 -116.063624,50.609233,0 -116.063893,50.609559,0 -116.065939,50.611677,0 -116.066941,50.612714,0 -116.067126,50.612962,0 -116.06726,50.613142,0 -116.067622,50.613704,0 -116.068022,50.614562,0 -116.068371,50.615477,0 -116.06918,50.617596,0 -116.069558,50.618465,0 -116.069863,50.619054,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -2872,6 +2851,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 18. Electrical maintenance planned at Youbou Rd (Lake Cowichan). Starting Tue Aug 19 at 9:00</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 18&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Youbou Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T12:47:45-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.041112,48.833459,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 29, in both directions. Utility work between Bullmoose Rd and Lone Prairie Rd for 3.7 km (13</name>
           <description>
         &lt;![CDATA[
@@ -2890,6 +2889,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.596965,55.541825,0 -121.596943,55.541853,0 -121.596759,55.54208,0 -121.596426,55.542813,0 -121.596307,55.543316,0 -121.596042,55.546257,0 -121.595993,55.546806,0 -121.595912,55.547295,0 -121.595831,55.547786,0 -121.59439,55.553456,0 -121.594274,55.553913,0 -121.594069,55.554943,0 -121.593883,55.556518,0 -121.593638,55.560742,0 -121.593554,55.562197,0 -121.593432,55.564308,0 -121.593376,55.565285,0 -121.593372,55.565357,0 -121.593213,55.568106,0 -121.593005,55.57169,0 -121.592988,55.571995,0 -121.592924,55.573091,0 -121.592882,55.573816,0 -121.592778,55.57453,0 -121.592726,55.574694,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 93, in both directions. Construction work between Radium Hill Rd and Stanley St for 3.1 km (</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Radium Hill Rd and Stanley St for 3.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T12:56:44-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.049264,50.59543,0 -116.050248,50.595759,0 -116.053906,50.596759,0 -116.054068,50.59681,0 -116.054683,50.597004,0 -116.055297,50.597283,0 -116.05595,50.597644,0 -116.056403,50.597977,0 -116.056786,50.598329,0 -116.057126,50.598739,0 -116.057402,50.599201,0 -116.057585,50.59966,0 -116.05772,50.6,0 -116.058053,50.600838,0 -116.058423,50.601769,0 -116.058528,50.602036,0 -116.058902,50.602665,0 -116.059882,50.604045,0 -116.060264,50.604589,0 -116.060702,50.605189,0 -116.061233,50.605944,0 -116.061882,50.606861,0 -116.062523,50.607771,0 -116.063296,50.608835,0 -116.063624,50.609233,0 -116.063893,50.609559,0 -116.065939,50.611677,0 -116.066941,50.612714,0 -116.067126,50.612962,0 -116.06726,50.613142,0 -116.067622,50.613704,0 -116.068022,50.614562,0 -116.068371,50.615477,0 -116.06918,50.617596,0 -116.069558,50.618465,0 -116.069863,50.619054,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5142,7 +5162,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T11:45:09-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T12:47:12-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
