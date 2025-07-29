@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-29 14:04:30 UTC
+        Last updated: 2025-07-29 14:39:18 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (250)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -205,6 +205,26 @@
             <tessellate>1</tessellate>
             <coordinates>-121.315353,51.688011,0 -121.3159,51.688862,0 -121.317173,51.690841,0 -121.318041,51.692202,0 -121.319033,51.693756,0 -121.319955,51.695201,0 -121.321581,51.697747,0 -121.322006,51.698565,0 -121.32223,51.699417,0 -121.32222,51.700003,0 -121.322219,51.700035,0 -121.322165,51.700475,0 -121.322108,51.700646,0 -121.321888,51.701303,0 -121.321622,51.701757,0 -121.321431,51.701974,0 -121.321286,51.702206,0 -121.31875,51.70505,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Hemlock Valley Rd, in both directions. Ditching at End of Route (1 km north of Sasquatch Mountain Re</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Hemlock Valley Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At End of Route&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:08:43-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.935244,49.379742,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 19 (Island Highway), southbound. Utility work planned between Broughton Campsite Rd and SW M</name>
@@ -433,6 +453,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 97. Road maintenance work between Powder King Rd and Old Hasler Rd for 0.9 km (45 to 46 km s</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Powder King Rd and Old Hasler Rd for 0.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:16:53-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.278038,55.618365,0 -122.27693,55.619138,0 -122.274805,55.620375,0 -122.274461,55.620575,0 -122.272316,55.621361,0 -122.26774,55.622423,0 -122.267681,55.622437,0 -122.267202,55.62254,0 -122.266805,55.622625,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Paving operations at Exit 33: Kensington Ave (Burnaby). </name>
           <description>
         &lt;![CDATA[
@@ -512,6 +553,27 @@
           <Point>
             <coordinates>-123.691282,48.769591,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), eastbound. Maintenance between Mid Avalanche Gates and Overlander F</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Mid Avalanche Gates and Overlander Falls Access for 3.8 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:20:39-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.26213,53.026899,0 -119.261338,53.027464,0 -119.260025,53.0284,0 -119.258158,53.029691,0 -119.257441,53.030116,0 -119.256793,53.030414,0 -119.256235,53.030617,0 -119.255073,53.030947,0 -119.254056,53.031151,0 -119.253122,53.031268,0 -119.251996,53.031411,0 -119.250555,53.031594,0 -119.249123,53.031775,0 -119.242053,53.032672,0 -119.235137,53.033531,0 -119.231994,53.033923,0 -119.231279,53.034012,0 -119.231274,53.034012,0 -119.230422,53.034117,0 -119.228995,53.034287,0 -119.22799,53.034301,0 -119.226832,53.034248,0 -119.225888,53.034138,0 -119.224586,53.033879,0 -119.220638,53.032942,0 -119.218953,53.032639,0 -119.217874,53.032469,0 -119.214549,53.032104,0 -119.212795,53.031911,0 -119.20977,53.031602,0 -119.209364,53.031577,0 -119.208939,53.031552,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Hardy Bay Rd. Utility work planned between Douglas St and Hardy Bay Rd 1 km north of Port Hardy. Sta</name>
@@ -678,6 +740,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 93, in both directions. Construction work between Radium Hill Rd and Stanley St for 3.1 km (</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Radium Hill Rd and Stanley St for 3.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:27:57-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.049264,50.59543,0 -116.050248,50.595759,0 -116.053906,50.596759,0 -116.054068,50.59681,0 -116.054683,50.597004,0 -116.055297,50.597283,0 -116.05595,50.597644,0 -116.056403,50.597977,0 -116.056786,50.598329,0 -116.057126,50.598739,0 -116.057402,50.599201,0 -116.057585,50.59966,0 -116.05772,50.6,0 -116.058053,50.600838,0 -116.058423,50.601769,0 -116.058528,50.602036,0 -116.058902,50.602665,0 -116.059882,50.604045,0 -116.060264,50.604589,0 -116.060702,50.605189,0 -116.061233,50.605944,0 -116.061882,50.606861,0 -116.062523,50.607771,0 -116.063296,50.608835,0 -116.063624,50.609233,0 -116.063893,50.609559,0 -116.065939,50.611677,0 -116.066941,50.612714,0 -116.067126,50.612962,0 -116.06726,50.613142,0 -116.067622,50.613704,0 -116.068022,50.614562,0 -116.068371,50.615477,0 -116.06918,50.617596,0 -116.069558,50.618465,0 -116.069863,50.619054,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 9, northbound. Utility work planned between Bristol Dr and Park St for 0.3 km (Kent). Starti</name>
           <description>
         &lt;![CDATA[
@@ -696,6 +779,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.761669,49.235769,0 -121.761655,49.2358,0 -121.761594,49.238143,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Road sweeping planned between Rowland Rd and Wildwood Dr for 2.4 km</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Rowland Rd and Wildwood Dr for 2.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:32:16-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.838591,54.300625,0 -125.83818,54.300336,0 -125.83769,54.29999,0 -125.836421,54.299095,0 -125.836351,54.299036,0 -125.835776,54.298556,0 -125.835443,54.298199,0 -125.835134,54.297714,0 -125.834982,54.29736,0 -125.834331,54.295126,0 -125.834101,54.294676,0 -125.833716,54.294207,0 -125.833102,54.293317,0 -125.833055,54.293124,0 -125.832936,54.292629,0 -125.832784,54.292001,0 -125.832679,54.291629,0 -125.832526,54.291362,0 -125.832469,54.291287,0 -125.832287,54.291049,0 -125.831918,54.290647,0 -125.830812,54.289443,0 -125.83009,54.288658,0 -125.829215,54.287706,0 -125.829048,54.287524,0 -125.826666,54.284931,0 -125.826252,54.284588,0 -125.825841,54.284294,0 -125.825211,54.283948,0 -125.824559,54.283656,0 -125.824389,54.283602,0 -125.823031,54.283089,0 -125.821952,54.282682,0 -125.821419,54.282455,0 -125.820723,54.282098,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4637,23 +4741,43 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), westbound. Vehicle incident between 224 St and 223 St (Maple Ridge). L</name>
+          <name>Nanaimo River Rd, in both directions. Forest fire at South Forks Rd near Nanaimo. Until Tue Jul 29 a</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Nanaimo River Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At South Forks Rd near Nanaimo&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:11:11-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-124.075987,49.079611,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Downed hydro lines at Exit 32: Steveston Hwy (Richmond). Expect Major delays</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 223 St and 224 St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T06:33:28-07:00&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T07:14:59-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-122.604406,49.213654,0</coordinates>
+            <coordinates>-123.086593,49.133477,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
