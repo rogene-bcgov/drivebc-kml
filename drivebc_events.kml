@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-30 18:42:15 UTC
+        Last updated: 2025-07-30 19:03:40 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (268)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1672,6 +1672,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99. Utility work planned between Texas Creek Road and Split Rock Road 2 km south of Lillooet</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Texas Creek Road and Split Rock Road 2 km south of Lillooet&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T11:43:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.935637,50.673977,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), eastbound. Construction work planned between First Avalanche Gate and</name>
           <description>
         &lt;![CDATA[
@@ -1773,6 +1793,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.6825,50.817227,0 -119.680667,50.818505,0 -119.680114,50.818891,0 -119.679972,50.81899,0 -119.679653,50.819212,0 -119.679248,50.819496,0 -119.677113,50.820985,0 -119.676128,50.821673,0 -119.675784,50.821913,0 -119.675751,50.821936,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector). Utility work planned between Ewing Rd and Carver Rd for 2.4 km (11 t</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Ewing Rd and Carver Rd for 2.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T11:51:08-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.638706,53.501187,0 -122.638697,53.501692,0 -122.638833,53.502261,0 -122.639249,53.502991,0 -122.641434,53.505522,0 -122.642219,53.506434,0 -122.643035,53.507632,0 -122.643327,53.508199,0 -122.643392,53.508324,0 -122.643679,53.508882,0 -122.643948,53.509592,0 -122.644083,53.509949,0 -122.644352,53.510974,0 -122.644369,53.511038,0 -122.64452,53.512043,0 -122.644573,53.514547,0 -122.644577,53.514772,0 -122.64469,53.52202,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5149,27 +5190,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. Vehicle incident between Alice Lake Rd and Daisy Lake Rd for 2.1 km </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Alice Lake Rd and Daisy Lake Rd for 2.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T11:34:11-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.121683,49.809002,0 -123.12156,49.809267,0 -123.12133,49.809991,0 -123.121311,49.810693,0 -123.12148,49.811369,0 -123.122106,49.812928,0 -123.122451,49.813459,0 -123.122785,49.813829,0 -123.123178,49.814131,0 -123.123552,49.814338,0 -123.123868,49.814512,0 -123.12463,49.814773,0 -123.12595,49.815127,0 -123.12663,49.815364,0 -123.127245,49.815665,0 -123.127625,49.815972,0 -123.127947,49.816313,0 -123.128804,49.817722,0 -123.13059,49.820131,0 -123.131146,49.820735,0 -123.132549,49.822046,0 -123.133026,49.822634,0 -123.133516,49.823408,0 -123.133965,49.824464,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 31. Watch for falling rocks between Cascade Creek Mainline and Junction Hwy 23 for 57.5 km (</name>
           <description>
         &lt;![CDATA[
@@ -5521,6 +5541,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.982038,54.950606,0 -122.982097,54.950652,0 -122.982886,54.951184,0 -122.984041,54.95182,0 -122.984211,54.951891,0 -122.987342,54.953188,0 -122.988127,54.953583,0 -122.988667,54.953919,0 -122.989329,54.954392,0 -122.990287,54.955192,0 -122.99154,54.956261,0 -122.991701,54.956398,0 -122.99225,54.956871,0 -122.993616,54.958038,0 -122.994681,54.95895,0 -122.996155,54.960127,0 -122.997544,54.961039,0 -122.997821,54.961221,0 -123.00078,54.962946,0 -123.00136,54.963284,0 -123.002352,54.963895,0 -123.006296,54.96649,0 -123.007027,54.967037,0 -123.007456,54.967404,0 -123.009673,54.969239,0 -123.013928,54.972758,0 -123.014705,54.973313,0 -123.015543,54.973761,0 -123.016653,54.974203,0 -123.017765,54.974528,0 -123.019145,54.974792,0 -123.021731,54.975117,0 -123.022042,54.975155,0 -123.022928,54.975318,0 -123.024282,54.975659,0 -123.025485,54.976079,0 -123.026522,54.976566,0 -123.030095,54.978541,0 -123.03065,54.978907,0 -123.03138,54.979504,0 -123.031989,54.980145,0 -123.032459,54.980823,0 -123.032797,54.981522,0 -123.032993,54.982209,0 -123.033059,54.985209,0 -123.033095,54.986862,0 -123.033096,54.987026,0 -123.033097,54.987276,0 -123.033102,54.988363,0 -123.033106,54.989145,0 -123.033107,54.989264,0 -123.033109,54.98938,0 -123.033145,54.991681,0 -123.033146,54.991719,0 -123.03315,54.991827,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead). Special event planned at Dudley East Bridge in Terrace. Starting Mon Aug 4 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16 (Yellowhead)&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Dudley East Bridge in Terrace&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T11:44:24-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-128.574701,54.511998,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 4A, in both directions. Special event planned between Ford Rd and Station Rd for 0.2 km (7 k</name>
