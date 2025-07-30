@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-30 22:02:08 UTC
+        Last updated: 2025-07-30 22:36:55 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1909,7 +1909,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Bradner Rd for 7.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T12:09:06-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T15:18:12-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3034,6 +3034,26 @@
             <tessellate>1</tessellate>
             <coordinates>-123.718232,48.378944,0 -123.718168,48.378969,0 -123.718092,48.379002,0 -123.717739,48.379159,0 -123.71705,48.379465,0 -123.716087,48.379892,0 -123.715318,48.380094,0 -123.714388,48.380338,0 -123.71237,48.380828,0 -123.711892,48.380996,0 -123.71143,48.381216,0 -123.710582,48.381614,0 -123.709858,48.381956,0 -123.709466,48.382141,0 -123.708325,48.382651,0 -123.708202,48.382706,0 -123.705617,48.383942,0 -123.705264,48.38409,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Holden Corso Rd, in both directions. Utility work planned between Rugg Rd and Barnes Rd. Starting Tu</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Holden Corso Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Rugg Rd and Barnes Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T14:59:31-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.838308,49.115589,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 95, in both directions. Shoulder maintenance between Imler Rd and Mitchell Rd for 11.5 km (1</name>
@@ -5447,7 +5467,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Riverside Rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 233 Riverside Rd and 136 Riverside Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T16:01:54-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T15:19:38-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -5455,47 +5475,6 @@
           <Point>
             <coordinates>-119.082816,50.670853,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 17, westbound. Stalled vehicle between Grace Rd and Highway 91 Connector (Delta). Right lane</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Highway 91 Connector and Grace Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T14:31:02-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.913377,49.177028,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97C (Okanagan Connector), eastbound. There is a wildfire between MacKinnon Rd and Junction H</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97C&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 97 and MacKinnon Rd for 4.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T14:49:41-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.663887,49.805886,0 -119.6632,49.80658,0 -119.66316,49.80662,0 -119.662852,49.806764,0 -119.662679,49.806803,0 -119.662313,49.806828,0 -119.662108,49.806793,0 -119.66176,49.806659,0 -119.661543,49.806467,0 -119.661531,49.80643,0 -119.661443,49.806163,0 -119.661457,49.806028,0 -119.661528,49.805879,0 -119.661907,49.80545,0 -119.662176,49.805253,0 -119.662655,49.804964,0 -119.663468,49.804713,0 -119.664314,49.804595,0 -119.664454,49.804596,0 -119.664915,49.8046,0 -119.665121,49.804608,0 -119.665554,49.804633,0 -119.666624,49.804695,0 -119.66738,49.804678,0 -119.668123,49.804615,0 -119.668808,49.804515,0 -119.674961,49.803273,0 -119.679236,49.802411,0 -119.683341,49.801764,0 -119.68724,49.801152,0 -119.690025,49.800715,0 -119.692054,49.800427,0 -119.693448,49.8003,0 -119.694803,49.800227,0 -119.695234,49.800228,0 -119.695568,49.800228,0 -119.696606,49.800228,0 -119.698265,49.800303,0 -119.700605,49.800568,0 -119.702625,49.800933,0 -119.704346,49.801347,0 -119.706066,49.801871,0 -119.709506,49.80319,0 -119.712694,49.804412,0 -119.713012,49.804512,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97, in both directions. There is a wildfire between Buchanan Rd and Glenrosa Rd for 3.6 km (</name>
@@ -5516,6 +5495,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.704557,49.792596,0 -119.703186,49.793486,0 -119.702908,49.793666,0 -119.702229,49.794107,0 -119.701511,49.7945,0 -119.701427,49.794537,0 -119.700985,49.794734,0 -119.700302,49.794989,0 -119.6995,49.795196,0 -119.697842,49.795534,0 -119.697228,49.795652,0 -119.697079,49.795681,0 -119.696217,49.795847,0 -119.694407,49.796197,0 -119.6924,49.796585,0 -119.691171,49.796822,0 -119.687412,49.797547,0 -119.683953,49.798215,0 -119.683287,49.798307,0 -119.681222,49.798476,0 -119.680724,49.798579,0 -119.680482,49.798652,0 -119.680088,49.798771,0 -119.679561,49.798994,0 -119.678482,49.799645,0 -119.678061,49.79986,0 -119.677691,49.800005,0 -119.677531,49.800068,0 -119.677495,49.800077,0 -119.677042,49.800198,0 -119.676522,49.80029,0 -119.67647,49.800299,0 -119.675908,49.800335,0 -119.673678,49.80036,0 -119.672778,49.800501,0 -119.672102,49.8007,0 -119.671536,49.800926,0 -119.668888,49.802203,0 -119.668679,49.802304,0 -119.668565,49.802359,0 -119.66818,49.802545,0 -119.667153,49.803049,0 -119.666886,49.80318,0 -119.666515,49.803363,0 -119.666396,49.803421,0 -119.666007,49.803687,0 -119.665708,49.803815,0 -119.665376,49.804146,0 -119.665164,49.804339,0 -119.664976,49.804531,0 -119.664915,49.8046,0 -119.663887,49.805886,0 -119.662173,49.808032,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97C (Okanagan Connector), eastbound. There is a wildfire between MacKinnon Rd and Junction H</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97C&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 97 and MacKinnon Rd for 4.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T15:05:35-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.663887,49.805886,0 -119.6632,49.80658,0 -119.66316,49.80662,0 -119.662852,49.806764,0 -119.662679,49.806803,0 -119.662313,49.806828,0 -119.662108,49.806793,0 -119.66176,49.806659,0 -119.661543,49.806467,0 -119.661531,49.80643,0 -119.661443,49.806163,0 -119.661457,49.806028,0 -119.661528,49.805879,0 -119.661907,49.80545,0 -119.662176,49.805253,0 -119.662655,49.804964,0 -119.663468,49.804713,0 -119.664314,49.804595,0 -119.664454,49.804596,0 -119.664915,49.8046,0 -119.665121,49.804608,0 -119.665554,49.804633,0 -119.666624,49.804695,0 -119.66738,49.804678,0 -119.668123,49.804615,0 -119.668808,49.804515,0 -119.674961,49.803273,0 -119.679236,49.802411,0 -119.683341,49.801764,0 -119.68724,49.801152,0 -119.690025,49.800715,0 -119.692054,49.800427,0 -119.693448,49.8003,0 -119.694803,49.800227,0 -119.695234,49.800228,0 -119.695568,49.800228,0 -119.696606,49.800228,0 -119.698265,49.800303,0 -119.700605,49.800568,0 -119.702625,49.800933,0 -119.704346,49.801347,0 -119.706066,49.801871,0 -119.709506,49.80319,0 -119.712694,49.804412,0 -119.713012,49.804512,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
