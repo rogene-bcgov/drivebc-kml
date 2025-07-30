@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-30 14:03:58 UTC
+        Last updated: 2025-07-30 14:37:49 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (258)</name>
+      <name>🚗 Traffic Events (261)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -615,6 +615,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Rose Prairie Rd. Road maintenance work between Montney Rd and Cox Ave. Until Thu Jul 31 at 5:00 PM M</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Rose Prairie Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Montney Rd and Cox Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T07:30:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.835855,56.311433,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>King George Blvd. Utility work between 58 Ave and 60 Ave. Until Fri Aug 1. From 8:00 AM to 4:00 PM P</name>
           <description>
         &lt;![CDATA[
@@ -674,6 +694,26 @@
             <tessellate>1</tessellate>
             <coordinates>-120.775419,56.289759,0 -120.770529,56.288776,0 -120.76961,56.288572,0 -120.769217,56.288503,0 -120.768318,56.288344,0 -120.767334,56.288224,0 -120.765004,56.287939,0 -120.764643,56.287895,0 -120.764322,56.287825,0 -120.763961,56.287747,0 -120.763407,56.287572,0 -120.762867,56.287316,0 -120.762501,56.287079,0 -120.761506,56.286258,0 -120.760732,56.285794,0 -120.757804,56.284459,0 -120.757122,56.284193,0 -120.757036,56.284165,0 -120.756996,56.284152,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 43, northbound. Shoulder maintenance at Matevic Rd (Sparwood). Until Fri Aug 1. From 8:00 AM</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 43&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Matevic Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T07:14:26-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-114.88621,49.7496,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 9, northbound. Utility work planned between Bristol Dr and Park St for 0.3 km (Kent). Starti</name>
@@ -3937,7 +3977,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 266 St and 287 St for 3.9 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-28T11:33:41-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T07:32:24-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4803,26 +4843,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 37: Gaglardi Way and Exit </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T06:32:50-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.93515,49.236426,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>265 Road. Bridge damaged between 214 and 216 near Dawson Creek. Road closed. Detour in effect. Pleas</name>
           <description>
         &lt;![CDATA[
@@ -4840,6 +4860,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-120.845242,55.843217,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Exit 37: Gaglardi Way and Exit 33: </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T07:19:21-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.93515,49.236426,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4880,6 +4920,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.509989,53.074138,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Exit 21: Mountain Hwy and Exit 1</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 19: Lynn Valley Rd and Exit 21: Mountain Hwy&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T07:18:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.049423,49.326492,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
