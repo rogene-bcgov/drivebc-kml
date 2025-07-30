@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-30 00:07:35 UTC
+        Last updated: 2025-07-30 00:46:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (270)</name>
+      <name>🚗 Traffic Events (268)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -922,27 +922,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.574886,54.061108,0 -124.57434,54.061106,0 -124.572567,54.061098,0 -124.572124,54.061097,0 -124.569709,54.061093,0 -124.569323,54.061092,0 -124.566995,54.061088,0 -124.563859,54.061064,0 -124.562664,54.061056,0 -124.562021,54.061052,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Utility work between Exit 14: Capilano Rd and Exit 13 fo</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 13 and Exit 14: Capilano Rd for 1.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T21:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.13485,49.337625,0 -123.13468,49.337613,0 -123.13432,49.337606,0 -123.131149,49.337552,0 -123.130549,49.337498,0 -123.130406,49.337477,0 -123.129609,49.33736,0 -123.128894,49.337162,0 -123.12773,49.336698,0 -123.127018,49.336317,0 -123.126851,49.336219,0 -123.126815,49.336197,0 -123.121352,49.332984,0 -123.121029,49.33283,0 -123.120609,49.332681,0 -123.12001,49.332563,0 -123.119691,49.332533,0 -123.119076,49.332516,0 -123.119065,49.332516,0 -123.118594,49.332511,0 -123.118424,49.332496,0 -123.11746,49.332497,0 -123.117181,49.332497,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -2017,26 +1996,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.535256,49.413882,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Marine Dr, in both directions. Utility work between Taylor Way and Capilano Road near West Vancouver</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Marine Dr&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Taylor Way and Capilano Road near West Vancouver&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T16:33:41-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.134549,49.327119,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -3470,6 +3429,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.032068,49.305743,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Marine Dr. Utility work planned between Taylor Way and Capilano Road. Starting Tue Jul 29 at 9:00 PM</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Marine Dr&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Taylor Way and Capilano Road&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T17:28:11-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.133811,49.327253,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5434,26 +5413,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.50468,48.818979,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between 248 St and Exit 73 (Langley - Di</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Exit 73&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T16:55:17-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.524713,49.113847,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
