@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-30 07:05:10 UTC
+        Last updated: 2025-07-30 07:36:49 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -123,6 +123,26 @@
       <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Construction Events</name>
+        <Placemark>
+          <name>Highway 99, southbound. Road maintenance work between Exit 28 and Exit 26 (Delta). Until Wed Jul 30 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 26 and Exit 28&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T00:22:57-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.044475,49.102744,0</coordinates>
+          </Point>
+        </Placemark>
         <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Road construction work between Lasalle Lake Acc</name>
           <description>
@@ -2683,27 +2703,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.718232,48.378944,0 -123.718168,48.378969,0 -123.718092,48.379002,0 -123.717739,48.379159,0 -123.71705,48.379465,0 -123.716087,48.379892,0 -123.715318,48.380094,0 -123.714388,48.380338,0 -123.71237,48.380828,0 -123.711892,48.380996,0 -123.71143,48.381216,0 -123.710582,48.381614,0 -123.709858,48.381956,0 -123.709466,48.382141,0 -123.708325,48.382651,0 -123.708202,48.382706,0 -123.705617,48.383942,0 -123.705264,48.38409,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 19A (Island Highway), in both directions. Electrical maintenance between Wright Rd and Johns</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Wright Rd and Johnstone Rd for 2.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T19:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.353359,49.339814,0 -124.353584,49.340015,0 -124.355099,49.341367,0 -124.358645,49.344549,0 -124.359001,49.344864,0 -124.360022,49.345766,0 -124.360895,49.346534,0 -124.361472,49.347041,0 -124.361813,49.347262,0 -124.361882,49.347307,0 -124.362335,49.347531,0 -124.362429,49.347569,0 -124.362823,49.34773,0 -124.363928,49.348057,0 -124.364171,49.348129,0 -124.364504,49.348228,0 -124.364951,49.34836,0 -124.367245,49.349041,0 -124.367848,49.349185,0 -124.368717,49.349314,0 -124.369415,49.34933,0 -124.369949,49.349289,0 -124.370407,49.349203,0 -124.371156,49.348996,0 -124.373139,49.34821,0 -124.373573,49.348038,0 -124.376575,49.346846,0 -124.376628,49.346824,0 -124.376795,49.346759,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
