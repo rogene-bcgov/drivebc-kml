@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-31 02:20:10 UTC
+        Last updated: 2025-07-31 03:09:18 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (277)</name>
+      <name>🚗 Traffic Events (280)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -809,7 +809,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Szoo Rd and Cache Creek Bridge for 7.9 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T16:27:21-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T20:02:24-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5134,6 +5134,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Kootenay Lake Ferry, in both directions. Possible ferry delays between Kootenay Lake Ferry and the e</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Kootenay Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Kootenay Lake Ferry and the end of Kootenay Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T19:27:57-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-116.913048,49.65115,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Constructio</name>
           <description>
         &lt;![CDATA[
@@ -5154,6 +5174,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Vehicle incident between Welch St and Lions Gate Bridge (West Vancouver). Ce</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Lions Gate Bridge and Welch St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T19:33:09-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.136201,49.31792,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Cave Road, in both directions. Landslide at Cave Road. Road closed. Landslide on Cave Road. Next upd</name>
           <description>
         &lt;![CDATA[
@@ -5171,6 +5211,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.509989,53.074138,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1A, in both directions. Vehicle incident at Porter Rd (2 km south of Ladysmith). Downed hydr</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Porter Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T19:41:06-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.769519,48.960709,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5212,6 +5272,27 @@
           <Point>
             <coordinates>-122.479074,53.155476,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, in both directions. There is a wildfire between Buchanan Rd and Junction Hwy 97C for 3.3</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Buchanan Rd and Junction Hwy 97C for 3.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T20:03:19-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.704557,49.792596,0 -119.703186,49.793486,0 -119.702908,49.793666,0 -119.702229,49.794107,0 -119.701511,49.7945,0 -119.701427,49.794537,0 -119.700985,49.794734,0 -119.700302,49.794989,0 -119.6995,49.795196,0 -119.697842,49.795534,0 -119.697228,49.795652,0 -119.697079,49.795681,0 -119.696217,49.795847,0 -119.694407,49.796197,0 -119.6924,49.796585,0 -119.691171,49.796822,0 -119.687412,49.797547,0 -119.683953,49.798215,0 -119.683287,49.798307,0 -119.681222,49.798476,0 -119.680724,49.798579,0 -119.680482,49.798652,0 -119.680088,49.798771,0 -119.679561,49.798994,0 -119.678482,49.799645,0 -119.678061,49.79986,0 -119.677691,49.800005,0 -119.677531,49.800068,0 -119.677495,49.800077,0 -119.677042,49.800198,0 -119.676522,49.80029,0 -119.67647,49.800299,0 -119.675908,49.800335,0 -119.673678,49.80036,0 -119.672778,49.800501,0 -119.672102,49.8007,0 -119.671536,49.800926,0 -119.668888,49.802203,0 -119.668679,49.802304,0 -119.668565,49.802359,0 -119.66818,49.802545,0 -119.667153,49.803049,0 -119.666886,49.80318,0 -119.666515,49.803363,0 -119.666396,49.803421,0 -119.666007,49.803687,0 -119.665708,49.803815,0 -119.665376,49.804146,0 -119.665164,49.804339,0 -119.664976,49.804531,0 -119.664915,49.8046,0 -119.664134,49.805576,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave (14 km east of East Boundary of Glacie</name>
@@ -5429,7 +5510,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Riverside Rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 233 Riverside Rd and 136 Riverside Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T15:19:38-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T20:01:09-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -5437,27 +5518,6 @@
           <Point>
             <coordinates>-119.082816,50.670853,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97, in both directions. There is a wildfire between Buchanan Rd and Glenrosa Rd for 3.6 km (</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Buchanan Rd and Glenrosa Rd for 3.6 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T18:00:54-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.704557,49.792596,0 -119.703186,49.793486,0 -119.702908,49.793666,0 -119.702229,49.794107,0 -119.701511,49.7945,0 -119.701427,49.794537,0 -119.700985,49.794734,0 -119.700302,49.794989,0 -119.6995,49.795196,0 -119.697842,49.795534,0 -119.697228,49.795652,0 -119.697079,49.795681,0 -119.696217,49.795847,0 -119.694407,49.796197,0 -119.6924,49.796585,0 -119.691171,49.796822,0 -119.687412,49.797547,0 -119.683953,49.798215,0 -119.683287,49.798307,0 -119.681222,49.798476,0 -119.680724,49.798579,0 -119.680482,49.798652,0 -119.680088,49.798771,0 -119.679561,49.798994,0 -119.678482,49.799645,0 -119.678061,49.79986,0 -119.677691,49.800005,0 -119.677531,49.800068,0 -119.677495,49.800077,0 -119.677042,49.800198,0 -119.676522,49.80029,0 -119.67647,49.800299,0 -119.675908,49.800335,0 -119.673678,49.80036,0 -119.672778,49.800501,0 -119.672102,49.8007,0 -119.671536,49.800926,0 -119.668888,49.802203,0 -119.668679,49.802304,0 -119.668565,49.802359,0 -119.66818,49.802545,0 -119.667153,49.803049,0 -119.666886,49.80318,0 -119.666515,49.803363,0 -119.666396,49.803421,0 -119.666007,49.803687,0 -119.665708,49.803815,0 -119.665376,49.804146,0 -119.665164,49.804339,0 -119.664976,49.804531,0 -119.664915,49.8046,0 -119.663887,49.805886,0 -119.662173,49.808032,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97C (Okanagan Connector), eastbound. There is a wildfire between Aspen Grove and Junction Hw</name>
@@ -5564,7 +5624,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. There is a multi-vehicle incident between Second Narrows</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between Second Narrows Bridge and Exit 25: </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5574,7 +5634,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Second Narrows Bridge and Exit 25: McGill St for 0.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T19:08:04-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T20:03:19-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5849,7 +5909,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 20&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Olsen Dr and Sawmill Creek Rd for 214.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T16:28:14-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T20:02:59-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
