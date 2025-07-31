@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-07-31 13:14:03 UTC
+        Last updated: 2025-07-31 13:42:50 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (264)</name>
+      <name>🚗 Traffic Events (267)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1235,6 +1235,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 5, in both directions. Bridge maintenance planned between Clemina Overhead Bridge and Clemin</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Clemina Overhead Bridge and Clemina Overhead Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-31T06:12:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.110969,52.602815,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Illecillewaet Brake C</name>
           <description>
         &lt;![CDATA[
@@ -1338,6 +1358,26 @@
             <tessellate>1</tessellate>
             <coordinates>-123.80556,49.468115,0 -123.805219,49.468173,0 -123.804663,49.468371,0 -123.804457,49.468444,0 -123.803535,49.468772,0 -123.803101,49.468831,0 -123.80264,49.468835,0 -123.801396,49.468645,0 -123.801091,49.468596,0 -123.799512,49.468358,0 -123.798481,49.468109,0 -123.796423,49.467411,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Maintenance at Moyie Aldridge Bridge (3 km west of Moyie). Until Thu </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Moyie Aldridge Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-31T06:30:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-115.852152,49.258709,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 7 (Lougheed Highway), in both directions. Roadside brushing between Bodnar Rd and Ashton Rd </name>
@@ -5065,6 +5105,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.418333,52.868329,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 11, northbound. Vehicle incident between Clayburn Rd and Townshipline Rd (Abbotsford). Road </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Clayburn Rd and Townshipline Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-31T06:08:14-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.285503,49.08347,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
