@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-01 19:31:47 UTC
+        Last updated: 2025-08-01 20:01:53 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (248)</name>
+      <name>🚗 Traffic Events (255)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2984,7 +2984,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Illecillewaet Brake Check and MacDonald Snowshed for 3.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:17:51-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:39:08-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3012,6 +3012,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.088138,49.331915,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned at Grandview Highway (Burnaby)</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Grandview Highway&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:28:08-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.01758,49.257479,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -3140,6 +3160,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1A, eastbound. Bridge construction planned at Pattullo Bridge (New Westminster). Starting Tu</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Pattullo Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:31:15-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.894618,49.207727,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Construction work between Second Avalanche Gate a</name>
           <description>
         &lt;![CDATA[
@@ -3179,6 +3219,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.710076,50.316556,0 -122.709002,50.316341,0 -122.70796,50.316133,0 -122.707891,50.316131,0 -122.707465,50.316117,0 -122.707154,50.316158,0 -122.705382,50.316332,0 -122.705036,50.316357,0 -122.704715,50.316413,0 -122.703207,50.316861,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned between Exit 29: Willingdon Av</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Grandview Highway and Exit 29: Willingdon Ave for 1.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:36:28-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.01758,49.257479,0 -123.017062,49.257409,0 -123.01668,49.257384,0 -123.016427,49.257378,0 -123.016158,49.25738,0 -123.015962,49.257388,0 -123.015787,49.257396,0 -123.015539,49.257414,0 -123.01517,49.257444,0 -123.0146,49.257493,0 -123.013485,49.257579,0 -123.013158,49.257595,0 -123.012748,49.257602,0 -123.012009,49.2576,0 -123.008426,49.257566,0 -123.006559,49.257548,0 -123.005673,49.257539,0 -123.004948,49.257533,0 -123.004186,49.257528,0 -123.003967,49.257525,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3325,6 +3386,27 @@
           <Point>
             <coordinates>-122.266428,49.033355,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla North), northbound. Road maintenance work between Inks Lake Rd and Exit 362: A</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Inks Lake Rd and Exit 362: Afton Interchange for 2.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:47:11-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.464191,50.661805,0 -120.463218,50.662259,0 -120.463025,50.662349,0 -120.462441,50.662622,0 -120.461475,50.663074,0 -120.460908,50.66334,0 -120.458197,50.664608,0 -120.457196,50.664996,0 -120.456892,50.665114,0 -120.45644,50.665289,0 -120.456094,50.665399,0 -120.455285,50.665655,0 -120.454338,50.665894,0 -120.452785,50.666204,0 -120.450732,50.666461,0 -120.449691,50.666539,0 -120.447345,50.666558,0 -120.442304,50.666301,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 13, in both directions. Construction work planned between 48 Ave and 56 Ave for 1.6 km (Lang</name>
@@ -4914,6 +4996,68 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.5447,50.065626,0 -121.544709,50.065732,0 -121.544833,50.066274,0 -121.545549,50.068325,0 -121.546652,50.073234,0 -121.547042,50.075028,0 -121.547232,50.075445,0 -121.547265,50.075482,0 -121.547479,50.075722,0 -121.547726,50.075887,0 -121.547865,50.07598,0 -121.548755,50.076412,0 -121.54962,50.077144,0 -121.549644,50.077161,0 -121.550111,50.077576,0 -121.550897,50.079157,0 -121.551446,50.081137,0 -121.551453,50.081161,0 -121.552253,50.083121,0 -121.553347,50.084746,0 -121.553712,50.085138,0 -121.554359,50.085678,0 -121.554889,50.086407,0 -121.555545,50.087581,0 -121.555944,50.088903,0 -121.556184,50.091182,0 -121.556145,50.091651,0 -121.555872,50.09267,0 -121.555844,50.092773,0 -121.555671,50.093419,0 -121.555664,50.093568,0 -121.55565,50.093874,0 -121.555727,50.094175,0 -121.555896,50.094842,0 -121.555926,50.095321,0 -121.555813,50.095763,0 -121.555236,50.096753,0 -121.555179,50.097379,0 -121.555378,50.097803,0 -121.556129,50.098757,0 -121.556871,50.099701,0 -121.557029,50.1,0 -121.557219,50.100361,0 -121.557526,50.100943,0 -121.55786,50.101898,0 -121.558238,50.104053,0 -121.558387,50.105396,0 -121.558585,50.105841,0 -121.558641,50.105912,0 -121.55876,50.106064,0 -121.558853,50.106181,0 -121.560193,50.107171,0 -121.5606,50.107646,0 -121.561016,50.108487,0 -121.561388,50.109476,0 -121.561394,50.110062,0 -121.561339,50.11033,0 -121.56121,50.110949,0 -121.561116,50.111406,0 -121.561181,50.111926,0 -121.561616,50.112996,0 -121.561724,50.113475,0 -121.561707,50.113961,0 -121.56159,50.114339,0 -121.561361,50.114752,0 -121.55884,50.117839,0 -121.558716,50.117992,0 -121.558373,50.118486,0 -121.557893,50.119371,0 -121.557797,50.119651,0 -121.55754,50.120398,0 -121.557393,50.121334,0 -121.557381,50.121948,0 -121.557377,50.122138,0 -121.557507,50.123113,0 -121.557544,50.123238,0 -121.557691,50.123732,0 -121.55797,50.124262,0 -121.558099,50.124505,0 -121.558513,50.12504,0 -121.559372,50.125957,0 -121.559698,50.126496,0 -121.559971,50.127542,0 -121.560173,50.128317,0 -121.560477,50.128894,0 -121.560755,50.129251,0 -121.560915,50.129455,0 -121.561459,50.129987,0 -121.562159,50.130493,0 -121.563005,50.130963,0 -121.563562,50.131193,0 -121.565658,50.131912,0 -121.566404,50.132284,0 -121.567131,50.132772,0 -121.567337,50.132965,0 -121.568054,50.133639,0 -121.568138,50.133717,0 -121.570194,50.135715,0 -121.570912,50.136573,0 -121.571262,50.13711,0 -121.571332,50.137261,0 -121.571401,50.137411,0 -121.571509,50.137641,0 -121.571711,50.138083,0 -121.571882,50.138657,0 -121.571992,50.139367,0 -121.571991,50.141893,0 -121.571835,50.142532,0 -121.57141,50.143567,0 -121.571292,50.144252,0 -121.571407,50.144681,0 -121.571455,50.144865,0 -121.571519,50.145113,0 -121.572612,50.146746,0 -121.572827,50.147358,0 -121.573077,50.148066,0 -121.573195,50.1484,0 -121.573243,50.148538,0 -121.57358,50.149105,0 -121.574058,50.149631,0 -121.574745,50.150178,0 -121.574953,50.150305,0 -121.576207,50.151074,0 -121.576861,50.151588,0 -121.577517,50.152375,0 -121.577805,50.153092,0 -121.578332,50.155387,0 -121.578503,50.156989,0 -121.578761,50.160671,0 -121.578811,50.161384,0 -121.57874,50.161849,0 -121.578227,50.162799,0 -121.577883,50.164072,0 -121.577738,50.164609,0 -121.576741,50.167205,0 -121.57629,50.168378,0 -121.576037,50.169035,0 -121.575966,50.169283,0 -121.575531,50.170787,0 -121.57516,50.172265,0 -121.57497,50.173022,0 -121.575032,50.173468,0 -121.575253,50.175069,0 -121.575234,50.175477,0 -121.575207,50.175568,0 -121.57511,50.175897,0 -121.574785,50.176458,0 -121.572796,50.178348,0 -121.572693,50.178446,0 -121.5724,50.178791,0 -121.572261,50.179006,0 -121.572148,50.17933,0 -121.572152,50.179595,0 -121.572153,50.179668,0 -121.572446,50.180707,0 -121.572417,50.181145,0 -121.572127,50.182016,0 -121.57213,50.182203,0 -121.572135,50.182514,0 -121.572563,50.183774,0 -121.57298,50.185676,0 -121.573043,50.185963,0 -121.573075,50.186108,0 -121.573205,50.186758,0 -121.573283,50.187153,0 -121.57332,50.187401,0 -121.573383,50.187877,0 -121.573376,50.188273,0 -121.573034,50.189443,0 -121.572948,50.190111,0 -121.572956,50.190649,0 -121.572969,50.191481,0 -121.573093,50.196006,0 -121.573102,50.196624,0 -121.573103,50.196651,0 -121.573173,50.197352,0 -121.573204,50.197659,0 -121.573235,50.197974,0 -121.57325,50.19812,0 -121.573309,50.198594,0 -121.573486,50.199999,0 -121.573617,50.201044,0 -121.5736,50.201809,0 -121.573451,50.203147,0 -121.573645,50.203967,0 -121.573673,50.204037,0 -121.573939,50.204712,0 -121.574255,50.205514,0 -121.574465,50.207189,0 -121.574502,50.207308,0 -121.574604,50.207622,0 -121.574728,50.207882,0 -121.574796,50.208025,0 -121.574935,50.208264,0 -121.575176,50.208679,0 -121.575407,50.209171,0 -121.575488,50.209683,0 -121.575407,50.210221,0 -121.575269,50.211082,0 -121.575217,50.211405,0 -121.575196,50.212238,0 -121.575217,50.213499,0 -121.575036,50.214682,0 -121.575033,50.214704,0 -121.575041,50.215788,0 -121.575043,50.216041,0 -121.574683,50.217243,0 -121.574595,50.217536,0 -121.574506,50.218339,0 -121.574539,50.218862,0 -121.574647,50.219379,0 -121.574921,50.220269,0 -121.575247,50.221146,0 -121.575748,50.22208,0 -121.575966,50.222361,0 -121.576478,50.223023,0 -121.57666,50.223514,0 -121.576723,50.223682,0 -121.576908,50.224302,0 -121.577128,50.225513,0 -121.577262,50.225959,0 -121.577316,50.226137,0 -121.577336,50.226184,0 -121.577536,50.226664,0 -121.57843,50.228347,0 -121.578689,50.228939,0 -121.578767,50.229437,0 -121.578751,50.229643,0 -121.578698,50.230043,0 -121.578433,50.23067,0 -121.576843,50.234444,0 -121.576823,50.234478,0 -121.576673,50.234749,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla North), southbound. Vehicle incident between Inks Lake Rd and Chuwhels Mountai</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Chuwhels Mountain Rd and Inks Lake Rd for 12.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:33:16-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.483568,50.520965,0 -120.483335,50.521522,0 -120.482755,50.52302,0 -120.481392,50.52623,0 -120.480967,50.527222,0 -120.480034,50.529397,0 -120.479227,50.530745,0 -120.478592,50.531592,0 -120.47784,50.532425,0 -120.477289,50.532964,0 -120.47577,50.53421,0 -120.474743,50.53487,0 -120.473331,50.535683,0 -120.471832,50.536415,0 -120.468238,50.538006,0 -120.462556,50.540521,0 -120.462204,50.540721,0 -120.461087,50.541354,0 -120.46002,50.542053,0 -120.458713,50.543119,0 -120.45776,50.544018,0 -120.457159,50.544689,0 -120.456652,50.545256,0 -120.453945,50.548376,0 -120.452853,50.549691,0 -120.451011,50.551908,0 -120.450417,50.552703,0 -120.450037,50.553306,0 -120.44956,50.554325,0 -120.449384,50.554701,0 -120.449331,50.554868,0 -120.449117,50.555535,0 -120.448847,50.557329,0 -120.448857,50.557579,0 -120.44886,50.557673,0 -120.448888,50.558397,0 -120.449136,50.559739,0 -120.449679,50.561649,0 -120.450533,50.564747,0 -120.450877,50.565635,0 -120.451254,50.566369,0 -120.451918,50.567281,0 -120.452766,50.568118,0 -120.453441,50.568645,0 -120.454671,50.569411,0 -120.457016,50.570693,0 -120.457801,50.571122,0 -120.458576,50.571638,0 -120.458826,50.571842,0 -120.459449,50.572347,0 -120.460256,50.573216,0 -120.460911,50.574161,0 -120.461627,50.575655,0 -120.462295,50.577051,0 -120.462701,50.577783,0 -120.463151,50.578385,0 -120.463187,50.578423,0 -120.463738,50.579018,0 -120.46455,50.579794,0 -120.465919,50.581016,0 -120.469164,50.583985,0 -120.470494,50.585202,0 -120.475137,50.58945,0 -120.475794,50.590136,0 -120.476349,50.590834,0 -120.476757,50.591504,0 -120.477101,50.59221,0 -120.477327,50.59292,0 -120.477451,50.593456,0 -120.477542,50.594271,0 -120.477538,50.594485,0 -120.477531,50.594799,0 -120.477379,50.59586,0 -120.476283,50.600007,0 -120.475675,50.602304,0 -120.475281,50.603663,0 -120.47188,50.616176,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Upper Arrow Lake Ferry, in both directions. 1 sailing wait between Shelter Bay and Galena Bay. Curre</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Shelter Bay and Galena Bay&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:44:27-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-117.899603,50.629011,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, southbound. Road cleared between Exit 6: 72 Ave and Exit 4: Kittson Pky for 1.6 km (Delt</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 6: 72 Ave and Exit 4: Kittson Pky for 1.6 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:51:51-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.928994,49.134119,0 -122.928832,49.133641,0 -122.928669,49.133064,0 -122.928501,49.131102,0 -122.928324,49.129038,0 -122.927858,49.122358,0 -122.927775,49.121707,0 -122.927731,49.121365,0 -122.927727,49.121333,0 -122.927387,49.120153,0 -122.927017,49.119482,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
