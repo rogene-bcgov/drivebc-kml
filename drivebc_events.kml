@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-01 00:08:02 UTC
+        Last updated: 2025-08-01 00:49:46 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (273)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4527,6 +4527,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Paving operations between Hill St and Richmond Loop Rd for 0.2 km (</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Hill St and Richmond Loop Rd for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-31T17:21:14-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.754131,54.224877,0 -125.754104,54.224868,0 -125.752973,54.224466,0 -125.752337,54.224255,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Pacific Marine Road, in both directions. Road construction work between Deering Road and South Shore</name>
           <description>
         &lt;![CDATA[
@@ -5494,26 +5515,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 55: 192 St and Exit 58: 20</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 55: 192 St and Exit 58: 200 St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-31T16:20:26-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.672575,49.165043,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Needles Ferry, in both directions. 3 sailing wait between Needles Ferry and Needles Ferry (Needles).</name>
           <description>
         &lt;![CDATA[
@@ -5532,6 +5533,67 @@
           <Point>
             <coordinates>-118.089497,49.872935,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Road cleared at Lions Gate Bridge (West Vancouver). Last updated Thu Jul 31 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Lions Gate Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-31T17:35:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.13737,49.31659,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>GARNER ROAD. Vehicle fire between WEST FRASER ROAD and CAMILLE ROAD. Single lane alternating traffic</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; GARNER ROAD&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between WEST FRASER ROAD and CAMILLE ROAD&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-31T17:25:34-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.474356,52.876994,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19A (Island Highway), in both directions. Vehicle incident between Stelling Rd and Cougar Sm</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Stelling Rd and Cougar Smith Rd for 1.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-31T17:43:33-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.809512,49.488674,0 -124.809844,49.488993,0 -124.810458,49.489512,0 -124.810974,49.489844,0 -124.811274,49.489992,0 -124.811587,49.49014,0 -124.812051,49.490337,0 -124.813594,49.49082,0 -124.813851,49.490901,0 -124.814181,49.491017,0 -124.814972,49.491294,0 -124.81596,49.491774,0 -124.816565,49.492118,0 -124.817629,49.492863,0 -124.819283,49.494174,0 -124.819667,49.494506,0 -124.819751,49.494579,0 -124.82071,49.495576,0 -124.820848,49.49572,0 -124.820961,49.495837,0 -124.821491,49.496414,0 -124.822255,49.497245,0 -124.822433,49.49744,0 -124.822956,49.498091,0 -124.823293,49.49851,0 -124.82342,49.498809,0 -124.823428,49.499125,0 -124.823435,49.499378,0 -124.823452,49.500003,0 -124.823457,49.500192,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 4, in both directions. There is a wildfire between Beaufort Picnic Site and Chalet Rd (4 km </name>
