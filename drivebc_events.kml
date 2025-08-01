@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-01 20:01:53 UTC
+        Last updated: 2025-08-01 20:36:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (255)</name>
+      <name>🚗 Traffic Events (257)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2809,26 +2809,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 37A, eastbound. Pothole repair between Hyder and Vancouver St (Stewart). Single lane alterna</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 37A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Hyder and Vancouver St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:10:19-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-130.008247,55.92512,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Utility work between Junction Hwy 3A and Devon St</name>
           <description>
         &lt;![CDATA[
@@ -2889,6 +2869,26 @@
             <tessellate>1</tessellate>
             <coordinates>-123.718232,48.378944,0 -123.718168,48.378969,0 -123.718092,48.379002,0 -123.717739,48.379159,0 -123.71705,48.379465,0 -123.716087,48.379892,0 -123.715318,48.380094,0 -123.714388,48.380338,0 -123.71237,48.380828,0 -123.711892,48.380996,0 -123.71143,48.381216,0 -123.710582,48.381614,0 -123.709858,48.381956,0 -123.709466,48.382141,0 -123.708325,48.382651,0 -123.708202,48.382706,0 -123.705617,48.383942,0 -123.705264,48.38409,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 37A, eastbound. Pothole repair between Hyder and Vancouver St (Stewart). Watch for traffic c</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 37A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Hyder and Vancouver St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T13:16:22-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-130.008247,55.92512,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Holden Corso Rd, in both directions. Utility work planned between Rugg Rd and Barnes Rd. Starting Tu</name>
@@ -5040,27 +5040,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91, southbound. Road cleared between Exit 6: 72 Ave and Exit 4: Kittson Pky for 1.6 km (Delt</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 6: 72 Ave and Exit 4: Kittson Pky for 1.6 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T12:51:51-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.928994,49.134119,0 -122.928832,49.133641,0 -122.928669,49.133064,0 -122.928501,49.131102,0 -122.928324,49.129038,0 -122.927858,49.122358,0 -122.927775,49.121707,0 -122.927731,49.121365,0 -122.927727,49.121333,0 -122.927387,49.120153,0 -122.927017,49.119482,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt </name>
           <description>
         &lt;![CDATA[
@@ -5078,6 +5057,68 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.50468,48.818979,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle recovery planned between Taft OH Bridge</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Taft OH Bridge and Enchanted Forest Ftg Rd for 6.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T13:17:39-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.647489,50.998255,0 -118.645903,50.997421,0 -118.644936,50.996807,0 -118.644583,50.996521,0 -118.644395,50.996369,0 -118.644085,50.996118,0 -118.643717,50.99582,0 -118.642892,50.995151,0 -118.641447,50.993982,0 -118.638078,50.991275,0 -118.637307,50.990656,0 -118.636533,50.990034,0 -118.635518,50.989218,0 -118.6345,50.98863,0 -118.63335,50.988155,0 -118.631316,50.987416,0 -118.630742,50.987161,0 -118.6301,50.986816,0 -118.629948,50.986735,0 -118.62942,50.986375,0 -118.627917,50.985134,0 -118.627498,50.984852,0 -118.627314,50.984728,0 -118.626505,50.984335,0 -118.625387,50.983928,0 -118.624428,50.98372,0 -118.62305,50.983531,0 -118.621903,50.983374,0 -118.621076,50.983216,0 -118.62044,50.983034,0 -118.618637,50.982434,0 -118.617289,50.981985,0 -118.61629,50.981587,0 -118.61607,50.981466,0 -118.615649,50.981236,0 -118.615364,50.981079,0 -118.614639,50.980552,0 -118.61429,50.980215,0 -118.612596,50.978579,0 -118.612525,50.978511,0 -118.611978,50.978086,0 -118.611788,50.977967,0 -118.611398,50.97772,0 -118.610721,50.977376,0 -118.610561,50.977295,0 -118.608603,50.97656,0 -118.607885,50.97629,0 -118.607532,50.976094,0 -118.606598,50.975575,0 -118.606123,50.975311,0 -118.605281,50.974843,0 -118.604504,50.974492,0 -118.604096,50.974333,0 -118.603838,50.974233,0 -118.602793,50.973906,0 -118.601957,50.97371,0 -118.59999,50.973451,0 -118.598236,50.97322,0 -118.597333,50.972981,0 -118.596849,50.972794,0 -118.595744,50.972366,0 -118.594905,50.972116,0 -118.590278,50.971183,0 -118.589554,50.971076,0 -118.588823,50.971018,0 -118.587874,50.971002,0 -118.585239,50.970957,0 -118.582033,50.970822,0 -118.577741,50.970545,0 -118.577418,50.970506,0 -118.576986,50.970454,0 -118.574455,50.96993,0 -118.573749,50.969842,0 -118.572986,50.969806,0 -118.572125,50.969829,0 -118.571617,50.969876,0 -118.571266,50.969908,0 -118.570704,50.970016,0 -118.570424,50.97007,0 -118.569341,50.970368,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle recovery planned between Three Valley Siding Rd </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Three Valley Siding Rd and Three Valley Frtg Rd for 4.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T13:17:25-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.482274,50.943368,0 -118.482673,50.942784,0 -118.482725,50.942701,0 -118.482858,50.942492,0 -118.483084,50.942133,0 -118.483442,50.94154,0 -118.483578,50.941099,0 -118.483606,50.941009,0 -118.483646,50.940674,0 -118.483621,50.939751,0 -118.483598,50.938908,0 -118.4837,50.938293,0 -118.483703,50.938284,0 -118.483899,50.937774,0 -118.484418,50.936827,0 -118.484484,50.936707,0 -118.484621,50.936276,0 -118.484624,50.936264,0 -118.484612,50.935763,0 -118.484543,50.935585,0 -118.48439,50.935187,0 -118.483485,50.93392,0 -118.482774,50.932925,0 -118.481779,50.931536,0 -118.481293,50.931122,0 -118.481185,50.93106,0 -118.480238,50.930529,0 -118.476606,50.928487,0 -118.476124,50.928246,0 -118.475866,50.928118,0 -118.475708,50.928038,0 -118.474987,50.927814,0 -118.474686,50.927757,0 -118.474009,50.927678,0 -118.473954,50.927672,0 -118.473355,50.927679,0 -118.473145,50.927681,0 -118.472402,50.927735,0 -118.470459,50.927916,0 -118.467881,50.928154,0 -118.465271,50.928396,0 -118.463347,50.928574,0 -118.463205,50.928588,0 -118.461627,50.928734,0 -118.460965,50.928851,0 -118.460308,50.929029,0 -118.45849,50.929767,0 -118.457757,50.930013,0 -118.451868,50.931435,0 -118.449699,50.931791,0 -118.449647,50.9318,0 -118.448653,50.932043,0 -118.447861,50.932298,0 -118.447136,50.932601,0 -118.445748,50.933278,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Needles Ferry, eastbound. 3 sailing wait between Needles Ferry and the end of Needles Ferry (Needles</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Needles Ferry and the end of Needles Ferry&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T13:33:04-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.09743,49.874179,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
