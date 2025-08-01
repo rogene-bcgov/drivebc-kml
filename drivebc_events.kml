@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-01 16:40:25 UTC
+        Last updated: 2025-08-01 17:03:55 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (256)</name>
+      <name>🚗 Traffic Events (257)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -714,6 +714,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.761669,49.235769,0 -121.761655,49.2358,0 -121.761594,49.238143,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, in both directions. Blasting planned between McMurphy Station Rd and Wire Cache Rest Area</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between McMurphy Station Rd and Wire Cache Rest Area for 4.8 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T09:43:28-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.494626,51.669477,0 -119.494003,51.669461,0 -119.493506,51.669448,0 -119.483138,51.669179,0 -119.482553,51.669164,0 -119.481667,51.669199,0 -119.480822,51.669317,0 -119.479954,51.669506,0 -119.479314,51.669718,0 -119.478707,51.669971,0 -119.476797,51.670907,0 -119.476308,51.671108,0 -119.475906,51.671271,0 -119.475763,51.671328,0 -119.475002,51.671575,0 -119.474166,51.671752,0 -119.473319,51.671848,0 -119.472619,51.671955,0 -119.472047,51.671989,0 -119.471135,51.672042,0 -119.468405,51.67194,0 -119.467551,51.671963,0 -119.466705,51.672077,0 -119.465832,51.672275,0 -119.463446,51.673043,0 -119.462421,51.673262,0 -119.459739,51.673622,0 -119.458543,51.673789,0 -119.455382,51.674211,0 -119.451032,51.674791,0 -119.448052,51.675065,0 -119.445851,51.675177,0 -119.438671,51.675255,0 -119.437238,51.675271,0 -119.436348,51.675338,0 -119.435494,51.675455,0 -119.434754,51.675624,0 -119.43401,51.67585,0 -119.433297,51.676144,0 -119.432619,51.676497,0 -119.431955,51.676926,0 -119.429567,51.678563,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
