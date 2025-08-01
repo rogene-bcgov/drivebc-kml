@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-01 22:36:38 UTC
+        Last updated: 2025-08-01 23:02:07 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (258)</name>
+      <name>🚗 Traffic Events (261)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -613,6 +613,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Canyon Drive, in both directions. Construction work planned between Beryl Prairie Rd and Summer Rd. </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Canyon Drive&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Beryl Prairie Rd and Summer Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T15:28:55-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.011856,56.031449,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Cariboo Connector), southbound. Construction work between Umiti Pit Rd and Pollard Rd (1</name>
           <description>
         &lt;![CDATA[
@@ -631,6 +651,47 @@
           <Point>
             <coordinates>-122.366125,53.095279,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Glen Rd, in both directions. Utility work planned between Cowichan Bay Rd and McGill Rd. Starting We</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Glen Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Cowichan Bay Rd and McGill Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T15:33:37-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.613987,48.735797,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Alaska Highway), southbound. There will be ditching between Cartier Rd and 259 Rd for 1.</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 259 Rd and Cartier Rd for 1.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T15:33:56-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.768428,56.217229,0 -120.76934,56.217228,0 -120.772996,56.217225,0 -120.773109,56.217194,0 -120.774943,56.217195,0 -120.7753,56.217195,0 -120.778608,56.217196,0 -120.781432,56.217196,0 -120.783099,56.217231,0 -120.784486,56.217302,0 -120.784605,56.217308,0 -120.785252,56.217364,0 -120.786148,56.217442,0 -120.786951,56.217533,0 -120.78764,56.217612,0 -120.789142,56.217829,0 -120.790205,56.218027,0 -120.791071,56.218188,0 -120.79284,56.218591,0 -120.793799,56.218844,0 -120.794854,56.219161,0 -120.795282,56.219297,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Peardonville Rd and Exit 9</name>
@@ -652,6 +713,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.355582,49.046519,0 -122.355566,49.046512,0 -122.353092,49.04543,0 -122.35216,49.045023,0 -122.351348,49.044642,0 -122.350675,49.044326,0 -122.349902,49.043926,0 -122.346191,49.042002,0 -122.345923,49.041862,0 -122.344336,49.04104,0 -122.343534,49.040624,0 -122.337791,49.037646,0 -122.337615,49.037554,0 -122.336276,49.037022,0 -122.335054,49.036683,0 -122.33411,49.036474,0 -122.333165,49.036317,0 -122.332319,49.036213,0 -122.332208,49.036199,0 -122.331994,49.036187,0 -122.331266,49.036147,0 -122.327049,49.035892,0 -122.325432,49.035793,0 -122.323754,49.035703,0 -122.321237,49.035562,0 -122.318001,49.035379,0 -122.316393,49.035324,0 -122.315506,49.03527,0 -122.31311,49.035124,0 -122.311253,49.035013,0 -122.30948,49.034896,0 -122.307344,49.034815,0 -122.305942,49.034735,0 -122.304948,49.034669,0 -122.302262,49.034536,0 -122.30038,49.034432,0 -122.299135,49.034349,0 -122.298128,49.034299,0 -122.295272,49.034184,0 -122.294025,49.034117,0 -122.292837,49.034037,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, in both directions. Construction work planned at Exit 32: Steveston Hwy (Richmond). Star</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T15:39:20-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086593,49.133477,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Utility work between Stella Rd and Francois Lak</name>
@@ -4088,27 +4169,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. Shoulder maintenance between Brunswick Beach Rd and Porteau Cove Rd </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Brunswick Beach Rd and Porteau Cove Rd for 0.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T07:30:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.254607,49.506314,0 -123.255043,49.506509,0 -123.255152,49.506641,0 -123.257699,49.507939,0 -123.258074,49.5082,0 -123.258364,49.508483,0 -123.258595,49.508791,0 -123.258634,49.508874,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 7B (Mary Hill Bypass), westbound. Construction work between Kingsway Ave and Coast Meridian </name>
           <description>
         &lt;![CDATA[
@@ -4547,7 +4607,7 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
-          <name>Kootenay Lake Ferry. 1 sailing wait at Kootenay Bay Terminal. Until Fri Aug 1 at 3:45 PM PDT. Next u</name>
+          <name>Kootenay Lake Ferry. 1 sailing wait at Kootenay Bay Terminal. Until Fri Aug 1 at 7:00 PM PDT. Next u</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4557,7 +4617,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Kootenay Lake Ferry&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Kootenay Bay Terminal&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T14:15:00-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T15:37:22-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4597,7 +4657,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 29: Willingdon Ave and Douglas Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T14:33:51-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T15:32:53-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4637,7 +4697,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Lions Gate Bridge and Welch St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T15:22:34-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-01T15:46:26-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
