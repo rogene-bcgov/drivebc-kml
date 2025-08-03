@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-03 19:02:18 UTC
+        Last updated: 2025-08-03 19:32:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (247)</name>
+      <name>🚗 Traffic Events (248)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4968,7 +4968,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Chopaka Rd and Old Richter Pass Rd for 7.7 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-03T07:27:05-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-03T12:17:41-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5000,26 +5000,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road cleared at Second Narrows Bridge (North Vancouver -</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-03T11:44:59-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.026346,49.295359,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 5, in both directions. Vehicle recovery between Hoirup Rd and Skinner Rd (13 km north of Vav</name>
           <description>
         &lt;![CDATA[
@@ -5037,6 +5017,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-119.608951,51.67301,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91A, eastbound. Vehicle incident at Queensborough Bridge (New Westminster). Right lane is bl</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 91A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Queensborough Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-03T12:14:10-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.94622,49.195532,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5205,6 +5205,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.808751,48.986577,0 -123.808919,48.986753,0 -123.80915,48.987078,0 -123.809339,48.987464,0 -123.809537,48.988069,0 -123.809876,48.989114,0 -123.810288,48.98988,0 -123.810521,48.990175,0 -123.810877,48.990624,0 -123.811351,48.99108,0 -123.811917,48.991521,0 -123.813912,48.992862,0 -123.814462,48.993231,0 -123.814902,48.993527,0 -123.815883,48.994199,0 -123.816863,48.994872,0 -123.817853,48.995551,0 -123.818059,48.995691,0 -123.818826,48.996214,0 -123.820512,48.997362,0 -123.820872,48.997556,0 -123.821348,48.997812,0 -123.82211,48.998088,0 -123.824224,48.998636,0 -123.824485,48.998703,0 -123.824609,48.998735,0 -123.824655,48.998747,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19 (Inland Island Highway), in both directions. Special event between Corcan Rd and Church R</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Corcan Rd and Church Rd for 15.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-03T12:26:37-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.557683,49.341522,0 -124.555545,49.340545,0 -124.555362,49.340461,0 -124.55135,49.338786,0 -124.548142,49.337575,0 -124.547796,49.337454,0 -124.546716,49.337075,0 -124.546207,49.336896,0 -124.543917,49.336172,0 -124.542915,49.335855,0 -124.542865,49.335839,0 -124.539479,49.334844,0 -124.535657,49.333917,0 -124.535431,49.333862,0 -124.53526,49.333821,0 -124.534434,49.33365,0 -124.53164,49.333074,0 -124.529356,49.332685,0 -124.52903,49.332629,0 -124.52735,49.33238,0 -124.524906,49.332017,0 -124.524674,49.331983,0 -124.521998,49.331649,0 -124.52,49.331455,0 -124.515772,49.331141,0 -124.513444,49.331036,0 -124.51115,49.330963,0 -124.507857,49.330933,0 -124.507796,49.330932,0 -124.506742,49.33095,0 -124.503788,49.331002,0 -124.502195,49.331029,0 -124.496616,49.331126,0 -124.495081,49.331055,0 -124.493583,49.330935,0 -124.491951,49.330689,0 -124.490312,49.330343,0 -124.488587,49.32984,0 -124.48698,49.329232,0 -124.485415,49.328515,0 -124.480751,49.326232,0 -124.480565,49.326136,0 -124.478861,49.325299,0 -124.477171,49.324582,0 -124.476246,49.324267,0 -124.476081,49.324211,0 -124.475574,49.324038,0 -124.474101,49.323605,0 -124.472322,49.32324,0 -124.471382,49.323093,0 -124.470702,49.322987,0 -124.469372,49.322843,0 -124.467722,49.322763,0 -124.465742,49.322768,0 -124.464783,49.322812,0 -124.461637,49.323072,0 -124.453675,49.323729,0 -124.453236,49.323765,0 -124.448884,49.324124,0 -124.444669,49.324471,0 -124.441998,49.324691,0 -124.441399,49.324741,0 -124.426454,49.325985,0 -124.424812,49.326056,0 -124.423098,49.326007,0 -124.421449,49.325864,0 -124.419734,49.325603,0 -124.417859,49.32517,0 -124.416402,49.324711,0 -124.41556,49.324413,0 -124.414476,49.323947,0 -124.412168,49.322831,0 -124.411988,49.322735,0 -124.409236,49.321401,0 -124.408808,49.321212,0 -124.407841,49.320784,0 -124.406457,49.320271,0 -124.405346,49.319914,0 -124.403426,49.319444,0 -124.401659,49.319122,0 -124.400005,49.318917,0 -124.399964,49.318912,0 -124.396681,49.318661,0 -124.382712,49.317594,0 -124.379402,49.31734,0 -124.375469,49.317039,0 -124.371518,49.316698,0 -124.368561,49.316359,0 -124.368368,49.316331,0 -124.366141,49.316006,0 -124.365863,49.315966,0 -124.362116,49.315342,0 -124.36046,49.315036,0 -124.357666,49.314521,0 -124.356916,49.314382,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
