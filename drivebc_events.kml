@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-04 10:03:04 UTC
+        Last updated: 2025-08-04 10:39:47 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4792,6 +4792,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Exit 73 and Exit 66: 232nd St for 7</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 66: 232nd St and Exit 73 for 7.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-04T03:28:54-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.581332,49.136075,0 -122.58001,49.135556,0 -122.579399,49.135317,0 -122.579018,49.135167,0 -122.574428,49.133367,0 -122.573154,49.132868,0 -122.570311,49.131753,0 -122.570157,49.131692,0 -122.569772,49.131541,0 -122.567442,49.130627,0 -122.55998,49.1277,0 -122.558669,49.127186,0 -122.54739,49.12276,0 -122.54655,49.12243,0 -122.543802,49.121351,0 -122.537041,49.118697,0 -122.530215,49.116002,0 -122.529425,49.115691,0 -122.528213,49.115212,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493315,49.101517,0 -122.493081,49.101427,0 -122.492806,49.101322,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Upper Arrow Lake Ferry. Departure delayed between Shelter Bay and Galena Bay. From 8:45 AM to 11:00 </name>
           <description>
         &lt;![CDATA[
@@ -4810,27 +4831,6 @@
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 73 and Exit 66: 232nd St f</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 66: 232nd St and Exit 73 for 7.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-04T01:45:48-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.581332,49.136075,0 -122.58001,49.135556,0 -122.579399,49.135317,0 -122.579018,49.135167,0 -122.574428,49.133367,0 -122.573154,49.132868,0 -122.570311,49.131753,0 -122.570157,49.131692,0 -122.569772,49.131541,0 -122.567442,49.130627,0 -122.55998,49.1277,0 -122.558669,49.127186,0 -122.54739,49.12276,0 -122.54655,49.12243,0 -122.543802,49.121351,0 -122.537041,49.118697,0 -122.530215,49.116002,0 -122.529425,49.115691,0 -122.528213,49.115212,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493315,49.101517,0 -122.493081,49.101427,0 -122.492806,49.101322,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between Wilgress Lake Rest Area and Granby Rd</name>
