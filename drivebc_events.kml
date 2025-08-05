@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-05 02:43:09 UTC
+        Last updated: 2025-08-05 03:31:41 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (237)</name>
+      <name>🚗 Traffic Events (240)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4400,7 +4400,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 19 (Inland Island Highway), southbound. Vehicle incident between Hastings Rd and Cook Creek </name>
+          <name>Highway 19 (Inland Island Highway), southbound. Road cleared between Hastings Rd and Cook Creek Rd (</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4410,7 +4410,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Hastings Rd and Cook Creek Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-04T18:47:49-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-04T20:18:05-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4460,6 +4460,46 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Vehicle incident at Sunday Summit (32 km west of </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Sunday Summit&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-04T19:53:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-120.562335,49.239209,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 . Vehicle incident at Holmes Bridge. Road closed. Detour not available. Watch for traffic</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Holmes Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-04T19:54:19-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-119.600613,50.489063,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Riverside Rd, in both directions. Roadway obstruction between 233 Riverside Rd and 136 Riverside Rd.</name>
           <description>
         &lt;![CDATA[
@@ -4477,6 +4517,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-119.082816,50.670853,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 10, in both directions. Vehicle incident at 200 St (Langley - City). Road closed. Watch for </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At 200 St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-04T20:24:17-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.668777,49.11335,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
