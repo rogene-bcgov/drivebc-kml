@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-05 16:01:57 UTC
+        Last updated: 2025-08-05 16:36:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (236)</name>
+      <name>🚗 Traffic Events (237)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1167,6 +1167,27 @@
           <Point>
             <coordinates>-120.880735,50.150952,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Paving operations between Rod and Gun Frtg and </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Rod and Gun Frtg and Babine Lake Rd for 2.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-05T09:14:15-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.785388,54.250015,0 -125.783382,54.247927,0 -125.78314,54.247675,0 -125.78217,54.246679,0 -125.781769,54.246315,0 -125.780985,54.245739,0 -125.780198,54.245193,0 -125.78016,54.245163,0 -125.779371,54.24456,0 -125.778886,54.244042,0 -125.778866,54.244021,0 -125.777888,54.242375,0 -125.777378,54.24161,0 -125.776965,54.240989,0 -125.776719,54.240708,0 -125.77626,54.240185,0 -125.775853,54.239811,0 -125.774122,54.238216,0 -125.772227,54.236524,0 -125.772073,54.236387,0 -125.77139,54.235937,0 -125.771305,54.235894,0 -125.770538,54.235508,0 -125.770473,54.235475,0 -125.769807,54.235224,0 -125.769715,54.235197,0 -125.767921,54.234655,0 -125.765734,54.233997,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla North), northbound. Construction work planned between Chuwhels Mountain Rd and</name>
