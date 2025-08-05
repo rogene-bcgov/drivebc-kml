@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-05 15:37:37 UTC
+        Last updated: 2025-08-05 16:01:57 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (233)</name>
+      <name>🚗 Traffic Events (236)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -943,6 +943,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 43, in both directions. Electrical maintenance planned at Intata Rd (Elkford). Starting Tue </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 43&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Intata Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-05T08:37:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-114.921483,49.975733,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Paving operations between Fraser Mountain Rd an</name>
           <description>
         &lt;![CDATA[
@@ -1003,6 +1023,27 @@
           <Point>
             <coordinates>-121.448836,50.255117,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Alaska Highway), in both directions. Road maintenance work between Mile 72 Frtg and Mile</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Mile 72 Frtg and Mile 80 Frtg for 3.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-05T08:45:45-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.252917,56.541657,0 -121.253002,56.54173,0 -121.253201,56.541898,0 -121.261877,56.549245,0 -121.262741,56.549865,0 -121.263664,56.550368,0 -121.264271,56.550647,0 -121.264414,56.550713,0 -121.265453,56.551099,0 -121.266735,56.55146,0 -121.268058,56.551723,0 -121.269261,56.551862,0 -121.269468,56.551886,0 -121.269564,56.551898,0 -121.271003,56.551959,0 -121.272021,56.551942,0 -121.273226,56.551859,0 -121.273404,56.551836,0 -121.274492,56.551694,0 -121.284417,56.550124,0 -121.301574,56.547406,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Shuswap Road, in both directions. Construction work between Sun Rivers Drive and Harper Ranch Pinant</name>
@@ -1106,6 +1147,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.730803,49.104122,0 -122.730303,49.104116,0 -122.729678,49.104113,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Aberdeen Road, in both directions. Paving operations planned between Highway 8 and Nicola Valley Fis</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Aberdeen Road&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Highway 8 and Nicola Valley Fish and Game Club&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-05T08:56:31-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.880735,50.150952,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla North), northbound. Construction work planned between Chuwhels Mountain Rd and</name>
@@ -4359,7 +4420,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Riverside Rd, in both directions. Roadway obstruction between 233 Riverside Rd and 136 Riverside Rd.</name>
+          <name>Riverside Rd, in both directions. Road cleared between 233 Riverside Rd and 136 Riverside Rd. Cleare</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4369,8 +4430,8 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Riverside Rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 233 Riverside Rd and 136 Riverside Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-05T03:53:15-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-05T08:52:27-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
