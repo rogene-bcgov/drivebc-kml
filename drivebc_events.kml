@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-07 05:08:08 UTC
+        Last updated: 2025-08-07 05:40:19 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -945,6 +945,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Bridge construction planned between Gladwin Rd </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Gladwin Rd and Nicomen River Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-06T22:13:21-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.448836,50.255117,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Paving operations between Fraser Mountain Rd an</name>
           <description>
         &lt;![CDATA[
@@ -983,26 +1003,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-122.894618,49.207727,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Bridge construction planned between Gladwin Rd </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Gladwin Rd and Nicomen River Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-05T14:32:01-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.448836,50.255117,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
