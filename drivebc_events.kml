@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-07 18:42:58 UTC
+        Last updated: 2025-08-07 19:04:08 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (250)</name>
+      <name>🚗 Traffic Events (249)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1129,26 +1129,6 @@
             <tessellate>1</tessellate>
             <coordinates>-122.730803,49.104122,0 -122.730303,49.104116,0 -122.729678,49.104113,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Heffley Lake Rd, in both directions. Paving operations at Heffley Louis Creek Rd. Until Thu Aug 7 at</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Heffley Lake Rd&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Heffley Louis Creek Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-07T07:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.061396,50.833923,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla North), northbound. Construction work planned between Chuwhels Mountain Rd and</name>
@@ -2889,6 +2869,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Utility work planned between Massey Tunnel and Exit 28 for 0.3 km (Delta). S</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel for 0.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-07T11:47:43-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.064943,49.113293,0 -123.066009,49.114154,0 -123.066722,49.11473,0 -123.06679,49.114784,0 -123.067503,49.11536,0 -123.067712,49.115528,0 -123.067986,49.115749,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway). Electrical maintenance at Terrace (1 km east of Terrace). For three</name>
           <description>
         &lt;![CDATA[
@@ -2927,6 +2928,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.049264,50.59543,0 -116.050248,50.595759,0 -116.053906,50.596759,0 -116.054068,50.59681,0 -116.054683,50.597004,0 -116.055297,50.597283,0 -116.05595,50.597644,0 -116.056403,50.597977,0 -116.056786,50.598329,0 -116.057126,50.598739,0 -116.057402,50.599201,0 -116.057585,50.59966,0 -116.05772,50.6,0 -116.058053,50.600838,0 -116.058423,50.601769,0 -116.058528,50.602036,0 -116.058902,50.602665,0 -116.059882,50.604045,0 -116.060264,50.604589,0 -116.060702,50.605189,0 -116.061233,50.605944,0 -116.061882,50.606861,0 -116.062523,50.607771,0 -116.063296,50.608835,0 -116.063624,50.609233,0 -116.063893,50.609559,0 -116.065939,50.611677,0 -116.066941,50.612714,0 -116.067126,50.612962,0 -116.06726,50.613142,0 -116.067622,50.613704,0 -116.068022,50.614562,0 -116.068371,50.615477,0 -116.06918,50.617596,0 -116.069558,50.618465,0 -116.069863,50.619054,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, in both directions. Blasting between Skinner Rd and Wire Cache Rest Area for 4.9 km (20 t</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Skinner Rd and Wire Cache Rest Area for 4.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-07T12:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.503738,51.669714,0 -119.503547,51.669708,0 -119.498829,51.669586,0 -119.494003,51.669461,0 -119.493506,51.669448,0 -119.483138,51.669179,0 -119.482553,51.669164,0 -119.481667,51.669199,0 -119.480822,51.669317,0 -119.479954,51.669506,0 -119.479314,51.669718,0 -119.478707,51.669971,0 -119.476797,51.670907,0 -119.476308,51.671108,0 -119.475906,51.671271,0 -119.475763,51.671328,0 -119.475002,51.671575,0 -119.474166,51.671752,0 -119.473319,51.671848,0 -119.472619,51.671955,0 -119.472047,51.671989,0 -119.471135,51.672042,0 -119.468405,51.67194,0 -119.467551,51.671963,0 -119.466705,51.672077,0 -119.465832,51.672275,0 -119.463446,51.673043,0 -119.462421,51.673262,0 -119.459739,51.673622,0 -119.458543,51.673789,0 -119.455382,51.674211,0 -119.451032,51.674791,0 -119.448052,51.675065,0 -119.445851,51.675177,0 -119.438671,51.675255,0 -119.437238,51.675271,0 -119.436348,51.675338,0 -119.435996,51.675386,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3010,27 +3032,6 @@
           <Point>
             <coordinates>-123.838308,49.115589,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5, in both directions. Blasting planned between Skinner Rd and Wire Cache Rest Area for 4.9 </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Skinner Rd and Wire Cache Rest Area for 4.9 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-06T12:38:53-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.503738,51.669714,0 -119.503547,51.669708,0 -119.498829,51.669586,0 -119.494003,51.669461,0 -119.493506,51.669448,0 -119.483138,51.669179,0 -119.482553,51.669164,0 -119.481667,51.669199,0 -119.480822,51.669317,0 -119.479954,51.669506,0 -119.479314,51.669718,0 -119.478707,51.669971,0 -119.476797,51.670907,0 -119.476308,51.671108,0 -119.475906,51.671271,0 -119.475763,51.671328,0 -119.475002,51.671575,0 -119.474166,51.671752,0 -119.473319,51.671848,0 -119.472619,51.671955,0 -119.472047,51.671989,0 -119.471135,51.672042,0 -119.468405,51.67194,0 -119.467551,51.671963,0 -119.466705,51.672077,0 -119.465832,51.672275,0 -119.463446,51.673043,0 -119.462421,51.673262,0 -119.459739,51.673622,0 -119.458543,51.673789,0 -119.455382,51.674211,0 -119.451032,51.674791,0 -119.448052,51.675065,0 -119.445851,51.675177,0 -119.438671,51.675255,0 -119.437238,51.675271,0 -119.436348,51.675338,0 -119.435996,51.675386,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and S</name>
@@ -4604,7 +4605,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Meadowood Way. There is a wildfire at Ashling Road. Road closed. Watch for traffic control. Road is </name>
+          <name>Meadowood Way. There is a wildfire at Village Gates. Road closed. Watch for traffic control. Road is</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4613,14 +4614,14 @@
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Meadowood Way&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Ashling Road&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-06T18:16:59-07:00&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Village Gates&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-07T11:51:49-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-124.561915,49.320627,0</coordinates>
+            <coordinates>-124.558157,49.309923,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4838,33 +4839,13 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 11: Westminster Hwy and Boundary Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-07T11:09:16-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-07T11:52:40-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.968389,49.1714,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Police incident at Exit 50: 160 St (Surrey). Right lane </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 50: 160 St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-07T11:17:05-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.777814,49.192106,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
