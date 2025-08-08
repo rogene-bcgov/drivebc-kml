@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-08 12:44:05 UTC
+        Last updated: 2025-08-08 13:14:15 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2061,6 +2061,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 5, southbound. Shoulder maintenance at Mt Paul Way (Kamloops). Until Fri Aug 8 at 3:00 PM PD</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Mt Paul Way&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T06:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.321477,50.693642,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 5 (Coquihalla South). Construction work between Exit 183: Othello Rd and Exit 195 for 3.9 km</name>
           <description>
         &lt;![CDATA[
@@ -3797,26 +3817,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.401172,48.640409,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Paving operations at Grandview Highway (Burnaby). Until </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Grandview Highway&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-07T22:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.01758,49.257479,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
