@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-08 15:36:51 UTC
+        Last updated: 2025-08-08 16:02:00 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (231)</name>
+      <name>🚗 Traffic Events (232)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1005,6 +1005,26 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-120.109365,50.851615,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Deadman Vidette, in both directions. Maintenance planned at 42km near Kamloops. Starting Mon Aug 11 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Deadman Vidette&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At 42km near Kamloops&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T08:42:21-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.892384,51.049319,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
