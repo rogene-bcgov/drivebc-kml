@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-09 15:34:18 UTC
+        Last updated: 2025-08-09 16:01:53 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4957,6 +4957,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 4A, in both directions. Special event between Ford Rd and Station Rd for 0.2 km (7 km west o</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 4A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Ford Rd and Station Rd for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-09T09:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.420375,49.305352,0 -124.419775,49.305374,0 -124.419067,49.305399,0 -124.417697,49.305449,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Fisher Rd, in both directions. Special event planned between Holland Ave and Watson Ave. Starting Sa</name>
           <description>
         &lt;![CDATA[
@@ -4975,27 +4996,6 @@
           <Point>
             <coordinates>-123.601836,48.689222,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 4A, in both directions. Special event planned between Ford Rd and Station Rd for 0.2 km (7 k</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 4A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Ford Rd and Station Rd for 0.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T11:58:37-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.420375,49.305352,0 -124.419775,49.305374,0 -124.419067,49.305399,0 -124.417697,49.305449,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 19 (Inland Island Highway), in both directions. Special event between Corcan Rd and Church R</name>
