@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-09 00:46:28 UTC
+        Last updated: 2025-08-09 01:29:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (248)</name>
+      <name>🚗 Traffic Events (250)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3898,6 +3898,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Road maintenance work planned between Priestly </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Priestly Station Rd and SA24/23 Maintenance Boundary for 1.8 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T17:46:22-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.362075,54.135782,0 -125.361592,54.135166,0 -125.36148,54.135022,0 -125.36104,54.134621,0 -125.360976,54.134563,0 -125.36038,54.13412,0 -125.359896,54.133845,0 -125.359552,54.13365,0 -125.358596,54.133228,0 -125.354902,54.131595,0 -125.350768,54.129768,0 -125.350216,54.129438,0 -125.349789,54.129069,0 -125.349441,54.128592,0 -125.349234,54.128074,0 -125.349226,54.127605,0 -125.349286,54.127392,0 -125.349351,54.12716,0 -125.349526,54.12688,0 -125.349646,54.126689,0 -125.350867,54.125369,0 -125.351151,54.124913,0 -125.351299,54.124436,0 -125.351274,54.123916,0 -125.351119,54.123484,0 -125.351096,54.123451,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 29, in both directions. Construction work between Farrell Creek Rd and Halfway River Bridge </name>
           <description>
         &lt;![CDATA[
@@ -4543,27 +4564,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 101, in both directions. Special event planned between Redrooffs Rd and Shorncliffe Ave for </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Redrooffs Rd and Shorncliffe Ave for 6.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-30T13:24:15-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.843951,49.478227,0 -123.842949,49.477322,0 -123.842386,49.476935,0 -123.840692,49.476003,0 -123.837748,49.474391,0 -123.837034,49.474,0 -123.836012,49.473568,0 -123.832343,49.472378,0 -123.831994,49.472315,0 -123.831665,49.472293,0 -123.830758,49.472293,0 -123.829646,49.472324,0 -123.828995,49.472291,0 -123.828469,49.472212,0 -123.827952,49.472099,0 -123.827343,49.47192,0 -123.82656,49.471564,0 -123.825942,49.471377,0 -123.825653,49.471336,0 -123.822561,49.470887,0 -123.822039,49.470743,0 -123.821511,49.470485,0 -123.817811,49.468693,0 -123.817643,49.468641,0 -123.817402,49.468605,0 -123.816445,49.468608,0 -123.815072,49.468613,0 -123.814069,49.46852,0 -123.813386,49.468377,0 -123.812761,49.468245,0 -123.812197,49.468208,0 -123.811169,49.46831,0 -123.810912,49.468336,0 -123.810219,49.468317,0 -123.807749,49.46796,0 -123.807022,49.467965,0 -123.806559,49.467991,0 -123.80556,49.468115,0 -123.805219,49.468173,0 -123.804663,49.468371,0 -123.804457,49.468444,0 -123.803535,49.468772,0 -123.803101,49.468831,0 -123.80264,49.468835,0 -123.801396,49.468645,0 -123.801091,49.468596,0 -123.799512,49.468358,0 -123.798481,49.468109,0 -123.796423,49.467411,0 -123.795268,49.467031,0 -123.795246,49.467023,0 -123.794731,49.466886,0 -123.793216,49.466684,0 -123.79289,49.466673,0 -123.792645,49.466664,0 -123.791265,49.4667,0 -123.790874,49.46671,0 -123.789929,49.466741,0 -123.788604,49.466785,0 -123.788077,49.466855,0 -123.787596,49.466951,0 -123.787019,49.467134,0 -123.786497,49.467351,0 -123.78534,49.467832,0 -123.784826,49.467995,0 -123.784265,49.46811,0 -123.783328,49.468254,0 -123.782221,49.468526,0 -123.780893,49.468892,0 -123.780057,49.46908,0 -123.777155,49.470029,0 -123.775284,49.470653,0 -123.774889,49.470744,0 -123.774147,49.470827,0 -123.773762,49.470805,0 -123.773422,49.470785,0 -123.772083,49.47052,0 -123.771564,49.470476,0 -123.770898,49.4705,0 -123.769827,49.470671,0 -123.769156,49.470716,0 -123.767663,49.470572,0 -123.766548,49.470557,0 -123.765177,49.470686,0 -123.764856,49.470709,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 4A, in both directions. Special event planned between Ford Rd and Station Rd for 0.2 km (7 k</name>
           <description>
         &lt;![CDATA[
@@ -4582,6 +4582,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.420375,49.305352,0 -124.419775,49.305374,0 -124.419067,49.305399,0 -124.417697,49.305449,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 101, in both directions. Special event between Redrooffs Rd and Shorncliffe Ave for 6.3 km (</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Redrooffs Rd and Shorncliffe Ave for 6.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T18:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.843951,49.478227,0 -123.842949,49.477322,0 -123.842386,49.476935,0 -123.840692,49.476003,0 -123.837748,49.474391,0 -123.837034,49.474,0 -123.836012,49.473568,0 -123.832343,49.472378,0 -123.831994,49.472315,0 -123.831665,49.472293,0 -123.830758,49.472293,0 -123.829646,49.472324,0 -123.828995,49.472291,0 -123.828469,49.472212,0 -123.827952,49.472099,0 -123.827343,49.47192,0 -123.82656,49.471564,0 -123.825942,49.471377,0 -123.825653,49.471336,0 -123.822561,49.470887,0 -123.822039,49.470743,0 -123.821511,49.470485,0 -123.817811,49.468693,0 -123.817643,49.468641,0 -123.817402,49.468605,0 -123.816445,49.468608,0 -123.815072,49.468613,0 -123.814069,49.46852,0 -123.813386,49.468377,0 -123.812761,49.468245,0 -123.812197,49.468208,0 -123.811169,49.46831,0 -123.810912,49.468336,0 -123.810219,49.468317,0 -123.807749,49.46796,0 -123.807022,49.467965,0 -123.806559,49.467991,0 -123.80556,49.468115,0 -123.805219,49.468173,0 -123.804663,49.468371,0 -123.804457,49.468444,0 -123.803535,49.468772,0 -123.803101,49.468831,0 -123.80264,49.468835,0 -123.801396,49.468645,0 -123.801091,49.468596,0 -123.799512,49.468358,0 -123.798481,49.468109,0 -123.796423,49.467411,0 -123.795268,49.467031,0 -123.795246,49.467023,0 -123.794731,49.466886,0 -123.793216,49.466684,0 -123.79289,49.466673,0 -123.792645,49.466664,0 -123.791265,49.4667,0 -123.790874,49.46671,0 -123.789929,49.466741,0 -123.788604,49.466785,0 -123.788077,49.466855,0 -123.787596,49.466951,0 -123.787019,49.467134,0 -123.786497,49.467351,0 -123.78534,49.467832,0 -123.784826,49.467995,0 -123.784265,49.46811,0 -123.783328,49.468254,0 -123.782221,49.468526,0 -123.780893,49.468892,0 -123.780057,49.46908,0 -123.777155,49.470029,0 -123.775284,49.470653,0 -123.774889,49.470744,0 -123.774147,49.470827,0 -123.773762,49.470805,0 -123.773422,49.470785,0 -123.772083,49.47052,0 -123.771564,49.470476,0 -123.770898,49.4705,0 -123.769827,49.470671,0 -123.769156,49.470716,0 -123.767663,49.470572,0 -123.766548,49.470557,0 -123.765177,49.470686,0 -123.764856,49.470709,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5089,7 +5110,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Shelter Bay and Galena Bay&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T17:01:28-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T18:18:29-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5157,6 +5178,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-121.501918,51.145716,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Enderby-Grinrod rd . Vehicle incident between Dale rd and Mowat rd. Road closed. Watch for traffic c</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Enderby-Grinrod rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Dale rd and Mowat rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T17:59:21-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-119.116691,50.566456,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
