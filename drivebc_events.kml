@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-09 17:01:38 UTC
+        Last updated: 2025-08-09 17:34:14 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4485,6 +4485,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 5 (Coquihalla North), southbound. Vehicle incident between Inks Lake Rd and Chuwhels Mountai</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Chuwhels Mountain Rd and Inks Lake Rd for 12.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-09T10:05:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.485619,50.516054,0 -120.483335,50.521522,0 -120.482755,50.52302,0 -120.481392,50.52623,0 -120.480967,50.527222,0 -120.480034,50.529397,0 -120.479227,50.530745,0 -120.478592,50.531592,0 -120.47784,50.532425,0 -120.477289,50.532964,0 -120.47577,50.53421,0 -120.474743,50.53487,0 -120.473331,50.535683,0 -120.471832,50.536415,0 -120.468238,50.538006,0 -120.462556,50.540521,0 -120.462204,50.540721,0 -120.461087,50.541354,0 -120.46002,50.542053,0 -120.458713,50.543119,0 -120.45776,50.544018,0 -120.457159,50.544689,0 -120.456652,50.545256,0 -120.453945,50.548376,0 -120.452853,50.549691,0 -120.451011,50.551908,0 -120.450417,50.552703,0 -120.450037,50.553306,0 -120.44956,50.554325,0 -120.449384,50.554701,0 -120.449331,50.554868,0 -120.449117,50.555535,0 -120.448847,50.557329,0 -120.448857,50.557579,0 -120.44886,50.557673,0 -120.448888,50.558397,0 -120.449136,50.559739,0 -120.449679,50.561649,0 -120.450533,50.564747,0 -120.450877,50.565635,0 -120.451254,50.566369,0 -120.451918,50.567281,0 -120.452766,50.568118,0 -120.453441,50.568645,0 -120.454671,50.569411,0 -120.457016,50.570693,0 -120.457801,50.571122,0 -120.458576,50.571638,0 -120.458826,50.571842,0 -120.459449,50.572347,0 -120.460256,50.573216,0 -120.460911,50.574161,0 -120.461627,50.575655,0 -120.462295,50.577051,0 -120.462701,50.577783,0 -120.463151,50.578385,0 -120.463187,50.578423,0 -120.463738,50.579018,0 -120.46455,50.579794,0 -120.465919,50.581016,0 -120.469164,50.583985,0 -120.470494,50.585202,0 -120.475137,50.58945,0 -120.475794,50.590136,0 -120.476349,50.590834,0 -120.476757,50.591504,0 -120.477101,50.59221,0 -120.477327,50.59292,0 -120.477451,50.593456,0 -120.477542,50.594271,0 -120.477538,50.594485,0 -120.477531,50.594799,0 -120.477379,50.59586,0 -120.476283,50.600007,0 -120.475675,50.602304,0 -120.475281,50.603663,0 -120.47188,50.616176,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Cave Road, in both directions. Landslide at Cave Road. Road closed. Landslide on Cave Road. Next upd</name>
           <description>
         &lt;![CDATA[
@@ -4935,27 +4956,6 @@
       </Folder>
       <Folder>
         <name>Special Event Events</name>
-        <Placemark>
-          <name>Highway 97 (Cariboo Connector). Special event between Hixon Sub Rd and Parenteau Rd for 1.1 km (Hixo</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Hixon Sub Rd and Parenteau Rd for 1.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-09T10:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.580195,53.415231,0 -122.582282,53.417041,0 -122.584123,53.41867,0 -122.584585,53.419072,0 -122.58557,53.419929,0 -122.585961,53.42026,0 -122.586539,53.420769,0 -122.587336,53.421461,0 -122.58779,53.421872,0 -122.58903,53.42294,0 -122.589683,53.423415,0</coordinates>
-          </LineString>
-        </Placemark>
         <Placemark>
           <name>Highway 4A, in both directions. Special event between Ford Rd and Station Rd for 0.2 km (7 km west o</name>
           <description>
