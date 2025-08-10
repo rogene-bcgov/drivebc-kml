@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-10 01:30:06 UTC
+        Last updated: 2025-08-10 02:20:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3155,27 +3155,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway), in both directions. Road construction work between Johnson Rd and Taylo</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Johnson Rd and Taylor Bridge for 1.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T14:25:40-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.667731,56.129055,0 -120.668421,56.129459,0 -120.668445,56.129473,0 -120.668901,56.129781,0 -120.669245,56.130016,0 -120.670004,56.130651,0 -120.670111,56.130756,0 -120.670334,56.130975,0 -120.670592,56.131236,0 -120.670866,56.131565,0 -120.671275,56.132148,0 -120.671543,56.132625,0 -120.671776,56.133171,0 -120.672045,56.134216,0 -120.672059,56.134507,0 -120.67207,56.13475,0 -120.672119,56.135577,0 -120.672229,56.137458,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 13, in both directions. Construction work between 28 Ave and 30A Ave for 0.5 km (Langley - D</name>
           <description>
         &lt;![CDATA[
@@ -4521,6 +4500,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-124.558157,49.309923,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle at Railway St (North Vancouver - Distric</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Railway St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-09T19:13:49-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.026529,49.302651,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
