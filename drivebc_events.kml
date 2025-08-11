@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-11 20:34:52 UTC
+        Last updated: 2025-08-11 21:01:52 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (258)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2460,7 +2460,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Vermilion Ave and Copper Mountain Rd for 0.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T10:49:42-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T13:48:58-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3773,6 +3773,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 31. Construction work between Sutton St and Cody Caves Rd for 3.7 km (13 km north of Balfour</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 31&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Sutton St and Cody Caves Rd for 3.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T13:37:49-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.910206,49.734053,0 -116.910317,49.734478,0 -116.910487,49.735359,0 -116.910601,49.73569,0 -116.910775,49.736268,0 -116.910821,49.737133,0 -116.910828,49.73734,0 -116.910901,49.737586,0 -116.911007,49.737856,0 -116.911254,49.738847,0 -116.911416,49.739772,0 -116.911611,49.740296,0 -116.912683,49.742077,0 -116.91308,49.742795,0 -116.913155,49.743168,0 -116.913136,49.743629,0 -116.912755,49.744862,0 -116.912681,49.745514,0 -116.912631,49.745946,0 -116.912625,49.746001,0 -116.912613,49.746107,0 -116.912363,49.748288,0 -116.91112,49.750528,0 -116.910927,49.751636,0 -116.91085,49.752658,0 -116.910758,49.753875,0 -116.910939,49.755693,0 -116.91097,49.756018,0 -116.911036,49.759606,0 -116.911052,49.760457,0 -116.910905,49.76123,0 -116.910054,49.762591,0 -116.909971,49.763042,0 -116.909981,49.763541,0 -116.909987,49.763835,0 -116.909538,49.766755,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Marine Dr. Utility work between Taylor Way and Capilano Road. Until Fri Aug 22 at 6:00 AM PDT. From </name>
           <description>
         &lt;![CDATA[
@@ -3812,6 +3833,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.735186,49.034933,0 -122.735196,49.037443,0 -122.735199,49.038181,0 -122.7352,49.03846,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0 -122.735304,49.049136,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Front Street. Construction work planned between E Columbia St and Columbia St in New Westminster. St</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Front Street&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between E Columbia St and Columbia St in New Westminster&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T13:47:49-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.904437,49.204336,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 99, northbound. Paving operations at Ansell Pl (West Vancouver). Until Mon Aug 11 at 6:00 PM</name>
@@ -4809,26 +4850,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Meadowood Way. Road cleared at Village Gates. Last updated Mon Aug 11 at 1:14 PM PDT. (DBC-80050)</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Meadowood Way&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Village Gates&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T13:14:24-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-124.558157,49.309923,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. </name>
           <description>
         &lt;![CDATA[
@@ -4859,7 +4880,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Goudie rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Highway 33&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T11:05:49-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T13:39:07-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -4980,7 +5001,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 33&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Daves Rd and Joe Riche Rd for 3.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T09:01:48-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T13:38:46-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5226,7 +5247,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Finlayson Arm Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T13:20:55-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T13:48:20-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
