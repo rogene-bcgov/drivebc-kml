@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-11 11:33:33 UTC
+        Last updated: 2025-08-11 12:03:02 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1231,27 +1231,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97, southbound. Utility work planned between North Nechako Rd and 5th Ave for 0.2 km (Prince</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between 5th Ave and North Nechako Rd for 0.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-25T09:09:29-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.781553,53.920577,0 -122.781552,53.920659,0 -122.781551,53.920848,0 -122.781532,53.922643,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 7B (Mary Hill Bypass), westbound. Construction work between Coast Meridian Rd and Broadway S</name>
           <description>
         &lt;![CDATA[
@@ -1312,6 +1291,27 @@
           <Point>
             <coordinates>-122.286147,49.066107,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, southbound. Utility work between North Nechako Rd and 5th Ave for 0.2 km (Prince George)</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 5th Ave and North Nechako Rd for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T05:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.781553,53.920577,0 -122.781552,53.920659,0 -122.781551,53.920848,0 -122.781532,53.922643,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 4, in both directions. Road construction work between Maltby Rd and Radar Hill for 0.7 km (1</name>
