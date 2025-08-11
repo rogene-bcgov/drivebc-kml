@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-11 19:03:04 UTC
+        Last updated: 2025-08-11 19:32:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (255)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1916,27 +1916,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (on Haida Gwaii), in both directions. Bridge maintenance between E Cedar Ave and Beitush </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between E Cedar Ave and Beitush Rd for 6.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T12:26:53-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-132.101892,53.652335,0 -132.096851,53.650278,0 -132.088324,53.646798,0 -132.085928,53.645819,0 -132.083003,53.644625,0 -132.082869,53.64457,0 -132.082571,53.644449,0 -132.082415,53.644385,0 -132.082343,53.644355,0 -132.074681,53.641206,0 -132.071678,53.639972,0 -132.062631,53.635968,0 -132.053906,53.632125,0 -132.053758,53.632059,0 -132.053626,53.632001,0 -132.053475,53.631935,0 -132.053433,53.631916,0 -132.053213,53.631819,0 -132.044452,53.627934,0 -132.040518,53.626189,0 -132.033658,53.623145,0 -132.031814,53.622327,0 -132.03136,53.622126,0 -132.029783,53.621426,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Shoulder maintenance between Eichenberger Rd an</name>
           <description>
         &lt;![CDATA[
@@ -1955,6 +1934,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-126.738372,54.427615,0 -126.736765,54.424706,0 -126.734124,54.419923,0 -126.733818,54.419369,0 -126.733483,54.418761,0 -126.731319,54.415069,0 -126.727475,54.408225,0 -126.727249,54.407857,0 -126.726015,54.405855,0 -126.724943,54.404326,0 -126.72276,54.401359,0 -126.722088,54.400676,0 -126.72093,54.39975,0 -126.720363,54.399325,0 -126.719566,54.398759,0 -126.719347,54.398592,0 -126.719141,54.398461,0 -126.718182,54.39785,0 -126.716834,54.397238,0 -126.716304,54.396965,0 -126.71603,54.396865,0 -126.715702,54.396745,0 -126.715472,54.396565,0 -126.7148,54.396041,0 -126.714521,54.3957,0 -126.714334,54.395371,0 -126.714035,54.394541,0 -126.713879,54.394109,0 -126.713814,54.393929,0 -126.713572,54.393264,0 -126.713351,54.392855,0 -126.713331,54.392819,0 -126.712969,54.392412,0 -126.712468,54.392025,0 -126.711903,54.391714,0 -126.711562,54.391578,0 -126.711363,54.391498,0 -126.710605,54.391296,0 -126.709772,54.391162,0 -126.708772,54.391119,0 -126.707682,54.391085,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (on Haida Gwaii), in both directions. Bridge maintenance between E Cedar Ave and Beitush </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between E Cedar Ave and Beitush Rd for 6.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T12:21:22-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-132.101892,53.652335,0 -132.096851,53.650278,0 -132.088324,53.646798,0 -132.085928,53.645819,0 -132.083003,53.644625,0 -132.082869,53.64457,0 -132.082571,53.644449,0 -132.082415,53.644385,0 -132.082343,53.644355,0 -132.074681,53.641206,0 -132.071678,53.639972,0 -132.062631,53.635968,0 -132.053906,53.632125,0 -132.053758,53.632059,0 -132.053626,53.632001,0 -132.053475,53.631935,0 -132.053433,53.631916,0 -132.053213,53.631819,0 -132.044452,53.627934,0 -132.040518,53.626189,0 -132.033658,53.623145,0 -132.031814,53.622327,0 -132.03136,53.622126,0 -132.029783,53.621426,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4022,26 +4022,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. Construction work at Exit 32: Steveston Hwy (Richmond). Until Thu Au</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-10T00:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.086593,49.133477,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 7 (Lougheed Highway), in both directions. Paving operations between Junction with Highway 9 </name>
           <description>
         &lt;![CDATA[
@@ -4061,6 +4041,26 @@
             <tessellate>1</tessellate>
             <coordinates>-121.7441,49.239573,0 -121.743217,49.239886,0 -121.74218,49.240386,0 -121.741292,49.240921,0 -121.740707,49.241352,0 -121.740363,49.241648,0 -121.739668,49.242352,0 -121.737275,49.244882,0 -121.736724,49.245505,0 -121.736544,49.245684,0 -121.736525,49.245704,0 -121.734932,49.247357,0 -121.734916,49.247374,0 -121.734798,49.247497,0 -121.734707,49.247593,0 -121.733723,49.248627,0 -121.733588,49.248768,0 -121.732819,49.249552,0 -121.730688,49.251722,0 -121.725574,49.256878,0 -121.724235,49.258228,0 -121.723598,49.258871,0 -121.723559,49.258909,0 -121.723491,49.258978,0 -121.721312,49.261173,0 -121.719957,49.262537,0 -121.719795,49.2627,0 -121.717238,49.265275,0 -121.716985,49.26553,0 -121.716065,49.266473,0 -121.714415,49.268164,0 -121.712378,49.270251,0 -121.711492,49.27116,0 -121.711267,49.27139,0 -121.70828,49.274391,0 -121.708238,49.274434,0 -121.70666,49.276038,0 -121.702613,49.280151,0 -121.699883,49.282924,0 -121.69856,49.284268,0 -121.694905,49.288074,0 -121.693002,49.290054,0 -121.68958,49.293615,0 -121.68942,49.293783,0 -121.688278,49.294971,0 -121.683286,49.300044,0 -121.681953,49.301399,0 -121.678169,49.305243,0 -121.677442,49.306388,0 -121.677032,49.307234,0 -121.676573,49.309004,0 -121.676185,49.310498,0 -121.676061,49.310979,0 -121.675501,49.311882,0 -121.674923,49.312505,0 -121.674877,49.31254,0 -121.674527,49.312808,0 -121.673997,49.313215,0 -121.672981,49.313779,0 -121.671853,49.314212,0 -121.67049,49.314568,0 -121.669477,49.314832,0 -121.666222,49.315684,0 -121.664768,49.316199,0 -121.66365,49.316789,0 -121.663153,49.317128,0 -121.661292,49.3184,0 -121.659649,49.319255,0 -121.658041,49.320032,0 -121.656699,49.320466,0 -121.654504,49.320989,0 -121.653344,49.321487,0 -121.651149,49.322688,0 -121.650186,49.323108,0 -121.649762,49.323293,0 -121.649077,49.323494,0 -121.647376,49.323993,0 -121.646941,49.324143,0 -121.646804,49.32419,0 -121.646605,49.324258,0 -121.646309,49.324359,0 -121.640152,49.327666,0 -121.640084,49.327702,0 -121.63991,49.327796,0 -121.639797,49.327856,0 -121.639743,49.327885,0 -121.638603,49.32861,0 -121.637931,49.329038,0 -121.634774,49.331001,0 -121.633562,49.331806,0 -121.633391,49.331933,0 -121.63252,49.33258,0 -121.631015,49.334055,0 -121.624569,49.340661,0 -121.62113,49.344185,0 -121.620046,49.345296,0 -121.617973,49.34742,0 -121.613766,49.351728,0 -121.612856,49.35266,0 -121.611992,49.353496,0 -121.611162,49.354033,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, in both directions. Construction work at Exit 32: Steveston Hwy (Richmond). Until Thu Au</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T12:01:07-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086593,49.133477,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla South), northbound. Bridge maintenance at Exit 183: Othello Rd (6 km north of </name>
@@ -5172,6 +5172,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.125725,49.200011,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident at Finlayson Arm Rd (Goldstrea</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Finlayson Arm Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T12:24:15-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.548659,48.478186,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
