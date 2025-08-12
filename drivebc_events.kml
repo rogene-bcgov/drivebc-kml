@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-12 13:41:25 UTC
+        Last updated: 2025-08-12 14:02:06 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -699,6 +699,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Kinghorn Rd and Notch</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Kinghorn Rd and Notch Hill Rd for 0.6 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T00:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.478586,50.878584,0 -119.477496,50.878302,0 -119.473558,50.877285,0 -119.473443,50.877255,0 -119.473117,50.8772,0 -119.472886,50.877161,0 -119.472508,50.877089,0 -119.472021,50.877001,0 -119.471092,50.876927,0 -119.470357,50.876921,0 -119.469943,50.876919,0 -119.469935,50.876919,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Utility work between Stella Rd and Francois Lak</name>
           <description>
         &lt;![CDATA[
@@ -720,7 +741,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Kinghorn Rd and Notch</name>
+          <name>Cahilty Road, in both directions. Paving operations at Cahilty Place. Until Thu Aug 14. From 7:00 AM</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -728,17 +749,16 @@
         &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Kinghorn Rd and Notch Hill Rd for 0.6 km&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Cahilty Road&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Cahilty Place&lt;br/&gt;
         &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T00:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.478586,50.878584,0 -119.477496,50.878302,0 -119.473558,50.877285,0 -119.473443,50.877255,0 -119.473117,50.8772,0 -119.472886,50.877161,0 -119.472508,50.877089,0 -119.472021,50.877001,0 -119.471092,50.876927,0 -119.470357,50.876921,0 -119.469943,50.876919,0 -119.469935,50.876919,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-119.973056,50.862115,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97. Utility work planned between Noranda Rd and Collins Rd for 0.6 km (Prince George). Start</name>
@@ -801,26 +821,6 @@
             <tessellate>1</tessellate>
             <coordinates>-121.199421,49.505642,0 -121.1993,49.505949,0 -121.199214,49.506197,0 -121.199008,49.506789,0 -121.198943,49.506977,0 -121.198853,49.507902,0 -121.198825,49.508139,0 -121.199017,49.508784,0 -121.199271,49.509309,0 -121.199554,49.509781,0 -121.202481,49.513655,0 -121.203466,49.515811,0 -121.204117,49.516773,0 -121.205749,49.518568,0 -121.206114,49.519053,0 -121.20649,49.519665,0 -121.20677,49.520187,0 -121.207106,49.521345,0 -121.207158,49.521822,0 -121.207122,49.522321,0 -121.207112,49.522625,0 -121.206906,49.523561,0 -121.206001,49.52585,0 -121.205766,49.526609,0 -121.205575,49.527449,0 -121.205054,49.530428,0 -121.204884,49.531092,0 -121.204675,49.531714,0 -121.204341,49.532518,0 -121.203114,49.534663,0 -121.202169,49.536167,0 -121.201232,49.537407,0 -121.200308,49.53842,0 -121.200075,49.538639,0 -121.19936,49.539301,0 -121.199113,49.53953,0 -121.198121,49.540584,0 -121.197506,49.541334,0 -121.196796,49.542387,0 -121.196282,49.543378,0 -121.19537,49.545826,0 -121.194962,49.546742,0 -121.1948,49.547065,0 -121.194624,49.547414,0 -121.194398,49.54786,0 -121.194017,49.548616,0 -121.193819,49.549095,0 -121.193592,49.54989,0 -121.193179,49.551337,0 -121.192974,49.551803,0 -121.192288,49.552934,0 -121.191509,49.554033,0 -121.191099,49.554777,0 -121.190785,49.555473,0 -121.190423,49.556424,0 -121.189865,49.557321,0 -121.188055,49.559428,0 -121.187423,49.560533,0 -121.186804,49.561982,0 -121.186745,49.562122,0 -121.186475,49.562619,0 -121.186132,49.563085,0 -121.185759,49.563469,0 -121.184391,49.564739,0 -121.183884,49.565309,0 -121.18385,49.565347,0 -121.183425,49.565969,0 -121.183156,49.566552,0 -121.182987,49.567012,0 -121.182877,49.567757,0 -121.182641,49.57003,0 -121.182456,49.571814,0 -121.182278,49.572454,0 -121.182157,49.57275,0 -121.181777,49.573377,0 -121.181159,49.574114,0 -121.179513,49.575614,0 -121.178073,49.576903,0 -121.176974,49.577885,0 -121.17691,49.577942,0 -121.176632,49.578182,0 -121.174679,49.579863,0 -121.173059,49.581175,0 -121.170573,49.583133,0 -121.167613,49.585464,0 -121.167106,49.585863,0 -121.166007,49.58676,0 -121.165527,49.587239,0 -121.164642,49.588324,0 -121.164123,49.589293,0 -121.163879,49.590002,0 -121.163802,49.590332,0 -121.163758,49.590524,0 -121.163449,49.592313,0 -121.16291,49.593515,0 -121.161897,49.594753,0 -121.161735,49.594949,0 -121.16079,49.595662,0 -121.160297,49.595931,0 -121.159796,49.596152,0 -121.159679,49.596192,0 -121.159401,49.596289,0 -121.158855,49.596479,0 -121.158721,49.596526,0 -121.158449,49.596598,0 -121.157976,49.596724,0 -121.156695,49.596972,0 -121.151184,49.59769,0 -121.149914,49.597803,0 -121.145016,49.598124,0 -121.143614,49.598297,0 -121.142396,49.598484,0 -121.139245,49.599057,0 -121.138992,49.599091,0 -121.13849,49.599156,0 -121.137316,49.599225,0 -121.136315,49.599179,0 -121.135597,49.599088,0 -121.13479,49.598916,0 -121.134136,49.598721,0 -121.133216,49.598375,0 -121.133057,49.598305,0 -121.130648,49.59726,0 -121.128995,49.59665,0 -121.127514,49.596206,0 -121.126163,49.595883,0 -121.125426,49.595737,0 -121.124949,49.595654,0 -121.123745,49.595445,0 -121.122559,49.595304,0 -121.121125,49.595191,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Cahilty Road, in both directions. Paving operations at Cahilty Place. Until Thu Aug 14. From 7:00 AM</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Cahilty Road&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Cahilty Place&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T00:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-119.973056,50.862115,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Kitsuksis Rd., in both directions. Utility work between Short st. And Spruce St. Until Fri Oct 31 at</name>
@@ -2080,6 +2080,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 5A, in both directions. Utility work at Bridge St (Princeton). Until Thu Aug 14. From 7:00 A</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Bridge St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T00:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.506096,49.458812,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Construction work between 216th St and Exit 66: 232nd St</name>
           <description>
         &lt;![CDATA[
@@ -2118,26 +2138,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-121.316681,50.584066,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5A, in both directions. Utility work at Bridge St (Princeton). Until Thu Aug 14. From 7:00 A</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 5A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Bridge St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T00:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.506096,49.458812,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
