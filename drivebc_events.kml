@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-12 21:01:52 UTC
+        Last updated: 2025-08-12 21:33:55 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (267)</name>
+      <name>🚗 Traffic Events (270)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4316,6 +4316,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Bridge maintenance planned between 9th Ave and Ce</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 9th Ave and Cedar Ave for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T14:15:36-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.061493,49.518051,0 -115.061513,49.5182,0 -115.061586,49.518771,0 -115.061391,49.519734,0 -115.061232,49.520169,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Ford Rd and Bolton Rd</name>
           <description>
         &lt;![CDATA[
@@ -5061,7 +5082,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Goudie Rd. There is a wildfire at Highway 33. Single lane alternating traffic. Next update time Wed </name>
+          <name>Goudie Rd. Road cleared at Highway 33. Last updated Tue Aug 12 at 2:21 PM PDT. (DBC-80299)</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5071,7 +5092,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Goudie Rd&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Highway 33&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T08:36:47-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T14:21:45-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5202,7 +5223,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 33, in both directions. Forest fire between Daves Rd and Joe Riche Rd for 3.5 km (1 to 4 km </name>
+          <name>Highway 33, in both directions. Road cleared between Daves Rd and Joe Riche Rd for 3.5 km (1 to 4 km</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5212,7 +5233,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 33&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Daves Rd and Joe Riche Rd for 3.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T08:36:39-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T14:21:36-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5427,26 +5448,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Stalled vehicle between Massey Tunnel and Exit 28 (Delta). Right lane is blo</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T13:47:44-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.065788,49.113975,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between Wilgress Lake Rest Area and Granby Rd</name>
           <description>
         &lt;![CDATA[
@@ -5498,13 +5499,53 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between United Blvd and Port Mann Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T13:53:52-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T14:19:28-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.813538,49.220292,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident at 248 St (Langley - District). Left la</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At 248 St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T14:27:07-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.537041,49.118697,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 33: Kensington Ave and Exi</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T14:29:31-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.936557,49.236522,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5594,6 +5635,27 @@
           <Point>
             <coordinates>-123.601836,48.689222,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 101, in both directions. Special event planned between Alberni St and Duncan St for 0.9 km (</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Alberni St and Duncan St for 0.9 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T14:25:07-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.529085,49.844316,0 -124.528492,49.843029,0 -124.528252,49.842515,0 -124.528139,49.842144,0 -124.528162,49.841749,0 -124.528213,49.840944,0 -124.528184,49.840737,0 -124.528038,49.839782,0 -124.527799,49.838221,0 -124.527643,49.83781,0 -124.527236,49.836748,0 -124.527171,49.836411,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 19 (Inland Island Highway), in both directions. Special event between Corcan Rd and Church R</name>
