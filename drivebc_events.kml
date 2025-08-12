@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-12 01:29:31 UTC
+        Last updated: 2025-08-12 02:17:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (254)</name>
+      <name>🚗 Traffic Events (252)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -760,6 +760,26 @@
             <tessellate>1</tessellate>
             <coordinates>-122.767234,53.965509,0 -122.767207,53.965766,0 -122.767129,53.966407,0 -122.767227,53.967266,0 -122.767802,53.969666,0 -122.767846,53.969911,0 -122.7679,53.970215,0 -122.76794,53.970784,0 -122.76797,53.971233,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Cahilty Road, in both directions. Paving operations planned at Cahilty Place. Starting Tue Aug 12 un</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Cahilty Road&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Cahilty Place&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T19:13:33-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.973056,50.862115,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Construction work at Exit 73 (Langley - District). Until</name>
@@ -3423,26 +3443,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Yates Creek Rd, in both directions. Paving operations at Heffley Louis Creek Rd near Kamloops. Until</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Yates Creek Rd&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Heffley Louis Creek Rd near Kamloops&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T05:29:12-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.112176,50.850897,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 5, in both directions. Maintenance at Wire Cache Rest Area (14 km south of Avola). Until Wed</name>
           <description>
         &lt;![CDATA[
@@ -3524,26 +3524,6 @@
             <tessellate>1</tessellate>
             <coordinates>-124.042515,49.231737,0 -124.042999,49.232444,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Lakeview Dr, in both directions. Shoulder maintenance at Heffley Louis Creek Rd near Kamloops. Until</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Lakeview Dr&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Heffley Louis Creek Rd near Kamloops&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T05:33:02-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.112004,50.851791,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Mountain Hwy, southbound. Utility work between Oxford Street and Main Street in North Vancouver - Ci</name>
@@ -4646,47 +4626,6 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared at Port Mann Bridge (Surrey). Last updated </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T18:18:39-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 20, in both directions. Vehicle incident between Meldrum Creek Rd and Pablo Creek Rd for 4.7</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 20&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Meldrum Creek Rd and Pablo Creek Rd for 4.7 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T17:13:22-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.281009,51.973515,0 -122.280747,51.973845,0 -122.28006,51.974393,0 -122.278851,51.975359,0 -122.278495,51.97568,0 -122.278323,51.975981,0 -122.278203,51.976192,0 -122.278132,51.976558,0 -122.278163,51.976921,0 -122.278224,51.977156,0 -122.278256,51.977277,0 -122.278612,51.978037,0 -122.278634,51.978635,0 -122.278541,51.978998,0 -122.278326,51.979844,0 -122.278622,51.981594,0 -122.278646,51.981735,0 -122.278598,51.982074,0 -122.27842,51.982407,0 -122.27839,51.982435,0 -122.278196,51.98262,0 -122.278111,51.982701,0 -122.277712,51.982927,0 -122.277414,51.983052,0 -122.276947,51.983248,0 -122.276334,51.983506,0 -122.276012,51.983641,0 -122.274589,51.984242,0 -122.274303,51.984362,0 -122.273894,51.984533,0 -122.273747,51.984612,0 -122.27331,51.984846,0 -122.272953,51.985261,0 -122.27284,51.98559,0 -122.27274,51.986701,0 -122.272432,51.989925,0 -122.272395,51.990083,0 -122.272078,51.991441,0 -122.272056,51.991536,0 -122.272028,51.991658,0 -122.270905,51.996635,0 -122.27072,51.997321,0 -122.270368,51.998104,0 -122.269873,51.998954,0 -122.268954,52.000007,0 -122.268893,52.000077,0 -122.268125,52.000666,0 -122.265553,52.00264,0 -122.263934,52.003883,0 -122.263431,52.004482,0 -122.263368,52.004589,0 -122.262984,52.005244,0 -122.262462,52.005923,0 -122.261805,52.00643,0 -122.260259,52.007536,0 -122.259737,52.00809,0 -122.259458,52.008533,0 -122.259248,52.009206,0 -122.259137,52.010107,0 -122.258935,52.010925,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Constructio</name>
           <description>
         &lt;![CDATA[
@@ -4777,13 +4716,33 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Old Richter Pass Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T18:01:12-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T18:42:30-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-119.546964,49.068599,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared at Second Narrows Bridge (North Vancouver -</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T19:05:13-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.026346,49.295359,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5143,7 +5102,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At 269 Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T15:56:29-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T19:09:45-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
