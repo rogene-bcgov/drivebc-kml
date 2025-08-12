@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-12 03:45:20 UTC
+        Last updated: 2025-08-12 04:06:50 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (251)</name>
+      <name>🚗 Traffic Events (252)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -616,27 +616,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19 (Inland Island Highway), in both directions. Utility work planned between Northwest Bay R</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Northwest Bay Rd and Hillview Rd for 1.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-06T15:21:55-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.198731,49.263298,0 -124.198389,49.263148,0 -124.197931,49.262886,0 -124.197541,49.262574,0 -124.197229,49.262309,0 -124.196807,49.261951,0 -124.196445,49.261691,0 -124.196103,49.261492,0 -124.195661,49.261314,0 -124.195059,49.261148,0 -124.194398,49.26102,0 -124.191934,49.260672,0 -124.191152,49.260562,0 -124.190356,49.260396,0 -124.189721,49.260189,0 -124.188991,49.259891,0 -124.186862,49.258789,0 -124.185157,49.257907,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Cecil Lake Rd (Highway 103), in both directions. Maintenance between 263 Rd and 251 Rd for 1.4 km (1</name>
           <description>
         &lt;![CDATA[
@@ -1088,6 +1067,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Construction work at Exit 27: E 1st Ave (Vancouver). Unt</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 27: E 1st Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T20:59:22-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.027735,49.269374,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 5 (Coquihalla North), northbound. Construction work planned between Chuwhels Mountain Rd and</name>
           <description>
         &lt;![CDATA[
@@ -1292,6 +1291,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.845412,49.246316,0 -121.844009,49.246446,0 -121.843713,49.246448,0 -121.842488,49.246458,0 -121.838506,49.246077,0 -121.823455,49.244625,0 -121.823145,49.244594,0 -121.821039,49.244387,0 -121.819685,49.244253,0 -121.817148,49.244176,0 -121.817066,49.244173,0 -121.817002,49.244171,0 -121.800003,49.244228,0 -121.79553,49.244243,0 -121.793862,49.24425,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19 (Inland Island Highway), in both directions. Utility work between Northwest Bay Rd and Hi</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Northwest Bay Rd and Hillview Rd for 1.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T21:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.198731,49.263298,0 -124.198389,49.263148,0 -124.197931,49.262886,0 -124.197541,49.262574,0 -124.197229,49.262309,0 -124.196807,49.261951,0 -124.196445,49.261691,0 -124.196103,49.261492,0 -124.195661,49.261314,0 -124.195059,49.261148,0 -124.194398,49.26102,0 -124.191934,49.260672,0 -124.191152,49.260562,0 -124.190356,49.260396,0 -124.189721,49.260189,0 -124.188991,49.259891,0 -124.186862,49.258789,0 -124.185157,49.257907,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3629,7 +3649,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Front Street. Construction work planned between E Columbia St and Columbia St in New Westminster. St</name>
+          <name>Front Street. Construction work between E Columbia St and Columbia St in New Westminster. Until Tue </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3639,7 +3659,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Front Street&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between E Columbia St and Columbia St in New Westminster&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T13:47:49-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T21:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -5072,7 +5092,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway), southbound. Vehicle incident at 269 Rd (1 km north of Fort St John). Ro</name>
+          <name>Highway 97 (Alaska Highway), southbound. Road cleared at 269 Rd (1 km north of Fort St John). Last u</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5082,8 +5102,8 @@
         &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At 269 Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T20:32:02-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T21:01:19-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
@@ -5092,7 +5112,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 17, northbound. Vehicle incident planned between 28 Ave Overpass and 64 St for 0.3 km (Delta</name>
+          <name>Highway 17, northbound. Vehicle incident between 28 Ave Overpass and 64 St for 0.3 km (Delta). Until</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5102,7 +5122,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 28 Ave Overpass and 64 St for 0.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T14:17:16-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T21:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
