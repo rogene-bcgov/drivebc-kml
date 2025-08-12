@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-12 00:06:56 UTC
+        Last updated: 2025-08-12 00:46:32 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (253)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1645,26 +1645,6 @@
             <tessellate>1</tessellate>
             <coordinates>-119.6825,50.817227,0 -119.680667,50.818505,0 -119.680114,50.818891,0 -119.679972,50.81899,0 -119.679653,50.819212,0 -119.679248,50.819496,0 -119.677113,50.820985,0 -119.676128,50.821673,0 -119.675784,50.821913,0 -119.675751,50.821936,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5, in both directions. Bridge maintenance at Canoe River Bridge (6 km south of Valemount). U</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Canoe River Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T09:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-119.26084,52.766614,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 17 (Patricia Bay Highway), northbound. Paving operations between Exit 26: McTavish Rd and Ex</name>
@@ -4686,6 +4666,87 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
+          <name>Highway 97, northbound. Road cleared between Campbell Rd and William R Bennett Bridge (1 km south of</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Campbell Rd and William R Bennett Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T17:38:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-119.512588,49.879226,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident at Port Mann Bridge (Surrey). HOV lane </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T17:09:44-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.813328,49.21973,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 20, in both directions. Vehicle incident between Meldrum Creek Rd and Pablo Creek Rd for 4.7</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 20&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Meldrum Creek Rd and Pablo Creek Rd for 4.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T17:13:22-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.281009,51.973515,0 -122.280747,51.973845,0 -122.28006,51.974393,0 -122.278851,51.975359,0 -122.278495,51.97568,0 -122.278323,51.975981,0 -122.278203,51.976192,0 -122.278132,51.976558,0 -122.278163,51.976921,0 -122.278224,51.977156,0 -122.278256,51.977277,0 -122.278612,51.978037,0 -122.278634,51.978635,0 -122.278541,51.978998,0 -122.278326,51.979844,0 -122.278622,51.981594,0 -122.278646,51.981735,0 -122.278598,51.982074,0 -122.27842,51.982407,0 -122.27839,51.982435,0 -122.278196,51.98262,0 -122.278111,51.982701,0 -122.277712,51.982927,0 -122.277414,51.983052,0 -122.276947,51.983248,0 -122.276334,51.983506,0 -122.276012,51.983641,0 -122.274589,51.984242,0 -122.274303,51.984362,0 -122.273894,51.984533,0 -122.273747,51.984612,0 -122.27331,51.984846,0 -122.272953,51.985261,0 -122.27284,51.98559,0 -122.27274,51.986701,0 -122.272432,51.989925,0 -122.272395,51.990083,0 -122.272078,51.991441,0 -122.272056,51.991536,0 -122.272028,51.991658,0 -122.270905,51.996635,0 -122.27072,51.997321,0 -122.270368,51.998104,0 -122.269873,51.998954,0 -122.268954,52.000007,0 -122.268893,52.000077,0 -122.268125,52.000666,0 -122.265553,52.00264,0 -122.263934,52.003883,0 -122.263431,52.004482,0 -122.263368,52.004589,0 -122.262984,52.005244,0 -122.262462,52.005923,0 -122.261805,52.00643,0 -122.260259,52.007536,0 -122.259737,52.00809,0 -122.259458,52.008533,0 -122.259248,52.009206,0 -122.259137,52.010107,0 -122.258935,52.010925,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, in both directions. Police incident at Lions Gate Bridge (West Vancouver). Centre lane c</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Lions Gate Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T17:31:05-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.13737,49.31659,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Constructio</name>
           <description>
         &lt;![CDATA[
@@ -4703,6 +4764,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.426554,49.075276,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7B (Mary Hill Bypass), westbound. Road cleared between Pitt River Rd and Shaughnessy St (Por</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 7B&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Shaughnessy St and Pitt River Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T17:41:12-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.792711,49.226796,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5049,26 +5130,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.489194,52.972914,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 6 EW, eastbound. 2 sailing wait at Needles Ferry (Needles). Last updated Mon Aug 11 at 3:41 </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 6 EW&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Needles Ferry&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T15:41:46-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-118.082585,49.871851,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
