@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-12 15:02:08 UTC
+        Last updated: 2025-08-12 15:35:48 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (248)</name>
+      <name>🚗 Traffic Events (250)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -987,6 +987,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, in both directions. Road sweeping between Copper Dr and Murrin Lake Provincial Pk for 3.</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Copper Dr and Murrin Lake Provincial Pk for 3.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T08:20:34-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.20629,49.623885,0 -123.206419,49.624165,0 -123.20648,49.624369,0 -123.206508,49.62449,0 -123.206504,49.624711,0 -123.206459,49.625013,0 -123.206428,49.625255,0 -123.206424,49.625499,0 -123.206458,49.625564,0 -123.206534,49.625974,0 -123.206835,49.626529,0 -123.207062,49.626949,0 -123.207121,49.62724,0 -123.207075,49.627594,0 -123.206881,49.628287,0 -123.206863,49.628799,0 -123.207009,49.629305,0 -123.209722,49.634052,0 -123.210244,49.635155,0 -123.21054,49.635599,0 -123.211813,49.636757,0 -123.212218,49.637323,0 -123.212461,49.637872,0 -123.21271,49.63866,0 -123.212771,49.638855,0 -123.212927,49.639663,0 -123.212955,49.640073,0 -123.212882,49.640686,0 -123.212617,49.641239,0 -123.212355,49.641568,0 -123.212028,49.641865,0 -123.21142,49.642252,0 -123.210954,49.64247,0 -123.210209,49.642695,0 -123.209408,49.642818,0 -123.208335,49.642921,0 -123.208015,49.642954,0 -123.207468,49.643058,0 -123.206948,49.64321,0 -123.206239,49.643526,0 -123.205832,49.643793,0 -123.205112,49.644366,0 -123.204937,49.644526,0 -123.204238,49.645163,0 -123.203798,49.645627,0 -123.203272,49.646302,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Tulameen FSR, in both directions. Road maintenance work at 1.6km East of Hwy 5. Until Thu Aug 14 at </name>
           <description>
         &lt;![CDATA[
@@ -1127,6 +1148,27 @@
           <Point>
             <coordinates>-120.880735,50.150952,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Construction work between Sharples Rd and Skeena Dr for 2.6 km (2 t</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Sharples Rd and Skeena Dr for 2.6 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T08:31:48-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-128.533855,54.521855,0 -128.529289,54.526922,0 -128.528112,54.528147,0 -128.527417,54.528715,0 -128.526692,54.529163,0 -128.525971,54.52952,0 -128.525391,54.529763,0 -128.519844,54.531801,0 -128.517652,54.532493,0 -128.515221,54.533147,0 -128.512786,54.533717,0 -128.511054,54.534068,0 -128.510056,54.534245,0 -128.506341,54.534965,0 -128.504849,54.535387,0 -128.503324,54.535863,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla North), northbound. Construction work planned between Chuwhels Mountain Rd and</name>
@@ -4707,17 +4749,17 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between United Blvd and Exit 44 (Coquit</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Road cleared between Exit 44 and United Blvd (C</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 44 and United Blvd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T07:49:18-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T08:28:40-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
