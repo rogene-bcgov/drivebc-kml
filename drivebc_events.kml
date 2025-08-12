@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-12 04:39:07 UTC
+        Last updated: 2025-08-12 05:02:13 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1335,17 +1335,17 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned at Malakwa Rd (17 km east of S</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Paving operations planned at Malakwa Rd (17 km </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Malakwa Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T08:34:29-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T21:50:16-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -2801,26 +2801,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 18. Electrical maintenance planned at Youbou Rd (Lake Cowichan). Starting Tue Aug 19 at 9:00</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 18&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Youbou Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T12:47:45-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-124.041112,48.833459,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 99, southbound. Utility work between Massey Tunnel and Exit 28 for 0.3 km (Delta). Until Sun</name>
           <description>
         &lt;![CDATA[
@@ -2840,6 +2820,26 @@
             <tessellate>1</tessellate>
             <coordinates>-123.064943,49.113293,0 -123.066009,49.114154,0 -123.066722,49.11473,0 -123.06679,49.114784,0 -123.067503,49.11536,0 -123.067712,49.115528,0 -123.067986,49.115749,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 18. Electrical maintenance planned at Youbou Rd (Lake Cowichan). Starting Tue Aug 19 at 9:00</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 18&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Youbou Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-29T12:47:45-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.041112,48.833459,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Tillicum Rd and Exit </name>
