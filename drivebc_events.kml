@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-13 12:02:57 UTC
+        Last updated: 2025-08-13 12:43:58 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (251)</name>
+      <name>🚗 Traffic Events (252)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5115,6 +5115,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.50468,48.818979,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>McLure Ferry, in both directions. There will be required maintenance between McLure Ferry and the en</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; McLure Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between McLure Ferry and the end of McLure Ferry&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-13T05:05:27-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-120.242217,51.041336,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
