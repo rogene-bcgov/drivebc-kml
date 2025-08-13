@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-13 21:33:30 UTC
+        Last updated: 2025-08-13 22:01:50 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (267)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5018,6 +5018,27 @@
           <Point>
             <coordinates>-122.185979,52.298514,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Electrical maintenance between Pickering Rd and Foreman Rd for 4.1 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Pickering Rd and Foreman Rd for 4.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-13T14:45:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.70029,53.908012,0 -122.700132,53.908032,0 -122.693974,53.90882,0 -122.693114,53.90893,0 -122.692115,53.909011,0 -122.690991,53.909025,0 -122.690249,53.908987,0 -122.689398,53.908889,0 -122.688622,53.908756,0 -122.686416,53.908273,0 -122.683662,53.907907,0 -122.68025,53.907196,0 -122.680005,53.907147,0 -122.679456,53.907103,0 -122.67938,53.907097,0 -122.678889,53.907046,0 -122.6784,53.907028,0 -122.677718,53.907023,0 -122.677122,53.90705,0 -122.676916,53.907059,0 -122.676171,53.907137,0 -122.675753,53.907198,0 -122.673183,53.907571,0 -122.671368,53.907834,0 -122.669429,53.908115,0 -122.668468,53.908254,0 -122.667504,53.908394,0 -122.66689,53.908483,0 -122.666636,53.90852,0 -122.665866,53.908632,0 -122.663609,53.908964,0 -122.66274,53.909172,0 -122.661776,53.909504,0 -122.660878,53.909933,0 -122.660074,53.910442,0 -122.65961,53.910823,0 -122.657542,53.912522,0 -122.657251,53.912761,0 -122.656042,53.913755,0 -122.655921,53.913854,0 -122.655896,53.913874,0 -122.655628,53.914095,0 -122.655588,53.914127,0 -122.653483,53.915857,0 -122.650816,53.918048,0 -122.647938,53.920411,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla North). Construction work between Exit 286: Merritt - 97C and Exit 315: Helmer</name>
