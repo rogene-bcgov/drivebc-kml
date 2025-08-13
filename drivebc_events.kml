@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-13 04:40:05 UTC
+        Last updated: 2025-08-13 05:03:21 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (254)</name>
+      <name>🚗 Traffic Events (252)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -186,7 +186,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Bridge construction planned between Gladwin Rd </name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Bridge construction between Gladwin Rd and Nico</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -196,7 +196,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Gladwin Rd and Nicomen River Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T11:09:12-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T22:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -819,26 +819,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-124.816958,49.272724,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Bridge maintenance at Port Mann Bridge (Surrey). Until W</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T21:16:05-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -2987,6 +2967,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations at Exit 25: McGill St (Vancouver). Unt</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 25: McGill St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T22:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.031074,49.287065,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Utility work between Willow River Rest Area and</name>
           <description>
         &lt;![CDATA[
@@ -3025,26 +3025,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.088138,49.331915,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations planned at Exit 25: McGill St (Vancouv</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Exit 25: McGill St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-11T11:33:49-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; Yes
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.031074,49.287065,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4315,7 +4295,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 7B (Mary Hill Bypass), eastbound. Bridge maintenance planned between United Blvd and Shaughn</name>
+          <name>Highway 7B (Mary Hill Bypass), eastbound. Bridge maintenance between United Blvd and Shaughnessy St </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4325,7 +4305,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 7B&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between United Blvd and Shaughnessy St for 0.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T15:00:30-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T22:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4835,27 +4815,6 @@
       </Folder>
       <Folder>
         <name>Incident Events</name>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway), in both directions. Road cleared between Wardner Bridge and White Clo</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Wardner Bridge and White Cloud Pit Rd for 2.6 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T21:29:03-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-115.424129,49.434266,0 -115.42403,49.434223,0 -115.418553,49.431914,0 -115.41824,49.431782,0 -115.417949,49.431659,0 -115.417161,49.431328,0 -115.415673,49.430533,0 -115.413693,49.429242,0 -115.4111,49.42755,0 -115.409398,49.426439,0 -115.408516,49.425863,0 -115.406889,49.424802,0 -115.404129,49.423057,0 -115.40297,49.422302,0 -115.400775,49.420873,0 -115.399981,49.420356,0 -115.398105,49.419134,0 -115.397432,49.418696,0</coordinates>
-          </LineString>
-        </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Constructio</name>
           <description>
