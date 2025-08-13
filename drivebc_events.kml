@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-12 23:33:38 UTC
+        Last updated: 2025-08-13 00:06:58 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (259)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3819,27 +3819,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Bridge maintenance between Columbia Ave and Junction Hwy 3B for 1.4 k</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Columbia Ave and Junction Hwy 3B for 1.4 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T12:50:46-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.651833,49.297563,0 -117.651454,49.297073,0 -117.651138,49.29673,0 -117.650804,49.296454,0 -117.650413,49.296216,0 -117.650287,49.296139,0 -117.650098,49.296066,0 -117.649324,49.29577,0 -117.648571,49.295543,0 -117.648359,49.295474,0 -117.646098,49.295039,0 -117.644975,49.294813,0 -117.642381,49.294289,0 -117.641241,49.294058,0 -117.640208,49.293845,0 -117.639371,49.293589,0 -117.638644,49.293291,0 -117.638198,49.293058,0 -117.638007,49.292956,0 -117.637396,49.292541,0 -117.637168,49.292336,0 -117.636593,49.29181,0 -117.635627,49.29085,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 29, in both directions. Maintenance between Cache Creek Bridge and Bennett Rd for 4.4 km (64</name>
           <description>
         &lt;![CDATA[
@@ -4858,6 +4837,67 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Road cleared at Port Mann Bridge (Surrey). Last updated </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T17:02:52-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.813328,49.21973,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident at Exit 73 (Langley - District). Left l</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 73&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T16:57:14-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.492806,49.101322,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Golden Ears Way and Exit 55: 192</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Golden Ears Way and Exit 55: 192 St for 1.8 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T16:59:51-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.71575,49.176314,0 -122.715611,49.176277,0 -122.711238,49.175173,0 -122.70972,49.174808,0 -122.709195,49.174675,0 -122.70906,49.174641,0 -122.702062,49.172681,0 -122.70198,49.172658,0 -122.69768,49.171517,0 -122.695043,49.170827,0 -122.694338,49.170642,0 -122.693903,49.170528,0 -122.692559,49.170176,0 -122.692501,49.170161,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 37A, in both directions. Watch for falling rocks between Bitter Cr. Bridge and Surprise Pull</name>
           <description>
         &lt;![CDATA[
@@ -5242,26 +5282,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 17, eastbound. Police incident at 104 Ave (Surrey). Second left-turn lane blocked. Next upda</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At 104 Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T16:00:03-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.738491,49.191487,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Exit 33: Kensington Ave and Exit</name>
           <description>
         &lt;![CDATA[
@@ -5272,13 +5292,33 @@
         &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T16:23:39-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T17:02:23-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.958181,49.240724,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Arrow Park Ferry, in both directions. There will be required maintenance at Arrow Park Ferry (Arrow </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Arrow Park Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Arrow Park Ferry&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T16:34:13-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-117.901714,50.10719,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
