@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-13 17:01:58 UTC
+        Last updated: 2025-08-13 17:33:33 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -824,7 +824,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Cahilty Cr., in both directions. Paving operations at Cahilty Cr. Until Thu Aug 14. From 7:00 AM to </name>
+          <name>Cahilty Rd, in both directions. Paving operations at Cahilty Pl. Until Fri Aug 15. From 7:00 AM to 7</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -832,9 +832,9 @@
         &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Cahilty Cr.&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Cahilty Cr&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T14:42:01-07:00&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Cahilty Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Cahilty Pl&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-13T10:01:22-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -3415,7 +3415,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Fulford Ganges Road&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Seaview Avenue and Cranberry Road&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-23T09:18:20-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-13T10:20:32-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4628,26 +4628,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway). Road sweeping between Harrison Mills Bridge and Kennedy Rd (Kent). Unt</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Harrison Mills Bridge and Kennedy Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-13T07:48:50-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.945256,49.24515,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Lochside Dr, in both directions. Utility work planned between Captains Walk and Ocean Avenue. Starti</name>
           <description>
         &lt;![CDATA[
@@ -5449,27 +5429,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Redgrave and Wiseman Rd for 1.5</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Redgrave and Wiseman Rd for 1.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-13T09:02:27-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.33562,51.48457,0 -117.335504,51.484598,0 -117.335082,51.484698,0 -117.334455,51.484847,0 -117.331003,51.48572,0 -117.329858,51.48601,0 -117.329102,51.486201,0 -117.328802,51.486277,0 -117.328424,51.48637,0 -117.323425,51.487591,0 -117.319124,51.488642,0 -117.317358,51.489074,0 -117.316437,51.4893,0 -117.314978,51.489657,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Arrow Park Ferry, in both directions. There will be required maintenance at Arrow Park Ferry (Arrow </name>
           <description>
         &lt;![CDATA[
@@ -5487,6 +5446,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.901714,50.10719,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Willingdon Ave, southbound. Vehicle incident at Highway 1 in Burnaby. Left lane is blocked. Next upd</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Willingdon Ave&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Highway 1 in Burnaby&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-13T10:26:13-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.0039,49.257524,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
