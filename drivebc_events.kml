@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-14 21:33:36 UTC
+        Last updated: 2025-08-14 22:01:46 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (280)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5124,26 +5124,6 @@
             <coordinates>-123.560719,48.658073,0 -123.560719,48.658079,0 -123.560667,48.658229,0 -123.560604,48.658411,0</coordinates>
           </LineString>
         </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway). Maintenance at Wiseman Rd (25 km west of Golden). Until Thu Aug 14 </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Wiseman Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-14T09:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-117.183905,51.484142,0</coordinates>
-          </Point>
-        </Placemark>
       </Folder>
       <Folder>
         <name>Incident Events</name>
@@ -5522,74 +5502,13 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 202: Portia and Exit 217: Zopkios Brake Check&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-14T13:13:30-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-14T14:32:47-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-121.156488,49.596999,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 29, in both directions. Vehicle incident between Upper Cache Rd and Szoo Rd for 0.5 km (46 t</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Upper Cache Rd and Szoo Rd for 0.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-14T13:12:20-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.349311,56.245589,0 -121.346055,56.245268,0 -121.34238,56.244905,0 -121.342361,56.244903,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Admirals Road, in both directions. Road cleared between Seenupin Rd and Colville Rd. Last updated Th</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Admirals Road&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Seenupin Rd and Colville Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-14T14:22:05-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.427734,48.444792,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97, northbound. Road cleared between Campbell Rd and William R Bennett Bridge (1 km south of</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Campbell Rd and William R Bennett Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-14T14:20:17-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-119.514783,49.878826,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
