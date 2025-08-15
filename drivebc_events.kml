@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-15 17:34:47 UTC
+        Last updated: 2025-08-15 18:02:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -595,6 +595,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.049703,49.326579,0 -123.046732,49.325659,0 -123.045835,49.325228,0 -123.045234,49.324826,0 -123.044676,49.324243,0 -123.044631,49.324186,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19 (Island Highway), in both directions. Road construction work planned between Sayward Timb</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Sayward Timber and Barge Terminal Rd for 5.4 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-15T10:48:53-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.369172,50.110237,0 -125.365309,50.110937,0 -125.36444,50.11108,0 -125.363065,50.111306,0 -125.361481,50.111487,0 -125.360902,50.111551,0 -125.354253,50.111934,0 -125.353918,50.111947,0 -125.353109,50.111976,0 -125.350952,50.111977,0 -125.349822,50.11195,0 -125.348314,50.11186,0 -125.348071,50.111838,0 -125.343991,50.111479,0 -125.3432,50.111389,0 -125.34274,50.111289,0 -125.342151,50.111162,0 -125.341316,50.110854,0 -125.340779,50.110601,0 -125.340321,50.11031,0 -125.340131,50.110188,0 -125.33957,50.109709,0 -125.335948,50.106412,0 -125.33587,50.106341,0 -125.335073,50.105665,0 -125.334614,50.105276,0 -125.333088,50.104074,0 -125.332384,50.103446,0 -125.332217,50.103298,0 -125.331736,50.102756,0 -125.331484,50.102473,0 -125.331135,50.102151,0 -125.330634,50.101689,0 -125.329067,50.100245,0 -125.328739,50.099943,0 -125.325523,50.096997,0 -125.32536,50.096879,0 -125.324652,50.096367,0 -125.323629,50.095862,0 -125.323366,50.095696,0 -125.323017,50.095475,0 -125.322661,50.095146,0 -125.322311,50.09461,0 -125.322299,50.094591,0 -125.321833,50.09357,0 -125.321321,50.092448,0 -125.321098,50.091959,0 -125.320472,50.090587,0 -125.320057,50.089992,0 -125.319645,50.089561,0 -125.319158,50.089167,0 -125.318494,50.088749,0 -125.317969,50.088544,0 -125.316115,50.088007,0 -125.315171,50.087615,0 -125.314472,50.087224,0 -125.314131,50.087034,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4530,27 +4551,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97, northbound. Maintenance between Birnie Rd and Clerke Rd for 1.0 km (Coldstream to 1 km s</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Birnie Rd and Clerke Rd for 1.0 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-15T05:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.298888,50.216234,0 -119.298228,50.216604,0 -119.296541,50.217744,0 -119.295869,50.218132,0 -119.295357,50.218371,0 -119.294804,50.218572,0 -119.292525,50.21929,0 -119.291814,50.21955,0 -119.291298,50.219802,0 -119.290812,50.220112,0 -119.290319,50.220516,0 -119.289939,50.220924,0 -119.289605,50.221438,0 -119.289467,50.22175,0 -119.289357,50.222162,0 -119.289364,50.222659,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 10, eastbound. Paving operations planned between 184 St and 188 St for 0.8 km (Surrey). Star</name>
           <description>
         &lt;![CDATA[
@@ -4714,27 +4714,6 @@
           <Point>
             <coordinates>-122.185979,52.298514,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97. Maintenance between Elmwood Rd and Highland Rd for 0.5 km (5 km north of Vernon). Until </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Elmwood Rd and Highland Rd for 0.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-15T05:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.241594,50.331476,0 -119.241463,50.331755,0 -119.241315,50.33208,0 -119.241207,50.332473,0 -119.241148,50.332893,0 -119.241124,50.333346,0 -119.241233,50.333964,0 -119.241381,50.334824,0 -119.241585,50.335806,0 -119.241728,50.336337,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (Malahat Highway), southbound. Electrical maintenance planned at Whittaker Rd (3 km south </name>
@@ -5139,6 +5118,26 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
+          <name>Kootenay Lake Ferries. 1 sailing wait at Kootenay Bay. Until Fri Aug 15. Next update time Fri Aug 15</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Kootenay Lake Ferries&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Kootenay Bay&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-15T10:43:47-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-116.875687,49.673784,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Constructio</name>
           <description>
         &lt;![CDATA[
@@ -5492,7 +5491,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between 136 St and 104 Ave&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-15T09:45:33-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-15T10:48:01-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
