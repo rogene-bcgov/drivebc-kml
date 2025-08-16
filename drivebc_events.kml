@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-16 21:01:37 UTC
+        Last updated: 2025-08-16 21:32:27 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (252)</name>
+      <name>🚗 Traffic Events (253)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4662,6 +4662,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>McLure Ferry, in both directions. High winds between McLure Ferry and the end of McLure Ferry (McLur</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; STRONG_WINDS&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; McLure Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between McLure Ferry and the end of McLure Ferry&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T14:19:01-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <Point>
+            <coordinates>-120.242217,51.041336,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 4. Limited visibility with smoke between Sutton Pass Summit and the end of Highway 4 for 85.</name>
           <description>
         &lt;![CDATA[
@@ -5050,17 +5070,17 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 11, in both directions. Watch for livestock between McCallum Rd and Valley Rd (Abbotsford). </name>
+          <name>Highway 11, southbound. Watch for livestock between Valley Rd and McCallum Rd (Abbotsford). Road clo</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between McCallum Rd and Valley Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T13:30:58-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T14:05:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
