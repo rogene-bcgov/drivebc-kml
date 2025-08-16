@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-16 19:01:30 UTC
+        Last updated: 2025-08-16 19:31:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4512,27 +4512,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway), northbound. Utility work between Old Hope Rd and Julia Frtg for 4.5 km </name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Old Hope Rd and Julia Frtg for 4.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-15T09:20:14-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.955765,56.276229,0 -120.956223,56.27644,0 -120.958186,56.277395,0 -120.959455,56.278007,0 -120.96139,56.27894,0 -120.961852,56.279168,0 -120.96235,56.279483,0 -120.963069,56.279826,0 -120.963427,56.279999,0 -120.965949,56.281208,0 -120.967047,56.28175,0 -120.967654,56.282032,0 -120.967692,56.28205,0 -120.968149,56.282272,0 -120.968623,56.282501,0 -120.968664,56.282521,0 -120.969706,56.283034,0 -120.97159,56.283853,0 -120.975639,56.28581,0 -120.976534,56.286242,0 -120.977848,56.286905,0 -120.979014,56.287539,0 -120.979411,56.287755,0 -120.980464,56.288364,0 -120.981959,56.289295,0 -120.984111,56.290718,0 -120.984924,56.291255,0 -120.988246,56.293449,0 -120.991671,56.295715,0 -120.993713,56.297071,0 -120.994497,56.297592,0 -120.995337,56.298194,0 -120.995816,56.298561,0 -120.997642,56.299959,0 -120.997699,56.300002,0 -120.998347,56.300498,0 -120.99997,56.30175,0 -121.002578,56.303761,0 -121.003384,56.304372,0 -121.004678,56.305353,0 -121.005098,56.305672,0 -121.005108,56.305679,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 29, northbound. Utility work between Donis Rd and 281 Rd for 8.3 km (70 to 61 km north of Hu</name>
           <description>
         &lt;![CDATA[
@@ -5071,7 +5050,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 28: Boundary Rd and Exit 2</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Grandview Highway and Exit 28: </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5081,13 +5060,33 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 28: Boundary Rd and Grandview Highway&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T11:57:22-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T11:58:38-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-123.02623,49.265285,0</coordinates>
+            <coordinates>-123.022249,49.259998,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), eastbound. Vehicle incident between Dewdney Trunk Rd and 203 St (Maple</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Dewdney Trunk Rd and 203 St&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T12:24:44-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.659287,49.219584,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
