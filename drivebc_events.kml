@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-16 20:33:57 UTC
+        Last updated: 2025-08-16 21:01:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (251)</name>
+      <name>🚗 Traffic Events (252)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5050,26 +5050,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Grandview Highway and Exit 28: Boun</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 28: Boundary Rd and Grandview Highway&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T13:29:38-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.022249,49.259998,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 11, in both directions. Watch for livestock between McCallum Rd and Valley Rd (Abbotsford). </name>
           <description>
         &lt;![CDATA[
@@ -5127,6 +5107,46 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-116.918676,49.64737,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Upper Arrow Lake Ferry, in both directions. Currently operating 30 minutes behind schedule between S</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Shelter Bay and Galena Bay&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T13:32:33-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-117.902213,50.628963,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Needles Ferry, in both directions. 1 sailing wait between Needles and Fauquier. Due to high traffic </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Needles and Fauquier&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T13:45:08-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.090394,49.873076,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
