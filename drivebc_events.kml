@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-16 20:01:49 UTC
+        Last updated: 2025-08-16 20:33:57 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -5050,7 +5050,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Grandview Highway and Exit 28: </name>
+          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Grandview Highway and Exit 28: Boun</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5060,7 +5060,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Exit 28: Boundary Rd and Grandview Highway&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T11:58:38-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T13:29:38-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5070,37 +5070,17 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), eastbound. Vehicle incident between Dewdney Trunk Rd and 203 St (Maple</name>
+          <name>Highway 11, in both directions. Watch for livestock between McCallum Rd and Valley Rd (Abbotsford). </name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Dewdney Trunk Rd and 203 St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T12:24:44-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.659287,49.219584,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 11, southbound. Watch for livestock between Valley Rd and McCallum Rd (Abbotsford). Road clo</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between McCallum Rd and Valley Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T12:55:33-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T13:30:58-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; Yes
         ]]&gt;
         </description>
@@ -5127,6 +5107,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.50468,48.818979,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Kootenay Lake Ferry. 1 sailing wait at Kootenay Lake Ferry (Kootenay Lake). Expect delays. Only the </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Kootenay Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Kootenay Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-16T13:29:24-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-116.918676,49.64737,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
