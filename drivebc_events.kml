@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-17 22:01:53 UTC
+        Last updated: 2025-08-17 22:35:30 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (251)</name>
+      <name>🚗 Traffic Events (253)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5008,6 +5008,47 @@
           <Point>
             <coordinates>-118.08995,49.873006,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Vehicle fire between Murrin Lake Provincial Pk and Copper Dr (2 km south of </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Copper Dr and Murrin Lake Provincial Pk&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-17T15:13:38-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.206294,49.623893,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, southbound. Forest fire between Kalamalka Lakeview Dr and Crystal Waters Rd for 3.0 km (</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Crystal Waters Rd and Kalamalka Lakeview Dr for 3.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-17T15:23:41-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.350013,50.182814,0 -119.350001,50.182825,0 -119.349883,50.182926,0 -119.349656,50.183119,0 -119.34927,50.18336,0 -119.346502,50.18477,0 -119.344198,50.186212,0 -119.343648,50.18648,0 -119.342532,50.186847,0 -119.341546,50.187005,0 -119.340758,50.187056,0 -119.339411,50.187054,0 -119.338417,50.187053,0 -119.338009,50.187052,0 -119.337074,50.187145,0 -119.336195,50.187335,0 -119.335476,50.187579,0 -119.334776,50.187915,0 -119.334234,50.18825,0 -119.333632,50.188781,0 -119.332132,50.19042,0 -119.331606,50.19088,0 -119.331027,50.191259,0 -119.330257,50.191629,0 -119.327592,50.192839,0 -119.327485,50.192888,0 -119.326567,50.193214,0 -119.324209,50.193966,0 -119.323515,50.194231,0 -119.322995,50.194488,0 -119.322464,50.194822,0 -119.321945,50.195264,0 -119.321492,50.195809,0 -119.319445,50.199098,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between East Lake Dr and Highway 3B for 39.8 </name>
