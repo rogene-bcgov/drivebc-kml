@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-18 07:03:52 UTC
+        Last updated: 2025-08-18 07:35:27 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (255)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1091,6 +1091,26 @@
             <tessellate>1</tessellate>
             <coordinates>-123.002001,49.090673,0 -123.003566,49.090922,0 -123.014233,49.092998,0 -123.019085,49.093942,0 -123.023082,49.09472,0 -123.024136,49.094925,0 -123.026296,49.095345,0 -123.026387,49.095363,0 -123.026551,49.095394,0 -123.026691,49.095422,0 -123.027399,49.095559,0 -123.028104,49.095703,0 -123.028875,49.095893,0 -123.029787,49.096173,0 -123.029966,49.096242,0 -123.030682,49.096515,0 -123.031229,49.096756,0 -123.039738,49.100612,0 -123.04626,49.103546,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Bridge maintenance at Oak Street Bridge (Vancouver). Until Mon Aug 18 at 4:0</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Oak Street Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T00:10:07-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.125725,49.200011,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 33, in both directions. Road construction work between Molnar Rd and Mills Rd for 2.5 km (Ke</name>
@@ -4818,13 +4838,13 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Schoolhouse St and United Blvd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-17T23:55:51-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T00:29:39-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-122.825177,49.234487,0</coordinates>
+            <coordinates>-122.825176,49.234488,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
