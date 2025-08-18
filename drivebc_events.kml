@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-18 19:02:41 UTC
+        Last updated: 2025-08-18 19:32:30 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2032,7 +2032,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between E Cedar Ave and Beitush Rd for 6.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-15T12:25:46-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T12:23:39-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -4327,6 +4327,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Gibraltar Mine Road, in both directions. Maintenance between Beaver Lake Road and Gibraltar Mine nea</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Gibraltar Mine Road&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Beaver Lake Road and Gibraltar Mine near Williams Lake&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T12:07:45-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.276728,52.446241,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Moore Road, in both directions. Utility work planned between Cherry Creek Road and Renton Road South</name>
           <description>
         &lt;![CDATA[
@@ -5503,26 +5523,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-120.819811,50.021545,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Douglas Rd and Exit 29: Willingd</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 29: Willingdon Ave and Douglas Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T10:47:08-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.983045,49.257441,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
