@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-18 15:02:01 UTC
+        Last updated: 2025-08-18 15:36:15 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2314,6 +2314,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance between Lieuwen West Rd and </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Lieuwen West Rd and Morice River Rd for 0.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T00:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-126.72098,54.39979,0 -126.72093,54.39975,0 -126.720363,54.399325,0 -126.719566,54.398759,0 -126.719449,54.39867,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Roderick St and Culduthel </name>
           <description>
         &lt;![CDATA[
@@ -2356,7 +2377,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance between Lieuwen West Rd and </name>
+          <name>Highway 20, in both directions. Ditching between Meldrum Creek Rd and English Rd for 2.3 km (22 to 2</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2364,16 +2385,16 @@
         &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Lieuwen West Rd and Morice River Rd for 0.2 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T00:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 20&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Meldrum Creek Rd and English Rd for 2.3 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T08:07:04-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-126.72098,54.39979,0 -126.72093,54.39975,0 -126.720363,54.399325,0 -126.719566,54.398759,0 -126.719449,54.39867,0</coordinates>
+            <coordinates>-122.281009,51.973515,0 -122.280747,51.973845,0 -122.28006,51.974393,0 -122.278851,51.975359,0 -122.278495,51.97568,0 -122.278323,51.975981,0 -122.278203,51.976192,0 -122.278132,51.976558,0 -122.278163,51.976921,0 -122.278224,51.977156,0 -122.278256,51.977277,0 -122.278612,51.978037,0 -122.278634,51.978635,0 -122.278541,51.978998,0 -122.278326,51.979844,0 -122.278622,51.981594,0 -122.278646,51.981735,0 -122.278598,51.982074,0 -122.27842,51.982407,0 -122.27839,51.982435,0 -122.278196,51.98262,0 -122.278111,51.982701,0 -122.277712,51.982927,0 -122.277414,51.983052,0 -122.276947,51.983248,0 -122.276334,51.983506,0 -122.276012,51.983641,0 -122.274589,51.984242,0 -122.274303,51.984362,0 -122.273894,51.984533,0 -122.273747,51.984612,0 -122.27331,51.984846,0 -122.272953,51.985261,0 -122.27284,51.98559,0 -122.27274,51.986701,0 -122.272432,51.989925,0 -122.272395,51.990083,0 -122.272078,51.991441,0 -122.272056,51.991536,0 -122.272028,51.991658,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4264,26 +4285,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), southbound. Electrical maintenance planned at Whippletree Frtg (2 k</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Whippletree Frtg&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-31T09:34:54-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.649476,48.736517,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97A. Bridge maintenance between 2nd Ave and Enderby Grindrod Rd for 0.1 km (10 to 9 km north</name>
           <description>
         &lt;![CDATA[
@@ -4303,6 +4304,26 @@
             <tessellate>1</tessellate>
             <coordinates>-119.118462,50.626832,0 -119.116761,50.626737,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), southbound. Electrical maintenance at Whippletree Frtg (2 km north </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Whippletree Frtg&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T08:30:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.649476,48.736517,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 10, eastbound. Paving operations between 184 St and 188 St for 0.8 km (Surrey). Until Sun Au</name>
@@ -5095,26 +5116,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1A, in both directions. Road cleared between Pattullo Bridge and Bridge Rd (1 km east of New</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1A&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Pattullo Bridge and Bridge Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T07:51:58-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.894145,49.207557,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between East Lake Dr and Highway 3B for 39.8 </name>
           <description>
         &lt;![CDATA[
@@ -5136,7 +5137,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), westbound. Vehicle incident between Harris Rd and Allen Way (Pitt Mead</name>
+          <name>Highway 7 (Lougheed Highway), westbound. Road cleared between Harris Rd and Allen Way (Pitt Meadows)</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5146,33 +5147,13 @@
         &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Allen Way and Harris Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T07:32:19-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T08:21:11-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.699131,49.234738,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between United Blvd and Port Mann Bridge</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between United Blvd and Port Mann Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T07:52:59-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.813544,49.220308,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5196,7 +5177,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91, northbound. Vehicle incident between Nordel Crt and River Rd (Delta). Right lane is bloc</name>
+          <name>Highway 91, northbound. Road cleared between Nordel Crt and River Rd (Delta). Last updated Mon Aug 1</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5206,13 +5187,33 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between River Rd and Nordel Crt&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T07:54:19-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T08:25:48-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.941397,49.156159,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Fort Rupert Road, in both directions. Vehicle incident at Byng Road. All lanes blocked. Watch for tr</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Fort Rupert Road&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Byng Road&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T08:18:26-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-127.419011,50.686299,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
