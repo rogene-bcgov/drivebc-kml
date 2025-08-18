@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-18 17:36:00 UTC
+        Last updated: 2025-08-18 18:02:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (268)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4202,6 +4202,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 5 (Coquihalla South). Mowing between Exit 192 and Exit 195 for 3.5 km (15 km north of Hope t</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 192 and Exit 195 for 3.5 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T10:47:45-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.265757,49.449953,0 -121.264307,49.450797,0 -121.262671,49.451975,0 -121.261842,49.452638,0 -121.260642,49.453758,0 -121.259356,49.455255,0 -121.256467,49.459472,0 -121.25466,49.462299,0 -121.254252,49.463718,0 -121.254197,49.463909,0 -121.254121,49.465224,0 -121.254239,49.466768,0 -121.254249,49.466857,0 -121.25427,49.467045,0 -121.254456,49.468681,0 -121.254413,49.469931,0 -121.254291,49.471123,0 -121.2539,49.474147,0 -121.253851,49.474525,0 -121.253696,49.475728,0 -121.25362,49.476314,0 -121.2536,49.476473,0 -121.253431,49.477869,0 -121.25318,49.479311,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, in both directions. Utility work planned between Exit 28 and Massey Tunnel for 2.2 km (R</name>
           <description>
         &lt;![CDATA[
@@ -5464,7 +5485,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 5 (Coquihalla South), northbound. Vehicle recovery planned at Exit 276: Comstock Rd (9 km so</name>
+          <name>Highway 5 (Coquihalla South), northbound. Vehicle recovery at Exit 276: Comstock Rd (9 km south of M</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5474,13 +5495,33 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; At Exit 276: Comstock Rd&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T09:43:03-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T11:00:00-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-120.819811,50.021545,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Douglas Rd and Exit 29: Willingd</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 29: Willingdon Ave and Douglas Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T10:47:08-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.983045,49.257441,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
