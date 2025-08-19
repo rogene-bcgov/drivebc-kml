@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-19 04:36:18 UTC
+        Last updated: 2025-08-19 05:01:55 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (275)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2927,6 +2927,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance between Railway St and Second Narrows</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Railway St and Second Narrows Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T21:45:46-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.026384,49.296867,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 5. Utility work between Allen-Meeker Rd and Thuya Creek Rd for 4.6 km (10 to 5 km south of L</name>
           <description>
         &lt;![CDATA[
@@ -4627,26 +4647,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Bridge maintenance planned at Oak Street Bridge (Vancouver). Starting Mon Au</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; At Oak Street Bridge&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T14:34:20-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.125725,49.200011,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 4, in both directions. Construction work between Hydro Hill West Creek and Kennedy River Res</name>
           <description>
         &lt;![CDATA[
@@ -4687,6 +4687,26 @@
             <tessellate>1</tessellate>
             <coordinates>-123.367871,48.448264,0 -123.367881,48.448287,0 -123.368178,48.449187,0 -123.368468,48.449751,0 -123.368779,48.450155,0 -123.369333,48.450761,0 -123.369565,48.451016,0 -123.369795,48.451267,0 -123.370532,48.452072,0 -123.370825,48.452445,0 -123.371003,48.452789,0 -123.371067,48.453018,0 -123.371075,48.453515,0 -123.371077,48.453619,0 -123.370793,48.454327,0 -123.370679,48.454612,0 -123.370603,48.455046,0 -123.370667,48.455482,0 -123.370777,48.455715,0 -123.370821,48.4558,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Bridge maintenance at Oak Street Bridge (Vancouver). Until Tue Aug 19 at 5:0</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Oak Street Bridge&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T22:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.125725,49.200011,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Bridge maintenance at Port Mann Bridge (Surrey)</name>
