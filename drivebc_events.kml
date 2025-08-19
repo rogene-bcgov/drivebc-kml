@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-19 20:02:05 UTC
+        Last updated: 2025-08-19 20:33:49 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (297)</name>
+      <name>🚗 Traffic Events (298)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4049,6 +4049,27 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), northbound. Utility work planned between Butterfield Rd and Shawnig</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Butterfield Rd and Shawnigan-Mill Bay Rd for 3.1 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T13:23:34-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.548004,48.627562,0 -123.548276,48.628291,0 -123.548292,48.628345,0 -123.548494,48.629059,0 -123.548605,48.62966,0 -123.548821,48.631672,0 -123.549011,48.632476,0 -123.550646,48.63731,0 -123.550741,48.637545,0 -123.550934,48.638022,0 -123.551356,48.63885,0 -123.551497,48.639082,0 -123.551714,48.639437,0 -123.552263,48.640216,0 -123.553624,48.641892,0 -123.553821,48.642134,0 -123.55404,48.642403,0 -123.555127,48.64374,0 -123.55557,48.644285,0 -123.555875,48.644661,0 -123.556417,48.645327,0 -123.557013,48.64606,0 -123.558355,48.647711,0 -123.558745,48.6483,0 -123.559074,48.648889,0 -123.559357,48.649558,0 -123.559566,48.650249,0 -123.559672,48.650825,0 -123.559928,48.652217,0 -123.559981,48.652506,0 -123.560012,48.652676,0 -123.560042,48.652846,0 -123.560315,48.65437,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97, southbound. Maintenance planned between North Nechako Rd and 5th Ave for 1.2 km (Prince </name>
           <description>
         &lt;![CDATA[
@@ -6035,26 +6056,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway), in both directions. Vehicle incident between Cemetery Rd and Gibbon R</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Cemetery Rd and Gibbon Rd E&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T12:45:46-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-117.29611,49.194162,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Upper Arrow Lake Ferry. Departure delayed between Shelter Bay and Galena Bay. From 8:45 AM to 11:00 </name>
           <description>
         &lt;![CDATA[
@@ -6072,6 +6073,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Vehicle incident between Cemetery Rd and Gibbon R</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Cemetery Rd and Gibbon Rd E&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T12:52:35-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-117.29611,49.194162,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
