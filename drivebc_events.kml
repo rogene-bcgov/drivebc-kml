@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-19 17:34:11 UTC
+        Last updated: 2025-08-19 18:02:23 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (291)</name>
+      <name>🚗 Traffic Events (292)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3573,6 +3573,26 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Summers Creek Rd. Bridge maintenance planned between 17km and 17km. Starting Mon Sep 8 until Thu Sep</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Summers Creek Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between 17km and 17km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T10:33:49-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; Yes
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.519891,49.670099,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Mountain Hwy, southbound. Utility work between Oxford Street and Main Street in North Vancouver - Ci</name>
           <description>
         &lt;![CDATA[
@@ -3591,6 +3611,27 @@
           <Point>
             <coordinates>-123.032068,49.305743,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19A (Island Highway), in both directions. Mowing between Riverbend Rd and Larkdowne Rd for 3</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Riverbend Rd and Larkdowne Rd for 3.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T10:47:18-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.489911,49.36332,0 -124.49027,49.363197,0 -124.490543,49.363104,0 -124.491667,49.36272,0 -124.492555,49.362416,0 -124.492966,49.362293,0 -124.493602,49.362209,0 -124.494798,49.362174,0 -124.49529,49.36219,0 -124.496343,49.362276,0 -124.497839,49.362318,0 -124.49814,49.362312,0 -124.499625,49.362285,0 -124.500695,49.362227,0 -124.500896,49.362216,0 -124.502439,49.362168,0 -124.503707,49.362095,0 -124.503859,49.362086,0 -124.504331,49.362059,0 -124.504927,49.362013,0 -124.506407,49.361625,0 -124.507002,49.361469,0 -124.507454,49.361406,0 -124.507836,49.361418,0 -124.508389,49.361534,0 -124.509426,49.361888,0 -124.509874,49.36207,0 -124.510185,49.362247,0 -124.511307,49.363415,0 -124.511525,49.363574,0 -124.511803,49.363722,0 -124.513414,49.364308,0 -124.513953,49.36449,0 -124.515321,49.364951,0 -124.515836,49.365125,0 -124.515965,49.365169,0 -124.516602,49.365384,0 -124.516798,49.36545,0 -124.517002,49.365519,0 -124.517292,49.365616,0 -124.518017,49.365861,0 -124.518897,49.366158,0 -124.519196,49.366283,0 -124.519447,49.366389,0 -124.521714,49.367566,0 -124.522113,49.367684,0 -124.522382,49.367765,0 -124.523067,49.367867,0 -124.523868,49.367915,0 -124.524459,49.367971,0 -124.529196,49.368418,0 -124.529462,49.368443,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 31. Construction work between Sutton St and Cody Caves Rd for 3.7 km (13 km north of Balfour</name>
@@ -5052,7 +5093,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Hallowell Rd and Mercer Rd for 24.7 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T00:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T10:30:14-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5889,26 +5930,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.489194,52.972914,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Exit 53: 176th St / Highway 15 a</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 53: 176th St / Highway 15 and Golden Ears Way&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T10:23:01-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.727452,49.179424,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
