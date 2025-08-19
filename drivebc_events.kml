@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-19 17:01:55 UTC
+        Last updated: 2025-08-19 17:34:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (289)</name>
+      <name>🚗 Traffic Events (291)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3407,6 +3407,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, in both directions. Road construction work planned at Exit 32: Steveston Hwy (Richmond).</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T10:17:28-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086593,49.133477,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Riverside Rd and Exit 92 (</name>
           <description>
         &lt;![CDATA[
@@ -3445,6 +3465,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.49285,49.089382,0 -122.49288,49.090793,0 -122.492875,49.091452,0 -122.492856,49.093872,0 -122.492852,49.094394,0 -122.492847,49.095032,0 -122.492846,49.095176,0 -122.492841,49.095842,0 -122.492836,49.096481,0 -122.492835,49.096578,0 -122.492839,49.096796,0 -122.492864,49.098335,0 -122.492879,49.099233,0 -122.492862,49.099672,0 -122.49285,49.100002,0 -122.492829,49.100568,0 -122.492824,49.100708,0 -122.492813,49.101086,0 -122.49281,49.101178,0 -122.492806,49.101322,0 -122.4928,49.101819,0 -122.492798,49.101906,0 -122.492793,49.102066,0 -122.492785,49.102352,0 -122.492764,49.103516,0 -122.492757,49.103886,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, in both directions. Maintenance planned between Industrial Way and Haight Rd for 2.0 km </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Industrial Way and Haight Rd for 2.0 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T10:18:38-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.86616,54.828941,0 -122.866207,54.828972,0 -122.868346,54.830405,0 -122.869103,54.830913,0 -122.870041,54.831675,0 -122.870749,54.832354,0 -122.87124,54.832916,0 -122.871701,54.833528,0 -122.87208,54.834145,0 -122.872408,54.83479,0 -122.872532,54.835109,0 -122.87311,54.836586,0 -122.874885,54.841128,0 -122.875328,54.841908,0 -122.875855,54.84257,0 -122.876382,54.843136,0 -122.878863,54.845566,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5851,23 +5892,23 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Road cleared between Welch St and Lions Gate Bridge (West Vancouver). Last u</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Exit 53: 176th St / Highway 15 a</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
         &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Lions Gate Bridge and Welch St&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T09:44:41-07:00&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Exit 53: 176th St / Highway 15 and Golden Ears Way&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T10:23:01-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-123.135262,49.318993,0</coordinates>
+            <coordinates>-122.727452,49.179424,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
