@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-19 18:02:23 UTC
+        Last updated: 2025-08-19 18:38:32 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (292)</name>
+      <name>🚗 Traffic Events (296)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3696,6 +3696,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97, southbound. Utility work between Nordic Dr and Austin Rd for 0.7 km (Prince George). Unt</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Austin Rd and Nordic Dr for 0.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T11:00:59-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.796355,53.994809,0 -122.796462,53.994868,0 -122.797813,53.995685,0 -122.798441,53.996173,0 -122.799165,53.996814,0 -122.799983,53.997738,0 -122.800002,53.997768,0 -122.800079,53.997888,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Iron Mtn Road. Road construction work between Start and 3K. Until Thu Aug 21. From 7:00 AM to 3:30 P</name>
           <description>
         &lt;![CDATA[
@@ -3756,6 +3777,26 @@
             <tessellate>1</tessellate>
             <coordinates>-117.804685,50.667909,0 -117.806388,50.667226,0 -117.807369,50.666781,0 -117.809391,50.665715,0 -117.82095,50.658157,0 -117.821115,50.658049,0 -117.82123,50.657973,0 -117.823242,50.656658,0 -117.82567,50.655081,0 -117.82792,50.653599,0 -117.828071,50.6535,0 -117.829321,50.65281,0 -117.833437,50.650771,0 -117.835648,50.649676,0 -117.836533,50.649237,0 -117.846427,50.644309,0 -117.847422,50.643727,0 -117.848236,50.643059,0 -117.848755,50.642396,0 -117.849573,50.641032,0 -117.849702,50.640786,0 -117.85245,50.635545,0 -117.852692,50.635053,0 -117.853461,50.633481,0 -117.853839,50.63271,0 -117.854071,50.632237,0 -117.854172,50.631603,0 -117.854143,50.630882,0 -117.853279,50.627418,0 -117.853099,50.626701,0 -117.852999,50.626298,0 -117.852912,50.625719,0 -117.852889,50.625193,0 -117.852981,50.62458,0 -117.853139,50.624098,0 -117.85336,50.623586,0 -117.854892,50.62129,0 -117.857902,50.616778,0 -117.858512,50.615864,0 -117.8589,50.615411,0 -117.859506,50.614885,0 -117.859776,50.614688,0 -117.859972,50.614544,0 -117.860652,50.614138,0 -117.865508,50.611568,0 -117.866018,50.611344,0 -117.86654,50.611237,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Bridgeport Rd, westbound. Utility work between Gage Rd and McLeod Ave. Until Mon Aug 25. From 10:00 </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Bridgeport Rd&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Gage Rd and McLeod Ave&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T11:26:54-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.114789,49.192019,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), southbound. Utility work between 1st Ave and Toll Rd for 10.5 km (1</name>
@@ -3838,6 +3879,27 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.230337,49.851271,0 -125.222576,49.846278,0 -125.220403,49.844923,0 -125.218768,49.844039,0 -125.218302,49.843817,0 -125.216951,49.843176,0 -125.214847,49.8423,0 -125.21283,49.841599,0 -125.211336,49.841154,0 -125.210712,49.840968,0 -125.204677,49.83942,0 -125.203948,49.839233,0 -125.203675,49.839163,0 -125.203552,49.839126,0 -125.202328,49.838758,0 -125.202048,49.838674,0 -125.201608,49.83852,0 -125.201333,49.838424,0 -125.200929,49.838282,0 -125.200897,49.838271,0 -125.20069,49.838186,0 -125.200193,49.83798,0 -125.200001,49.837901,0 -125.199632,49.837748,0 -125.199443,49.837661,0 -125.19888,49.8374,0 -125.198536,49.83724,0 -125.198486,49.837215,0 -125.197902,49.836911,0 -125.197817,49.836867,0 -125.197368,49.836634,0 -125.196534,49.836144,0 -125.196402,49.836066,0 -125.195572,49.835516,0 -125.195228,49.835288,0 -125.195037,49.835161,0 -125.193474,49.833958,0 -125.192235,49.832749,0 -125.191221,49.831558,0 -125.190634,49.830678,0 -125.190428,49.830369,0 -125.190232,49.830076,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Utility work planned between Junction Hwy 33 and </name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 33 and Beadman Rd for 4.2 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T11:30:39-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.996178,49.055311,0 -118.9958,49.055127,0 -118.995323,49.054894,0 -118.994584,49.054463,0 -118.993687,49.053646,0 -118.993071,49.053085,0 -118.991811,49.052199,0 -118.989196,49.050791,0 -118.987998,49.050267,0 -118.987343,49.050005,0 -118.985438,49.049423,0 -118.985394,49.049409,0 -118.984494,49.049166,0 -118.983806,49.049013,0 -118.982836,49.048874,0 -118.982067,49.048811,0 -118.980073,49.048908,0 -118.978553,49.049052,0 -118.977286,49.049171,0 -118.973826,49.049498,0 -118.972266,49.049785,0 -118.97199,49.049835,0 -118.96488,49.051126,0 -118.963572,49.051363,0 -118.961986,49.051589,0 -118.96039,49.05175,0 -118.958577,49.05187,0 -118.958149,49.051898,0 -118.956744,49.05199,0 -118.951579,49.05233,0 -118.951006,49.052367,0 -118.94833,49.052543,0 -118.945842,49.052707,0 -118.944313,49.052788,0 -118.943645,49.052823,0 -118.943619,49.052823,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5340,7 +5402,7 @@
         &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
         &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
         &lt;b&gt;Location:&lt;/b&gt; Between Donis Rd and 281 Rd for 8.3 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-15T09:24:36-07:00&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T11:31:19-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
@@ -5950,6 +6012,26 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.50468,48.818979,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97. Vehicle incident between Kloss Rd and Kennedy Rd (18 km north of McLeod Lake). Until Tue</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Kloss Rd and Kennedy Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T11:18:10-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.918387,55.118208,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
