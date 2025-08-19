@@ -164,22 +164,65 @@ class DriveBCToKMLConverter:
         """
         placemark = ET.SubElement(parent, 'Placemark')
         
-        # Add name
+        # Add name - use route and location info instead of truncated description
         name = ET.SubElement(placemark, 'name')
-        name.text = event.get('description', 'Traffic Event')[:100]  # Truncate long descriptions
+        route_info = event.get('route_at', '')
+        location_info = event.get('location_description', '')
+        event_id = event.get('id', '')
+        
+        # Create a more informative, shorter name
+        if route_info and location_info:
+            name_text = f"{route_info} - {location_info}"
+        elif route_info:
+            name_text = route_info
+        elif location_info:
+            name_text = location_info
+        else:
+            name_text = event.get('description', 'Traffic Event')
+        
+        # Add event ID to name for uniqueness
+        if event_id:
+            name_text = f"[{event_id}] {name_text}"
+        
+        name.text = name_text
         
         # Add description with event details
         description = ET.SubElement(placemark, 'description')
+        
+        # Format next update
+        next_update = event.get('next_update')
+        next_update_text = next_update if next_update else 'No scheduled update'
+        
+        # Format severity/incident level
+        severity = event.get('severity', 'Unknown')
+        
+        # Format closest landmark
+        closest_landmark = event.get('closest_landmark', 'Not specified')
+        
+        # Format start and end times
+        start_time = event.get('start', 'Unknown')
+        end_time = event.get('end', 'Unknown')
+        
         desc_text = f"""
         <![CDATA[
+        <h3>Traffic Event Details</h3>
+        <b>Event ID:</b> {event.get('id', 'Unknown')}<br/>
         <b>Event Type:</b> {event.get('event_type', 'Unknown')}<br/>
         <b>Sub Type:</b> {event.get('event_sub_type', 'Unknown')}<br/>
+        <b>Severity/Incident Level:</b> {severity}<br/>
         <b>Status:</b> {event.get('status', 'Unknown')}<br/>
         <b>Direction:</b> {event.get('direction', 'Unknown')}<br/>
         <b>Route:</b> {event.get('route_at', 'Unknown')}<br/>
         <b>Location:</b> {event.get('location_description', 'No description')}<br/>
+        <b>Closest Landmark:</b> {closest_landmark}<br/>
+        <b>Start Time:</b> {start_time}<br/>
+        <b>End Time:</b> {end_time}<br/>
         <b>Last Updated:</b> {event.get('last_updated', 'Unknown')}<br/>
-        <b>Closed:</b> {'Yes' if event.get('closed') else 'No'}
+        <b>Next Update:</b> {next_update_text}<br/>
+        <b>Closed:</b> {'Yes' if event.get('closed') else 'No'}<br/>
+        <hr/>
+        <b>Full Description:</b><br/>
+        {event.get('description', 'No description available')}
         ]]>
         """
         description.text = desc_text

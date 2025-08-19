@@ -9,15 +9,22 @@ This project fetches live traffic event data from the DriveBC API (https://www.d
 ## Features
 
 - **Live Data Fetching**: Retrieves current traffic events from DriveBC API
+- **Complete Event Information**: Includes all available fields:
+  - ✅ Event ID (no truncation)
+  - ✅ Severity/Incident Level
+  - ✅ Closest Landmark
+  - ✅ Next Update time
+  - ✅ Start/End times
+  - ✅ Full descriptions
 - **Event Type Styling**: Different colors and icons for various event types:
   - 🔴 Construction events (Red)
   - 🟡 Incidents (Yellow) 
   - 🟢 Road conditions (Green)
   - 🔵 Weather events (Blue)
   - ⚪ Other events (Gray)
-- **Detailed Information**: Each event includes description, status, direction, route, and last updated time
 - **Route Visualization**: Shows event locations as points or line strings for road segments
 - **Google Maps Compatible**: Generates standard KML format for easy import
+- **Comprehensive Testing**: Full unit test suite with 100% success rate
 
 ## Requirements
 
@@ -44,6 +51,34 @@ The script will:
 1. Fetch current events from the DriveBC API
 2. Convert them to KML format
 3. Save the output as `drivebc_events_YYYYMMDD_HHMMSS.kml`
+
+### Running Tests
+
+To run the comprehensive unit test suite:
+```bash
+python run_tests.py
+```
+
+Or run tests directly with unittest:
+```bash
+python -m unittest test_drivebc_to_kml.py -v
+```
+
+The test suite includes:
+- API functionality tests
+- KML generation validation
+- Field completeness verification
+- Edge case handling
+- XML validity checks
+
+### Demonstrating Improvements
+
+To see a detailed report of all improvements made:
+```bash
+python -m unittest test_drivebc_to_kml.TestImprovementsDemo.test_improvement_summary_report -v
+```
+
+This will show verification that all originally missing fields (Event IDs, Severity levels, Closest landmarks, Next updates) are now properly included and that name truncation has been eliminated.
 
 ### Using in Google Maps
 

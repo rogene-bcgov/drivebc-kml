@@ -180,23 +180,28 @@ class EnhancedDriveBCService:
         
         # Add name
         name = ET.SubElement(placemark, 'name')
-        name.text = event.get('description', 'Traffic Event')[:100]
+    name.text = event.get('description', 'Traffic Event')
         
         # Add description with event details
         description = ET.SubElement(placemark, 'description')
-        desc_text = f"""
-        <![CDATA[
-        <h3>Traffic Event Details</h3>
-        <b>Event Type:</b> {event.get('event_type', 'Unknown')}<br/>
-        <b>Sub Type:</b> {event.get('event_sub_type', 'Unknown')}<br/>
-        <b>Status:</b> {event.get('status', 'Unknown')}<br/>
-        <b>Direction:</b> {event.get('direction', 'Unknown')}<br/>
-        <b>Route:</b> {event.get('route_at', 'Unknown')}<br/>
-        <b>Location:</b> {event.get('location_description', 'No description')}<br/>
-        <b>Last Updated:</b> {event.get('last_updated', 'Unknown')}<br/>
-        <b>Closed:</b> {'Yes' if event.get('closed') else 'No'}
-        ]]>
-        """
+    desc_text = f"""
+    <![CDATA[
+    <h3>Traffic Event Details</h3>
+    <b>Event Type:</b> {event.get('event_type', 'Unknown')}<br/>
+    <b>Sub Type:</b> {event.get('event_sub_type', 'Unknown')}<br/>
+    <b>Status:</b> {event.get('status', 'Unknown')}<br/>
+    <b>Direction:</b> {event.get('direction', 'Unknown')}<br/>
+    <b>Route:</b> {event.get('route_at', 'Unknown')}<br/>
+    <b>Location:</b> {event.get('location_description', 'No description')}<br/>
+    <b>Closest Landmark:</b> {event.get('closest_landmark', 'Unknown')}<br/>
+    <b>Incident Level:</b> {event.get('incident_level', 'Unknown')}<br/>
+    <b>Last Updated:</b> {event.get('last_updated', 'Unknown')}<br/>
+    <b>Next Update:</b> {event.get('next_update', 'Unknown')}<br/>
+    <b>Closed:</b> {'Yes' if event.get('closed') else 'No'}<br/>
+    <hr/>
+    <b>ID:</b> {event.get('id', 'Unknown')}
+    ]]>
+    """
         description.text = desc_text
         
         # Add style reference
