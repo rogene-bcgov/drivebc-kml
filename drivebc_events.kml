@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-19 00:06:39 UTC
+        Last updated: 2025-08-19 00:46:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (275)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1253,6 +1253,27 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 3 (Crowsnest Highway), eastbound. Utility work planned between Mertin Rd and Vector Rd for 1</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Mertin Rd and Vector Rd for 1.7 km&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T16:58:55-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.260893,49.130285,0 -117.26076,49.129855,0 -117.26054,49.129144,0 -117.260294,49.128681,0 -117.259906,49.128194,0 -117.259303,49.127677,0 -117.258544,49.127241,0 -117.257843,49.126961,0 -117.257682,49.126896,0 -117.25478,49.125924,0 -117.254213,49.125733,0 -117.253727,49.125534,0 -117.253698,49.125522,0 -117.253044,49.125132,0 -117.252679,49.124851,0 -117.252316,49.124444,0 -117.251966,49.123937,0 -117.251784,49.123346,0 -117.251763,49.122822,0 -117.251885,49.122334,0 -117.251988,49.122062,0 -117.252583,49.120493,0 -117.253526,49.118005,0 -117.253537,49.117976,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 33, in both directions. Road construction work between Molnar Rd and Mills Rd for 2.5 km (Ke</name>
           <description>
         &lt;![CDATA[
@@ -1272,6 +1293,26 @@
             <tessellate>1</tessellate>
             <coordinates>-119.379799,49.889005,0 -119.380795,49.889003,0 -119.381133,49.889002,0 -119.381928,49.889,0 -119.383918,49.888987,0 -119.38535,49.888978,0 -119.386858,49.888971,0 -119.388596,49.888966,0 -119.389755,49.888974,0 -119.391222,49.888971,0 -119.392031,49.888969,0 -119.392843,49.888967,0 -119.393687,49.888975,0 -119.393909,49.888977,0 -119.3955,49.888991,0 -119.395584,49.888992,0 -119.395652,49.888992,0 -119.39589,49.888994,0 -119.396752,49.889001,0 -119.3971,49.889003,0 -119.397434,49.889006,0 -119.398158,49.889011,0 -119.399579,49.889022,0 -119.399998,49.889019,0 -119.400695,49.889014,0 -119.401281,49.88901,0 -119.402378,49.889011,0 -119.402758,49.889011,0 -119.405885,49.889036,0 -119.407002,49.889037,0 -119.407708,49.889038,0 -119.40791,49.889038,0 -119.408244,49.889038,0 -119.409384,49.889037,0 -119.410263,49.889035,0 -119.410624,49.889035,0 -119.412609,49.889032,0 -119.413552,49.88903,0 -119.415057,49.889031,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3A, in both directions. Utility work planned at Bainbridge Rd (10 km east of Nelson). Starti</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Bainbridge Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T17:02:34-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-117.211757,49.583355,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5, in both directions. Construction work between River St and Paul Lake Rd for 4.9 km (Kamlo</name>
@@ -1458,25 +1499,24 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Mowing between Wakefield Rd and Butler Ave for 31.8 km (Houston to </name>
+          <name>Highway 99, southbound. Utility work planned at Rancheree Rd (2 km north of Pemberton). Starting Tue</name>
           <description>
         &lt;![CDATA[
         &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
         &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
         &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Wakefield Rd and Butler Ave for 31.8 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T05:00:00-07:00&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Rancheree Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T17:12:42-07:00&lt;br/&gt;
         &lt;b&gt;Closed:&lt;/b&gt; No
         ]]&gt;
         </description>
           <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-126.846527,54.608743,0 -126.846456,54.608604,0 -126.84549,54.60672,0 -126.843518,54.602873,0 -126.842723,54.601323,0 -126.84225,54.600399,0 -126.842038,54.599986,0 -126.841564,54.599057,0 -126.840297,54.596575,0 -126.839921,54.595982,0 -126.839478,54.595554,0 -126.838931,54.595199,0 -126.838164,54.59485,0 -126.838108,54.594833,0 -126.836056,54.59419,0 -126.835087,54.593894,0 -126.834725,54.593784,0 -126.833635,54.593451,0 -126.83271,54.593169,0 -126.831602,54.592831,0 -126.829059,54.592055,0 -126.827938,54.591712,0 -126.821433,54.589706,0 -126.820202,54.589168,0 -126.819671,54.588833,0 -126.817192,54.587271,0 -126.816422,54.586571,0 -126.813285,54.582602,0 -126.811308,54.5801,0 -126.810869,54.579545,0 -126.808959,54.577128,0 -126.806089,54.573512,0 -126.803157,54.569815,0 -126.799532,54.565247,0 -126.798545,54.564003,0 -126.794465,54.558861,0 -126.794015,54.558293,0 -126.791232,54.554745,0 -126.790561,54.553891,0 -126.78802,54.550681,0 -126.787659,54.550225,0 -126.782196,54.543323,0 -126.776816,54.536505,0 -126.775979,54.535444,0 -126.775858,54.535291,0 -126.775468,54.534796,0 -126.770615,54.528609,0 -126.769672,54.527406,0 -126.761312,54.516742,0 -126.759995,54.515061,0 -126.758472,54.513245,0 -126.756435,54.510802,0 -126.755094,54.509193,0 -126.752099,54.505598,0 -126.751867,54.50532,0 -126.74964,54.502647,0 -126.747844,54.500492,0 -126.746109,54.498409,0 -126.744382,54.496335,0 -126.743063,54.494753,0 -126.740825,54.492067,0 -126.740635,54.49167,0 -126.740516,54.491131,0 -126.740563,54.490634,0 -126.740773,54.490027,0 -126.742924,54.484819,0 -126.742955,54.484743,0 -126.743345,54.483675,0 -126.74394,54.482046,0 -126.744576,54.480049,0 -126.744961,54.478841,0 -126.746132,54.475276,0 -126.746454,54.474264,0 -126.747655,54.470481,0 -126.747719,54.469959,0 -126.747699,54.469083,0 -126.747455,54.463449,0 -126.747297,54.459786,0 -126.747498,54.458972,0 -126.747853,54.458268,0 -126.751274,54.453797,0 -126.751484,54.45345,0 -126.751679,54.453028,0 -126.751696,54.452972,0 -126.751864,54.452413,0 -126.751915,54.451862,0 -126.751894,54.451275,0 -126.751719,54.450676,0 -126.751418,54.450028,0 -126.750969,54.449395,0 -126.750206,54.448667,0 -126.74835,54.447325,0 -126.747696,54.446669,0 -126.747637,54.44658,0 -126.747433,54.446277,0 -126.747307,54.446089,0 -126.747272,54.446037,0 -126.747158,54.445735,0 -126.747012,54.445346,0 -126.746963,54.444907,0 -126.746938,54.444682,0 -126.746914,54.443515,0 -126.746812,54.442157,0 -126.746434,54.437079,0 -126.746323,54.43559,0 -126.745969,54.434811,0 -126.745503,54.434199,0 -126.744893,54.433632,0 -126.743546,54.432827,0 -126.742487,54.432194,0 -126.741871,54.431801,0 -126.741556,54.4316,0 -126.741409,54.431506,0 -126.740844,54.431054,0 -126.740485,54.430731,0 -126.740131,54.430413,0 -126.739445,54.429528,0 -126.738372,54.427615,0 -126.736765,54.424706,0 -126.734124,54.419923,0 -126.733818,54.419369,0 -126.733483,54.418761,0 -126.731319,54.415069,0 -126.727475,54.408225,0 -126.727249,54.407857,0 -126.726015,54.405855,0 -126.724943,54.404326,0 -126.72276,54.401359,0 -126.722088,54.400676,0 -126.72093,54.39975,0 -126.720363,54.399325,0 -126.719566,54.398759,0 -126.719347,54.398592,0 -126.719141,54.398461,0 -126.718182,54.39785,0 -126.716834,54.397238,0 -126.716304,54.396965,0 -126.71603,54.396865,0 -126.715702,54.396745,0 -126.715472,54.396565,0 -126.7148,54.396041,0 -126.714521,54.3957,0 -126.714334,54.395371,0 -126.714035,54.394541,0 -126.713879,54.394109,0 -126.713814,54.393929,0 -126.713572,54.393264,0 -126.713351,54.392855,0 -126.713331,54.392819,0 -126.712969,54.392412,0 -126.712468,54.392025,0 -126.711903,54.391714,0 -126.711562,54.391578,0 -126.711363,54.391498,0 -126.710605,54.391296,0 -126.709772,54.391162,0 -126.708772,54.391119,0 -126.707682,54.391085,0 -126.707041,54.391049,0 -126.705987,54.390947,0 -126.702371,54.390598,0 -126.700778,54.390444,0 -126.695881,54.38992,0 -126.694299,54.389756,0 -126.693985,54.389722,0 -126.69045,54.389346,0 -126.686948,54.389012,0 -126.685753,54.388964,0 -126.684267,54.388987,0 -126.682556,54.389132,0 -126.680964,54.389363,0 -126.680051,54.38958,0 -126.678846,54.389913,0 -126.676542,54.390725,0 -126.671491,54.392506,0 -126.669676,54.393168,0 -126.668734,54.393501,0 -126.666604,54.394255,0 -126.661621,54.396023,0 -126.658814,54.397033,0 -126.657283,54.397576,0 -126.656016,54.39798,0 -126.653613,54.398333,0 -126.653353,54.398408,0 -126.65306,54.398507,0 -126.652849,54.398578,0 -126.65266,54.398642,0 -126.651441,54.399075,0 -126.650351,54.399463,0 -126.649106,54.399905,0 -126.648713,54.40004,0 -126.647655,54.400404,0 -126.646472,54.400831,0 -126.645573,54.401106,0 -126.643847,54.401124,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-122.702541,50.317064,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 4, in both directions. Road construction work between Maltby Rd and Radar Hill for 0.7 km (1</name>
@@ -2056,27 +2096,6 @@
           <Point>
             <coordinates>-123.675657,48.755814,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 29, in both directions. Road maintenance work between Szoo Rd and Cache Creek Bridge for 7.9</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Szoo Rd and Cache Creek Bridge for 7.9 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T07:30:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.34238,56.244905,0 -121.337543,56.244435,0 -121.335821,56.244337,0 -121.334536,56.24436,0 -121.333245,56.244449,0 -121.32446,56.245232,0 -121.323227,56.245315,0 -121.322462,56.245289,0 -121.322399,56.245287,0 -121.321983,56.24524,0 -121.321183,56.245063,0 -121.320475,56.24479,0 -121.319766,56.244495,0 -121.319404,56.244342,0 -121.318736,56.244102,0 -121.317898,56.243861,0 -121.317226,56.243724,0 -121.316638,56.243625,0 -121.316133,56.243564,0 -121.315977,56.243547,0 -121.315724,56.243526,0 -121.315431,56.243506,0 -121.31509,56.243491,0 -121.314784,56.243484,0 -121.314528,56.243484,0 -121.314391,56.243484,0 -121.314115,56.24349,0 -121.313784,56.243505,0 -121.313542,56.243521,0 -121.313463,56.243526,0 -121.31319,56.243551,0 -121.31285,56.243586,0 -121.312499,56.243634,0 -121.312189,56.243684,0 -121.311648,56.243787,0 -121.311156,56.243903,0 -121.310744,56.244016,0 -121.309725,56.244372,0 -121.30867,56.244859,0 -121.307881,56.245225,0 -121.307251,56.245486,0 -121.306842,56.245645,0 -121.305597,56.246093,0 -121.304381,56.246515,0 -121.303748,56.246734,0 -121.302901,56.247035,0 -121.302287,56.247246,0 -121.301235,56.247609,0 -121.299637,56.248233,0 -121.297327,56.249387,0 -121.295076,56.250597,0 -121.292716,56.251893,0 -121.290853,56.25283,0 -121.290085,56.253272,0 -121.289502,56.253549,0 -121.284158,56.255984,0 -121.283145,56.256443,0 -121.282315,56.256821,0 -121.281378,56.257248,0 -121.280762,56.257514,0 -121.279731,56.257987,0 -121.278666,56.258487,0 -121.276643,56.2594,0 -121.274898,56.260161,0 -121.272841,56.261091,0 -121.27133,56.261789,0 -121.270405,56.262204,0 -121.269237,56.262754,0 -121.268077,56.263231,0 -121.267317,56.263616,0 -121.266852,56.263976,0 -121.26632,56.264352,0 -121.265752,56.264762,0 -121.26466,56.266014,0 -121.264061,56.266944,0 -121.263004,56.26818,0 -121.262205,56.268887,0 -121.261142,56.269638,0 -121.259661,56.270355,0 -121.259292,56.270508,0 -121.258466,56.27085,0 -121.257353,56.271204,0 -121.256104,56.271606,0 -121.255256,56.271916,0 -121.254342,56.272232,0 -121.252636,56.272797,0 -121.251538,56.273161,0 -121.249566,56.273779,0 -121.24855,56.274136,0 -121.247572,56.274441,0 -121.246701,56.274678,0 -121.245308,56.274932,0 -121.244064,56.275029,0 -121.242852,56.275127,0 -121.238231,56.27543,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Construction work between 216th St and Exit 66: 232nd St</name>
@@ -4216,27 +4235,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. Utility work between Exit 26 and Exit 28 for 2.5 km (Delta). Until M</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Exit 26 and Exit 28 for 2.5 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T07:00:00-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.026551,49.095394,0 -123.026691,49.095422,0 -123.027399,49.095559,0 -123.028104,49.095703,0 -123.028875,49.095893,0 -123.029787,49.096173,0 -123.029966,49.096242,0 -123.030682,49.096515,0 -123.031229,49.096756,0 -123.039738,49.100612,0 -123.047739,49.104212,0 -123.04996,49.105211,0 -123.055538,49.107769,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 6 EW, in both directions. Tree pruning planned between Monashee Summit and Ferrie Rd for 7.3</name>
           <description>
         &lt;![CDATA[
@@ -5258,27 +5256,6 @@
       <Folder>
         <name>Incident Events</name>
         <Placemark>
-          <name>Upper Arrow Lake Ferry, in both directions. Currently operating 30 minutes behind schedule between U</name>
-          <description>
-        &lt;![CDATA[
-        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-        &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
-        &lt;b&gt;Location:&lt;/b&gt; Between Upper Arrow Lake Ferry and the end of Upper Arrow Lake Ferry for 0.1 km&lt;br/&gt;
-        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T15:34:52-07:00&lt;br/&gt;
-        &lt;b&gt;Closed:&lt;/b&gt; No
-        ]]&gt;
-        </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.898614,50.629029,0 -117.8995,50.629013,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Constructio</name>
           <description>
         &lt;![CDATA[
@@ -5359,6 +5336,26 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Upper Arrow Lake Ferry, in both directions. Currently operating 30 minutes behind schedule between U</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; Between Upper Arrow Lake Ferry and Upper Arrow Lake Ferry&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T17:02:56-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-117.898614,50.629029,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>McKay Road, in both directions. Flooding at McKay Road. Road closed. Next update time Thu Apr 9, 202</name>
           <description>
         &lt;![CDATA[
@@ -5418,6 +5415,26 @@
             <tessellate>1</tessellate>
             <coordinates>-119.339963,52.907914,0 -119.344728,52.911507,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17 (Patricia Bay Highway), northbound. Vehicle incident at Exit 15: Sayward Rd (Saanich). Ri</name>
+          <description>
+        &lt;![CDATA[
+        &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+        &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+        &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+        &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+        &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+        &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+        &lt;b&gt;Location:&lt;/b&gt; At Exit 15: Sayward Rd&lt;br/&gt;
+        &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-18T17:18:02-07:00&lt;br/&gt;
+        &lt;b&gt;Closed:&lt;/b&gt; No
+        ]]&gt;
+        </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.389201,48.537592,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Colleymount Rd, in both directions. Washout at 53.5km near Burns Lake. Single lane alternating traff</name>
