@@ -180,11 +180,11 @@ class EnhancedDriveBCService:
         
         # Add name
         name = ET.SubElement(placemark, 'name')
-    name.text = event.get('description', 'Traffic Event')
+        name.text = event.get('description', 'Traffic Event')
         
         # Add description with event details
         description = ET.SubElement(placemark, 'description')
-    desc_text = f"""
+        desc_text = f"""
     <![CDATA[
     <h3>Traffic Event Details</h3>
     <b>Event Type:</b> {event.get('event_type', 'Unknown')}<br/>
