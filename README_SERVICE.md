@@ -17,6 +17,12 @@ The service is automatically deployed and running at:
 - ⛴️ **Ferry information** with schedules, capacities, and contact details
 - 📱 **Simple web interface** with usage instructions
 - 📹 **Live webcam links** for ferry terminals
+- 📊 **Organized data structure** with folders for easy navigation
+- 🎨 **Rich styling** with icons and colors for different event types
+- 🔧 **Multiple service options** for different use cases
+- ✅ **Comprehensive testing** with unit test suite
+- 🐳 **Docker support** for containerized deployment
+- 🖥️ **Cross-platform** compatibility (Windows, Linux, macOS)
 
 ## 🛠️ Setup Instructions
 
@@ -46,12 +52,22 @@ cd drivebc-kml-service
 ## 📁 File Structure
 
 ```
-├── drivebc_service.py          # Simplified service script
+├── drivebc_service.py          # Enhanced service script (main)
+├── drivebc_enhanced_service.py # Alternative enhanced service  
+├── drivebc_to_kml.py          # Original basic converter
 ├── drivebc_events.kml          # Generated KML file (auto-updated)
 ├── index.html                  # Web interface
+├── requirements.txt            # Python dependencies
+├── run_converter.bat           # Windows runner script
+├── setup.bat                   # Windows setup script
+├── setup.sh                    # Linux/macOS setup script
+├── run_tests.py               # Test runner
+├── test_drivebc_to_kml.py     # Unit tests
+├── examples.py                # Usage examples
+├── Dockerfile                 # Container support
 ├── .github/workflows/
 │   └── update-kml.yml          # GitHub Actions workflow
-└── README.md                   # This file
+└── README.md                   # Main documentation
 ```
 
 ## 🔧 How It Works
@@ -116,14 +132,44 @@ This service is completely free using:
 
 ```bash
 # Install dependencies
-pip install requests
+pip install -r requirements.txt
 
-# Run locally
+# Run the enhanced service (recommended)
 python drivebc_service.py
 
-# Test the original converter
+# Run the alternative enhanced service
+python drivebc_enhanced_service.py
+
+# Run the original basic converter (traffic only)
 python drivebc_to_kml.py
+
+# Run tests
+python run_tests.py
+
+# Quick setup (Windows)
+setup.bat
+
+# Quick setup (Linux/macOS)
+chmod +x setup.sh && ./setup.sh
 ```
+
+### Development Options
+
+**Enhanced Service (`drivebc_service.py`)**:
+- Combines traffic events and ferry information
+- Generates organized folder structure
+- Fixed output filename: `drivebc_events.kml`
+- Recommended for production use
+
+**Basic Converter (`drivebc_to_kml.py`)**:
+- Traffic events only
+- Timestamped output filenames
+- Good for testing and development
+
+**Alternative Enhanced Service (`drivebc_enhanced_service.py`)**:
+- Similar to main enhanced service
+- May have different implementation details
+- Available for comparison/backup
 
 ## 📝 License
 
