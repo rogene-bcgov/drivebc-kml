@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-20 17:02:01 UTC
+        Last updated: 2025-08-20 17:34:01 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (289)</name>
+      <name>🚗 Traffic Events (290)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3824,32 +3824,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19A (Island Highway), northbound. Utility work planned between Enterprise St and Hammond Bay Rd for 0.1 km (Nanaimo). Starting Wed Aug 20 at 10:00 AM PDT until Wed Aug 20 at 3:00 PM PDT. Right turn lane will be closed. Expect minor delays. Watch for traffic control personnel. Pole work - Right turn lane at Marlin Way closed. Slow down and watch for work crews. Last updated Thu Aug 7 at 2:11 PM PDT. (DBC-80199)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Enterprise St and Hammond Bay Rd for 0.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Nanaimo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-07T14:11:46-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80199
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.042515,49.231737,0 -124.042999,49.232444,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector), northbound. Shoulder maintenance between Ewing Rd and Carver Rd for 2.4 km (11 to 9 km north of Hixon). Until Sat Sep 6 at 8:00 PM PDT. From 6:00 AM to 8:00 PM PDT on weekends, Monday, Wednesday, Thursday and Friday. Speed reduction of 70km/h as required. Last updated Tue Aug 5 at 12:20 PM PDT. (DBC-80111)</name>
           <description>
     &lt;![CDATA[
@@ -3873,6 +3847,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.638706,53.501187,0 -122.638697,53.501692,0 -122.638833,53.502261,0 -122.639249,53.502991,0 -122.641434,53.505522,0 -122.642219,53.506434,0 -122.643035,53.507632,0 -122.643327,53.508199,0 -122.643392,53.508324,0 -122.643679,53.508882,0 -122.643948,53.509592,0 -122.644083,53.509949,0 -122.644352,53.510974,0 -122.644369,53.511038,0 -122.64452,53.512043,0 -122.644573,53.514547,0 -122.644577,53.514772,0 -122.64469,53.52202,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19A (Island Highway), northbound. Utility work between Enterprise St and Hammond Bay Rd for 0.1 km (Nanaimo). Until Wed Aug 20 at 3:00 PM PDT. Right turn lane closed. Expect minor delays. Watch for traffic control. Pole work - Right turn lane at Marlin Way closed. Slow down and watch for work crews. Last updated Thu Aug 7 at 2:11 PM PDT. (DBC-80199)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Enterprise St and Hammond Bay Rd for 0.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Nanaimo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T10:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80199
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.042515,49.231737,0 -124.042999,49.232444,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6599,6 +6599,32 @@ Reduce speed when passing. Last updated Tue Aug 19 at 3:54 PM PDT. (DBC-80627)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.781562,53.919451,0 -122.781555,53.920367,0 -122.781553,53.920568,0 -122.781552,53.920659,0 -122.781551,53.920848,0 -122.781548,53.921095,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 101, in both directions. Utility work planned between Middle Point Rd and Donley Dr for 2.4 km (19 to 16 km west of Sechelt). Starting Tue Sep 2 at 9:00 AM PDT until Tue Sep 2 at 4:30 PM PDT. Watch for traffic control personnel. Speed reduction to 30 km/h. Last updated Wed Aug 20 at 10:13 AM PDT. (DBC-80682)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Middle Point Rd and Donley Dr for 2.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 to 19 km west of Sechelt&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T10:13:41-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80682
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.0022,49.580631,0 -124.002089,49.580544,0 -124.001958,49.580348,0 -124.00161,49.579432,0 -124.001441,49.579164,0 -124.001283,49.578986,0 -124.000636,49.578507,0 -124.000335,49.578239,0 -124.000166,49.577954,0 -124.000103,49.577367,0 -124.000013,49.577091,0 -123.999787,49.57685,0 -123.999502,49.576632,0 -123.999336,49.57644,0 -123.999261,49.576162,0 -123.99925,49.575679,0 -123.999203,49.575453,0 -123.999063,49.575281,0 -123.998143,49.574551,0 -123.99776,49.574157,0 -123.997617,49.573841,0 -123.99765,49.573553,0 -123.997843,49.572974,0 -123.997785,49.572611,0 -123.997663,49.572415,0 -123.997468,49.572206,0 -123.996529,49.571613,0 -123.996291,49.571361,0 -123.996141,49.571105,0 -123.996124,49.570762,0 -123.996136,49.570684,0 -123.996146,49.570612,0 -123.996178,49.570398,0 -123.996714,49.569737,0 -123.997048,49.569326,0 -123.997177,49.569108,0 -123.997262,49.568845,0 -123.9973,49.568549,0 -123.997276,49.566647,0 -123.997261,49.565424,0 -123.997258,49.565185,0 -123.997234,49.563662,0 -123.997233,49.563517,0 -123.997203,49.561033,0 -123.997257,49.560529,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
