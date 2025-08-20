@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-20 15:35:15 UTC
+        Last updated: 2025-08-20 16:02:06 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (284)</name>
+      <name>🚗 Traffic Events (286)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1177,6 +1177,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 10, westbound. Utility work between 180 St and 176A St for 0.1 km (Surrey). Until Sun Aug 24. From 9:00 AM to 3:00 PM PDT daily. Right lane closed. Watch for traffic control. Last updated Thu Aug 14 at 1:25 PM PDT. (DBC-79640)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 176A St and 180 St for 0.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-79640
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.730803,49.104122,0 -122.730303,49.104116,0 -122.729678,49.104113,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Chopaka Rd. Maintenance at Henry Cres. Until Wed Sep 10. From 7:00 AM to 5:00 PM PDT daily. Single lane alternating traffic. Lane Closure. Detour in effect. Expect minor delays. Culvert Replacement - Two Locations Single Lane Alternating Traffic in effect during work hours.
 Lane Closure, yield to oncoming traffic in effect outside of working hours. Last updated Wed Aug 20 at 8:23 AM PDT. (DBC-80365)</name>
           <description>
@@ -1226,32 +1252,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <Point>
             <coordinates>-120.892384,51.049319,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 10, westbound. Utility work between 180 St and 176A St for 0.1 km (Surrey). Until Sun Aug 24. From 9:00 AM to 3:00 PM PDT daily. Right lane closed. Watch for traffic control. Last updated Thu Aug 14 at 1:25 PM PDT. (DBC-79640)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 176A St and 180 St for 0.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-79640
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.730803,49.104122,0 -122.730303,49.104116,0 -122.729678,49.104113,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla North), northbound. Construction work planned between Chuwhels Mountain Rd and Inks Lake Rd for 5.1 km (6 to 1 km south of Kamloops). Starting Mon Aug 25 at 8:00 AM PDT until Mon Aug 25 at 4:00 PM PDT. Right lane will be closed. Watch for traffic control personnel. Last updated Wed Jul 30 at 10:01 AM PDT. (DBC-79900)</name>
@@ -2614,7 +2614,7 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 8:00 PM to 6:00 AM PDT on weekdays and Saturday. Single lane alternating traffic. Next update time Wed Aug 20 at 12:00 PM PDT. Last updated Thu Aug 14 at 8:36 AM PDT. (DBC-70490)</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 8:00 PM to 6:00 AM PDT on weekdays and Saturday. Single lane alternating traffic. Next update time Wed Aug 27 at 12:00 PM PDT. Last updated Wed Aug 20 at 8:41 AM PDT. (DBC-70490)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2626,8 +2626,8 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
     &lt;b&gt;Location:&lt;/b&gt; Between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Sicamous&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-14T08:36:50-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-20T12:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T08:41:56-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-27T12:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-70490
@@ -6264,6 +6264,58 @@ Reduce speed when passing. Last updated Tue Aug 19 at 3:54 PM PDT. (DBC-80627)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-115.041833,49.528221,0 -115.040569,49.529059,0 -115.039887,49.529626,0 -115.037071,49.532022,0 -115.036741,49.532303,0 -115.03321,49.535306,0 -115.027009,49.540578,0 -115.026817,49.540741,0 -115.025034,49.542256,0 -115.023999,49.54303,0 -115.02307,49.543668,0 -115.015193,49.548639,0 -115.010627,49.55152,0 -115.00654,49.554103,0 -115.005668,49.554729,0 -115.005165,49.555128,0 -115.004519,49.555639,0 -115.002089,49.557938,0 -115.000323,49.559609,0 -114.999988,49.559925,0 -114.999299,49.560577,0 -114.997036,49.562717,0 -114.996774,49.562965,0 -114.992489,49.567007,0 -114.991396,49.568141,0 -114.991091,49.568458,0 -114.98862,49.571022,0 -114.987264,49.572429,0 -114.987112,49.572586,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3A. Utility work planned between Riondel Rd and Hemlock Rd for 1.1 km (3 to 4 km south of Kootenay Bay Ferry Landing). Starting Tue Aug 26 until Wed Aug 27. From 8:00 AM to 5:00 PM PDT on Tuesday and Wednesday. Single lane alternating traffic will be in effect. Last updated Wed Aug 20 at 8:55 AM PDT. (DBC-80677)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Riondel Rd and Hemlock Rd for 1.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 to 3 km south of Kootenay Bay Ferry Landing&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T08:55:52-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80677
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.843987,49.683773,0 -116.843524,49.683696,0 -116.84315,49.683634,0 -116.842682,49.683644,0 -116.840806,49.683794,0 -116.840496,49.683783,0 -116.84022,49.683774,0 -116.840075,49.683769,0 -116.838571,49.683641,0 -116.83771,49.683528,0 -116.837421,49.683431,0 -116.837393,49.683422,0 -116.836985,49.683194,0 -116.836727,49.682982,0 -116.835942,49.682247,0 -116.834369,49.680774,0 -116.834059,49.680625,0 -116.833705,49.680499,0 -116.833339,49.680455,0 -116.833012,49.680482,0 -116.832663,49.68063,0 -116.832237,49.680855,0 -116.831244,49.68138,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Utility work planned between Gardi Rd and Cherry Rd for 1.3 km (15 to 14 km west of Kamloops). Starting Wed Sep 3 at 9:00 AM PDT until Wed Sep 3 at 4:00 PM PDT. Lane closures in both directions planned. Watch for traffic control personnel. Expect minor delays. Last updated Wed Aug 20 at 8:57 AM PDT. (DBC-80678)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Gardi Rd and Cherry Rd for 1.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 to 15 km west of Kamloops&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T08:57:03-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80678
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.63993,50.717444,0 -120.63925,50.717392,0 -120.636764,50.7172,0 -120.635295,50.717134,0 -120.634566,50.7171,0 -120.634284,50.717069,0 -120.633788,50.717013,0 -120.633011,50.716831,0 -120.627079,50.714947,0 -120.626249,50.71464,0 -120.622909,50.713012,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
