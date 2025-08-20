@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-20 01:29:34 UTC
+        Last updated: 2025-08-20 02:13:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (284)</name>
+      <name>🚗 Traffic Events (285)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3458,32 +3458,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97, in both directions. Paving operations planned between 10th Ave and 5th Ave for 0.4 km (Prince George). Starting Tue Aug 19 at 7:00 PM PDT until Wed Aug 20 at 7:00 AM PDT. Right turn lane will be closed. Left turn lane will be closed. Work taking place on 5th Ave from Highway 97 to Moffat St S. Southbound right turn and northbound left turn closed. Northbound slow lane closed intermittently. Last updated Tue Aug 12 at 9:09 AM PDT. (DBC-80358)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 10th Ave and 5th Ave for 0.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince George&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T09:09:47-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80358
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.781568,53.918579,0 -122.781555,53.920367,0 -122.781553,53.920568,0 -122.781553,53.920604,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 29, southbound. Electrical maintenance planned between Halfway River Bridge and Farrell Creek Bridge (35 km north of Hudson's Hope). Starting Mon Aug 25 until Fri Sep 5. From 9:00 AM to 5:00 PM MST daily. Right lane will be closed. Last updated Wed Aug 13 at 9:31 AM MST. (DBC-80420)</name>
           <description>
     &lt;![CDATA[
@@ -3583,6 +3557,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.780258,49.288175,0 -121.780135,49.288572,0 -121.780094,49.290854,0 -121.780327,49.291455,0 -121.780844,49.292603,0 -121.780985,49.292916,0 -121.781205,49.293229,0 -121.781531,49.293531,0 -121.782042,49.293889,0 -121.783047,49.294605,0 -121.783438,49.294884,0 -121.783769,49.295203,0 -121.783949,49.295545,0 -121.784174,49.296395,0 -121.784496,49.297719,0 -121.784501,49.297743,0 -121.784655,49.29821,0 -121.784817,49.298703,0 -121.785052,49.299264,0 -121.785239,49.299711,0 -121.78529,49.300003,0 -121.785316,49.300147,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, in both directions. Paving operations between 10th Ave and 5th Ave for 0.4 km (Prince George). Until Wed Aug 20 at 7:00 AM PDT. Right turn lane closed. Left turn lane closed. Work taking place on 5th Ave from Highway 97 to Moffat St S. Southbound right turn and northbound left turn closed. Northbound slow lane closed intermittently. Last updated Tue Aug 12 at 9:09 AM PDT. (DBC-80358)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 10th Ave and 5th Ave for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince George&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T19:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80358
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.781568,53.918579,0 -122.781555,53.920367,0 -122.781553,53.920568,0 -122.781553,53.920604,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5694,6 +5694,32 @@ Use caution &amp; reduce speed when passing. Last updated Wed Aug 6 at 8:22 AM P
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway). Road maintenance work planned between Exit 120: Young Rd and Annis Rd for 8.7 km (Chilliwack). Starting Wed Aug 20 at 7:00 AM PDT until Wed Aug 20 at 11:30 AM PDT. Lane closures in both directions planned. Cable Fence repairs. Last updated Tue Aug 19 at 6:58 PM PDT. (DBC-80664)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 120: Young Rd and Annis Rd for 8.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T18:58:03-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80664
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.947335,49.1484,0 -121.946974,49.148488,0 -121.945427,49.148866,0 -121.939971,49.150199,0 -121.933773,49.151746,0 -121.923113,49.154406,0 -121.921832,49.154736,0 -121.921628,49.154789,0 -121.920331,49.155035,0 -121.919293,49.155154,0 -121.918275,49.155175,0 -121.918206,49.155177,0 -121.917088,49.155194,0 -121.91326,49.155171,0 -121.909931,49.155151,0 -121.896475,49.15508,0 -121.874467,49.154959,0 -121.874419,49.154959,0 -121.874352,49.154958,0 -121.852223,49.154824,0 -121.841006,49.154755,0 -121.834565,49.154714,0 -121.834539,49.154714,0 -121.833203,49.154709,0 -121.832243,49.154705,0 -121.83014,49.154696,0 -121.830126,49.154696,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Fulford Ganges Road, in both directions. Bridge construction between Blackburn Rd and Horel Rd. From 7:00 AM to 5:00 PM PDT on weekdays. Construction speed zone in effect. Watch for traffic control. Next update time Mon Sep 8 at 3:00 PM PDT. Last updated Mon Aug 18 at 12:55 PM PDT. (DBC-80598)</name>
           <description>
     &lt;![CDATA[
@@ -6180,32 +6206,6 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.73465,49.133459,0 -122.734624,49.137511,0 -122.734641,49.137846,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 7 (Lougheed Highway), in both directions. Paving operations between Maria Lane and Ruby Creek Rd for 15.1 km (Kent). Until Tue Aug 19 at 7:00 PM PDT. Pilot car controlled single lane alternating traffic. Watch for traffic control and expect delays. Last updated Tue Aug 19 at 6:50 AM PDT. (DBC-79476)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Maria Lane and Ruby Creek Rd for 15.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kent&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T06:50:47-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-79476
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.734636,49.247668,0 -121.733723,49.248627,0 -121.733588,49.248768,0 -121.732819,49.249552,0 -121.730688,49.251722,0 -121.725574,49.256878,0 -121.724235,49.258228,0 -121.723598,49.258871,0 -121.723559,49.258909,0 -121.723491,49.258978,0 -121.721312,49.261173,0 -121.719957,49.262537,0 -121.719795,49.2627,0 -121.717238,49.265275,0 -121.716985,49.26553,0 -121.716065,49.266473,0 -121.714415,49.268164,0 -121.712378,49.270251,0 -121.711492,49.27116,0 -121.711267,49.27139,0 -121.70828,49.274391,0 -121.708238,49.274434,0 -121.70666,49.276038,0 -121.702613,49.280151,0 -121.699883,49.282924,0 -121.69856,49.284268,0 -121.694905,49.288074,0 -121.693002,49.290054,0 -121.68958,49.293615,0 -121.68942,49.293783,0 -121.688278,49.294971,0 -121.683286,49.300044,0 -121.681953,49.301399,0 -121.678169,49.305243,0 -121.677442,49.306388,0 -121.677032,49.307234,0 -121.676573,49.309004,0 -121.676185,49.310498,0 -121.676061,49.310979,0 -121.675501,49.311882,0 -121.674923,49.312505,0 -121.674877,49.31254,0 -121.674527,49.312808,0 -121.673997,49.313215,0 -121.672981,49.313779,0 -121.671853,49.314212,0 -121.67049,49.314568,0 -121.669477,49.314832,0 -121.666222,49.315684,0 -121.664768,49.316199,0 -121.66365,49.316789,0 -121.663153,49.317128,0 -121.661292,49.3184,0 -121.659649,49.319255,0 -121.658041,49.320032,0 -121.656699,49.320466,0 -121.654504,49.320989,0 -121.653344,49.321487,0 -121.651149,49.322688,0 -121.650186,49.323108,0 -121.649762,49.323293,0 -121.649077,49.323494,0 -121.647376,49.323993,0 -121.646941,49.324143,0 -121.646804,49.32419,0 -121.646605,49.324258,0 -121.646309,49.324359,0 -121.640152,49.327666,0 -121.640084,49.327702,0 -121.63991,49.327796,0 -121.639797,49.327856,0 -121.639743,49.327885,0 -121.638603,49.32861,0 -121.637931,49.329038,0 -121.634774,49.331001,0 -121.633562,49.331806,0 -121.633391,49.331933,0 -121.63252,49.33258,0 -121.631015,49.334055,0 -121.624569,49.340661,0 -121.62113,49.344185,0 -121.620046,49.345296,0 -121.617973,49.34742,0 -121.613766,49.351728,0 -121.612856,49.35266,0 -121.611992,49.353496,0 -121.611162,49.354033,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -7263,7 +7263,32 @@ Reduce speed when passing. Last updated Tue Aug 19 at 3:54 PM PDT. (DBC-80627)</
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared at Exit 48: 152 St (Surrey). Last updated Tue Aug 19 at 6:14 PM PDT. (DBC-80659)</name>
+          <name>Highway 99, southbound. Stalled vehicle at Lions Gate Bridge (West Vancouver). Right lane is blocked. Next update time Tue Aug 19 at 7:30 PM PDT. Last updated Tue Aug 19 at 7:01 PM PDT. (DBC-80663)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Lions Gate Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T19:01:19-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-19T19:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80663
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.13737,49.31659,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident at Fern St (North Vancouver - District). Left lane is blocked. Next update time Tue Aug 19 at 7:45 PM PDT. Last updated Tue Aug 19 at 7:08 PM PDT. (DBC-80665)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7272,19 +7297,19 @@ Reduce speed when passing. Last updated Tue Aug 19 at 3:54 PM PDT. (DBC-80627)</
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 48: 152 St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Fern St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T18:14:44-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T19:08:55-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-19T19:45:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80659
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80665
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-122.798027,49.201297,0</coordinates>
+            <coordinates>-123.0279,49.30987,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
