@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-21 02:12:30 UTC
+        Last updated: 2025-08-21 02:56:46 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (279)</name>
+      <name>🚗 Traffic Events (281)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2434,6 +2434,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 97, in both directions. Bridge maintenance planned between Daimler Dr and Bartley Rd for 0.8 km (West Kelowna). Starting Wed Aug 20 at 9:00 PM PDT until Thu Aug 21 at 3:00 AM PDT. Lane closures in both directions planned. Reduced to single lane traffic in both directions. Reduce speed and watch for crews working. Last updated Wed Aug 20 at 7:43 PM PDT. (DBC-80700)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Daimler Dr and Bartley Rd for 0.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Kelowna&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T19:43:34-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80700
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.595173,49.856206,0 -119.594851,49.856516,0 -119.594338,49.857015,0 -119.593093,49.85798,0 -119.590369,49.859899,0 -119.590286,49.859957,0 -119.590084,49.860097,0 -119.588695,49.860931,0 -119.587691,49.861369,0 -119.587249,49.861563,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 99. Utility work between Hat Creek Rd and Old Cariboo Rd for 19.7 km (70 to 50 km north of Lillooet). Until Tue Sep 30. From 7:00 AM to 6:00 PM PDT on weekdays. Single lane alternating traffic. Please watch for traffic control personnel and crews working. Expect minor delays of up to five minutes. Last updated Mon Aug 11 at 9:59 AM PDT. (DBC-80308)</name>
           <description>
     &lt;![CDATA[
@@ -2533,6 +2559,33 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.624118,49.152054,0 -122.621226,49.151288,0 -122.619112,49.150674,0 -122.617191,49.150075,0 -122.612378,49.148248,0 -122.609596,49.147156,0 -122.607977,49.14652,0 -122.601361,49.143927,0 -122.600009,49.143397,0 -122.599655,49.143258,0 -122.597552,49.142434,0 -122.596022,49.141834,0 -122.591439,49.140036,0 -122.591096,49.139902,0 -122.590785,49.13978,0 -122.588433,49.138858,0 -122.587114,49.13834,0 -122.584443,49.137294,0 -122.584253,49.137219,0 -122.581542,49.136157,0 -122.581332,49.136075,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Bridge maintenance between Savona Station Rd and Savona Access Rd for 4.9 km (33 km east of Cache Creek to 30 km west of Kamloops). Until Thu Aug 21 at 6:00 PM PDT. Single lane alternating traffic. Watch for crew and equipment.
+Reduce speed when passing. Last updated Wed Aug 20 at 7:46 PM PDT. (DBC-80627)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Savona Station Rd and Savona Access Rd for 4.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 30 km west of Kamloops to 33 km east of Cache Creek&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T19:46:27-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80627
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.875579,50.757558,0 -120.875296,50.757478,0 -120.874792,50.757299,0 -120.87441,50.757163,0 -120.873686,50.756967,0 -120.872723,50.756685,0 -120.8712,50.756121,0 -120.870516,50.755851,0 -120.869861,50.755551,0 -120.867969,50.75488,0 -120.867068,50.754515,0 -120.866602,50.754327,0 -120.863419,50.752803,0 -120.863355,50.752772,0 -120.862105,50.752255,0 -120.86182,50.75214,0 -120.860948,50.751786,0 -120.8606,50.751645,0 -120.86055,50.751625,0 -120.860312,50.751542,0 -120.859025,50.751094,0 -120.858149,50.750834,0 -120.857996,50.750807,0 -120.856675,50.750568,0 -120.854562,50.750349,0 -120.851636,50.750106,0 -120.850872,50.750043,0 -120.850029,50.749973,0 -120.849334,50.749983,0 -120.849208,50.749994,0 -120.848602,50.750048,0 -120.847723,50.750246,0 -120.846879,50.750635,0 -120.845978,50.751116,0 -120.845127,50.751454,0 -120.84453,50.751612,0 -120.841229,50.752182,0 -120.841186,50.752189,0 -120.84084,50.752301,0 -120.840354,50.752459,0 -120.838933,50.75323,0 -120.838286,50.753438,0 -120.834115,50.754349,0 -120.829042,50.755456,0 -120.824952,50.756352,0 -120.817061,50.758609,0 -120.816659,50.75871,0 -120.816241,50.758815,0 -120.814949,50.759076,0 -120.81369,50.759287,0 -120.813313,50.759325,0 -120.812715,50.759386,0 -120.812378,50.75942,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
