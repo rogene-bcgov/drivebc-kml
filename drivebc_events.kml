@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-21 20:34:34 UTC
+        Last updated: 2025-08-21 21:01:53 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (291)</name>
+      <name>🚗 Traffic Events (293)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6164,6 +6164,32 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97, in both directions. Paving operations between Austin Rd and Nordic Dr for 0.2 km (Prince George). Until Fri Sep 5 at 6:00 PM PDT. Right turn lane closed. Left turn lane closed. Closing right and left turn lanes off Highway 97 to Handlen Road. Last updated Thu Aug 21 at 1:49 PM PDT. (DBC-80736)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Austin Rd and Nordic Dr for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince George&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-21T13:49:02-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80736
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.797687,53.995609,0 -122.797813,53.995685,0 -122.798441,53.996173,0 -122.798975,53.996646,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 10, eastbound. Paving operations between 184 St and 188 St for 0.8 km (Surrey). Until Sun Aug 31. From 7:00 PM to 7:00 AM PDT daily. Roadway reduced to one lane. Watch for traffic control. Last updated Thu Aug 14 at 12:41 PM PDT. (DBC-80479)</name>
           <description>
     &lt;![CDATA[
@@ -6188,6 +6214,31 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
             <tessellate>1</tessellate>
             <coordinates>-122.712682,49.104052,0 -122.701656,49.104079,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Main Rd, in both directions. Utility work planned between Peninsula Rd and Helen Rd. Starting Wed Sep 3 at 7:00 AM PDT until Wed Sep 3 at 5:00 PM PDT. Road closure planned. Detour planned. Expect minor delays. Watch for traffic control personnel. Water pipe install. Watch for work crews. Detour available. Last updated Thu Aug 21 at 1:50 PM PDT. (DBC-80737)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Main Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Peninsula Rd and Helen Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-21T13:50:26-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80737
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-125.546408,48.941867,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 26. Utility work between Stanley Rd and Slough Creek 2100 Rd for 4.9 km (12 to 7 km west of Wells). Until Thu Aug 21. From 8:00 AM to 4:00 PM PDT on weekdays. Single lane alternating traffic. Please watch for signage and personnel. Expect minor delays of up to five minutes. Last updated Fri Jul 11 at 10:03 AM PDT. (DBC-79110)</name>
