@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-22 15:01:50 UTC
+        Last updated: 2025-08-22 15:33:30 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -736,6 +736,31 @@
             <tessellate>1</tessellate>
             <coordinates>-123.049703,49.326579,0 -123.046732,49.325659,0 -123.045835,49.325228,0 -123.045234,49.324826,0 -123.044676,49.324243,0 -123.044631,49.324186,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Maintenance planned between Whistler Way and Village Gate Blvd (Whistler). Starting Fri Aug 22 at 9:30 AM PDT until Fri Aug 22 at 3:00 PM PDT. Right lane will be closed. Last updated Fri Aug 22 at 8:07 AM PDT. (DBC-80758)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Whistler Way and Village Gate Blvd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Whistler&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:07:55-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80758
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.959102,50.114223,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 19 (Island Highway), in both directions. Road construction work between Sayward Timber and Barge Terminal Rd for 5.4 km (Campbell River). Until Fri Sep 26 at 11:45 PM PDT. Minor congestion. Please expect a speed reduction on Hwy 19 to access the detour road for Race Point Road
@@ -6371,31 +6396,6 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
       <Folder>
         <name>Incident Events</name>
         <Placemark>
-          <name>Highway 91, southbound. Stalled vehicle between Exit 9: Cliveden Ave and Derwent Way (Delta). Ramp blocked. Watch for traffic control. Merge lane from Cliveden Avenue onto southbound lanes blocked. Next update time Fri Aug 22 at 8:30 AM PDT. Last updated Fri Aug 22 at 7:55 AM PDT. (DBC-80756)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 9: Cliveden Ave and Derwent Way&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T07:55:12-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T08:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80756
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.948824,49.169179,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Construction work. For more information on the closure, please refer to Highway 1 Project page: gov.Bc.Ca/264toHighway11#bradner. Next update time Tue Sep 30 at 12:00 PM PDT. Last updated Mon Jul 28 at 11:06 AM PDT. (DBC-66582)</name>
           <description>
     &lt;![CDATA[
@@ -6546,6 +6546,31 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </Point>
         </Placemark>
         <Placemark>
+          <name>Barnston Island Ferry, in both directions. Possible ferry delays at Barnston Island Ferry (Surrey). Until Fri Aug 29 at 4:00 PM PDT. Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Last updated Fri Aug 22 at 8:23 AM PDT. (DBC-80223)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Barnston Island Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Barnston Island Ferry&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:23:01-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80223
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.725702,49.192034,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Colleymount Rd, in both directions. Washout at 53.5km near Burns Lake. Single lane alternating traffic. Expect delays. Partial road washout, obey signage. Next update time Fri Aug 29 at 10:00 AM PDT. Last updated Fri Jul 18 at 10:06 AM PDT. (DBC-71008)</name>
           <description>
     &lt;![CDATA[
@@ -6568,31 +6593,6 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-126.479614,53.985412,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Barnston Island Ferry, in both directions. Possible ferry delays at Barnston Island Ferry (Surrey). Until Fri Aug 22 at 4:00 PM PDT. Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Last updated Tue Aug 12 at 10:35 AM PDT. (DBC-80223)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Barnston Island Ferry&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Barnston Island Ferry&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-12T10:35:39-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80223
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.725702,49.192034,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -6774,19 +6774,19 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19 (Inland Island Highway), in both directions. Vehicle incident at Lantzville Rd (6 km north of Nanaimo). All lanes blocked. Emergency vehicles on scene. Expect major delays. Assessment in progress. Northbound lanes blocked. Use alternate route. Both directions blocked for emergency crews. Next update time Fri Aug 22 at 9:00 AM PDT. Last updated Fri Aug 22 at 7:46 AM PDT. (DBC-80752)</name>
+          <name>Highway 19 (Inland Island Highway), northbound. Vehicle incident at Lantzville Rd (6 km north of Nanaimo). Right lane is blocked. Emergency vehicles on scene. Expect major delays. Next update time Fri Aug 22 at 9:00 AM PDT. Last updated Fri Aug 22 at 8:26 AM PDT. (DBC-80752)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
     &lt;b&gt;Location:&lt;/b&gt; At Lantzville Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 km north of Nanaimo&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T07:46:35-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:26:18-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
