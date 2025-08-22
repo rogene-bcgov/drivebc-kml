@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-22 15:33:30 UTC
+        Last updated: 2025-08-22 16:02:00 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (276)</name>
+      <name>🚗 Traffic Events (277)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2589,6 +2589,31 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Main Street, in both directions. Paving operations between Mountain Highway and Highway 1. Until Fri Aug 22. From 7:00 PM to 5:00 AM PDT daily. Watch for traffic control and detour signage. Expect delays. Next update time Fri Aug 22 at 9:30 AM PDT. Last updated Fri Aug 22 at 8:33 AM PDT. (DBC-79239)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Main Street&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Mountain Highway and Highway 1&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:33:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T09:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-79239
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.028272,49.304812,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work between 103 Mile Rd W and Dawson Rd for 2.0 km (2 to 4 km north of 100 Mile House). Until Tue Aug 26. From 8:00 AM to 4:00 PM PDT daily. Single lane alternating traffic. Please watch for signage and personnel. Expect minor delays of up to five minutes. Last updated Tue Jul 29 at 11:31 AM PDT. (DBC-79094)</name>
           <description>
     &lt;![CDATA[
@@ -2613,31 +2638,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
             <tessellate>1</tessellate>
             <coordinates>-121.315353,51.688011,0 -121.3159,51.688862,0 -121.317173,51.690841,0 -121.318041,51.692202,0 -121.319033,51.693756,0 -121.319955,51.695201,0 -121.321581,51.697747,0 -121.322006,51.698565,0 -121.32223,51.699417,0 -121.32222,51.700003,0 -121.322219,51.700035,0 -121.322165,51.700475,0 -121.322108,51.700646,0 -121.321888,51.701303,0 -121.321622,51.701757,0 -121.321431,51.701974,0 -121.321286,51.702206,0 -121.31875,51.70505,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Main Street, in both directions. Paving operations between Mountain Highway and Highway 1. Until Fri Aug 22. From 7:00 PM to 5:00 AM PDT daily. Watch for traffic control and detour signage. Expect delays. Next update time Fri Aug 22 at 5:00 AM PDT. Last updated Thu Aug 14 at 1:59 PM PDT. (DBC-79239)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Main Street&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Mountain Highway and Highway 1&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-14T13:59:27-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T05:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-79239
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.028272,49.304812,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla South). Construction work between Exit 183: Othello Rd and Exit 195 for 3.9 km (15 km north of Hope to 16 km south of Great Bear Snowshed). Until Fri Aug 29 at 6:00 PM PDT. Right lane closed. Construction/rehabilitation works of Exit 195 Carolin Mine Road. Last updated Thu Aug 7 at 12:33 PM PDT. (DBC-79220)</name>
@@ -5956,7 +5956,7 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Bridgeport Rd, westbound. Utility work planned between No 4 Rd and Gage Road. Starting Fri Aug 22 at 9:00 AM PDT until Fri Aug 22 at 2:00 PM PDT. Lane Closure. Last updated Thu Aug 21 at 2:55 PM PDT. (DBC-80741)</name>
+          <name>Bridgeport Rd, westbound. Utility work between No 4 Rd and Gage Road. Until Fri Aug 22 at 2:00 PM PDT. Lane Closure. Last updated Thu Aug 21 at 2:55 PM PDT. (DBC-80741)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5968,7 +5968,7 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between No 4 Rd and Gage Road&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-21T14:55:52-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6446,6 +6446,31 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Vehicle fire between Exit 28 and Massey Tunnel (Delta). Right lane is blocked. Emergency vehicles on scene. Expect delays. Next update time Fri Aug 22 at 9:45 AM PDT. Last updated Fri Aug 22 at 8:41 AM PDT. (DBC-80759)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:41:38-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T09:45:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80759
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.061313,49.110437,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Quesnel-Hixon Road, in both directions. Landslide at Cottonwood bridge. Road closed. Next update time Fri Apr 17, 2026 at 2:00 PM PDT. Last updated Thu Apr 17 at 3:40 PM PDT. (DBC-28386)</name>
           <description>
     &lt;![CDATA[
@@ -6774,7 +6799,7 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19 (Inland Island Highway), northbound. Vehicle incident at Lantzville Rd (6 km north of Nanaimo). Right lane is blocked. Emergency vehicles on scene. Expect major delays. Next update time Fri Aug 22 at 9:00 AM PDT. Last updated Fri Aug 22 at 8:26 AM PDT. (DBC-80752)</name>
+          <name>Highway 19 (Inland Island Highway), northbound. Vehicle incident at Lantzville Rd (6 km north of Nanaimo). Right lane is blocked. Emergency vehicles on scene. Expect major delays. Next update time Fri Aug 22 at 10:00 AM PDT. Last updated Fri Aug 22 at 8:57 AM PDT. (DBC-80752)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6786,8 +6811,8 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
     &lt;b&gt;Location:&lt;/b&gt; At Lantzville Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 km north of Nanaimo&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:26:18-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T09:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:57:30-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T10:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-80752
