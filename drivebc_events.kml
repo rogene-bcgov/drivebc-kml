@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-22 21:01:47 UTC
+        Last updated: 2025-08-22 21:32:17 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (290)</name>
+      <name>🚗 Traffic Events (288)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1306,32 +1306,6 @@ Use caution &amp; reduce speed when passing. Last updated Wed Aug 6 at 8:22 AM P
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 10, westbound. Utility work between 180 St and 176A St for 0.1 km (Surrey). Until Sun Aug 24. From 9:00 AM to 3:00 PM PDT daily. Right lane closed. Watch for traffic control. Last updated Thu Aug 14 at 1:25 PM PDT. (DBC-79640)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 176A St and 180 St for 0.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-79640
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.730803,49.104122,0 -122.730303,49.104116,0 -122.729678,49.104113,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Chopaka Rd. Maintenance at Henry Cres. Until Wed Sep 10. From 7:00 AM to 5:00 PM PDT daily. Single lane alternating traffic. Lane Closure. Detour in effect. Expect minor delays. Culvert Replacement - Two Locations Single Lane Alternating Traffic in effect during work hours.
 Lane Closure, yield to oncoming traffic in effect outside of working hours. Last updated Wed Aug 20 at 8:23 AM PDT. (DBC-80365)</name>
           <description>
@@ -1381,6 +1355,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <Point>
             <coordinates>-120.892384,51.049319,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 10, westbound. Utility work planned between 180 St and 176A St for 0.1 km (Surrey). Starting Sun Sep 7 until Sun Sep 7. From 9:00 AM to 3:00 PM PDT daily. Right lane will be closed. Watch for traffic control personnel. Last updated Fri Aug 22 at 2:09 PM PDT. (DBC-79640)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 176A St and 180 St for 0.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T14:09:42-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-79640
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.730803,49.104122,0 -122.730303,49.104116,0 -122.729678,49.104113,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla North), northbound. Construction work planned between Chuwhels Mountain Rd and Inks Lake Rd for 5.1 km (6 to 1 km south of Kamloops). Starting Mon Aug 25 at 8:00 AM PDT until Mon Aug 25 at 4:00 PM PDT. Right lane will be closed. Watch for traffic control personnel. Last updated Wed Jul 30 at 10:01 AM PDT. (DBC-79900)</name>
@@ -3283,32 +3283,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.671007,49.260139,0 -124.671073,49.260211,0 -124.671219,49.260432,0 -124.671936,49.261523,0 -124.672459,49.262455,0 -124.672666,49.262873,0 -124.673759,49.265082,0 -124.673832,49.265408,0 -124.673812,49.265741,0 -124.673439,49.267158,0 -124.673435,49.267553,0 -124.673548,49.267914,0 -124.673738,49.268237,0 -124.675087,49.269712,0 -124.675378,49.270189,0 -124.675566,49.270588,0 -124.675649,49.270932,0 -124.67565,49.271252,0 -124.67556,49.271735,0 -124.674829,49.273878,0 -124.674827,49.274328,0 -124.674983,49.275682,0 -124.675006,49.276328,0 -124.674893,49.27841,0 -124.675426,49.28079,0 -124.675486,49.28106,0 -124.675513,49.281416,0 -124.675459,49.281874,0 -124.675326,49.282448,0 -124.675196,49.282729,0 -124.675013,49.282966,0 -124.674759,49.283193,0 -124.673908,49.283766,0 -124.672598,49.284649,0 -124.672261,49.284958,0 -124.670232,49.287187,0 -124.668996,49.288284,0 -124.668637,49.288687,0 -124.668385,49.288969,0 -124.668079,49.28925,0 -124.66768,49.28951,0 -124.667289,49.289704,0 -124.66594,49.290263,0 -124.665174,49.290531,0 -124.663497,49.291067,0 -124.662664,49.291225,0 -124.661063,49.291489,0 -124.660451,49.291547,0 -124.659894,49.291538,0 -124.659256,49.291476,0 -124.658083,49.291362,0 -124.656253,49.291126,0 -124.655519,49.291032,0 -124.655136,49.290982,0 -124.65452,49.290825,0 -124.653653,49.290483,0 -124.653346,49.290411,0 -124.652977,49.290365,0 -124.652562,49.29037,0 -124.651704,49.290469,0 -124.651188,49.290471,0 -124.649619,49.290339,0 -124.646381,49.289852,0 -124.644636,49.289887,0 -124.643959,49.289798,0 -124.643172,49.289629,0 -124.642753,49.289539,0 -124.641806,49.289193,0 -124.641276,49.289099,0 -124.63946,49.289079,0 -124.638773,49.289009,0 -124.637057,49.2887,0 -124.636458,49.28863,0 -124.634338,49.288547,0 -124.633643,49.288482,0 -124.633076,49.288362,0 -124.631719,49.287955,0 -124.631263,49.287893,0 -124.630844,49.287881,0 -124.629629,49.287927,0 -124.629081,49.287974,0 -124.628567,49.288069,0 -124.622969,49.289552,0 -124.622241,49.289664,0 -124.621591,49.289708,0 -124.620644,49.289694,0 -124.619201,49.289577,0 -124.618704,49.289474,0 -124.618272,49.289301,0 -124.618023,49.289141,0 -124.617211,49.288358,0 -124.616938,49.288181,0 -124.616586,49.28804,0 -124.616234,49.287986,0 -124.615866,49.287981,0 -124.615528,49.288031,0 -124.613908,49.288456,0 -124.613487,49.288531,0 -124.612186,49.288633,0 -124.611809,49.288703,0 -124.61115,49.28891,0 -124.61082,49.288976,0 -124.61053,49.288983,0 -124.609358,49.288819,0 -124.60859,49.288761,0 -124.608146,49.288687,0 -124.607649,49.288544,0 -124.606923,49.288226,0 -124.606474,49.288108,0 -124.605927,49.288009,0 -124.604229,49.287825,0 -124.603761,49.287729,0 -124.603285,49.287563,0 -124.602672,49.287233,0 -124.602317,49.287089,0 -124.601947,49.286999,0 -124.601429,49.286933,0 -124.600855,49.286901,0 -124.600372,49.286913,0 -124.600006,49.286971,0 -124.598653,49.287368,0 -124.598089,49.287458,0 -124.597412,49.287513,0 -124.59677,49.287519,0 -124.596317,49.287465,0 -124.595909,49.28735,0 -124.595594,49.287213,0 -124.593312,49.28592,0 -124.592868,49.285735,0 -124.592487,49.28563,0 -124.591775,49.285503,0 -124.591282,49.285442,0 -124.590909,49.285437,0 -124.590568,49.285476,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (Kicking Horse Pass). Maintenance between Golden Donald Upper Rd and Yoho Bridge for 7.8 km (Golden). Until Fri Aug 22. From 7:30 AM to 5:30 PM MDT on Wednesday, Thursday and Friday. Watch for traffic control. Reduce speed. East Bound Lane shift from slow lane to fast lane. Last updated Wed Aug 20 at 5:23 PM MDT. (DBC-80384)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Golden Donald Upper Rd and Yoho Bridge for 7.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Golden&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T23:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80384
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.953678,51.301194,0 -116.951664,51.301659,0 -116.951293,51.301735,0 -116.950977,51.301801,0 -116.950449,51.301887,0 -116.950222,51.301918,0 -116.949782,51.301965,0 -116.949256,51.301978,0 -116.948408,51.301962,0 -116.948035,51.301944,0 -116.946922,51.301766,0 -116.94643,51.301659,0 -116.945744,51.301497,0 -116.94498,51.301313,0 -116.944028,51.301133,0 -116.943607,51.301065,0 -116.943198,51.301029,0 -116.942967,51.301014,0 -116.942558,51.301005,0 -116.942083,51.301007,0 -116.94147,51.301034,0 -116.941002,51.301043,0 -116.940881,51.301048,0 -116.940432,51.301044,0 -116.940143,51.301035,0 -116.939716,51.300998,0 -116.939444,51.300966,0 -116.939167,51.300926,0 -116.938719,51.300839,0 -116.938252,51.300724,0 -116.937887,51.300615,0 -116.936799,51.300227,0 -116.936566,51.30015,0 -116.936244,51.300043,0 -116.935842,51.299932,0 -116.935395,51.299826,0 -116.935035,51.299758,0 -116.934812,51.299722,0 -116.934102,51.299631,0 -116.933686,51.29959,0 -116.933216,51.299546,0 -116.932752,51.299493,0 -116.932344,51.299428,0 -116.931993,51.299362,0 -116.931606,51.299278,0 -116.931222,51.299185,0 -116.930728,51.299058,0 -116.930086,51.2989,0 -116.929953,51.298874,0 -116.929626,51.298811,0 -116.929305,51.298756,0 -116.929093,51.298723,0 -116.928927,51.298707,0 -116.928858,51.298701,0 -116.928641,51.298681,0 -116.928489,51.298668,0 -116.928024,51.29865,0 -116.92722,51.298668,0 -116.927077,51.298678,0 -116.926791,51.298702,0 -116.926078,51.298756,0 -116.92532,51.298807,0 -116.92483,51.298818,0 -116.924408,51.298811,0 -116.923787,51.298772,0 -116.922689,51.298675,0 -116.922604,51.298669,0 -116.922439,51.298658,0 -116.922132,51.298641,0 -116.92175,51.298635,0 -116.921532,51.298634,0 -116.92136,51.298639,0 -116.921043,51.29865,0 -116.920666,51.298679,0 -116.920216,51.298722,0 -116.919984,51.298747,0 -116.919728,51.298774,0 -116.919365,51.298813,0 -116.919333,51.298817,0 -116.918866,51.298849,0 -116.918822,51.298852,0 -116.918793,51.298854,0 -116.918708,51.298857,0 -116.918655,51.29886,0 -116.918576,51.298863,0 -116.918528,51.298865,0 -116.918208,51.298873,0 -116.918163,51.298874,0 -116.917852,51.298876,0 -116.917783,51.298876,0 -116.917747,51.298876,0 -116.917598,51.298873,0 -116.917408,51.298868,0 -116.917353,51.298866,0 -116.917281,51.298864,0 -116.917113,51.298852,0 -116.917038,51.298846,0 -116.916999,51.298843,0 -116.916878,51.298833,0 -116.916787,51.298826,0 -116.916464,51.298792,0 -116.916388,51.298784,0 -116.916012,51.298736,0 -116.915547,51.298656,0 -116.915334,51.298619,0 -116.915171,51.298591,0 -116.914796,51.298523,0 -116.914079,51.298395,0 -116.913971,51.298375,0 -116.913784,51.298348,0 -116.913642,51.298331,0 -116.913424,51.298308,0 -116.913354,51.298301,0 -116.913127,51.298287,0 -116.912931,51.298287,0 -116.912735,51.298293,0 -116.912449,51.298321,0 -116.91239,51.298327,0 -116.912229,51.298357,0 -116.912174,51.298367,0 -116.911995,51.298401,0 -116.911812,51.298447,0 -116.911547,51.298513,0 -116.911419,51.29855,0 -116.911285,51.298589,0 -116.911129,51.298634,0 -116.910934,51.298679,0 -116.910605,51.298712,0 -116.9097,51.298716,0 -116.909087,51.298857,0 -116.908699,51.299041,0 -116.908133,51.299435,0 -116.907442,51.299829,0 -116.907307,51.299999,0 -116.907189,51.300388,0 -116.907091,51.300554,0 -116.906917,51.300708,0 -116.906795,51.300764,0 -116.906767,51.300776,0 -116.906661,51.300825,0 -116.906315,51.300861,0 -116.906026,51.300857,0 -116.905641,51.30083,0 -116.905345,51.300836,0 -116.905034,51.300891,0 -116.903211,51.301373,0 -116.902648,51.301486,0 -116.902172,51.30157,0 -116.901616,51.301636,0 -116.901263,51.301678,0 -116.900825,51.301716,0 -116.900432,51.301734,0 -116.898152,51.301757,0 -116.8977,51.301807,0 -116.897292,51.301905,0 -116.897124,51.301961,0 -116.896867,51.302074,0 -116.896548,51.302288,0 -116.896164,51.302695,0 -116.89605,51.302771,0 -116.895893,51.30284,0 -116.895727,51.302892,0 -116.89535,51.302931,0 -116.89402,51.303009,0 -116.89348,51.303066,0 -116.893408,51.303082,0 -116.893179,51.303134,0 -116.892957,51.303214,0 -116.892763,51.303331,0 -116.892598,51.303481,0 -116.89226,51.303944,0 -116.892129,51.304097,0 -116.89194,51.304247,0 -116.89178,51.304349,0 -116.891597,51.304466,0 -116.891425,51.304552,0 -116.891229,51.304651,0 -116.891041,51.304722,0 -116.89092,51.304769,0 -116.890532,51.304852,0 -116.890317,51.304889,0 -116.889738,51.304939,0 -116.888847,51.305006,0 -116.888197,51.305027,0 -116.887033,51.304985,0 -116.885655,51.305036,0 -116.885006,51.305043,0 -116.884683,51.305031,0 -116.883974,51.30505,0 -116.883352,51.305154,0 -116.881774,51.305505,0 -116.88055,51.305783,0 -116.880021,51.305916,0 -116.878456,51.306403,0 -116.878045,51.306473,0 -116.877766,51.306474,0 -116.877072,51.306409,0 -116.876788,51.306406,0 -116.876423,51.306414,0 -116.875671,51.306477,0 -116.875337,51.306527,0 -116.874985,51.306598,0 -116.874741,51.306611,0 -116.874515,51.306581,0 -116.87439,51.306543,0 -116.874235,51.306465,0 -116.873871,51.306221,0 -116.873734,51.306104,0 -116.87359,51.30595,0 -116.873483,51.305739,0 -116.87338,51.305577,0 -116.873253,51.305435,0 -116.873131,51.305335,0 -116.872815,51.305163,0 -116.872118,51.304904,0 -116.871481,51.304656,0 -116.871039,51.304441,0 -116.870815,51.304312,0 -116.870578,51.304137,0 -116.870002,51.303511,0 -116.869831,51.303352,0 -116.869742,51.303277,0 -116.869494,51.303044,0 -116.868716,51.302365,0 -116.868115,51.301855,0 -116.867466,51.301353,0 -116.866862,51.300933,0 -116.866295,51.300546,0 -116.86544,51.299986,0 -116.864532,51.29942,0 -116.864236,51.299252,0 -116.863894,51.299084,0 -116.863159,51.298776,0 -116.86229,51.298434,0 -116.86149,51.298122,0 -116.860772,51.297851,0 -116.859646,51.297438,0 -116.85718,51.296551,0 -116.854323,51.295377,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5520,6 +5494,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 19 (Inland Island Highway), northbound. Electrical maintenance planned between Superior Rd and McKercher Rd for 0.7 km (4 to 5 km north of Nanaimo). Starting Fri Aug 22 at 6:00 PM PDT until Sat Aug 23. Right lane will be closed. Watch for traffic control personnel. Speed reducation in place, watch for traffic control and workers on site. Last updated Fri Aug 22 at 2:00 PM PDT. (DBC-80784)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between McKercher Rd and Superior Rd for 0.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 to 5 km north of Nanaimo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T14:00:33-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80784
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.111721,49.252083,0 -124.110709,49.251908,0 -124.105768,49.250939,0 -124.10441,49.250762,0 -124.103395,49.250675,0 -124.10292,49.250655,0 -124.102122,49.250622,0 -124.101802,49.250608,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 101, in both directions. Utility work planned between Seaside Way and Saltery Bay Provincial Pk for 5.3 km (20 to 25 km east of Powell River). Starting Mon Aug 25 until Fri Aug 29. From 10:00 AM to 4:00 PM PDT on weekdays. Lane closures in both directions planned. Last updated Thu Aug 21 at 11:42 AM PDT. (DBC-80733)</name>
           <description>
     &lt;![CDATA[
@@ -5543,32 +5543,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.267051,49.778155,0 -124.266552,49.778308,0 -124.266018,49.778397,0 -124.264585,49.778469,0 -124.26441,49.778466,0 -124.263492,49.778448,0 -124.262739,49.778389,0 -124.262219,49.778322,0 -124.261838,49.778352,0 -124.26156,49.778433,0 -124.26077,49.778832,0 -124.259175,49.779359,0 -124.258579,49.779674,0 -124.257897,49.78018,0 -124.257518,49.780357,0 -124.256997,49.780488,0 -124.256726,49.780556,0 -124.256092,49.780658,0 -124.255878,49.780692,0 -124.254705,49.780813,0 -124.25456,49.780828,0 -124.254405,49.780844,0 -124.251947,49.781067,0 -124.25047,49.781013,0 -124.249477,49.781033,0 -124.247433,49.781196,0 -124.24384,49.781224,0 -124.242536,49.781189,0 -124.241982,49.781229,0 -124.241397,49.781324,0 -124.240454,49.781597,0 -124.239644,49.781742,0 -124.239399,49.781786,0 -124.236352,49.782006,0 -124.231471,49.7821,0 -124.22687,49.782793,0 -124.225586,49.782974,0 -124.224995,49.783054,0 -124.22374,49.783124,0 -124.219093,49.783558,0 -124.217802,49.783659,0 -124.215693,49.783825,0 -124.214465,49.783832,0 -124.212011,49.783848,0 -124.206927,49.78388,0 -124.206307,49.783884,0 -124.205961,49.783889,0 -124.20233,49.783939,0 -124.20218,49.783941,0 -124.199366,49.78398,0 -124.199017,49.783985,0 -124.197082,49.784009,0 -124.194326,49.784455,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 37, in both directions. Crack sealing is underway between Oolichan Ave and Onion Lake for 2.0 km (25 to 23 km north of Kitimat). Until Fri Aug 22 at 2:00 PM PDT. Watch for traffic control. Expect delays. Last updated Fri Aug 22 at 10:58 AM PDT. (DBC-80652)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 37S&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Oolichan Ave and Onion Lake for 2.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 23 to 25 km north of Kitimat&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T10:58:42-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80652
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-128.535055,54.242684,0 -128.533894,54.247314,0 -128.533654,54.247793,0 -128.533396,54.248102,0 -128.533005,54.248441,0 -128.532937,54.2485,0 -128.532036,54.249027,0 -128.526845,54.251842,0 -128.526763,54.251896,0 -128.525945,54.252435,0 -128.525291,54.253034,0 -128.525222,54.253098,0 -128.524772,54.253641,0 -128.524393,54.254286,0 -128.524346,54.25441,0 -128.52424,54.254697,0 -128.524201,54.254802,0 -128.523755,54.256994,0 -128.523234,54.259558,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6291,31 +6265,6 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Bridgeport Rd, westbound. Utility work between No 4 Rd and Gage Road. Until Fri Aug 22 at 2:00 PM PDT. Lane Closure. Last updated Thu Aug 21 at 2:55 PM PDT. (DBC-80741)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Bridgeport Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between No 4 Rd and Gage Road&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T09:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80741
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.117203,49.192019,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Road maintenance work between Brenners Rd and Caldwell Rd for 6.4 km (Fernie). Until Fri Aug 29 at 5:00 PM MDT. From 7:00 AM to 5:00 PM MDT on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Wed Aug 20 at 9:18 AM MDT. (DBC-80676)</name>
           <description>
     &lt;![CDATA[
@@ -6982,31 +6931,6 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Kootenay Lake Ferries. 1 sailing wait at Balfour Terminal. Until Fri Aug 22 at 4:00 PM PDT. Next update time Fri Aug 22 at 2:30 PM PDT. Last updated Fri Aug 22 at 12:10 PM PDT. (DBC-80774)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Kootenay Lake Ferries&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Balfour Terminal&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T12:10:07-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T14:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80774
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-116.956338,49.622952,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector). Rest area closed between Charles Rd and Anderson Rd (15 km south of Pineview). Next update time Tue Sep 30 at 10:00 AM PDT. Last updated Mon Jun 30 at 10:04 AM PDT. (DBC-71474)</name>
           <description>
     &lt;![CDATA[
@@ -7029,6 +6953,31 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.674115,53.676325,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Kootenay Lake Ferries. 1 sailing wait at Balfour Terminal. Until Fri Aug 22 at 7:00 PM PDT. Next update time Fri Aug 22 at 7:00 PM PDT. Last updated Fri Aug 22 at 2:19 PM PDT. (DBC-80774)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Kootenay Lake Ferries&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Balfour Terminal&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T14:19:13-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T19:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80774
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-116.956338,49.622952,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -7105,56 +7054,6 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.489194,52.972914,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 18: Lonsdale Ave and Exit 17: Westview Dr (North Vancouver - City). Left lane is blocked. Expect delays due to congestion. Next update time Fri Aug 22 at 1:45 PM PDT. Last updated Fri Aug 22 at 1:31 PM PDT. (DBC-80775)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 17: Westview Dr and Exit 18: Lonsdale Ave&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - City&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T13:31:51-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T13:45:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80775
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.082963,49.331956,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97. Road cleared at Bailey Rd (7 km south of Coldstream). Last updated Fri Aug 22 at 1:49 PM PDT. (DBC-80777)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Bailey Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 km south of Coldstream&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T13:49:45-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80777
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-119.350001,50.182825,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -7260,30 +7159,79 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Vehicle incident between Gossen Creek St and Kleanza Park Rd for 0.4 km (13 km east of Terrace). Single lane alternating traffic. Next update time Fri Aug 22 at 2:30 PM PDT. Last updated Fri Aug 22 at 1:50 PM PDT. (DBC-80782)</name>
+          <name>Needles Ferry, eastbound. 2 sailing wait between Needles and Fauquier. Expect delays between 60-90 minutes. Delays are from the Needles side. Next update time Fri Aug 22 at 4:00 PM PDT. Last updated Fri Aug 22 at 1:57 PM PDT. (DBC-80783)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Needles and Fauquier&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T13:57:55-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T16:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80783
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.089542,49.872942,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Kootenay Lake Ferry. 1 sailing wait at Kootenay Bay Terminal. Until Fri Aug 22 at 7:00 PM PDT. Next update time Fri Aug 22 at 7:00 PM PDT. Last updated Fri Aug 22 at 2:20 PM PDT. (DBC-80785)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Kootenay Lake Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Kootenay Bay Terminal&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T14:20:07-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T19:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80785
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-116.893362,49.663829,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), westbound. Vehicle incident between United Blvd and Schoolhouse St (Coquitlam). Left lane is blocked. Expect delays. Next update time Fri Aug 22 at 3:15 PM PDT. Last updated Fri Aug 22 at 2:26 PM PDT. (DBC-80786)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Gossen Creek St and Kleanza Park Rd for 0.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km east of Terrace&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Schoolhouse St and United Blvd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T13:50:09-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T14:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T14:26:56-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T15:15:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80782
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80786
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-128.419102,54.576814,0 -128.417364,54.578416,0 -128.416435,54.579272,0 -128.41588,54.579784,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-122.829642,49.232369,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Bamfield Rd, in both directions. There is a wildfire between Bamfield and Port Alberni. Forest fire. Road closed. Essential travel only toward Bamfield. Refer to the Alberni-Clayoquot Regional District for more information. Next update time Mon Aug 25 at 1:00 PM PDT. Last updated Fri Aug 22 at 1:07 PM PDT. (DBC-80346)</name>
