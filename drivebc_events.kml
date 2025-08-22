@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-22 14:35:15 UTC
+        Last updated: 2025-08-22 15:01:50 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -199,6 +199,32 @@
           <Point>
             <coordinates>-123.132201,49.338053,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 29. Mowing between 50th Ave NW and Moberly Lake Rd for 18.9 km (Chetwynd). Until Fri Aug 22 at 3:30 PM MST. Watch for slow moving vehicles in the area. Last updated Fri Aug 22 at 7:33 AM MST. (DBC-80714)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 50th Ave NW and Moberly Lake Rd for 18.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chetwynd&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T07:33:46-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80714
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.629581,55.699244,0 -121.629587,55.699558,0 -121.629589,55.699648,0 -121.629596,55.699997,0 -121.629597,55.70052,0 -121.629598,55.700898,0 -121.629567,55.701085,0 -121.629514,55.701408,0 -121.629363,55.701699,0 -121.629073,55.702036,0 -121.628742,55.702283,0 -121.62867,55.702326,0 -121.627823,55.702828,0 -121.627512,55.703012,0 -121.626284,55.703739,0 -121.624877,55.704573,0 -121.624404,55.704853,0 -121.623238,55.705543,0 -121.619154,55.707961,0 -121.618018,55.708625,0 -121.617517,55.708891,0 -121.616052,55.709672,0 -121.615397,55.71002,0 -121.615094,55.710182,0 -121.614699,55.710392,0 -121.613815,55.710985,0 -121.613776,55.711013,0 -121.612876,55.711706,0 -121.612205,55.712244,0 -121.611154,55.713046,0 -121.609835,55.714054,0 -121.609641,55.714203,0 -121.609365,55.714414,0 -121.608991,55.714589,0 -121.608004,55.715055,0 -121.606533,55.715477,0 -121.600005,55.716862,0 -121.591913,55.718577,0 -121.591477,55.718686,0 -121.590893,55.718832,0 -121.589593,55.719185,0 -121.588677,55.71948,0 -121.587846,55.719808,0 -121.587632,55.719914,0 -121.587107,55.720175,0 -121.586293,55.720579,0 -121.584928,55.721503,0 -121.584358,55.722,0 -121.583458,55.723007,0 -121.582905,55.723827,0 -121.582856,55.723929,0 -121.58258,55.724514,0 -121.582408,55.725158,0 -121.582406,55.726659,0 -121.582455,55.72683,0 -121.582797,55.728009,0 -121.583227,55.728786,0 -121.583733,55.729455,0 -121.584438,55.730185,0 -121.5851,55.73073,0 -121.586037,55.731367,0 -121.586881,55.73183,0 -121.593346,55.73489,0 -121.593825,55.735158,0 -121.594139,55.735333,0 -121.594763,55.735789,0 -121.595354,55.736317,0 -121.596632,55.737865,0 -121.597569,55.738696,0 -121.598333,55.739183,0 -121.599429,55.739715,0 -121.60003,55.739974,0 -121.60074,55.740279,0 -121.603349,55.741401,0 -121.605654,55.742392,0 -121.606286,55.742742,0 -121.606821,55.743146,0 -121.607098,55.743431,0 -121.607249,55.743586,0 -121.607459,55.7439,0 -121.607647,55.744391,0 -121.6077,55.744885,0 -121.607646,55.745177,0 -121.607136,55.746223,0 -121.607604,55.745402,0 -121.60747,55.745736,0 -121.604083,55.749716,0 -121.603929,55.749892,0 -121.602214,55.751854,0 -121.601762,55.752539,0 -121.601311,55.753537,0 -121.601083,55.754481,0 -121.601085,55.754637,0 -121.601093,55.755543,0 -121.601268,55.756348,0 -121.601557,55.757116,0 -121.601926,55.758094,0 -121.602531,55.759707,0 -121.602571,55.76057,0 -121.602382,55.761211,0 -121.602002,55.761807,0 -121.601669,55.762184,0 -121.601038,55.762709,0 -121.600278,55.76324,0 -121.600051,55.763398,0 -121.598566,55.764434,0 -121.597995,55.765013,0 -121.597581,55.765642,0 -121.597555,55.765737,0 -121.597477,55.766015,0 -121.597334,55.76653,0 -121.597347,55.766988,0 -121.597646,55.767901,0 -121.597964,55.768542,0 -121.598857,55.770338,0 -121.599516,55.771663,0 -121.599707,55.772465,0 -121.599721,55.773256,0 -121.599545,55.773998,0 -121.599249,55.774689,0 -121.598812,55.77536,0 -121.59707,55.777568,0 -121.596718,55.778286,0 -121.596585,55.778714,0 -121.596462,55.779111,0 -121.596132,55.782519,0 -121.595819,55.785756,0 -121.595553,55.788516,0 -121.595436,55.789727,0 -121.595189,55.792286,0 -121.595162,55.792544,0 -121.594439,55.800006,0 -121.594363,55.800787,0 -121.594159,55.802887,0 -121.594085,55.80365,0 -121.593933,55.805211,0 -121.593889,55.80885,0 -121.593869,55.810539,0 -121.593854,55.81177,0 -121.593824,55.814277,0 -121.593814,55.815139,0 -121.593805,55.815878,0 -121.593926,55.816862,0 -121.594203,55.817584,0 -121.5945,55.818045,0 -121.595068,55.8187,0 -121.595575,55.819151,0 -121.596357,55.819688,0 -121.600077,55.82161,0 -121.601887,55.822545,0 -121.60251,55.822867,0 -121.60356,55.82344,0 -121.604624,55.823883,0 -121.605777,55.824282,0 -121.606997,55.824628,0 -121.60866,55.824995,0 -121.609901,55.82519,0 -121.611552,55.82536,0 -121.612021,55.825382,0 -121.613215,55.825437,0 -121.614464,55.825426,0 -121.615716,55.825353,0 -121.617395,55.825166,0 -121.62384,55.824149,0 -121.626614,55.823701,0 -121.630797,55.823051,0 -121.632259,55.82282,0 -121.641062,55.82143,0 -121.642079,55.82132,0 -121.643352,55.8213,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 14, eastbound. Utility work planned between Cecil Blogg Dr and Fulton Rd for 0.5 km (Colwood). Starting Wed Aug 27 at 7:00 PM PDT until Thu Aug 28 at 5:00 AM PDT. Right lane will be blocked. Last updated Fri Aug 15 at 6:03 PM PDT. (DBC-80529)</name>
@@ -403,6 +429,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.555455,48.567957,0 -123.555226,48.567971,0 -123.554224,48.568049,0 -123.553292,48.568118,0 -123.552212,48.56818,0 -123.551928,48.56818,0 -123.551565,48.568172,0 -123.551148,48.568143,0 -123.550546,48.568071,0 -123.548162,48.567741,0 -123.547261,48.567621,0 -123.546311,48.56755,0 -123.545496,48.567538,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Shoulder maintenance between Walcott Rd and Hungry Hill Way for 7.6 km (15 km west of Houston to 21 km east of Telkwa). Until Fri Aug 22. Slow moving vehicle. Last updated Fri Aug 22 at 7:42 AM PDT. (DBC-80755)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Walcott Rd and Hungry Hill Way for 7.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 21 km east of Telkwa to 15 km west of Houston&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T07:42:57-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80755
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-126.808959,54.577128,0 -126.806089,54.573512,0 -126.803157,54.569815,0 -126.799532,54.565247,0 -126.798545,54.564003,0 -126.794465,54.558861,0 -126.794015,54.558293,0 -126.791232,54.554745,0 -126.790561,54.553891,0 -126.78802,54.550681,0 -126.787659,54.550225,0 -126.782196,54.543323,0 -126.776816,54.536505,0 -126.775979,54.535444,0 -126.775858,54.535291,0 -126.775468,54.534796,0 -126.770615,54.528609,0 -126.769672,54.527406,0 -126.761312,54.516742,0 -126.759995,54.515061,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -632,6 +684,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.691282,48.769591,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 2. Electrical maintenance at 116 Ave (Dawson Creek). Until Fri Aug 22 at 4:00 PM MST. This Intersection is in Flash- Red Flash on 116th and yellow Flash on Rte 2. Please use Caution when Approaching. Red Flash Traffic to Stop at Signal and Yellow Flash Be Cautious Traveling Through. Last updated Fri Aug 22 at 7:57 AM MST. (DBC-80757)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 2&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 116 Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Dawson Creek&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80757
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.224629,55.744837,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -1532,31 +1609,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-118.779732,50.942389,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Construction work at Exit 27: E 1st Ave (Vancouver). Until Fri Aug 22 at 8:00 AM PDT. No left turn onto the eastbound on-ramp from East 1st Avenue. Next update time Fri Aug 22 at 8:00 AM PDT. Last updated Fri Aug 22 at 1:37 AM PDT. (DBC-80084)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 27: E 1st Ave&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T01:37:27-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T08:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80084
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.027735,49.269374,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4211,7 +4263,7 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 4, eastbound. Utility work planned between Margaret St and Adelaide St for 0.2 km (Port Alberni). Starting Fri Aug 22 at 8:00 AM PDT until Fri Sep 19 at 4:00 PM PDT. Watch for traffic control personnel. TELUS Pole work - PARKING LANE CLOSURE. Slow down and watch for work crews. Last updated Fri Aug 8 at 2:56 PM PDT. (DBC-80251)</name>
+          <name>Highway 4, eastbound. Utility work between Margaret St and Adelaide St for 0.2 km (Port Alberni). Until Fri Sep 19 at 4:00 PM PDT. Watch for traffic control. TELUS Pole work - PARKING LANE CLOSURE. Slow down and watch for work crews. Last updated Fri Aug 8 at 2:56 PM PDT. (DBC-80251)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4223,7 +4275,7 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
     &lt;b&gt;Location:&lt;/b&gt; Between Margaret St and Adelaide St for 0.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Alberni&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-08T14:56:04-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5520,7 +5572,7 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway), southbound. Electrical maintenance planned at 269 Rd (1 km north of Fort St John). Starting Fri Aug 22 at 8:00 AM MST until Fri Aug 22 at 4:00 PM MST. Rte 97 Southbound right turn lane onto 269 road will be closed. Last updated Thu Aug 21 at 12:07 PM MST. (DBC-80734)</name>
+          <name>Highway 97 (Alaska Highway), southbound. Electrical maintenance at 269 Rd (1 km north of Fort St John). Until Fri Aug 22 at 4:00 PM MST. Rte 97 Southbound right turn lane onto 269 road will be closed. Last updated Thu Aug 21 at 12:07 PM MST. (DBC-80734)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5532,7 +5584,7 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
     &lt;b&gt;Location:&lt;/b&gt; At 269 Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km north of Fort St John&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-21T12:07:44-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T08:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6319,6 +6371,31 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
       <Folder>
         <name>Incident Events</name>
         <Placemark>
+          <name>Highway 91, southbound. Stalled vehicle between Exit 9: Cliveden Ave and Derwent Way (Delta). Ramp blocked. Watch for traffic control. Merge lane from Cliveden Avenue onto southbound lanes blocked. Next update time Fri Aug 22 at 8:30 AM PDT. Last updated Fri Aug 22 at 7:55 AM PDT. (DBC-80756)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 9: Cliveden Ave and Derwent Way&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T07:55:12-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T08:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80756
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.948824,49.169179,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Construction work. For more information on the closure, please refer to Highway 1 Project page: gov.Bc.Ca/264toHighway11#bradner. Next update time Tue Sep 30 at 12:00 PM PDT. Last updated Mon Jul 28 at 11:06 AM PDT. (DBC-66582)</name>
           <description>
     &lt;![CDATA[
@@ -6697,32 +6774,7 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Beaver Valley Rd and Glacier National Park East Boundary (3 km west of East Boundary of Glacier National Park). Road closed. Assessment in progress. Expect major delays. Next update time Fri Aug 22 at 9:00 AM PDT. Last updated Fri Aug 22 at 6:16 AM PDT. (DBC-80750)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Beaver Valley Rd and Glacier National Park East Boundary&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km west of East Boundary of Glacier National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T06:16:09-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T09:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80750
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-117.479175,51.43361,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 19 (Inland Island Highway), in both directions. Vehicle incident at Lantzville Rd (6 km north of Nanaimo). All lanes blocked. Emergency vehicles on scene. Expect major delays. Assessment in progress. Northbound lanes blocked. Use alternate route. Both directions blocked for emergency crews. Next update time Fri Aug 22 at 8:00 AM PDT. Last updated Fri Aug 22 at 7:18 AM PDT. (DBC-80752)</name>
+          <name>Highway 19 (Inland Island Highway), in both directions. Vehicle incident at Lantzville Rd (6 km north of Nanaimo). All lanes blocked. Emergency vehicles on scene. Expect major delays. Assessment in progress. Northbound lanes blocked. Use alternate route. Both directions blocked for emergency crews. Next update time Fri Aug 22 at 9:00 AM PDT. Last updated Fri Aug 22 at 7:46 AM PDT. (DBC-80752)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6734,8 +6786,8 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
     &lt;b&gt;Location:&lt;/b&gt; At Lantzville Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 km north of Nanaimo&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T07:18:44-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T08:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-22T07:46:35-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-22T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-80752
