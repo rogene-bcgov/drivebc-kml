@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-23 16:35:14 UTC
+        Last updated: 2025-08-23 17:01:41 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -6326,7 +6326,7 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
       <Folder>
         <name>Incident Events</name>
         <Placemark>
-          <name>Highway 97, northbound. Vehicle incident at Boucherie Rd (1 km north of West Kelowna). Road closed. Assessment in progress. Northbound blocked. Expect delays. Next update time Sat Aug 23 at 10:45 AM PDT. Last updated Sat Aug 23 at 8:59 AM PDT. (DBC-80808)</name>
+          <name>Highway 97, northbound. Vehicle incident between Boucherie Rd and Campbell Rd for 2.3 km (1 km north of West Kelowna to 1 km south of Kelowna). Road closed. Assessment in progress. Northbound blocked. Expect delays. Next update time Sat Aug 23 at 10:45 AM PDT. Last updated Sat Aug 23 at 9:38 AM PDT. (DBC-80808)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6335,10 +6335,10 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Boucherie Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km north of West Kelowna&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Boucherie Rd and Campbell Rd for 2.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km south of Kelowna to 1 km north of West Kelowna&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-23T08:59:10-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-23T09:38:24-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-23T10:45:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
@@ -6346,9 +6346,10 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-119.544178,49.873747,0</coordinates>
-          </Point>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.544178,49.873747,0 -119.543419,49.87395,0 -119.542336,49.874344,0 -119.541681,49.874661,0 -119.540871,49.875196,0 -119.540421,49.875572,0 -119.540048,49.875956,0 -119.539641,49.876483,0 -119.538307,49.878628,0 -119.537604,49.879605,0 -119.536968,49.880387,0 -119.536396,49.880989,0 -119.53602,49.881315,0 -119.535392,49.881921,0 -119.534278,49.882788,0 -119.533141,49.883615,0 -119.531214,49.884837,0 -119.530712,49.885055,0 -119.530169,49.885195,0 -119.529652,49.885259,0 -119.529128,49.88526,0 -119.528671,49.885215,0 -119.528223,49.885123,0 -119.527695,49.884936,0 -119.527096,49.884616,0 -119.526429,49.88397,0 -119.525095,49.882681,0 -119.52438,49.881949,0 -119.524345,49.88187,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Construction work. For more information on the closure, please refer to Highway 1 Project page: gov.Bc.Ca/264toHighway11#bradner. Next update time Tue Sep 30 at 12:00 PM PDT. Last updated Mon Jul 28 at 11:06 AM PDT. (DBC-66582)</name>
