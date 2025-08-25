@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-25 04:05:44 UTC
+        Last updated: 2025-08-25 04:38:48 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3748,6 +3748,31 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, in both directions. Road construction work at Exit 32: Steveston Hwy (Richmond). Until Wed Aug 27. From 9:30 PM to 5:30 AM PDT daily. Periods of lane shifts and restricted turns to/from the ramps. Follow posted detour routes and traffic control personnel. Plan for additional travel time and consider alternate highway exits where possible. Next update time Wed Aug 27 at 5:30 AM PDT. Last updated Tue Aug 19 at 10:17 AM PDT. (DBC-80639)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-24T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-27T05:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80639
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086593,49.133477,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 13, in both directions. Construction work between 48 Ave and 56 Ave for 1.6 km (Langley - District). Until Tue Sep 30. From 7:00 AM to 7:00 PM PDT daily. Lane Closure. Watch for traffic control. Lane shift in place. Speed reduction to 40km/h. Last updated Mon Jul 28 at 9:11 AM PDT. (DBC-79797)</name>
           <description>
     &lt;![CDATA[
@@ -3772,31 +3797,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
             <tessellate>1</tessellate>
             <coordinates>-122.49285,49.089382,0 -122.49288,49.090793,0 -122.492875,49.091452,0 -122.492856,49.093872,0 -122.492852,49.094394,0 -122.492847,49.095032,0 -122.492846,49.095176,0 -122.492841,49.095842,0 -122.492836,49.096481,0 -122.492835,49.096578,0 -122.492839,49.096796,0 -122.492864,49.098335,0 -122.492879,49.099233,0 -122.492862,49.099672,0 -122.49285,49.100002,0 -122.492829,49.100568,0 -122.492824,49.100708,0 -122.492813,49.101086,0 -122.49281,49.101178,0 -122.492806,49.101322,0 -122.4928,49.101819,0 -122.492798,49.101906,0 -122.492793,49.102066,0 -122.492785,49.102352,0 -122.492764,49.103516,0 -122.492757,49.103886,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, in both directions. Road construction work at Exit 32: Steveston Hwy (Richmond). Until Wed Aug 27. From 9:30 PM to 5:30 AM PDT daily. Periods of lane shifts and restricted turns to/from the ramps. Follow posted detour routes and traffic control personnel. Plan for additional travel time and consider alternate highway exits where possible. Next update time Wed Aug 27 at 5:30 AM PDT. Last updated Tue Aug 19 at 10:17 AM PDT. (DBC-80639)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-24T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-27T05:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80639
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.086593,49.133477,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 13, in both directions. Construction work between 28 Ave and 30A Ave for 0.5 km (Langley - District). Until Tue Sep 30. From 8:00 PM to 5:00 AM PDT and from 7:00 AM to 7:00 PM PDT on weekdays. Watch for traffic control. Singe lane alternating traffic during nighttime hours. Watch for crews during the day. Next update time Tue Sep 30. Last updated Mon Jul 28 at 9:19 AM PDT. (DBC-79798)</name>
