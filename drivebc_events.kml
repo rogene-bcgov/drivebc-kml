@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-26 21:01:55 UTC
+        Last updated: 2025-08-26 21:31:39 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2565,6 +2565,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 8, in both directions. Construction work between the start of Highway 8 and Porcupine Ridge Rd for 2.3 km (6 to 8 km east of Spences Bridge). Until Sat Nov 15. Single lane alternating traffic. Watch for traffic control. Expect delays. SITE 16, 17, 18, 19. Last updated Tue Aug 26 at 2:12 PM PDT. (DBC-80660)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 8&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 8 and Porcupine Ridge Rd for 2.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 8 to 6 km east of Spences Bridge&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T14:12:52-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80660
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.266054,50.386531,0 -121.266168,50.385403,0 -121.266145,50.385015,0 -121.266052,50.3846,0 -121.265877,50.384281,0 -121.26563,50.383961,0 -121.265238,50.383558,0 -121.264672,50.383063,0 -121.263961,50.382587,0 -121.262817,50.382107,0 -121.261647,50.381671,0 -121.25913,50.380734,0 -121.258648,50.380487,0 -121.258326,50.380243,0 -121.258043,50.37989,0 -121.257559,50.378982,0 -121.256712,50.377828,0 -121.25574,50.37711,0 -121.255548,50.376852,0 -121.255452,50.376537,0 -121.255408,50.375511,0 -121.255369,50.374597,0 -121.255247,50.374262,0 -121.255041,50.37397,0 -121.254773,50.373765,0 -121.253909,50.373377,0 -121.25326,50.373227,0 -121.251549,50.372975,0 -121.251107,50.37291,0 -121.25043,50.372782,0 -121.249788,50.372597,0 -121.249215,50.372341,0 -121.24908,50.372246,0 -121.248427,50.371789,0 -121.248269,50.371644,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Road construction work between Hemlock Grove Boardwalk and Illecillewaet Campground for 0.6 km (8 to 9 km east of West Boundary of Glacier National Park). Until Fri Oct 31. From 7:00 AM to 7:00 PM PDT daily. Culvert replacement work. Speed limit 50km/h at all times due to narrowing/realignment requirements. Last updated Fri Jul 11 at 4:20 PM PDT. (DBC-79076)</name>
           <description>
     &lt;![CDATA[
@@ -4952,31 +4978,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.401172,48.640409,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 8, in both directions. Construction work between the start of Highway 8 and Porcupine Ridge Rd (9 km east of Spences Bridge). Until Sat Nov 15. Single lane alternating traffic. Watch for traffic control. Expect delays. SITE 16, 17, 18, 19. Last updated Tue Aug 19 at 4:58 PM PDT. (DBC-80660)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 8&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 8 and Porcupine Ridge Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 km east of Spences Bridge&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-19T16:58:12-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80660
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.247887,50.366949,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
