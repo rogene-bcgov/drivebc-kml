@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-26 09:35:23 UTC
+        Last updated: 2025-08-26 10:01:59 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (279)</name>
+      <name>🚗 Traffic Events (280)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2898,6 +2898,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <Point>
             <coordinates>-121.038887,49.621587,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3A, in both directions. Blasting between Kuskonook Rest Area and Bathie Rd for 0.3 km (4 km south of Kuskonook). Until Fri Oct 31. From 7:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Tue Aug 26 at 2:34 AM PDT. (DBC-80874)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Kuskonook Rest Area and Bathie Rd for 0.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km south of Kuskonook&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T02:34:37-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80874
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.64608,49.261177,0 -116.645673,49.260561,0 -116.645277,49.260107,0 -116.644753,49.259706,0 -116.644236,49.259396,0 -116.643705,49.259077,0 -116.64347,49.258963,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 8. Construction work between the start of Highway 8 and Porcupine Ridge Rd for 0.3 km (Spences Bridge). Until Sat Aug 30 at 4:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Expect delays. Site 22. Last updated Thu Aug 21 at 7:18 AM PDT. (DBC-80709)</name>
