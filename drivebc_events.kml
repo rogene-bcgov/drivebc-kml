@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-26 05:01:57 UTC
+        Last updated: 2025-08-26 05:35:15 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (279)</name>
+      <name>🚗 Traffic Events (280)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -608,6 +608,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.118462,50.626832,0 -119.116761,50.626737,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, in both directions. Bridge maintenance between Westminster Ave W and Sage Mesa Dr for 0.8 km (Penticton). Until Thu Aug 28 at 3:30 AM PDT. From 9:00 PM to 3:30 AM PDT on Monday, Tuesday and Wednesday. Lane closures in both directions in effect. Last updated Mon Aug 25 at 10:30 PM PDT. (DBC-80871)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Westminster Ave W and Sage Mesa Dr for 0.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Penticton&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-25T22:30:34-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80871
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.614313,49.495287,0 -119.614829,49.495381,0 -119.616039,49.495602,0 -119.616268,49.495643,0 -119.616474,49.495682,0 -119.616679,49.495721,0 -119.61696,49.495774,0 -119.617128,49.495806,0 -119.617238,49.495826,0 -119.618012,49.496017,0 -119.618098,49.496062,0 -119.618402,49.496221,0 -119.618594,49.496404,0 -119.618683,49.49656,0 -119.618734,49.496838,0 -119.618678,49.497144,0 -119.617437,49.500253,0 -119.617431,49.500268,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
