@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-26 23:31:56 UTC
+        Last updated: 2025-08-27 00:06:38 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (281)</name>
+      <name>🚗 Traffic Events (282)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3622,6 +3622,31 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Road construction work planned at Keith Rd (West Vancouver). Starting Tue Sep 16 at 8:30 PM PDT until Tue Sep 16 at 11:30 PM PDT. Right lane will be closed. Last updated Tue Aug 26 at 4:52 PM PDT. (DBC-80904)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Keith Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T16:52:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80904
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.134931,49.330845,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Construction work between Second Avalanche Gate and Allison Pass Summit for 7.9 km (33 to 40 km east of Hope). Until Mon Dec 1 at 7:00 PM PDT. From 6:00 AM to 7:00 PM PDT on weekdays. Expect delays. Lane Closure. Temporary detour at Snass Creek Bridge. Last updated Mon Apr 21 at 12:32 PM PDT. (DBC-74724)</name>
           <description>
     &lt;![CDATA[
@@ -6479,7 +6504,7 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
       <Folder>
         <name>Incident Events</name>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between MacDonald Snowshed and Twins Snowshed (2 km west of West Boundary of Glacier National Park). Road closed. Assessment in progress. Detour not available. Next update time Tue Aug 26 at 4:30 PM PDT. Last updated Tue Aug 26 at 3:19 PM PDT. (DBC-80887)</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between MacDonald Snowshed and Twins Snowshed (2 km west of West Boundary of Glacier National Park). Road closed. Assessment in progress. Detour not available. Estimated time of re-opening Tue Aug 26 at 6:00 PM PDT. Next update time Tue Aug 26 at 5:30 PM PDT. Last updated Tue Aug 26 at 4:52 PM PDT. (DBC-80887)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6491,8 +6516,8 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between MacDonald Snowshed and Twins Snowshed&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km west of West Boundary of Glacier National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T15:19:07-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-26T16:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T16:52:44-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-26T17:30:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-80887
