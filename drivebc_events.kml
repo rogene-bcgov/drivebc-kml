@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-27 04:02:07 UTC
+        Last updated: 2025-08-27 04:36:03 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1843,31 +1843,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
             <tessellate>1</tessellate>
             <coordinates>-122.460734,55.54882,0 -122.460175,55.549029,0 -122.458596,55.549527,0 -122.456578,55.550009,0 -122.455842,55.550185,0 -122.455596,55.550237,0 -122.455149,55.550331,0 -122.453439,55.550691,0 -122.453329,55.550714,0 -122.453214,55.550739,0 -122.445864,55.552286,0 -122.443961,55.552702,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Horseshoe Bay Dr, in both directions. Utility work between Pasco Rd and Marine Dr. Until Tue Aug 26 at 9:00 PM PDT. Last updated Sat Aug 23 at 2:59 PM PDT. (DBC-80813)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Horseshoe Bay Dr&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Pasco Rd and Marine Dr&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T19:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80813
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.268091,49.378099,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 91, southbound. Bridge maintenance between Exit 1 and the end of Highway 91 (Delta). Until Fri Sep 5. From 10:30 PM to 5:00 AM PDT on Sunday, Monday, Tuesday, Wednesday and Thursday. Entrance ramp closed. Watch for traffic control. Mud Bay interchange, ramp from Hwy 91 SB to Hwy 99 SB will be closed. Detour in place to Ladner Trunk Rd/ Hwy 99 @ Hwy 10 (Mathews Interchange). Next update time Fri Sep 5 at 9:00 PM PDT. Last updated Thu Aug 21 at 12:50 PM PDT. (DBC-80698)</name>
@@ -7116,31 +7091,6 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between King Edward St and Exit 44 (Coquitlam). Expect delays. Next update time Tue Aug 26 at 9:45 PM PDT. Last updated Tue Aug 26 at 8:54 PM PDT. (DBC-80911)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between King Edward St and Exit 44&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T20:54:58-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-26T21:45:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80911
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.855662,49.231567,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt Spring Island. Road closed. Detour in effect. Detour via Cranberry Road. Next update time Sat Aug 30 at 1:00 PM PDT. Last updated Fri Aug 22 at 11:56 AM PDT. (DBC-77329)</name>
           <description>
     &lt;![CDATA[
@@ -7163,6 +7113,56 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.492105,48.826325,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between King Edward St and Exit 44 (Coquitlam). Last updated Tue Aug 26 at 9:19 PM PDT. (DBC-80911)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between King Edward St and Exit 44&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T21:19:50-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80911
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.855662,49.231567,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle at Port Mann Bridge (Surrey). Right lane is blocked. Expect delays. Next update time Tue Aug 26 at 10:15 PM PDT. Last updated Tue Aug 26 at 9:18 PM PDT. (DBC-80912)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T21:18:17-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-26T22:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80912
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.813328,49.21973,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
