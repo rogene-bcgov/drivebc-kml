@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-27 16:02:10 UTC
+        Last updated: 2025-08-27 16:37:18 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (275)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -7062,6 +7062,32 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           <Point>
             <coordinates>-124.748379,48.97225,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, northbound. Vehicle incident between Alex Fraser Bridge and Exit 9: Cliveden Ave for 1.2 km (Delta). Centre lane blocked. Expect delays due to congestion. Next update time Wed Aug 27 at 9:45 AM PDT. Last updated Wed Aug 27 at 9:21 AM PDT. (DBC-80929)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 9: Cliveden Ave and Alex Fraser Bridge for 1.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-27T09:21:09-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-27T09:45:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80929
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.951435,49.170882,0 -122.951341,49.170821,0 -122.95129,49.170787,0 -122.949906,49.169881,0 -122.949603,49.169684,0 -122.949543,49.169646,0 -122.949392,49.169547,0 -122.949336,49.169511,0 -122.948411,49.168911,0 -122.947466,49.168299,0 -122.947036,49.167962,0 -122.946034,49.166973,0 -122.945435,49.165971,0 -122.945227,49.16548,0 -122.943984,49.162455,0 -122.943536,49.161366,0 -122.943309,49.160815,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39 km east of Tatla Lake to 6 km west of Anahim Lake). Last updated Wed Aug 27 at 1:22 AM PDT. (DBC-78509)</name>
