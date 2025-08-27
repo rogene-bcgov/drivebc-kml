@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-27 18:02:18 UTC
+        Last updated: 2025-08-27 18:37:47 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (277)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4622,7 +4622,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 5, northbound. Utility work planned between Kealty Rd and Orchard Lake Rd for 2.0 km (16 to 14 km north of Kamloops). Starting Wed Sep 3 until Thu Sep 4. From 7:00 AM to 5:00 PM PDT daily. Lane Closure. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Thu Aug 21 at 10:33 AM PDT. (DBC-80728)</name>
+          <name>Highway 5, northbound. Utility work planned between Kealty Rd and Walterdale Rd for 2.0 km (15 to 17 km north of Kamloops). Starting Wed Sep 3 until Thu Sep 4. From 7:00 AM to 5:00 PM PDT daily. Lane Closure. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Wed Aug 27 at 11:07 AM PDT. (DBC-80728)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4631,10 +4631,10 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Kealty Rd and Orchard Lake Rd for 2.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 to 16 km north of Kamloops&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Kealty Rd and Walterdale Rd for 2.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 17 to 15 km north of Kamloops&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-21T10:33:14-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-27T11:07:01-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -4644,7 +4644,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-120.228872,50.986459,0 -120.229046,50.988299,0 -120.228958,50.989772,0 -120.228673,50.991095,0 -120.22827,50.99224,0 -120.225594,50.998521,0 -120.224968,50.999991,0 -120.224919,51.000106,0 -120.224809,51.000363,0 -120.223239,51.004048,0</coordinates>
+            <coordinates>-120.227198,50.994755,0 -120.225594,50.998521,0 -120.224968,50.999991,0 -120.224919,51.000106,0 -120.224809,51.000363,0 -120.223239,51.004048,0 -120.223054,51.004509,0 -120.222807,51.005553,0 -120.222658,51.006731,0 -120.222064,51.01144,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6345,31 +6345,6 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), northbound. Electrical maintenance planned at Nightingale Rd (Cobble Hill). Starting Wed Aug 27 at 11:30 AM PDT until Wed Aug 27 at 2:30 PM PDT. Exit ramp will be closed. Watch for traffic control personnel. Partial Exit Ramp Closure. Last updated Wed Aug 13 at 3:45 PM PDT. (DBC-80445)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Nightingale Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Cobble Hill&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-13T15:45:15-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80445
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.569471,48.679865,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector), northbound. Utility work planned between Scottie Creek Rd and Loon Lake Rd for 2.5 km (17 km south of Clinton to 18 km north of Cache Creek). Starting Tue Sep 2 until Tue Sep 16. From 8:00 AM to 4:00 PM PDT on weekdays. Single lane alternating traffic will be in effect. Please watch for traffic control. Expect minor delays of up to five minutes. Last updated Mon Aug 25 at 11:41 AM PDT. (DBC-80856)</name>
           <description>
     &lt;![CDATA[
@@ -6396,30 +6371,29 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), southbound. Electrical maintenance between Cobble Hill Rd and Shawnigan-Mill Bay Rd for 0.1 km (Mill Bay). Until Wed Aug 27 at 11:15 AM PDT. Watch for traffic control. Right lane closed. Partial exit lane closure, speed reduction in place. Last updated Wed Aug 27 at 8:29 AM PDT. (DBC-80444)</name>
+          <name>Highway 1 (TransCanada Highway), northbound. Electrical maintenance at Nightingale Rd (Cobble Hill). Until Wed Aug 27 at 2:30 PM PDT. Exit ramp is closed. Watch for traffic control. Partial Exit Ramp Closure. Last updated Wed Aug 13 at 3:45 PM PDT. (DBC-80445)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Shawnigan-Mill Bay Rd and Cobble Hill Rd for 0.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mill Bay&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Nightingale Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Cobble Hill&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-27T08:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-27T11:30:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80444
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80445
     ]]&gt;
     </description>
           <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.560719,48.658073,0 -123.560719,48.658079,0 -123.560667,48.658229,0 -123.560604,48.658411,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-123.569471,48.679865,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 101, in both directions. Utility work planned between Middle Point Rd and Donley Dr for 2.4 km (19 to 16 km west of Sechelt). Starting Tue Sep 2 at 9:00 AM PDT until Tue Sep 2 at 4:30 PM PDT. Watch for traffic control personnel. Speed reduction to 30 km/h. Last updated Wed Aug 20 at 10:13 AM PDT. (DBC-80682)</name>
