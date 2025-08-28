@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-28 23:01:57 UTC
+        Last updated: 2025-08-28 23:31:42 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (272)</name>
+      <name>🚗 Traffic Events (268)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2846,6 +2846,32 @@ Intermittent closures starting July 17th, expect delays of 20 minutes. Last upda
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 8. Construction work planned between the start of Highway 8 and Porcupine Ridge Rd for 0.3 km (Spences Bridge). Starting Tue Sep 2 at 7:00 AM PDT until Sat Sep 13 at 5:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Expect delays. Site 22. 5 to 30-min closures between 7AM to 5PM. Last updated Thu Aug 28 at 4:25 PM PDT. (DBC-80709)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 8&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 8 and Porcupine Ridge Rd for 0.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Spences Bridge&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T16:25:58-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80709
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.316987,50.424788,0 -121.316909,50.424798,0 -121.316447,50.424801,0 -121.315815,50.424704,0 -121.31527,50.424548,0 -121.314729,50.424298,0 -121.314607,50.424206,0 -121.314375,50.424031,0 -121.314294,50.423939,0 -121.31415,50.423778,0 -121.314131,50.423743,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Paving operations between Sunday Summit and Copper Mountain Rd for 34.2 km (Princeton). Until Sat Oct 4 at 7:00 PM PDT. From 7:00 AM to 7:00 PM PDT on weekdays and Saturday. Single lane alternating traffic. Watch for traffic control. Width limit 5.00 m. Height limit 5.00 m. Project parameters are from Sunday Summit to Princeton. Expect delays of up to 20 minutes. Last updated Thu Aug 21 at 11:49 AM PDT. (DBC-78739)</name>
           <description>
     &lt;![CDATA[
@@ -3797,32 +3823,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 8. Construction work between the start of Highway 8 and Porcupine Ridge Rd for 0.3 km (Spences Bridge). Until Sat Aug 30 at 4:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Expect delays. Site 22. Last updated Thu Aug 21 at 7:18 AM PDT. (DBC-80709)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 8&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 8 and Porcupine Ridge Rd for 0.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Spences Bridge&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-25T06:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80709
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.316987,50.424788,0 -121.316909,50.424798,0 -121.316447,50.424801,0 -121.315815,50.424704,0 -121.31527,50.424548,0 -121.314729,50.424298,0 -121.314607,50.424206,0 -121.314375,50.424031,0 -121.314294,50.423939,0 -121.31415,50.423778,0 -121.314131,50.423743,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 15 (Pacific Highway), northbound. Utility work planned between 20 Ave and 24 Ave for 0.8 km (Surrey). Starting Tue Sep 9 at 9:00 AM PDT until Fri Sep 12 at 3:00 PM PDT. From 9:00 AM to 3:00 PM PDT on Tuesday, Wednesday, Thursday and Friday. Right lane will be closed. Watch for traffic control personnel. Last updated Fri Aug 22 at 9:33 AM PDT. (DBC-80760)</name>
           <description>
     &lt;![CDATA[
@@ -4204,31 +4204,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
             <tessellate>1</tessellate>
             <coordinates>-121.113361,56.296877,0 -121.112445,56.296564,0 -121.112405,56.29655,0 -121.11174,56.296351,0 -121.111022,56.296228,0 -121.110272,56.296192,0 -121.109503,56.296241,0 -121.109246,56.296268,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Moore Road, in both directions. Utility work between Cherry Creek Road and Renton Road South. Until Thu Aug 28 at 4:00 PM PDT. Road closed. Detour in effect. Expect minor delays. Watch for traffic control. Detour available - Slow down and watch for work crews. Last updated Wed Aug 27 at 1:18 PM PDT. (DBC-80468)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Moore Road&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Cherry Creek Road and Renton Road South&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-27T13:18:47-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80468
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-124.790238,49.278402,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97A. Bridge maintenance planned between 2nd Ave and Enderby Grindrod Rd for 0.1 km (10 to 9 km north of Enderby). Starting Tue Sep 2 until Thu Sep 4. From 9:00 AM to 3:00 PM PDT on Tuesday, Wednesday and Thursday. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Mon Aug 25 at 3:40 PM PDT. (DBC-80478)</name>
@@ -5341,32 +5316,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 29, in both directions. Bridge maintenance between Johnson Creek Rd and Peace Canyon Access Rd for 0.1 km (3 km south of Hudson's Hope). Until Thu Aug 28 at 4:00 PM MST. Single lane alternating traffic. Truck speed limit 0 km/h. Maintenance on Hudson Hope Suspension Bridge - please slow down when passing crews and equipment. Last updated Wed Aug 27 at 7:43 AM MST. (DBC-80926)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Johnson Creek Rd and Peace Canyon Access Rd for 0.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km south of Hudson's Hope&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-27T08:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80926
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.984839,55.988144,0 -121.98631,55.988826,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Renfrew Rd, in both directions. Road maintenance work between Timber Ridge Rd and W Shawnigan Lake Rd. Until Mon Dec 1. From 7:00 AM to 5:00 PM PDT on weekdays. Culvert work will be taking place in Shawnigan Lake. Watch for crews and equipment on the side of the road. Next update time Fri Nov 28 at 9:00 AM PDT. Last updated Tue Aug 26 at 3:23 PM PDT. (DBC-80899)</name>
           <description>
     &lt;![CDATA[
@@ -6039,31 +5988,6 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Hwy 40 and Mission Mountain Rd . Industrial traffic may slow or block regular traffic. Between Lillooet and Terzaghi Dam and then Mission Mnt Rd to Shalalth. Until Thu Aug 28 at 4:00 PM PDT. Pilot Vehicle will be in use, please drive with caution, and obey all personnel instructions. Public is encouraged to arrange alternate travel plans during this time. Last updated Wed Aug 27 at 1:26 PM PDT. (DBC-80942)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Hwy 40 and Mission Mountain Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Lillooet and Terzaghi Dam and then Mission Mnt Rd to Shalalth&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T05:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80942
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.213109,50.78691,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (Kicking Horse Pass). Maintenance between Golden Donald Upper Rd and Yoho Bridge for 7.8 km (Golden). Until Fri Aug 29. From 7:30 AM to 5:30 PM MDT on Thursday and from 7:30 AM to 12:00 PM MDT on Friday. Watch for traffic control. Reduce speed. West bound lane shift from right lane to left lane. Last updated Wed Aug 27 at 3:23 PM MDT. (DBC-80944)</name>
           <description>
     &lt;![CDATA[
@@ -6548,31 +6472,6 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.418333,52.868329,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Golden Ears Way and Exit 53: 176th St / Highway 15 (Surrey). HOV lane closed. Next update time Thu Aug 28 at 4:45 PM PDT. Last updated Thu Aug 28 at 3:34 PM PDT. (DBC-80994)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 53: 176th St / Highway 15 and Golden Ears Way&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T15:34:54-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-28T16:45:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80994
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.719935,49.177442,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
