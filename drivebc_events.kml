@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-29 14:34:48 UTC
+        Last updated: 2025-08-29 15:01:50 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (265)</name>
+      <name>🚗 Traffic Events (266)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6097,6 +6097,32 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Husky Frtg and Arnold Frtg for 2.6 km (Sicamous). Road closed. Road closed to all traffic except emergency vehicles. Detour not available. Next update time Fri Aug 29 at 12:00 PM PDT. Last updated Fri Aug 29 at 7:48 AM PDT. (DBC-81014)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Husky Frtg and Arnold Frtg for 2.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sicamous&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T07:48:13-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-29T12:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81014
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.952413,50.846688,0 -118.949128,50.848777,0 -118.947868,50.849586,0 -118.947053,50.850236,0 -118.946343,50.850936,0 -118.945789,50.851636,0 -118.944245,50.854332,0 -118.944028,50.854639,0 -118.943613,50.855107,0 -118.943027,50.85567,0 -118.942354,50.856189,0 -118.935011,50.860612,0 -118.930041,50.863642,0 -118.929406,50.864112,0 -118.928894,50.86457,0 -118.928711,50.86477,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt Spring Island. Road closed. Detour in effect. Detour via Cranberry Road. Next update time Sat Aug 30 at 1:00 PM PDT. Last updated Fri Aug 22 at 11:56 AM PDT. (DBC-77329)</name>
           <description>
     &lt;![CDATA[
@@ -6679,7 +6705,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Annis Rd and Exit 135 (Chilliwack). Westbound blocked. Expect major delays eastbound. Watch for crews on scene. Next update time Fri Aug 29 at 8:30 AM PDT. Last updated Fri Aug 29 at 7:28 AM PDT. (DBC-81013)</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Annis Rd and Exit 135 (Chilliwack). Road closed. Watch for traffic control. Next update time Fri Aug 29 at 8:30 AM PDT. Last updated Fri Aug 29 at 7:36 AM PDT. (DBC-81013)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6691,9 +6717,9 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
     &lt;b&gt;Location:&lt;/b&gt; Between Annis Rd and Exit 135&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T07:28:52-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T07:36:35-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-29T08:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-81013
     ]]&gt;
