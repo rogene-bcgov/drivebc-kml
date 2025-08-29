@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-29 14:02:09 UTC
+        Last updated: 2025-08-29 14:34:48 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (264)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5915,6 +5915,32 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97, in both directions. Maintenance between Crystal Waters Rd and Bailey Rd for 3.9 km (7 to 11 km south of Coldstream). Until Fri Aug 29 at 10:00 AM PDT. Single lane alternating traffic. Watch for traffic control. Last updated Fri Aug 29 at 7:23 AM PDT. (DBC-81012)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Crystal Waters Rd and Bailey Rd for 3.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 to 7 km south of Coldstream&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T07:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81012
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.370648,50.152459,0 -119.370366,50.154065,0 -119.37019,50.155332,0 -119.370172,50.155983,0 -119.370226,50.156646,0 -119.37068,50.158624,0 -119.370742,50.158895,0 -119.370797,50.159354,0 -119.370781,50.159817,0 -119.370604,50.160503,0 -119.368963,50.164895,0 -119.368699,50.165353,0 -119.368347,50.165788,0 -119.367916,50.166186,0 -119.367833,50.166249,0 -119.367807,50.166268,0 -119.366455,50.167285,0 -119.365828,50.167834,0 -119.365349,50.168406,0 -119.364547,50.169608,0 -119.364095,50.170197,0 -119.363373,50.170936,0 -119.362751,50.171457,0 -119.361275,50.172601,0 -119.360569,50.173051,0 -119.35977,50.17345,0 -119.357567,50.174445,0 -119.356746,50.174865,0 -119.355971,50.175336,0 -119.354934,50.175998,0 -119.352949,50.177266,0 -119.3524,50.17768,0 -119.352257,50.177788,0 -119.35188,50.178172,0 -119.35157,50.178586,0 -119.351447,50.1788,0 -119.351272,50.179247,0 -119.351183,50.179706,0 -119.351049,50.181083,0 -119.35093,50.181526,0 -119.350738,50.181954,0 -119.350639,50.182104,0 -119.350471,50.182358,0 -119.350176,50.182652,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 19A (Island Highway), northbound. Utility work planned between Iron River Rd and Lynnwood Rd for 2.8 km (4 to 7 km south of Campbell River). Starting Tue Sep 16 at 9:00 AM PDT until Tue Sep 16 at 3:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Thu Aug 28 at 10:07 AM PDT. (DBC-80982)</name>
           <description>
     &lt;![CDATA[
@@ -6627,31 +6653,6 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 10, westbound. Road cleared at 160 St (Surrey). Last updated Fri Aug 29 at 6:58 AM PDT. (DBC-81011)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At 160 St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T06:58:50-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81011
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.779069,49.104421,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Travel advisory in effect between Toll Rd and 1st Ave for 17.8 km (Yale). No stopping to view Sailor Bar Wildfire V11606 from the highway. Next update time Fri Aug 29 at 10:00 AM PDT. Last updated Thu Aug 28 at 10:00 AM PDT. (DBC-80827)</name>
           <description>
     &lt;![CDATA[
@@ -6676,6 +6677,31 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
             <tessellate>1</tessellate>
             <coordinates>-121.423914,49.563872,0 -121.423451,49.563884,0 -121.422766,49.563841,0 -121.422164,49.563719,0 -121.419963,49.563272,0 -121.418703,49.563106,0 -121.417082,49.56301,0 -121.414425,49.563012,0 -121.413909,49.563012,0 -121.413821,49.563012,0 -121.409275,49.562956,0 -121.405777,49.562925,0 -121.404727,49.563111,0 -121.402422,49.563783,0 -121.401474,49.564124,0 -121.40097,49.564434,0 -121.400652,49.56475,0 -121.400404,49.565154,0 -121.400321,49.565591,0 -121.400422,49.565992,0 -121.400729,49.566459,0 -121.402763,49.568549,0 -121.40327,49.569232,0 -121.403523,49.56983,0 -121.403912,49.57182,0 -121.403899,49.571947,0 -121.403868,49.572249,0 -121.403513,49.573354,0 -121.403408,49.57426,0 -121.402917,49.575812,0 -121.402909,49.576654,0 -121.402894,49.578055,0 -121.402415,49.579177,0 -121.40232,49.579696,0 -121.402316,49.57972,0 -121.402344,49.580337,0 -121.40272,49.581403,0 -121.405447,49.587271,0 -121.405832,49.587754,0 -121.407813,49.589473,0 -121.408154,49.589874,0 -121.408622,49.590606,0 -121.409329,49.591711,0 -121.409503,49.591984,0 -121.40981,49.592646,0 -121.410067,49.593934,0 -121.410335,49.594478,0 -121.410754,49.595025,0 -121.411339,49.595512,0 -121.413067,49.596518,0 -121.413561,49.596928,0 -121.413943,49.597383,0 -121.414003,49.597455,0 -121.414418,49.598203,0 -121.415304,49.600004,0 -121.41573,49.600869,0 -121.415915,49.601557,0 -121.415963,49.602235,0 -121.415231,49.608721,0 -121.414987,49.60945,0 -121.414493,49.610264,0 -121.412742,49.612362,0 -121.412662,49.612458,0 -121.412324,49.612862,0 -121.410753,49.614731,0 -121.410106,49.615293,0 -121.409348,49.615805,0 -121.406883,49.616899,0 -121.406587,49.617099,0 -121.406211,49.617353,0 -121.405872,49.617695,0 -121.405175,49.618558,0 -121.404783,49.618881,0 -121.404349,49.619128,0 -121.403852,49.61931,0 -121.403784,49.619335,0 -121.400255,49.620398,0 -121.400019,49.620517,0 -121.399852,49.620602,0 -121.399354,49.620951,0 -121.39859,49.621968,0 -121.398322,49.622218,0 -121.397932,49.622473,0 -121.396436,49.623224,0 -121.396059,49.623501,0 -121.395584,49.623987,0 -121.39342,49.627444,0 -121.393096,49.628159,0 -121.39294,49.628777,0 -121.392887,49.629379,0 -121.393043,49.630284,0 -121.393296,49.630971,0 -121.394291,49.63229,0 -121.395136,49.632959,0 -121.397526,49.634268,0 -121.398468,49.634784,0 -121.400059,49.635584,0 -121.400691,49.635902,0 -121.401793,49.636409,0 -121.402353,49.636665,0 -121.405675,49.638194,0 -121.408149,49.639333,0 -121.408484,49.639586,0 -121.40941,49.640283,0 -121.410282,49.641545,0 -121.410891,49.644779,0 -121.410755,49.645627,0 -121.410708,49.645924,0 -121.410495,49.646354,0 -121.408892,49.648337,0 -121.407821,49.650072,0 -121.407288,49.651015,0 -121.406089,49.653136,0 -121.405791,49.654282,0 -121.40574,49.654481,0 -121.405776,49.655444,0 -121.406067,49.656412,0 -121.406623,49.657341,0 -121.407413,49.658184,0 -121.408496,49.659009,0 -121.409669,49.659619,0 -121.410595,49.660032,0 -121.410931,49.66018,0 -121.41374,49.66144,0 -121.416549,49.662698,0 -121.417675,49.663258,0 -121.418153,49.663621,0 -121.418378,49.663865,0 -121.418568,49.664071,0 -121.418751,49.66427,0 -121.418844,49.664416,0 -121.419056,49.664761,0 -121.419323,49.66524,0 -121.419714,49.665735,0 -121.419973,49.666133,0 -121.420172,49.666601,0 -121.420174,49.667593,0 -121.419895,49.66831,0 -121.418612,49.67097,0 -121.418552,49.671257,0 -121.418436,49.671805,0 -121.41843,49.672633,0 -121.418576,49.674362,0 -121.418707,49.675693,0 -121.4186,49.676372,0 -121.41725,49.680516,0 -121.416183,49.683791,0 -121.415969,49.684446,0 -121.415783,49.68548,0 -121.415774,49.685825,0 -121.415746,49.686977,0 -121.415559,49.688285,0 -121.414999,49.68989,0 -121.414486,49.690761,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Annis Rd and Exit 135 (Chilliwack). Westbound blocked. Expect major delays eastbound. Watch for crews on scene. Next update time Fri Aug 29 at 8:30 AM PDT. Last updated Fri Aug 29 at 7:28 AM PDT. (DBC-81013)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Annis Rd and Exit 135&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T07:28:52-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-29T08:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81013
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-121.802465,49.160003,0</coordinates>
+          </Point>
         </Placemark>
       </Folder>
       <Folder>
