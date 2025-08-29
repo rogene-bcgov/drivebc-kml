@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-29 00:46:25 UTC
+        Last updated: 2025-08-29 01:29:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (270)</name>
+      <name>🚗 Traffic Events (274)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4105,6 +4105,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Utility work planned between Denman St and Lost Lagoon Rd for 0.5 km (Vancouver). Starting Tue Sep 9 at 10:00 PM PDT until Wed Sep 10 at 5:00 AM PDT. Right lane will be blocked. Last updated Thu Aug 28 at 6:00 PM PDT. (DBC-80999)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Denman St and Lost Lagoon Rd for 0.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T18:00:20-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80999
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.133719,49.292623,0 -123.135273,49.293615,0 -123.136072,49.294137,0 -123.136244,49.294137,0 -123.136722,49.294458,0 -123.136887,49.29474,0 -123.136912,49.29492,0 -123.13692,49.294981,0 -123.136836,49.295275,0 -123.136654,49.295583,0 -123.136414,49.295989,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 19 (Inland Island Highway), northbound. Construction work between Hamm Rd and Duncan Bay Main for 3.8 km (12 to 8 km south of Campbell River). Until Tue Sep 30 at 5:00 PM PDT. Watch for traffic control. Shoulder closed. Last updated Wed Aug 13 at 9:26 AM PDT. (DBC-80419)</name>
           <description>
     &lt;![CDATA[
@@ -4464,6 +4490,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Electrical maintenance between Exit 14: Capilano Rd and Exit 13 for 1.5 km (North Vancouver - District to West Vancouver). Until Fri Sep 12. From 9:00 PM to 6:00 AM PDT daily. Right turn lane closed. Right lane closed. Last updated Thu Aug 28 at 6:08 PM PDT. (DBC-81002)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 13 and Exit 14: Capilano Rd for 1.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District to West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T18:08:38-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81002
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.134704,49.337614,0 -123.13468,49.337613,0 -123.13432,49.337606,0 -123.131149,49.337552,0 -123.130549,49.337498,0 -123.130406,49.337477,0 -123.129609,49.33736,0 -123.128894,49.337162,0 -123.12773,49.336698,0 -123.127018,49.336317,0 -123.126851,49.336219,0 -123.126815,49.336197,0 -123.121352,49.332984,0 -123.121029,49.33283,0 -123.120609,49.332681,0 -123.12001,49.332563,0 -123.119691,49.332533,0 -123.119076,49.332516,0 -123.119065,49.332516,0 -123.118594,49.332511,0 -123.118424,49.332496,0 -123.11746,49.332497,0 -123.117181,49.332497,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 14, in both directions. Utility work planned at Belvista Pl (Sooke). Starting Thu Sep 4 at 9:00 AM PDT until Thu Sep 4 at 3:00 PM PDT. Right turn lane will be closed. Left turn lane will be closed. Watch for traffic control personnel. Belvista Pl will be closed. No access from Sooke Rd / Hwy 14. Last updated Wed Aug 27 at 10:06 AM PDT. (DBC-80932)</name>
           <description>
     &lt;![CDATA[
@@ -4589,6 +4641,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.265296,49.027125,0 -122.265349,49.028837,0 -122.265356,49.029037,0 -122.265388,49.030079,0 -122.265391,49.030184,0 -122.265627,49.031629,0 -122.265707,49.031849,0 -122.26574,49.03195,0 -122.265978,49.032697,0 -122.266231,49.033355,0 -122.266294,49.033509,0 -122.266298,49.033518,0 -122.266522,49.034082,0 -122.266964,49.035022,0 -122.267028,49.035201,0 -122.267636,49.036346,0 -122.267675,49.036423,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, westbound. Construction work planned between Bridgeview Dr and Tannery Rd for 3.3 km (Surrey). Starting Wed Sep 3 until Sun Sep 7. From 9:00 PM to 5:00 AM PDT on weekends, Wednesday and Friday. Road closure planned. No westbound closure night of Sept 4th. Detour via Bridgeview Dr to Scott Rd to Tannery Rd. Next update time Sun Sep 7 at 5:00 AM PDT. Last updated Thu Aug 28 at 6:14 PM PDT. (DBC-81001)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Tannery Rd and Bridgeview Dr for 3.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T18:14:24-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-07T05:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81001
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.893002,49.196199,0 -122.89264,49.196554,0 -122.891875,49.197357,0 -122.890947,49.198433,0 -122.890107,49.199406,0 -122.889864,49.19965,0 -122.88769,49.201793,0 -122.886696,49.202704,0 -122.886465,49.202897,0 -122.886111,49.20317,0 -122.885823,49.203397,0 -122.88555,49.203615,0 -122.885101,49.204022,0 -122.884891,49.204243,0 -122.884697,49.204493,0 -122.884527,49.20473,0 -122.884373,49.205,0 -122.884138,49.205419,0 -122.88403,49.20575,0 -122.88401,49.205844,0 -122.883978,49.206029,0 -122.883934,49.206184,0 -122.883837,49.206506,0 -122.88373,49.206748,0 -122.883569,49.207085,0 -122.883444,49.207272,0 -122.883355,49.207379,0 -122.883255,49.207501,0 -122.882117,49.208909,0 -122.881532,49.209562,0 -122.881238,49.209831,0 -122.881076,49.209979,0 -122.880807,49.210213,0 -122.880501,49.210423,0 -122.879861,49.210853,0 -122.879336,49.211133,0 -122.879117,49.211249,0 -122.878488,49.211526,0 -122.877761,49.211799,0 -122.876575,49.212187,0 -122.875602,49.212492,0 -122.874639,49.212799,0 -122.873916,49.212957,0 -122.873119,49.213099,0 -122.87252,49.213161,0 -122.87193,49.213207,0 -122.871154,49.213218,0 -122.86739,49.213187,0 -122.86248,49.213157,0 -122.861921,49.213152,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4796,6 +4874,32 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.289666,51.664563,0 -121.289884,51.665002,0 -121.290196,51.665642,0 -121.290538,51.666346,0 -121.290822,51.666935,0 -121.291823,51.66901,0 -121.293024,51.671498,0 -121.29303,51.671606,0 -121.293837,51.67318,0 -121.294365,51.673833,0 -121.294895,51.67434,0 -121.295725,51.674928,0 -121.297568,51.675899,0 -121.303231,51.678886,0 -121.30916,51.682545,0 -121.309684,51.682868,0 -121.309933,51.683147,0 -121.310186,51.683429,0 -121.310704,51.684006,0 -121.310882,51.684107,0 -121.311301,51.684606,0 -121.312091,51.685426,0 -121.312829,51.685987,0 -121.313981,51.686695,0 -121.314534,51.687095,0 -121.314941,51.687481,0 -121.315353,51.688011,0 -121.3159,51.688862,0 -121.317173,51.690841,0 -121.318041,51.692202,0 -121.319033,51.693756,0 -121.319955,51.695201,0 -121.321581,51.697747,0 -121.322006,51.698565,0 -121.32223,51.699417,0 -121.32222,51.700003,0 -121.322219,51.700035,0 -121.322165,51.700475,0 -121.322108,51.700646,0 -121.321888,51.701303,0 -121.321622,51.701757,0 -121.321431,51.701974,0 -121.321286,51.702206,0 -121.31875,51.70505,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, eastbound. Construction work planned between Tannery Rd and Bridgeview Dr for 2.0 km (Surrey). Starting Tue Sep 2 until Wed Sep 3. From 9:00 PM to 5:00 AM PDT on weekends, Monday, Tuesday and Friday. Road closure planned. Closure between Tannery Rd and 124 St. No eastbound closure night of Sept 3rd or 4th. Detour via Tannery Rd to Scott Rd to Bridgeview Dr. Next update time Wed Sep 3 at 5:00 AM PDT. Last updated Thu Aug 28 at 6:18 PM PDT. (DBC-81000)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Tannery Rd and Bridgeview Dr for 2.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T18:18:26-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-03T05:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81000
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.892979,49.196222,0 -122.89264,49.196554,0 -122.891875,49.197357,0 -122.890947,49.198433,0 -122.890107,49.199406,0 -122.889864,49.19965,0 -122.88769,49.201793,0 -122.886696,49.202704,0 -122.886465,49.202897,0 -122.886111,49.20317,0 -122.885823,49.203397,0 -122.88555,49.203615,0 -122.885101,49.204022,0 -122.884891,49.204243,0 -122.884697,49.204493,0 -122.884527,49.20473,0 -122.884373,49.205,0 -122.884138,49.205419,0 -122.88403,49.20575,0 -122.88401,49.205844,0 -122.883978,49.206029,0 -122.883934,49.206184,0 -122.883837,49.206506,0 -122.88373,49.206748,0 -122.883569,49.207085,0 -122.883444,49.207272,0 -122.883355,49.207379,0 -122.883255,49.207501,0 -122.882117,49.208909,0 -122.881532,49.209562,0 -122.881238,49.209831,0 -122.881076,49.209979,0 -122.880807,49.210213,0 -122.880501,49.210423,0 -122.879861,49.210853,0 -122.879336,49.211133,0 -122.879117,49.211249,0 -122.879073,49.211269,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5963,32 +6067,6 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Paving operations between Alice Lake Rd and Daisy Lake Rd for 6.7 km (Squamish). Until Thu Aug 28 at 6:00 PM PDT. Left lane is closed. Expect delays. Watch for traffic control. Last updated Thu Aug 28 at 11:34 AM PDT. (DBC-80968)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Alice Lake Rd and Daisy Lake Rd for 6.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Squamish&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T11:34:38-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80968
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.133767,49.787436,0 -123.133622,49.788175,0 -123.133083,49.790859,0 -123.132843,49.792077,0 -123.132767,49.792459,0 -123.132739,49.7926,0 -123.132687,49.792853,0 -123.132316,49.79472,0 -123.131989,49.795399,0 -123.131368,49.796121,0 -123.130942,49.79643,0 -123.130187,49.796828,0 -123.129,49.797207,0 -123.126723,49.797688,0 -123.126651,49.797703,0 -123.124739,49.798161,0 -123.124121,49.79837,0 -123.123278,49.79878,0 -123.122574,49.799288,0 -123.122043,49.799867,0 -123.121609,49.800707,0 -123.121515,49.80118,0 -123.121547,49.801776,0 -123.121781,49.802587,0 -123.122655,49.805624,0 -123.12272,49.806348,0 -123.122577,49.807071,0 -123.12156,49.809267,0 -123.12133,49.809991,0 -123.121311,49.810693,0 -123.12148,49.811369,0 -123.122106,49.812928,0 -123.122451,49.813459,0 -123.122785,49.813829,0 -123.123178,49.814131,0 -123.123552,49.814338,0 -123.123868,49.814512,0 -123.12463,49.814773,0 -123.12595,49.815127,0 -123.12663,49.815364,0 -123.127245,49.815665,0 -123.127625,49.815972,0 -123.127947,49.816313,0 -123.128804,49.817722,0 -123.13059,49.820131,0 -123.131146,49.820735,0 -123.132549,49.822046,0 -123.133026,49.822634,0 -123.133516,49.823408,0 -123.134053,49.824671,0 -123.135185,49.828625,0 -123.135308,49.829398,0 -123.135173,49.833255,0 -123.135128,49.834542,0 -123.135151,49.835401,0 -123.135219,49.835666,0 -123.135375,49.836263,0 -123.135761,49.837092,0 -123.13633,49.837895,0 -123.137069,49.838641,0 -123.138092,49.839416,0 -123.139424,49.840424,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 14, eastbound. Utility work between Sooke River Rd and Ludlow Rd for 3.3 km (Sooke). Until Fri Sep 12. From 7:00 PM to 5:00 AM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Thu Aug 28 at 8:43 AM PDT. (DBC-79811)</name>
           <description>
     &lt;![CDATA[
@@ -6528,7 +6606,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Upper Arrow Lake Ferry, in both directions. Currently operating 20 minutes behind schedule between Shelter Bay and Galena Bay. Expect delays. Next update time Thu Aug 28 at 6:00 PM PDT. Last updated Thu Aug 28 at 4:45 PM PDT. (DBC-80988)</name>
+          <name>Upper Arrow Lake Ferry, in both directions. Currently operating 20 minutes behind schedule between Shelter Bay and Galena Bay. Expect delays. Next update time Thu Aug 28 at 7:00 PM PDT. Last updated Thu Aug 28 at 5:45 PM PDT. (DBC-80988)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6540,8 +6618,8 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
     &lt;b&gt;Location:&lt;/b&gt; Between Shelter Bay and Galena Bay&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T16:45:42-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-28T18:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T17:45:38-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-28T19:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-80988
@@ -6751,6 +6829,31 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-124.748379,48.97225,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 55: 192 St and Exit 58: 200 St (Langley - District). Right lane of exit ramp closed. Next update time Thu Aug 28 at 7:30 PM PDT. Last updated Thu Aug 28 at 6:23 PM PDT. (DBC-81003)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 55: 192 St and Exit 58: 200 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-28T18:23:19-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-28T19:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81003
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.675402,49.165747,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
