@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-30 09:02:03 UTC
+        Last updated: 2025-08-30 09:31:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -5373,6 +5373,32 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 91, northbound. Road maintenance work between Annacis Channel Bridge and No 6 Rd for 9.1 km (Richmond to New Westminster). Until Sat Aug 30 at 5:00 AM PDT. Left lane is closed. Watch for traffic control. Last updated Sat Aug 30 at 2:14 AM PDT. (DBC-81047)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between No 6 Rd and Annacis Channel Bridge for 9.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond to New Westminster&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-30T02:14:57-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81047
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.06921,49.177895,0 -123.068911,49.177901,0 -123.06713,49.177894,0 -123.062253,49.177755,0 -123.062047,49.177749,0 -123.047556,49.177343,0 -123.047028,49.177328,0 -123.046568,49.177313,0 -123.044276,49.177242,0 -123.043467,49.177217,0 -123.043237,49.17721,0 -123.039613,49.177174,0 -123.024711,49.177176,0 -123.024271,49.177176,0 -123.019603,49.177156,0 -123.018743,49.177111,0 -123.017726,49.176969,0 -123.01706,49.176814,0 -123.016432,49.176621,0 -123.015893,49.176408,0 -123.015815,49.176368,0 -123.015134,49.176018,0 -123.014553,49.175621,0 -123.01388,49.174986,0 -123.013375,49.174255,0 -123.012199,49.172276,0 -123.011903,49.171777,0 -123.011501,49.171352,0 -123.010975,49.170859,0 -123.010057,49.170271,0 -123.009364,49.169958,0 -123.009175,49.169893,0 -123.008658,49.169715,0 -123.007721,49.169489,0 -123.006745,49.169371,0 -123.005208,49.169348,0 -122.999041,49.16943,0 -122.998719,49.169434,0 -122.998633,49.169436,0 -122.998324,49.16944,0 -122.991172,49.169543,0 -122.989725,49.169533,0 -122.988435,49.169525,0 -122.986912,49.169515,0 -122.981755,49.169556,0 -122.980343,49.169537,0 -122.976846,49.16919,0 -122.97599,49.169174,0 -122.974711,49.169226,0 -122.974052,49.169302,0 -122.973425,49.169405,0 -122.972559,49.169597,0 -122.972391,49.16964,0 -122.972307,49.169662,0 -122.971662,49.169834,0 -122.970912,49.170087,0 -122.970402,49.170294,0 -122.969452,49.170758,0 -122.968754,49.171166,0 -122.96742,49.172021,0 -122.963885,49.174284,0 -122.961585,49.175863,0 -122.96105,49.176179,0 -122.96035,49.176587,0 -122.959915,49.176799,0 -122.959367,49.176965,0 -122.958873,49.17705,0 -122.958377,49.177086,0 -122.958232,49.177081,0 -122.957967,49.177073,0 -122.957648,49.177033,0 -122.957344,49.176971,0 -122.95715,49.176928,0 -122.957124,49.176922,0 -122.956654,49.17676,0 -122.956371,49.176619,0 -122.955923,49.17635,0 -122.955613,49.176057,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 19A (Island Highway), northbound. Utility work planned between Iron River Rd and Lynnwood Rd for 2.8 km (4 to 7 km south of Campbell River). Starting Tue Sep 16 at 9:00 AM PDT until Tue Sep 16 at 3:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Thu Aug 28 at 10:07 AM PDT. (DBC-80982)</name>
           <description>
     &lt;![CDATA[
@@ -6108,31 +6134,6 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Grandview Highway and Gilmore Ave Diversion (Burnaby). Left lane is blocked. Centre lane blocked. Expect delays. Next update time Sat Aug 30 at 2:30 AM PDT. Last updated Sat Aug 30 at 1:23 AM PDT. (DBC-81046)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Grandview Highway and Gilmore Ave Diversion&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-30T01:23:19-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-30T02:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81046
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.013319,49.257587,0</coordinates>
           </Point>
         </Placemark>
       </Folder>
