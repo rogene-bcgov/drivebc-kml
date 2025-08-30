@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-30 21:01:48 UTC
+        Last updated: 2025-08-30 21:31:27 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (244)</name>
+      <name>🚗 Traffic Events (245)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5931,6 +5931,32 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           <Point>
             <coordinates>-122.426554,49.075276,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Riverside Rd and Exit 92 for 0.4 km (Abbotsford). Roadway reduced to one lane. Expect delays. Next update time Sat Aug 30 at 3:15 PM PDT. Last updated Sat Aug 30 at 2:27 PM PDT. (DBC-81052)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Riverside Rd and Exit 92 for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-30T14:27:40-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-30T15:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81052
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.272181,49.033358,0 -122.271726,49.033357,0 -122.271439,49.033357,0 -122.271248,49.033357,0 -122.270782,49.033357,0 -122.26877,49.033356,0 -122.266596,49.033355,0 -122.266468,49.033355,0 -122.266231,49.033355,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39 km east of Tatla Lake to 6 km west of Anahim Lake). Last updated Sat Aug 30 at 5:20 AM PDT. (DBC-78509)</name>
