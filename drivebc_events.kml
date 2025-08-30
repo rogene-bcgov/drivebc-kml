@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-30 04:02:04 UTC
+        Last updated: 2025-08-30 04:34:36 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -6473,6 +6473,31 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident at United Blvd (Coquitlam). Right lane is blocked. Expect delays. Right Surrey exit lane is blocked in addition. Next update time Fri Aug 29 at 10:00 PM PDT. Last updated Fri Aug 29 at 9:31 PM PDT. (DBC-81043)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At United Blvd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T21:31:34-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-29T22:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81043
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.820253,49.226958,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Vehicle recovery between MacDonald Snowshed and Twins Snowshed (2 km west of West Boundary of Glacier National Park). Until Fri Aug 29. Last updated Wed Aug 27 at 6:07 PM PDT. (DBC-80955)</name>
           <description>
     &lt;![CDATA[
@@ -6621,32 +6646,6 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           <Point>
             <coordinates>-121.242132,49.494155,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), northbound. Vehicle incident between Trans-Canada Hwy Frtg and Koksilah Rd (1 km north of Cobble Hill). Detour in effect. Detour available along koksilah road. North bound lane open but reduced to one lane.South bound turning lane now open. Last updated Fri Aug 29 at 8:47 PM PDT. (DBC-81042)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Trans-Canada Hwy Frtg and Koksilah Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km north of Cobble Hill&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T20:47:44-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81042
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.640571,48.729857,0 -123.640572,48.729859,0</coordinates>
-          </LineString>
         </Placemark>
       </Folder>
       <Folder>
