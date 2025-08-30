@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-30 02:05:51 UTC
+        Last updated: 2025-08-30 02:47:38 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (265)</name>
+      <name>🚗 Traffic Events (264)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3593,31 +3593,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Deadman Vidette Rd, in both directions. Maintenance at 42km near Kamloops. Until Sun Aug 31 at 4:30 PM PDT. From 7:00 AM to 4:30 PM PDT on Monday, Tuesday, Wednesday and Thursday. Deadman Vidette Road closed 42 kilometres north of Hwy 1. Next update time Sun Aug 31 at 4:30 PM PDT. Last updated Wed Aug 13 at 1:00 AM PDT. (DBC-80221)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Deadman Vidette Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At 42km near Kamloops&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-13T01:00:50-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-31T16:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80221
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.892384,51.049319,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97, southbound. Utility work between Nordic Dr and Austin Rd for 0.7 km (Prince George). Until Fri Sep 5 at 6:00 AM PDT. Right turn lane closed. Last updated Tue Aug 19 at 11:00 AM PDT. (DBC-80644)</name>
           <description>
     &lt;![CDATA[
@@ -6648,29 +6623,30 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Stalled vehicle at Lions Gate Bridge (West Vancouver). Right lane is blocked. Expect delays. Next update time Fri Aug 29 at 7:15 PM PDT. Last updated Fri Aug 29 at 6:57 PM PDT. (DBC-81040)</name>
+          <name>Highway 1 (TransCanada Highway), northbound. Vehicle incident between Trans-Canada Hwy Frtg and Koksilah Rd (1 km north of Cobble Hill). Detour in effect. Detour available along koksilah road. North bound lane open but reduced to one lane.South bound turning lane now open. Last updated Fri Aug 29 at 7:21 PM PDT. (DBC-81042)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Lions Gate Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Trans-Canada Hwy Frtg and Koksilah Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km north of Cobble Hill&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T18:57:52-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-08-29T19:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-29T19:21:02-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81040
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81042
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.13737,49.31659,0</coordinates>
-          </Point>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.640571,48.729857,0 -123.640572,48.729859,0</coordinates>
+          </LineString>
         </Placemark>
       </Folder>
       <Folder>
