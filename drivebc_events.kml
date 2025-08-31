@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-08-31 21:31:30 UTC
+        Last updated: 2025-08-31 22:01:55 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (236)</name>
+      <name>🚗 Traffic Events (237)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5849,6 +5849,32 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           <Point>
             <coordinates>-125.621855,49.842615,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), southbound. Vehicle incident between Meadow Lake Rd and Chasm Rd for 1.4 km (13 km north of Clinton to 14 km south of 70 Mile House). Single lane alternating traffic. Last updated Sun Aug 31 at 2:55 PM PDT. (DBC-81066)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Chasm Rd and Meadow Lake Rd for 1.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km north of Clinton to 14 km south of 70 Mile House&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-31T14:55:40-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81066
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.530008,51.193565,0 -121.531595,51.194995,0 -121.53177,51.195152,0 -121.533012,51.196191,0 -121.534261,51.197401,0 -121.534476,51.197686,0 -121.534834,51.198264,0 -121.534998,51.19873,0 -121.535138,51.199548,0 -121.535214,51.199997,0 -121.535272,51.200342,0 -121.535344,51.200884,0 -121.535831,51.203715,0 -121.535847,51.204046,0 -121.53591,51.204349,0 -121.535947,51.204664,0 -121.535945,51.204688,0 -121.535911,51.205453,0</coordinates>
+          </LineString>
         </Placemark>
       </Folder>
       <Folder>
