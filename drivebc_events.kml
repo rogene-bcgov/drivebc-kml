@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-02 22:32:35 UTC
+        Last updated: 2025-09-02 23:02:05 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (251)</name>
+      <name>🚗 Traffic Events (253)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4669,6 +4669,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 11, in both directions. Utility work planned at Hazelwood Ave (Abbotsford). Starting Mon Sep 8 at 9:00 AM PDT until Fri Sep 12 at 3:00 PM PDT. Right lane will be closed. Left turn lane will be closed. Last updated Tue Sep 2 at 3:45 PM PDT. (DBC-81129)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Hazelwood Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:45:40-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81129
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.286241,49.06369,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PDT on weekdays and Saturday. 60km/h work zone. 80km/h outside construction hours. Watch for traffic control. Next update time Sat Sep 20 at 5:00 PM PDT. Last updated Sat Aug 16 at 12:40 PM PDT. (DBC-64961)</name>
           <description>
     &lt;![CDATA[
@@ -4693,6 +4718,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-119.6825,50.817227,0 -119.680667,50.818505,0 -119.680114,50.818891,0 -119.679972,50.81899,0 -119.679653,50.819212,0 -119.679248,50.819496,0 -119.677113,50.820985,0 -119.676128,50.821673,0 -119.675784,50.821913,0 -119.675751,50.821936,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Beaver Valley Rd, in both directions. Maintenance planned between George Lake and McCauley Lake near Horsefly. Starting Wed Sep 3 until Fri Sep 5. From 8:00 AM to 12:00 PM PDT on Wednesday, Thursday and Friday. Road closure planned. Cattle guard replacement will be taking place. Wednesday 8km from Likely Rd, Thursday 12 km from Likely Rd, Friday 14 km from Likely Rd. Last updated Tue Sep 2 at 3:53 PM PDT. (DBC-81130)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Beaver Valley Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between George Lake and McCauley Lake near Horsefly&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:53:52-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81130
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.719893,52.415383,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla South), northbound. Bridge maintenance at Exit 183: Othello Rd (6 km north of Hope). From 5:00 AM to 7:30 PM PDT on Tuesday, Wednesday and Thursday. Right lane closed. Last updated Mon Jul 28 at 10:39 AM PDT. (DBC-79808)</name>
@@ -6028,33 +6078,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97, in both directions. There is a wildfire between Hardy St and Renfrew Rd for 2.1 km (Peachland). Watch for crews and equipment working. Last updated Tue Sep 2 at 3:17 AM PDT. (DBC-80931)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Hardy St and Renfrew Rd for 2.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Peachland&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T03:17:20-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80931
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.760607,49.742218,0 -119.760538,49.742352,0 -119.760524,49.742448,0 -119.760511,49.742531,0 -119.760487,49.742741,0 -119.760542,49.743145,0 -119.761056,49.74494,0 -119.761078,49.74529,0 -119.761019,49.745652,0 -119.760876,49.746055,0 -119.759197,49.74952,0 -119.758944,49.750043,0 -119.758612,49.750506,0 -119.758212,49.750967,0 -119.755524,49.753571,0 -119.752182,49.757158,0 -119.751332,49.758214,0 -119.750413,49.759508,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39 km east of Tatla Lake to 6 km west of Anahim Lake). Last updated Tue Sep 2 at 6:48 AM PDT. (DBC-78509)</name>
+          <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39 km east of Tatla Lake to 6 km west of Anahim Lake). Last updated Tue Sep 2 at 3:54 PM PDT. (DBC-78509)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6066,7 +6090,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
     &lt;b&gt;Location:&lt;/b&gt; Between Elsey Rd and Chipman Rd for 143.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 km west of Anahim Lake to 39 km east of Tatla Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T06:48:25-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:54:35-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6105,29 +6129,29 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Vehicle incident between Blundell Rd and Exit 32: Steveston Hwy for 0.3 km (Richmond). Expect delays. The incident is blocking the HOV/bus lane. Last updated Tue Sep 2 at 3:01 PM PDT. (DBC-81124)</name>
+          <name>Highway 3 (Crowsnest Highway), eastbound. Vehicle recovery between Gibbons Rd and Ha Ha Creek Rd for 1.0 km (21 to 20 km west of Jaffray). Until Tue Sep 2 at 6:30 PM MDT. Centre lane blocked. Watch for traffic control. Last updated Tue Sep 2 at 4:33 PM MDT. (DBC-81127)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 32: Steveston Hwy and Blundell Rd for 0.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Gibbons Rd and Ha Ha Creek Rd for 1.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 20 to 21 km west of Jaffray&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:01:34-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:33:28-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81124
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81127
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-123.086593,49.133477,0 -123.086576,49.134359,0 -123.086575,49.134561,0 -123.086569,49.136154,0 -123.086571,49.136558,0</coordinates>
+            <coordinates>-115.533424,49.477499,0 -115.533148,49.477403,0 -115.532424,49.477152,0 -115.53111,49.476696,0 -115.530037,49.476323,0 -115.528479,49.475783,0 -115.526413,49.475066,0 -115.524949,49.474578,0 -115.523605,49.474183,0 -115.522224,49.473822,0 -115.521984,49.473759,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6156,7 +6180,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 37A, in both directions. Watch for falling rocks between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km (13 km west of Meziadin to 11 km east of Stewart). Last updated Tue Sep 2 at 6:48 AM PDT. (DBC-74957)</name>
+          <name>Highway 37A, in both directions. Watch for falling rocks between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km (13 km west of Meziadin to 11 km east of Stewart). Last updated Tue Sep 2 at 3:53 PM PDT. (DBC-74957)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6168,7 +6192,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
     &lt;b&gt;Location:&lt;/b&gt; Between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 km east of Stewart to 13 km west of Meziadin&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T06:48:12-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:53:03-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6182,7 +6206,33 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector), southbound. Vehicle incident between Meadow Lake Rd and Chasm Rd for 1.4 km (13 km north of Clinton to 14 km south of 70 Mile House). Single lane alternating traffic. Last updated Tue Sep 2 at 6:48 AM PDT. (DBC-81066)</name>
+          <name>Highway 97, in both directions. There is a wildfire between Hardy St and Renfrew Rd for 2.1 km (Peachland). Watch for crews and equipment working. Last updated Tue Sep 2 at 3:54 PM PDT. (DBC-80931)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hardy St and Renfrew Rd for 2.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Peachland&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:54:42-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80931
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.760607,49.742218,0 -119.760538,49.742352,0 -119.760524,49.742448,0 -119.760511,49.742531,0 -119.760487,49.742741,0 -119.760542,49.743145,0 -119.761056,49.74494,0 -119.761078,49.74529,0 -119.761019,49.745652,0 -119.760876,49.746055,0 -119.759197,49.74952,0 -119.758944,49.750043,0 -119.758612,49.750506,0 -119.758212,49.750967,0 -119.755524,49.753571,0 -119.752182,49.757158,0 -119.751332,49.758214,0 -119.750413,49.759508,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), southbound. Vehicle incident between Meadow Lake Rd and Chasm Rd for 1.4 km (13 km north of Clinton to 14 km south of 70 Mile House). Single lane alternating traffic. Last updated Tue Sep 2 at 3:54 PM PDT. (DBC-81066)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6194,7 +6244,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
     &lt;b&gt;Location:&lt;/b&gt; Between Chasm Rd and Meadow Lake Rd for 1.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km north of Clinton to 14 km south of 70 Mile House&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T06:48:32-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:54:25-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6550,7 +6600,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
       <Folder>
         <name>Weather Condition Events</name>
         <Placemark>
-          <name>Highway 20. Limited visibility with smoke between Hunlen Falls Turner Lakes Trailhead and Sawmill Creek Rd for 136.7 km (39 km west of Anahim Lake to Tatla Lake). Last updated Tue Sep 2 at 6:51 AM PDT. (DBCRCON-223448)</name>
+          <name>Highway 20. Limited visibility with smoke between Hunlen Falls Turner Lakes Trailhead and Sawmill Creek Rd for 136.7 km (39 km west of Anahim Lake to Tatla Lake). Last updated Tue Sep 2 at 3:55 PM PDT. (DBCRCON-223448)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6562,7 +6612,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
     &lt;b&gt;Location:&lt;/b&gt; Between Hunlen Falls Turner Lakes Trailhead and Sawmill Creek Rd for 136.7 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Tatla Lake to 39 km west of Anahim Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T06:51:03-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:55:26-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
