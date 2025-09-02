@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-02 17:32:39 UTC
+        Last updated: 2025-09-02 18:02:30 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (229)</name>
+      <name>🚗 Traffic Events (231)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -816,6 +816,31 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, in both directions. Construction work at Exit 32: Steveston Hwy (Richmond). Until Sat Sep 6 at 5:30 AM PDT. Watch for traffic control. Periods of lane shifts and left turn restrictions. Plan for additional travel time through the detours and consider using alternate exits where possible. Last updated Tue Sep 2 at 10:38 AM PDT. (DBC-81100)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T10:38:55-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81100
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086593,49.133477,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Iron Mtn Road. Road construction work between Start and 3K. Until Thu Sep 3, 2026. From 7:00 AM to 3:30 PM PDT on Monday, Tuesday, Wednesday and Thursday. Expect minor delays. Last updated Thu Aug 21 at 8:12 AM PDT. (DBC-80398)</name>
           <description>
     &lt;![CDATA[
@@ -968,6 +993,32 @@
           <Point>
             <coordinates>-122.286147,49.066107,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector). Utility work planned between Stephenson Rd and Stage Rd for 0.2 km (Cache Creek). Starting Wed Sep 10 at 8:00 AM PDT until Wed Sep 10 at 4:00 PM PDT. Shoulder will be closed. Please watch for traffic control signage and personnel. Expect minor delays of up to five minutes. Last updated Tue Sep 2 at 10:52 AM PDT. (DBC-81101)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Stephenson Rd and Stage Rd for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Cache Creek&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T10:52:47-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81101
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.32534,50.8094,0 -121.325313,50.809825,0 -121.325307,50.809926,0 -121.325273,50.810441,0 -121.325301,50.811194,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Construction work between Second Avalanche Gate and Allison Pass Summit for 7.9 km (33 to 40 km east of Hope). Until Mon Dec 1 at 7:00 PM PDT. From 6:00 AM to 7:00 PM PDT on weekdays. Expect delays. Lane Closure. Temporary detour at Snass Creek Bridge. Last updated Mon Apr 21 at 12:32 PM PDT. (DBC-74724)</name>
