@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-02 21:01:58 UTC
+        Last updated: 2025-09-02 21:31:51 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (240)</name>
+      <name>🚗 Traffic Events (245)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3330,6 +3330,31 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 5 (Coquihalla South), southbound. Electrical maintenance planned between Exit 228: Coquihalla Lakes Rd and Exit 221: Falls Lake Rd (3 km north of Coquihalla Summit). Starting Thu Sep 4 at 11:00 AM PDT until Thu Sep 4 at 12:00 PM PDT. Right lane will be closed. Watch for traffic control personnel. Right lane will be closed at Dry Gulch Bridge for replacement of streetlight. Speed reduction will be in effect. Last updated Tue Sep 2 at 2:12 PM PDT. (DBC-81114)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 221: Falls Lake Rd and Exit 228: Coquihalla Lakes Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km north of Coquihalla Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:12:26-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81114
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.044111,49.617642,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, southbound. Bridge maintenance planned at Exit 16 (Delta). Starting Tue Sep 2 at 10:00 PM PDT until Fri Sep 12 at 5:00 AM PDT. From 10:00 PM to 5:00 AM PDT on Sunday, Monday, Tuesday, Wednesday and Thursday. Exit ramp will be closed. Detour planned. Watch for traffic control personnel. Detour in place at Exit 10. Last updated Fri Aug 29 at 10:39 AM PDT. (DBC-81018)</name>
           <description>
     &lt;![CDATA[
@@ -3481,6 +3506,31 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
             <tessellate>1</tessellate>
             <coordinates>-120.240293,51.041045,0 -120.240839,51.041128,0 -120.241362,51.041207,0 -120.242217,51.041336,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla South), northbound. Electrical maintenance planned between Exit 221: Falls Lake Rd and Exit 228: Coquihalla Lakes Rd (5 km north of Coquihalla Summit). Starting Thu Sep 4 at 1:00 PM PDT until Thu Sep 4 at 3:00 PM PDT. Right lane will be closed. Watch for traffic control personnel. Right lane will be closed at Old Toll Plaza for replacement of streetlight. Speed reduction will be in effect. Last updated Tue Sep 2 at 2:12 PM PDT. (DBC-81115)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 221: Falls Lake Rd and Exit 228: Coquihalla Lakes Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km north of Coquihalla Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:12:36-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81115
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.019915,49.628657,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97A. Bridge maintenance between 2nd Ave and Enderby Grindrod Rd for 0.1 km (10 to 9 km north of Enderby). Until Thu Sep 4. From 9:00 AM to 3:00 PM PDT on Tuesday, Wednesday and Thursday. Single lane alternating traffic. Watch for traffic control. Last updated Mon Aug 25 at 3:40 PM PDT. (DBC-80478)</name>
@@ -5187,32 +5237,6 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 5, in both directions. Tree pruning between McMurphy Station Rd and Avola East Frontage Rd S Access for 18.9 km (1 to 20 km south of Avola). Until Tue Sep 2 at 2:00 PM PDT. Expect delays. Dangerous tree removal at pull outs, watch for crew, obey traffic signs. Last updated Tue Sep 2 at 7:00 AM PDT. (DBC-81090)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between McMurphy Station Rd and Avola East Frontage Rd S Access for 18.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 20 to 1 km south of Avola&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T08:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81090
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.503547,51.669708,0 -119.498829,51.669586,0 -119.494003,51.669461,0 -119.493506,51.669448,0 -119.483138,51.669179,0 -119.482553,51.669164,0 -119.481667,51.669199,0 -119.480822,51.669317,0 -119.479954,51.669506,0 -119.479314,51.669718,0 -119.478707,51.669971,0 -119.476797,51.670907,0 -119.476308,51.671108,0 -119.475906,51.671271,0 -119.475763,51.671328,0 -119.475002,51.671575,0 -119.474166,51.671752,0 -119.473319,51.671848,0 -119.472619,51.671955,0 -119.472047,51.671989,0 -119.471135,51.672042,0 -119.468405,51.67194,0 -119.467551,51.671963,0 -119.466705,51.672077,0 -119.465832,51.672275,0 -119.463446,51.673043,0 -119.462421,51.673262,0 -119.459739,51.673622,0 -119.458543,51.673789,0 -119.455382,51.674211,0 -119.451032,51.674791,0 -119.448052,51.675065,0 -119.445851,51.675177,0 -119.438671,51.675255,0 -119.437238,51.675271,0 -119.436348,51.675338,0 -119.435494,51.675455,0 -119.434754,51.675624,0 -119.43401,51.67585,0 -119.433297,51.676144,0 -119.432619,51.676497,0 -119.431955,51.676926,0 -119.429534,51.678586,0 -119.428736,51.679135,0 -119.423772,51.68255,0 -119.422561,51.68359,0 -119.420995,51.685517,0 -119.420718,51.685859,0 -119.419999,51.686756,0 -119.419087,51.687896,0 -119.41835,51.68883,0 -119.417364,51.690045,0 -119.416904,51.690464,0 -119.416362,51.690855,0 -119.415718,51.691202,0 -119.415044,51.691492,0 -119.414347,51.691727,0 -119.414319,51.691735,0 -119.411596,51.692515,0 -119.401098,51.695523,0 -119.399959,51.695805,0 -119.399349,51.695956,0 -119.398589,51.696104,0 -119.396311,51.696456,0 -119.395851,51.696527,0 -119.39006,51.697421,0 -119.389973,51.697434,0 -119.389125,51.697565,0 -119.388377,51.697725,0 -119.387661,51.697932,0 -119.386925,51.698209,0 -119.386146,51.698595,0 -119.385664,51.698898,0 -119.384122,51.699994,0 -119.383906,51.700147,0 -119.383084,51.700658,0 -119.380427,51.701987,0 -119.379468,51.70253,0 -119.378938,51.702887,0 -119.378097,51.703558,0 -119.377245,51.704456,0 -119.376652,51.705282,0 -119.375995,51.706316,0 -119.375515,51.707072,0 -119.374909,51.708024,0 -119.374249,51.708801,0 -119.372282,51.710684,0 -119.371653,51.711286,0 -119.368816,51.714001,0 -119.366668,51.716057,0 -119.366024,51.716606,0 -119.365557,51.716962,0 -119.356327,51.724004,0 -119.352744,51.726736,0 -119.345501,51.732259,0 -119.344578,51.733034,0 -119.343802,51.733759,0 -119.343226,51.734356,0 -119.342591,51.735112,0 -119.342088,51.735825,0 -119.33986,51.73898,0 -119.339693,51.739216,0 -119.338433,51.741001,0 -119.337524,51.742426,0 -119.337222,51.743,0 -119.336812,51.74395,0 -119.335603,51.747643,0 -119.335431,51.748168,0 -119.334791,51.749784,0 -119.334079,51.751141,0 -119.333466,51.752307,0 -119.332267,51.754292,0 -119.3321,51.754611,0 -119.330601,51.757466,0 -119.330362,51.757921,0 -119.329859,51.758734,0 -119.329121,51.759741,0 -119.328773,51.760216,0 -119.327707,51.76182,0 -119.326041,51.764864,0 -119.324292,51.768047,0 -119.324093,51.768518,0 -119.323983,51.76897,0 -119.323955,51.76956,0 -119.324035,51.77009,0 -119.324187,51.770542,0 -119.325346,51.772732,0 -119.325629,51.7736,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Utility work between Back Valley Rd and Juniper Beach Prov Park Access Rd for 5.8 km (8 to 14 km east of Cache Creek). Until Wed Sep 3. From 7:00 AM to 6:00 PM PDT daily. Lane closures in both directions in effect. Watch for traffic control. Last updated Wed Aug 27 at 10:58 AM PDT. (DBC-80933)</name>
           <description>
     &lt;![CDATA[
@@ -6235,6 +6259,110 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.136414,49.295989,0 -123.13618,49.296289,0 -123.136196,49.296444,0 -123.136203,49.296515,0 -123.136253,49.296637,0 -123.136356,49.296887,0 -123.136697,49.297255,0 -123.137119,49.297661,0 -123.137454,49.297886,0 -123.137476,49.2979,0 -123.138138,49.298188,0 -123.1387,49.298398,0 -123.140184,49.298952,0 -123.141785,49.299809,0 -123.142121,49.300046,0 -123.142213,49.300111,0 -123.142981,49.300633,0 -123.143285,49.300962,0 -123.144427,49.302113,0 -123.144862,49.303018,0 -123.14525,49.304069,0 -123.145247,49.305536,0 -123.145167,49.306506,0 -123.144757,49.307919,0 -123.144318,49.308697,0 -123.143977,49.309341,0 -123.14375,49.309663,0 -123.143365,49.310162,0 -123.142958,49.310641,0 -123.142639,49.311007,0 -123.142583,49.311079,0 -123.142543,49.311126,0 -123.141936,49.311811,0 -123.141758,49.311997,0 -123.141232,49.312548,0 -123.140948,49.312857,0 -123.140616,49.313221,0 -123.140468,49.313352,0 -123.139388,49.314431,0 -123.139063,49.314755,0 -123.13737,49.31659,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 95A, in both directions. Special event planned between Airport Access Rd and Porteous Rd for 7.3 km (3 km south of Kimberley to 1 km north of Cranbrook). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Last updated Tue Sep 2 at 3:20 PM MDT. (DBC-81116)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Airport Access Rd and Porteous Rd for 7.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km north of Cranbrook to 3 km south of Kimberley&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:20:37-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81116
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.810969,49.587144,0 -115.811414,49.587401,0 -115.814118,49.588959,0 -115.814735,49.589299,0 -115.815533,49.589697,0 -115.816379,49.589959,0 -115.817391,49.590118,0 -115.818062,49.590126,0 -115.818325,49.590129,0 -115.818987,49.590069,0 -115.820275,49.589953,0 -115.821084,49.589941,0 -115.821274,49.589953,0 -115.821801,49.589984,0 -115.822643,49.590149,0 -115.823391,49.590383,0 -115.823884,49.590598,0 -115.824674,49.591109,0 -115.825431,49.591689,0 -115.825571,49.591776,0 -115.825719,49.591868,0 -115.825939,49.592005,0 -115.826423,49.592258,0 -115.826973,49.592473,0 -115.827338,49.592589,0 -115.828193,49.592772,0 -115.828386,49.592806,0 -115.82987,49.593076,0 -115.836298,49.594241,0 -115.837406,49.594502,0 -115.838379,49.594847,0 -115.839114,49.595217,0 -115.839966,49.595806,0 -115.840174,49.596029,0 -115.841436,49.597385,0 -115.841945,49.597815,0 -115.842142,49.597942,0 -115.842554,49.598208,0 -115.84329,49.598568,0 -115.843665,49.598705,0 -115.844074,49.598855,0 -115.847573,49.600023,0 -115.851361,49.601287,0 -115.851873,49.601457,0 -115.853282,49.601928,0 -115.858519,49.603675,0 -115.859041,49.603849,0 -115.861533,49.604684,0 -115.862336,49.604887,0 -115.862752,49.604954,0 -115.862924,49.604982,0 -115.862999,49.604994,0 -115.863335,49.605022,0 -115.86364,49.605047,0 -115.863786,49.605059,0 -115.863946,49.605073,0 -115.864209,49.605094,0 -115.865219,49.605075,0 -115.866299,49.604916,0 -115.867379,49.604635,0 -115.869218,49.604017,0 -115.869931,49.603839,0 -115.870205,49.60377,0 -115.871214,49.603592,0 -115.872266,49.603478,0 -115.87306,49.603462,0 -115.873184,49.603459,0 -115.874128,49.603493,0 -115.874968,49.603572,0 -115.875877,49.603707,0 -115.876545,49.60385,0 -115.877325,49.604069,0 -115.877643,49.604159,0 -115.878673,49.604558,0 -115.878751,49.604594,0 -115.879284,49.604843,0 -115.890702,49.61017,0 -115.893409,49.611433,0 -115.8945,49.611942,0 -115.894521,49.611952,0 -115.895845,49.612505,0 -115.895943,49.612544,0 -115.896444,49.612742,0 -115.898525,49.613567,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 95A, in both directions. Special event planned between Stirton Rd and 317th Ave for 1.0 km (Kimberley). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Last updated Tue Sep 2 at 3:22 PM MDT. (DBC-81117)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Stirton Rd and 317th Ave for 1.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kimberley&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:22:31-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81117
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.9324,49.62905,0 -115.933261,49.629907,0 -115.934323,49.631159,0 -115.934847,49.631806,0 -115.935357,49.632437,0 -115.93566,49.632769,0 -115.936198,49.633184,0 -115.93661,49.63342,0 -115.936852,49.633558,0 -115.937972,49.633929,0 -115.938728,49.634069,0 -115.939196,49.634117,0 -115.939487,49.634147,0 -115.93955,49.634153,0 -115.942412,49.634447,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 93, in both directions. Special event planned between Kelly Rd and Ft Steele Cemetery Rd for 2.6 km (Fort Steele). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Last updated Tue Sep 2 at 3:23 PM MDT. (DBC-81118)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Kelly Rd and Ft Steele Cemetery Rd for 2.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Fort Steele&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:23:50-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81118
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.645766,49.606852,0 -115.645488,49.606968,0 -115.644374,49.607434,0 -115.644211,49.607502,0 -115.643484,49.607843,0 -115.642249,49.608497,0 -115.639973,49.609702,0 -115.639269,49.610078,0 -115.638277,49.610607,0 -115.637267,49.611146,0 -115.635673,49.611996,0 -115.635438,49.612121,0 -115.63526,49.612216,0 -115.63448,49.612632,0 -115.633734,49.61303,0 -115.633589,49.613108,0 -115.633385,49.613217,0 -115.632652,49.613608,0 -115.631847,49.614037,0 -115.630832,49.614698,0 -115.629964,49.615343,0 -115.629178,49.616017,0 -115.6283,49.616948,0 -115.627655,49.617838,0 -115.627243,49.618406,0 -115.626758,49.619265,0 -115.626649,49.619458,0 -115.62626,49.620389,0 -115.626083,49.621199,0 -115.625955,49.622442,0 -115.625959,49.623145,0 -115.626033,49.623926,0 -115.626255,49.624985,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 93, in both directions. Special event planned between Eager Hill-Fort Steele Rd and Kelly Rd for 1.8 km (3 to 1 km south of Fort Steele). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Last updated Tue Sep 2 at 3:25 PM MDT. (DBC-81119)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Eager Hill-Fort Steele Rd and Kelly Rd for 1.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 to 3 km south of Fort Steele&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:25:07-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81119
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.667874,49.600463,0 -115.664444,49.601442,0 -115.66438,49.60146,0 -115.664291,49.601485,0 -115.663759,49.601637,0 -115.661214,49.602363,0 -115.650255,49.605489,0 -115.647465,49.606292,0 -115.645766,49.606852,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
