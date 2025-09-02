@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-02 16:02:13 UTC
+        Last updated: 2025-09-02 16:37:36 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (226)</name>
+      <name>🚗 Traffic Events (227)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -250,6 +250,32 @@
           <Point>
             <coordinates>-118.199826,51.006677,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 29. Road maintenance work between Halfway River Bridge and Upper Cache Rd for 1.8 km (42 to 40 km north of Hudson's Hope). Until Wed Sep 3 at 4:00 PM MST. From 7:00 AM to 4:00 PM MST on Tuesday and Wednesday. Single lane alternating traffic. Please slow down for crews and equipment. Last updated Tue Sep 2 at 9:04 AM MST. (DBC-81095)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Halfway River Bridge and Upper Cache Rd for 1.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 40 to 42 km north of Hudson's Hope&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T09:04:24-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81095
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.426222,56.234333,0 -121.425865,56.234497,0 -121.424869,56.234881,0 -121.421299,56.236254,0 -121.419311,56.237119,0 -121.418728,56.237308,0 -121.418524,56.237374,0 -121.415207,56.23802,0 -121.41001,56.239033,0 -121.409941,56.239041,0 -121.408186,56.239254,0 -121.407427,56.239402,0 -121.406725,56.239615,0 -121.406228,56.239821,0 -121.404759,56.240567,0 -121.404199,56.240795,0 -121.404044,56.240858,0 -121.403574,56.241002,0 -121.402839,56.241228,0 -121.402332,56.241343,0 -121.401699,56.241487,0 -121.400899,56.241611,0 -121.400134,56.24169,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Holden Corso Rd, in both directions. Utility work between Rugg Rd and Barnes Rd. Until Fri Oct 31 at 5:00 PM PDT. Single lane alternating traffic. Expect delays. Watch for traffic control. Watermain and Road works. Watch for work crews. Last updated Wed Jul 30 at 2:59 PM PDT. (DBC-79923)</name>
@@ -2200,7 +2226,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 101, in both directions. Utility work planned between Middle Point Rd and Donley Dr for 2.4 km (19 to 16 km west of Sechelt). Starting Tue Sep 2 at 9:00 AM PDT until Tue Sep 2 at 4:30 PM PDT. Watch for traffic control personnel. Speed reduction to 30 km/h. Last updated Wed Aug 20 at 10:13 AM PDT. (DBC-80682)</name>
+          <name>Highway 101, in both directions. Utility work between Middle Point Rd and Donley Dr for 2.4 km (19 to 16 km west of Sechelt). Until Tue Sep 2 at 4:30 PM PDT. Watch for traffic control. Speed reduction to 30 km/h. Last updated Wed Aug 20 at 10:13 AM PDT. (DBC-80682)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2212,7 +2238,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Middle Point Rd and Donley Dr for 2.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 to 19 km west of Sechelt&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-20T10:13:41-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -4906,7 +4932,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance planned at Hwy 5/16 JCT at Tete Jaune (Tete Jaune). Starting Tue Sep 2 at 9:00 AM PDT until Tue Sep 2 at 4:30 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Tue Sep 2 at 8:18 AM PDT. (DBC-81093)</name>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance at Hwy 5/16 JCT at Tete Jaune (Tete Jaune). Until Tue Sep 2 at 4:30 PM PDT. Single lane alternating traffic. Watch for traffic control. Last updated Tue Sep 2 at 8:18 AM PDT. (DBC-81093)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4918,7 +4944,7 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
     &lt;b&gt;Location:&lt;/b&gt; At Hwy 5/16 JCT at Tete Jaune&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Tete Jaune&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T08:18:53-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
