@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-02 15:02:02 UTC
+        Last updated: 2025-09-02 15:34:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2739,7 +2739,7 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3A, in both directions. Blasting between Kuskonook Rest Area and Bathie Rd for 0.3 km (4 km south of Kuskonook). Until Fri Oct 31. From 7:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Tue Aug 26 at 2:34 AM PDT. (DBC-80874)</name>
+          <name>Highway 3A, in both directions. Blasting between Kuskonook Rest Area and Bathie Rd for 0.3 km (4 km south of Kuskonook). Until Fri Oct 31. From 7:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Expect delays. Up to 20 min delays throughout the day, with scheduled 1 hour closures from 0930-1030 and from and from 1430-1530. Last updated Tue Sep 2 at 8:27 AM PDT. (DBC-80874)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2751,7 +2751,7 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
     &lt;b&gt;Location:&lt;/b&gt; Between Kuskonook Rest Area and Bathie Rd for 0.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km south of Kuskonook&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T02:34:37-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T08:27:22-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -4932,6 +4932,31 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance planned at Hwy 5/16 JCT at Tete Jaune (Tete Jaune). Starting Tue Sep 2 at 9:00 AM PDT until Tue Sep 2 at 4:30 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Tue Sep 2 at 8:18 AM PDT. (DBC-81093)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Hwy 5/16 JCT at Tete Jaune&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Tete Jaune&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T08:18:53-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81093
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.42465,52.974802,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 19A (Island Highway), northbound. Utility work planned between Iron River Rd and Lynnwood Rd for 2.8 km (4 to 7 km south of Campbell River). Starting Tue Sep 16 at 9:00 AM PDT until Tue Sep 16 at 3:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Thu Aug 28 at 10:07 AM PDT. (DBC-80982)</name>
           <description>
     &lt;![CDATA[
@@ -5858,32 +5883,6 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
       </Folder>
       <Folder>
         <name>Special Event Events</name>
-        <Placemark>
-          <name>Highway 19 (Inland Island Highway), in both directions. Special event between Corcan Rd and Church Rd for 15.4 km (16 to 1 km north of Parksville). Minor congestion. NO STOPPING ON THE LITTLE QUALICUM BRIDGE. Last updated Sun Aug 3 at 12:26 PM PDT. (DBC-80061)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Corcan Rd and Church Rd for 15.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 to 16 km north of Parksville&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-03T12:26:37-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80061
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.557683,49.341522,0 -124.555545,49.340545,0 -124.555362,49.340461,0 -124.55135,49.338786,0 -124.548142,49.337575,0 -124.547796,49.337454,0 -124.546716,49.337075,0 -124.546207,49.336896,0 -124.543917,49.336172,0 -124.542915,49.335855,0 -124.542865,49.335839,0 -124.539479,49.334844,0 -124.535657,49.333917,0 -124.535431,49.333862,0 -124.53526,49.333821,0 -124.534434,49.33365,0 -124.53164,49.333074,0 -124.529356,49.332685,0 -124.52903,49.332629,0 -124.52735,49.33238,0 -124.524906,49.332017,0 -124.524674,49.331983,0 -124.521998,49.331649,0 -124.52,49.331455,0 -124.515772,49.331141,0 -124.513444,49.331036,0 -124.51115,49.330963,0 -124.507857,49.330933,0 -124.507796,49.330932,0 -124.506742,49.33095,0 -124.503788,49.331002,0 -124.502195,49.331029,0 -124.496616,49.331126,0 -124.495081,49.331055,0 -124.493583,49.330935,0 -124.491951,49.330689,0 -124.490312,49.330343,0 -124.488587,49.32984,0 -124.48698,49.329232,0 -124.485415,49.328515,0 -124.480751,49.326232,0 -124.480565,49.326136,0 -124.478861,49.325299,0 -124.477171,49.324582,0 -124.476246,49.324267,0 -124.476081,49.324211,0 -124.475574,49.324038,0 -124.474101,49.323605,0 -124.472322,49.32324,0 -124.471382,49.323093,0 -124.470702,49.322987,0 -124.469372,49.322843,0 -124.467722,49.322763,0 -124.465742,49.322768,0 -124.464783,49.322812,0 -124.461637,49.323072,0 -124.453675,49.323729,0 -124.453236,49.323765,0 -124.448884,49.324124,0 -124.444669,49.324471,0 -124.441998,49.324691,0 -124.441399,49.324741,0 -124.426454,49.325985,0 -124.424812,49.326056,0 -124.423098,49.326007,0 -124.421449,49.325864,0 -124.419734,49.325603,0 -124.417859,49.32517,0 -124.416402,49.324711,0 -124.41556,49.324413,0 -124.414476,49.323947,0 -124.412168,49.322831,0 -124.411988,49.322735,0 -124.409236,49.321401,0 -124.408808,49.321212,0 -124.407841,49.320784,0 -124.406457,49.320271,0 -124.405346,49.319914,0 -124.403426,49.319444,0 -124.401659,49.319122,0 -124.400005,49.318917,0 -124.399964,49.318912,0 -124.396681,49.318661,0 -124.382712,49.317594,0 -124.379402,49.31734,0 -124.375469,49.317039,0 -124.371518,49.316698,0 -124.368561,49.316359,0 -124.368368,49.316331,0 -124.366141,49.316006,0 -124.365863,49.315966,0 -124.362116,49.315342,0 -124.36046,49.315036,0 -124.357666,49.314521,0 -124.356916,49.314382,0</coordinates>
-          </LineString>
-        </Placemark>
         <Placemark>
           <name>Highway 13, southbound. Special event planned between 36 Ave and 29 Ave for 1.3 km (Langley - District). Starting Sat Sep 6 at 5:00 AM PDT until Sat Sep 6 at 6:00 PM PDT. Annual Langley Cruise In event. Fraser Hwy closed at 264th St. Watch for traffic control and detour signage. Next update time Sat Sep 6 at 6:00 PM PDT. Last updated Mon Aug 25 at 10:59 AM PDT. (DBC-80847)</name>
           <description>
