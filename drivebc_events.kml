@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-03 07:32:15 UTC
+        Last updated: 2025-09-03 08:02:27 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (255)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3303,6 +3303,31 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Bridge maintenance at Exit 16 (Delta). Until Fri Sep 12 at 5:00 AM PDT. From 10:00 PM to 5:00 AM PDT on Sunday, Monday, Tuesday, Wednesday and Thursday. Exit ramp is closed. Detour in effect. Watch for traffic control. Exit ramp closed for Highway 91 northbound. Detour in place at Exit 10. Next update time Fri Sep 12 at 5:00 AM PDT. Last updated Wed Sep 3 at 12:58 AM PDT. (DBC-81018)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 16&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-03T00:58:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-12T05:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81018
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.895552,49.092342,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 19 (Inland Island Highway), northbound. Construction work between Hamm Rd and Duncan Bay Main for 3.8 km (12 to 8 km south of Campbell River). Until Tue Sep 30 at 5:00 PM PDT. Watch for traffic control. Shoulder closed. Last updated Wed Aug 13 at 9:26 AM PDT. (DBC-80419)</name>
           <description>
     &lt;![CDATA[
@@ -3402,31 +3427,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.481231,48.821154,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, southbound. Bridge maintenance at Exit 16 (Delta). Until Fri Sep 12 at 5:00 AM PDT. From 10:00 PM to 5:00 AM PDT on Sunday, Monday, Tuesday, Wednesday and Thursday. Exit ramp is closed. Detour in effect. Watch for traffic control. Detour in place at Exit 10. Last updated Fri Aug 29 at 10:39 AM PDT. (DBC-81018)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 16&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T22:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81018
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.895552,49.092342,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4564,6 +4564,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-120.204459,50.669746,0 -120.203938,50.669653,0 -120.202892,50.669466,0 -120.200529,50.669145,0 -120.199993,50.669111,0 -120.197859,50.668979,0 -120.196227,50.668965,0 -120.196125,50.668968,0 -120.188299,50.669228,0 -120.187629,50.669247,0 -120.187077,50.669263,0 -120.186869,50.669266,0 -120.184696,50.6693,0 -120.182271,50.669337,0 -120.181533,50.669405,0 -120.181275,50.669428,0 -120.180305,50.669518,0 -120.178579,50.669607,0 -120.17745,50.669594,0 -120.176603,50.66955,0 -120.171306,50.669091,0 -120.161829,50.668271,0 -120.159074,50.667953,0 -120.158315,50.667866,0 -120.153256,50.667395,0 -120.15082,50.667047,0 -120.146182,50.666042,0 -120.145738,50.665967,0 -120.145224,50.66588,0 -120.143745,50.66563,0 -120.142924,50.665452,0 -120.138372,50.664468,0 -120.131322,50.662943,0 -120.130066,50.662671,0 -120.129839,50.662622,0 -120.129603,50.662552,0 -120.128469,50.662214,0 -120.128349,50.662178,0 -120.128183,50.662114,0 -120.127353,50.661794,0 -120.127227,50.661745,0 -120.127128,50.6617,0 -120.126964,50.661626,0 -120.126472,50.661403,0 -120.125084,50.660761,0 -120.124831,50.660663,0 -120.123464,50.660129,0 -120.123425,50.660114,0 -120.123287,50.66007,0 -120.123019,50.659983,0 -120.122309,50.659755,0 -120.120838,50.659425,0 -120.119753,50.659248,0 -120.119079,50.659174,0 -120.118918,50.659156,0 -120.118866,50.659152,0 -120.118051,50.659075,0 -120.116882,50.659031,0 -120.11569,50.659053,0 -120.115421,50.659081,0 -120.112464,50.659382,0 -120.112203,50.659409,0 -120.110738,50.659508,0 -120.109293,50.659539,0 -120.107615,50.659487,0 -120.10619,50.659398,0 -120.104416,50.65919,0 -120.104341,50.65918,0 -120.098967,50.658449,0 -120.091839,50.657478,0 -120.091432,50.657423,0 -120.082413,50.656194,0 -120.082078,50.656149,0 -120.080681,50.655877,0 -120.080488,50.655839,0 -120.07808,50.655371,0 -120.074246,50.654826,0 -120.07372,50.654753,0 -120.072821,50.654628,0 -120.072668,50.654606,0 -120.072207,50.654511,0 -120.071096,50.654281,0 -120.069379,50.653926,0 -120.068058,50.653653,0 -120.067631,50.653572,0 -120.067037,50.653445,0 -120.066082,50.653345,0 -120.065242,50.653345,0 -120.064037,50.653421,0 -120.06375,50.653462,0 -120.062814,50.653598,0 -120.061817,50.653743,0 -120.061571,50.653779,0 -120.060751,50.653898,0 -120.059961,50.653974,0 -120.059119,50.65406,0 -120.058973,50.654074,0 -120.058772,50.654079,0 -120.05738,50.654108,0 -120.057165,50.654112,0 -120.056819,50.6541,0 -120.056573,50.654092,0 -120.056189,50.654079,0 -120.056034,50.654074,0 -120.055575,50.654059,0 -120.052538,50.653957,0 -120.049811,50.653866,0 -120.048263,50.653814,0 -120.046023,50.653739,0 -120.045693,50.653728,0 -120.04432,50.653682,0 -120.041858,50.653599,0 -120.041455,50.653586,0 -120.041043,50.653572,0 -120.03908,50.653502,0 -120.030864,50.653208,0 -120.029353,50.653154,0 -120.028996,50.653141,0 -120.027296,50.652985,0 -120.026422,50.652859,0 -120.024772,50.652623,0 -120.02211,50.652241,0 -120.017677,50.651604,0 -120.015196,50.651248,0 -120.01431,50.65112,0 -120.011625,50.650735,0 -120.010634,50.650592,0 -120.009654,50.650451,0 -120.009163,50.650358,0 -120.008599,50.650251,0 -120.008055,50.650147,0 -120.006689,50.649772,0 -120.006425,50.649673,0 -120.006282,50.64962,0 -120.003671,50.648645,0 -120.001739,50.647924,0 -120.001428,50.647825,0 -120.00129,50.647781,0 -120.001036,50.647701,0 -120.000833,50.647637,0 -120.000648,50.64759,0 -120.000108,50.647455,0 -120.000002,50.647429,0 -119.999847,50.6474,0 -119.999693,50.647372,0 -119.999568,50.647349,0 -119.999438,50.647326,0 -119.999097,50.647263,0 -119.9989,50.647246,0 -119.998837,50.64724,0 -119.997854,50.647153,0 -119.997822,50.64715,0 -119.99767,50.647137,0 -119.997539,50.647136,0 -119.997401,50.647136,0 -119.996962,50.647133,0 -119.996282,50.64713,0 -119.995956,50.647128,0 -119.994287,50.647119,0 -119.992945,50.647112,0 -119.991691,50.647106,0 -119.990252,50.647098,0 -119.990131,50.647098,0 -119.989411,50.647102,0 -119.989209,50.647103,0 -119.988437,50.647107,0 -119.988191,50.647118,0 -119.987522,50.647149,0 -119.987261,50.647161,0 -119.987127,50.647167,0 -119.986993,50.647179,0 -119.986584,50.647215,0 -119.986417,50.64723,0 -119.985975,50.64727,0 -119.985422,50.647344,0 -119.985379,50.64735,0 -119.984555,50.647461,0 -119.984064,50.647547,0 -119.982261,50.647959,0 -119.981883,50.648046,0 -119.979259,50.648646,0 -119.978338,50.648789,0 -119.97799,50.648844,0 -119.975932,50.649117,0 -119.975756,50.649141,0 -119.974946,50.649249,0 -119.96909,50.64993,0 -119.966767,50.650201,0 -119.965085,50.650396,0 -119.964351,50.650482,0 -119.964076,50.650496,0 -119.963146,50.650542,0 -119.962998,50.650542,0 -119.961885,50.650542,0 -119.961578,50.650523,0 -119.960989,50.650487,0 -119.960716,50.65047,0 -119.960678,50.650467,0 -119.96048,50.650444,0 -119.960029,50.650391,0 -119.959993,50.650387,0 -119.959777,50.650362,0 -119.959598,50.650341,0 -119.959333,50.650289,0 -119.959275,50.650278,0 -119.958729,50.650172,0 -119.958139,50.650029,0 -119.955974,50.649503,0 -119.955418,50.649368,0 -119.954772,50.649253,0 -119.953115,50.648956,0 -119.953002,50.648936,0 -119.952862,50.648921,0 -119.952706,50.648905,0 -119.952673,50.648901,0 -119.951597,50.648788,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Maintenance between Douglas Rd and Exit 29: Willingdon Ave (Burnaby). Until Wed Sep 3 at 5:00 AM PDT. Right lane closed. Watch for traffic control. Guard rail repair work. Last updated Wed Sep 3 at 12:35 AM PDT. (DBC-81144)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 29: Willingdon Ave and Douglas Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-03T00:35:19-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81144
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.990183,49.257759,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Blue Lake Rd and Jackass Summit for 7.8 km (Jackass Mountain Summit). Until Fri Sep 5 at 7:00 PM PDT. From 7:00 AM to 7:00 PM PDT on Wednesday, Thursday and Friday. Speed limit 60 km/h. Lane shift will be implemented. Last updated Thu Aug 28 at 10:38 AM PDT. (DBC-80984)</name>
