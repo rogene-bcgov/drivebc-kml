@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-03 03:37:21 UTC
+        Last updated: 2025-09-03 04:02:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4358,6 +4358,31 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Renfrew Rd, in both directions. Road maintenance work between Timber Ridge Rd and W Shawnigan Lake Rd. Until Mon Dec 1. From 7:00 AM to 5:00 PM PDT on weekdays. Culvert work will be taking place in Shawnigan Lake. Watch for crews and equipment on the side of the road. Next update time Fri Nov 28 at 9:00 AM PDT. Last updated Tue Aug 26 at 3:23 PM PDT. (DBC-80899)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Renfrew Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Timber Ridge Rd and W Shawnigan Lake Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-27T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-28T09:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80899
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.688945,48.65691,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 11, northbound. Construction work planned between Riverside St and London Ave Overpass for 2.6 km (Mission to Abbotsford). Starting Tue Sep 2 at 9:00 PM PDT until Wed Sep 3 at 6:30 AM PDT. Lane Closure. Speed reduced to 50km/hr. Last updated Tue Sep 2 at 3:26 PM PDT. (DBC-81125)</name>
           <description>
     &lt;![CDATA[
@@ -4384,31 +4409,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Renfrew Rd, in both directions. Road maintenance work between Timber Ridge Rd and W Shawnigan Lake Rd. Until Mon Dec 1. From 7:00 AM to 5:00 PM PDT on weekdays. Culvert work will be taking place in Shawnigan Lake. Watch for crews and equipment on the side of the road. Next update time Fri Nov 28 at 9:00 AM PDT. Last updated Tue Aug 26 at 3:23 PM PDT. (DBC-80899)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Renfrew Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Timber Ridge Rd and W Shawnigan Lake Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-27T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-28T09:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80899
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.688945,48.65691,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Island Highway), in both directions. Road construction work between Sayward Timber and Barge Terminal Rd for 5.4 km (Campbell River). Until Fri Sep 26 at 11:45 PM PDT. Minor congestion. Please expect a speed reduction on Hwy 19 to access the detour road for Race Point Road
 The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated Fri Aug 15 at 12:15 PM PDT. (DBC-80514)</name>
           <description>
@@ -4433,32 +4433,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.369172,50.110237,0 -125.365309,50.110937,0 -125.36444,50.11108,0 -125.363065,50.111306,0 -125.361481,50.111487,0 -125.360902,50.111551,0 -125.354253,50.111934,0 -125.353918,50.111947,0 -125.353109,50.111976,0 -125.350952,50.111977,0 -125.349822,50.11195,0 -125.348314,50.11186,0 -125.348071,50.111838,0 -125.343991,50.111479,0 -125.3432,50.111389,0 -125.34274,50.111289,0 -125.342151,50.111162,0 -125.341316,50.110854,0 -125.340779,50.110601,0 -125.340321,50.11031,0 -125.340131,50.110188,0 -125.33957,50.109709,0 -125.335948,50.106412,0 -125.33587,50.106341,0 -125.335073,50.105665,0 -125.334614,50.105276,0 -125.333088,50.104074,0 -125.332384,50.103446,0 -125.332217,50.103298,0 -125.331736,50.102756,0 -125.331484,50.102473,0 -125.331135,50.102151,0 -125.330634,50.101689,0 -125.329067,50.100245,0 -125.328739,50.099943,0 -125.325523,50.096997,0 -125.32536,50.096879,0 -125.324652,50.096367,0 -125.323629,50.095862,0 -125.323366,50.095696,0 -125.323017,50.095475,0 -125.322661,50.095146,0 -125.322311,50.09461,0 -125.322299,50.094591,0 -125.321833,50.09357,0 -125.321321,50.092448,0 -125.321098,50.091959,0 -125.320472,50.090587,0 -125.320057,50.089992,0 -125.319645,50.089561,0 -125.319158,50.089167,0 -125.318494,50.088749,0 -125.317969,50.088544,0 -125.316115,50.088007,0 -125.315171,50.087615,0 -125.314472,50.087224,0 -125.314131,50.087034,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 11, southbound. Construction work planned between London Ave Overpass and Riverside St for 2.6 km (Mission to Abbotsford). Starting Tue Sep 2 at 9:00 PM PDT until Wed Sep 3 at 6:30 AM PDT. Lane Closure. Speed reduced to 50km/hr. Last updated Tue Sep 2 at 3:27 PM PDT. (DBC-81126)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Riverside St and London Ave Overpass for 2.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission to Abbotsford&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:27:49-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81126
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.294319,49.117156,0 -122.294604,49.117316,0 -122.297919,49.119182,0 -122.298705,49.119624,0 -122.299418,49.120026,0 -122.301083,49.120962,0 -122.301741,49.12133,0 -122.302057,49.121509,0 -122.302336,49.121666,0 -122.305399,49.123376,0 -122.308701,49.125249,0 -122.308884,49.125351,0 -122.309178,49.125521,0 -122.311131,49.126648,0 -122.311499,49.126861,0 -122.312528,49.127414,0 -122.31278,49.127549,0 -122.31329,49.127784,0 -122.313346,49.127807,0 -122.313816,49.127973,0 -122.314199,49.128108,0 -122.315022,49.128302,0 -122.315888,49.128445,0 -122.317279,49.128529,0 -122.317481,49.128523,0 -122.318887,49.128445,0 -122.32113,49.128274,0 -122.322671,49.128148,0 -122.323401,49.128178,0 -122.323437,49.128178,0 -122.323878,49.128236,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5336,6 +5310,32 @@ Single lane alternating traffic to resume 8PM on Tuesday, Sept 2. Next update ti
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.34238,56.244905,0 -121.337543,56.244435,0 -121.335821,56.244337,0 -121.334536,56.24436,0 -121.333245,56.244449,0 -121.32446,56.245232,0 -121.323227,56.245315,0 -121.322462,56.245289,0 -121.322399,56.245287,0 -121.321983,56.24524,0 -121.321183,56.245063,0 -121.320475,56.24479,0 -121.319766,56.244495,0 -121.319404,56.244342,0 -121.318736,56.244102,0 -121.317898,56.243861,0 -121.317226,56.243724,0 -121.316638,56.243625,0 -121.316133,56.243564,0 -121.315977,56.243547,0 -121.315724,56.243526,0 -121.315431,56.243506,0 -121.31509,56.243491,0 -121.314784,56.243484,0 -121.314528,56.243484,0 -121.314391,56.243484,0 -121.314115,56.24349,0 -121.313784,56.243505,0 -121.313542,56.243521,0 -121.313463,56.243526,0 -121.31319,56.243551,0 -121.31285,56.243586,0 -121.312499,56.243634,0 -121.312189,56.243684,0 -121.311648,56.243787,0 -121.311156,56.243903,0 -121.310744,56.244016,0 -121.309725,56.244372,0 -121.30867,56.244859,0 -121.307881,56.245225,0 -121.307251,56.245486,0 -121.306842,56.245645,0 -121.305597,56.246093,0 -121.304381,56.246515,0 -121.303748,56.246734,0 -121.302901,56.247035,0 -121.302287,56.247246,0 -121.301235,56.247609,0 -121.299637,56.248233,0 -121.297327,56.249387,0 -121.295076,56.250597,0 -121.292716,56.251893,0 -121.290853,56.25283,0 -121.290085,56.253272,0 -121.289502,56.253549,0 -121.284158,56.255984,0 -121.283145,56.256443,0 -121.282315,56.256821,0 -121.281378,56.257248,0 -121.280762,56.257514,0 -121.279731,56.257987,0 -121.278666,56.258487,0 -121.276643,56.2594,0 -121.274898,56.260161,0 -121.272841,56.261091,0 -121.27133,56.261789,0 -121.270405,56.262204,0 -121.269237,56.262754,0 -121.268077,56.263231,0 -121.267317,56.263616,0 -121.266852,56.263976,0 -121.26632,56.264352,0 -121.265752,56.264762,0 -121.26466,56.266014,0 -121.264061,56.266944,0 -121.263004,56.26818,0 -121.262205,56.268887,0 -121.261142,56.269638,0 -121.259661,56.270355,0 -121.259292,56.270508,0 -121.258466,56.27085,0 -121.257353,56.271204,0 -121.256104,56.271606,0 -121.255256,56.271916,0 -121.254342,56.272232,0 -121.252636,56.272797,0 -121.251538,56.273161,0 -121.249566,56.273779,0 -121.24855,56.274136,0 -121.247572,56.274441,0 -121.246701,56.274678,0 -121.245308,56.274932,0 -121.244064,56.275029,0 -121.242852,56.275127,0 -121.238231,56.27543,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 11, southbound. Construction work planned between London Ave Overpass and Riverside St for 2.6 km (Mission to Abbotsford). Starting Tue Sep 2 at 9:00 PM PDT until Wed Sep 3 at 6:30 AM PDT. Lane Closure. Speed reduced to 50km/hr. Last updated Tue Sep 2 at 3:27 PM PDT. (DBC-81126)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Riverside St and London Ave Overpass for 2.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission to Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T15:27:49-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81126
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.294319,49.117156,0 -122.294604,49.117316,0 -122.297919,49.119182,0 -122.298705,49.119624,0 -122.299418,49.120026,0 -122.301083,49.120962,0 -122.301741,49.12133,0 -122.302057,49.121509,0 -122.302336,49.121666,0 -122.305399,49.123376,0 -122.308701,49.125249,0 -122.308884,49.125351,0 -122.309178,49.125521,0 -122.311131,49.126648,0 -122.311499,49.126861,0 -122.312528,49.127414,0 -122.31278,49.127549,0 -122.31329,49.127784,0 -122.313346,49.127807,0 -122.313816,49.127973,0 -122.314199,49.128108,0 -122.315022,49.128302,0 -122.315888,49.128445,0 -122.317279,49.128529,0 -122.317481,49.128523,0 -122.318887,49.128445,0 -122.32113,49.128274,0 -122.322671,49.128148,0 -122.323401,49.128178,0 -122.323437,49.128178,0 -122.323878,49.128236,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
