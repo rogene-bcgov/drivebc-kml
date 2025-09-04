@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-04 01:29:12 UTC
+        Last updated: 2025-09-04 02:05:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (258)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -302,32 +302,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 5, northbound. Shoulder maintenance planned between Oka Trail and Chief Louis Way for 1.5 km (Kamloops). Starting Wed Sep 3 at 7:00 PM PDT until Thu Sep 4 at 5:00 AM PDT. Right lane will be closed. Watch for traffic control personnel. Last updated Thu Aug 21 at 10:55 AM PDT. (DBC-80730)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Oka Trail and Chief Louis Way for 1.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kamloops&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-21T10:55:53-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80730
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.3103,50.688227,0 -120.312729,50.689238,0 -120.319803,50.692647,0 -120.320184,50.692831,0 -120.321477,50.693642,0 -120.321735,50.693829,0 -120.322551,50.694418,0 -120.323358,50.695338,0 -120.323855,50.69602,0 -120.324307,50.696886,0 -120.324987,50.698524,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 17 (Patricia Bay Highway), in both directions. Utility work planned between Exit 15: Sayward Rd and Gliddon Rd for 2.1 km (Central Saanich to Saanich). Starting Thu Sep 11 until Fri Sep 12. From 9:00 PM to 6:00 AM PDT on Thursday and Friday. Last updated Tue Sep 2 at 10:05 AM PDT. (DBC-81096)</name>
           <description>
     &lt;![CDATA[
@@ -377,6 +351,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.49285,49.089382,0 -122.49288,49.090793,0 -122.492875,49.091452,0 -122.492856,49.093872,0 -122.492852,49.094394,0 -122.492847,49.095032,0 -122.492846,49.095176,0 -122.492841,49.095842,0 -122.492836,49.096481,0 -122.492835,49.096578,0 -122.492839,49.096796,0 -122.492864,49.098335,0 -122.492879,49.099233,0 -122.492862,49.099672,0 -122.49285,49.100002,0 -122.492829,49.100568,0 -122.492824,49.100708,0 -122.492813,49.101086,0 -122.49281,49.101178,0 -122.492806,49.101322,0 -122.4928,49.101819,0 -122.492798,49.101906,0 -122.492793,49.102066,0 -122.492785,49.102352,0 -122.492764,49.103516,0 -122.492757,49.103886,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, northbound. Shoulder maintenance between Oka Trail and Chief Louis Way for 1.5 km (Kamloops). Until Thu Sep 4 at 5:00 AM PDT. Right lane closed. Watch for traffic control. Last updated Thu Aug 21 at 10:55 AM PDT. (DBC-80730)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Oka Trail and Chief Louis Way for 1.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kamloops&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-03T19:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80730
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.3103,50.688227,0 -120.312729,50.689238,0 -120.319803,50.692647,0 -120.320184,50.692831,0 -120.321477,50.693642,0 -120.321735,50.693829,0 -120.322551,50.694418,0 -120.323358,50.695338,0 -120.323855,50.69602,0 -120.324307,50.696886,0 -120.324987,50.698524,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5566,31 +5566,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 109: Yale Rd and Exit 116: Lickman Rd (Chilliwack). Road closed. Next update time Wed Sep 3 at 6:30 PM PDT. Last updated Wed Sep 3 at 5:30 PM PDT. (DBC-81175)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 109: Yale Rd and Exit 116: Lickman Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-03T17:30:46-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-03T18:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81175
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.06378,49.137775,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Vehicle fire between Wagon Wheel Rd and Junction Hwy 33 for 2.0 km (8 to 6 km west of Rock Creek). Road closed. Detour not available. Expect delays. Next update time Wed Sep 3 at 7:30 PM PDT. Last updated Wed Sep 3 at 5:28 PM PDT. (DBC-81177)</name>
           <description>
     &lt;![CDATA[
@@ -5615,6 +5590,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-119.10967,49.051179,0 -119.105601,49.051136,0 -119.103985,49.051019,0 -119.102897,49.050882,0 -119.097173,49.049975,0 -119.091261,49.049038,0 -119.090127,49.04894,0 -119.088795,49.048887,0 -119.087685,49.048902,0 -119.086212,49.049002,0 -119.084675,49.049216,0 -119.082288,49.049655,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 109: Yale Rd and Exit 116: Lickman Rd (Chilliwack). Road closed. Next update time Wed Sep 3 at 8:30 PM PDT. Last updated Wed Sep 3 at 6:30 PM PDT. (DBC-81175)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 109: Yale Rd and Exit 116: Lickman Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-03T18:30:45-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-03T20:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81175
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.06378,49.137775,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt Spring Island. Road closed. Detour in effect. Detour via Cranberry Road. Next update time Wed Sep 2, 2026 at 12:00 PM PDT. Last updated Tue Sep 2 at 4:21 PM PDT. (DBC-77329)</name>
@@ -5743,6 +5743,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-126.479614,53.985412,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle fire between MacDonald Snowshed and Twins Snowshed for 0.7 km (2 km west of West Boundary of Glacier National Park). Road closed. Expect delays. Next update time Wed Sep 3 at 8:00 PM PDT. Last updated Wed Sep 3 at 6:44 PM PDT. (DBC-81181)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between MacDonald Snowshed and Twins Snowshed for 0.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km west of West Boundary of Glacier National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-03T18:44:20-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-03T20:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81181
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.745204,51.201675,0 -117.744901,51.20201,0 -117.744357,51.202504,0 -117.743938,51.202725,0 -117.743701,51.202849,0 -117.742645,51.203291,0 -117.737035,51.205288,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 8. Watch for falling rocks between the start of Highway 8 and Dot Ranch Cut-Off Rd West for 34.8 km (Spences Bridge to 29 km west of Merritt). There is debris on the road. Last updated Wed Sep 3 at 1:20 AM PDT. (DBC-72877)</name>
