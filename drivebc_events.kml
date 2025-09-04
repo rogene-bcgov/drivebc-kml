@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-04 11:02:11 UTC
+        Last updated: 2025-09-04 11:31:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (254)</name>
+      <name>🚗 Traffic Events (255)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1918,6 +1918,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.049703,49.326579,0 -123.046732,49.325659,0 -123.045835,49.325228,0 -123.045234,49.324826,0 -123.044676,49.324243,0 -123.044631,49.324186,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Bridge maintenance planned between Yahk-Meadow Creek Rd and Ryan Station Rd for 0.3 km (7 to 8 km east of Yahk). Starting Thu Sep 4 at 7:30 AM MST until Thu Sep 4 at 4:30 PM MST. Single lane alternating traffic will be in effect. Expect delays. Last updated Thu Sep 4 at 4:21 AM MST. (DBC-81186)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Yahk-Meadow Creek Rd and Ryan Station Rd for 0.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 8 to 7 km east of Yahk&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-04T04:21:21-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81186
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.026467,49.139946,0 -116.02625,49.14016,0 -116.026164,49.140246,0 -116.025849,49.140561,0 -116.025726,49.140683,0 -116.02439,49.142037,0 -116.024162,49.142267,0 -116.024056,49.142374,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
