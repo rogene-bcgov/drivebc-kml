@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-04 13:07:23 UTC
+        Last updated: 2025-09-04 13:36:44 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1997,31 +1997,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 7B (Mary Hill Bypass), in both directions. Traffic signal out at Broadway St (Port Coquitlam). Expect delays. Use the four way stop procedure. Next update time Thu Sep 4 at 7:00 AM PDT. Last updated Thu Sep 4 at 5:42 AM PDT. (DBC-81187)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; SIGNAL_LIGHT_FAILURE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7B&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Broadway St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-04T05:42:25-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-04T07:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81187
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.762273,49.240488,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector), northbound. Shoulder maintenance between Ewing Rd and Carver Rd for 2.4 km (11 to 9 km north of Hixon). Until Sat Sep 6 at 8:00 PM PDT. From 6:00 AM to 8:00 PM PDT on weekends, Monday, Wednesday, Thursday and Friday. Speed reduction of 70km/h as required. Last updated Tue Aug 5 at 12:20 PM PDT. (DBC-80111)</name>
           <description>
     &lt;![CDATA[
@@ -2401,6 +2376,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.492648,49.053061,0 -122.492661,49.054777,0 -122.492666,49.05543,0 -122.492683,49.05789,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla North), northbound. Road sweeping between Inks Lake Rd and Exit 362: Afton Interchange for 7.7 km (Kamloops). Until Thu Sep 4 at 4:00 PM PDT. Sweeping right side CRB/curbs/bridge decks. Last updated Thu Sep 4 at 6:04 AM PDT. (DBC-81188)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Inks Lake Rd and Exit 362: Afton Interchange for 7.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kamloops&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-04T06:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81188
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.47188,50.616176,0 -120.471721,50.616971,0 -120.4716,50.618028,0 -120.471668,50.619531,0 -120.471762,50.61991,0 -120.472038,50.621023,0 -120.472453,50.622152,0 -120.472763,50.622828,0 -120.472978,50.623161,0 -120.473491,50.623965,0 -120.474548,50.625241,0 -120.475531,50.62618,0 -120.476419,50.626921,0 -120.476515,50.626994,0 -120.476644,50.627091,0 -120.476875,50.627267,0 -120.479112,50.628962,0 -120.480278,50.630056,0 -120.480827,50.630642,0 -120.481414,50.63134,0 -120.481813,50.631911,0 -120.483141,50.634094,0 -120.484214,50.636237,0 -120.484983,50.638272,0 -120.485453,50.639665,0 -120.485845,50.641469,0 -120.486188,50.643991,0 -120.486278,50.645594,0 -120.486277,50.646354,0 -120.486243,50.647114,0 -120.486147,50.647836,0 -120.485831,50.648996,0 -120.485565,50.64964,0 -120.484925,50.650649,0 -120.484614,50.65108,0 -120.483681,50.652056,0 -120.482934,50.65265,0 -120.482248,50.653147,0 -120.482153,50.653204,0 -120.481367,50.653677,0 -120.479918,50.654398,0 -120.47882,50.654921,0 -120.478312,50.655163,0 -120.476437,50.656056,0 -120.476188,50.656175,0 -120.476116,50.656209,0 -120.474595,50.656934,0 -120.473182,50.657605,0 -120.463218,50.662259,0 -120.463025,50.662349,0 -120.462441,50.662622,0 -120.461475,50.663074,0 -120.460908,50.66334,0 -120.458197,50.664608,0 -120.457196,50.664996,0 -120.456892,50.665114,0 -120.45644,50.665289,0 -120.456094,50.665399,0 -120.455285,50.665655,0 -120.454338,50.665894,0 -120.452785,50.666204,0 -120.450732,50.666461,0 -120.449691,50.666539,0 -120.447345,50.666558,0 -120.442304,50.666301,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6516,7 +6517,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 20. Limited visibility with smoke between Hunlen Falls Turner Lakes Trailhead and Sawmill Creek Rd for 136.7 km (39 km west of Anahim Lake to Tatla Lake). Last updated Thu Sep 4 at 2:27 AM PDT. (DBCRCON-223489)</name>
+          <name>Highway 20. Limited visibility with smoke between Hunlen Falls Turner Lakes Trailhead and Sawmill Creek Rd for 136.7 km (39 km west of Anahim Lake to Tatla Lake). Last updated Thu Sep 4 at 6:19 AM PDT. (DBCRCON-223489)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6528,7 +6529,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Hunlen Falls Turner Lakes Trailhead and Sawmill Creek Rd for 136.7 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Tatla Lake to 39 km west of Anahim Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-04T02:27:58-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-04T06:19:14-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
