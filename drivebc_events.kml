@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-05 23:31:31 UTC
+        Last updated: 2025-09-06 00:06:27 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (260)</name>
+      <name>🚗 Traffic Events (263)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1311,13 +1311,13 @@
     &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Kicking Horse Drive&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Elk Rd and 9th St N in Golden&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Other Roads&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-04T06:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-04T07:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-81182
     ]]&gt;
@@ -5588,6 +5588,58 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 6 EW. Bridge maintenance planned between Heighway Cres and Industrial Ave for 0.2 km (Lumby). Starting Mon Sep 8 at 7:30 AM PDT until Mon Sep 8 at 3:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Sep 5 at 4:33 PM PDT. (DBC-81241)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 6 EW&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Heighway Cres and Industrial Ave for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Lumby&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-05T16:33:17-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81241
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.958126,50.248942,0 -118.957968,50.248944,0 -118.957835,50.248945,0 -118.956538,50.248854,0 -118.956255,50.248834,0 -118.956028,50.248818,0 -118.955999,50.248816,0 -118.955384,50.248739,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Utility work planned between 18 Ave and 26 Ave for 1.6 km (Surrey). Starting Thu Sep 11 at 8:00 AM PDT until Tue Sep 16 at 4:00 PM PDT. From 8:00 AM to 4:00 PM PDT daily. Right lane will be closed. Left turn lane will be closed. Last updated Fri Sep 5 at 4:53 PM PDT. (DBC-81242)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 18 Ave and 26 Ave for 1.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-05T16:53:43-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81242
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.735186,49.03486,0 -122.735196,49.037443,0 -122.735199,49.038181,0 -122.7352,49.03846,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0 -122.735303,49.049246,0 -122.735303,49.049297,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>[Truncated] Highway 3 (Crowsnest Highway), in both directions. Paving operations between Sunday Summit and Copper Mountain Rd for 34.2 km (Princeton). Until Sat Oct 4 at 7:00 PM PDT. From 7:00 AM to 7:00 PM PDT on weekdays and Saturday. Single lane alternating traffic. Watch for traffic control. Width limit 5.00 m. Height limit 5.00 m. Project parameters are from Sunday Summit to Princeton. Expect delays of up to 20 minutes. Next update time Sat Oct 4 at 7:00 PM PDT. Last updated Fri Sep 5 at 3:</name>
           <description>
     &lt;![CDATA[
@@ -5665,6 +5717,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-122.479074,53.155476,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Alaska Highway), southbound. Vehicle incident between 100 Ave and 108 St for 0.2 km (Fort St John). Southbound lane closure. Please obey traffic control and slow down for crews and equipment attending. Next update time Fri Sep 5 at 5:30 PM MST. Last updated Fri Sep 5 at 4:52 PM MST. (DBC-81243)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 108 St and 100 Ave for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Fort St John&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-05T16:52:39-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-05T17:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81243
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.866923,56.243798,0 -120.867147,56.243876,0 -120.867415,56.24397,0 -120.867759,56.24409,0 -120.868142,56.244225,0 -120.86843,56.244324,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt Spring Island. Road closed. Detour in effect. Detour via Cranberry Road. Next update time Wed Sep 2, 2026 at 12:00 PM PDT. Last updated Tue Sep 2 at 4:21 PM PDT. (DBC-77329)</name>
