@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-07 17:01:59 UTC
+        Last updated: 2025-09-07 17:31:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -380,7 +380,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 17, eastbound. Construction work between Tannery Rd and Bridgeview Dr for 3.3 km (Surrey). Until Mon Sep 8 at 5:00 AM PDT. Road closed. Detour via Tannery Road. Next update time Mon Sep 8 at 5:00 AM PDT. Last updated Thu Sep 4 at 1:24 PM PDT. (DBC-81203)</name>
+          <name>Highway 17, eastbound. Construction work between Tannery Rd and Bridgeview Dr for 3.3 km (Surrey). Until Mon Sep 8 at 5:00 AM PDT. Right lane is blocked. Next update time Mon Sep 8 at 5:00 AM PDT. Last updated Sun Sep 7 at 10:12 AM PDT. (DBC-81203)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -392,9 +392,9 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Tannery Rd and Bridgeview Dr for 3.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-07T05:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-07T10:12:26-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-08T05:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-81203
     ]]&gt;
@@ -2196,31 +2196,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-120.564212,55.957219,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Bridge maintenance planned at Exit 40: Brunette Ave (Coquitlam). Starting Sun Sep 7 at 10:00 PM PDT until Mon Sep 8 at 5:00 AM PDT. HOV lane will be closed. Left lane will be closed. Watch for traffic control personnel. Slow lane will also be closed at Brunette Ave Interchange on the east side. Last updated Fri Sep 5 at 2:24 PM PDT. (DBC-81236)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 40: Brunette Ave&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-05T14:24:26-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81236
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.878695,49.234499,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5330,6 +5305,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-122.735186,49.03486,0 -122.735196,49.037443,0 -122.735199,49.038181,0 -122.7352,49.03846,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0 -122.735303,49.049246,0 -122.735303,49.049297,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Bridge maintenance planned at Exit 40: Brunette Ave (Coquitlam). Starting Sun Sep 7 at 10:00 PM PDT until Mon Sep 8 at 5:00 AM PDT. Watch for traffic control personnel. Westbound HOV an left lane closed. Eastbound right lane closed. Last updated Sun Sep 7 at 10:22 AM PDT. (DBC-81236)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 40: Brunette Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-07T10:22:21-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81236
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.878695,49.234499,0</coordinates>
+          </Point>
         </Placemark>
       </Folder>
       <Folder>
