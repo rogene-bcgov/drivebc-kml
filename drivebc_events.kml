@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-08 02:55:08 UTC
+        Last updated: 2025-09-08 03:17:44 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4997,6 +4997,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99A, northbound. Paving operations between 58A Ave and 144A St 1 km north of Surrey. Until Fri Sep 12. From 8:00 PM to 6:00 AM PDT daily. Lane Closure. Last updated Thu Aug 28 at 9:38 AM PDT. (DBC-80978)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 58A Ave and 144A St 1 km north of Surrey&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-07T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80978
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.809872,49.058852,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 15 (Pacific Highway), in both directions. Road construction work between 68A Ave and Fraser Hwy for 0.6 km (Surrey). Until Mon Sep 15. From 8:00 PM to 6:00 AM PDT daily. Lane closures in both directions in effect. Watch for traffic control. Last updated Sun Aug 31 at 10:53 PM PDT. (DBC-80979)</name>
           <description>
     &lt;![CDATA[
@@ -5021,31 +5046,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-122.734651,49.133314,0 -122.734624,49.137511,0 -122.734651,49.138055,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99A, northbound. Paving operations between 58A Ave and 144A St 1 km north of Surrey. Until Fri Sep 12. From 8:00 PM to 6:00 AM PDT daily. Lane Closure. Last updated Thu Aug 28 at 9:38 AM PDT. (DBC-80978)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 58A Ave and 144A St 1 km north of Surrey&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-07T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80978
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.809872,49.058852,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla South), northbound. Construction work between Exit 183: Othello Rd and Exit 195 for 12.5 km (6 km north of Hope to 16 km south of Great Bear Snowshed). Until Fri Sep 12 at 6:00 PM PDT. Right lane closed. Construction/Rehabilitation work of Exit 195/Carolin Mine Rd between Jessica Bridge and Ladner Creek Bridge. Last updated Mon Jul 14 at 2:54 PM PDT. (DBC-79223)</name>
