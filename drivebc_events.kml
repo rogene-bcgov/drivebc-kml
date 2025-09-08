@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-08 12:44:00 UTC
+        Last updated: 2025-09-08 13:10:08 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (238)</name>
+      <name>🚗 Traffic Events (237)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -250,6 +250,33 @@
           <Point>
             <coordinates>-118.199826,51.006677,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 37. Bridge maintenance planned between Kitwanga and Bridge St for 0.3 km (Kitwanga). Starting Mon Sep 8 at 7:00 AM PDT until Thu Sep 11 at 4:30 PM PDT. From 7:00 AM to 4:30 PM PDT on Monday, Tuesday, Wednesday and Thursday. Single lane alternating traffic will be in effect. Expect delays. Kitwanga bridge
+Watch for crews and equipment working. Last updated Mon Sep 8 at 5:59 AM PDT. (DBC-81284)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 37N&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Kitwanga and Bridge St for 0.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kitwanga&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-08T05:59:43-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81284
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-128.076699,55.095831,0 -128.076653,55.095933,0 -128.076615,55.096017,0 -128.076541,55.096181,0 -128.076472,55.096333,0 -128.076407,55.096478,0 -128.076328,55.096653,0 -128.076282,55.096766,0 -128.076095,55.097225,0 -128.075573,55.098503,0 -128.075511,55.098656,0 -128.075474,55.098746,0 -128.07547,55.098755,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Holden Corso Rd, in both directions. Utility work between Rugg Rd and Barnes Rd. Until Fri Oct 31 at 5:00 PM PDT. Single lane alternating traffic. Expect delays. Watch for traffic control. Watermain and Road works. Watch for work crews. Last updated Wed Jul 30 at 2:59 PM PDT. (DBC-79923)</name>
@@ -711,56 +738,6 @@
             <tessellate>1</tessellate>
             <coordinates>-119.031754,50.725348,0 -119.031721,50.725379,0 -119.031108,50.725825,0 -119.030747,50.726126,0 -119.030554,50.72638,0 -119.030381,50.726739,0 -119.030326,50.727093,0 -119.030291,50.728643,0 -119.030295,50.729431,0 -119.030301,50.730901,0 -119.030227,50.731341,0 -119.029953,50.731989,0 -119.029646,50.732431,0 -119.029513,50.732576,0 -119.02901,50.732986,0 -119.028323,50.733547,0 -119.026156,50.73575,0 -119.025841,50.736096,0 -119.025709,50.736241,0 -119.025418,50.736625,0 -119.025228,50.736874,0 -119.024746,50.737677,0 -119.024173,50.738632,0 -119.024028,50.739046,0 -119.024021,50.739111,0 -119.023951,50.739832,0 -119.023813,50.740191,0 -119.023309,50.741186,0 -119.023216,50.741618,0 -119.023217,50.741651,0 -119.023236,50.742201,0 -119.023491,50.7434,0 -119.02352,50.743504,0 -119.023629,50.743899,0 -119.024214,50.744997,0 -119.024268,50.745114,0 -119.024692,50.746038,0 -119.024781,50.746426,0 -119.024868,50.746807,0 -119.024871,50.747263,0 -119.024809,50.747782,0 -119.024556,50.748905,0 -119.024539,50.748979,0 -119.024572,50.749369,0 -119.0247,50.749639,0 -119.024944,50.749912,0 -119.025892,50.750669,0 -119.026025,50.750779,0 -119.026345,50.751133,0 -119.026594,50.751482,0 -119.026685,50.751759,0 -119.026551,50.753876,0 -119.026394,50.754304,0 -119.026196,50.754534,0 -119.025999,50.75469,0 -119.025354,50.75502,0 -119.025142,50.75519,0 -119.024525,50.75578,0 -119.024089,50.756073,0 -119.023392,50.756463,0 -119.022313,50.75685,0 -119.020556,50.75777,0 -119.020136,50.757947,0 -119.019828,50.75803,0 -119.018927,50.758095,0 -119.018363,50.758233,0 -119.017237,50.758594,0 -119.016615,50.758843,0 -119.015723,50.759299,0 -119.01493,50.759823,0 -119.013288,50.761092,0 -119.013146,50.761278,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations at Grandview Highway (Burnaby). Until Mon Sep 8 at 6:00 AM PDT. Entrance ramp closed. Traffic will be diverted to the HOV entrance ramp. Last updated Fri Sep 5 at 10:44 PM PDT. (DBC-81258)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Grandview Highway&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-07T22:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81258
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.01758,49.257479,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations at Exit 29: Willingdon Ave (Burnaby). Until Mon Sep 8 at 6:00 AM PDT. Exit ramp is closed. No emergency vehicle access. Last updated Fri Sep 5 at 10:45 PM PDT. (DBC-81259)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 29: Willingdon Ave&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-07T22:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81259
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.003967,49.257525,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Iron Mtn Road. Road construction work between Start and 3K. Until Thu Sep 10, 2026. From 7:00 AM to 3:30 PM PDT on Monday, Tuesday, Wednesday and Thursday. Expect minor delays. Last updated Wed Sep 3 at 6:07 AM PDT. (DBC-80398)</name>
