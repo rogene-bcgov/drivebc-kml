@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-10 00:06:04 UTC
+        Last updated: 2025-09-10 00:46:28 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (269)</name>
+      <name>🚗 Traffic Events (268)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -533,6 +533,31 @@ Watch for crews and equipment working. Last updated Mon Sep 8 at 5:59 AM PDT. (D
             <tessellate>1</tessellate>
             <coordinates>-116.831244,49.68138,0 -116.830631,49.681664,0 -116.830167,49.681793,0 -116.829668,49.681841,0 -116.829454,49.681841,0 -116.82822,49.681837,0 -116.827845,49.681837,0 -116.825691,49.681822,0 -116.825176,49.6817,0 -116.824862,49.681514,0 -116.824645,49.681271,0 -116.824555,49.681086,0 -116.8246,49.679816,0 -116.824655,49.678467,0 -116.824713,49.677064,0 -116.824749,49.676174,0 -116.824755,49.676033,0 -116.824763,49.675832,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Road maintenance work planned between Penny Access Rd and Dome Creek Camp (43 km east of Purden Lake). Starting Wed Sep 10 at 7:00 AM PDT until Wed Sep 10 at 5:00 PM PDT. Single lane alternating traffic will be in effect. Last updated Tue Sep 9 at 5:12 PM PDT. (DBC-81373)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Penny Access Rd and Dome Creek Camp&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 43 km east of Purden Lake&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T17:12:43-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81373
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.241366,53.778656,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Road construction work between Hemlock Grove Boardwalk and Illecillewaet Campground for 0.6 km (8 to 9 km east of West Boundary of Glacier National Park). Until Fri Oct 31. From 7:00 AM to 7:00 PM PDT daily. Culvert replacement work. Speed limit 50km/h at all times due to narrowing/realignment requirements. Last updated Fri Jul 11 at 4:20 PM PDT. (DBC-79076)</name>
@@ -1660,32 +1685,6 @@ Watch for crews and equipment working. Last updated Mon Sep 8 at 5:59 AM PDT. (D
           <Point>
             <coordinates>-123.144461,49.700789,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5. Mowing between Gosnell Bridge and Albreda Pit Rd for 20.6 km (23 km south of Valemount to 41 km north of Blue River). Until Tue Sep 9 at 5:30 PM PDT. Watch for traffic control. Last updated Tue Sep 9 at 8:38 AM PDT. (DBC-81351)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Gosnell Bridge and Albreda Pit Rd for 20.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 41 km north of Blue River to 23 km south of Valemount&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T08:38:54-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81351
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.13233,52.478552,0 -119.132175,52.478691,0 -119.129518,52.481015,0 -119.125746,52.484317,0 -119.124932,52.485029,0 -119.124886,52.485069,0 -119.124598,52.485321,0 -119.124453,52.485448,0 -119.123582,52.48621,0 -119.121201,52.488293,0 -119.121016,52.488455,0 -119.119349,52.489913,0 -119.11929,52.489965,0 -119.118594,52.490576,0 -119.117508,52.491528,0 -119.116735,52.492279,0 -119.115843,52.493289,0 -119.114913,52.494599,0 -119.114157,52.495822,0 -119.114141,52.495848,0 -119.113568,52.496775,0 -119.113374,52.497088,0 -119.113327,52.497163,0 -119.113248,52.497291,0 -119.111564,52.500013,0 -119.111268,52.500492,0 -119.108144,52.505541,0 -119.107626,52.506465,0 -119.107341,52.507085,0 -119.106969,52.507895,0 -119.106645,52.508817,0 -119.10638,52.509757,0 -119.10617,52.510785,0 -119.106164,52.51084,0 -119.10604,52.51197,0 -119.106034,52.512017,0 -119.106009,52.512986,0 -119.106069,52.514064,0 -119.106171,52.514793,0 -119.106339,52.515555,0 -119.106514,52.51635,0 -119.106952,52.517668,0 -119.107355,52.518608,0 -119.108009,52.519847,0 -119.108582,52.520755,0 -119.109699,52.522254,0 -119.111288,52.523957,0 -119.112233,52.524898,0 -119.113494,52.526154,0 -119.113611,52.52627,0 -119.113839,52.526496,0 -119.114589,52.52727,0 -119.115086,52.527782,0 -119.115434,52.52823,0 -119.116123,52.529326,0 -119.116458,52.530029,0 -119.116709,52.530705,0 -119.11687,52.531409,0 -119.116963,52.532083,0 -119.116938,52.533342,0 -119.116472,52.535365,0 -119.115331,52.539748,0 -119.115278,52.539954,0 -119.115214,52.540199,0 -119.114905,52.541387,0 -119.113908,52.545224,0 -119.112622,52.550168,0 -119.112475,52.550734,0 -119.111792,52.55336,0 -119.111575,52.554193,0 -119.111333,52.555124,0 -119.111164,52.555696,0 -119.110216,52.558915,0 -119.109453,52.561502,0 -119.109232,52.562018,0 -119.108777,52.562796,0 -119.108327,52.563397,0 -119.10745,52.564277,0 -119.106753,52.564826,0 -119.105614,52.565588,0 -119.105479,52.565679,0 -119.105033,52.565979,0 -119.103703,52.566871,0 -119.103067,52.567389,0 -119.102157,52.568219,0 -119.101441,52.569048,0 -119.100689,52.570093,0 -119.100582,52.570327,0 -119.097551,52.577244,0 -119.097285,52.57785,0 -119.096615,52.57924,0 -119.095565,52.581762,0 -119.095366,52.582623,0 -119.095317,52.583721,0 -119.095505,52.58525,0 -119.095774,52.586028,0 -119.096366,52.587199,0 -119.096557,52.587576,0 -119.098083,52.589707,0 -119.098432,52.59016,0 -119.098584,52.590373,0 -119.100762,52.593427,0 -119.101347,52.594165,0 -119.10221,52.595129,0 -119.10295,52.595841,0 -119.107631,52.600063,0 -119.108884,52.601194,0 -119.110463,52.60247,0 -119.110969,52.602815,0 -119.111532,52.6032,0 -119.112576,52.603844,0 -119.114186,52.60471,0 -119.116988,52.60598,0 -119.121525,52.608436,0 -119.123521,52.609578,0 -119.125652,52.610796,0 -119.125813,52.610889,0 -119.12696,52.611617,0 -119.127378,52.611917,0 -119.127462,52.611977,0 -119.129245,52.613253,0 -119.129578,52.613514,0 -119.130249,52.614017,0 -119.131284,52.614888,0 -119.132766,52.616302,0 -119.133101,52.616622,0 -119.133826,52.617365,0 -119.134257,52.617806,0 -119.137568,52.621768,0 -119.138264,52.622483,0 -119.13883,52.622985,0 -119.139439,52.623405,0 -119.140085,52.623767,0 -119.14081,52.624112,0 -119.141829,52.624469,0 -119.143143,52.624884,0 -119.144014,52.625203,0 -119.144614,52.625478,0 -119.144744,52.625537,0 -119.145411,52.625916,0 -119.14613,52.626451,0 -119.146908,52.62709,0 -119.150129,52.629736,0 -119.151107,52.63054,0 -119.151176,52.630596,0 -119.153532,52.632531,0 -119.154103,52.632997,0 -119.154522,52.633338,0 -119.15809,52.636276,0 -119.159557,52.637517,0 -119.1603,52.638212,0 -119.162299,52.640263,0 -119.162655,52.640627,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 19A (Island Highway). Construction work between Henry Rd and Heard Rd for 2.8 km (4 to 1 km south of Campbell River). Until Fri Jan 30, 2026 at 7:00 PM PDT. Multiple locations. Work at each location done within 3 hrs. Last updated Tue Apr 8 at 2:45 PM PDT. (DBC-75100)</name>
@@ -6001,31 +6000,6 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), northbound. Vehicle recovery at Cedar Rd (Nanaimo). For the next 30 mins. Road closed. Watch for traffic control. Expect delays. Detour via Cedar Rd. Next update time Tue Sep 9 at 5:30 PM PDT. Last updated Tue Sep 9 at 5:00 PM PDT. (DBC-81371)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Cedar Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Nanaimo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T17:00:10-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-09T17:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81371
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.916402,49.124594,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt Spring Island. Road closed. Detour in effect. Detour via Cranberry Road. Next update time Wed Sep 2, 2026 at 12:00 PM PDT. Last updated Tue Sep 2 at 4:21 PM PDT. (DBC-77329)</name>
           <description>
     &lt;![CDATA[
@@ -6049,6 +6023,32 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           <Point>
             <coordinates>-123.492105,48.826325,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle recovery planned between Three Valley OH Bridge and Three Valley Avalanche Gate for 0.8 km (18 to 19 km west of Revelstoke). Starting Tue Sep 9 at 9:00 PM PDT until Wed Sep 10 at 10:00 PM PDT. Lane Closure. Expect delays. Last updated Tue Sep 9 at 5:10 PM PDT. (DBC-81372)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Three Valley OH Bridge and Three Valley Avalanche Gate for 0.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 19 to 18 km west of Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T17:10:36-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81372
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.481805,50.931572,0 -118.481779,50.931536,0 -118.481293,50.931122,0 -118.481185,50.93106,0 -118.480238,50.930529,0 -118.476606,50.928487,0 -118.476124,50.928246,0 -118.475866,50.928118,0 -118.475708,50.928038,0 -118.474987,50.927814,0 -118.474686,50.927757,0 -118.474009,50.927678,0 -118.473954,50.927672,0 -118.473355,50.927679,0 -118.473145,50.927681,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Colleymount Rd, in both directions. Washout at 53.5km near Burns Lake. Single lane alternating traffic. Partial road washout, obey signage. Next update time Fri Sep 26 at 10:00 AM PDT. Last updated Fri Aug 29 at 9:47 AM PDT. (DBC-71008)</name>
@@ -6556,7 +6556,7 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 20, in both directions. There is a wildfire between Corbould Dr and Kappan Mtn Rd for 76.3 km (Anahim Lake to 18 km east of Firvale). Road closed. No estimated time of opening. Next update time Tue Sep 9 at 7:00 PM PDT. Last updated Tue Sep 9 at 4:43 PM PDT. (DBC-81276)</name>
+          <name>Highway 20, in both directions. There is a wildfire between Corbould Dr and Kappan Mtn Rd for 76.3 km (Anahim Lake to 18 km east of Firvale). Road closed. Planned opening with pilot truck Sept 10th from 5am-9am. Subject to change without notice. Next update time Tue Sep 9 at 7:00 PM PDT. Last updated Tue Sep 9 at 5:05 PM PDT. (DBC-81276)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6568,7 +6568,7 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
     &lt;b&gt;Location:&lt;/b&gt; Between Corbould Dr and Kappan Mtn Rd for 76.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 18 km east of Firvale to Anahim Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T16:43:08-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T17:05:55-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-09T19:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
@@ -6608,7 +6608,7 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Stalled vehicle between Blundell Rd and Exit 32: Steveston Hwy for 1.0 km (Richmond). Right lane is blocked. Expect delays. Next update time Tue Sep 9 at 5:30 PM PDT. Last updated Tue Sep 9 at 4:52 PM PDT. (DBC-81366)</name>
+          <name>Highway 99, southbound. Stalled vehicle between Blundell Rd and Exit 32: Steveston Hwy for 1.0 km (Richmond). Right lane is blocked. Expect major delays. Next update time Tue Sep 9 at 6:30 PM PDT. Last updated Tue Sep 9 at 5:18 PM PDT. (DBC-81366)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6620,8 +6620,8 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 32: Steveston Hwy and Blundell Rd for 1.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T16:52:40-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-09T17:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T17:18:34-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-09T18:30:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-81366
@@ -6684,31 +6684,6 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
             <tessellate>1</tessellate>
             <coordinates>-121.530008,51.193565,0 -121.531595,51.194995,0 -121.53177,51.195152,0 -121.533012,51.196191,0 -121.534261,51.197401,0 -121.534476,51.197686,0 -121.534834,51.198264,0 -121.534998,51.19873,0 -121.535138,51.199548,0 -121.535214,51.199997,0 -121.535272,51.200342,0 -121.535344,51.200884,0 -121.535831,51.203715,0 -121.535847,51.204046,0 -121.53591,51.204349,0 -121.535947,51.204664,0 -121.535945,51.204688,0 -121.535911,51.205453,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Railway St and Second Narrows Bridge (North Vancouver - District). Right lane is blocked. Expect delays. Next update time Tue Sep 9 at 5:30 PM PDT. Last updated Tue Sep 9 at 4:56 PM PDT. (DBC-81370)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Railway St and Second Narrows Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T16:56:20-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-09T17:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81370
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.026492,49.301192,0</coordinates>
-          </Point>
         </Placemark>
       </Folder>
       <Folder>
