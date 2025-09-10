@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-10 11:02:19 UTC
+        Last updated: 2025-09-10 11:31:34 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (270)</name>
+      <name>🚗 Traffic Events (271)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -276,6 +276,32 @@ Watch for crews and equipment working. Last updated Mon Sep 8 at 5:59 AM PDT. (D
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-128.076699,55.095831,0 -128.076653,55.095933,0 -128.076615,55.096017,0 -128.076541,55.096181,0 -128.076472,55.096333,0 -128.076407,55.096478,0 -128.076328,55.096653,0 -128.076282,55.096766,0 -128.076095,55.097225,0 -128.075573,55.098503,0 -128.075511,55.098656,0 -128.075474,55.098746,0 -128.07547,55.098755,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Bridge maintenance planned between Yahk-Meadow Creek Rd and Ryan Station Rd for 0.5 km (7 to 8 km east of Yahk). Starting Wed Sep 10 at 7:30 AM MST until Wed Sep 10 at 4:30 PM MST. Single lane alternating traffic will be in effect. Expect delays. Last updated Wed Sep 10 at 4:20 AM MST. (DBC-81383)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Yahk-Meadow Creek Rd and Ryan Station Rd for 0.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 8 to 7 km east of Yahk&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T04:20:31-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81383
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.026909,49.13951,0 -116.026741,49.139676,0 -116.02625,49.14016,0 -116.026164,49.140246,0 -116.025849,49.140561,0 -116.025726,49.140683,0 -116.02439,49.142037,0 -116.024162,49.142267,0 -116.023951,49.142481,0 -116.023194,49.143248,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
