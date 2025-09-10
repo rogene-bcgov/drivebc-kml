@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-10 17:02:34 UTC
+        Last updated: 2025-09-10 17:32:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (288)</name>
+      <name>🚗 Traffic Events (290)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4356,6 +4356,57 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations planned at Exit 29: Willingdon Ave (Burnaby). Starting Wed Sep 10 at 10:00 PM PDT until Thu Sep 11 at 6:00 AM PDT. Exit ramp will be closed. Entrance ramp will be closed. Emergency vehicles will have access to the closed ramps. Next update time Thu Sep 11 at 6:00 AM PDT. Last updated Wed Sep 10 at 10:18 AM PDT. (DBC-81406)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 29: Willingdon Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T10:18:33-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-11T06:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81406
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.003967,49.257525,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Utility work planned between Fernie Ski Hill Rd and Mt Fernie Park Rd for 3.0 km (4 to 1 km west of Fernie). Starting Wed Sep 17 at 8:00 AM MDT until Wed Sep 17 at 6:00 PM MDT. Shoulder will be closed. Last updated Wed Sep 10 at 11:27 AM MDT. (DBC-81407)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Fernie Ski Hill Rd and Mt Fernie Park Rd for 3.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 to 4 km west of Fernie&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T10:27:53-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81407
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.072554,49.46126,0 -115.072634,49.46149,0 -115.073349,49.463504,0 -115.07357,49.464061,0 -115.073692,49.464367,0 -115.074313,49.465923,0 -115.074346,49.466006,0 -115.074627,49.466709,0 -115.075572,49.469074,0 -115.075756,49.469771,0 -115.075772,49.470025,0 -115.075794,49.470381,0 -115.075755,49.470567,0 -115.075726,49.470699,0 -115.075701,49.470817,0 -115.075501,49.471433,0 -115.075165,49.471958,0 -115.073781,49.473806,0 -115.073462,49.474218,0 -115.072949,49.47488,0 -115.072675,49.475494,0 -115.072522,49.476136,0 -115.072515,49.476166,0 -115.072532,49.476745,0 -115.072704,49.477387,0 -115.072808,49.477619,0 -115.07285,49.477712,0 -115.073545,49.478828,0 -115.073677,49.479042,0 -115.073971,49.479515,0 -115.074247,49.479959,0 -115.074345,49.480116,0 -115.074461,49.480303,0 -115.07511,49.481346,0 -115.076048,49.482842,0 -115.07697,49.484311,0 -115.07823,49.486318,0 -115.078362,49.48653,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Road sweeping between Thompson River Dr and Sabiston Creek Rd for 7.5 km (33 to 25 km east of Cache Creek). Until Wed Sep 10 at 4:00 PM PDT. Single lane alternating traffic. Expect minor delays. SWEEPING CRB AND CURBS. Last updated Wed Sep 10 at 6:36 AM PDT. (DBC-81385)</name>
           <description>
     &lt;![CDATA[
@@ -4666,31 +4717,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned at Exit 29: Willingdon Ave (Burnaby). Starting Wed Sep 10 at 10:00 PM PDT until Thu Sep 11 at 6:00 AM PDT. Exit ramp will be closed. Please note that Emergency Vehicles will not have access to the closed ramps. Next update time Thu Sep 11 at 6:00 AM PDT. Last updated Mon Sep 8 at 9:06 PM PDT. (DBC-81331)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 29: Willingdon Ave&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-08T21:06:15-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-11T06:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81331
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.003967,49.257525,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 23, in both directions. Electrical maintenance planned between 5 Mile Boat Launch and St. Cyr Bridge for 5.1 km (1 to 6 km north of Revelstoke). Starting Mon Sep 29 until Fri Oct 3. From 8:00 AM to 4:00 PM PDT on weekdays. Road will be closed intermittently. Last updated Fri Aug 29 at 3:33 PM PDT. (DBC-81033)</name>
           <description>
     &lt;![CDATA[
@@ -4715,6 +4741,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-118.173861,51.071884,0 -118.173563,51.07278,0 -118.172994,51.074484,0 -118.172457,51.076097,0 -118.172335,51.076622,0 -118.172318,51.077251,0 -118.172631,51.079651,0 -118.172856,51.080425,0 -118.173238,51.081301,0 -118.173664,51.081986,0 -118.173731,51.082093,0 -118.174446,51.082989,0 -118.174757,51.083429,0 -118.174926,51.083831,0 -118.175013,51.084273,0 -118.175009,51.085332,0 -118.175092,51.085959,0 -118.175496,51.087083,0 -118.175505,51.087111,0 -118.175668,51.087564,0 -118.175701,51.088012,0 -118.175598,51.088422,0 -118.175342,51.088842,0 -118.174344,51.089851,0 -118.17412,51.090161,0 -118.173976,51.090548,0 -118.173975,51.090946,0 -118.174026,51.09108,0 -118.174131,51.091358,0 -118.174463,51.091766,0 -118.174657,51.091938,0 -118.175567,51.092673,0 -118.175917,51.093092,0 -118.17683,51.094984,0 -118.177385,51.096133,0 -118.179023,51.099523,0 -118.179232,51.100014,0 -118.179384,51.100371,0 -118.179551,51.101198,0 -118.179651,51.102589,0 -118.179761,51.104119,0 -118.179927,51.104663,0 -118.180134,51.105089,0 -118.181106,51.106415,0 -118.182931,51.109669,0 -118.183069,51.110108,0 -118.183108,51.110522,0 -118.183055,51.111311,0 -118.183091,51.111668,0 -118.183221,51.112099,0 -118.183378,51.112406,0 -118.184167,51.113643,0 -118.184333,51.114152,0 -118.18436,51.114651,0 -118.184278,51.115223,0 -118.18426,51.115282,0 -118.184067,51.115926,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned at Exit 29: Willingdon Ave (Burnaby). Starting Thu Sep 11 at 10:00 PM PDT until Fri Sep 12 at 6:00 AM PDT. Exit ramp will be closed. Please note that Emergency Vehicles will not have access to the closed ramps. Next update time Fri Sep 12 at 6:00 AM PDT. Last updated Wed Sep 10 at 10:09 AM PDT. (DBC-81331)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 29: Willingdon Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T10:09:48-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-12T06:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81331
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.003967,49.257525,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 19 (Island Highway), southbound. Utility work between Orange Point Rd and McDonald Rd for 0.4 km (Campbell River). Until Fri Sep 12 at 4:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Last updated Thu Aug 28 at 10:59 AM PDT. (DBC-80985)</name>
@@ -7077,20 +7128,20 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 91, in both directions. Vehicle fire at Alex Fraser Bridge (Delta). Two left lanes blocked. Expect delays due to congestion. Next update time Wed Sep 10 at 10:00 AM PDT. Last updated Wed Sep 10 at 8:58 AM PDT. (DBC-81398)</name>
+          <name>Highway 91, northbound. Vehicle fire at Alex Fraser Bridge (Delta). Two left lanes blocked. Expect delays due to congestion. Next update time Wed Sep 10 at 11:00 AM PDT. Last updated Wed Sep 10 at 10:21 AM PDT. (DBC-81398)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
     &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T08:58:36-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-10T10:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T10:21:36-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-10T11:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-81398
