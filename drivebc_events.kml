@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-10 21:31:29 UTC
+        Last updated: 2025-09-10 22:02:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (293)</name>
+      <name>🚗 Traffic Events (290)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -431,6 +431,31 @@ Watch for crews and equipment working. Last updated Mon Sep 8 at 5:59 AM PDT. (D
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 3/5A, in both directions. Road construction work planned between Vermillion Ave and Old Headly Rd. Starting Thu Sep 18 at 6:00 PM PDT until Fri Sep 19 at 6:00 AM PDT. Single lane alternating traffic will be in effect. Bridge St will be closed between Hwy 3 and Tapton Ave. Last updated Wed Sep 10 at 2:35 PM PDT. (DBC-81421)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3/5A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Vermillion Ave and Old Headly Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T14:35:15-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81421
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.505334,49.458146,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 17 (Patricia Bay Highway), in both directions. Utility work planned between Exit 15: Sayward Rd and Gliddon Rd for 2.1 km (Central Saanich to Saanich). Starting Thu Sep 11 until Fri Sep 12. From 9:00 PM to 6:00 AM PDT on Thursday and Friday. Last updated Tue Sep 2 at 10:05 AM PDT. (DBC-81096)</name>
           <description>
     &lt;![CDATA[
@@ -737,6 +762,32 @@ Watch for crews and equipment working. Last updated Mon Sep 8 at 5:59 AM PDT. (D
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.162655,52.640627,0 -119.166195,52.644255,0 -119.166329,52.644374,0 -119.166699,52.644703,0 -119.167321,52.645167,0 -119.167995,52.645607,0 -119.170583,52.647097,0 -119.178939,52.651903,0 -119.179776,52.65235,0 -119.180571,52.652704,0 -119.181463,52.653052,0 -119.182417,52.653348,0 -119.185135,52.654097,0 -119.186077,52.654377,0 -119.186734,52.654613,0 -119.191536,52.656722,0 -119.193544,52.657584,0 -119.193949,52.657757,0 -119.194222,52.65789,0 -119.195089,52.658313,0 -119.195906,52.658765,0 -119.196498,52.659173,0 -119.197185,52.659717,0 -119.197322,52.659825,0 -119.19811,52.660621,0 -119.198674,52.661377,0 -119.199176,52.662182,0 -119.199982,52.663476,0 -119.201919,52.666583,0 -119.201938,52.666614,0 -119.202053,52.666798,0 -119.20266,52.667546,0 -119.204036,52.66886,0 -119.205755,52.670431,0 -119.207783,52.672285,0 -119.208314,52.67277,0 -119.20879,52.673166,0 -119.209842,52.673902,0 -119.210701,52.674421,0 -119.211516,52.674842,0 -119.213556,52.675729,0 -119.215433,52.676311,0 -119.216717,52.676613,0 -119.217657,52.676787,0 -119.220933,52.67727,0 -119.222834,52.677653,0 -119.22438,52.67806,0 -119.226062,52.678608,0 -119.226138,52.678639,0 -119.227344,52.679115,0 -119.228674,52.679735,0 -119.229878,52.68039,0 -119.231054,52.681159,0 -119.231823,52.681751,0 -119.231978,52.68187,0 -119.232874,52.68268,0 -119.233268,52.683036,0 -119.242412,52.691936,0 -119.243227,52.692605,0 -119.244112,52.693239,0 -119.248858,52.696025,0 -119.249473,52.696481,0 -119.250439,52.697278,0 -119.250961,52.697826,0 -119.251416,52.698303,0 -119.252005,52.699098,0 -119.25411,52.702374,0 -119.255444,52.70445,0 -119.260365,52.712106,0 -119.261166,52.713352,0 -119.261863,52.714436,0 -119.264623,52.718728,0 -119.266066,52.720971,0 -119.26746,52.723249,0 -119.267785,52.723987,0 -119.267992,52.724694,0 -119.268159,52.725598,0 -119.268194,52.726622,0 -119.267706,52.730605,0 -119.267636,52.731179,0 -119.267337,52.73361,0 -119.267315,52.733793,0 -119.266504,52.740401,0 -119.266172,52.743109,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, eastbound. Tree pruning planned between Monte Creek and Duck Range Rd for 4.4 km (5 to 1 km east of Monte Creek). Starting Tue Sep 23 at 8:00 AM PDT until Sat Sep 27 at 4:00 PM PDT. Right lane will be closed. Last updated Wed Sep 10 at 2:49 PM PDT. (DBC-81422)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Duck Range Rd and Monte Creek for 4.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 to 1 km east of Monte Creek&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T14:49:01-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81422
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.909611,50.621154,0 -119.912489,50.622734,0 -119.912682,50.622806,0 -119.913014,50.622929,0 -119.913618,50.623053,0 -119.914211,50.623081,0 -119.914367,50.623064,0 -119.915554,50.622933,0 -119.916239,50.622955,0 -119.91679,50.62305,0 -119.917317,50.623223,0 -119.917776,50.623465,0 -119.918131,50.623733,0 -119.918457,50.624151,0 -119.918688,50.624677,0 -119.918751,50.625132,0 -119.918569,50.625925,0 -119.918567,50.626222,0 -119.918747,50.626778,0 -119.91904,50.627365,0 -119.919208,50.627587,0 -119.919297,50.627705,0 -119.919599,50.627991,0 -119.919875,50.628186,0 -119.919997,50.628271,0 -119.920639,50.628617,0 -119.921128,50.62888,0 -119.921763,50.629222,0 -119.922709,50.629731,0 -119.923278,50.630027,0 -119.923594,50.630191,0 -119.924028,50.630416,0 -119.924191,50.630487,0 -119.924651,50.630688,0 -119.925089,50.630829,0 -119.925239,50.630877,0 -119.9253,50.630975,0 -119.929984,50.632017,0 -119.931346,50.632332,0 -119.935709,50.633334,0 -119.937009,50.63363,0 -119.947304,50.635971,0 -119.948342,50.636248,0 -119.94909,50.636539,0 -119.949192,50.636592,0 -119.949762,50.636886,0 -119.950418,50.637328,0 -119.950972,50.63785,0 -119.951339,50.638346,0 -119.95163,50.638931,0 -119.951763,50.639492,0 -119.951774,50.640043,0 -119.951664,50.64059,0 -119.951434,50.64111,0 -119.951138,50.641567,0 -119.950705,50.642041,0 -119.949925,50.642658,0 -119.949866,50.642705,0 -119.9498,50.642757,0 -119.949638,50.642898,0 -119.949064,50.643318,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3506,57 +3557,6 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Dollarton Hwy On-ramp, westbound. Maintenance between Highway 1 and Seymour Blvd in North Vancouver - District. Until Wed Sep 10 at 3:00 PM PDT. Right lane of entrance ramp closed. Pass with caution and watch for crews. Last updated Fri Aug 29 at 12:10 PM PDT. (DBC-81021)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Dollarton Hwy On-ramp&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Highway 1 and Seymour Blvd in North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T10:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81021
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.025855,49.306251,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 15 (Pacific Highway), northbound. Utility work between 20 Ave and 24 Ave for 0.8 km (Surrey). Until Wed Sep 10 at 3:00 PM PDT. Right lane is blocked. Last updated Fri Sep 5 at 7:47 PM PDT. (DBC-81251)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 20 Ave and 24 Ave for 0.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T09:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81251
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.7352,49.03846,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 97, northbound. Utility work at 100 Mile House. Until Sun Sep 21. From 7:00 AM to 5:00 PM PDT daily. Lane Closure. Slow down and obey all traffic control personnel and signage. Delays of 5 minutes. Last updated Thu Sep 4 at 8:35 AM PDT. (DBC-80883)</name>
           <description>
     &lt;![CDATA[
@@ -5000,32 +5000,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 9, in both directions. Mowing between Whelpton Rd and Park St for 2.3 km (Kent). Until Wed Sep 10 at 2:30 PM PDT. MOWING IS TAKING PLACE IN THE AGASSIZ AREA / HWY 9 / WATCH FOR THE MOWER / SHADOW UNIT MOWING THE SHOULDER / PLEASE SLOW DOWN WHEN PASSING THE WORKERS. Last updated Wed Sep 10 at 7:43 AM PDT. (DBC-81390)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 9&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Whelpton Rd and Park St for 2.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kent&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T07:43:34-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81390
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.773221,49.220031,0 -121.772111,49.221024,0 -121.770212,49.223661,0 -121.769958,49.224373,0 -121.769899,49.225013,0 -121.770333,49.225107,0 -121.77051,49.225206,0 -121.770649,49.225352,0 -121.7706,49.225517,0 -121.770181,49.22633,0 -121.770131,49.226687,0 -121.770142,49.227283,0 -121.770213,49.227976,0 -121.77021,49.228066,0 -121.770194,49.228591,0 -121.770005,49.229237,0 -121.769811,49.229566,0 -121.769369,49.230181,0 -121.769245,49.230305,0 -121.769052,49.230498,0 -121.767646,49.231491,0 -121.766735,49.232096,0 -121.765039,49.233329,0 -121.762288,49.235198,0 -121.761904,49.235459,0 -121.761713,49.235668,0 -121.761655,49.2358,0 -121.761594,49.238143,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Sylvester Road. Paving operations between Dale Road and Durieu Road. Until Mon Sep 15 at 7:00 PM PDT. From 7:00 AM to 7:00 PM PDT on weekdays and Saturday. Detour via Farms Road and Durieu Road. Next update time Mon Sep 15 at 7:00 PM PDT. Last updated Fri Aug 29 at 4:32 PM PDT. (DBC-81036)</name>
           <description>
     &lt;![CDATA[
@@ -5278,32 +5252,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-122.642787,49.103233,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3A, in both directions. Maintenance between Hemlock Rd and Seymour Rd for 1.1 km (4 to 6 km south of Kootenay Bay Ferry Landing). Until Wed Sep 10 at 3:00 PM PDT. Shoulder closed. Single lane alternating traffic. Straightening pole and adding anchor. Single lane alternating in use. Holds will not exceed 2 minutes in duration. Last updated Thu Sep 4 at 1:40 PM PDT. (DBC-81204)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Hemlock Rd and Seymour Rd for 1.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 4 km south of Kootenay Bay Ferry Landing&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T08:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81204
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.831244,49.68138,0 -116.830631,49.681664,0 -116.830167,49.681793,0 -116.829668,49.681841,0 -116.829454,49.681841,0 -116.82822,49.681837,0 -116.827845,49.681837,0 -116.825691,49.681822,0 -116.825176,49.6817,0 -116.824862,49.681514,0 -116.824645,49.681271,0 -116.824555,49.681086,0 -116.8246,49.679816,0 -116.824655,49.678467,0 -116.824713,49.677064,0 -116.824749,49.676174,0 -116.824755,49.676033,0 -116.824763,49.675832,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work between Stephenson Rd and Stage Rd for 0.2 km (Cache Creek). Until Wed Sep 10 at 4:00 PM PDT. Shoulder closed. Please watch for traffic control signage and personnel. Expect minor delays of up to five minutes. Last updated Tue Sep 2 at 10:52 AM PDT. (DBC-81101)</name>
@@ -6055,31 +6003,6 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 17, westbound. Utility work between Abbey Dr and 104 Ave (Surrey). Until Wed Sep 10 at 3:00 PM PDT. Shoulder closed. Watch for traffic control. Last updated Tue Sep 9 at 4:15 PM PDT. (DBC-81367)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 104 Ave and Abbey Dr&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T12:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81367
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.734274,49.188789,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3, eastbound. Electrical maintenance planned between Rock Creek-Bridesville Rd and Kettle Vly S Rd. Starting Tue Sep 16 at 7:00 AM PDT until Tue Sep 16 at 5:00 PM PDT. Single lane alternating traffic will be in effect. Speed reduced to 50km/hr. Last updated Tue Sep 9 at 4:23 PM PDT. (DBC-81368)</name>
           <description>
     &lt;![CDATA[
@@ -6825,6 +6748,32 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 37A, in both directions. Watch for falling rocks between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km (13 km west of Meziadin to 11 km east of Stewart). Last updated Wed Sep 10 at 2:59 PM PDT. (DBC-74957)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 37A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 km east of Stewart to 13 km west of Meziadin&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T14:59:02-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-74957
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-129.903411,56.037219,0 -129.902711,56.037743,0 -129.902244,56.038399,0 -129.902195,56.038651,0 -129.902111,56.03909,0 -129.902246,56.039635,0 -129.902522,56.040048,0 -129.903071,56.040565,0 -129.903807,56.041009,0 -129.908472,56.04312,0 -129.917429,56.047172,0 -129.918175,56.047643,0 -129.918906,56.04841,0 -129.919193,56.049108,0 -129.919212,56.049641,0 -129.918585,56.051285,0 -129.918418,56.05188,0 -129.918367,56.052664,0 -129.918392,56.053687,0 -129.918948,56.055881,0 -129.919039,56.0565,0 -129.918621,56.059005,0 -129.917701,56.061677,0 -129.917452,56.062088,0 -129.916558,56.063135,0 -129.915824,56.063693,0 -129.913761,56.06489,0 -129.913131,56.065138,0 -129.912478,56.06523,0 -129.911825,56.06523,0 -129.910979,56.06507,0 -129.910328,56.064841,0 -129.909736,56.064525,0 -129.908936,56.063971,0 -129.908242,56.063716,0 -129.907633,56.063594,0 -129.906984,56.063528,0 -129.906294,56.06356,0 -129.905616,56.063694,0 -129.904978,56.06392,0 -129.904468,56.064258,0 -129.903431,56.065387,0 -129.902922,56.06578,0 -129.901663,56.066574,0 -129.897272,56.070611,0 -129.896777,56.07122,0 -129.89636,56.071893,0 -129.896088,56.072484,0 -129.894657,56.077491,0 -129.894666,56.079541,0 -129.893982,56.081653,0 -129.892292,56.084442,0 -129.891741,56.085013,0 -129.889883,56.086351,0 -129.888964,56.086922,0 -129.887451,56.087785,0 -129.886819,56.088228,0 -129.884475,56.091043,0 -129.88412,56.091502,0 -129.884072,56.091565,0 -129.883947,56.091727,0 -129.88381,56.091903,0 -129.883411,56.09242,0 -129.881704,56.095075,0 -129.8809,56.096138,0 -129.880672,56.096423,0 -129.880389,56.096679,0 -129.879602,56.097391,0 -129.878645,56.098057,0 -129.877135,56.098998,0 -129.876808,56.099202,0 -129.875557,56.099983,0 -129.873707,56.101137,0 -129.872752,56.10195,0 -129.870836,56.103839,0 -129.870019,56.10449,0 -129.86911,56.105013,0 -129.865554,56.106483,0 -129.86474,56.106685,0 -129.863905,56.106812,0 -129.862774,56.106952,0 -129.862609,56.106972,0 -129.86068,56.107154,0 -129.857912,56.107458,0 -129.856811,56.107498,0 -129.855845,56.107534,0 -129.854246,56.10776,0 -129.852966,56.107792,0 -129.852082,56.107747,0 -129.850546,56.107625,0 -129.849946,56.107504,0 -129.849387,56.10739,0 -129.848258,56.107064,0 -129.847463,56.10692,0 -129.846573,56.106825,0 -129.843303,56.106974,0 -129.841051,56.106925,0 -129.84037,56.106972,0 -129.838664,56.107345,0 -129.837526,56.107509,0 -129.835508,56.107606,0 -129.834741,56.107683,0 -129.833807,56.107862,0 -129.833039,56.108095,0 -129.830763,56.109127,0 -129.829811,56.109559,0 -129.826871,56.110763,0 -129.82378,56.111744,0 -129.819852,56.11299,0 -129.818654,56.113315,0 -129.817595,56.113538,0 -129.807327,56.115153,0 -129.804017,56.115674,0 -129.803648,56.11571,0 -129.802943,56.115778,0 -129.799994,56.115796,0 -129.799653,56.115798,0 -129.796645,56.115893,0 -129.795592,56.116023,0 -129.79439,56.116322,0 -129.791197,56.117466,0 -129.790528,56.117635,0 -129.79015,56.1177,0 -129.789996,56.117727,0 -129.789799,56.11775,0 -129.789469,56.117789,0 -129.78889,56.117806,0 -129.784792,56.117725,0 -129.783695,56.117651,0 -129.782863,56.117575,0 -129.778479,56.117171,0 -129.773022,56.116741,0 -129.770903,56.116753,0 -129.769343,56.116655,0 -129.768661,56.116532,0 -129.766859,56.116207,0 -129.76606,56.116135,0 -129.764913,56.116147,0 -129.755953,56.117071,0 -129.754977,56.117092,0 -129.753882,56.117047,0 -129.752398,56.11696,0 -129.748449,56.116728,0 -129.743684,56.116628,0 -129.741939,56.11669,0 -129.740131,56.116842,0 -129.738622,56.117042,0 -129.738258,56.11709,0 -129.73584,56.117484,0 -129.734794,56.117654,0 -129.733231,56.117843,0 -129.732294,56.117916,0 -129.73223,56.117916,0 -129.731076,56.117921,0 -129.730559,56.117892,0 -129.729887,56.117854,0 -129.729187,56.117747,0 -129.72904,56.117725,0 -129.728824,56.117692,0 -129.728804,56.117689,0 -129.727717,56.117472,0 -129.726781,56.117385,0 -129.724291,56.117372,0 -129.722206,56.117362,0 -129.721779,56.117333,0 -129.721272,56.117299,0 -129.72039,56.117169,0 -129.713668,56.116174,0 -129.709309,56.115529,0 -129.706028,56.115044,0 -129.700541,56.11431,0 -129.69249,56.113109,0 -129.692003,56.11301,0 -129.6902,56.112643,0 -129.690113,56.11262,0 -129.688581,56.112213,0 -129.68713,56.111738,0 -129.687041,56.111709,0 -129.684525,56.11079,0 -129.68116,56.109828,0 -129.681139,56.109821,0 -129.679202,56.109241,0 -129.677247,56.108615,0 -129.674927,56.107872,0 -129.671071,56.106637,0 -129.670131,56.106336,0 -129.669495,56.106178,0 -129.668802,56.106094,0 -129.665649,56.10581,0 -129.663846,56.105672,0 -129.661414,56.105403,0 -129.658875,56.104987,0 -129.657095,56.104725,0 -129.656774,56.104678,0 -129.653704,56.104611,0 -129.653629,56.104607,0 -129.651711,56.104506,0 -129.647982,56.104652,0 -129.646695,56.104615,0 -129.643534,56.104273,0 -129.640354,56.104122,0 -129.638107,56.104015,0 -129.637559,56.104007,0 -129.636835,56.103996,0 -129.630998,56.103909,0 -129.630298,56.103899,0 -129.627083,56.10385,0 -129.626385,56.103885,0 -129.62616,56.103896,0 -129.625889,56.103928,0 -129.624062,56.104143,0 -129.623092,56.104202,0 -129.620772,56.104062,0 -129.618252,56.103841,0 -129.617454,56.103726,0 -129.616879,56.103643,0 -129.614558,56.103168,0 -129.614019,56.103058,0 -129.612963,56.102942,0 -129.612095,56.10292,0 -129.611323,56.102945,0 -129.611197,56.102949,0 -129.611058,56.102968,0 -129.610883,56.102991,0 -129.607792,56.103403,0 -129.60587,56.103542,0 -129.601144,56.103613,0 -129.599996,56.10367,0 -129.599628,56.103688,0 -129.596092,56.103958,0 -129.59598,56.103967,0 -129.595899,56.103973,0 -129.595579,56.103998,0 -129.589636,56.104453,0 -129.58735,56.104628,0 -129.585714,56.104667,0 -129.578125,56.10443,0 -129.577835,56.104421,0 -129.577798,56.10442,0 -129.577661,56.104422,0 -129.576608,56.104439,0 -129.576464,56.104452,0 -129.576062,56.104488,0 -129.575817,56.10451,0 -129.575789,56.104513,0 -129.574714,56.104665,0 -129.572926,56.105028,0 -129.572142,56.105187,0 -129.570715,56.105476,0 -129.570657,56.105485,0 -129.570197,56.105554,0 -129.569323,56.105684,0 -129.568062,56.105798,0 -129.568035,56.105801,0 -129.566414,56.105864,0 -129.564744,56.105793,0 -129.563454,56.105739,0 -129.560895,56.10563,0 -129.560735,56.105623,0 -129.560527,56.105614,0 -129.556974,56.105463,0 -129.556247,56.105432,0 -129.555538,56.105402,0 -129.553598,56.10532,0 -129.550982,56.105221,0 -129.545916,56.105029,0 -129.54164,56.104866,0 -129.535978,56.104651,0 -129.5348,56.104607,0 -129.532596,56.104523,0 -129.531781,56.104487,0 -129.530484,56.104378,0 -129.529806,56.104319,0 -129.52821,56.104179,0 -129.527562,56.104122,0 -129.525863,56.103973,0 -129.52561,56.103938,0 -129.524695,56.103809,0 -129.522079,56.103182,0 -129.521862,56.10313,0 -129.52067,56.102844,0 -129.519471,56.102556,0 -129.518853,56.102339,0 -129.518708,56.102288,0 -129.51774,56.101873,0 -129.515518,56.101086,0 -129.515131,56.100948,0 -129.512755,56.100106,0 -129.51248,56.100009,0 -129.51237,56.09997,0 -129.511804,56.099823,0 -129.511371,56.09971,0 -129.508892,56.099314,0 -129.507859,56.099029,0 -129.506954,56.098648,0 -129.506257,56.098212,0 -129.505303,56.097133,0 -129.505012,56.096905,0 -129.504701,56.096662,0 -129.504105,56.096351,0 -129.503413,56.096095,0 -129.50271,56.095945,0 -129.500617,56.095798,0 -129.499657,56.095648,0 -129.498771,56.095354,0 -129.497562,56.094807,0 -129.496361,56.094118,0 -129.494202,56.093505,0 -129.493449,56.093292,0 -129.492968,56.093063,0 -129.491814,56.092516,0 -129.491472,56.092354,0 -129.490862,56.09212,0 -129.490284,56.091963,0 -129.489525,56.091852,0 -129.488539,56.091827,0 -129.482921,56.092155,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Barnston Island Ferry, in both directions. Possible ferry delays at Barnston Island Ferry (Surrey). Until Fri Sep 12 at 4:00 PM PDT. Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Last updated Fri Sep 5 at 8:44 AM PDT. (DBC-80223)</name>
           <description>
     &lt;![CDATA[
@@ -6975,32 +6924,6 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 37A, in both directions. Watch for falling rocks between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km (13 km west of Meziadin to 11 km east of Stewart). Last updated Wed Sep 10 at 1:23 AM PDT. (DBC-74957)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 37A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 km east of Stewart to 13 km west of Meziadin&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T01:23:50-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-74957
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-129.903411,56.037219,0 -129.902711,56.037743,0 -129.902244,56.038399,0 -129.902195,56.038651,0 -129.902111,56.03909,0 -129.902246,56.039635,0 -129.902522,56.040048,0 -129.903071,56.040565,0 -129.903807,56.041009,0 -129.908472,56.04312,0 -129.917429,56.047172,0 -129.918175,56.047643,0 -129.918906,56.04841,0 -129.919193,56.049108,0 -129.919212,56.049641,0 -129.918585,56.051285,0 -129.918418,56.05188,0 -129.918367,56.052664,0 -129.918392,56.053687,0 -129.918948,56.055881,0 -129.919039,56.0565,0 -129.918621,56.059005,0 -129.917701,56.061677,0 -129.917452,56.062088,0 -129.916558,56.063135,0 -129.915824,56.063693,0 -129.913761,56.06489,0 -129.913131,56.065138,0 -129.912478,56.06523,0 -129.911825,56.06523,0 -129.910979,56.06507,0 -129.910328,56.064841,0 -129.909736,56.064525,0 -129.908936,56.063971,0 -129.908242,56.063716,0 -129.907633,56.063594,0 -129.906984,56.063528,0 -129.906294,56.06356,0 -129.905616,56.063694,0 -129.904978,56.06392,0 -129.904468,56.064258,0 -129.903431,56.065387,0 -129.902922,56.06578,0 -129.901663,56.066574,0 -129.897272,56.070611,0 -129.896777,56.07122,0 -129.89636,56.071893,0 -129.896088,56.072484,0 -129.894657,56.077491,0 -129.894666,56.079541,0 -129.893982,56.081653,0 -129.892292,56.084442,0 -129.891741,56.085013,0 -129.889883,56.086351,0 -129.888964,56.086922,0 -129.887451,56.087785,0 -129.886819,56.088228,0 -129.884475,56.091043,0 -129.88412,56.091502,0 -129.884072,56.091565,0 -129.883947,56.091727,0 -129.88381,56.091903,0 -129.883411,56.09242,0 -129.881704,56.095075,0 -129.8809,56.096138,0 -129.880672,56.096423,0 -129.880389,56.096679,0 -129.879602,56.097391,0 -129.878645,56.098057,0 -129.877135,56.098998,0 -129.876808,56.099202,0 -129.875557,56.099983,0 -129.873707,56.101137,0 -129.872752,56.10195,0 -129.870836,56.103839,0 -129.870019,56.10449,0 -129.86911,56.105013,0 -129.865554,56.106483,0 -129.86474,56.106685,0 -129.863905,56.106812,0 -129.862774,56.106952,0 -129.862609,56.106972,0 -129.86068,56.107154,0 -129.857912,56.107458,0 -129.856811,56.107498,0 -129.855845,56.107534,0 -129.854246,56.10776,0 -129.852966,56.107792,0 -129.852082,56.107747,0 -129.850546,56.107625,0 -129.849946,56.107504,0 -129.849387,56.10739,0 -129.848258,56.107064,0 -129.847463,56.10692,0 -129.846573,56.106825,0 -129.843303,56.106974,0 -129.841051,56.106925,0 -129.84037,56.106972,0 -129.838664,56.107345,0 -129.837526,56.107509,0 -129.835508,56.107606,0 -129.834741,56.107683,0 -129.833807,56.107862,0 -129.833039,56.108095,0 -129.830763,56.109127,0 -129.829811,56.109559,0 -129.826871,56.110763,0 -129.82378,56.111744,0 -129.819852,56.11299,0 -129.818654,56.113315,0 -129.817595,56.113538,0 -129.807327,56.115153,0 -129.804017,56.115674,0 -129.803648,56.11571,0 -129.802943,56.115778,0 -129.799994,56.115796,0 -129.799653,56.115798,0 -129.796645,56.115893,0 -129.795592,56.116023,0 -129.79439,56.116322,0 -129.791197,56.117466,0 -129.790528,56.117635,0 -129.79015,56.1177,0 -129.789996,56.117727,0 -129.789799,56.11775,0 -129.789469,56.117789,0 -129.78889,56.117806,0 -129.784792,56.117725,0 -129.783695,56.117651,0 -129.782863,56.117575,0 -129.778479,56.117171,0 -129.773022,56.116741,0 -129.770903,56.116753,0 -129.769343,56.116655,0 -129.768661,56.116532,0 -129.766859,56.116207,0 -129.76606,56.116135,0 -129.764913,56.116147,0 -129.755953,56.117071,0 -129.754977,56.117092,0 -129.753882,56.117047,0 -129.752398,56.11696,0 -129.748449,56.116728,0 -129.743684,56.116628,0 -129.741939,56.11669,0 -129.740131,56.116842,0 -129.738622,56.117042,0 -129.738258,56.11709,0 -129.73584,56.117484,0 -129.734794,56.117654,0 -129.733231,56.117843,0 -129.732294,56.117916,0 -129.73223,56.117916,0 -129.731076,56.117921,0 -129.730559,56.117892,0 -129.729887,56.117854,0 -129.729187,56.117747,0 -129.72904,56.117725,0 -129.728824,56.117692,0 -129.728804,56.117689,0 -129.727717,56.117472,0 -129.726781,56.117385,0 -129.724291,56.117372,0 -129.722206,56.117362,0 -129.721779,56.117333,0 -129.721272,56.117299,0 -129.72039,56.117169,0 -129.713668,56.116174,0 -129.709309,56.115529,0 -129.706028,56.115044,0 -129.700541,56.11431,0 -129.69249,56.113109,0 -129.692003,56.11301,0 -129.6902,56.112643,0 -129.690113,56.11262,0 -129.688581,56.112213,0 -129.68713,56.111738,0 -129.687041,56.111709,0 -129.684525,56.11079,0 -129.68116,56.109828,0 -129.681139,56.109821,0 -129.679202,56.109241,0 -129.677247,56.108615,0 -129.674927,56.107872,0 -129.671071,56.106637,0 -129.670131,56.106336,0 -129.669495,56.106178,0 -129.668802,56.106094,0 -129.665649,56.10581,0 -129.663846,56.105672,0 -129.661414,56.105403,0 -129.658875,56.104987,0 -129.657095,56.104725,0 -129.656774,56.104678,0 -129.653704,56.104611,0 -129.653629,56.104607,0 -129.651711,56.104506,0 -129.647982,56.104652,0 -129.646695,56.104615,0 -129.643534,56.104273,0 -129.640354,56.104122,0 -129.638107,56.104015,0 -129.637559,56.104007,0 -129.636835,56.103996,0 -129.630998,56.103909,0 -129.630298,56.103899,0 -129.627083,56.10385,0 -129.626385,56.103885,0 -129.62616,56.103896,0 -129.625889,56.103928,0 -129.624062,56.104143,0 -129.623092,56.104202,0 -129.620772,56.104062,0 -129.618252,56.103841,0 -129.617454,56.103726,0 -129.616879,56.103643,0 -129.614558,56.103168,0 -129.614019,56.103058,0 -129.612963,56.102942,0 -129.612095,56.10292,0 -129.611323,56.102945,0 -129.611197,56.102949,0 -129.611058,56.102968,0 -129.610883,56.102991,0 -129.607792,56.103403,0 -129.60587,56.103542,0 -129.601144,56.103613,0 -129.599996,56.10367,0 -129.599628,56.103688,0 -129.596092,56.103958,0 -129.59598,56.103967,0 -129.595899,56.103973,0 -129.595579,56.103998,0 -129.589636,56.104453,0 -129.58735,56.104628,0 -129.585714,56.104667,0 -129.578125,56.10443,0 -129.577835,56.104421,0 -129.577798,56.10442,0 -129.577661,56.104422,0 -129.576608,56.104439,0 -129.576464,56.104452,0 -129.576062,56.104488,0 -129.575817,56.10451,0 -129.575789,56.104513,0 -129.574714,56.104665,0 -129.572926,56.105028,0 -129.572142,56.105187,0 -129.570715,56.105476,0 -129.570657,56.105485,0 -129.570197,56.105554,0 -129.569323,56.105684,0 -129.568062,56.105798,0 -129.568035,56.105801,0 -129.566414,56.105864,0 -129.564744,56.105793,0 -129.563454,56.105739,0 -129.560895,56.10563,0 -129.560735,56.105623,0 -129.560527,56.105614,0 -129.556974,56.105463,0 -129.556247,56.105432,0 -129.555538,56.105402,0 -129.553598,56.10532,0 -129.550982,56.105221,0 -129.545916,56.105029,0 -129.54164,56.104866,0 -129.535978,56.104651,0 -129.5348,56.104607,0 -129.532596,56.104523,0 -129.531781,56.104487,0 -129.530484,56.104378,0 -129.529806,56.104319,0 -129.52821,56.104179,0 -129.527562,56.104122,0 -129.525863,56.103973,0 -129.52561,56.103938,0 -129.524695,56.103809,0 -129.522079,56.103182,0 -129.521862,56.10313,0 -129.52067,56.102844,0 -129.519471,56.102556,0 -129.518853,56.102339,0 -129.518708,56.102288,0 -129.51774,56.101873,0 -129.515518,56.101086,0 -129.515131,56.100948,0 -129.512755,56.100106,0 -129.51248,56.100009,0 -129.51237,56.09997,0 -129.511804,56.099823,0 -129.511371,56.09971,0 -129.508892,56.099314,0 -129.507859,56.099029,0 -129.506954,56.098648,0 -129.506257,56.098212,0 -129.505303,56.097133,0 -129.505012,56.096905,0 -129.504701,56.096662,0 -129.504105,56.096351,0 -129.503413,56.096095,0 -129.50271,56.095945,0 -129.500617,56.095798,0 -129.499657,56.095648,0 -129.498771,56.095354,0 -129.497562,56.094807,0 -129.496361,56.094118,0 -129.494202,56.093505,0 -129.493449,56.093292,0 -129.492968,56.093063,0 -129.491814,56.092516,0 -129.491472,56.092354,0 -129.490862,56.09212,0 -129.490284,56.091963,0 -129.489525,56.091852,0 -129.488539,56.091827,0 -129.482921,56.092155,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Douglas Lake Road, in both directions. Mudslide at 16km marker 17 km west of Falkland. Road closed. Assessment in progress. Next update time Thu Sep 11 at 12:00 PM PDT. Last updated Wed Sep 10 at 2:25 PM PDT. (DBC-81377)</name>
           <description>
     &lt;![CDATA[
@@ -7026,7 +6949,7 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39 km east of Tatla Lake to 6 km west of Anahim Lake). Last updated Wed Sep 10 at 1:24 AM PDT. (DBC-78509)</name>
+          <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39 km east of Tatla Lake to 6 km west of Anahim Lake). Last updated Wed Sep 10 at 2:58 PM PDT. (DBC-78509)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7038,7 +6961,7 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
     &lt;b&gt;Location:&lt;/b&gt; Between Elsey Rd and Chipman Rd for 143.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 km west of Anahim Lake to 39 km east of Tatla Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T01:24:06-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T14:58:25-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7257,7 +7180,7 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector), southbound. Vehicle incident between Meadow Lake Rd and Chasm Rd for 1.4 km (13 km north of Clinton to 14 km south of 70 Mile House). Single lane alternating traffic. Last updated Wed Sep 10 at 1:24 AM PDT. (DBC-81066)</name>
+          <name>Highway 97 (Cariboo Connector), southbound. Vehicle incident between Meadow Lake Rd and Chasm Rd for 1.4 km (13 km north of Clinton to 14 km south of 70 Mile House). Single lane alternating traffic. Last updated Wed Sep 10 at 2:58 PM PDT. (DBC-81066)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7269,7 +7192,7 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
     &lt;b&gt;Location:&lt;/b&gt; Between Chasm Rd and Meadow Lake Rd for 1.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km north of Clinton to 14 km south of 70 Mile House&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T01:24:15-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T14:58:14-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7336,7 +7259,7 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 20. Limited visibility with smoke between the start of Highway 20 and the end of Highway 20 for 455.0 km (Bella Coola to Williams Lake). Last updated Wed Sep 10 at 11:05 AM PDT. (DBCRCON-223510)</name>
+          <name>Highway 20. Limited visibility with smoke between the start of Highway 20 and the end of Highway 20 for 455.0 km (Bella Coola to Williams Lake). Last updated Wed Sep 10 at 2:59 PM PDT. (DBCRCON-223510)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7348,7 +7271,7 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
     &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 20 and the end of Highway 20 for 455.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Williams Lake to Bella Coola&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T11:05:48-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T14:59:39-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
