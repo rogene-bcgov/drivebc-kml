@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-11 02:08:46 UTC
+        Last updated: 2025-09-11 02:50:42 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (279)</name>
+      <name>🚗 Traffic Events (280)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2862,6 +2862,31 @@ Lane Closure, yield to oncoming traffic in effect outside of working hours. Last
             <tessellate>1</tessellate>
             <coordinates>-122.735201,49.038475,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 2. Road maintenance work planned between Briar Ridge Rd and 52nd St (1 km south of Pouce Coupe). Starting Thu Sep 11 until Fri Sep 12. From 7:00 AM to 4:00 PM MST on Thursday and Friday. Single lane alternating traffic will be in effect. Last updated Wed Sep 10 at 7:08 PM MST. (DBC-81433)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 2&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Briar Ridge Rd and 52nd St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km south of Pouce Coupe&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T19:08:21-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81433
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.127522,55.714315,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector), northbound. Paving operations planned between Taylor Ave and First St for 0.3 km (100 Mile House). Starting Wed Sep 24 until Thu Sep 25. From 8:00 AM to 4:00 PM PDT on Wednesday and Thursday. Lane Closure. Last updated Wed Sep 10 at 9:02 AM PDT. (DBC-81401)</name>
