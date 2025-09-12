@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-12 06:38:53 UTC
+        Last updated: 2025-09-12 07:02:29 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (279)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -427,6 +427,32 @@
           <Point>
             <coordinates>-120.505334,49.458146,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Shoulder maintenance between 202 St and 216th St for 2.6 km (Langley - District). Until Fri Sep 12 at 5:00 AM PDT. Right lane closed. Last updated Thu Sep 11 at 11:52 PM PDT. (DBC-81480)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 202 St and 216th St for 2.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-11T23:52:27-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81480
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.660161,49.161656,0 -122.660107,49.161642,0 -122.659719,49.161538,0 -122.652524,49.159605,0 -122.645724,49.157779,0 -122.632377,49.154242,0 -122.624118,49.152054,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 13, in both directions. Construction work between 48 Ave and 56 Ave for 1.6 km (Langley - District). Until Tue Sep 30. From 7:00 AM to 7:00 PM PDT daily. Lane Closure. Watch for traffic control. Lane shift in place. Speed reduction to 40km/h. Last updated Mon Jul 28 at 9:11 AM PDT. (DBC-79797)</name>
@@ -3502,32 +3528,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance between Gushwa Rd and Morice River Rd for 2.2 km (Houston). Until Thu Sep 11. From 7:30 AM to 3:30 PM PDT on Tuesday, Wednesday and Thursday. Single lane alternating traffic. Watch for traffic control. Expect delays. Last updated Mon Sep 8 at 4:16 PM PDT. (DBC-81278)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Gushwa Rd and Morice River Rd for 2.2 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Houston&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81278
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-126.726015,54.405855,0 -126.724943,54.404326,0 -126.72276,54.401359,0 -126.722088,54.400676,0 -126.72093,54.39975,0 -126.720363,54.399325,0 -126.719566,54.398759,0 -126.719347,54.398592,0 -126.719141,54.398461,0 -126.718182,54.39785,0 -126.716834,54.397238,0 -126.716304,54.396965,0 -126.71603,54.396865,0 -126.715702,54.396745,0 -126.715472,54.396565,0 -126.7148,54.396041,0 -126.714521,54.3957,0 -126.714334,54.395371,0 -126.714035,54.394541,0 -126.713879,54.394109,0 -126.713814,54.393929,0 -126.713572,54.393264,0 -126.713351,54.392855,0 -126.713331,54.392819,0 -126.712969,54.392412,0 -126.712468,54.392025,0 -126.711903,54.391714,0 -126.711562,54.391578,0 -126.711363,54.391498,0 -126.710605,54.391296,0 -126.709772,54.391162,0 -126.708772,54.391119,0 -126.707682,54.391085,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 8. Construction work between the start of Highway 8 and 14 Mile Ranch Rd for 2.7 km (9 to 12 km east of Spences Bridge). Until Fri Nov 28. Single lane alternating traffic. SITE 9/10. 30-min closures between 10am and 2pm daily. Traffic flushed between closures. Emergency vehicles accommodated. Next update time Fri Nov 28 at 9:00 AM PDT. Last updated Mon Sep 8 at 8:00 AM PDT. (DBC-74796)</name>
           <description>
     &lt;![CDATA[
@@ -3860,31 +3860,6 @@
             <tessellate>1</tessellate>
             <coordinates>-121.26709,49.302321,0 -121.26704,49.301534,0 -121.267035,49.301512,0 -121.266943,49.301113,0 -121.266814,49.300731,0 -121.266566,49.300258,0 -121.266365,49.30001,0 -121.266114,49.299699,0 -121.265806,49.299367,0 -121.263913,49.29765,0 -121.261221,49.295103,0 -121.258183,49.29223,0 -121.256504,49.290658,0 -121.25584,49.290036,0 -121.253953,49.288269,0 -121.25037,49.284915,0 -121.249492,49.284092,0 -121.247911,49.282707,0 -121.246973,49.282017,0 -121.245932,49.281331,0 -121.245284,49.280942,0 -121.24511,49.280849,0 -121.243916,49.280218,0 -121.240523,49.278686,0 -121.23549,49.276414,0 -121.234878,49.276137,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway). Bridge maintenance between Crazy Ck. Bridge and Eagle River at Kay Falls Bridge (30 km east of Sicamous). Until Thu Sep 11. From 7:00 AM to 5:00 PM PDT on Tuesday, Wednesday and Thursday. Single lane alternating traffic. Bridge Inspection at Taft Overhead Bridge. Last updated Tue Sep 9 at 12:16 PM PDT. (DBC-81358)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Crazy Ck. Bridge and Eagle River at Kay Falls Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 30 km east of Sicamous&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T12:16:42-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81358
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-118.637377,50.990712,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97A, southbound. Road maintenance work planned between Hubert Ave and King Ave for 0.2 km (Enderby). Starting Mon Sep 15 at 9:00 AM PDT until Fri Oct 10 at 3:00 PM PDT. Possible delays. Last updated Thu Sep 11 at 3:05 PM PDT. (DBC-81470)</name>
@@ -5769,32 +5744,6 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97A. Maintenance between Hutchison Rd and Davidson Dr for 4.7 km (6 to 10 km south of Sicamous). Until Thu Sep 11. From 8:00 AM to 4:00 PM PDT on Wednesday and Thursday. Single lane alternating traffic. Last updated Tue Sep 2 at 10:13 AM PDT. (DBC-81099)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Hutchison Rd and Davidson Dr for 4.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 10 to 6 km south of Sicamous&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81099
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.031754,50.725348,0 -119.031721,50.725379,0 -119.031108,50.725825,0 -119.030747,50.726126,0 -119.030554,50.72638,0 -119.030381,50.726739,0 -119.030326,50.727093,0 -119.030291,50.728643,0 -119.030295,50.729431,0 -119.030301,50.730901,0 -119.030227,50.731341,0 -119.029953,50.731989,0 -119.029646,50.732431,0 -119.029513,50.732576,0 -119.02901,50.732986,0 -119.028323,50.733547,0 -119.026156,50.73575,0 -119.025841,50.736096,0 -119.025709,50.736241,0 -119.025418,50.736625,0 -119.025228,50.736874,0 -119.024746,50.737677,0 -119.024173,50.738632,0 -119.024028,50.739046,0 -119.024021,50.739111,0 -119.023951,50.739832,0 -119.023813,50.740191,0 -119.023309,50.741186,0 -119.023216,50.741618,0 -119.023217,50.741651,0 -119.023236,50.742201,0 -119.023491,50.7434,0 -119.02352,50.743504,0 -119.023629,50.743899,0 -119.024214,50.744997,0 -119.024268,50.745114,0 -119.024692,50.746038,0 -119.024781,50.746426,0 -119.024868,50.746807,0 -119.024871,50.747263,0 -119.024809,50.747782,0 -119.024556,50.748905,0 -119.024539,50.748979,0 -119.024572,50.749369,0 -119.0247,50.749639,0 -119.024944,50.749912,0 -119.025892,50.750669,0 -119.026025,50.750779,0 -119.026345,50.751133,0 -119.026594,50.751482,0 -119.026685,50.751759,0 -119.026551,50.753876,0 -119.026394,50.754304,0 -119.026196,50.754534,0 -119.025999,50.75469,0 -119.025354,50.75502,0 -119.025142,50.75519,0 -119.024525,50.75578,0 -119.024089,50.756073,0 -119.023392,50.756463,0 -119.022313,50.75685,0 -119.020556,50.75777,0 -119.020136,50.757947,0 -119.019828,50.75803,0 -119.018927,50.758095,0 -119.018363,50.758233,0 -119.017237,50.758594,0 -119.016615,50.758843,0 -119.015723,50.759299,0 -119.01493,50.759823,0 -119.013288,50.761092,0 -119.013146,50.761278,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 3, eastbound. Electrical maintenance planned between Rock Creek-Bridesville Rd and Kettle Vly S Rd. Starting Tue Sep 16 at 7:00 AM PDT until Tue Sep 16 at 5:00 PM PDT. Single lane alternating traffic will be in effect. Speed reduced to 50km/hr. Last updated Tue Sep 9 at 4:23 PM PDT. (DBC-81368)</name>
           <description>
     &lt;![CDATA[
@@ -6942,31 +6891,6 @@ Watch for Crew and equipment. Reduce speed and Use Caution when passing. Last up
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-118.089449,49.873018,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 19 (Island Highway), in both directions. Vehicle fire between Beaver Cove Rd and Reload Railway S Overpass (16 km south of Port McNeill). Single lane alternating traffic. Watch for traffic control. Next update time Fri Sep 12 at 12:30 AM PDT. Last updated Thu Sep 11 at 11:22 PM PDT. (DBC-81477)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Beaver Cove Rd and Reload Railway S Overpass&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km south of Port McNeill&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-11T23:22:28-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-12T00:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81477
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-126.983869,50.543642,0</coordinates>
           </Point>
         </Placemark>
       </Folder>
