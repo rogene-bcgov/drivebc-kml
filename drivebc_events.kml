@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-13 02:02:03 UTC
+        Last updated: 2025-09-13 02:44:26 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (275)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1816,6 +1816,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations planned between Exit 14: Capilano Rd and Edgemont Blvd for 1.7 km (North Vancouver - District). Starting Sun Sep 14 at 9:00 PM PDT until Mon Sep 15 at 5:00 AM PDT. Right lane will be closed. Eastbound Capilano on and off ramps closed. Next update time Mon Sep 15 at 5:00 AM PDT. Last updated Fri Sep 12 at 7:29 PM PDT. (DBC-81528)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 14: Capilano Rd and Edgemont Blvd for 1.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-12T19:29:22-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-15T05:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81528
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.117181,49.332497,0 -123.116836,49.332494,0 -123.116166,49.332486,0 -123.112248,49.332481,0 -123.111473,49.332478,0 -123.107509,49.332465,0 -123.104764,49.332456,0 -123.102402,49.332353,0 -123.101522,49.332315,0 -123.100957,49.33229,0 -123.094126,49.331991,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Ladner Trunk Rd, in both directions. Construction work between 61 St and 62 St. Until Fri Sep 12. From 7:00 AM to 3:00 PM PDT daily. Lane Closure. Watch for traffic control. Last updated Thu Jul 24 at 11:38 AM PDT. (DBC-79693)</name>
           <description>
     &lt;![CDATA[
@@ -1863,6 +1889,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-120.519891,49.670099,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations planned at Exit 11: 15th St (West Vancouver). Starting Mon Sep 15 at 9:00 PM PDT until Tue Sep 16 at 5:00 AM PDT. Paving on the eastbound offramp and the westbound onramp. Watch for crews and lane closures. Ramps will remain open. Last updated Fri Sep 12 at 7:33 PM PDT. (DBC-81529)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 11: 15th St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-12T19:33:55-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81529
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.155696,49.342968,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -1967,6 +2018,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.049703,49.326579,0 -123.046732,49.325659,0 -123.045835,49.325228,0 -123.045234,49.324826,0 -123.044676,49.324243,0 -123.044631,49.324186,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 14, in both directions. Paving operations planned between Church Rd and Sooke River Rd for 1.6 km (Sooke). Starting Tue Sep 16 at 9:00 PM PDT until Wed Sep 17 at 4:00 AM PDT. Watch for traffic control personnel. Last updated Fri Sep 12 at 7:37 PM PDT. (DBC-81530)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 14&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Church Rd and Sooke River Rd for 1.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sooke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-12T19:37:55-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81530
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.718232,48.378944,0 -123.718168,48.378969,0 -123.718092,48.379002,0 -123.717739,48.379159,0 -123.71705,48.379465,0 -123.716087,48.379892,0 -123.715318,48.380094,0 -123.714388,48.380338,0 -123.71237,48.380828,0 -123.711892,48.380996,0 -123.71143,48.381216,0 -123.710582,48.381614,0 -123.709858,48.381956,0 -123.709466,48.382141,0 -123.708325,48.382651,0 -123.708202,48.382706,0 -123.705617,48.383942,0 -123.705264,48.38409,0 -123.705048,48.384238,0 -123.704393,48.384669,0 -123.703112,48.385773,0 -123.701925,48.386795,0 -123.701667,48.387017,0 -123.701199,48.387299,0 -123.700574,48.387543,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4797,31 +4874,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Fulford Ganges Road, in both directions. Road construction work between Seaview Avenue and Cranberry Road. Until Fri Sep 12. From 7:00 AM to 5:00 PM PDT on weekdays and Sunday. Single lane alternating traffic. No work on long weekends. Paving operations underway from Sept 8th - Sept 12th. Speed reduced to 30km/hr through work zone. Watch for traffic control. Next update time Fri Sep 12 at 5:00 PM PDT. Last updated Fri Sep 5 at 9:34 AM PDT. (DBC-68621)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Fulford Ganges Road&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Seaview Avenue and Cranberry Road&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-05T09:34:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-12T17:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-68621
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.497514,48.843636,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97, northbound. Utility work planned between Maple Drive and Balsam Ave 7 km south of Quesnel. Starting Mon Sep 15 until Fri Sep 19. From 7:30 AM to 6:30 PM PDT on weekdays. Shoulder will be closed. Please watch for traffic control signage and personnel. Last updated Thu Sep 4 at 10:37 AM PDT. (DBC-81198)</name>
           <description>
     &lt;![CDATA[
@@ -6284,31 +6336,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle at Port Mann Bridge (Surrey). HOV lane closed. Next update time Fri Sep 12 at 7:00 PM PDT. Last updated Fri Sep 12 at 6:36 PM PDT. (DBC-81527)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-12T18:36:30-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-12T19:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81527
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between East Lake Dr and Highway 3B for 39.8 km (Christina Lake to 24 km west of Castlegar). Last updated Tue Apr 1 at 4:26 AM PDT. (DBC-73822)</name>
           <description>
     &lt;![CDATA[
@@ -6713,7 +6740,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 20, in both directions. There is a wildfire between Corbould Dr and Kappan Mtn Rd for 76.3 km (Anahim Lake to 18 km east of Firvale). Watch for traffic control. Watch for crews. Obey traffic controllers. Watch for wildlife and livestock. Next update time Sat Sep 13 at 5:00 AM PDT. Last updated Fri Sep 12 at 6:56 PM PDT. (DBC-81276)</name>
+          <name>Highway 20, in both directions. There is a wildfire between Corbould Dr and Kappan Mtn Rd for 76.3 km (Anahim Lake to 18 km east of Firvale). Watch for traffic control. Road open to traffic. Watch for crews. Obey traffic controllers. Watch for wildlife and livestock. Next update time Sat Sep 13 at 7:00 PM PDT. Last updated Fri Sep 12 at 7:09 PM PDT. (DBC-81276)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6725,8 +6752,8 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Corbould Dr and Kappan Mtn Rd for 76.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 18 km east of Firvale to Anahim Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-12T18:56:03-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-13T05:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-12T19:09:26-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-13T19:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-81276
