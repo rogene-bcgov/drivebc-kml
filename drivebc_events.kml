@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-13 15:31:31 UTC
+        Last updated: 2025-09-13 16:02:19 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -7032,6 +7032,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
       <Folder>
         <name>Special Event Events</name>
         <Placemark>
+          <name>Highway 9, in both directions. Special event between Park St and Hot Springs Rd for 0.4 km (Kent). Until Sat Sep 13 at 11:15 AM PDT. Agassiz Fall Fair Parade. Road closed. Watch for traffic control. Next update time Sat Sep 13 at 11:15 AM PDT. Last updated Tue Sep 9 at 2:53 PM PDT. (DBC-81361)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 9&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Park St and Hot Springs Rd for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kent&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T09:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-13T11:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81361
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.761594,49.238143,0 -121.761846,49.238162,0 -121.765933,49.238468,0 -121.765843,49.238948,0 -121.765799,49.239431,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Lower Ganges Road, in both directions. Special event planned between Purvis Lane and Hereford Avenue. Starting Sat Sep 13 at 11:00 AM PDT until Sat Sep 13 at 2:00 PM PDT. Road closure planned. Last updated Mon Sep 8 at 3:27 PM PDT. (DBC-81319)</name>
           <description>
     &lt;![CDATA[
@@ -7235,32 +7261,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-115.752882,49.548818,0 -115.753596,49.548945,0 -115.753694,49.548963,0 -115.754378,49.549129,0 -115.754523,49.549164,0 -115.754774,49.549243,0 -115.755948,49.549612,0 -115.756682,49.549901,0 -115.75728,49.55017,0 -115.758306,49.550714,0 -115.760291,49.55198,0 -115.761882,49.552995,0 -115.763368,49.553943,0 -115.76345,49.554002,0 -115.765035,49.555142,0 -115.766014,49.555775,0 -115.767983,49.556906,0 -115.769696,49.55789,0 -115.770935,49.558755,0 -115.77114,49.558898,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 9, in both directions. Special event planned between Park St and Hot Springs Rd for 0.4 km (Kent). Starting Sat Sep 13 at 9:00 AM PDT until Sat Sep 13 at 11:15 AM PDT. Agassiz Fall Fair Parade. Road closed. Watch for traffic control. Next update time Sat Sep 13 at 11:15 AM PDT. Last updated Tue Sep 9 at 2:53 PM PDT. (DBC-81361)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 9&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Park St and Hot Springs Rd for 0.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kent&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-09T14:53:09-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-13T11:15:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81361
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.761594,49.238143,0 -121.761846,49.238162,0 -121.765933,49.238468,0 -121.765843,49.238948,0 -121.765799,49.239431,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
