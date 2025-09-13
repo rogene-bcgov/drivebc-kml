@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-13 03:05:27 UTC
+        Last updated: 2025-09-13 03:34:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (276)</name>
+      <name>🚗 Traffic Events (277)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2426,6 +2426,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.871982,51.138758,0 -117.871973,51.138759,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Utility work planned between Exit 26 and Exit 20 for 4.7 km (Delta). Starting Wed Sep 17 until Sat Nov 7, 2026 at 11:45 PM PDT. Last updated Fri Sep 12 at 8:13 PM PDT. (DBC-81533)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 20 and Exit 26 for 4.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-12T20:13:16-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81533
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.963112,49.090598,0 -122.963126,49.090598,0 -122.979427,49.090562,0 -123.000453,49.090559,0 -123.001842,49.090648,0 -123.003566,49.090922,0 -123.014233,49.092998,0 -123.019085,49.093942,0 -123.023082,49.09472,0 -123.024136,49.094925,0 -123.026296,49.095345,0 -123.026387,49.095363,0 -123.026551,49.095394,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
