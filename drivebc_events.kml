@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-13 12:43:15 UTC
+        Last updated: 2025-09-13 13:04:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (276)</name>
+      <name>🚗 Traffic Events (277)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6533,6 +6533,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 10, eastbound. Vehicle incident between 153 St and 160 St for 1.3 km (Surrey). All lanes blocked. Westbound lanes open. Next update time Sat Sep 13 at 6:45 AM PDT. Last updated Sat Sep 13 at 5:49 AM PDT. (DBC-81538)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 153 St and 160 St for 1.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T05:49:39-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-13T06:45:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81538
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.796981,49.104333,0 -122.79696,49.104333,0 -122.795339,49.10433,0 -122.780721,49.10443,0 -122.779069,49.104421,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 5 (Coquihalla South). There is a wildfire between Exit 231: Mine Creek Rd and Exit 250: Larson Hill for 18.6 km (12 to 31 km north of Coquihalla Summit). Wildfire activity. Limited visibility with smoke (Hope-Merritt). No stopping. Speed reduction in place, slow down and watch for wildlife. Next update time Mon Sep 15 at 10:00 AM PDT. Last updated Fri Sep 12 at 12:29 PM PDT. (DBC-81233)</name>
           <description>
     &lt;![CDATA[
@@ -6979,33 +7005,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 95A, in both directions. Special event planned between Stirton Rd and 317th Ave for 1.0 km (Kimberley). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:41 PM MDT. (DBC-81117)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Stirton Rd and 317th Ave for 1.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kimberley&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:41:20-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81117
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-115.9324,49.62905,0 -115.933261,49.629907,0 -115.934323,49.631159,0 -115.934847,49.631806,0 -115.935357,49.632437,0 -115.93566,49.632769,0 -115.936198,49.633184,0 -115.93661,49.63342,0 -115.936852,49.633558,0 -115.937972,49.633929,0 -115.938728,49.634069,0 -115.939196,49.634117,0 -115.939487,49.634147,0 -115.93955,49.634153,0 -115.942412,49.634447,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 93, in both directions. Special event planned between Kelly Rd and Ft Steele Cemetery Rd for 2.6 km (Fort Steele). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:41 PM MDT. (DBC-81118)</name>
+          <name>Highway 93, in both directions. Special event between Kelly Rd and Ft Steele Cemetery Rd for 2.6 km (Fort Steele). Until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:41 PM MDT. (DBC-81118)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7017,7 +7017,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Kelly Rd and Ft Steele Cemetery Rd for 2.6 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Fort Steele&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:41:36-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T06:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7031,7 +7031,33 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 93, in both directions. Special event planned between Eager Hill-Fort Steele Rd and Kelly Rd for 1.8 km (3 to 1 km south of Fort Steele). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:41 PM MDT. (DBC-81119)</name>
+          <name>Highway 95A, in both directions. Special event between Stirton Rd and 317th Ave for 1.0 km (Kimberley). Until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:41 PM MDT. (DBC-81117)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 95A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Stirton Rd and 317th Ave for 1.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kimberley&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T06:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81117
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.9324,49.62905,0 -115.933261,49.629907,0 -115.934323,49.631159,0 -115.934847,49.631806,0 -115.935357,49.632437,0 -115.93566,49.632769,0 -115.936198,49.633184,0 -115.93661,49.63342,0 -115.936852,49.633558,0 -115.937972,49.633929,0 -115.938728,49.634069,0 -115.939196,49.634117,0 -115.939487,49.634147,0 -115.93955,49.634153,0 -115.942412,49.634447,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 93, in both directions. Special event between Eager Hill-Fort Steele Rd and Kelly Rd for 1.8 km (3 to 1 km south of Fort Steele). Until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:41 PM MDT. (DBC-81119)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7043,7 +7069,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Eager Hill-Fort Steele Rd and Kelly Rd for 1.8 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 to 3 km south of Fort Steele&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:41:55-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T06:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7057,7 +7083,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 93, in both directions. Special event planned between Moan Rd and Farstad Way for 9.0 km (5 km north of Wasa to 2 km south of Skookumchuck). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:43 PM MDT. (DBC-81122)</name>
+          <name>Highway 93, in both directions. Special event between Moan Rd and Farstad Way for 9.0 km (5 km north of Wasa to 2 km south of Skookumchuck). Until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:43 PM MDT. (DBC-81122)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7069,7 +7095,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Moan Rd and Farstad Way for 9.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km south of Skookumchuck to 5 km north of Wasa&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:43:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T06:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7083,7 +7109,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 95A, in both directions. Special event planned between Airport Access Rd and Porteous Rd for 7.3 km (3 km south of Kimberley to 1 km north of Cranbrook). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:41 PM MDT. (DBC-81116)</name>
+          <name>Highway 95A, in both directions. Special event between Airport Access Rd and Porteous Rd for 7.3 km (3 km south of Kimberley to 1 km north of Cranbrook). Until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:41 PM MDT. (DBC-81116)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7095,7 +7121,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Airport Access Rd and Porteous Rd for 7.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km north of Cranbrook to 3 km south of Kimberley&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:41:05-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T06:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7109,7 +7135,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Airport Access Road, in both directions. Special event planned between Carlisle Rd and Canadian Rockies International Airport. Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:42 PM MDT. (DBC-81121)</name>
+          <name>Airport Access Road, in both directions. Special event between Carlisle Rd and Canadian Rockies International Airport. Until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:42 PM MDT. (DBC-81121)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7121,7 +7147,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Carlisle Rd and Canadian Rockies International Airport&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:42:37-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T06:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7134,7 +7160,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 95A, in both directions. Special event planned between Collinson Rd and Kennedy Rd for 1.8 km (Cranbrook). Starting Sat Sep 13 at 7:00 AM MDT until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:42 PM MDT. (DBC-81120)</name>
+          <name>Highway 95A, in both directions. Special event between Collinson Rd and Kennedy Rd for 1.8 km (Cranbrook). Until Sat Sep 13 at 7:00 PM MDT. 2025 Kootenay Rockies Gran Fondo. Expect delays. Watch for cyclists. Last updated Tue Sep 2 at 3:42 PM MDT. (DBC-81120)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7146,7 +7172,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Collinson Rd and Kennedy Rd for 1.8 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Cranbrook&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-02T14:42:15-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T06:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
