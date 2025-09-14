@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-14 03:15:21 UTC
+        Last updated: 2025-09-14 03:38:26 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (273)</name>
+      <name>🚗 Traffic Events (274)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1375,6 +1375,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.767234,53.965509,0 -122.767207,53.965766,0 -122.767129,53.966407,0 -122.767227,53.967266,0 -122.767802,53.969666,0 -122.767846,53.969911,0 -122.7679,53.970215,0 -122.76794,53.970784,0 -122.76797,53.971233,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3A, in both directions. Road maintenance work between Kuskonook Rest Area and Bathie Rd for 0.2 km (4 km south of Kuskonook). Until Sat Sep 13 at 11:30 PM PDT. Single lane alternating traffic. Watch for traffic control. Last updated Sat Sep 13 at 8:12 PM PDT. (DBC-81546)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Kuskonook Rest Area and Bathie Rd for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km south of Kuskonook&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-13T20:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81546
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.645667,49.260553,0 -116.645277,49.260107,0 -116.644753,49.259706,0 -116.644236,49.259396,0 -116.643768,49.259115,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
