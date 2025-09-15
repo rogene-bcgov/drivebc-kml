@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-15 16:36:52 UTC
+        Last updated: 2025-09-15 17:01:55 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (272)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -405,6 +405,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Utility work planned between 12 Ave and 18 Ave for 1.2 km (Surrey). Starting Fri Oct 3 at 8:00 AM PDT until Fri Oct 3 at 4:00 PM PDT. Right lane will be blocked. Last updated Mon Sep 15 at 9:53 AM PDT. (DBC-81589)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 12 Ave and 18 Ave for 1.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T09:53:53-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81589
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.735261,49.023924,0 -122.735162,49.02924,0 -122.735182,49.031208,0 -122.735182,49.031634,0 -122.735184,49.032838,0 -122.735184,49.033,0 -122.735184,49.033602,0 -122.735185,49.034106,0 -122.735185,49.034376,0 -122.735186,49.03486,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 4, in both directions. Road construction work between Maltby Rd and Radar Hill for 0.7 km (1 km east of Tofino to 1 km east of North Boundary of Pacific Rim National Park in Tofino). Until Tue Sep 30. Single lane alternating traffic. Expect delays. Watch for traffic control. Hwy 4 Base Repair - 24/7 Single Lane alternating traffic - Up to 20 min delays. Slow down and watch for work crews. Last updated Thu Aug 7 at 12:08 PM PDT. (DBC-79852)</name>
           <description>
     &lt;![CDATA[
@@ -585,6 +611,32 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Pavement patching underway between Exit 168: Flood Hope Rd and Exit 165: Flood Rd for 3.2 km (Hope). Until Mon Sep 15 at 3:30 PM PDT. Right lane closed. Last updated Mon Sep 15 at 9:59 AM PDT. (DBC-81590)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 165: Flood Rd and Exit 168: Flood Hope Rd for 3.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Hope&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T09:59:31-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81590
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.520452,49.363727,0 -121.518769,49.362793,0 -121.517464,49.362104,0 -121.516978,49.361881,0 -121.515905,49.361475,0 -121.514658,49.361234,0 -121.51357,49.361144,0 -121.512874,49.361138,0 -121.511373,49.361283,0 -121.498905,49.362855,0 -121.487315,49.364239,0 -121.486437,49.364275,0 -121.483217,49.364406,0 -121.478286,49.364533,0 -121.478115,49.364537,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97, in both directions. Bridge construction between Wright Creek Rd and Kinney Rd for 0.5 km (8 to 7 km north of Prince George). Until Sat Nov 15. Single lane alternating traffic. Last updated Tue Apr 15 at 3:44 PM PDT. (DBC-75426)</name>
           <description>
     &lt;![CDATA[
@@ -661,6 +713,31 @@
             <tessellate>1</tessellate>
             <coordinates>-119.909611,50.621154,0 -119.912489,50.622734,0 -119.912682,50.622806,0 -119.913014,50.622929,0 -119.913618,50.623053,0 -119.914211,50.623081,0 -119.914367,50.623064,0 -119.915554,50.622933,0 -119.916239,50.622955,0 -119.91679,50.62305,0 -119.917317,50.623223,0 -119.917776,50.623465,0 -119.918131,50.623733,0 -119.918457,50.624151,0 -119.918688,50.624677,0 -119.918751,50.625132,0 -119.918569,50.625925,0 -119.918567,50.626222,0 -119.918747,50.626778,0 -119.91904,50.627365,0 -119.919208,50.627587,0 -119.919297,50.627705,0 -119.919599,50.627991,0 -119.919875,50.628186,0 -119.919997,50.628271,0 -119.920639,50.628617,0 -119.921128,50.62888,0 -119.921763,50.629222,0 -119.922709,50.629731,0 -119.923278,50.630027,0 -119.923594,50.630191,0 -119.924028,50.630416,0 -119.924191,50.630487,0 -119.924651,50.630688,0 -119.925089,50.630829,0 -119.925239,50.630877,0 -119.9253,50.630975,0 -119.929984,50.632017,0 -119.931346,50.632332,0 -119.935709,50.633334,0 -119.937009,50.63363,0 -119.947304,50.635971,0 -119.948342,50.636248,0 -119.94909,50.636539,0 -119.949192,50.636592,0 -119.949762,50.636886,0 -119.950418,50.637328,0 -119.950972,50.63785,0 -119.951339,50.638346,0 -119.95163,50.638931,0 -119.951763,50.639492,0 -119.951774,50.640043,0 -119.951664,50.64059,0 -119.951434,50.64111,0 -119.951138,50.641567,0 -119.950705,50.642041,0 -119.949925,50.642658,0 -119.949866,50.642705,0 -119.9498,50.642757,0 -119.949638,50.642898,0 -119.949064,50.643318,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), in both directions. Ditching between Kragbak Rd and Pinnell Rd (8 km north of Wildwood). Until Thu Sep 18 at 4:00 PM PDT. Single lane alternating traffic. Work from Mountain House Rd. To Mackenzie Ave. Last updated Mon Sep 15 at 9:59 AM PDT. (DBC-81591)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Kragbak Rd and Pinnell Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 8 km north of Wildwood&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T09:59:48-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81591
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.151128,52.278819,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Tamany Dr, northbound. Construction work at Keating Cross Rd in Saanich. Until Fri Oct 31. Road closed. Watch for traffic control. Tamany Rd will be closed at Keating Cross Rd as part of the Highway 17 Keating Cross Flyover Project. Next update time Thu Oct 30 at 9:00 AM PDT. Last updated Fri Jul 25 at 9:25 PM PDT. (DBC-79749)</name>
@@ -2348,7 +2425,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Bridge maintenance between Albert Canyon West Bridge and Albert Canyon Rd (3 km east of East Boundary of Mount Revelstoke National Park). Until Tue Sep 16 at 6:00 PM PDT. Single lane alternating traffic. Work will be taking place on the Albert Canyon West Bridge. 24-hour single lane alternating traffic. Last updated Tue Sep 9 at 9:42 AM PDT. (DBC-81330)</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Bridge maintenance planned between Albert Canyon West Bridge and Albert Canyon Rd (3 km east of East Boundary of Mount Revelstoke National Park). Starting Tue Sep 16 until Wed Sep 17. From 7:00 AM to 3:00 PM PDT on Tuesday and Wednesday. Single lane alternating traffic will be in effect. Work will be taking place on the Albert Canyon West Bridge. Last updated Mon Sep 15 at 9:55 AM PDT. (DBC-81330)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2360,7 +2437,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Albert Canyon West Bridge and Albert Canyon Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km east of East Boundary of Mount Revelstoke National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T08:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T09:55:59-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6199,6 +6276,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.479074,53.155476,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident at 216th St (Langley - District). Shoulder closed. Expect delays due to congestion. Last updated Mon Sep 15 at 9:35 AM PDT. (DBC-81588)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 216th St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T09:35:27-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81588
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.624118,49.152054,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
