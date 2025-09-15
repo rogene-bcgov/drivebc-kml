@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-15 15:33:59 UTC
+        Last updated: 2025-09-15 16:02:40 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (272)</name>
+      <name>🚗 Traffic Events (273)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1968,6 +1968,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Line painting planned at Vicars Rd (Kamloops). Starting Wed Sep 24 at 9:00 PM PDT until Thu Sep 25 at 5:00 AM PDT. Left turn lane will be closed. Last updated Mon Sep 15 at 8:42 AM PDT. (DBC-81584)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Vicars Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kamloops&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T08:42:42-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81584
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.283474,50.678455,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, northbound. Road construction work planned at Keith Rd (West Vancouver). Starting Tue Sep 16 at 8:30 PM PDT until Tue Sep 16 at 11:30 PM PDT. Lane Closure. Watch for traffic control personnel. Last updated Tue Aug 26 at 4:58 PM PDT. (DBC-80904)</name>
           <description>
     &lt;![CDATA[
@@ -2192,6 +2217,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-120.250556,55.76534,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway). Construction work at Fraser Hwy (Surrey). Until Sat Dec 20 at 10:00 PM PDT. Right turn lane closed. Shoulder closed. Last updated Mon Sep 15 at 8:44 AM PDT. (DBC-81585)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Fraser Hwy&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T08:44:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81585
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.734651,49.138055,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -2988,7 +3038,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Tree pruning planned between MacMillan Bloedel Haul Rd and Davis Rd for 5.9 km (1 km south of Ladysmith to Chemainus). Starting Mon Sep 15 at 9:00 AM PDT until Tue Sep 16 at 3:00 PM PDT. Right lane will be closed. Expect minor delays. Watch for traffic control personnel. Tree Maintenance - watch for speed reduction and work crews. Last updated Mon Sep 8 at 2:54 PM PDT. (DBC-81297)</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Tree pruning between MacMillan Bloedel Haul Rd and Davis Rd for 5.9 km (1 km south of Ladysmith to Chemainus). Until Tue Sep 16 at 3:00 PM PDT. Right lane closed. Expect minor delays. Watch for traffic control. Tree Maintenance - watch for speed reduction and work crews. Last updated Mon Sep 8 at 2:54 PM PDT. (DBC-81297)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3000,7 +3050,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between MacMillan Bloedel Haul Rd and Davis Rd for 5.9 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Chemainus to 1 km south of Ladysmith&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-08T14:54:09-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3907,7 +3957,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97A, southbound. Road maintenance work planned between Hubert Ave and King Ave for 0.2 km (Enderby). Starting Mon Sep 15 at 9:00 AM PDT until Fri Oct 10 at 3:00 PM PDT. Possible delays. Last updated Thu Sep 11 at 3:05 PM PDT. (DBC-81470)</name>
+          <name>Highway 97A, southbound. Road maintenance work between Hubert Ave and King Ave for 0.2 km (Enderby). Until Fri Oct 10 at 3:00 PM PDT. Possible delays. Last updated Thu Sep 11 at 3:05 PM PDT. (DBC-81470)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3919,7 +3969,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between King Ave and Hubert Ave for 0.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Enderby&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-11T15:05:22-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5427,7 +5477,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), northbound. Utility work planned between Brenton-Page Rd and Cedar Rd for 0.7 km (4 to 5 km north of Ladysmith). Starting Mon Sep 15 at 9:00 AM PDT until Fri Sep 26 at 3:00 PM PDT. Right lane will be closed. Expect minor delays. Watch for traffic control personnel. Utility work - watch for speed reduction and work crews. Last updated Wed Sep 3 at 2:43 PM PDT. (DBC-81173)</name>
+          <name>Highway 1 (TransCanada Highway), northbound. Utility work between Brenton-Page Rd and Cedar Rd for 0.7 km (4 to 5 km north of Ladysmith). Until Fri Sep 26 at 3:00 PM PDT. Right lane closed. Expect minor delays. Watch for traffic control. Utility work - watch for speed reduction and work crews. Last updated Wed Sep 3 at 2:43 PM PDT. (DBC-81173)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5439,7 +5489,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Brenton-Page Rd and Cedar Rd for 0.7 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 to 4 km north of Ladysmith&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-03T14:43:19-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6355,31 +6405,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle at Port Mann Bridge (Surrey). Right lane is blocked. Expect delays due to congestion. Next update time Mon Sep 15 at 9:00 AM PDT. Last updated Mon Sep 15 at 8:22 AM PDT. (DBC-81583)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T08:22:16-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-15T09:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81583
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Barnston Island Ferry, in both directions. Possible ferry delays at Barnston Island Ferry (Surrey). Until Fri Sep 26 at 4:00 PM PDT. Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Last updated Fri Sep 12 at 8:31 AM PDT. (DBC-80223)</name>
           <description>
     &lt;![CDATA[
@@ -6403,6 +6428,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-122.725702,49.192034,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Port Mann Bridge and Exit 44 for 1.9 km (Coquitlam to Surrey). Right lane is blocked. Expect delays due to congestion. Next update time Mon Sep 15 at 9:00 AM PDT. Last updated Mon Sep 15 at 8:43 AM PDT. (DBC-81583)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 44 and Port Mann Bridge for 1.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam to Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T08:43:22-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-15T09:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81583
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.832683,49.229063,0 -122.831507,49.228919,0 -122.830685,49.228804,0 -122.830459,49.228773,0 -122.829863,49.228685,0 -122.829731,49.228665,0 -122.829671,49.228656,0 -122.829449,49.228623,0 -122.829167,49.228581,0 -122.829117,49.228574,0 -122.829064,49.228566,0 -122.828646,49.228506,0 -122.82817,49.228442,0 -122.82661,49.228247,0 -122.825582,49.228119,0 -122.825447,49.228102,0 -122.825245,49.228076,0 -122.825135,49.228062,0 -122.824961,49.228038,0 -122.82484,49.22802,0 -122.824737,49.228005,0 -122.824594,49.227983,0 -122.82448,49.227965,0 -122.824357,49.227943,0 -122.824254,49.227925,0 -122.824135,49.227903,0 -122.824004,49.227878,0 -122.823783,49.227834,0 -122.823402,49.227752,0 -122.822984,49.227658,0 -122.822525,49.227554,0 -122.822024,49.227426,0 -122.82166,49.227337,0 -122.82111,49.227198,0 -122.820606,49.227058,0 -122.820253,49.226958,0 -122.820067,49.226898,0 -122.819737,49.226779,0 -122.819449,49.226668,0 -122.8192,49.226568,0 -122.818812,49.226404,0 -122.81842,49.226219,0 -122.818067,49.226046,0 -122.817696,49.225843,0 -122.817251,49.225582,0 -122.816961,49.225388,0 -122.816753,49.225244,0 -122.816575,49.225105,0 -122.81644,49.224994,0 -122.816229,49.22482,0 -122.816158,49.224751,0 -122.816043,49.224641,0 -122.815835,49.224448,0 -122.815679,49.224283,0 -122.815568,49.224165,0 -122.815461,49.224052,0 -122.815278,49.223834,0 -122.815088,49.223584,0 -122.814904,49.223336,0 -122.814774,49.223123,0 -122.814665,49.222959,0 -122.814512,49.222694,0 -122.814369,49.222401,0 -122.814225,49.222091,0 -122.814077,49.221716,0 -122.813691,49.220676,0 -122.813624,49.220521,0 -122.813328,49.21973,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave (14 km east of East Boundary of Glacier National Park). Redgrave rest area is permanently closed. New rest area will be built just west of the current location. Stay tuned for more updates as construction progresses. Next update time Mon Dec 1. Last updated Mon Jul 21 at 12:51 PM MDT. (DBC-73964)</name>
@@ -6786,7 +6837,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between North Rd and Exit 40: Brunette Ave (Coquitlam). Left lane is blocked. Centre lane blocked. Expect delays due to congestion. Next update time Mon Sep 15 at 8:45 AM PDT. Last updated Mon Sep 15 at 7:57 AM PDT. (DBC-81578)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between North Rd and Exit 40: Brunette Ave (Coquitlam). Left lane is blocked. Centre lane blocked. Expect delays due to congestion. Next update time Mon Sep 15 at 9:15 AM PDT. Last updated Mon Sep 15 at 8:45 AM PDT. (DBC-81578)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6798,8 +6849,8 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between North Rd and Exit 40: Brunette Ave&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T07:57:53-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-15T08:45:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T08:45:45-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-15T09:15:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-81578
@@ -6808,31 +6859,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.892556,49.242109,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident at Exit 40: Brunette Ave (Coquitlam). Expect delays. On and off-ramp lane closures. Last updated Mon Sep 15 at 7:57 AM PDT. (DBC-81579)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 40: Brunette Ave&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T07:57:05-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81579
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.878695,49.234499,0</coordinates>
           </Point>
         </Placemark>
       </Folder>
