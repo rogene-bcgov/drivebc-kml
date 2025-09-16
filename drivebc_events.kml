@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-16 02:47:24 UTC
+        Last updated: 2025-09-16 03:11:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (275)</name>
+      <name>🚗 Traffic Events (280)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4450,6 +4450,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 10, westbound. Tree pruning planned between 232 St and Glover Rd for 2.4 km (Langley - District). Starting Mon Sep 22 at 9:00 AM PDT until Fri Sep 26 at 3:00 PM PDT. From 9:00 AM to 3:00 PM PDT daily. Two way traffic will be maintained. Last updated Mon Sep 15 at 7:45 PM PDT. (DBC-81618)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Glover Rd and 232 St for 2.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T19:45:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81618
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.61181,49.135406,0 -122.611058,49.134984,0 -122.610604,49.134729,0 -122.603003,49.130459,0 -122.602654,49.130314,0 -122.602164,49.13012,0 -122.601212,49.129893,0 -122.600116,49.129794,0 -122.599998,49.129793,0 -122.595996,49.129756,0 -122.593953,49.129737,0 -122.593748,49.129735,0 -122.593515,49.129732,0 -122.592226,49.12972,0 -122.591897,49.129717,0 -122.591092,49.12971,0 -122.587621,49.129664,0 -122.584232,49.129619,0 -122.584011,49.129659,0 -122.583845,49.129688,0 -122.583214,49.129862,0 -122.582477,49.130189,0 -122.582107,49.130435,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 7 (Lougheed Highway), eastbound. Electrical maintenance planned between Dyke Rd and Shook St for 1.1 km (Mission). Starting Mon Sep 22 until Fri Sep 26. From 9:00 AM to 3:00 PM PDT daily. Right lane will be closed. Last updated Thu Sep 11 at 3:17 PM PDT. (DBC-81471)</name>
           <description>
     &lt;![CDATA[
@@ -4579,6 +4605,58 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work planned between 248 St and Exit 73 for 3.6 km (Langley - District). Starting Wed Oct 1 at 8:30 PM PDT until Mon Nov 30, 2026 at 5:30 AM PDT. Watch for traffic control personnel. Lane closures in both directions planned. Next update time Sun Nov 30 at 5:30 AM PDT. Last updated Mon Sep 15 at 7:52 PM PDT. (DBC-81619)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Exit 73 for 3.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T19:52:41-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-30T05:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81619
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.533132,49.117154,0 -122.530215,49.116002,0 -122.529425,49.115691,0 -122.528213,49.115212,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493315,49.101517,0 -122.493081,49.101427,0 -122.492806,49.101322,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 13, in both directions. Construction work planned between 48 Ave and 56 Ave for 1.1 km (Langley - District). Starting Wed Oct 1 at 9:00 PM PDT until Sun Nov 30 at 5:30 AM PDT. Lane closures in both directions planned. Watch for traffic control personnel. Last updated Mon Sep 15 at 7:55 PM PDT. (DBC-81620)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 13&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 48 Ave and 56 Ave for 1.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T19:55:29-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81620
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.492855,49.094031,0 -122.492852,49.094394,0 -122.492847,49.095032,0 -122.492846,49.095176,0 -122.492841,49.095842,0 -122.492836,49.096481,0 -122.492835,49.096578,0 -122.492839,49.096796,0 -122.492864,49.098335,0 -122.492879,49.099233,0 -122.492862,49.099672,0 -122.49285,49.100002,0 -122.492829,49.100568,0 -122.492824,49.100708,0 -122.492813,49.101086,0 -122.49281,49.101178,0 -122.492806,49.101322,0 -122.4928,49.101819,0 -122.492798,49.101906,0 -122.492793,49.102066,0 -122.492785,49.102352,0 -122.492764,49.103516,0 -122.492757,49.103886,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 93, in both directions. Utility work between West Boundary of Kootenay National Park and McKay Creek Maint for 1.4 km (4 to 3 km north of Radium Hot Springs). Until Fri Oct 10. From 7:00 AM to 7:00 PM MDT daily. Periodic single lane traffic and intermittent closures. Lane diversions onto gravel. Lane width and speed limit reductions. Expect delays up to 15 mins. Wide loads report to Parks Canada for approval. Last updated Tue Sep 9 at 5:04 PM MDT. (DBC-81235)</name>
           <description>
     &lt;![CDATA[
@@ -4631,6 +4709,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>56th Avenue, in both directions. Construction work planned between 256th Street and Gloucester Way. Starting Wed Oct 1 at 9:00 PM PDT until Sun Nov 30 at 5:30 AM PDT. Lane closures in both directions planned. Watch for traffic control personnel. Last updated Mon Sep 15 at 7:58 PM PDT. (DBC-81621)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; 56th Avenue&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 256th Street and Gloucester Way&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T19:58:58-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81621
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.492757,49.103886,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Geotechnical investigation planned between 3 St SW and Shuswap St for 0.2 km (Salmon Arm). Starting Sun Oct 19 at 7:00 AM PDT until Mon Oct 20 at 5:00 PM PDT. Lane Closure. Centre lane will be closed. Last updated Wed Sep 3 at 11:48 AM PDT. (DBC-81160)</name>
           <description>
     &lt;![CDATA[
@@ -4681,6 +4784,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-124.746506,49.434022,0 -124.743372,49.432159,0 -124.739707,49.430136,0 -124.73911,49.429807,0 -124.738313,49.429422,0 -124.734287,49.427475,0 -124.73244,49.426582,0 -124.729883,49.425346,0 -124.729212,49.425021,0 -124.7271,49.424001,0 -124.726971,49.423938,0 -124.725286,49.423225,0 -124.723424,49.422561,0 -124.721337,49.421946,0 -124.719181,49.421457,0 -124.717183,49.421087,0 -124.713469,49.420676,0 -124.708961,49.420178,0 -124.708357,49.420111,0 -124.706412,49.419813,0 -124.704126,49.419308,0 -124.703057,49.418934,0 -124.702896,49.418878,0 -124.701865,49.418517,0 -124.700382,49.417885,0 -124.700052,49.41771,0 -124.6996,49.417471,0 -124.699259,49.417291,0 -124.698885,49.417093,0 -124.697603,49.416275,0 -124.694156,49.413682,0 -124.691913,49.412191,0 -124.685569,49.408329,0 -124.68546,49.408262,0 -124.683213,49.406894,0 -124.681631,49.406027,0 -124.679312,49.404866,0 -124.676694,49.403705,0 -124.673918,49.402591,0 -124.671097,49.401639,0 -124.67061,49.401475,0 -124.670345,49.401386,0 -124.669901,49.401259,0 -124.669359,49.401104,0 -124.665542,49.400011,0 -124.660478,49.398561,0 -124.656125,49.397314,0 -124.654539,49.39686,0 -124.650791,49.395786,0 -124.650575,49.395724,0 -124.649213,49.395203,0 -124.647455,49.394366,0 -124.641348,49.390977,0 -124.641045,49.390806,0 -124.640606,49.390559,0 -124.634918,49.387351,0 -124.634324,49.386991,0 -124.633302,49.386439,0 -124.632857,49.386189,0 -124.631674,49.385519,0 -124.631544,49.385448,0 -124.630195,49.384648,0 -124.629204,49.383951,0 -124.629131,49.383894,0 -124.628252,49.383206,0 -124.627242,49.382223,0 -124.626435,49.381268,0 -124.625998,49.38068,0 -124.625816,49.380434,0 -124.625617,49.380166,0 -124.624608,49.378805,0 -124.623729,49.377619,0 -124.623023,49.376667,0 -124.622571,49.376057,0 -124.62186,49.375195,0 -124.621125,49.37444,0 -124.620523,49.373894,0 -124.62048,49.373855,0 -124.620193,49.373626,0 -124.619652,49.373194,0 -124.618901,49.372658,0 -124.618829,49.372613,0 -124.617557,49.371821,0 -124.616436,49.371209,0 -124.615453,49.370715,0 -124.612324,49.369152,0 -124.607343,49.366662,0 -124.604282,49.365131,0 -124.601022,49.363652,0 -124.599995,49.363223,0 -124.599476,49.363007,0 -124.598141,49.362492,0 -124.596075,49.361695,0 -124.588472,49.358761,0 -124.585876,49.357703,0 -124.583694,49.356725,0 -124.582774,49.356269,0 -124.580842,49.355313,0 -124.578393,49.353975,0 -124.576317,49.35272,0 -124.573155,49.350733,0 -124.571323,49.349621,0 -124.569396,49.348398,0 -124.567639,49.347283,0 -124.564832,49.345502,0 -124.563317,49.344581,0 -124.562922,49.34434,0 -124.562169,49.343881,0 -124.560224,49.342812,0 -124.559811,49.342603,0 -124.559666,49.342529,0 -124.559398,49.342393,0 -124.557683,49.341522,0 -124.555545,49.340545,0 -124.555362,49.340461,0 -124.55135,49.338786,0 -124.548142,49.337575,0 -124.547796,49.337454,0 -124.546716,49.337075,0 -124.546207,49.336896,0 -124.543917,49.336172,0 -124.542915,49.335855,0 -124.542865,49.335839,0 -124.539479,49.334844,0 -124.535657,49.333917,0 -124.535431,49.333862,0 -124.53526,49.333821,0 -124.534434,49.33365,0 -124.53164,49.333074,0 -124.529356,49.332685,0 -124.52903,49.332629,0 -124.52735,49.33238,0 -124.524906,49.332017,0 -124.524674,49.331983,0 -124.521998,49.331649,0 -124.52,49.331455,0 -124.515772,49.331141,0 -124.513444,49.331036,0 -124.51115,49.330963,0 -124.507857,49.330933,0 -124.507796,49.330932,0 -124.506742,49.33095,0 -124.503788,49.331002,0 -124.502195,49.331029,0 -124.496616,49.331126,0 -124.495081,49.331055,0 -124.493583,49.330935,0 -124.491951,49.330689,0 -124.490312,49.330343,0 -124.488587,49.32984,0 -124.48698,49.329232,0 -124.485415,49.328515,0 -124.480751,49.326232,0 -124.480565,49.326136,0 -124.478861,49.325299,0 -124.477171,49.324582,0 -124.476246,49.324267,0 -124.476081,49.324211,0 -124.475574,49.324038,0 -124.474101,49.323605,0 -124.472322,49.32324,0 -124.471382,49.323093,0 -124.470702,49.322987,0 -124.469372,49.322843,0 -124.467722,49.322763,0 -124.465742,49.322768,0 -124.464783,49.322812,0 -124.461637,49.323072,0 -124.453675,49.323729,0 -124.453236,49.323765,0 -124.448884,49.324124,0 -124.444669,49.324471,0 -124.441998,49.324691,0 -124.441399,49.324741,0 -124.426454,49.325985,0 -124.424812,49.326056,0 -124.423098,49.326007,0 -124.421449,49.325864,0 -124.419734,49.325603,0 -124.417859,49.32517,0 -124.416402,49.324711,0 -124.41556,49.324413,0 -124.414476,49.323947,0 -124.412168,49.322831,0 -124.411988,49.322735,0 -124.409236,49.321401,0 -124.408808,49.321212,0 -124.407841,49.320784,0 -124.406457,49.320271,0 -124.405346,49.319914,0 -124.403426,49.319444,0 -124.401659,49.319122,0 -124.400005,49.318917,0 -124.399964,49.318912,0 -124.396681,49.318661,0 -124.382712,49.317594,0 -124.379402,49.31734,0 -124.375469,49.317039,0 -124.371518,49.316698,0 -124.368561,49.316359,0 -124.368368,49.316331,0 -124.366141,49.316006,0 -124.365863,49.315966,0 -124.362116,49.315342,0 -124.36046,49.315036,0 -124.357666,49.314521,0 -124.356916,49.314382,0 -124.349648,49.313057,0 -124.347992,49.312725,0 -124.347734,49.312656,0 -124.346542,49.312338,0 -124.345524,49.31199,0 -124.343907,49.311281,0 -124.340259,49.309425,0 -124.340108,49.309348,0 -124.339927,49.309256,0 -124.339785,49.309184,0 -124.33786,49.308204,0 -124.336938,49.307758,0 -124.335755,49.3073,0 -124.335371,49.307177,0 -124.334784,49.30699,0 -124.334413,49.306904,0 -124.333482,49.306687,0 -124.333098,49.306623,0 -124.332714,49.306558,0 -124.332095,49.306454,0 -124.329565,49.306165,0 -124.325646,49.305717,0 -124.325532,49.305705,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>52nd Avenue, in both directions. Construction work planned between 264th Street and 2872nd Street. Starting Wed Oct 1 at 9:00 PM PDT until Sun Nov 30 at 5:30 AM PDT. Utility work planned. Watch for traffic control personnel. Last updated Mon Sep 15 at 8:02 PM PDT. (DBC-81622)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; 52nd Avenue&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 264th Street and 2872nd Street&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T20:02:43-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81622
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.481335,49.096815,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 37. Construction work between Water Lily Bay Rd and Krumm Ave for 13.5 km (56 to 43 km north of Kitimat). Until Tue Sep 30. From 7:30 AM to 5:30 PM PDT daily. Single lane alternating traffic. Watch for traffic control. Last updated Tue Sep 2 at 11:56 AM PDT. (DBC-81104)</name>
