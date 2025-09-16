@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-16 00:46:27 UTC
+        Last updated: 2025-09-16 01:29:21 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (275)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6911,6 +6911,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-124.748379,48.97225,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7B (Mary Hill Bypass), westbound. Vehicle incident between Kingsway Ave and Broadway St for 1.2 km (Port Coquitlam). Road closed. Next update time Mon Sep 15 at 6:30 PM PDT. Last updated Mon Sep 15 at 6:00 PM PDT. (DBC-81615)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7B&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Broadway St and Kingsway Ave for 1.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T18:00:28-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-15T18:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81615
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.762273,49.240488,0 -122.76183,49.240718,0 -122.761462,49.240909,0 -122.758894,49.242242,0 -122.756661,49.243362,0 -122.756019,49.243684,0 -122.755759,49.243814,0 -122.754015,49.244688,0 -122.753107,49.245101,0 -122.752079,49.245464,0 -122.750626,49.245906,0 -122.748833,49.246267,0 -122.74796,49.246446,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Texas Creek Rd, in both directions. Washout at Intlpam Creek Rd. Road closed. Geotechnical investigation. Next update time Mon Sep 22 at 3:00 PM PDT. Last updated Mon Sep 15 at 5:02 PM PDT. (DBC-81323)</name>
