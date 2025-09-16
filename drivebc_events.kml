@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-16 03:11:16 UTC
+        Last updated: 2025-09-16 03:38:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (280)</name>
+      <name>🚗 Traffic Events (282)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4889,6 +4889,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Golden Ears Way, eastbound. There will be ditching between 179 Street and Golden Ears Way. Starting Mon Oct 6 at 7:00 PM PDT until Sat Oct 11 at 5:00 AM PDT. Right lane will be blocked. Single lane alternating traffic will be in effect. Watch for traffic control personnel. No work on October 10th. Last updated Mon Sep 15 at 8:14 PM PDT. (DBC-81623)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Golden Ears Way&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 179 Street and Golden Ears Way&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T20:14:27-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81623
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.682231,49.167454,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Exit 6: McKenzie Ave and Exit 8: Helmcken Rd (View Royal). Until Fri Sep 19 at 5:30 AM PDT. Lane closures in both directions in effect. Nightly lane closures Mon-Fri September 15-19th. Last updated Mon Sep 15 at 6:08 AM PDT. (DBC-81326)</name>
           <description>
     &lt;![CDATA[
@@ -4937,6 +4962,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.133381,49.849619,0 -125.133397,49.850222,0 -125.133415,49.851116,0 -125.133424,49.851609,0 -125.133434,49.851975,0 -125.133458,49.853481,0 -125.13334,49.854096,0 -125.133283,49.854391,0 -125.13307,49.855494,0 -125.132695,49.857446,0 -125.13224,49.859512,0 -125.132113,49.860092,0 -125.131902,49.861049,0 -125.131698,49.861977,0 -125.131135,49.864541,0 -125.131043,49.864947,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Utility work planned between 68A Ave and Fraser Hwy for 1.1 km (Surrey). Starting Fri Sep 19 at 6:00 AM PDT until Wed Oct 15 at 6:00 PM PDT. Construction work planned. Watch for traffic control personnel. Right lane will be blocked. Last updated Mon Sep 15 at 8:18 PM PDT. (DBC-81624)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 68A Ave and Fraser Hwy for 1.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T20:18:58-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81624
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.734704,49.127249,0 -122.734701,49.127596,0 -122.734674,49.129701,0 -122.734624,49.137511,0 -122.734651,49.138055,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
