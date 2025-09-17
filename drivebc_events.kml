@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-17 13:36:45 UTC
+        Last updated: 2025-09-17 14:02:41 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (278)</name>
+      <name>🚗 Traffic Events (282)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -764,31 +764,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 23, southbound. Electrical maintenance planned between Mica Dam Avalanche Gates and Canoe St - Mica Village (1 km south of Mica Dam). Starting Wed Sep 17 at 7:00 AM PDT until Thu Sep 18 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on Wednesday and Thursday. Shoulder will be closed. Last updated Sat Aug 30 at 5:55 PM PDT. (DBC-81058)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Canoe St - Mica Village and Mica Dam Avalanche Gates&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km south of Mica Dam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-30T17:55:22-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81058
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-118.5932,52.04255,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 99, northbound. Utility work planned between River Rd and 64 St. Starting Mon Oct 6 until Wed Oct 8. From 10:00 PM to 4:30 AM PDT daily. Right lane will be closed. Last updated Wed Sep 10 at 4:35 PM PDT. (DBC-81429)</name>
           <description>
     &lt;![CDATA[
@@ -838,6 +813,31 @@
             <tessellate>1</tessellate>
             <coordinates>-120.223945,51.032182,0 -120.223654,51.037993,0 -120.223525,51.040568,0 -120.223434,51.041101,0 -120.223366,51.041382,0 -120.223089,51.04253,0 -120.222018,51.046953,0 -120.221172,51.05045,0 -120.220259,51.054222,0 -120.220225,51.054345,0 -120.219626,51.056721,0 -120.219074,51.059076,0 -120.218731,51.060538,0 -120.218549,51.060949,0 -120.218288,51.061357,0 -120.218243,51.061429,0 -120.216676,51.063172,0 -120.215524,51.064377,0 -120.214917,51.065012,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 23, southbound. Electrical maintenance between Mica Dam Avalanche Gates and Canoe St - Mica Village (1 km south of Mica Dam). Until Thu Sep 18 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on Wednesday and Thursday. Shoulder closed. Last updated Sat Aug 30 at 5:55 PM PDT. (DBC-81058)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Canoe St - Mica Village and Mica Dam Avalanche Gates&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km south of Mica Dam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81058
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-118.5932,52.04255,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 99, southbound. Utility work planned between Exit 28 and Exit 26 for 2.5 km (Delta). Starting Mon Sep 22 until Wed Sep 24. From 10:00 PM to 5:30 AM PDT daily. Shoulder will be closed. Last updated Wed Sep 10 at 4:36 PM PDT. (DBC-81430)</name>
@@ -4353,58 +4353,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 5, southbound. Construction work planned between Mount Olie St and Webb Rd for 1.9 km (Little Fort). Starting Wed Sep 17 at 7:00 AM PDT until Fri Oct 10 at 5:30 PM PDT. Integrity dig completion and demobilization. Single lane alternating traffic during demobilization. Last updated Tue Sep 16 at 8:44 AM PDT. (DBC-81638)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Webb Rd and Mount Olie St for 1.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Little Fort&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-16T08:44:41-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81638
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.208622,51.406776,0 -120.208698,51.406929,0 -120.209037,51.407644,0 -120.209111,51.407742,0 -120.209235,51.407906,0 -120.20947,51.408216,0 -120.209848,51.408606,0 -120.210055,51.40882,0 -120.210722,51.409432,0 -120.211218,51.409965,0 -120.211582,51.410654,0 -120.211925,51.411304,0 -120.212107,51.411701,0 -120.212985,51.41361,0 -120.213138,51.413987,0 -120.213155,51.414032,0 -120.213223,51.414198,0 -120.213169,51.414857,0 -120.21307,51.415045,0 -120.212836,51.415489,0 -120.21279,51.415533,0 -120.212246,51.41606,0 -120.211366,51.416822,0 -120.209306,51.418865,0 -120.207088,51.420921,0 -120.206819,51.421278,0 -120.206354,51.421893,0 -120.206325,51.421941,0 -120.206048,51.422405,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway), in both directions. Shoulder maintenance planned between Lizard Creek Bridge and Vanlerberg Rd for 1.3 km (3 to 2 km west of Fernie). Starting Wed Sep 17 at 8:00 AM MDT until Wed Sep 17 at 11:00 AM MDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Wed Sep 17 at 7:22 AM MDT. (DBC-81673)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Lizard Creek Bridge and Vanlerberg Rd for 1.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 to 3 km west of Fernie&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T06:22:31-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81673
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-115.075726,49.470699,0 -115.075701,49.470817,0 -115.075501,49.471433,0 -115.075165,49.471958,0 -115.073781,49.473806,0 -115.073462,49.474218,0 -115.072949,49.47488,0 -115.072675,49.475494,0 -115.072522,49.476136,0 -115.072515,49.476166,0 -115.072532,49.476745,0 -115.072704,49.477387,0 -115.072808,49.477619,0 -115.07285,49.477712,0 -115.073545,49.478828,0 -115.073677,49.479042,0 -115.073971,49.479515,0 -115.074247,49.479959,0 -115.074345,49.480116,0 -115.074461,49.480303,0 -115.07511,49.481346,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Geotechnical investigation planned between 3 St SW and Shuswap St for 0.2 km (Salmon Arm). Starting Sun Oct 19 at 7:00 AM PDT until Mon Oct 20 at 5:00 PM PDT. Lane Closure. Centre lane will be closed. Last updated Wed Sep 3 at 11:48 AM PDT. (DBC-81160)</name>
           <description>
     &lt;![CDATA[
@@ -4454,6 +4402,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.746506,49.434022,0 -124.743372,49.432159,0 -124.739707,49.430136,0 -124.73911,49.429807,0 -124.738313,49.429422,0 -124.734287,49.427475,0 -124.73244,49.426582,0 -124.729883,49.425346,0 -124.729212,49.425021,0 -124.7271,49.424001,0 -124.726971,49.423938,0 -124.725286,49.423225,0 -124.723424,49.422561,0 -124.721337,49.421946,0 -124.719181,49.421457,0 -124.717183,49.421087,0 -124.713469,49.420676,0 -124.708961,49.420178,0 -124.708357,49.420111,0 -124.706412,49.419813,0 -124.704126,49.419308,0 -124.703057,49.418934,0 -124.702896,49.418878,0 -124.701865,49.418517,0 -124.700382,49.417885,0 -124.700052,49.41771,0 -124.6996,49.417471,0 -124.699259,49.417291,0 -124.698885,49.417093,0 -124.697603,49.416275,0 -124.694156,49.413682,0 -124.691913,49.412191,0 -124.685569,49.408329,0 -124.68546,49.408262,0 -124.683213,49.406894,0 -124.681631,49.406027,0 -124.679312,49.404866,0 -124.676694,49.403705,0 -124.673918,49.402591,0 -124.671097,49.401639,0 -124.67061,49.401475,0 -124.670345,49.401386,0 -124.669901,49.401259,0 -124.669359,49.401104,0 -124.665542,49.400011,0 -124.660478,49.398561,0 -124.656125,49.397314,0 -124.654539,49.39686,0 -124.650791,49.395786,0 -124.650575,49.395724,0 -124.649213,49.395203,0 -124.647455,49.394366,0 -124.641348,49.390977,0 -124.641045,49.390806,0 -124.640606,49.390559,0 -124.634918,49.387351,0 -124.634324,49.386991,0 -124.633302,49.386439,0 -124.632857,49.386189,0 -124.631674,49.385519,0 -124.631544,49.385448,0 -124.630195,49.384648,0 -124.629204,49.383951,0 -124.629131,49.383894,0 -124.628252,49.383206,0 -124.627242,49.382223,0 -124.626435,49.381268,0 -124.625998,49.38068,0 -124.625816,49.380434,0 -124.625617,49.380166,0 -124.624608,49.378805,0 -124.623729,49.377619,0 -124.623023,49.376667,0 -124.622571,49.376057,0 -124.62186,49.375195,0 -124.621125,49.37444,0 -124.620523,49.373894,0 -124.62048,49.373855,0 -124.620193,49.373626,0 -124.619652,49.373194,0 -124.618901,49.372658,0 -124.618829,49.372613,0 -124.617557,49.371821,0 -124.616436,49.371209,0 -124.615453,49.370715,0 -124.612324,49.369152,0 -124.607343,49.366662,0 -124.604282,49.365131,0 -124.601022,49.363652,0 -124.599995,49.363223,0 -124.599476,49.363007,0 -124.598141,49.362492,0 -124.596075,49.361695,0 -124.588472,49.358761,0 -124.585876,49.357703,0 -124.583694,49.356725,0 -124.582774,49.356269,0 -124.580842,49.355313,0 -124.578393,49.353975,0 -124.576317,49.35272,0 -124.573155,49.350733,0 -124.571323,49.349621,0 -124.569396,49.348398,0 -124.567639,49.347283,0 -124.564832,49.345502,0 -124.563317,49.344581,0 -124.562922,49.34434,0 -124.562169,49.343881,0 -124.560224,49.342812,0 -124.559811,49.342603,0 -124.559666,49.342529,0 -124.559398,49.342393,0 -124.557683,49.341522,0 -124.555545,49.340545,0 -124.555362,49.340461,0 -124.55135,49.338786,0 -124.548142,49.337575,0 -124.547796,49.337454,0 -124.546716,49.337075,0 -124.546207,49.336896,0 -124.543917,49.336172,0 -124.542915,49.335855,0 -124.542865,49.335839,0 -124.539479,49.334844,0 -124.535657,49.333917,0 -124.535431,49.333862,0 -124.53526,49.333821,0 -124.534434,49.33365,0 -124.53164,49.333074,0 -124.529356,49.332685,0 -124.52903,49.332629,0 -124.52735,49.33238,0 -124.524906,49.332017,0 -124.524674,49.331983,0 -124.521998,49.331649,0 -124.52,49.331455,0 -124.515772,49.331141,0 -124.513444,49.331036,0 -124.51115,49.330963,0 -124.507857,49.330933,0 -124.507796,49.330932,0 -124.506742,49.33095,0 -124.503788,49.331002,0 -124.502195,49.331029,0 -124.496616,49.331126,0 -124.495081,49.331055,0 -124.493583,49.330935,0 -124.491951,49.330689,0 -124.490312,49.330343,0 -124.488587,49.32984,0 -124.48698,49.329232,0 -124.485415,49.328515,0 -124.480751,49.326232,0 -124.480565,49.326136,0 -124.478861,49.325299,0 -124.477171,49.324582,0 -124.476246,49.324267,0 -124.476081,49.324211,0 -124.475574,49.324038,0 -124.474101,49.323605,0 -124.472322,49.32324,0 -124.471382,49.323093,0 -124.470702,49.322987,0 -124.469372,49.322843,0 -124.467722,49.322763,0 -124.465742,49.322768,0 -124.464783,49.322812,0 -124.461637,49.323072,0 -124.453675,49.323729,0 -124.453236,49.323765,0 -124.448884,49.324124,0 -124.444669,49.324471,0 -124.441998,49.324691,0 -124.441399,49.324741,0 -124.426454,49.325985,0 -124.424812,49.326056,0 -124.423098,49.326007,0 -124.421449,49.325864,0 -124.419734,49.325603,0 -124.417859,49.32517,0 -124.416402,49.324711,0 -124.41556,49.324413,0 -124.414476,49.323947,0 -124.412168,49.322831,0 -124.411988,49.322735,0 -124.409236,49.321401,0 -124.408808,49.321212,0 -124.407841,49.320784,0 -124.406457,49.320271,0 -124.405346,49.319914,0 -124.403426,49.319444,0 -124.401659,49.319122,0 -124.400005,49.318917,0 -124.399964,49.318912,0 -124.396681,49.318661,0 -124.382712,49.317594,0 -124.379402,49.31734,0 -124.375469,49.317039,0 -124.371518,49.316698,0 -124.368561,49.316359,0 -124.368368,49.316331,0 -124.366141,49.316006,0 -124.365863,49.315966,0 -124.362116,49.315342,0 -124.36046,49.315036,0 -124.357666,49.314521,0 -124.356916,49.314382,0 -124.349648,49.313057,0 -124.347992,49.312725,0 -124.347734,49.312656,0 -124.346542,49.312338,0 -124.345524,49.31199,0 -124.343907,49.311281,0 -124.340259,49.309425,0 -124.340108,49.309348,0 -124.339927,49.309256,0 -124.339785,49.309184,0 -124.33786,49.308204,0 -124.336938,49.307758,0 -124.335755,49.3073,0 -124.335371,49.307177,0 -124.334784,49.30699,0 -124.334413,49.306904,0 -124.333482,49.306687,0 -124.333098,49.306623,0 -124.332714,49.306558,0 -124.332095,49.306454,0 -124.329565,49.306165,0 -124.325646,49.305717,0 -124.325532,49.305705,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Shoulder maintenance between Lizard Creek Bridge and Vanlerberg Rd for 1.3 km (3 to 2 km west of Fernie). Until Wed Sep 17 at 11:00 AM MDT. Single lane alternating traffic. Watch for traffic control. Last updated Wed Sep 17 at 7:22 AM MDT. (DBC-81673)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Lizard Creek Bridge and Vanlerberg Rd for 1.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 to 3 km west of Fernie&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81673
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.075726,49.470699,0 -115.075701,49.470817,0 -115.075501,49.471433,0 -115.075165,49.471958,0 -115.073781,49.473806,0 -115.073462,49.474218,0 -115.072949,49.47488,0 -115.072675,49.475494,0 -115.072522,49.476136,0 -115.072515,49.476166,0 -115.072532,49.476745,0 -115.072704,49.477387,0 -115.072808,49.477619,0 -115.07285,49.477712,0 -115.073545,49.478828,0 -115.073677,49.479042,0 -115.073971,49.479515,0 -115.074247,49.479959,0 -115.074345,49.480116,0 -115.074461,49.480303,0 -115.07511,49.481346,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4997,31 +4971,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99. Bridge maintenance planned at Powerhouse Rd (Lillooet). Starting Wed Sep 17 at 7:00 AM PDT until Thu Sep 18 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on Wednesday and Thursday. Lane Closure. Expect up to 30 minute delays on the Dunlop Bridge between Ainsworth Rd and Powerhouse Rd. Watch for flaggers. Last updated Mon Sep 15 at 11:57 AM PDT. (DBC-81601)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Powerhouse Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Lillooet&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T11:57:42-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81601
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.931898,50.676568,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway). Traffic signal outage planned between Highway 23 North and Glacier National Park East Boundary for 86.2 km (Revelstoke to 5 km west of East Boundary of Glacier National Park). Starting Thu Sep 18 at 8:00 AM PDT until Thu Sep 18 at 4:00 PM PDT. Utility work planned. BC Hydro planned outage. Last updated Mon Sep 15 at 11:57 AM PDT. (DBC-81600)</name>
           <description>
     &lt;![CDATA[
@@ -5072,6 +5021,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-117.47989,51.463186,0 -117.480289,51.464206,0 -117.480491,51.464884,0 -117.480543,51.465061,0 -117.480712,51.465629,0 -117.480784,51.465871,0 -117.480888,51.466222,0 -117.481223,51.467969,0 -117.482053,51.472322,0 -117.482101,51.472577,0 -117.482433,51.474317,0 -117.48245,51.474865,0 -117.482383,51.475468,0 -117.482285,51.475901,0 -117.48197,51.476687,0 -117.481579,51.47734,0 -117.480917,51.478283,0 -117.479541,51.480242,0 -117.475858,51.485639,0 -117.475703,51.485865,0 -117.474987,51.486914,0 -117.474238,51.488077,0 -117.473325,51.48932,0 -117.472689,51.49009,0 -117.471588,51.491187,0 -117.470389,51.492236,0 -117.469991,51.492575,0 -117.466745,51.495338,0 -117.4663,51.495716,0 -117.465079,51.496951,0 -117.464398,51.497832,0 -117.463807,51.498667,0 -117.463352,51.49931,0 -117.46306,51.499722,0 -117.462846,51.500024,0 -117.462786,51.500109,0 -117.46239,51.500669,0 -117.461688,51.501601,0 -117.461073,51.50215,0 -117.460521,51.502489,0 -117.45994,51.502749,0 -117.459211,51.502981,0 -117.45725,51.503402,0 -117.452134,51.504501,0 -117.450736,51.504866,0 -117.44985,51.505259,0 -117.449683,51.505333,0 -117.449146,51.505646,0 -117.449113,51.505665,0 -117.448254,51.506414,0 -117.446229,51.508887,0 -117.445761,51.509458,0 -117.445191,51.510037,0 -117.44451,51.510561,0 -117.443638,51.511081,0 -117.442585,51.511528,0 -117.441896,51.511749,0 -117.441313,51.511906,0 -117.440477,51.512072,0 -117.439872,51.512157,0 -117.439232,51.512214,0 -117.438434,51.512243,0 -117.437794,51.51223,0 -117.437059,51.512177,0 -117.436298,51.512078,0 -117.435588,51.511942,0 -117.433103,51.511308,0 -117.429323,51.510216,0 -117.4276,51.509811,0 -117.426275,51.509453,0 -117.425442,51.50918,0 -117.424629,51.508863,0 -117.423752,51.508475,0 -117.422894,51.508017,0 -117.419073,51.505766,0 -117.409209,51.499992,0 -117.407075,51.498743,0 -117.406919,51.498652,0 -117.400044,51.494627,0 -117.398994,51.494012,0 -117.398965,51.493996,0 -117.397434,51.493152,0 -117.396474,51.492685,0 -117.395246,51.492147,0 -117.394782,51.49196,0 -117.39394,51.491621,0 -117.389217,51.489718,0 -117.387099,51.488864,0 -117.384263,51.487721,0 -117.367755,51.481064,0 -117.364974,51.479942,0 -117.363456,51.479331,0 -117.363271,51.479257,0 -117.362033,51.478759,0 -117.361787,51.478676,0 -117.361343,51.478526,0 -117.360625,51.478385,0 -117.360008,51.47832,0 -117.359402,51.478314,0 -117.358994,51.478351,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99. Bridge maintenance at Powerhouse Rd (Lillooet). Until Thu Sep 18 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on Wednesday and Thursday. Lane Closure. Expect up to 30 minute delays on the Dunlop Bridge between Ainsworth Rd and Powerhouse Rd. Watch for flaggers. Last updated Mon Sep 15 at 11:57 AM PDT. (DBC-81601)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Powerhouse Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Lillooet&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81601
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.931898,50.676568,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 19A (Island Highway). Utility work planned between Oliver Rd and Turner Rd for 0.6 km (Nanaimo). Starting Wed Sep 17 at 9:00 AM PDT until Wed Sep 17 at 2:00 PM PDT. Last updated Fri Sep 12 at 11:00 AM PDT. (DBC-81502)</name>
@@ -5510,6 +5484,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Mowing between Haldi Rd and Tamarack St for 9.8 km (Prince George). Until Wed Sep 17 at 5:00 PM PDT. Lane Closure. Last updated Wed Sep 17 at 6:50 AM PDT. (DBC-81677)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Haldi Rd and Tamarack St for 9.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince George&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81677
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.833645,53.840546,0 -122.833375,53.840806,0 -122.832588,53.84149,0 -122.832486,53.841591,0 -122.830276,53.843728,0 -122.829221,53.844799,0 -122.828346,53.84564,0 -122.827926,53.846043,0 -122.827796,53.846165,0 -122.824975,53.84873,0 -122.824829,53.848887,0 -122.824525,53.849182,0 -122.824276,53.849421,0 -122.824036,53.849689,0 -122.823593,53.850184,0 -122.823038,53.851059,0 -122.82267,53.851882,0 -122.821701,53.855181,0 -122.821437,53.855703,0 -122.821065,53.856182,0 -122.820601,53.856623,0 -122.820043,53.85701,0 -122.819419,53.857354,0 -122.818737,53.857641,0 -122.81791,53.857875,0 -122.817051,53.858039,0 -122.815938,53.858191,0 -122.807042,53.859264,0 -122.806072,53.859439,0 -122.805045,53.859705,0 -122.804254,53.859971,0 -122.802182,53.860964,0 -122.801858,53.86112,0 -122.801437,53.861355,0 -122.797071,53.86367,0 -122.796189,53.864024,0 -122.795439,53.86425,0 -122.791926,53.864891,0 -122.791584,53.864964,0 -122.791336,53.865033,0 -122.787144,53.86591,0 -122.785837,53.866179,0 -122.784676,53.866395,0 -122.784229,53.866516,0 -122.78398,53.866591,0 -122.783213,53.866823,0 -122.782793,53.866996,0 -122.782153,53.867318,0 -122.781487,53.867742,0 -122.780996,53.868174,0 -122.780822,53.868409,0 -122.780552,53.868774,0 -122.78049,53.868883,0 -122.78035,53.869128,0 -122.780291,53.869257,0 -122.780132,53.869613,0 -122.778517,53.873228,0 -122.778296,53.873612,0 -122.777969,53.873997,0 -122.777466,53.87448,0 -122.776907,53.874815,0 -122.776388,53.875054,0 -122.775941,53.875208,0 -122.77535,53.875353,0 -122.774737,53.875425,0 -122.773359,53.875492,0 -122.772912,53.875544,0 -122.77241,53.875681,0 -122.771938,53.875868,0 -122.771498,53.876129,0 -122.771059,53.876474,0 -122.770699,53.876925,0 -122.77046,53.877407,0 -122.770005,53.880949,0 -122.769961,53.881279,0 -122.769783,53.882624,0 -122.769697,53.882963,0 -122.76966,53.883055,0 -122.769521,53.8834,0 -122.768739,53.884387,0 -122.767701,53.885803,0 -122.76743,53.886381,0 -122.767287,53.887098,0 -122.767274,53.888354,0 -122.767262,53.888797,0 -122.76726,53.888878,0 -122.767256,53.889312,0 -122.767204,53.892195,0 -122.767168,53.893705,0 -122.767162,53.893952,0 -122.767121,53.89457,0 -122.767095,53.894915,0 -122.767169,53.895554,0 -122.767691,53.896665,0 -122.76795,53.897221,0 -122.768002,53.897342,0 -122.768217,53.897775,0 -122.768713,53.898751,0 -122.768754,53.8992,0 -122.768672,53.899718,0 -122.7683,53.900325,0 -122.768076,53.900573,0 -122.763956,53.903776,0 -122.763569,53.904077,0 -122.762638,53.904809,0 -122.762271,53.905023,0 -122.762189,53.905071,0 -122.76143,53.905298,0 -122.760843,53.905381,0 -122.760576,53.905411,0 -122.759237,53.905414,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, northbound. Road construction work at Exit 32: Steveston Hwy (Richmond). Until Fri Sep 19 at 5:00 AM PDT. From 10:00 PM to 5:00 AM PDT on weekdays. Road closed. Detour in effect. Next update time Fri Sep 19 at 5:00 AM PDT. Last updated Tue Sep 16 at 10:04 AM PDT. (DBC-81325)</name>
           <description>
     &lt;![CDATA[
@@ -5557,6 +5557,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-117.503345,51.27076,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned at Exit 10: 21st St (West Vancouver). Starting Wed Sep 17 at 8:00 PM PDT until Thu Sep 18 at 5:00 AM PDT. 21st St. Off ramp closed for paving with detours to 15th St. Paving northbound on 21st St. Between Queens and Westhill Drive. Last updated Wed Sep 17 at 6:54 AM PDT. (DBC-81678)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 10: 21st St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T06:54:25-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81678
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.167821,49.343909,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5638,6 +5663,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Paving operations planned at Exit 10: 21st St (West Vancouver). Starting Thu Sep 18 at 8:00 PM PDT until Fri Sep 19 at 5:00 AM PDT. Eastbound 21st St. On ramp closed with detours to 15th St. Paving northbound on 21st St. Between Queens and Westhill Dr. Last updated Wed Sep 17 at 6:57 AM PDT. (DBC-81680)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 10: 21st St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T06:57:01-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81680
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.167821,49.343909,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Alaska Highway), southbound. Utility work between Charlie Lake Cres and Bens Rd for 1.0 km (8 to 7 km north of Fort St John). Until Fri Sep 19 at 5:00 PM MST. Shoulder closed. Telecom conduit and cable installation. Last updated Mon Sep 8 at 10:53 AM MST. (DBC-81306)</name>
           <description>
     &lt;![CDATA[
@@ -5687,6 +5737,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.48273,56.208789,0 -121.481331,56.208954,0 -121.47995,56.209134,0 -121.479196,56.209286,0 -121.478474,56.209472,0 -121.478122,56.209596,0 -121.477484,56.209823,0 -121.476529,56.21021,0 -121.473363,56.211494,0 -121.472162,56.212006,0 -121.47113,56.212395,0 -121.4703,56.212657,0 -121.469715,56.212814,0 -121.469043,56.212975,0 -121.467396,56.213301,0 -121.465825,56.213618,0 -121.464221,56.21394,0 -121.461772,56.214431,0 -121.459242,56.214944,0 -121.458576,56.215109,0 -121.457965,56.215281,0 -121.457283,56.215508,0 -121.45676,56.215695,0 -121.45631,56.215877,0 -121.45574,56.216113,0 -121.454563,56.216611,0 -121.453546,56.217035,0 -121.446946,56.219781,0 -121.440327,56.222545,0 -121.439044,56.223081,0 -121.437601,56.223514,0 -121.43565,56.224145,0 -121.434035,56.224661,0 -121.432422,56.22516,0 -121.431181,56.225529,0 -121.430071,56.225884,0 -121.429451,56.226203,0 -121.428758,56.226592,0 -121.428154,56.227055,0 -121.427635,56.227611,0 -121.427311,56.228174,0 -121.427114,56.228695,0 -121.427076,56.229065,0 -121.427066,56.233324,0 -121.427055,56.23338,0 -121.42699,56.2337,0 -121.426899,56.233869,0 -121.426588,56.234163,0 -121.425865,56.234497,0 -121.424869,56.234881,0 -121.421299,56.236254,0 -121.419311,56.237119,0 -121.418728,56.237308,0 -121.418524,56.237374,0 -121.415207,56.23802,0 -121.41001,56.239033,0 -121.409941,56.239041,0 -121.408186,56.239254,0 -121.407427,56.239402,0 -121.406725,56.239615,0 -121.406228,56.239821,0 -121.404759,56.240567,0 -121.404199,56.240795,0 -121.404044,56.240858,0 -121.403574,56.241002,0 -121.402839,56.241228,0 -121.402332,56.241343,0 -121.401699,56.241487,0 -121.400899,56.241611,0 -121.40003,56.241701,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, southbound. Construction work between Mount Olie St and Webb Rd for 1.9 km (Little Fort). Until Fri Oct 10 at 5:30 PM PDT. Integrity dig completion and demobilization. Single lane alternating traffic during demobilization. Last updated Tue Sep 16 at 8:44 AM PDT. (DBC-81638)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Webb Rd and Mount Olie St for 1.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Little Fort&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81638
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.208622,51.406776,0 -120.208698,51.406929,0 -120.209037,51.407644,0 -120.209111,51.407742,0 -120.209235,51.407906,0 -120.20947,51.408216,0 -120.209848,51.408606,0 -120.210055,51.40882,0 -120.210722,51.409432,0 -120.211218,51.409965,0 -120.211582,51.410654,0 -120.211925,51.411304,0 -120.212107,51.411701,0 -120.212985,51.41361,0 -120.213138,51.413987,0 -120.213155,51.414032,0 -120.213223,51.414198,0 -120.213169,51.414857,0 -120.21307,51.415045,0 -120.212836,51.415489,0 -120.21279,51.415533,0 -120.212246,51.41606,0 -120.211366,51.416822,0 -120.209306,51.418865,0 -120.207088,51.420921,0 -120.206819,51.421278,0 -120.206354,51.421893,0 -120.206325,51.421941,0 -120.206048,51.422405,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6943,7 +7019,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Vehicle incident between Exit 26 and Exit 28 (Delta). Left lane is blocked. Expect delays due to congestion. Next update time Wed Sep 17 at 7:00 AM PDT. Last updated Wed Sep 17 at 6:30 AM PDT. (DBC-81674)</name>
+          <name>Highway 99, northbound. Road cleared between Exit 26 and Exit 28 (Delta). Expect delays due to congestion. Last updated Wed Sep 17 at 6:48 AM PDT. (DBC-81674)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6955,8 +7031,8 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 26 and Exit 28&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T06:30:01-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-17T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T06:48:47-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-81674
@@ -6965,6 +7041,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.039485,49.100498,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle fire between Exit 92 and Exit 95: Whatcom Rd (Abbotsford). Right lane is blocked. Expect delays due to congestion. Next update time Wed Sep 17 at 7:30 AM PDT. Last updated Wed Sep 17 at 6:55 AM PDT. (DBC-81679)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; FIRE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 92 and Exit 95: Whatcom Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T06:55:31-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-17T07:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81679
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.24602,49.03321,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
