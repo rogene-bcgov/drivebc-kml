@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-17 03:10:18 UTC
+        Last updated: 2025-09-17 03:38:26 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1994,31 +1994,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Road construction work planned at Keith Rd (West Vancouver). Starting Tue Sep 16 at 8:30 PM PDT until Tue Sep 16 at 11:30 PM PDT. Lane Closure. Watch for traffic control personnel. Last updated Tue Aug 26 at 4:58 PM PDT. (DBC-80904)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Keith Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-08-26T16:58:07-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-80904
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.134931,49.330845,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 9, southbound. Maintenance between Cheam Ave and McDonald Rd for 1.1 km (Kent). Until Fri Sep 19. From 9:00 AM to 3:00 PM PDT on Tuesday, Wednesday, Thursday and Friday. Right lane closed. Last updated Fri Sep 5 at 1:35 PM PDT. (DBC-81234)</name>
           <description>
     &lt;![CDATA[
@@ -2067,6 +2042,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.125318,49.32508,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Road construction work at Keith Rd (West Vancouver). Until Tue Sep 16 at 11:30 PM PDT. Lane Closure. Watch for traffic control. Last updated Tue Aug 26 at 4:58 PM PDT. (DBC-80904)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Keith Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-16T20:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-80904
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.134931,49.330845,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
