@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-18 14:02:29 UTC
+        Last updated: 2025-09-18 14:34:58 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2526,6 +2526,32 @@
           <Point>
             <coordinates>-116.509167,49.088191,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), westbound. Utility work planned between Bayview Rd and Orange Valley Rd for 0.6 km (9 to 8 km east of Fraser Lake). Starting Thu Sep 25 at 8:00 AM PDT until Thu Oct 9 at 4:00 PM PDT. From 8:00 AM to 4:00 PM PDT daily. Right lane will be closed. Cable placing and splicing. Last updated Thu Sep 18 at 7:22 AM PDT. (DBC-81732)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Orange Valley Rd and Bayview Rd for 0.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 to 8 km east of Fraser Lake&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T07:22:13-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81732
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.711455,54.053926,0 -124.710394,54.053823,0 -124.708784,54.053666,0 -124.708358,54.053641,0 -124.70784,54.05361,0 -124.706986,54.0536,0 -124.706354,54.05364,0 -124.705734,54.053734,0 -124.705032,54.053888,0 -124.703521,54.05437,0 -124.702375,54.054774,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 13, in both directions. Construction work between 28 Ave and 30A Ave for 0.5 km (Langley - District). Until Tue Sep 30. From 8:00 PM to 5:00 AM PDT and from 7:00 AM to 7:00 PM PDT on weekdays. Watch for traffic control. Singe lane alternating traffic during nighttime hours. Watch for crews during the day. Next update time Tue Sep 30. Last updated Mon Jul 28 at 9:19 AM PDT. (DBC-79798)</name>
@@ -6278,31 +6304,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 4. Electrical maintenance planned at Adelaide St (Port Alberni). Starting Thu Sep 18 at 7:30 AM PDT until Thu Sep 18 at 4:00 PM PDT. Watch for traffic control personnel. Last updated Mon Sep 15 at 1:29 PM PDT. (DBC-81608)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Adelaide St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Alberni&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T13:29:27-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81608
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-124.808341,49.25947,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Inland Island Highway), southbound. Utility work planned between Summerset Rd and Hillview Rd for 2.8 km (7 km south of Parksville to 8 km north of Nanaimo). Starting Mon Sep 22 at 9:00 AM PDT until Mon Sep 22 at 3:00 PM PDT. Last updated Tue Sep 16 at 11:58 AM PDT. (DBC-81652)</name>
           <description>
     &lt;![CDATA[
@@ -6327,6 +6328,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-124.194398,49.26102,0 -124.191934,49.260672,0 -124.191152,49.260562,0 -124.190356,49.260396,0 -124.189721,49.260189,0 -124.188991,49.259891,0 -124.186862,49.258789,0 -124.18487,49.257759,0 -124.184207,49.257416,0 -124.183062,49.256911,0 -124.182005,49.256519,0 -124.181653,49.256412,0 -124.180503,49.256063,0 -124.176826,49.255114,0 -124.170289,49.253273,0 -124.169399,49.25311,0 -124.168339,49.253033,0 -124.162281,49.252751,0 -124.159901,49.252576,0 -124.159112,49.252566,0 -124.158857,49.252562,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 4. Electrical maintenance at Adelaide St (Port Alberni). Until Thu Sep 18 at 4:00 PM PDT. Watch for traffic control. Last updated Mon Sep 15 at 1:29 PM PDT. (DBC-81608)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Adelaide St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Alberni&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T07:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81608
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.808341,49.25947,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Road sweeping between Deadman-Vidette Rd and Greenstone Rd for 32.4 km (29 km east of Cache Creek to 7 km west of Kamloops). Until Thu Sep 18 at 4:00 PM PDT. Single lane alternating traffic. Expect minor delays. Expect delays up to 10 minutes due to sweeping CRB's and curbs. Last updated Thu Sep 18 at 6:15 AM PDT. (DBC-81729)</name>
@@ -7038,31 +7064,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, northbound. Road cleared between Exit 26 and Exit 28 (Delta). Last updated Thu Sep 18 at 6:57 AM PDT. (DBC-81731)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 26 and Exit 28&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T06:57:35-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81731
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.047943,49.104304,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
