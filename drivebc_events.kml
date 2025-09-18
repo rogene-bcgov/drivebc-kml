@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-18 06:02:32 UTC
+        Last updated: 2025-09-18 06:39:23 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (291)</name>
+      <name>🚗 Traffic Events (292)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -560,6 +560,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Road sweeping between Exit 20 and Massey Tunnel for 5.7 km (Delta). Right lane closed. Rolling closure. Last updated Wed Sep 17 at 11:28 PM PDT. (DBC-81723)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 20 and Massey Tunnel for 5.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T23:28:48-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81723
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.003014,49.090834,0 -123.003566,49.090922,0 -123.014233,49.092998,0 -123.019085,49.093942,0 -123.023082,49.09472,0 -123.024136,49.094925,0 -123.026296,49.095345,0 -123.026387,49.095363,0 -123.026551,49.095394,0 -123.026691,49.095422,0 -123.027399,49.095559,0 -123.028104,49.095703,0 -123.028875,49.095893,0 -123.029787,49.096173,0 -123.029966,49.096242,0 -123.030682,49.096515,0 -123.031229,49.096756,0 -123.039738,49.100612,0 -123.047739,49.104212,0 -123.04996,49.105211,0 -123.055538,49.107769,0 -123.055646,49.107817,0 -123.055701,49.107842,0 -123.056791,49.108335,0 -123.057397,49.10861,0 -123.059688,49.109649,0 -123.060952,49.110227,0 -123.061573,49.110588,0 -123.062941,49.111686,0 -123.064717,49.113111,0 -123.066009,49.114154,0 -123.066722,49.11473,0 -123.06679,49.114784,0 -123.067503,49.11536,0 -123.067712,49.115528,0 -123.06853,49.116189,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Road construction work between Hemlock Grove Boardwalk and Illecillewaet Campground for 0.6 km (8 to 9 km east of West Boundary of Glacier National Park). Until Fri Oct 31. From 7:00 AM to 7:00 PM PDT daily. Culvert replacement work. Speed limit 50km/h at all times due to narrowing/realignment requirements. Last updated Fri Jul 11 at 4:20 PM PDT. (DBC-79076)</name>
           <description>
     &lt;![CDATA[
@@ -864,6 +890,32 @@
           <Point>
             <coordinates>-123.05139,49.10585,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road sweeping between Exit 53: 176th St / Highway 15 and 202 St for 5.2 km (Langley - District to Surrey). Until Thu Sep 18 at 5:00 AM PDT. Right lane closed. Last updated Wed Sep 17 at 11:28 PM PDT. (DBC-81722)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 53: 176th St / Highway 15 and 202 St for 5.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey to Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T23:28:04-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81722
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.734962,49.181398,0 -122.734784,49.18136,0 -122.73448,49.181279,0 -122.73343,49.181003,0 -122.731273,49.180433,0 -122.731225,49.18042,0 -122.729926,49.180077,0 -122.727867,49.179533,0 -122.727116,49.179335,0 -122.726199,49.179095,0 -122.724635,49.178681,0 -122.723043,49.178261,0 -122.721564,49.177871,0 -122.72005,49.177472,0 -122.718539,49.177074,0 -122.717056,49.176682,0 -122.71575,49.176314,0 -122.715611,49.176277,0 -122.711238,49.175173,0 -122.70972,49.174808,0 -122.709195,49.174675,0 -122.70906,49.174641,0 -122.702062,49.172681,0 -122.70198,49.172658,0 -122.69768,49.171517,0 -122.695043,49.170827,0 -122.694338,49.170642,0 -122.693903,49.170528,0 -122.692559,49.170176,0 -122.692501,49.170161,0 -122.692393,49.170132,0 -122.688027,49.16896,0 -122.685333,49.168236,0 -122.679297,49.166714,0 -122.679001,49.166641,0 -122.677893,49.166361,0 -122.6777,49.166313,0 -122.67615,49.165931,0 -122.675687,49.165817,0 -122.673139,49.16519,0 -122.669261,49.164179,0 -122.669124,49.164144,0 -122.669006,49.164111,0 -122.668925,49.164091,0 -122.668815,49.164064,0 -122.668713,49.164035,0 -122.668086,49.163858,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 23, southbound. Electrical maintenance between Mica Dam Avalanche Gates and Canoe St - Mica Village (1 km south of Mica Dam). Until Thu Sep 18 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on Wednesday and Thursday. Shoulder closed. Last updated Sat Aug 30 at 5:55 PM PDT. (DBC-81058)</name>
@@ -3624,31 +3676,6 @@
             <tessellate>1</tessellate>
             <coordinates>-121.958815,49.250779,0 -121.958536,49.250873,0 -121.957492,49.251105,0 -121.956483,49.251244,0 -121.955623,49.251293,0 -121.955221,49.25129,0 -121.954847,49.251287,0 -121.953864,49.251205,0 -121.953029,49.251092,0 -121.952093,49.250838,0 -121.952024,49.250816,0 -121.951398,49.250613,0 -121.950602,49.250246,0 -121.949994,49.249925,0 -121.949243,49.249398,0 -121.948648,49.248816,0 -121.947582,49.247654,0 -121.946416,49.246383,0 -121.946345,49.246305,0 -121.945366,49.24524,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 19 (Inland Island Highway), in both directions. Electrical maintenance at Piercy Rd (6 km north of Cumberland). Until Wed Sep 17 at 11:30 PM PDT. Lane closures in both directions in effect. Watch for traffic control. Speed Reduction will be in place. Last updated Wed Sep 17 at 2:17 PM PDT. (DBC-81707)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Piercy Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 km north of Cumberland&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T20:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81707
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-125.087088,49.69848,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Electrical maintenance between Exit 14: Capilano Rd and Exit 13 for 1.5 km (North Vancouver - District to West Vancouver). Until Fri Sep 26. From 9:00 PM to 6:00 AM PDT daily. Right turn lane closed. Right lane closed. Last updated Wed Sep 10 at 5:09 PM PDT. (DBC-81002)</name>
