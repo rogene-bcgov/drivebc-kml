@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-18 16:02:34 UTC
+        Last updated: 2025-09-18 16:36:42 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3910,7 +3910,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Maintenance planned at Exit 27: E 1st Ave (Vancouver). Starting Thu Sep 18 at 9:00 AM PDT until Thu Sep 18 at 2:00 PM PDT. Right lane will be blocked. Sign replacement on 1st Ave. Off ramp. Last updated Thu Sep 18 at 8:56 AM PDT. (DBC-81738)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Maintenance at Exit 27: E 1st Ave (Vancouver). Until Thu Sep 18 at 2:00 PM PDT. Right lane is blocked. Sign replacement on 1st Ave. Off ramp. Last updated Thu Sep 18 at 8:56 AM PDT. (DBC-81738)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3922,7 +3922,7 @@
     &lt;b&gt;Location:&lt;/b&gt; At Exit 27: E 1st Ave&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T08:56:22-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3982,6 +3982,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-117.996,51.039318,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Glade Ferry. Ferry will be out of service at Glade Ferry. Starting Sun Sep 21 at 11:45 PM PDT until Mon Sep 22 at 5:00 AM PDT. Due to required maintenance. Maintenance being performed during nightly shutdown period. Last updated Thu Sep 18 at 8:59 AM PDT. (DBC-81739)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Glade Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Glade Ferry&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T08:59:13-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81739
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-117.544328,49.395205,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5301,7 +5326,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway), in both directions. Crack sealing is planned between Manning Park Resort and Monument 78-Monument 83 Trail for 3.4 km (64 km east of Hope to 61 km west of Princeton). Starting Thu Sep 18 at 9:00 AM PDT until Thu Sep 18 at 3:30 PM PDT. Left lane will be closed in both directions. Last updated Wed Sep 17 at 5:19 PM PDT. (DBC-81718)</name>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Crack sealing is underway between Manning Park Resort and Monument 78-Monument 83 Trail for 3.4 km (64 km east of Hope to 61 km west of Princeton). Until Thu Sep 18 at 3:30 PM PDT. Left lane is closed in both directions. Last updated Wed Sep 17 at 5:19 PM PDT. (DBC-81718)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5313,7 +5338,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Manning Park Resort and Monument 78-Monument 83 Trail for 3.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 61 km west of Princeton to 64 km east of Hope&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-17T17:19:11-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7090,31 +7115,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-124.748379,48.97225,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, northbound. Stalled vehicle between Exit 11 and Boundary Rd (1 km south of Richmond). Right lane is blocked. Expect delays due to congestion. Next update time Thu Sep 18 at 9:15 AM PDT. Last updated Thu Sep 18 at 8:41 AM PDT. (DBC-81737)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Boundary Rd and Exit 11&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km south of Richmond&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T08:41:14-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-18T09:15:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81737
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.95691,49.176848,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
