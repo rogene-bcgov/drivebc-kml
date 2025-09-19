@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-19 12:43:58 UTC
+        Last updated: 2025-09-19 13:08:38 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -376,6 +376,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-124.485351,58.661504,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Shoulder maintenance planned at Riverside Dr (Fernie). Starting Fri Sep 19 at 7:30 AM MDT until Fri Sep 19 at 9:00 AM MDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Sep 19 at 7:01 AM MDT. (DBC-81774)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Riverside Dr&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Fernie&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T06:01:37-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81774
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-115.071331,49.503316,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4941,32 +4966,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 15 (Pacific Highway), northbound. Utility work planned between 68A Ave and Fraser Hwy for 1.1 km (Surrey). Starting Fri Sep 19 at 6:00 AM PDT until Wed Oct 15 at 6:00 PM PDT. Construction work planned. Watch for traffic control personnel. Right lane will be blocked. Last updated Mon Sep 15 at 8:18 PM PDT. (DBC-81624)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 68A Ave and Fraser Hwy for 1.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T20:18:58-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81624
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.734704,49.127249,0 -122.734701,49.127596,0 -122.734674,49.129701,0 -122.734624,49.137511,0 -122.734651,49.138055,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 23, in both directions. Electrical maintenance planned between 5 Mile Boat Launch and St. Cyr Bridge for 5.1 km (1 to 6 km north of Revelstoke). Starting Mon Sep 29 until Fri Oct 3. From 8:00 AM to 4:00 PM PDT on weekdays. Road will be closed intermittently. Last updated Fri Aug 29 at 3:33 PM PDT. (DBC-81033)</name>
           <description>
     &lt;![CDATA[
@@ -5016,6 +5015,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-120.28866,55.785673,0 -120.288704,55.785686,0 -120.289203,55.78581,0 -120.289386,55.785856,0 -120.290306,55.786103,0 -120.290766,55.786224,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Utility work between 68A Ave and Fraser Hwy for 1.1 km (Surrey). Until Wed Oct 15 at 6:00 PM PDT. Construction work. Watch for traffic control. Right lane is blocked. Last updated Mon Sep 15 at 8:18 PM PDT. (DBC-81624)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 68A Ave and Fraser Hwy for 1.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T06:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81624
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.734704,49.127249,0 -122.734701,49.127596,0 -122.734674,49.129701,0 -122.734624,49.137511,0 -122.734651,49.138055,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6453,31 +6478,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-124.194398,49.26102,0 -124.191934,49.260672,0 -124.191152,49.260562,0 -124.190356,49.260396,0 -124.189721,49.260189,0 -124.188991,49.259891,0 -124.186862,49.258789,0 -124.18487,49.257759,0 -124.184207,49.257416,0 -124.183062,49.256911,0 -124.182005,49.256519,0 -124.181653,49.256412,0 -124.180503,49.256063,0 -124.176826,49.255114,0 -124.170289,49.253273,0 -124.169399,49.25311,0 -124.168339,49.253033,0 -124.162281,49.252751,0 -124.159901,49.252576,0 -124.159112,49.252566,0 -124.158857,49.252562,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3/5A, in both directions. Road construction work between Vermillion Ave and Old Headly Rd. Until Fri Sep 19 at 6:00 AM PDT. Single lane alternating traffic. Bridge St will be closed between Hwy 3 and Tapton Ave. Last updated Wed Sep 10 at 2:35 PM PDT. (DBC-81421)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3/5A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Vermillion Ave and Old Headly Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T18:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81421
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.505334,49.458146,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97C, in both directions. Electrical maintenance between North Rd and Empter Frontage Rd for 28.2 km (Ashcroft). Until Fri Sep 19. From 8:00 AM to 6:00 PM PDT on weekdays. Last updated Wed Sep 10 at 9:10 AM PDT. (DBC-81403)</name>
