@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-19 16:36:35 UTC
+        Last updated: 2025-09-19 17:02:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (288)</name>
+      <name>🚗 Traffic Events (291)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5456,6 +5456,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 97, in both directions. Bridge maintenance planned between Campbell Rd and Abbott St for 1.9 km (Kelowna). Starting Mon Sep 22 at 9:00 PM PDT until Thu Sep 25 at 5:00 AM PDT. From 9:00 PM to 5:00 AM PDT on Monday, Tuesday and Wednesday. Road sweeping planned. Last updated Fri Sep 19 at 9:44 AM PDT. (DBC-81780)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Campbell Rd and Abbott St for 1.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kelowna&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T09:44:18-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81780
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.523271,49.878332,0 -119.523003,49.878175,0 -119.522695,49.878039,0 -119.522557,49.877988,0 -119.522394,49.87794,0 -119.52138,49.877802,0 -119.52069,49.877814,0 -119.518982,49.878062,0 -119.511078,49.8795,0 -119.509721,49.879747,0 -119.505932,49.880438,0 -119.504527,49.880694,0 -119.504154,49.880762,0 -119.50242,49.881105,0 -119.502008,49.881278,0 -119.501703,49.881492,0 -119.501397,49.88187,0 -119.501111,49.882643,0 -119.500895,49.882997,0 -119.500623,49.883227,0 -119.500229,49.88344,0 -119.499933,49.883521,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Binnacle Road, in both directions. Construction work at Whistlebuoy Rd. Until Tue Oct 7 at 4:00 PM PDT. Single lane alternating traffic. Expect minor delays. Watch for traffic control. Watch for work crews and turning trucks. Last updated Mon Sep 8 at 10:07 AM PDT. (DBC-81301)</name>
           <description>
     &lt;![CDATA[
@@ -5478,6 +5504,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-125.129722,48.821431,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned at Exit 19: Lynn Valley Rd (North Vancouver - City). Starting Fri Sep 19 at 9:00 PM PDT until Sat Sep 20 at 5:00 AM PDT. Exit ramp will be closed. Entrance ramp will be closed. Watch for traffic control personnel. Follow detours. Last updated Fri Sep 19 at 9:48 AM PDT. (DBC-81781)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 19: Lynn Valley Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - City&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T09:48:59-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81781
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.053636,49.328879,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5505,6 +5556,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-117.76425,51.179261,0 -117.763443,51.179792,0 -117.761823,51.180858,0 -117.760608,51.181795,0 -117.759533,51.182624,0 -117.757574,51.184274,0 -117.756942,51.184806,0 -117.756355,51.185262,0 -117.755826,51.185595,0 -117.755453,51.185779,0 -117.755254,51.185878,0 -117.754406,51.186191,0 -117.753152,51.186545,0 -117.752323,51.186779,0 -117.751597,51.187042,0 -117.750973,51.187354,0 -117.750498,51.187712,0 -117.750022,51.188255,0 -117.749727,51.188955,0 -117.749461,51.189814,0 -117.748881,51.191686,0 -117.748566,51.192447,0 -117.748277,51.192886,0 -117.748139,51.193096,0 -117.745881,51.195896,0 -117.745706,51.196142,0 -117.74546,51.196489,0 -117.745238,51.196943,0 -117.745139,51.19732,0 -117.74515,51.197721,0 -117.745534,51.199757,0 -117.745557,51.199996,0 -117.745607,51.200525,0 -117.745577,51.200712,0 -117.745528,51.201023,0 -117.745352,51.201379,0 -117.745204,51.201675,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Maintenance at Exit 27: E 1st Ave (Vancouver). Until Fri Sep 19 at 2:30 PM PDT. Right lane is blocked. Watch for traffic control. Sign replacement. Right lane partially blocked. Last updated Fri Sep 19 at 9:57 AM PDT. (DBC-81782)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 27: E 1st Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T09:57:58-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81782
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.027735,49.269374,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Construction work at Peavine Bridge (9 km east of Moyie). Until Sat Nov 1 at 5:00 PM MDT. From 7:00 AM to 5:00 PM MDT on weekdays and Saturday. Right turn lane closed. Shoulder closed. Grading and paving upgrades for sign installation. Last updated Tue Sep 2 at 11:12 AM MDT. (DBC-81098)</name>
