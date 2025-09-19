@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-19 13:08:38 UTC
+        Last updated: 2025-09-19 13:36:55 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (288)</name>
+      <name>🚗 Traffic Events (289)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -376,31 +376,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-124.485351,58.661504,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway), in both directions. Shoulder maintenance planned at Riverside Dr (Fernie). Starting Fri Sep 19 at 7:30 AM MDT until Fri Sep 19 at 9:00 AM MDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Sep 19 at 7:01 AM MDT. (DBC-81774)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Riverside Dr&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Fernie&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T06:01:37-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81774
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-115.071331,49.503316,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -766,6 +741,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Paving operations between Brunswick Beach Rd and Porteau Cove Rd for 0.6 km (Lions Bay). Until Fri Sep 19 at 6:00 PM PDT. Right lane closed. Watch for traffic control. Last updated Fri Sep 19 at 6:12 AM PDT. (DBC-81775)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Brunswick Beach Rd and Porteau Cove Rd for 0.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Lions Bay&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T06:12:57-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81775
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.241869,49.474715,0 -123.241869,49.474937,0 -123.241886,49.475457,0 -123.241949,49.475725,0 -123.242006,49.475842,0 -123.242266,49.476217,0 -123.243125,49.477051,0 -123.243234,49.477194,0 -123.243314,49.477327,0 -123.243358,49.477428,0 -123.243405,49.477589,0 -123.243419,49.477722,0 -123.243422,49.477882,0 -123.243393,49.478061,0 -123.24336,49.478177,0 -123.243273,49.478416,0 -123.243138,49.47878,0 -123.243053,49.479019,0 -123.243001,49.479266,0 -123.243002,49.479337,0 -123.243007,49.479479,0 -123.243097,49.479957,0 -123.243123,49.480081,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Tamany Dr, northbound. Construction work at Keating Cross Rd in Saanich. Until Fri Oct 31. Road closed. Watch for traffic control. Tamany Rd will be closed at Keating Cross Rd as part of the Highway 17 Keating Cross Flyover Project. Next update time Thu Oct 30 at 9:00 AM PDT. Last updated Fri Jul 25 at 9:25 PM PDT. (DBC-79749)</name>
           <description>
     &lt;![CDATA[
@@ -994,6 +995,31 @@
             <tessellate>1</tessellate>
             <coordinates>-122.762273,49.240488,0 -122.76183,49.240718,0 -122.761462,49.240909,0 -122.758894,49.242242,0 -122.756661,49.243362,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Shoulder maintenance at Riverside Dr (Fernie). Until Fri Sep 19 at 9:00 AM MDT. Single lane alternating traffic. Watch for traffic control. Last updated Fri Sep 19 at 7:01 AM MDT. (DBC-81774)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Riverside Dr&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Fernie&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T06:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81774
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-115.071331,49.503316,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5, northbound. Paving operations between Cedarside Rd; Cranberry Lake Rd and Tete Jaune Access Rd for 22.3 km (2 km south of Valemount to 1 km south of Tete Jaune). Until Sat Sep 27 at 7:00 PM PDT. From 7:00 AM to 7:00 PM PDT on weekdays and Saturday. Single lane alternating traffic. Pilot car controlled. Roadside barriers removed. Watch for crews on highway. Last updated Sun Jul 13 at 8:26 PM PDT. (DBC-79166)</name>
@@ -6611,31 +6637,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle at Port Mann Bridge (Surrey). Right lane is blocked. Next update time Fri Sep 19 at 6:15 AM PDT. Last updated Fri Sep 19 at 5:34 AM PDT. (DBC-81773)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T05:34:01-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-19T06:15:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81773
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt Spring Island. Road closed. Detour in effect. Detour via Cranberry Road. Next update time Wed Sep 2, 2026 at 12:00 PM PDT. Last updated Tue Sep 2 at 4:21 PM PDT. (DBC-77329)</name>
           <description>
     &lt;![CDATA[
@@ -6658,6 +6659,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.492105,48.826325,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Stalled vehicle between Exit 28 and Massey Tunnel (Delta). HOV lane blocked. Watch for traffic control. Next update time Fri Sep 19 at 7:00 AM PDT. Last updated Fri Sep 19 at 6:16 AM PDT. (DBC-81776)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T06:16:57-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-19T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81776
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.060279,49.109919,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
