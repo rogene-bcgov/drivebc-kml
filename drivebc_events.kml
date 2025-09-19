@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-19 05:02:27 UTC
+        Last updated: 2025-09-19 05:33:28 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (295)</name>
+      <name>🚗 Traffic Events (296)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6248,6 +6248,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-122.967706,49.24363,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road sweeping between Exit 55: 192 St and Exit 58: 200 St for 1.8 km (Surrey to Langley - District). Until Fri Sep 19 at 5:00 AM PDT. Right lane is blocked. Last updated Thu Sep 18 at 10:27 PM PDT. (DBC-81771)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 55: 192 St and Exit 58: 200 St for 1.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District to Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T22:27:53-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81771
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.692501,49.170161,0 -122.692393,49.170132,0 -122.688027,49.16896,0 -122.685333,49.168236,0 -122.679297,49.166714,0 -122.679001,49.166641,0 -122.677893,49.166361,0 -122.6777,49.166313,0 -122.67615,49.165931,0 -122.675687,49.165817,0 -122.673139,49.16519,0 -122.669261,49.164179,0 -122.669124,49.164144,0 -122.669006,49.164111,0 -122.669002,49.16411,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, southbound. Bridge maintenance at Exit 16 (Delta). Until Fri Sep 19 at 5:00 AM PDT. From 10:00 PM to 5:00 AM PDT on Tuesday, Wednesday and Thursday. Exit ramp is closed. Detour in effect. Watch for traffic control. Detour in place to Exit 10. Next update time Fri Sep 19 at 5:00 AM PDT. Last updated Wed Sep 17 at 10:41 PM PDT. (DBC-81514)</name>
