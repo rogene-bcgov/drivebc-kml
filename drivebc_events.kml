@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-19 08:02:33 UTC
+        Last updated: 2025-09-19 08:36:38 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (293)</name>
+      <name>🚗 Traffic Events (294)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6324,6 +6324,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-123.053636,49.328879,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7B (Mary Hill Bypass), eastbound. Maintenance between United Blvd and Pitt River Rd for 0.4 km (Port Coquitlam). Until Fri Sep 19 at 5:00 AM PDT. Left lane is closed. Last updated Fri Sep 19 at 1:13 AM PDT. (DBC-81772)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7B&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between United Blvd and Pitt River Rd for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T01:13:40-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81772
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.797987,49.227476,0 -122.796649,49.227294,0 -122.795662,49.227159,0 -122.79483,49.227042,0 -122.793262,49.226834,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 16 (on Haida Gwaii), in both directions. Ditching between Masset Cemetery Rd and E Cedar Ave for 42.2 km (Port Clements to Masset). Until Fri Sep 19. From 7:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Mon Sep 15 at 12:26 PM PDT. (DBC-81605)</name>
