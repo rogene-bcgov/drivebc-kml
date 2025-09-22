@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-22 14:35:46 UTC
+        Last updated: 2025-09-22 15:02:28 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (262)</name>
+      <name>🚗 Traffic Events (263)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2021,32 +2021,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 19A (Island Highway), in both directions. Road maintenance work planned at Crane Rd (4 km south of Campbell River). Starting Mon Sep 22 at 8:00 AM PDT until Mon Sep 22 at 5:00 PM PDT. Possible delays. Watch for traffic control personnel. INTERMITTENT SINGLE LANE ALTERNATING TRAFFIC
-TRUCKS TURNING. Last updated Thu Sep 18 at 1:08 PM PDT. (DBC-81747)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Crane Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km south of Campbell River&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-18T13:08:47-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81747
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-125.185278,49.917889,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (on Haida Gwaii), in both directions. Bridge maintenance between E Cedar Ave and Beitush Rd for 6.3 km (7 km west of Tlell to 5 km east of Port Clements). Bridge construction. Bridge repairs in effect at Woodpile Bridge. Speed reduction, reduce speed. Next update time Mon Sep 22 at 12:30 PM PDT. Last updated Wed Sep 17 at 10:24 PM PDT. (DBC-74895)</name>
           <description>
     &lt;![CDATA[
@@ -2071,6 +2045,32 @@ TRUCKS TURNING. Last updated Thu Sep 18 at 1:08 PM PDT. (DBC-81747)</name>
             <tessellate>1</tessellate>
             <coordinates>-132.101895,53.652336,0 -132.096851,53.650278,0 -132.088324,53.646798,0 -132.085928,53.645819,0 -132.083003,53.644625,0 -132.082869,53.64457,0 -132.082571,53.644449,0 -132.082415,53.644385,0 -132.082343,53.644355,0 -132.074681,53.641206,0 -132.071678,53.639972,0 -132.062631,53.635968,0 -132.053906,53.632125,0 -132.053758,53.632059,0 -132.053626,53.632001,0 -132.053475,53.631935,0 -132.053433,53.631916,0 -132.053213,53.631819,0 -132.044452,53.627934,0 -132.040518,53.626189,0 -132.033658,53.623145,0 -132.031814,53.622327,0 -132.03136,53.622126,0 -132.029783,53.621426,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19A (Island Highway), in both directions. Road maintenance work at Crane Rd (4 km south of Campbell River). Until Mon Sep 22 at 5:00 PM PDT. Possible delays. Watch for traffic control. INTERMITTENT SINGLE LANE ALTERNATING TRAFFIC
+TRUCKS TURNING. Last updated Thu Sep 18 at 1:08 PM PDT. (DBC-81747)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Crane Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km south of Campbell River&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T08:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81747
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-125.185278,49.917889,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Alaska Highway), in both directions. Bridge maintenance planned between Big Bam Rd and Taylor Bridge for 0.1 km (Taylor). Starting Mon Sep 22 at 7:00 PM MST until Fri Oct 10 at 3:30 AM MST. From 7:00 PM to 3:30 AM MST on weekdays. Single lane alternating traffic will be in effect. Welding on Taylor Bridge. Drive posted speed limits, watch for crews and equipment. Contact DRM 250-262-2600 if load is overweight or wider than 12.6'. Last updated Sat Sep 20 at 12:43 AM MST. (DBC-81249)</name>
@@ -3939,6 +3939,31 @@ TRUCKS TURNING. Last updated Thu Sep 18 at 1:08 PM PDT. (DBC-81747)</name>
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Douglas Lake Road, in both directions. Construction work at 16km from Hwy 97 near Falkland. Until Thu Sep 25 at 4:00 PM PDT. Road closed. Closed for culvert work daily from 7:00am to 4:00pm until September 25, 2025. Next update time Thu Sep 25 at 4:00 PM PDT. Last updated Mon Sep 22 at 7:47 AM PDT. (DBC-81861)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Douglas Lake Road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 16km from Hwy 97 near Falkland&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T07:47:58-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-25T16:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81861
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.941707,50.347483,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97, southbound. Road maintenance work between Sage Mesa Dr and Green Lake Rd for 22.0 km (Okanagan Falls to 2 km north of Penticton). From 7:30 AM to 4:30 PM PDT on Wednesday and Thursday. Right lane will be closed. Watch for crew &amp; equipment. Use caution &amp; reduce speed when passing. Last updated Mon Aug 25 at 11:14 AM PDT. (DBC-80142)</name>
           <description>
     &lt;![CDATA[
@@ -5277,7 +5302,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 4, eastbound. Road maintenance work planned between Tofino-Ucluelet Hwy and Sutton Pass Summit for 46.1 km (3 km west of Sutton Pass Summit to 1 km east of Southern Boundary of Pacific Rim National Park). Starting Mon Sep 22 at 8:00 AM PDT until Fri Oct 3 at 4:30 PM PDT. From 8:00 AM to 4:30 PM PDT on weekdays. Right lane will be blocked. Watch for traffic control personnel. Eastbound Laneclosure at the Hynds Creek 4 lanes section. Last updated Fri Sep 19 at 11:00 AM PDT. (DBC-81784)</name>
+          <name>Highway 4, eastbound. Road maintenance work between Tofino-Ucluelet Hwy and Sutton Pass Summit for 46.1 km (3 km west of Sutton Pass Summit to 1 km east of Southern Boundary of Pacific Rim National Park). Until Fri Oct 3 at 4:30 PM PDT. From 8:00 AM to 4:30 PM PDT on weekdays. Right lane is blocked. Watch for traffic control. Eastbound Laneclosure at the Hynds Creek 4 lanes section. Last updated Fri Sep 19 at 11:00 AM PDT. (DBC-81784)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5289,7 +5314,7 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Location:&lt;/b&gt; Between Tofino-Ucluelet Hwy and Sutton Pass Summit for 46.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km east of Southern Boundary of Pacific Rim National Park to 3 km west of Sutton Pass Summit&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T11:00:59-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T08:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
