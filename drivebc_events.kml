@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-22 20:02:36 UTC
+        Last updated: 2025-09-22 20:34:03 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (280)</name>
+      <name>🚗 Traffic Events (282)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5378,6 +5378,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 7 (Lougheed Highway), eastbound. Electrical maintenance planned between Mill Rd and Highlands Blvd for 2.4 km (Kent). Starting Fri Sep 26 until Wed Oct 1 at 4:00 PM PDT. From 8:00 AM to 4:00 PM PDT daily. Right lane will be closed. Last updated Mon Sep 22 at 1:25 PM PDT. (DBC-81879)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Mill Rd and Highlands Blvd for 2.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kent&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T13:25:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81879
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.935423,49.240886,0 -121.929919,49.239761,0 -121.927916,49.239351,0 -121.924915,49.238639,0 -121.918916,49.237194,0 -121.918484,49.237099,0 -121.918238,49.237045,0 -121.918081,49.237011,0 -121.91742,49.236973,0 -121.916775,49.237062,0 -121.91628,49.237207,0 -121.915798,49.237453,0 -121.914228,49.238552,0 -121.913807,49.238781,0 -121.913597,49.238895,0 -121.913315,49.238987,0 -121.91303,49.239081,0 -121.912438,49.239219,0 -121.912285,49.239234,0 -121.911782,49.239283,0 -121.911092,49.239278,0 -121.910257,49.239167,0 -121.909766,49.239018,0 -121.909371,49.238899,0 -121.908795,49.238606,0 -121.908604,49.23851,0 -121.908241,49.238219,0 -121.906497,49.236822,0 -121.906233,49.236607,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Construction work at Peavine Bridge (9 km east of Moyie). Until Sat Nov 1 at 5:00 PM MDT. From 7:00 AM to 5:00 PM MDT on weekdays and Saturday. Right turn lane closed. Shoulder closed. Grading and paving upgrades for sign installation. No work on Saturday, September 20th. Last updated Fri Sep 19 at 3:45 PM MDT. (DBC-81098)</name>
           <description>
     &lt;![CDATA[
@@ -5401,6 +5427,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-115.82602,49.374241,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Utility work planned between Fernie Ski Hill Rd and Mt Fernie Park Rd for 3.0 km (4 to 1 km west of Fernie). Starting Wed Sep 24 at 10:00 PM MDT until Thu Sep 25 at 6:00 AM MDT. Right lane will be closed. Last updated Mon Sep 22 at 2:26 PM MDT. (DBC-81880)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Fernie Ski Hill Rd and Mt Fernie Park Rd for 3.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 to 4 km west of Fernie&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T13:26:38-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81880
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.072554,49.46126,0 -115.072634,49.46149,0 -115.073349,49.463504,0 -115.07357,49.464061,0 -115.073692,49.464367,0 -115.074313,49.465923,0 -115.074346,49.466006,0 -115.074627,49.466709,0 -115.075572,49.469074,0 -115.075756,49.469771,0 -115.075772,49.470025,0 -115.075794,49.470381,0 -115.075755,49.470567,0 -115.075726,49.470699,0 -115.075701,49.470817,0 -115.075501,49.471433,0 -115.075165,49.471958,0 -115.073781,49.473806,0 -115.073462,49.474218,0 -115.072949,49.47488,0 -115.072675,49.475494,0 -115.072522,49.476136,0 -115.072515,49.476166,0 -115.072532,49.476745,0 -115.072704,49.477387,0 -115.072808,49.477619,0 -115.07285,49.477712,0 -115.073545,49.478828,0 -115.073677,49.479042,0 -115.073971,49.479515,0 -115.074247,49.479959,0 -115.074345,49.480116,0 -115.074461,49.480303,0 -115.07511,49.481346,0 -115.076048,49.482842,0 -115.07697,49.484311,0 -115.07823,49.486318,0 -115.078362,49.48653,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, southbound. Utility work planned between Harrow Rd and Portage Rd for 0.4 km (Pemberton). Starting Mon Sep 29 at 8:00 AM PDT until Fri Oct 3 at 4:00 PM PDT. From 8:00 AM to 4:00 PM PDT on weekdays. Right lane will be blocked. Watch for traffic control personnel. No work on September 30th (Stat Holiday.). Last updated Fri Sep 12 at 12:13 PM PDT. (DBC-81506)</name>
