@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-22 23:31:32 UTC
+        Last updated: 2025-09-23 00:06:05 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -585,6 +585,31 @@
             <tessellate>1</tessellate>
             <coordinates>-117.623371,51.246764,0 -117.622178,51.247027,0 -117.620972,51.247292,0 -117.620777,51.247335,0 -117.617498,51.247871,0 -117.616535,51.248077,0 -117.616512,51.248083,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19A (Island Highway). Utility work planned at Buckley Bay Rd (Buckley Bay Ferry Terminal). Starting Tue Sep 23 at 9:00 AM PDT until Tue Sep 23 at 3:00 PM PDT. Watch for traffic control personnel. Last updated Mon Sep 22 at 4:53 PM PDT. (DBC-81893)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Buckley Bay Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Buckley Bay Ferry Terminal&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T16:53:12-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81893
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.849386,49.524783,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Kitsuksis Rd., in both directions. Utility work between Short st. And Spruce St. Until Fri Oct 31 at 5:00 PM PDT. Single lane alternating traffic. Expect minor delays. Watch for traffic control. Watermain installation. Last updated Mon Jun 30 at 8:23 AM PDT. (DBC-73760)</name>
@@ -6581,31 +6606,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.479074,53.155476,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident at Exit 25: McGill St (Vancouver). Left lane of off-ramp blocked. Last updated Mon Sep 22 at 4:10 PM PDT. (DBC-81892)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 25: McGill St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T16:10:30-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81892
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.031074,49.287065,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
