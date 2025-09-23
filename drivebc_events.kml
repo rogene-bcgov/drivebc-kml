@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-23 06:02:42 UTC
+        Last updated: 2025-09-23 06:39:50 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (286)</name>
+      <name>🚗 Traffic Events (287)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -7113,7 +7113,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 9, in both directions. Hazardous materials between Emerald Ave and Alder Ave for 0.4 km (Harrison Hot Springs). Road closed. Gas line rupture. Local detour in effect. Estimated time of re-opening Mon Sep 22 at 11:00 PM PDT. Next update time Mon Sep 22 at 11:00 PM PDT. Last updated Mon Sep 22 at 10:37 PM PDT. (DBC-81872)</name>
+          <name>Highway 7 (Lougheed Highway), eastbound. Vehicle incident between Laity St and 216 St (Maple Ridge). Lane Closure. Emergency vehicles on scene. Use an alternate route. Next update time Tue Sep 23 at 12:15 AM PDT. Last updated Mon Sep 22 at 11:10 PM PDT. (DBC-81901)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Laity St and 216 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Maple Ridge&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T23:10:33-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-23T00:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81901
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.622897,49.217038,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, in both directions. Vehicle incident between Railway Lane and Green Lake Rd (Okanagan Falls). Lane closures in both directions in effect. Emergency vehicles on scene. Expect delays. Next update time Tue Sep 23 at 12:30 AM PDT. Last updated Mon Sep 22 at 11:22 PM PDT. (DBC-81902)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7121,22 +7146,21 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 9&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Emerald Ave and Alder Ave for 0.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Harrison Hot Springs&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Railway Lane and Green Lake Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Okanagan Falls&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T22:37:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-22T23:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T23:22:33-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-23T00:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81872
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81902
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.780258,49.288175,0 -121.780135,49.288572,0 -121.780094,49.290854,0 -121.780327,49.291455,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-119.579586,49.345472,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), westbound. Avalanche deposit removal between Sunshine Valley and Exit 177 for 14.2 km (3 to 17 km east of Hope). Until Thu Sep 25 at 3:45 PM PDT. From 8:15 AM to 3:45 PM PDT on Monday, Tuesday, Wednesday and Thursday. Right lane closed. Cleaning out behind the lock block and wood wal. Last updated Fri Sep 19 at 10:36 AM PDT. (DBC-81783)</name>
