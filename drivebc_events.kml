@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-25 02:08:48 UTC
+        Last updated: 2025-09-25 02:51:57 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (284)</name>
+      <name>🚗 Traffic Events (283)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1174,6 +1174,32 @@
           <Point>
             <coordinates>-123.401172,48.640409,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99. Road maintenance work planned between Alta Lake Rd and Taylor Way for 0.5 km (Whistler). Starting Wed Oct 1 until Fri Oct 3. From 8:00 AM to 5:00 PM PDT on Wednesday, Thursday and Friday. Shoulder maintenance planned. Last updated Wed Sep 24 at 7:49 PM PDT. (DBC-82003)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Alta Lake Rd and Taylor Way for 0.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Whistler&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T19:49:40-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82003
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.005829,50.090538,0 -123.004126,50.090633,0 -123.003488,50.090612,0 -123.002764,50.090547,0 -123.002097,50.090434,0 -123.000221,50.089993,0 -122.999746,50.08992,0 -122.999697,50.089912,0 -122.999639,50.089904,0 -122.999393,50.089902,0 -122.99916,50.089901,0 -122.998911,50.089936,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, southbound. Maintenance planned at Massey Tunnel (Richmond). Starting Wed Oct 8 at 10:00 PM PDT until Thu Oct 9 at 6:00 AM PDT. Left lane will be closed. Night time construction work planned. Last updated Fri Sep 19 at 5:21 PM PDT. (DBC-81802)</name>
@@ -6637,31 +6663,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared at Port Mann Bridge (Surrey). Expect delays due to heavy congestion. Last updated Wed Sep 24 at 6:55 PM PDT. (DBC-82000)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T18:55:05-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82000
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Colleymount Rd, in both directions. Washout at 53.5km near Burns Lake. Single lane alternating traffic. Partial road washout, obey signage. Next update time Fri Sep 26 at 10:00 AM PDT. Last updated Fri Aug 29 at 9:47 AM PDT. (DBC-71008)</name>
           <description>
     &lt;![CDATA[
@@ -6685,32 +6686,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-126.479614,53.985412,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, northbound. Stalled vehicle between Massey Tunnel and Rice Mill Rd for 0.6 km (Richmond). Right lane is blocked. Next update time Wed Sep 24 at 7:30 PM PDT. Last updated Wed Sep 24 at 6:39 PM PDT. (DBC-82002)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Massey Tunnel and Rice Mill Rd for 0.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T18:39:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-24T19:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82002
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.075821,49.122079,0 -123.077945,49.123791,0 -123.07832,49.124094,0 -123.079545,49.125082,0 -123.079695,49.125204,0 -123.080785,49.126083,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>McKay Road, in both directions. Flooding at McKay Road. Road closed. Next update time Thu Apr 9, 2026 at 9:00 AM PDT. Last updated Thu Apr 10 at 9:28 AM PDT. (DBC-53013)</name>
