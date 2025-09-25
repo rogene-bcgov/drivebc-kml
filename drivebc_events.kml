@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-25 21:02:17 UTC
+        Last updated: 2025-09-25 21:31:32 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (291)</name>
+      <name>🚗 Traffic Events (292)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1382,6 +1382,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 10, in both directions. Paving operations planned at 168 St (Surrey). Starting Sat Sep 27 at 4:00 PM PDT until Sun Sep 28 at 6:00 PM PDT. Lane closures in both directions planned. Expect delays. Watch for traffic control personnel. Hwy 10 Eastbound Fast lane will be closed. Hwy 10 Westbound will be closed to traffic. Westbound traffic will be counter flowed into the Eastbound fast lane. Next update time Sun Sep 28 at 6:00 PM PDT. Last updated Thu Sep 25 at 2:19 PM PDT. (DBC-82031)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 168 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T14:19:45-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-28T18:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82031
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.756659,49.104231,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 17, southbound. Road maintenance work between Saanich Rd and Tolmie Ave for 0.8 km (Saanich to 1 km north of Victoria). Until Tue Sep 30. From 8:00 AM to 4:00 PM PDT daily. Right lane closed. Watch for traffic control. Last updated Mon Aug 18 at 9:45 AM PDT. (DBC-80589)</name>
           <description>
     &lt;![CDATA[
@@ -1483,6 +1508,32 @@
           <Point>
             <coordinates>-123.117156,49.192035,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, in both directions. Tree pruning planned between Duck Range Rd and Monte Creek for 4.4 km (1 to 5 km east of Monte Creek). Starting Fri Sep 26 until Sun Sep 28. From 8:00 AM to 4:00 PM PDT daily. Single lane alternating traffic will be in effect. Last updated Thu Sep 25 at 2:28 PM PDT. (DBC-82032)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Duck Range Rd and Monte Creek for 4.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 to 1 km east of Monte Creek&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T14:28:03-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82032
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.909611,50.621154,0 -119.912489,50.622734,0 -119.912682,50.622806,0 -119.913014,50.622929,0 -119.913618,50.623053,0 -119.914211,50.623081,0 -119.914367,50.623064,0 -119.915554,50.622933,0 -119.916239,50.622955,0 -119.91679,50.62305,0 -119.917317,50.623223,0 -119.917776,50.623465,0 -119.918131,50.623733,0 -119.918457,50.624151,0 -119.918688,50.624677,0 -119.918751,50.625132,0 -119.918569,50.625925,0 -119.918567,50.626222,0 -119.918747,50.626778,0 -119.91904,50.627365,0 -119.919208,50.627587,0 -119.919297,50.627705,0 -119.919599,50.627991,0 -119.919875,50.628186,0 -119.919997,50.628271,0 -119.920639,50.628617,0 -119.921128,50.62888,0 -119.921763,50.629222,0 -119.922709,50.629731,0 -119.923278,50.630027,0 -119.923594,50.630191,0 -119.924028,50.630416,0 -119.924191,50.630487,0 -119.924651,50.630688,0 -119.925089,50.630829,0 -119.925239,50.630877,0 -119.9253,50.630975,0 -119.929984,50.632017,0 -119.931346,50.632332,0 -119.935709,50.633334,0 -119.937009,50.63363,0 -119.947304,50.635971,0 -119.948342,50.636248,0 -119.94909,50.636539,0 -119.949192,50.636592,0 -119.949762,50.636886,0 -119.950418,50.637328,0 -119.950972,50.63785,0 -119.951339,50.638346,0 -119.95163,50.638931,0 -119.951763,50.639492,0 -119.951774,50.640043,0 -119.951664,50.64059,0 -119.951434,50.64111,0 -119.951138,50.641567,0 -119.950705,50.642041,0 -119.949925,50.642658,0 -119.949866,50.642705,0 -119.9498,50.642757,0 -119.949638,50.642898,0 -119.948926,50.643418,0 -119.948782,50.643572,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (Malahat Highway), southbound. Electrical maintenance planned at Mill Bay Rd (4 km north of Malahat Summit). Starting Thu Sep 25 at 10:00 PM PDT until Fri Sep 26 at 5:00 AM PDT. Right lane will be closed. Watch for traffic control personnel. Speed reduction will be in place. Last updated Thu Sep 18 at 12:58 PM PDT. (DBC-81744)</name>
@@ -6020,32 +6071,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-131.952624,53.532193,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97 (Cariboo Connector), in both directions. Pavement patching underway between Keene Rd and Canim-Hendrix Lake Rd for 9.2 km (100 Mile House). Until Thu Sep 25 at 2:00 PM PDT. Lane Closure. Watch for crews and equipment working. Last updated Thu Sep 25 at 7:36 AM PDT. (DBC-82017)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Keene Rd and Canim-Hendrix Lake Rd for 9.2 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 100 Mile House&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T07:36:10-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82017
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.309272,51.592894,0 -121.305446,51.597042,0 -121.30479,51.597621,0 -121.303557,51.598325,0 -121.301251,51.599457,0 -121.300258,51.599949,0 -121.298316,51.60091,0 -121.297319,51.601403,0 -121.297139,51.601493,0 -121.297029,51.601549,0 -121.292139,51.60398,0 -121.28918,51.605427,0 -121.288801,51.605654,0 -121.288006,51.606304,0 -121.287705,51.606652,0 -121.287392,51.607168,0 -121.287132,51.607676,0 -121.287037,51.608088,0 -121.286662,51.611347,0 -121.286579,51.612067,0 -121.286567,51.612756,0 -121.286921,51.613715,0 -121.287295,51.614212,0 -121.287638,51.614595,0 -121.288847,51.615657,0 -121.289687,51.616595,0 -121.289855,51.616844,0 -121.289959,51.617002,0 -121.290281,51.617997,0 -121.290473,51.618588,0 -121.290588,51.618823,0 -121.290782,51.619217,0 -121.291127,51.619724,0 -121.291764,51.620327,0 -121.293644,51.621864,0 -121.293836,51.622022,0 -121.294619,51.622599,0 -121.295649,51.623227,0 -121.299021,51.625191,0 -121.299105,51.62524,0 -121.299447,51.625505,0 -121.299698,51.625699,0 -121.299743,51.625734,0 -121.300045,51.626007,0 -121.300435,51.626427,0 -121.300765,51.626954,0 -121.300936,51.627298,0 -121.301084,51.627809,0 -121.301131,51.628475,0 -121.301064,51.629075,0 -121.300533,51.630918,0 -121.300351,51.631537,0 -121.300008,51.632705,0 -121.299332,51.63515,0 -121.298877,51.636796,0 -121.298512,51.638045,0 -121.297928,51.640071,0 -121.29753,51.641617,0 -121.297468,51.64186,0 -121.297288,51.642414,0 -121.297075,51.643256,0 -121.297007,51.643492,0 -121.296375,51.645694,0 -121.296313,51.646309,0 -121.296286,51.64656,0 -121.296253,51.646741,0 -121.296188,51.647342,0 -121.296217,51.647608,0 -121.296224,51.647807,0 -121.296346,51.648234,0 -121.296283,51.648334,0 -121.296315,51.648641,0 -121.296362,51.649725,0 -121.296354,51.650034,0 -121.296237,51.650347,0 -121.295939,51.651152,0 -121.295318,51.652262,0 -121.295344,51.652353,0 -121.294901,51.653079,0 -121.294214,51.654203,0 -121.293879,51.654599,0 -121.293402,51.655038,0 -121.292688,51.655515,0 -121.292333,51.655689,0 -121.291995,51.655855,0 -121.291198,51.656141,0 -121.289558,51.656731,0 -121.289527,51.656746,0 -121.288892,51.657055,0 -121.288311,51.657475,0 -121.287826,51.657973,0 -121.287808,51.658002,0 -121.287596,51.658345,0 -121.287571,51.658385,0 -121.287403,51.658797,0 -121.287323,51.659278,0 -121.287382,51.659776,0 -121.287578,51.660342,0 -121.289393,51.66401,0 -121.289666,51.664563,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>East Sooke Road. Utility work planned between Silver Spray Dr and Pike Rd. Starting Mon Oct 6 until Sun Oct 12. From 8:00 AM to 4:00 PM PDT daily. Single lane alternating traffic will be in effect. Last updated Tue Sep 16 at 11:45 AM PDT. (DBC-81651)</name>
