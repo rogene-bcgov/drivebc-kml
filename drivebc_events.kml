@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-25 16:37:11 UTC
+        Last updated: 2025-09-25 17:02:25 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (286)</name>
+      <name>🚗 Traffic Events (291)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6433,6 +6433,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway). Utility work planned between 20 Ave NE and 50 St NE for 3.0 km (Salmon Arm). Starting Sun Oct 19 at 8:00 AM PDT until Sat Nov 1 at 4:00 PM PDT. Centre lane will be closed. Last updated Thu Sep 25 at 9:37 AM PDT. (DBC-82022)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 20 Ave NE and 50 St NE for 3.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmon Arm&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T09:37:13-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82022
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.227279,50.717474,0 -119.227279,50.717621,0 -119.227283,50.718503,0 -119.227285,50.718817,0 -119.227289,50.71968,0 -119.227298,50.721734,0 -119.227297,50.722397,0 -119.227296,50.725625,0 -119.227295,50.725922,0 -119.227295,50.727001,0 -119.227294,50.72902,0 -119.227314,50.734248,0 -119.227314,50.73496,0 -119.227318,50.737704,0 -119.227318,50.738232,0 -119.227317,50.738532,0 -119.227315,50.738801,0 -119.227305,50.740484,0 -119.227292,50.742674,0 -119.227287,50.743526,0 -119.227292,50.744351,0 -119.227294,50.744586,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Pacific Way, in both directions. Utility work planned between Hugh Allan Dr and Exit 367 in Kamloops. Starting Thu Oct 2 until Fri Nov 14. From 7:00 AM to 5:00 PM PDT on weekdays. Lane closures in both directions planned. Last updated Tue Sep 23 at 4:42 PM PDT. (DBC-81946)</name>
           <description>
     &lt;![CDATA[
@@ -6458,6 +6484,57 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 97 (Alaska Highway), in both directions. Utility work planned at 44th St (Fort Nelson). Starting Tue Sep 30 until Fri Oct 3. From 8:00 AM to 6:00 PM MST on weekdays. Exit ramp will be closed. Last updated Thu Sep 25 at 9:43 AM MST. (DBC-82024)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 44th St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Fort Nelson&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T09:43:20-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82024
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.685822,58.803232,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Alaska Highway), in both directions. Utility work planned between Airport Connector Rd and 50th Ave S for 0.4 km (Fort Nelson). Starting Mon Sep 29 until Fri Oct 3. From 8:00 AM to 6:00 PM MST on weekdays. Exit ramp will be closed. Last updated Thu Sep 25 at 9:46 AM MST. (DBC-82025)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Airport Connector Rd and 50th Ave S for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Fort Nelson&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T09:46:53-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82025
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.669473,58.800738,0 -122.670404,58.800878,0 -122.675689,58.80167,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Golden Ears Bridge. Bridge maintenance at Golden Ears Way. Until Sat Sep 27. From 9:00 PM to 6:00 AM PDT daily. Roadway reduced to one lane. Watch for traffic control. West sidewalk will be closed Sept 25, with an estimated reopening of Oct 22. Last updated Wed Sep 24 at 3:55 PM PDT. (DBC-81699)</name>
           <description>
     &lt;![CDATA[
@@ -6481,6 +6558,32 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <Point>
             <coordinates>-122.664562,49.192688,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Seed Frtg and Maier Rd for 0.7 km (Sicamous). Starting Thu Oct 2 at 9:00 AM PDT until Thu Oct 2 at 3:00 PM PDT. Single lane alternating traffic will be in effect. Expect minor delays. Last updated Thu Sep 25 at 9:49 AM PDT. (DBC-82026)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Seed Frtg and Maier Rd for 0.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sicamous&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T09:49:31-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82026
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.962325,50.840403,0 -118.958368,50.842904,0 -118.957673,50.843346,0 -118.954914,50.845098,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 19A (Island Highway), northbound. Utility work planned between Ployart Rd and Enns Rd for 27.4 km (Campbell River). Starting Mon Sep 29 at 9:00 AM PDT until Mon Sep 29 at 3:00 PM PDT. Watch for traffic control personnel. Single lane alternating traffic will be in effect. Last updated Mon Sep 22 at 2:41 PM PDT. (DBC-81885)</name>
@@ -7194,6 +7297,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-120.258407,49.418092,0 -120.258586,49.417916,0 -120.259296,49.417402,0 -120.260024,49.416876,0 -120.260395,49.416425,0 -120.260504,49.416294,0 -120.260844,49.415687,0 -120.261402,49.414411,0 -120.262019,49.413,0 -120.262285,49.412391,0 -120.262814,49.411456,0 -120.262984,49.411314,0 -120.264129,49.410357,0 -120.264277,49.410153,0 -120.264516,49.409824,0 -120.264782,49.409272,0 -120.26481,49.409022,0 -120.264868,49.408495,0 -120.26474,49.407924,0 -120.264619,49.4077,0 -120.264379,49.407253,0 -120.264125,49.406965,0 -120.26333,49.406285,0 -120.262343,49.405521,0 -120.261574,49.404925,0 -120.260705,49.404253,0 -120.259819,49.403766,0 -120.258712,49.403207,0 -120.257512,49.402601,0 -120.25593,49.401997,0 -120.254795,49.401798,0 -120.254163,49.401688,0 -120.253609,49.401663,0 -120.247283,49.401385,0 -120.246127,49.401334,0 -120.242493,49.401174,0 -120.234563,49.400824,0 -120.23423,49.40081,0 -120.232539,49.400634,0 -120.231818,49.400403,0 -120.23088,49.400025,0 -120.229878,49.399621,0 -120.228797,49.39933,0 -120.22864,49.399313,0 -120.226642,49.399098,0 -120.225304,49.398957,0 -120.223119,49.398614,0 -120.221405,49.398127,0 -120.214228,49.395457,0 -120.212741,49.394904,0 -120.211215,49.394244,0 -120.209614,49.393271,0 -120.208713,49.392532,0 -120.208262,49.39205,0 -120.206478,49.390142,0 -120.205417,49.389215,0 -120.204368,49.388501,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, northbound. Road cleared at Alex Fraser Bridge (Delta). Expect delays due to congestion. Last updated Thu Sep 25 at 9:46 AM PDT. (DBC-82023)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T09:46:08-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82023
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.943309,49.160815,0</coordinates>
+          </Point>
         </Placemark>
       </Folder>
       <Folder>
