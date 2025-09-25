@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-25 04:02:26 UTC
+        Last updated: 2025-09-25 04:35:41 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (283)</name>
+      <name>🚗 Traffic Events (285)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -275,6 +275,32 @@
           <Point>
             <coordinates>-123.667867,48.780616,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, eastbound. Road sweeping between Bridgeview Dr and 136 St for 1.2 km (Surrey). Until Thu Sep 25 at 4:00 AM PDT. Right lane is blocked. Last updated Wed Sep 24 at 9:05 PM PDT. (DBC-82006)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Bridgeview Dr and 136 St for 1.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T21:05:57-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82006
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.861921,49.213152,0 -122.861775,49.213151,0 -122.859317,49.213138,0 -122.857464,49.213184,0 -122.856275,49.213213,0 -122.855251,49.213253,0 -122.854511,49.213267,0 -122.853209,49.213257,0 -122.852103,49.213248,0 -122.850238,49.213248,0 -122.84864,49.213222,0 -122.847624,49.213189,0 -122.846194,49.213119,0 -122.845251,49.213071,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Holden Corso Rd, in both directions. Utility work between Rugg Rd and Barnes Rd. Until Fri Oct 31 at 5:00 PM PDT. Single lane alternating traffic. Expect delays. Watch for traffic control. Watermain and Road works. Watch for work crews. Last updated Wed Jul 30 at 2:59 PM PDT. (DBC-79923)</name>
@@ -480,6 +506,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.735261,49.023924,0 -122.735162,49.02924,0 -122.735182,49.031208,0 -122.735182,49.031634,0 -122.735184,49.032838,0 -122.735184,49.033,0 -122.735184,49.033602,0 -122.735185,49.034106,0 -122.735185,49.034376,0 -122.735186,49.03486,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, in both directions. Paving operations between Porteau Cove and Sea View Dr for 3.2 km (10 to 7 km south of Squamish). Until Thu Sep 25 at 6:00 AM PDT. Single lane alternating traffic. Paving from Porteau Cove to Furry Creek. Last updated Wed Sep 24 at 9:30 PM PDT. (DBC-82007)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Porteau Cove and Sea View Dr for 3.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 to 10 km south of Squamish&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T21:30:13-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82007
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.232512,49.560329,0 -123.232533,49.560646,0 -123.232559,49.560992,0 -123.232565,49.561134,0 -123.232581,49.561237,0 -123.232612,49.561381,0 -123.232645,49.561488,0 -123.232734,49.561661,0 -123.232786,49.561774,0 -123.232846,49.561902,0 -123.23293,49.562062,0 -123.233019,49.5622,0 -123.233182,49.562456,0 -123.233373,49.562695,0 -123.233457,49.562864,0 -123.233547,49.563082,0 -123.233599,49.563233,0 -123.233648,49.563431,0 -123.233657,49.563625,0 -123.233641,49.563882,0 -123.233622,49.564053,0 -123.233602,49.564206,0 -123.233586,49.564369,0 -123.233573,49.564556,0 -123.233541,49.564807,0 -123.233485,49.565042,0 -123.23343,49.565209,0 -123.233346,49.565398,0 -123.232752,49.566479,0 -123.232489,49.566784,0 -123.23189,49.567362,0 -123.231627,49.567659,0 -123.231395,49.568011,0 -123.231104,49.568859,0 -123.2301,49.570147,0 -123.229831,49.570665,0 -123.229597,49.571336,0 -123.2295,49.571466,0 -123.229241,49.572486,0 -123.229095,49.572846,0 -123.228881,49.573175,0 -123.227656,49.574347,0 -123.227421,49.574684,0 -123.226853,49.575925,0 -123.225856,49.577221,0 -123.225618,49.57753,0 -123.225441,49.577776,0 -123.224918,49.578779,0 -123.224796,49.578919,0 -123.224464,49.579298,0 -123.223677,49.57985,0 -123.223591,49.579906,0 -123.222709,49.580478,0 -123.222344,49.580816,0 -123.222285,49.580889,0 -123.222088,49.581134,0 -123.221849,49.581657,0 -123.221639,49.582284,0 -123.221416,49.58295,0 -123.221101,49.58408,0 -123.220075,49.58715,0 -123.220046,49.587236,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5120,31 +5172,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance planned at Second Narrows Bridge (North Vancouver - District). Starting Wed Sep 24 at 9:30 PM PDT until Thu Sep 25 at 5:00 AM PDT. Right lane will be blocked. Centre lane will be blocked. Last updated Wed Sep 24 at 8:15 PM PDT. (DBC-82004)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T20:15:12-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82004
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.026346,49.295359,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 5, in both directions. Road construction work between Whiskeyfill Rd and Tete Jaune Access Rd for 24.1 km (5 km south of Valemount to 1 km south of Tete Jaune). Until Mon Oct 20. From 12:00 AM to 12:00 AM PDT daily. Paving operations. Single lane alternating traffic. Pilot car controlled. Last updated Tue Sep 2 at 7:50 AM PDT. (DBC-81092)</name>
           <description>
     &lt;![CDATA[
@@ -5195,6 +5222,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-119.320006,50.809041,0 -119.320123,50.808709,0 -119.320614,50.807336,0 -119.320768,50.807153,0 -119.321518,50.806268,0 -119.322524,50.805356,0 -119.32441,50.803645,0 -119.324569,50.803461,0 -119.324915,50.803039,0 -119.325244,50.802436,0 -119.325397,50.801931,0 -119.325409,50.801717,0 -119.325447,50.801068,0 -119.325447,50.800999,0 -119.325435,50.799998,0 -119.325429,50.799502,0 -119.325542,50.798769,0 -119.325618,50.798476,0 -119.325627,50.798454,0 -119.325807,50.797998,0 -119.326099,50.797472,0 -119.326133,50.797404,0 -119.32643,50.796813,0 -119.326433,50.796804,0 -119.326561,50.796444,0 -119.32664,50.796072,0 -119.326676,50.795517,0 -119.326614,50.794758,0 -119.326557,50.794071,0 -119.326567,50.793974,0 -119.326607,50.793555,0 -119.326706,50.793218,0 -119.326988,50.792575,0 -119.328457,50.789231,0 -119.328605,50.788837,0 -119.328719,50.788533,0 -119.328752,50.788444,0 -119.329124,50.787751,0 -119.32932,50.787468,0 -119.329451,50.787278,0 -119.329626,50.78708,0 -119.329871,50.786801,0 -119.329918,50.786748,0 -119.330266,50.786407,0 -119.330311,50.786363,0 -119.330507,50.7862,0 -119.330769,50.785982,0 -119.331316,50.785528,0 -119.332217,50.784782,0 -119.333037,50.784101,0 -119.333224,50.78395,0 -119.333508,50.783719,0 -119.333782,50.783497,0 -119.33399,50.783328,0 -119.334453,50.782923,0 -119.335434,50.781873,0 -119.336696,50.780521,0 -119.339241,50.778248,0 -119.339261,50.77823,0 -119.339814,50.777605,0 -119.340229,50.776875,0 -119.340321,50.776621,0 -119.340417,50.77636,0 -119.340519,50.775798,0 -119.340522,50.775705,0 -119.340532,50.775371,0 -119.340547,50.774892,0 -119.340555,50.77463,0 -119.340562,50.774397,0 -119.340507,50.773972,0 -119.340476,50.773733,0 -119.340229,50.773051,0 -119.339929,50.772508,0 -119.339853,50.77237,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Second Narrows Bridge (North Vancouver - District). Until Thu Sep 25 at 5:00 AM PDT. Right lane is blocked. Centre lane blocked. Last updated Wed Sep 24 at 8:15 PM PDT. (DBC-82004)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T21:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82004
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.026346,49.295359,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (Malahat Highway), southbound. Electrical maintenance planned between Mill Bay Rd and Whittaker Rd for 1.0 km (3 to 4 km north of Malahat Summit). Starting Thu Oct 9 at 10:00 PM PDT until Fri Oct 10 at 5:00 AM PDT. Right lane will be closed. Last updated Mon Sep 22 at 11:51 AM PDT. (DBC-81876)</name>
