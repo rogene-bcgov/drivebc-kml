@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-26 20:33:30 UTC
+        Last updated: 2025-09-26 21:02:06 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (271)</name>
+      <name>🚗 Traffic Events (273)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4226,6 +4226,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Northwest Bay Road, in both directions. Utility work planned between Terrien Way and Beaver Creek Wharf Road. Starting Thu Oct 2 at 8:00 AM PDT until Thu Oct 2 at 5:00 PM PDT. Single lane alternating traffic will be in effect. Last updated Fri Sep 26 at 1:24 PM PDT. (DBC-82061)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Northwest Bay Road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Terrien Way and Beaver Creek Wharf Road&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-26T13:24:33-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82061
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.240699,49.300646,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work planned between 248 St and Exit 73 for 3.6 km (Langley - District). Starting Wed Oct 1 at 8:30 PM PDT until Mon Nov 30, 2026 at 5:30 AM PDT. Watch for traffic control personnel. Lane closures in both directions planned. Next update time Sun Nov 30 at 5:30 AM PDT. Last updated Mon Sep 15 at 7:52 PM PDT. (DBC-81619)</name>
           <description>
     &lt;![CDATA[
@@ -6884,6 +6909,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Police incident at Grand Blvd (Kamloops). Right lane closed. Watch for traffic control. Expect delays due to congestion. Last updated Fri Sep 26 at 1:50 PM PDT. (DBC-82062)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Grand Blvd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kamloops&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-26T13:50:10-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82062
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-120.226607,50.671911,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
