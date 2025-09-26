@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-26 16:02:32 UTC
+        Last updated: 2025-09-26 16:36:55 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (268)</name>
+      <name>🚗 Traffic Events (269)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3533,6 +3533,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Peaceview Rd. Road maintenance work planned between Moore Pit Road and 247 Road. Starting Mon Oct 6 at 7:00 AM MST until Fri Oct 24 at 5:00 PM MST. Intermittent single lane alternating traffic. Please slow down when passing crews and equipment. Last updated Fri Sep 26 at 9:23 AM MST. (DBC-82054)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Peaceview Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Moore Pit Road and 247 Road&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-26T09:23:31-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82054
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.623043,56.150021,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 8, in both directions. Construction work between Start of Highway 8 and Porcupine Ridge Rd 6 km east of Spences Bridge. Until Sat Nov 15. Single lane alternating traffic. Watch for traffic control. Expect delays. SITE 16, 17, 18, 19. Last updated Tue Aug 26 at 5:25 PM PDT. (DBC-80660)</name>
           <description>
     &lt;![CDATA[
@@ -6048,31 +6073,6 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Golden Ears Bridge. Bridge maintenance at Golden Ears Way. Until Sat Sep 27. From 9:00 PM to 6:00 AM PDT daily. Roadway reduced to one lane. Watch for traffic control. West sidewalk will be closed Sept 25, with an estimated reopening of Oct 22. Last updated Wed Sep 24 at 3:55 PM PDT. (DBC-81699)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Golden Ears Bridge&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Golden Ears Way&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T15:55:26-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81699
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.664562,49.192688,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Seed Frtg and Maier Rd for 0.7 km (Sicamous). Starting Thu Oct 2 at 9:00 AM PDT until Thu Oct 2 at 3:00 PM PDT. Single lane alternating traffic will be in effect. Expect minor delays. Last updated Thu Sep 25 at 9:49 AM PDT. (DBC-82026)</name>
           <description>
     &lt;![CDATA[
@@ -6097,6 +6097,31 @@ The speed will be reduced to 60KM/H 24 hours a day 7 days a week. Last updated F
             <tessellate>1</tessellate>
             <coordinates>-118.962325,50.840403,0 -118.958368,50.842904,0 -118.957673,50.843346,0 -118.954914,50.845098,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Golden Ears Bridge. Bridge maintenance at Golden Ears Way. Until Sat Sep 27. From 9:00 PM to 6:00 AM PDT daily. Roadway reduced to one lane. Watch for traffic control. Expect delays. UPDATE: work is taking longer than anticipated. Expect delays into early Friday afternoon. Next update time Fri Sep 26 at 12:00 PM PDT. Last updated Fri Sep 26 at 9:30 AM PDT. (DBC-81699)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Golden Ears Bridge&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Golden Ears Way&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-26T09:30:59-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-26T12:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81699
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.664562,49.192688,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 19A (Island Highway), northbound. Utility work planned between Ployart Rd and Enns Rd for 27.4 km (Campbell River). Starting Mon Sep 29 at 9:00 AM PDT until Mon Sep 29 at 3:00 PM PDT. Watch for traffic control personnel. Single lane alternating traffic will be in effect. Last updated Mon Sep 22 at 2:41 PM PDT. (DBC-81885)</name>
