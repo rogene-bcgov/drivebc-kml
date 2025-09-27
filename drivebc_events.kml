@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-27 07:02:14 UTC
+        Last updated: 2025-09-27 07:31:25 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (263)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -251,6 +251,31 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 5, northbound. Construction work between Hope and Merritt. Until Sat Sep 27 at 8:00 AM PDT. Road closed. Closure from 12:00AM to 8:00AM. Alternate route Highway 1 or Highway 3 and Highway 5A. No commercial vehicles on Highway 8. Next update time Sat Sep 27 at 8:00 AM PDT. Last updated Fri Sep 26 at 6:25 AM PDT. (DBC-81891)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hope and Merritt&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-27T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-27T08:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81891
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.360943,49.361682,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Holden Corso Rd, in both directions. Utility work between Rugg Rd and Barnes Rd. Until Fri Oct 31 at 5:00 PM PDT. Single lane alternating traffic. Expect delays. Watch for traffic control. Watermain and Road works. Watch for work crews. Last updated Wed Jul 30 at 2:59 PM PDT. (DBC-79923)</name>
           <description>
     &lt;![CDATA[
@@ -300,31 +325,6 @@
             <tessellate>1</tessellate>
             <coordinates>-121.619424,55.514185,0 -121.619489,55.514566,0 -121.619726,55.515943,0 -121.619745,55.516449,0 -121.619509,55.517221,0 -121.618911,55.5182,0 -121.618591,55.518724,0 -121.618493,55.518834,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5, northbound. Construction work planned between Hope and Merritt. Starting Sat Sep 27 until Sat Sep 27 at 8:00 AM PDT. Road closure planned. Closure from 12:00AM to 8:00AM. Alternate route Highway 1 or Highway 3 and Highway 5A. No commercial vehicles on Highway 8. Next update time Sat Sep 27 at 8:00 AM PDT. Last updated Fri Sep 26 at 6:25 AM PDT. (DBC-81891)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Hope and Merritt&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-26T06:25:08-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-27T08:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81891
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.360943,49.361682,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 23, southbound. Utility work between Clough Rd and Blanket Creek Provincial Pk for 16.4 km (22 to 6 km south of Revelstoke). Until Mon Oct 20 at 4:00 PM PDT. Right lane is blocked. Last updated Mon Sep 8 at 6:35 AM PDT. (DBC-81287)</name>
@@ -1843,32 +1843,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 9, southbound. Maintenance between Cheam Ave and McDonald Rd for 1.1 km (Kent). Until Fri Sep 26. From 9:00 AM to 3:00 PM PDT on Tuesday, Wednesday, Thursday and Friday. Right lane closed. Last updated Thu Sep 18 at 9:38 AM PDT. (DBC-81234)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 9&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between McDonald Rd and Cheam Ave for 1.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kent&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-23T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81234
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.766735,49.232096,0 -121.765039,49.233329,0 -121.762288,49.235198,0 -121.761904,49.235459,0 -121.761713,49.235668,0 -121.761655,49.2358,0 -121.761594,49.238143,0 -121.761846,49.238162,0 -121.765933,49.238468,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector), northbound. Utility work planned between Maranatha Dr and Pigeon Rd (150 Mile House). Starting Mon Oct 6 until Fri Oct 10. From 6:00 AM to 6:00 PM PDT on weekdays. Lane Closure. Last updated Wed Sep 24 at 1:22 PM PDT. (DBC-81979)</name>
           <description>
     &lt;![CDATA[
@@ -2787,32 +2761,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector), southbound. Construction work between Stevens Rd and Finning Rd for 5.0 km (Quesnel). Until Fri Sep 26. From 7:00 AM to 5:00 PM PDT on weekdays. Lane Closure. Expect delays. Last updated Wed Sep 10 at 9:04 AM PDT. (DBC-81402)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Finning Rd and Stevens Rd for 5.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Quesnel&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81402
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.495281,53.014826,0 -122.495247,53.014861,0 -122.495141,53.015151,0 -122.495051,53.015469,0 -122.495024,53.015847,0 -122.495016,53.015977,0 -122.495003,53.016116,0 -122.494937,53.018915,0 -122.494919,53.019455,0 -122.494895,53.020412,0 -122.494983,53.021029,0 -122.495099,53.021703,0 -122.495713,53.024178,0 -122.495725,53.024578,0 -122.495681,53.024969,0 -122.495549,53.025351,0 -122.495361,53.025727,0 -122.495057,53.026146,0 -122.493991,53.027258,0 -122.492659,53.028646,0 -122.49101,53.030323,0 -122.4908,53.030536,0 -122.489947,53.031319,0 -122.489062,53.031923,0 -122.487294,53.033037,0 -122.486532,53.033522,0 -122.484869,53.034578,0 -122.484106,53.035062,0 -122.482527,53.036061,0 -122.481837,53.036498,0 -122.481502,53.03671,0 -122.480249,53.037503,0 -122.480009,53.037655,0 -122.475228,53.040681,0 -122.475024,53.040809,0 -122.473066,53.042048,0 -122.472407,53.042465,0 -122.467737,53.045469,0 -122.466932,53.045957,0 -122.466737,53.046076,0 -122.465592,53.046786,0 -122.464233,53.047468,0 -122.46225,53.048319,0 -122.460826,53.04893,0 -122.460753,53.048961,0 -122.459928,53.049318,0 -122.457875,53.050204,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 99. Utility work between 72 St and Exit 28 for 1.8 km (Delta). Until Wed Oct 8. From 7:00 AM to 5:00 PM PDT daily. Shoulder maintenance. Survey works. Last updated Wed Sep 17 at 12:52 PM PDT. (DBC-81704)</name>
           <description>
     &lt;![CDATA[
@@ -3068,32 +3016,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Electrical maintenance between Exit 14: Capilano Rd and Exit 13 for 1.5 km (North Vancouver - District to West Vancouver). Until Fri Sep 26. From 9:00 PM to 6:00 AM PDT daily. Right turn lane closed. Right lane closed. Last updated Wed Sep 10 at 5:09 PM PDT. (DBC-81002)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 13 and Exit 14: Capilano Rd for 1.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District to West Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T17:09:13-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81002
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.134704,49.337614,0 -123.13468,49.337613,0 -123.13432,49.337606,0 -123.131149,49.337552,0 -123.130549,49.337498,0 -123.130406,49.337477,0 -123.129609,49.33736,0 -123.128894,49.337162,0 -123.12773,49.336698,0 -123.127018,49.336317,0 -123.126851,49.336219,0 -123.126815,49.336197,0 -123.121352,49.332984,0 -123.121029,49.33283,0 -123.120609,49.332681,0 -123.12001,49.332563,0 -123.119691,49.332533,0 -123.119076,49.332516,0 -123.119065,49.332516,0 -123.118594,49.332511,0 -123.118424,49.332496,0 -123.11746,49.332497,0 -123.117181,49.332497,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (Kicking Horse Pass). Maintenance between Golden Donald Upper Rd and Yoho Bridge for 7.8 km (Golden). Until Sat Sep 27. From 7:00 AM to 5:00 PM MDT on Friday and Saturday. Watch for traffic control. Reduce speed. West bound lane shift from left lane to right lane. Last updated Tue Sep 23 at 3:14 PM MDT. (DBC-81933)</name>
           <description>
     &lt;![CDATA[
@@ -3170,31 +3092,6 @@
             <tessellate>1</tessellate>
             <coordinates>-121.26747,49.306346,0 -121.267408,49.30615,0 -121.267295,49.30559,0 -121.267169,49.303583,0 -121.26704,49.301534,0 -121.267035,49.301512,0 -121.266943,49.301113,0 -121.266814,49.300731,0 -121.266566,49.300258,0 -121.266365,49.30001,0 -121.266114,49.299699,0 -121.265806,49.299367,0 -121.263913,49.29765,0 -121.261221,49.295103,0 -121.258183,49.29223,0 -121.256504,49.290658,0 -121.25584,49.290036,0 -121.253953,49.288269,0 -121.25037,49.284915,0 -121.249492,49.284092,0 -121.247911,49.282707,0 -121.246973,49.282017,0 -121.245932,49.281331,0 -121.245284,49.280942,0 -121.24511,49.280849,0 -121.243916,49.280218,0 -121.240523,49.278686,0 -121.23549,49.276414,0 -121.234878,49.276137,0 -121.23038,49.274144,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Hawkins Pickle Rd, in both directions. Construction work at the Railway Crossing. Until Fri Sep 26. Road closed. Railway crossing replacement. No access Sept 24th, 9am-4pm. Last updated Thu Sep 25 at 6:06 AM PDT. (DBC-81468)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Hawkins Pickle Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At the Railway Crossing&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T06:06:47-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81468
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.168329,49.172763,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Goat Ridge Drive, in both directions. Maintenance planned between 1022 Goat Ridge Dr. And 1052 Goat Ridge Dr. Starting Sat Sep 27 at 8:00 AM PDT until Sat Sep 27 at 10:00 PM PDT. Right lane will be blocked. Work truck parking. Last updated Wed Sep 24 at 3:31 PM PDT. (DBC-81992)</name>
@@ -3810,32 +3707,6 @@
           <Point>
             <coordinates>-122.735306,49.060147,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance between Rainbow Chain Up and Maintenance Boundary SA27 for 33.5 km (63 to 29 km east of Prince Rupert). Until Fri Sep 26. From 8:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Multipule bridges, Bridge maintenance. Obey traffic signs. Last updated Mon Sep 15 at 11:31 AM PDT. (DBC-81599)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Rainbow Chain Up and Maintenance Boundary SA27 for 33.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 29 to 63 km east of Prince Rupert&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-16T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81599
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-129.982695,54.20925,0 -129.982282,54.208989,0 -129.981953,54.208781,0 -129.981403,54.208434,0 -129.976854,54.205568,0 -129.976236,54.205105,0 -129.973351,54.202652,0 -129.972756,54.202232,0 -129.972098,54.201884,0 -129.971238,54.201571,0 -129.970553,54.201414,0 -129.970458,54.201392,0 -129.970093,54.201344,0 -129.969522,54.201268,0 -129.968403,54.201235,0 -129.967702,54.201262,0 -129.960825,54.201529,0 -129.960129,54.201556,0 -129.959552,54.201578,0 -129.957315,54.201664,0 -129.956942,54.201679,0 -129.956125,54.20174,0 -129.955483,54.201787,0 -129.950961,54.20243,0 -129.950871,54.202443,0 -129.949554,54.20263,0 -129.948975,54.202712,0 -129.946919,54.203005,0 -129.946769,54.203026,0 -129.946593,54.203061,0 -129.945986,54.203181,0 -129.945688,54.203241,0 -129.945157,54.203391,0 -129.944616,54.203544,0 -129.94383,54.203854,0 -129.942991,54.204254,0 -129.942088,54.204684,0 -129.941389,54.20494,0 -129.93824,54.205669,0 -129.937311,54.205981,0 -129.936581,54.206344,0 -129.933151,54.208432,0 -129.93202,54.20902,0 -129.929171,54.210309,0 -129.92833,54.210793,0 -129.928245,54.210842,0 -129.927533,54.211341,0 -129.92477,54.213476,0 -129.924738,54.213494,0 -129.923812,54.214008,0 -129.923056,54.214312,0 -129.922022,54.214598,0 -129.92112,54.214759,0 -129.918325,54.215068,0 -129.917574,54.215151,0 -129.916121,54.215311,0 -129.915849,54.215342,0 -129.915562,54.215373,0 -129.913716,54.215577,0 -129.911907,54.215729,0 -129.91125,54.215784,0 -129.910456,54.21585,0 -129.909393,54.216012,0 -129.908318,54.216264,0 -129.907137,54.216653,0 -129.901636,54.219003,0 -129.90076,54.219298,0 -129.89915,54.219677,0 -129.898004,54.219947,0 -129.89706,54.220268,0 -129.89625,54.220671,0 -129.892801,54.222941,0 -129.891944,54.223353,0 -129.891444,54.223525,0 -129.891194,54.223611,0 -129.890273,54.223832,0 -129.886431,54.224368,0 -129.88544,54.224594,0 -129.884288,54.224946,0 -129.883223,54.225409,0 -129.882426,54.225844,0 -129.87896,54.228246,0 -129.87323,54.232213,0 -129.872615,54.232597,0 -129.872103,54.232916,0 -129.871072,54.233498,0 -129.869677,54.23419,0 -129.868136,54.234851,0 -129.867477,54.235086,0 -129.867261,54.235163,0 -129.866958,54.235272,0 -129.866123,54.23557,0 -129.864535,54.236048,0 -129.862813,54.236475,0 -129.860907,54.236863,0 -129.858805,54.237181,0 -129.857134,54.237364,0 -129.855322,54.237488,0 -129.855307,54.237489,0 -129.855006,54.237499,0 -129.85473,54.237509,0 -129.853532,54.23755,0 -129.851568,54.237546,0 -129.846113,54.237288,0 -129.845851,54.237275,0 -129.845574,54.237262,0 -129.836464,54.236831,0 -129.836186,54.236817,0 -129.835914,54.236805,0 -129.835705,54.236795,0 -129.827697,54.236415,0 -129.822379,54.236162,0 -129.820563,54.236033,0 -129.818856,54.235856,0 -129.817402,54.235661,0 -129.815085,54.23525,0 -129.813032,54.234787,0 -129.811699,54.234425,0 -129.805316,54.232407,0 -129.805222,54.232377,0 -129.805113,54.232343,0 -129.80425,54.232069,0 -129.804083,54.232016,0 -129.803287,54.23176,0 -129.800174,54.230759,0 -129.799999,54.230702,0 -129.797535,54.22991,0 -129.794601,54.228967,0 -129.794337,54.228872,0 -129.793518,54.22858,0 -129.792371,54.228109,0 -129.791928,54.227927,0 -129.788812,54.226359,0 -129.788097,54.226,0 -129.787938,54.22592,0 -129.787616,54.225758,0 -129.786139,54.225015,0 -129.784679,54.224371,0 -129.783506,54.223926,0 -129.781928,54.223423,0 -129.780603,54.223075,0 -129.777283,54.22239,0 -129.774302,54.221775,0 -129.768819,54.220644,0 -129.767201,54.220378,0 -129.76513,54.220126,0 -129.764366,54.220066,0 -129.763254,54.219978,0 -129.762727,54.219957,0 -129.761725,54.219915,0 -129.759831,54.219914,0 -129.758697,54.219959,0 -129.752763,54.220193,0 -129.751091,54.220211,0 -129.75052,54.220199,0 -129.749135,54.220169,0 -129.746929,54.220045,0 -129.746555,54.220012,0 -129.745468,54.219916,0 -129.745127,54.219886,0 -129.739307,54.2192,0 -129.736281,54.218844,0 -129.73026,54.218134,0 -129.726866,54.217581,0 -129.72358,54.217045,0 -129.719894,54.216443,0 -129.718775,54.216327,0 -129.717615,54.216274,0 -129.717447,54.216266,0 -129.717249,54.216257,0 -129.715027,54.216155,0 -129.713739,54.216024,0 -129.712373,54.215798,0 -129.708143,54.214811,0 -129.706566,54.214564,0 -129.705185,54.214454,0 -129.701759,54.214183,0 -129.699961,54.213928,0 -129.699511,54.213827,0 -129.695836,54.213002,0 -129.692785,54.212483,0 -129.692575,54.212447,0 -129.692379,54.212413,0 -129.691327,54.212234,0 -129.6905,54.212036,0 -129.68951,54.211723,0 -129.688242,54.21115,0 -129.685485,54.209905,0 -129.684146,54.209391,0 -129.678408,54.207515,0 -129.678049,54.207368,0 -129.677846,54.207285,0 -129.677685,54.207219,0 -129.677331,54.207074,0 -129.676573,54.206705,0 -129.675632,54.206154,0 -129.674531,54.2054,0 -129.670135,54.202389,0 -129.668139,54.201022,0 -129.66661,54.199975,0 -129.666328,54.199782,0 -129.659678,54.195843,0 -129.653631,54.191592,0 -129.651489,54.190085,0 -129.650562,54.189573,0 -129.649769,54.189233,0 -129.648542,54.188825,0 -129.64536,54.187989,0 -129.64387,54.18769,0 -129.643315,54.187579,0 -129.641634,54.187357,0 -129.639542,54.187159,0 -129.637084,54.18711,0 -129.636307,54.187139,0 -129.632162,54.187295,0 -129.629735,54.187336,0 -129.629267,54.187344,0 -129.627768,54.187259,0 -129.624189,54.187056,0 -129.623227,54.187046,0 -129.622579,54.187095,0 -129.622051,54.187136,0 -129.620971,54.187365,0 -129.619929,54.187722,0 -129.614767,54.190156,0 -129.610622,54.191759,0 -129.610054,54.192058,0 -129.609109,54.192557,0 -129.6065,54.194407,0 -129.605007,54.195466,0 -129.60435,54.195876,0 -129.60343,54.196346,0 -129.602501,54.196725,0 -129.601561,54.197022,0 -129.601211,54.197132,0 -129.601,54.197199,0 -129.600004,54.197513,0 -129.597396,54.198336,0 -129.596538,54.198693,0 -129.596345,54.198773,0 -129.595492,54.199257,0 -129.594374,54.199988,0 -129.588257,54.203991,0 -129.587641,54.204508,0 -129.58723,54.205005,0 -129.58697,54.205457,0 -129.586785,54.20599,0 -129.58654,54.207476,0 -129.586342,54.208117,0 -129.585273,54.210187,0 -129.585035,54.210901,0 -129.584906,54.211721,0 -129.584946,54.214482,0 -129.584817,54.215135,0 -129.584748,54.215485,0 -129.584445,54.216242,0 -129.583996,54.217007,0 -129.583543,54.217603,0 -129.582852,54.218365,0 -129.581902,54.219211,0 -129.580836,54.219972,0 -129.579714,54.220678,0 -129.578411,54.221357,0 -129.577368,54.221843,0 -129.577272,54.221879,0 -129.577125,54.221934,0 -129.5769,54.222019,0 -129.576725,54.222085,0 -129.576351,54.222225,0 -129.575156,54.222675,0 -129.573622,54.223131,0 -129.571874,54.223548,0 -129.569735,54.223925,0 -129.563213,54.224661,0 -129.563044,54.22468,0 -129.56271,54.224718,0 -129.562648,54.224725,0 -129.556066,54.225461,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (Kicking Horse Pass). Maintenance planned between Golden Donald Upper Rd and Yoho Bridge (3 km east of Golden). Starting Sun Sep 28 at 7:00 AM MDT until Sun Sep 28 at 5:00 PM MDT. Reduce speed. East bound lane shift from right lane to left lane. Last updated Tue Sep 23 at 3:16 PM MDT. (DBC-81936)</name>
@@ -4915,32 +4786,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), eastbound. Electrical maintenance between Dyke Rd and Shook St for 1.1 km (Mission). Until Fri Sep 26. From 9:00 AM to 3:00 PM PDT daily. Right lane closed. Last updated Thu Sep 11 at 3:17 PM PDT. (DBC-81471)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Dyke Rd and Shook St for 1.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81471
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.253784,49.149745,0 -122.253005,49.149778,0 -122.252855,49.149785,0 -122.252043,49.149775,0 -122.24819,49.149729,0 -122.243748,49.149677,0 -122.238601,49.149615,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway). Construction work between Illecillewaet Brake Check and MacDonald Snowshed for 3.0 km (5 to 2 km west of West Boundary of Glacier National Park). Expect up to 30 minute delays and single lane alternating traffic anytime. 2hr closures 1:00am - 3:00am daily. Next update time Sat Sep 27 at 12:00 PM PDT. Last updated Sun Sep 21 at 10:17 PM PDT. (DBC-73974)</name>
           <description>
     &lt;![CDATA[
@@ -5686,31 +5531,6 @@
             <tessellate>1</tessellate>
             <coordinates>-125.263601,50.032532,0 -125.26493,50.032539,0 -125.266699,50.032547,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (on Haida Gwaii), in both directions. Maintenance at Brandt Rd (3 km east of Tlell). Until Fri Sep 26. From 7:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Ocean erosion control, watch for crews, obey traffic signs. Last updated Mon Sep 15 at 12:29 PM PDT. (DBC-81606)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Brandt Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km east of Tlell&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81606
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-131.952624,53.532193,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>East Sooke Road. Utility work planned between Silver Spray Dr and Pike Rd. Starting Mon Oct 6 until Sun Oct 12. From 8:00 AM to 4:00 PM PDT daily. Single lane alternating traffic will be in effect. Last updated Tue Sep 16 at 11:45 AM PDT. (DBC-81651)</name>
