@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-29 02:10:48 UTC
+        Last updated: 2025-09-29 02:53:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4609,31 +4609,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 10, in both directions. Paving operations at 168 St (Surrey). Until Sun Sep 28 at 8:00 PM PDT. Lane closures in both directions in effect. Expect delays. Watch for traffic control. Hwy 10 Eastbound Fast lane will be closed. Hwy 10 Westbound will be closed to traffic. Westbound traffic will be counter flowed into the Eastbound fast lane. Next update time Sun Sep 28 at 8:00 PM PDT. Last updated Sun Sep 28 at 6:13 PM PDT. (DBC-82031)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At 168 St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-28T18:13:13-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-28T20:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82031
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.756659,49.104231,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Inland Island Highway), southbound. Electrical maintenance planned at Northwest Bay Rd (6 km south of Parksville). Starting Tue Oct 7 at 9:00 AM PDT until Tue Oct 7 at 2:00 PM PDT. Right lane will be closed. Watch for traffic control personnel. Last updated Mon Sep 22 at 12:35 PM PDT. (DBC-81878)</name>
           <description>
     &lt;![CDATA[
@@ -6216,6 +6191,31 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 10, in both directions. Road cleared at 168 St (Surrey). Last updated Sun Sep 28 at 7:43 PM PDT. (DBC-82031)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 168 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-28T19:43:43-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82031
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.756659,49.104231,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
