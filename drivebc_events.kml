@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-29 17:02:34 UTC
+        Last updated: 2025-09-29 17:32:32 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5458,7 +5458,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19A (Island Highway), northbound. Electrical maintenance planned between Enterprise St and Hammond Bay Rd (Nanaimo). Starting Mon Sep 29 at 10:00 AM PDT until Mon Sep 29 at 3:00 PM PDT. Last updated Tue Sep 23 at 4:02 PM PDT. (DBC-81943)</name>
+          <name>Highway 19A (Island Highway), northbound. Electrical maintenance between Enterprise St and Hammond Bay Rd (Nanaimo). Until Mon Sep 29 at 3:00 PM PDT. Last updated Tue Sep 23 at 4:02 PM PDT. (DBC-81943)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5470,7 +5470,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Enterprise St and Hammond Bay Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Nanaimo&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-23T16:02:26-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-29T10:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6296,57 +6296,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. The traffic signal is out at Marine Dr (West Vancouver). All-way stop procedure in effect. Next update time Mon Sep 29 at 11:00 AM PDT. Last updated Mon Sep 29 at 9:04 AM PDT. (DBC-82122)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; SIGNAL_LIGHT_FAILURE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Marine Dr&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-29T09:04:32-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-29T11:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82122
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.13492,49.327225,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road cleared at Exit 25: McGill St (Vancouver). Last updated Mon Sep 29 at 9:40 AM PDT. (DBC-82123)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 25: McGill St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-29T09:40:12-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82123
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.031074,49.287065,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 17, eastbound. Stalled vehicle between Barnston Dr E and 100 Ave (Surrey). Right lane is blocked. Next update time Mon Sep 29 at 10:15 AM PDT. Last updated Mon Sep 29 at 9:18 AM PDT. (DBC-82126)</name>
+          <name>Highway 17, eastbound. Stalled vehicle between Barnston Dr E and 100 Ave (Surrey). Right lane is blocked. Next update time Mon Sep 29 at 11:15 AM PDT. Last updated Mon Sep 29 at 10:15 AM PDT. (DBC-82126)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6358,8 +6308,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Barnston Dr E and 100 Ave&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-29T09:18:49-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-29T10:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-29T10:15:44-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-29T11:15:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82126
@@ -6394,6 +6344,32 @@
           <Point>
             <coordinates>-122.82394,49.075164,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Lytton Ferry, in both directions. There is a mechanical issue between Lytton Ferry Start and Lytton Ferry End for 0.1 km (Lytton). Ferry route closed. Next update time Mon Sep 29 at 6:00 PM PDT. Last updated Mon Sep 29 at 10:09 AM PDT. (DBC-82128)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Lytton Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Lytton Ferry Start and Lytton Ferry End for 0.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Lytton&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-29T10:09:07-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-29T18:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82128
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.590823,50.247841,0 -121.591746,50.247441,0 -121.59285,50.246936,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 8. Watch for falling rocks between the start of Highway 8 and Dot Ranch Cut-Off Rd West for 34.8 km (Spences Bridge to 29 km west of Merritt). There is debris on the road. Last updated Mon Sep 29 at 1:50 AM PDT. (DBC-72877)</name>
