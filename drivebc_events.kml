@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-30 17:02:23 UTC
+        Last updated: 2025-09-30 17:33:23 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (255)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2865,6 +2865,32 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway). Construction work between 248 St and Bradner Rd for 5.7 km (Langley - District). Until Tue Oct 7. From 8:30 PM to 8:00 AM PDT on weekends and from 8:30 PM to 5:00 AM PDT on weekdays. Lane closures in both directions in effect. Full highway closures from 11:00PM to 4:30AM as needed. Traffic diverted to Exit 73 on and off-ramps at those times. Next update time Tue Oct 7 at 10:00 AM PDT. Last updated Tue Sep 30 at 10:04 AM PDT. (DBC-79804)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Bradner Rd for 5.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-30T10:04:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-07T10:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-79804
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.537041,49.118697,0 -122.530215,49.116002,0 -122.529425,49.115691,0 -122.528213,49.115212,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493315,49.101517,0 -122.493081,49.101427,0 -122.492806,49.101322,0 -122.491946,49.100985,0 -122.491271,49.10072,0 -122.489508,49.100028,0 -122.487088,49.099078,0 -122.486044,49.098669,0 -122.45954,49.088235,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 5 (Coquihalla South), in both directions. Paving operations between Exit 221: Falls Lake Rd and Exit 231: Mine Creek Rd for 6.3 km (3 to 10 km north of Coquihalla Summit). Until Tue Sep 30 at 7:00 PM PDT. From 7:00 AM to 7:00 PM PDT on weekdays and Saturday. Lane closures in both directions in effect. Watch for traffic control. Dry Gulch Bridge to Henning Bridge. Delays up to 15 minutes for paving. Last updated Mon Jul 21 at 9:19 AM PDT. (DBC-79513)</name>
           <description>
     &lt;![CDATA[
@@ -2916,32 +2942,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Construction work between 248 St and Bradner Rd for 5.7 km (Langley - District). Until Tue Sep 30. From 8:30 PM to 8:00 AM PDT on weekends and from 8:30 PM to 5:00 AM PDT on weekdays. Lane closures in both directions in effect. Full highway closures from 11:00PM to 4:30AM as needed. Traffic diverted to Exit 73 on and off-ramps at those times. Next update time Tue Sep 30 at 10:00 AM PDT. Last updated Tue Sep 30 at 12:04 AM PDT. (DBC-79804)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Bradner Rd for 5.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-30T00:04:58-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-30T10:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-79804
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.537041,49.118697,0 -122.530215,49.116002,0 -122.529425,49.115691,0 -122.528213,49.115212,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493315,49.101517,0 -122.493081,49.101427,0 -122.492806,49.101322,0 -122.491946,49.100985,0 -122.491271,49.10072,0 -122.489508,49.100028,0 -122.487088,49.099078,0 -122.486044,49.098669,0 -122.45954,49.088235,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 28. Utility work between Nootka Dr and Western Mine Rd for 39.8 km (Gold River to 37 km west of Campbell River). Road closed intermittently. Watch for traffic control. Random 5 minute closures for helicopter to fly materials over near Elk River Bridge. Last updated Thu Sep 11 at 2:33 PM PDT. (DBC-81465)</name>
           <description>
     &lt;![CDATA[
@@ -2990,6 +2990,56 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-129.304188,56.152954,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[Truncated] Atlin Hwy, in both directions. Road construction work between Discovery Ave and Bear Creek Rd (Atlin). Until Tue Sep 30 at 10:30 AM PDT. Watch for traffic control. Road open to traffic. TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTE</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Atlin Hwy&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Discovery Ave and Bear Creek Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Atlin&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-30T10:12:56-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82148
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-133.685071,59.589378,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), eastbound. Bridge maintenance between Pine Rd and Savory Rd (1 km west of Endako). For three days. Single lane alternating traffic. Last updated Tue Sep 30 at 10:25 AM PDT. (DBC-82149)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Pine Rd and Savory Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km west of Endako&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-30T10:25:36-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82149
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-125.081725,54.085999,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5842,32 +5892,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 5 (Coquihalla South), in both directions. There is a wildfire between Exit 231: Mine Creek Rd and Exit 250: Larson Hill for 18.6 km (12 to 31 km north of Coquihalla Summit). Drive with care. Next update time Tue Sep 30 at 10:00 AM PDT. Last updated Fri Sep 26 at 11:29 AM PDT. (DBC-81233)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 231: Mine Creek Rd and Exit 250: Larson Hill for 18.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 31 to 12 km north of Coquihalla Summit&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-26T11:29:19-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-30T10:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81233
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.013409,49.681902,0 -121.013209,49.683089,0 -121.01319,49.684035,0 -121.013173,49.68457,0 -121.013129,49.687459,0 -121.013104,49.68912,0 -121.013189,49.690795,0 -121.01322,49.691399,0 -121.013139,49.691872,0 -121.013086,49.692185,0 -121.012887,49.692677,0 -121.012549,49.69323,0 -121.011567,49.694599,0 -121.011191,49.695204,0 -121.010953,49.695925,0 -121.010896,49.696611,0 -121.011023,49.697529,0 -121.011405,49.698853,0 -121.011948,49.700072,0 -121.013864,49.703146,0 -121.016088,49.706714,0 -121.016347,49.707361,0 -121.016436,49.707848,0 -121.016431,49.708378,0 -121.016346,49.70887,0 -121.016143,49.70946,0 -121.015868,49.709939,0 -121.015272,49.710671,0 -121.012989,49.712986,0 -121.012509,49.713718,0 -121.012249,49.714364,0 -121.012132,49.715164,0 -121.012256,49.716067,0 -121.013233,49.718591,0 -121.013441,49.719522,0 -121.013532,49.720631,0 -121.013068,49.726254,0 -121.01233,49.729288,0 -121.012146,49.731072,0 -121.012285,49.739664,0 -121.012295,49.740278,0 -121.012307,49.740484,0 -121.01233,49.74088,0 -121.012461,49.744506,0 -121.012364,49.745412,0 -121.012054,49.748305,0 -121.011713,49.751608,0 -121.011469,49.752623,0 -121.011135,49.753555,0 -121.01055,49.754497,0 -121.010329,49.754763,0 -121.009801,49.755398,0 -121.008948,49.756169,0 -121.007584,49.757103,0 -121.006682,49.757529,0 -121.003709,49.758932,0 -121.002658,49.759619,0 -121.001677,49.760586,0 -121.001573,49.760688,0 -121.00142,49.760839,0 -121.001249,49.761007,0 -121.001029,49.761224,0 -120.999989,49.76225,0 -120.997517,49.764686,0 -120.996274,49.765911,0 -120.995403,49.766802,0 -120.994708,49.767513,0 -120.994152,49.768238,0 -120.994075,49.768376,0 -120.993966,49.768571,0 -120.993759,49.768942,0 -120.993542,49.769549,0 -120.992963,49.771438,0 -120.992885,49.771694,0 -120.992523,49.772443,0 -120.991963,49.773301,0 -120.990887,49.774445,0 -120.989478,49.775484,0 -120.987344,49.776788,0 -120.985371,49.777993,0 -120.984386,49.778651,0 -120.983163,49.779526,0 -120.980011,49.78178,0 -120.974673,49.785597,0 -120.973401,49.786559,0 -120.973061,49.786816,0 -120.972304,49.787562,0 -120.971609,49.788562,0 -120.971076,49.790088,0 -120.971039,49.790234,0 -120.97092,49.790688,0 -120.970902,49.790752,0 -120.970438,49.792416,0 -120.969877,49.793589,0 -120.969313,49.794441,0 -120.968322,49.795546,0 -120.967407,49.796287,0 -120.966974,49.796638,0 -120.965979,49.797262,0 -120.965789,49.797381,0 -120.961568,49.799439,0 -120.960574,49.79995,0 -120.96043,49.800028,0 -120.957991,49.801349,0 -120.955771,49.802791,0 -120.955215,49.803193,0 -120.954142,49.803969,0 -120.952251,49.805573,0 -120.951553,49.806222,0 -120.950436,49.80736,0 -120.948765,49.809316,0 -120.948569,49.809563,0 -120.948504,49.809645,0 -120.948248,49.809941,0 -120.946366,49.812124,0 -120.939885,49.820042,0 -120.939156,49.821047,0 -120.938896,49.821679,0 -120.938637,49.82247,0 -120.938324,49.826188,0 -120.938049,49.826939,0 -120.937609,49.827678,0 -120.937171,49.828229,0 -120.936302,49.8291,0 -120.934689,49.83045,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Colleymount Rd, in both directions. Washout at 53.5km near Burns Lake. Single lane alternating traffic. Partial road washout, obey signage. Next update time Fri Oct 17 at 10:00 AM PDT. Last updated Fri Sep 26 at 9:47 AM PDT. (DBC-71008)</name>
           <description>
     &lt;![CDATA[
@@ -5995,7 +6019,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector). Rest area closed between Charles Rd and Anderson Rd (15 km south of Pineview). Next update time Tue Sep 30 at 10:00 AM PDT. Last updated Mon Jun 30 at 10:04 AM PDT. (DBC-71474)</name>
+          <name>Highway 97 (Cariboo Connector). Rest area closed between Charles Rd and Anderson Rd (15 km south of Pineview). Next update time Tue Oct 7 at 10:00 AM PDT. Last updated Tue Sep 30 at 10:04 AM PDT. (DBC-71474)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6007,8 +6031,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Charles Rd and Anderson Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 15 km south of Pineview&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-06-30T10:04:11-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-30T10:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-30T10:04:30-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-07T10:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-71474
@@ -6196,6 +6220,32 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 5 (Coquihalla South), in both directions. There is a wildfire between Exit 231: Mine Creek Rd and Exit 250: Larson Hill for 18.6 km (12 to 31 km north of Coquihalla Summit). Drive with care. Next update time Tue Oct 7 at 10:00 AM PDT. Last updated Tue Sep 30 at 10:04 AM PDT. (DBC-81233)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 231: Mine Creek Rd and Exit 250: Larson Hill for 18.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 31 to 12 km north of Coquihalla Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-30T10:04:56-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-07T10:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81233
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.013409,49.681902,0 -121.013209,49.683089,0 -121.01319,49.684035,0 -121.013173,49.68457,0 -121.013129,49.687459,0 -121.013104,49.68912,0 -121.013189,49.690795,0 -121.01322,49.691399,0 -121.013139,49.691872,0 -121.013086,49.692185,0 -121.012887,49.692677,0 -121.012549,49.69323,0 -121.011567,49.694599,0 -121.011191,49.695204,0 -121.010953,49.695925,0 -121.010896,49.696611,0 -121.011023,49.697529,0 -121.011405,49.698853,0 -121.011948,49.700072,0 -121.013864,49.703146,0 -121.016088,49.706714,0 -121.016347,49.707361,0 -121.016436,49.707848,0 -121.016431,49.708378,0 -121.016346,49.70887,0 -121.016143,49.70946,0 -121.015868,49.709939,0 -121.015272,49.710671,0 -121.012989,49.712986,0 -121.012509,49.713718,0 -121.012249,49.714364,0 -121.012132,49.715164,0 -121.012256,49.716067,0 -121.013233,49.718591,0 -121.013441,49.719522,0 -121.013532,49.720631,0 -121.013068,49.726254,0 -121.01233,49.729288,0 -121.012146,49.731072,0 -121.012285,49.739664,0 -121.012295,49.740278,0 -121.012307,49.740484,0 -121.01233,49.74088,0 -121.012461,49.744506,0 -121.012364,49.745412,0 -121.012054,49.748305,0 -121.011713,49.751608,0 -121.011469,49.752623,0 -121.011135,49.753555,0 -121.01055,49.754497,0 -121.010329,49.754763,0 -121.009801,49.755398,0 -121.008948,49.756169,0 -121.007584,49.757103,0 -121.006682,49.757529,0 -121.003709,49.758932,0 -121.002658,49.759619,0 -121.001677,49.760586,0 -121.001573,49.760688,0 -121.00142,49.760839,0 -121.001249,49.761007,0 -121.001029,49.761224,0 -120.999989,49.76225,0 -120.997517,49.764686,0 -120.996274,49.765911,0 -120.995403,49.766802,0 -120.994708,49.767513,0 -120.994152,49.768238,0 -120.994075,49.768376,0 -120.993966,49.768571,0 -120.993759,49.768942,0 -120.993542,49.769549,0 -120.992963,49.771438,0 -120.992885,49.771694,0 -120.992523,49.772443,0 -120.991963,49.773301,0 -120.990887,49.774445,0 -120.989478,49.775484,0 -120.987344,49.776788,0 -120.985371,49.777993,0 -120.984386,49.778651,0 -120.983163,49.779526,0 -120.980011,49.78178,0 -120.974673,49.785597,0 -120.973401,49.786559,0 -120.973061,49.786816,0 -120.972304,49.787562,0 -120.971609,49.788562,0 -120.971076,49.790088,0 -120.971039,49.790234,0 -120.97092,49.790688,0 -120.970902,49.790752,0 -120.970438,49.792416,0 -120.969877,49.793589,0 -120.969313,49.794441,0 -120.968322,49.795546,0 -120.967407,49.796287,0 -120.966974,49.796638,0 -120.965979,49.797262,0 -120.965789,49.797381,0 -120.961568,49.799439,0 -120.960574,49.79995,0 -120.96043,49.800028,0 -120.957991,49.801349,0 -120.955771,49.802791,0 -120.955215,49.803193,0 -120.954142,49.803969,0 -120.952251,49.805573,0 -120.951553,49.806222,0 -120.950436,49.80736,0 -120.948765,49.809316,0 -120.948569,49.809563,0 -120.948504,49.809645,0 -120.948248,49.809941,0 -120.946366,49.812124,0 -120.939885,49.820042,0 -120.939156,49.821047,0 -120.938896,49.821679,0 -120.938637,49.82247,0 -120.938324,49.826188,0 -120.938049,49.826939,0 -120.937609,49.827678,0 -120.937171,49.828229,0 -120.936302,49.8291,0 -120.934689,49.83045,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Bamfield Rd, in both directions. Travel advisory in effect between Bamfield and Port Alberni. Road closed. Alternative route has been established from Youbou-Lake Cowichan to Bamfield. For more information, visit the Alberni-Clayoquot Regional District website. Next update time Fri Oct 31 at 12:00 PM PDT. Last updated Wed Sep 17 at 12:18 PM PDT. (DBC-80346)</name>
           <description>
     &lt;![CDATA[
@@ -6269,31 +6319,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 17, westbound. Stalled vehicle between Bridgeview Dr and Old Yale Rd (Surrey). Right lane is blocked. Watch for traffic control. Next update time Tue Sep 30 at 10:30 AM PDT. Last updated Tue Sep 30 at 9:32 AM PDT. (DBC-82145)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Old Yale Rd and Bridgeview Dr&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-30T09:32:05-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-30T10:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82145
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.88173,49.209341,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
