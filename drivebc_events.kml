@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-09-30 12:03:00 UTC
+        Last updated: 2025-09-30 12:44:10 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1379,32 +1379,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.440304,49.11559,0 -125.440299,49.115734,0 -125.440212,49.115931,0 -125.440032,49.116097,0 -125.439747,49.116244,0 -125.439287,49.116398,0 -125.438524,49.116584,0 -125.437914,49.116612,0 -125.437418,49.116705,0 -125.436999,49.116815,0 -125.436511,49.117009,0 -125.436256,49.117167,0 -125.436111,49.117312,0 -125.436009,49.117474,0 -125.435835,49.118055,0 -125.435619,49.118464,0 -125.435585,49.118652,0 -125.435613,49.118819,0 -125.435797,49.119181,0 -125.435799,49.119323,0 -125.435716,49.119481,0 -125.435504,49.119633,0 -125.434745,49.119945,0 -125.433751,49.120412,0 -125.432804,49.120814,0 -125.432387,49.120938,0 -125.431921,49.121017,0 -125.431221,49.121067,0 -125.430456,49.121042,0 -125.429567,49.120899,0 -125.429064,49.120854,0 -125.428705,49.120849,0 -125.428342,49.120901,0 -125.427902,49.12105,0 -125.425916,49.121921,0 -125.425675,49.12208,0 -125.425494,49.122263,0 -125.425466,49.122308,0 -125.42535,49.122499,0 -125.424996,49.12371,0 -125.424931,49.124064,0 -125.424933,49.124362,0 -125.424981,49.124673,0 -125.425105,49.125029,0 -125.425269,49.125372,0 -125.425465,49.125781,0 -125.425523,49.125902,0 -125.425742,49.126262,0 -125.426022,49.126587,0 -125.426285,49.126826,0 -125.426937,49.127319,0 -125.427569,49.1279,0 -125.42776,49.128148,0 -125.427802,49.128318,0 -125.427766,49.128467,0 -125.427624,49.128653,0 -125.427411,49.128815,0 -125.427172,49.128934,0 -125.426888,49.128998,0 -125.426714,49.129018,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Roderick St and Culduthel Rd for 0.6 km (Saanich). Until Tue Sep 30 at 5:00 AM PDT. Right lane closed. Left lane is closed. Expect minor delays. Watch for traffic control. Last updated Wed Feb 19 at 11:59 AM PDT. (DBC-72994)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Roderick St and Culduthel Rd for 0.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Saanich&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-07T22:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-72994
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.372958,48.448783,0 -123.373289,48.449282,0 -123.373299,48.449299,0 -123.374319,48.450961,0 -123.374347,48.451009,0 -123.374487,48.451255,0 -123.374718,48.451659,0 -123.375166,48.45244,0 -123.375315,48.452702,0 -123.375354,48.452769,0 -123.375378,48.452818,0 -123.375569,48.453201,0 -123.375674,48.45337,0 -123.375807,48.453604,0 -123.375929,48.453789,0 -123.376039,48.453924,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6243,6 +6217,31 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, westbound. Stalled vehicle between Bridgeview Dr and Old Yale Rd (Surrey). Right lane is blocked. Watch for traffic control. Next update time Tue Sep 30 at 5:45 AM PDT. Last updated Tue Sep 30 at 5:21 AM PDT. (DBC-82145)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Old Yale Rd and Bridgeview Dr&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-30T05:21:01-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-09-30T05:45:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82145
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.88173,49.209341,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
