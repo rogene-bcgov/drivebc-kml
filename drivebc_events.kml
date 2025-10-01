@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-01 18:02:34 UTC
+        Last updated: 2025-10-01 18:38:59 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (239)</name>
+      <name>🚗 Traffic Events (241)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -688,6 +688,32 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 19 (Inland Island Highway), southbound. Bridge maintenance planned between Rumming Rd and Mallard Way Rd for 0.9 km (7 to 6 km north of Nanaimo). Starting Thu Oct 9 at 9:00 PM PDT until Fri Oct 10 at 6:00 AM PDT. From 9:00 PM to 6:00 AM PDT on Thursday and Friday. Lane Closure. Watch for traffic control personnel. Last updated Wed Oct 1 at 11:06 AM PDT. (DBC-82175)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Rumming Rd and Mallard Way Rd for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 7 km north of Nanaimo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T11:06:42-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82175
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.14179,49.249823,0 -124.141737,49.249803,0 -124.141369,49.249672,0 -124.141201,49.249613,0 -124.140464,49.249449,0 -124.139749,49.249369,0 -124.139373,49.249357,0 -124.138993,49.249345,0 -124.138019,49.249447,0 -124.137306,49.249609,0 -124.136327,49.249943,0 -124.136015,49.250059,0 -124.135535,49.250238,0 -124.133719,49.250917,0 -124.133638,49.250944,0 -124.132808,49.251225,0 -124.132737,49.251249,0 -124.131812,49.251514,0 -124.131738,49.251535,0 -124.131537,49.251571,0 -124.130747,49.25171,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 7B (Mary Hill Bypass), westbound. Construction work between Coast Meridian Rd and Broadway St for 0.6 km (Port Coquitlam). Until Fri Oct 31. From 9:00 AM to 3:00 PM PDT daily. Lane Closure. Bus Stop Improvement project. Last updated Wed Jun 18 at 1:02 PM PDT. (DBC-78197)</name>
           <description>
     &lt;![CDATA[
@@ -866,6 +892,32 @@
           <Point>
             <coordinates>-123.075821,49.122079,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Utility work planned between Coates Rd and Cassino Rd for 0.8 km (17 km east of Chase to 18 km west of Tappen). Starting Mon Oct 13 until Fri Oct 24. From 8:00 AM to 4:00 PM PDT daily. Left lane will be closed. Last updated Wed Oct 1 at 11:26 AM PDT. (DBC-82177)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Coates Rd and Cassino Rd for 0.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 18 km west of Tappen to 17 km east of Chase&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T11:26:27-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82177
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.478831,50.878647,0 -119.478732,50.878622,0 -119.477496,50.878302,0 -119.473558,50.877285,0 -119.473443,50.877255,0 -119.473117,50.8772,0 -119.472886,50.877161,0 -119.472508,50.877089,0 -119.472021,50.877001,0 -119.471092,50.876927,0 -119.470357,50.876921,0 -119.469943,50.876919,0 -119.468606,50.876909,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Lochside Dr, in both directions. Utility work between Captains Walk and Ocean Avenue. Until Fri Nov 21. From 6:00 AM to 6:00 PM PDT daily. Single lane alternating traffic. Watch for traffic control. Last updated Thu Aug 7 at 4:21 PM PDT. (DBC-80205)</name>
@@ -5585,6 +5637,31 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Ord Road , in both directions. Vehicle incident between Batchelor Drive and Singh Street in Kamloops. Road closed. Assessment in progress. Next update time Wed Oct 1 at 1:00 PM PDT. Last updated Wed Oct 1 at 11:24 AM PDT. (DBC-82176)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Ord Road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Batchelor Drive and Singh  Street in Kamloops&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T11:24:55-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-01T13:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82176
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-120.420686,50.665852,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Colleymount Rd, in both directions. Washout at 53.5km near Burns Lake. Single lane alternating traffic. Partial road washout, obey signage. Next update time Fri Oct 17 at 10:00 AM PDT. Last updated Fri Sep 26 at 9:47 AM PDT. (DBC-71008)</name>
           <description>
     &lt;![CDATA[
@@ -6012,31 +6089,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 7 (Lougheed Highway), westbound. Vehicle incident at Laity St (Maple Ridge). Road closed. Expect Major delays due to congestion. Next update time Wed Oct 1 at 11:15 AM PDT. Last updated Wed Oct 1 at 10:43 AM PDT. (DBC-82166)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Laity St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Maple Ridge&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T10:43:47-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-01T11:15:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82166
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.634635,49.217157,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
