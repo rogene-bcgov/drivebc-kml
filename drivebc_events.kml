@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-01 21:31:26 UTC
+        Last updated: 2025-10-01 22:02:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (248)</name>
+      <name>🚗 Traffic Events (251)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2150,6 +2150,32 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned between Exit 19: Lynn Valley Rd and Exit 18: Lonsdale Ave for 1.5 km (North Vancouver - City). Starting Thu Oct 2 at 10:00 PM PDT until Fri Oct 3 at 5:00 AM PDT. Right lane will be blocked. Last updated Wed Oct 1 at 2:39 PM PDT. (DBC-82188)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 18: Lonsdale Ave and Exit 19: Lynn Valley Rd for 1.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - City&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:39:35-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82188
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.072007,49.331879,0 -123.068904,49.331845,0 -123.062849,49.331778,0 -123.06279,49.331782,0 -123.060668,49.331907,0 -123.060573,49.331913,0 -123.06049,49.331918,0 -123.059879,49.331896,0 -123.059087,49.331799,0 -123.057887,49.331546,0 -123.057196,49.331323,0 -123.057047,49.331262,0 -123.056897,49.3312,0 -123.056388,49.330991,0 -123.056362,49.330981,0 -123.056201,49.330915,0 -123.055612,49.330585,0 -123.054475,49.329745,0 -123.054264,49.329527,0 -123.053743,49.328988,0 -123.053636,49.328879,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Construction work between Port Edward Turnoff and Rainbow Avalanche Gates (16 km east of Prince Rupert). Until Thu Oct 9. From 6:00 AM to 6:00 PM PDT daily. Industrial traffic may slow or block regular traffic. Watch for traffic control. Speed reduction in place during work hours. Last updated Thu Aug 21 at 10:59 AM PDT. (DBC-80731)</name>
           <description>
     &lt;![CDATA[
@@ -2224,6 +2250,57 @@
           <Point>
             <coordinates>-122.894618,49.207727,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Utility work planned between Exit 146 and Wahleach Access Rd (13 km east of Chilliwack). Starting Mon Oct 6 until Fri Oct 10. From 8:00 AM to 4:00 PM PDT on weekdays. Right lane will be blocked. Expect delays. Speed limit 60 km/h. Last updated Wed Oct 1 at 2:42 PM PDT. (DBC-82189)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Wahleach Access Rd and Exit 146&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km east of Chilliwack&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:42:52-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82189
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.677915,49.250397,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 27, in both directions. Bridge maintenance planned between Vines Dr and Snell Rd W for 1.3 km (50 to 48 km south of Fort St James). Starting Mon Oct 6 at 7:00 AM PDT until Tue Oct 7 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on Monday and Tuesday. Bridge deck inspections. No work during adverse weather conditions. Last updated Wed Oct 1 at 2:48 PM PDT. (DBC-82190)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 27&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Vines Dr and Snell Rd W for 1.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 48 to 50 km south of Fort St James&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:48:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82190
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.120384,54.044632,0 -124.120227,54.04496,0 -124.120079,54.045519,0 -124.120048,54.04644,0 -124.120049,54.046603,0 -124.120062,54.047906,0 -124.120064,54.048139,0 -124.120068,54.048538,0 -124.120073,54.049173,0 -124.120115,54.053729,0 -124.120035,54.054175,0 -124.119894,54.05456,0 -124.119553,54.055008,0 -124.119094,54.055418,0 -124.118401,54.055836,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 4A. Tree pruning between Coombs Rd and Smithers Rd for 5.9 km (2 to 8 km west of Parksville). Until Wed Oct 8 at 3:00 PM PDT. Shoulder closed. Watch for traffic control. Last updated Mon Sep 29 at 4:00 PM PDT. (DBC-82137)</name>
@@ -2301,6 +2378,32 @@
           <Point>
             <coordinates>-123.279397,48.763286,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 27, in both directions. Bridge maintenance planned between Sowchea Rd and Roberts Rd for 0.5 km (3 km south of Fort St James). Starting Wed Oct 8 at 7:00 AM PDT until Thu Oct 9 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on Wednesday and Thursday. Bridge deck inspections. No work in adverse weather conditions. Last updated Wed Oct 1 at 2:51 PM PDT. (DBC-82191)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 27&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Sowchea Rd and Roberts Rd for 0.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km south of Fort St James&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:51:56-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82191
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.274259,54.416743,0 -124.273674,54.416867,0 -124.273105,54.41692,0 -124.272485,54.416917,0 -124.272115,54.416916,0 -124.270481,54.416911,0 -124.269617,54.416908,0 -124.268583,54.416909,0 -124.268004,54.416981,0 -124.26753,54.417105,0 -124.267103,54.417292,0 -124.266855,54.4174,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Boys Rd, in both directions. Utility work between Highway 1 and Mission Rd. Until Fri Oct 31. From 7:00 AM to 7:00 PM PDT daily. Shoulder closed. Last updated Thu Jun 12 at 12:11 PM PDT. (DBC-77927)</name>
@@ -5869,7 +5972,7 @@
         <Placemark>
           <name>Upper Arrow Lake Ferry, in both directions. There will be required maintenance at Upper Arrow Lake Ferry (Upper Arrow Lake). Starting Tue Oct 7 at 8:00 AM PDT until Mon Oct 13 at 10:00 PM PDT. Starting Oct 7th until Oct 13th, ferry will close early for maintenance:
 Last sailing Shelter bay: 8:00pm
-Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 10:00 PM PDT. Last updated Wed Oct 1 at 2:15 PM PDT. (DBC-82182)</name>
+Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 5:00 AM PDT. Last updated Wed Oct 1 at 2:44 PM PDT. (DBC-82182)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5881,8 +5984,8 @@ Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 10:00 PM PDT. La
     &lt;b&gt;Location:&lt;/b&gt; At Upper Arrow Lake Ferry&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Upper Arrow Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:15:19-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-13T22:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:44:10-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-13T05:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82182
@@ -5941,31 +6044,6 @@ Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 10:00 PM PDT. La
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.418333,52.868329,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between Exit 40: Brunette Ave and King Edward St (Coquitlam). Last updated Wed Oct 1 at 2:18 PM PDT. (DBC-82185)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 40: Brunette Ave and King Edward St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:18:07-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82185
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.86867,49.233051,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -6096,6 +6174,31 @@ Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 10:00 PM PDT. La
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. There is a multi-vehicle incident between Exit 37: Gaglardi Way and Cariboo Rd (Burnaby). HOV lane closed. Expect Major delays due to congestion. Next update time Wed Oct 1 at 3:30 PM PDT. Last updated Wed Oct 1 at 2:48 PM PDT. (DBC-82186)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 37: Gaglardi Way and Cariboo Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:48:01-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-01T15:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82186
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.912384,49.243953,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Rest area closed at Bradner Rd (Abbotsford). Construction work. For more information on the closure, please refer to Highway 1 Project page: gov.Bc.Ca/264toHighway11#bradner. Next update time Fri Oct 31 at 12:00 PM PDT. Last updated Tue Sep 30 at 12:06 PM PDT. (DBC-66582)</name>
           <description>
     &lt;![CDATA[
@@ -6121,32 +6224,7 @@ Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 10:00 PM PDT. La
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. There is a multi-vehicle incident between Exit 37: Gaglardi Way and Cariboo Rd (Burnaby). HOV lane closed. Left lane is blocked. Expect Major delays due to congestion. Next update time Wed Oct 1 at 2:30 PM PDT. Last updated Wed Oct 1 at 2:05 PM PDT. (DBC-82186)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 37: Gaglardi Way and Cariboo Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:05:28-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-01T14:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82186
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.912384,49.243953,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident at 208 St (Langley - District). Right lane is blocked. Expect delays due to congestion. Next update time Wed Oct 1 at 3:00 PM PDT. Last updated Wed Oct 1 at 2:22 PM PDT. (DBC-82187)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident at 208 St (Langley - District). Shoulder closed. Expect delays due to congestion. Next update time Wed Oct 1 at 3:00 PM PDT. Last updated Wed Oct 1 at 2:33 PM PDT. (DBC-82187)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6158,7 +6236,7 @@ Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 10:00 PM PDT. La
     &lt;b&gt;Location:&lt;/b&gt; At 208 St&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:22:16-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:33:41-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-01T15:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
