@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-01 20:34:24 UTC
+        Last updated: 2025-10-01 21:02:15 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (247)</name>
+      <name>🚗 Traffic Events (249)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1534,6 +1534,32 @@
           <Point>
             <coordinates>-121.734741,55.835006,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Coates Rd and Caen Rd for 0.7 km (18 km west of Tappen to 17 km east of Chase). Starting Wed Oct 22 at 9:00 AM PDT until Wed Oct 22 at 3:00 PM PDT. Last updated Wed Oct 1 at 1:32 PM PDT. (DBC-82184)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Coates Rd and Caen Rd for 0.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 17 km east of Chase to 18 km west of Tappen&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T13:32:22-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82184
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.478892,50.878663,0 -119.478732,50.878622,0 -119.477496,50.878302,0 -119.473558,50.877285,0 -119.473443,50.877255,0 -119.473117,50.8772,0 -119.472886,50.877161,0 -119.472508,50.877089,0 -119.472021,50.877001,0 -119.471092,50.876927,0 -119.470357,50.876921,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 16 (on Haida Gwaii), in both directions. Bridge maintenance between E Cedar Ave and Beitush Rd for 6.3 km (7 km west of Tlell to 5 km east of Port Clements). Bridge construction. Bridge repairs in effect at Woodpile Bridge. Speed reduction, reduce speed. Next update time Fri Oct 3 at 12:30 PM PDT. Last updated Wed Oct 1 at 10:36 AM PDT. (DBC-74895)</name>
@@ -5765,7 +5791,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Ord Road , in both directions. Vehicle incident between Batchelor Drive and Singh Street in Kamloops. Road closed. Assessment in progress. Next update time Wed Oct 1 at 1:00 PM PDT. Last updated Wed Oct 1 at 12:17 PM PDT. (DBC-82176)</name>
+          <name>Ord Road , in both directions. Road cleared between Batchelor Drive and Singh Street in Kamloops. Last updated Wed Oct 1 at 1:41 PM PDT. (DBC-82176)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5777,9 +5803,9 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Batchelor Drive and Singh Street in Kamloops&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T12:17:04-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-01T13:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T13:41:11-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82176
     ]]&gt;
@@ -5991,6 +6017,31 @@ Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 10:00 PM PDT. La
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.418333,52.868329,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 40: Brunette Ave and King Edward St (Coquitlam). HOV lane closed. Next update time Wed Oct 1 at 2:15 PM PDT. Last updated Wed Oct 1 at 1:53 PM PDT. (DBC-82185)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 40: Brunette Ave and King Edward St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T13:53:03-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-01T14:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82185
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.86867,49.233051,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
