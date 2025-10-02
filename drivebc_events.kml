@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-02 20:02:19 UTC
+        Last updated: 2025-10-02 20:33:43 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -739,6 +739,32 @@
           <Point>
             <coordinates>-124.170977,54.479559,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Meadows in the Sky Pkwy and Alpine Lane W for 1.2 km (Revelstoke). Starting Fri Oct 3 at 8:00 AM PDT until Fri Oct 3 at 4:00 PM PDT. Watch for traffic control personnel. Next update time Fri Oct 3 at 4:00 PM PDT. Last updated Thu Oct 2 at 1:12 PM PDT. (DBC-82228)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Meadows in the Sky Pkwy and Alpine Lane W for 1.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T13:12:28-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-03T16:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82228
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.199826,51.006677,0 -118.199585,51.006638,0 -118.199281,51.006589,0 -118.19877,51.00645,0 -118.198597,51.006402,0 -118.198078,51.006199,0 -118.197503,51.00592,0 -118.197194,51.005701,0 -118.196096,51.004927,0 -118.19556,51.004549,0 -118.195524,51.004524,0 -118.195451,51.004471,0 -118.191179,51.001421,0 -118.190802,51.001183,0 -118.190454,51.000964,0 -118.189703,51.000583,0 -118.18897,51.000306,0 -118.188138,51.00007,0 -118.187848,51.000007,0 -118.187313,50.999889,0 -118.187149,50.999853,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Nisga'a Hwy (Highway 113), in both directions. Mowing between Nass Rd and Big Cedar Bridge for 45.1 km (Gitlaxt'aamiks (New Aiyanish)). For the next two months. Last updated Wed Sep 10 at 4:52 PM PDT. (DBC-81431)</name>
@@ -2151,32 +2177,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned between Exit 19: Lynn Valley Rd and Exit 18: Lonsdale Ave for 1.5 km (North Vancouver - City). Starting Thu Oct 2 at 10:00 PM PDT until Fri Oct 3 at 5:00 AM PDT. Right lane will be blocked. Last updated Wed Oct 1 at 2:39 PM PDT. (DBC-82188)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 18: Lonsdale Ave and Exit 19: Lynn Valley Rd for 1.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - City&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:39:35-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82188
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.072007,49.331879,0 -123.068904,49.331845,0 -123.062849,49.331778,0 -123.06279,49.331782,0 -123.060668,49.331907,0 -123.060573,49.331913,0 -123.06049,49.331918,0 -123.059879,49.331896,0 -123.059087,49.331799,0 -123.057887,49.331546,0 -123.057196,49.331323,0 -123.057047,49.331262,0 -123.056897,49.3312,0 -123.056388,49.330991,0 -123.056362,49.330981,0 -123.056201,49.330915,0 -123.055612,49.330585,0 -123.054475,49.329745,0 -123.054264,49.329527,0 -123.053743,49.328988,0 -123.053636,49.328879,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Construction work between Port Edward Turnoff and Rainbow Avalanche Gates (16 km east of Prince Rupert). Until Thu Oct 9. From 6:00 AM to 6:00 PM PDT daily. Industrial traffic may slow or block regular traffic. Watch for traffic control. Speed reduction in place during work hours. Last updated Thu Aug 21 at 10:59 AM PDT. (DBC-80731)</name>
           <description>
     &lt;![CDATA[
@@ -2200,6 +2200,32 @@
           <Point>
             <coordinates>-130.140327,54.238167,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Paving operations planned between Exit 19: Lynn Valley Rd and Exit 18: Lonsdale Ave for 1.5 km (North Vancouver - City). Starting Thu Oct 2 at 10:00 PM PDT until Fri Oct 3 at 5:00 AM PDT. Right lane will be blocked. Right lane paving from Lynn Valley overpass to 300m past Westbound Lonsdale on ramp. Westbound Lynn Valley on ramp closed from 9pm - 5am. Last updated Thu Oct 2 at 12:57 PM PDT. (DBC-82188)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 18: Lonsdale Ave and Exit 19: Lynn Valley Rd for 1.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - City&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T12:57:42-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82188
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.072007,49.331879,0 -123.068904,49.331845,0 -123.062849,49.331778,0 -123.06279,49.331782,0 -123.060668,49.331907,0 -123.060573,49.331913,0 -123.06049,49.331918,0 -123.059879,49.331896,0 -123.059087,49.331799,0 -123.057887,49.331546,0 -123.057196,49.331323,0 -123.057047,49.331262,0 -123.056897,49.3312,0 -123.056388,49.330991,0 -123.056362,49.330981,0 -123.056201,49.330915,0 -123.055612,49.330585,0 -123.054475,49.329745,0 -123.054264,49.329527,0 -123.053743,49.328988,0 -123.053636,49.328879,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Tappen Beach Rd and 65 Ave NW for 2.6 km (Salmon Arm to 2 km east of Tappen). From 7:00 AM to 5:00 PM PDT on weekdays and Saturday. Expect minor delays. Next update time Fri Dec 19 at 9:00 AM PDT. Last updated Fri Sep 26 at 8:53 AM PDT. (DBC-72305)</name>
@@ -5940,31 +5966,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.492105,48.826325,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road cleared at Second Narrows Bridge (North Vancouver - District). Last updated Thu Oct 2 at 12:55 PM PDT. (DBC-82225)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T12:55:25-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82225
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.026346,49.295359,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
