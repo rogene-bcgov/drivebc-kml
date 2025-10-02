@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-02 12:43:39 UTC
+        Last updated: 2025-10-02 13:07:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (240)</name>
+      <name>🚗 Traffic Events (241)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1738,6 +1738,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), southbound. Paving operations planned at Spruston Rd (6 km south of Nanaimo). Starting Tue Oct 7 at 9:00 AM PDT until Tue Oct 7 at 3:00 PM PDT. Right lane will be blocked. Watch for traffic control personnel. Spruston Road will be Alternating Single Lane Traffic. Last updated Thu Oct 2 at 5:57 AM PDT. (DBC-82213)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Spruston Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 km south of Nanaimo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T05:57:38-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82213
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.877103,49.06307,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Old Alaska Highway, in both directions. Geotechnical investigation at Kiskatinaw Curved Bridge near Dawson Creek. Bridge is closed. Assessment in progress. Slide impacting bridge. Next update time Fri Jan 2, 2026 at 10:00 AM MST. Last updated Sun Sep 28 at 7:42 AM MST. (DBC-30093)</name>
           <description>
     &lt;![CDATA[
@@ -1761,6 +1786,32 @@
           <Point>
             <coordinates>-120.564212,55.957219,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Shoulder maintenance between Bear Rd and Cowart Rd for 3.8 km (Prince George). Until Thu Oct 2 at 6:00 PM PDT. Right lane is closed in both directions. Watch for traffic control. Last updated Wed Oct 1 at 6:21 PM PDT. (DBC-82203)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Bear Rd and Cowart Rd for 3.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince George&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T06:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82203
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.806959,53.859279,0 -122.806072,53.859439,0 -122.805045,53.859705,0 -122.804254,53.859971,0 -122.802182,53.860964,0 -122.801858,53.86112,0 -122.801437,53.861355,0 -122.797071,53.86367,0 -122.796189,53.864024,0 -122.795439,53.86425,0 -122.791926,53.864891,0 -122.791584,53.864964,0 -122.791336,53.865033,0 -122.787144,53.86591,0 -122.785837,53.866179,0 -122.784676,53.866395,0 -122.784229,53.866516,0 -122.78398,53.866591,0 -122.783213,53.866823,0 -122.782793,53.866996,0 -122.782153,53.867318,0 -122.781487,53.867742,0 -122.780996,53.868174,0 -122.780822,53.868409,0 -122.780552,53.868774,0 -122.78049,53.868883,0 -122.78035,53.869128,0 -122.780291,53.869257,0 -122.780132,53.869613,0 -122.778517,53.873228,0 -122.778296,53.873612,0 -122.777969,53.873997,0 -122.777466,53.87448,0 -122.776907,53.874815,0 -122.776388,53.875054,0 -122.775941,53.875208,0 -122.77535,53.875353,0 -122.774737,53.875425,0 -122.773359,53.875492,0 -122.772912,53.875544,0 -122.77241,53.875681,0 -122.771938,53.875868,0 -122.771498,53.876129,0 -122.771059,53.876474,0 -122.770699,53.876925,0 -122.77046,53.877407,0 -122.770005,53.880949,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, southbound. Utility work between Exit 26 and Exit 20 for 4.7 km (Delta). Until Sat Nov 7, 2026 at 11:45 PM PDT. Last updated Fri Sep 12 at 8:13 PM PDT. (DBC-81533)</name>
@@ -3448,32 +3499,6 @@
           <Point>
             <coordinates>-122.735306,49.060147,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Shoulder maintenance planned between Bear Rd and Cowart Rd for 3.8 km (Prince George). Starting Thu Oct 2 at 6:00 AM PDT until Thu Oct 2 at 6:00 PM PDT. Right lane will be closed in both directions. Watch for traffic control personnel. Last updated Wed Oct 1 at 6:21 PM PDT. (DBC-82203)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Bear Rd and Cowart Rd for 3.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince George&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T18:21:59-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82203
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.806959,53.859279,0 -122.806072,53.859439,0 -122.805045,53.859705,0 -122.804254,53.859971,0 -122.802182,53.860964,0 -122.801858,53.86112,0 -122.801437,53.861355,0 -122.797071,53.86367,0 -122.796189,53.864024,0 -122.795439,53.86425,0 -122.791926,53.864891,0 -122.791584,53.864964,0 -122.791336,53.865033,0 -122.787144,53.86591,0 -122.785837,53.866179,0 -122.784676,53.866395,0 -122.784229,53.866516,0 -122.78398,53.866591,0 -122.783213,53.866823,0 -122.782793,53.866996,0 -122.782153,53.867318,0 -122.781487,53.867742,0 -122.780996,53.868174,0 -122.780822,53.868409,0 -122.780552,53.868774,0 -122.78049,53.868883,0 -122.78035,53.869128,0 -122.780291,53.869257,0 -122.780132,53.869613,0 -122.778517,53.873228,0 -122.778296,53.873612,0 -122.777969,53.873997,0 -122.777466,53.87448,0 -122.776907,53.874815,0 -122.776388,53.875054,0 -122.775941,53.875208,0 -122.77535,53.875353,0 -122.774737,53.875425,0 -122.773359,53.875492,0 -122.772912,53.875544,0 -122.77241,53.875681,0 -122.771938,53.875868,0 -122.771498,53.876129,0 -122.771059,53.876474,0 -122.770699,53.876925,0 -122.77046,53.877407,0 -122.770005,53.880949,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla South), northbound. Bridge maintenance at Exit 183: Othello Rd (6 km north of Hope). From 5:00 AM to 7:30 PM PDT on Tuesday, Wednesday and Thursday. Right lane closed. Last updated Mon Jul 28 at 10:39 AM PDT. (DBC-79808)</name>
@@ -5913,7 +5938,7 @@ Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 5:00 AM PDT. Las
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 37: Gaglardi Way and Exit 33: Kensington Ave (Burnaby). Roadway reduced to one lane. Expect delays. Next update time Thu Oct 2 at 6:00 AM PDT. Last updated Thu Oct 2 at 5:15 AM PDT. (DBC-82212)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Exit 37: Gaglardi Way and Exit 33: Kensington Ave (Burnaby). Last updated Thu Oct 2 at 5:55 AM PDT. (DBC-82212)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5925,8 +5950,8 @@ Last sailing Galena bay: 8:30pm. Next update time Mon Oct 13 at 5:00 AM PDT. Las
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T05:15:14-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-02T06:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T05:55:51-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82212
