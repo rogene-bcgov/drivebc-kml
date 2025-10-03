@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-03 15:02:26 UTC
+        Last updated: 2025-10-03 15:33:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (243)</name>
+      <name>🚗 Traffic Events (246)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -301,7 +301,32 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 15 (Pacific Highway), northbound. Utility work planned between 12 Ave and 18 Ave for 1.2 km (Surrey). Starting Fri Oct 3 at 8:00 AM PDT until Fri Oct 3 at 4:00 PM PDT. Right lane will be blocked. Last updated Mon Sep 15 at 9:53 AM PDT. (DBC-81589)</name>
+          <name>Highway 19A (Island Highway). Electrical maintenance planned at Ryan Rd (Courtenay). Starting Mon Oct 6 at 8:00 AM PDT until Mon Oct 6 at 4:00 PM PDT. Watch for traffic control personnel. Last updated Fri Oct 3 at 8:21 AM PDT. (DBC-82247)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Ryan Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Courtenay&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T08:21:30-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82247
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.989146,49.697951,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Utility work between 12 Ave and 18 Ave for 1.2 km (Surrey). Until Fri Oct 3 at 4:00 PM PDT. Right lane is blocked. Last updated Mon Sep 15 at 9:53 AM PDT. (DBC-81589)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -313,7 +338,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between 12 Ave and 18 Ave for 1.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-15T09:53:53-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T08:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -379,6 +404,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway). Bridge maintenance planned at 19 Mile OH Bridge (27 km west of Revelstoke). Starting Tue Oct 7 at 7:00 AM PDT until Tue Oct 7 at 5:30 PM PDT. Westbound lane will be closed. Single lane alternating traffic will be in effect. Expect delays. Next update time Tue Oct 7 at 5:30 PM PDT. Last updated Fri Oct 3 at 8:23 AM PDT. (DBC-82246)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 19 Mile OH Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 27 km west of Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T08:23:01-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-07T17:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82246
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-118.545422,50.9751,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Road construction work between Hemlock Grove Boardwalk and Illecillewaet Campground for 0.6 km (8 to 9 km east of West Boundary of Glacier National Park). Until Fri Oct 31. From 7:00 AM to 7:00 PM PDT daily. Culvert replacement work. Speed limit 50km/h at all times due to narrowing/realignment requirements. Last updated Fri Jul 11 at 4:20 PM PDT. (DBC-79076)</name>
           <description>
     &lt;![CDATA[
@@ -403,6 +453,31 @@
             <tessellate>1</tessellate>
             <coordinates>-117.623371,51.246764,0 -117.622178,51.247027,0 -117.620972,51.247292,0 -117.620777,51.247335,0 -117.617498,51.247871,0 -117.616535,51.248077,0 -117.616512,51.248083,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Bridge maintenance planned at Taft OH Bridge (29 km east of Sicamous). Starting Wed Oct 8 at 7:00 AM PDT until Wed Oct 8 at 5:30 PM PDT. Westbound lane will be closed. Single lane alternating traffic will be in effect. Expect delays. Next update time Wed Oct 8 at 5:30 PM PDT. Last updated Fri Oct 3 at 8:22 AM PDT. (DBC-82248)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Taft OH Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 29 km east of Sicamous&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T08:22:50-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-08T17:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82248
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-118.647489,50.998255,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Kitsuksis Rd., in both directions. Utility work between Short st. And Spruce St. Until Fri Oct 31 at 5:00 PM PDT. Single lane alternating traffic. Expect minor delays. Watch for traffic control. Watermain installation. Last updated Mon Jun 30 at 8:23 AM PDT. (DBC-73760)</name>
@@ -453,6 +528,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.687947,54.091273,0 -122.687552,54.091634,0 -122.686127,54.092934,0 -122.685895,54.093145,0 -122.685197,54.093782,0 -122.68394,54.094562,0 -122.683727,54.094667,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Des Fosses Rd and Hilltop Rd for 8.3 km (14 km east of Chase to 13 km west of Tappen). Until Fri Oct 3 at 2:30 PM PDT. Single lane alternating traffic. Expect minor delays. Last updated Wed Oct 1 at 12:45 PM PDT. (DBC-82029)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Des Fosses Rd and Hilltop Rd for 8.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km west of Tappen to 14 km east of Chase&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T08:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82029
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.515785,50.891664,0 -119.513877,50.890835,0 -119.512716,50.890321,0 -119.511736,50.889837,0 -119.51081,50.889331,0 -119.510262,50.888952,0 -119.509912,50.88871,0 -119.508329,50.887468,0 -119.508108,50.887294,0 -119.507923,50.887147,0 -119.507672,50.886947,0 -119.506799,50.886252,0 -119.506465,50.885986,0 -119.506064,50.885666,0 -119.505298,50.885056,0 -119.504834,50.884756,0 -119.504546,50.884577,0 -119.50321,50.883902,0 -119.50304,50.883833,0 -119.50219,50.883489,0 -119.502096,50.883451,0 -119.500763,50.883045,0 -119.499457,50.882773,0 -119.498771,50.88266,0 -119.497953,50.882526,0 -119.49781,50.882502,0 -119.497256,50.882411,0 -119.494348,50.881932,0 -119.492762,50.881668,0 -119.491418,50.881444,0 -119.490591,50.881307,0 -119.488453,50.880951,0 -119.487822,50.880846,0 -119.4873,50.88076,0 -119.485192,50.880274,0 -119.483467,50.879842,0 -119.481492,50.879333,0 -119.478732,50.878622,0 -119.477496,50.878302,0 -119.473558,50.877285,0 -119.473443,50.877255,0 -119.473117,50.8772,0 -119.472886,50.877161,0 -119.472508,50.877089,0 -119.472021,50.877001,0 -119.471092,50.876927,0 -119.470357,50.876921,0 -119.469943,50.876919,0 -119.468592,50.876909,0 -119.466877,50.876917,0 -119.466229,50.876918,0 -119.464192,50.876922,0 -119.463685,50.876923,0 -119.46308,50.876925,0 -119.46266,50.876918,0 -119.462453,50.876915,0 -119.461112,50.876918,0 -119.46077,50.876918,0 -119.460444,50.876919,0 -119.458849,50.876922,0 -119.458533,50.876923,0 -119.458339,50.876923,0 -119.456635,50.876927,0 -119.454864,50.876931,0 -119.448905,50.876956,0 -119.447565,50.876958,0 -119.44359,50.876965,0 -119.435207,50.876978,0 -119.433175,50.877083,0 -119.430052,50.877299,0 -119.428478,50.877408,0 -119.427543,50.877501,0 -119.427178,50.877553,0 -119.425582,50.877782,0 -119.423762,50.878044,0 -119.421195,50.878412,0 -119.420547,50.878452,0 -119.419365,50.878437,0 -119.419224,50.878435,0 -119.415603,50.878197,0 -119.414481,50.878198,0 -119.413825,50.878241,0 -119.413054,50.878358,0 -119.412758,50.878404,0 -119.412372,50.878483,0 -119.411101,50.878743,0 -119.410401,50.878897,0 -119.40848,50.879319,0 -119.408202,50.879359,0 -119.407573,50.879449,0 -119.40703,50.879467,0 -119.406371,50.87948,0 -119.405109,50.879241,0 -119.405017,50.879224,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -660,32 +761,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Meadows in the Sky Pkwy and Alpine Lane W for 1.2 km (Revelstoke). Starting Fri Oct 3 at 8:00 AM PDT until Fri Oct 3 at 4:00 PM PDT. Watch for traffic control personnel. Next update time Fri Oct 3 at 4:00 PM PDT. Last updated Thu Oct 2 at 1:12 PM PDT. (DBC-82228)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Meadows in the Sky Pkwy and Alpine Lane W for 1.2 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T13:12:28-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-03T16:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82228
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.199826,51.006677,0 -118.199585,51.006638,0 -118.199281,51.006589,0 -118.19877,51.00645,0 -118.198597,51.006402,0 -118.198078,51.006199,0 -118.197503,51.00592,0 -118.197194,51.005701,0 -118.196096,51.004927,0 -118.19556,51.004549,0 -118.195524,51.004524,0 -118.195451,51.004471,0 -118.191179,51.001421,0 -118.190802,51.001183,0 -118.190454,51.000964,0 -118.189703,51.000583,0 -118.18897,51.000306,0 -118.188138,51.00007,0 -118.187848,51.000007,0 -118.187313,50.999889,0 -118.187149,50.999853,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Nisga'a Hwy (Highway 113), in both directions. Mowing between Nass Rd and Big Cedar Bridge for 45.1 km (Gitlaxt'aamiks (New Aiyanish)). For the next two months. Last updated Wed Sep 10 at 4:52 PM PDT. (DBC-81431)</name>
           <description>
     &lt;![CDATA[
@@ -735,6 +810,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.068725,49.217875,0 -121.06807,49.218615,0 -121.067479,49.219328,0 -121.067496,49.2194,0 -121.065717,49.221478,0 -121.060645,49.228505,0 -121.060333,49.228812,0 -121.059993,49.229016,0 -121.059521,49.229189,0 -121.059203,49.229239,0 -121.058982,49.229274,0 -121.058895,49.229273,0 -121.058622,49.229272,0 -121.058423,49.229271,0 -121.057822,49.229133,0 -121.057396,49.228938,0 -121.057055,49.228674,0 -121.056998,49.228589,0 -121.056761,49.228243,0 -121.05663,49.227067,0 -121.056486,49.226721,0 -121.055975,49.225972,0 -121.055795,49.225212,0 -121.055649,49.224966,0 -121.055401,49.224752,0 -121.052985,49.223396,0 -121.052476,49.223205,0 -121.052026,49.223138,0 -121.05155,49.223119,0 -121.051073,49.223184,0 -121.050576,49.223334,0 -121.049824,49.223642,0 -121.049435,49.223738,0 -121.048957,49.223776,0 -121.048391,49.223734,0 -121.047258,49.223528,0 -121.04612,49.223245,0 -121.045559,49.22319,0 -121.044338,49.223168,0 -121.043947,49.22312,0 -121.043552,49.222996,0 -121.042293,49.222366,0 -121.041031,49.221858,0 -121.040688,49.221779,0 -121.040291,49.221764,0 -121.039906,49.221838,0 -121.039447,49.222006,0 -121.039179,49.222064,0 -121.038862,49.222085,0 -121.037218,49.221802,0 -121.034288,49.221438,0 -121.033746,49.221318,0 -121.033375,49.221168,0 -121.03294,49.220926,0 -121.030438,49.21898,0 -121.029627,49.218485,0 -121.028958,49.218185,0 -121.027345,49.217463,0 -121.026773,49.217154,0 -121.023169,49.214228,0 -121.02288,49.214005,0 -121.022522,49.213731,0 -121.021865,49.213351,0 -121.019915,49.212618,0 -121.019007,49.212116,0 -121.017904,49.21116,0 -121.017388,49.210782,0 -121.016743,49.210449,0 -121.016148,49.210199,0 -121.015533,49.209968,0 -121.014817,49.209796,0 -121.014191,49.20971,0 -121.01358,49.209698,0 -121.013371,49.209694,0 -121.01127,49.209777,0 -121.010555,49.209742,0 -121.009964,49.209654,0 -121.009311,49.209482,0 -121.008703,49.20927,0 -121.008007,49.208902,0 -121.006826,49.208096,0 -121.006207,49.207779,0 -121.005536,49.20752,0 -121.004767,49.207304,0 -121.001377,49.206808,0 -121.000673,49.20665,0 -120.998973,49.206159,0 -120.998533,49.206016,0 -120.997459,49.205669,0 -120.997009,49.205524,0 -120.996824,49.205464,0 -120.996403,49.205329,0 -120.996338,49.205263,0 -120.994146,49.204557,0 -120.990801,49.203842,0 -120.990303,49.203662,0 -120.989828,49.20344,0 -120.989235,49.202986,0 -120.988758,49.202504,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Meadows in the Sky Pkwy and Alpine Lane W for 1.2 km (Revelstoke). Until Fri Oct 3 at 4:00 PM PDT. Watch for traffic control. Next update time Fri Oct 3 at 4:00 PM PDT. Last updated Thu Oct 2 at 1:12 PM PDT. (DBC-82228)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Meadows in the Sky Pkwy and Alpine Lane W for 1.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T08:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-03T16:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82228
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.199826,51.006677,0 -118.199585,51.006638,0 -118.199281,51.006589,0 -118.19877,51.00645,0 -118.198597,51.006402,0 -118.198078,51.006199,0 -118.197503,51.00592,0 -118.197194,51.005701,0 -118.196096,51.004927,0 -118.19556,51.004549,0 -118.195524,51.004524,0 -118.195451,51.004471,0 -118.191179,51.001421,0 -118.190802,51.001183,0 -118.190454,51.000964,0 -118.189703,51.000583,0 -118.18897,51.000306,0 -118.188138,51.00007,0 -118.187848,51.000007,0 -118.187313,50.999889,0 -118.187149,50.999853,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -1197,32 +1298,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.963112,49.090598,0 -122.963126,49.090598,0 -122.979427,49.090562,0 -123.000453,49.090559,0 -123.001842,49.090648,0 -123.003566,49.090922,0 -123.014233,49.092998,0 -123.019085,49.093942,0 -123.023082,49.09472,0 -123.024136,49.094925,0 -123.026296,49.095345,0 -123.026387,49.095363,0 -123.026551,49.095394,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Des Fosses Rd and Hilltop Rd for 8.3 km (14 km east of Chase to 13 km west of Tappen). Starting Fri Oct 3 at 8:30 AM PDT until Fri Oct 3 at 2:30 PM PDT. Single lane alternating traffic will be in effect. Expect minor delays. Last updated Wed Oct 1 at 12:45 PM PDT. (DBC-82029)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Des Fosses Rd and Hilltop Rd for 8.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km west of Tappen to 14 km east of Chase&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T12:45:38-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82029
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.515785,50.891664,0 -119.513877,50.890835,0 -119.512716,50.890321,0 -119.511736,50.889837,0 -119.51081,50.889331,0 -119.510262,50.888952,0 -119.509912,50.88871,0 -119.508329,50.887468,0 -119.508108,50.887294,0 -119.507923,50.887147,0 -119.507672,50.886947,0 -119.506799,50.886252,0 -119.506465,50.885986,0 -119.506064,50.885666,0 -119.505298,50.885056,0 -119.504834,50.884756,0 -119.504546,50.884577,0 -119.50321,50.883902,0 -119.50304,50.883833,0 -119.50219,50.883489,0 -119.502096,50.883451,0 -119.500763,50.883045,0 -119.499457,50.882773,0 -119.498771,50.88266,0 -119.497953,50.882526,0 -119.49781,50.882502,0 -119.497256,50.882411,0 -119.494348,50.881932,0 -119.492762,50.881668,0 -119.491418,50.881444,0 -119.490591,50.881307,0 -119.488453,50.880951,0 -119.487822,50.880846,0 -119.4873,50.88076,0 -119.485192,50.880274,0 -119.483467,50.879842,0 -119.481492,50.879333,0 -119.478732,50.878622,0 -119.477496,50.878302,0 -119.473558,50.877285,0 -119.473443,50.877255,0 -119.473117,50.8772,0 -119.472886,50.877161,0 -119.472508,50.877089,0 -119.472021,50.877001,0 -119.471092,50.876927,0 -119.470357,50.876921,0 -119.469943,50.876919,0 -119.468592,50.876909,0 -119.466877,50.876917,0 -119.466229,50.876918,0 -119.464192,50.876922,0 -119.463685,50.876923,0 -119.46308,50.876925,0 -119.46266,50.876918,0 -119.462453,50.876915,0 -119.461112,50.876918,0 -119.46077,50.876918,0 -119.460444,50.876919,0 -119.458849,50.876922,0 -119.458533,50.876923,0 -119.458339,50.876923,0 -119.456635,50.876927,0 -119.454864,50.876931,0 -119.448905,50.876956,0 -119.447565,50.876958,0 -119.44359,50.876965,0 -119.435207,50.876978,0 -119.433175,50.877083,0 -119.430052,50.877299,0 -119.428478,50.877408,0 -119.427543,50.877501,0 -119.427178,50.877553,0 -119.425582,50.877782,0 -119.423762,50.878044,0 -119.421195,50.878412,0 -119.420547,50.878452,0 -119.419365,50.878437,0 -119.419224,50.878435,0 -119.415603,50.878197,0 -119.414481,50.878198,0 -119.413825,50.878241,0 -119.413054,50.878358,0 -119.412758,50.878404,0 -119.412372,50.878483,0 -119.411101,50.878743,0 -119.410401,50.878897,0 -119.40848,50.879319,0 -119.408202,50.879359,0 -119.407573,50.879449,0 -119.40703,50.879467,0 -119.406371,50.87948,0 -119.405109,50.879241,0 -119.405017,50.879224,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5220,32 +5295,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Meadows in the Sky Pkwy and Alpine Lane W for 1.1 km (Revelstoke). Starting Fri Oct 3 at 8:00 AM PDT until Fri Oct 3 at 4:00 PM PDT. Watch for traffic control personnel. Expect delays. Speed will be reduced to 60 km/h. Last updated Thu Sep 25 at 8:13 AM PDT. (DBC-82018)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Meadows in the Sky Pkwy and Alpine Lane W for 1.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T08:13:43-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82018
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.199096,51.006539,0 -118.19877,51.00645,0 -118.198597,51.006402,0 -118.198078,51.006199,0 -118.197503,51.00592,0 -118.197194,51.005701,0 -118.196096,51.004927,0 -118.19556,51.004549,0 -118.195524,51.004524,0 -118.195451,51.004471,0 -118.191179,51.001421,0 -118.190802,51.001183,0 -118.190454,51.000964,0 -118.189703,51.000583,0 -118.18897,51.000306,0 -118.188138,51.00007,0 -118.187848,51.000007,0 -118.187313,50.999889,0 -118.187149,50.999853,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 3A. Bridge maintenance between Junction Hwy 3 (Castlegar) and Brilliant Powerplant Rd for 1.0 km (1 km east of Brilliant to 1 km east of Castlegar). Until Fri Oct 3 at 5:00 PM PDT. From 6:30 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Bridge maintenance on the Brilliant bridge. Expect minor delays Monday-Friday. Last updated Sun Sep 21 at 3:09 PM PDT. (DBC-81843)</name>
           <description>
     &lt;![CDATA[
@@ -5269,6 +5318,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.632354,49.31357,0 -117.631889,49.314671,0 -117.631755,49.314988,0 -117.631484,49.315666,0 -117.631284,49.316172,0 -117.630868,49.317224,0 -117.630649,49.31776,0 -117.630421,49.318155,0 -117.63042,49.318156,0 -117.630272,49.31839,0 -117.630187,49.318525,0 -117.629938,49.318805,0 -117.629844,49.318847,0 -117.629415,49.319206,0 -117.629299,49.319426,0 -117.628843,49.319716,0 -117.628674,49.31969,0 -117.628368,49.319965,0 -117.628196,49.319908,0 -117.627548,49.320308,0 -117.627349,49.320266,0 -117.626603,49.320565,0 -117.626531,49.320686,0 -117.625963,49.320942,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Meadows in the Sky Pkwy and Alpine Lane W for 1.1 km (Revelstoke). Until Fri Oct 3 at 4:00 PM PDT. Watch for traffic control. Expect delays. Speed will be reduced to 60 km/h. Last updated Thu Sep 25 at 8:13 AM PDT. (DBC-82018)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Meadows in the Sky Pkwy and Alpine Lane W for 1.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T08:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82018
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.199096,51.006539,0 -118.19877,51.00645,0 -118.198597,51.006402,0 -118.198078,51.006199,0 -118.197503,51.00592,0 -118.197194,51.005701,0 -118.196096,51.004927,0 -118.19556,51.004549,0 -118.195524,51.004524,0 -118.195451,51.004471,0 -118.191179,51.001421,0 -118.190802,51.001183,0 -118.190454,51.000964,0 -118.189703,51.000583,0 -118.18897,51.000306,0 -118.188138,51.00007,0 -118.187848,51.000007,0 -118.187313,50.999889,0 -118.187149,50.999853,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
