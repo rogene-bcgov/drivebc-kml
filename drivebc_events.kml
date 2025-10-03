@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-03 16:02:21 UTC
+        Last updated: 2025-10-03 16:36:10 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4345,32 +4345,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 15 (Pacific Highway), northbound. Utility work planned between 20 Ave and 24 Ave for 0.8 km (Surrey). Starting Fri Oct 3 at 9:00 AM PDT until Fri Oct 3 at 3:00 PM PDT. Right lane will be closed. Last updated Mon Sep 22 at 11:46 AM PDT. (DBC-81874)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 20 Ave and 24 Ave for 0.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T11:46:01-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81874
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.7352,49.03846,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Rey Lake Road, in both directions. Utility work between Highway 97C and End of Road. Until Fri Oct 31 at 7:00 AM PDT. Road closed. Full closure for powerline upgrades to Highland Valley Mine. Last updated Fri Sep 5 at 10:24 AM PDT. (DBC-81166)</name>
           <description>
     &lt;![CDATA[
@@ -4394,6 +4368,32 @@
           <Point>
             <coordinates>-120.786265,50.365916,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Utility work between 20 Ave and 24 Ave for 0.8 km (Surrey). Until Fri Oct 3 at 3:00 PM PDT. Right lane closed. Last updated Mon Sep 22 at 11:46 AM PDT. (DBC-81874)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 20 Ave and 24 Ave for 0.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T09:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81874
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.7352,49.03846,0 -122.735232,49.040592,0 -122.735238,49.041042,0 -122.735261,49.042598,0 -122.735266,49.042922,0 -122.735302,49.045386,0 -122.735306,49.045663,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 14. Utility work planned at Croce Rd (Sooke). Starting Mon Oct 20 until Fri Oct 24. From 8:30 AM to 3:30 PM PDT daily. Single lane alternating traffic will be in effect. Last updated Mon Sep 22 at 11:48 AM PDT. (DBC-81875)</name>
@@ -5838,7 +5838,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>104 Ave, westbound. Vehicle incident between 160 St and Highway 1 On-ramp in Surrey. Two left lanes blocked. Next update time Fri Oct 3 at 9:45 AM PDT. Last updated Fri Oct 3 at 8:46 AM PDT. (DBC-82249)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Exit 32: Sprott St and Douglas Rd (Burnaby). Right lane is blocked. Expect delays. Next update time Fri Oct 3 at 9:45 AM PDT. Last updated Fri Oct 3 at 9:17 AM PDT. (DBC-82250)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5846,20 +5846,20 @@
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; 104 Ave&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 160 St and Highway 1 On-ramp in Surrey&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Douglas Rd and Exit 32: Sprott St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T08:46:51-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T09:17:08-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-03T09:45:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82249
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82250
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-122.780684,49.191681,0</coordinates>
+            <coordinates>-122.98023,49.256473,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
