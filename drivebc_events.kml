@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-05 03:18:17 UTC
+        Last updated: 2025-10-05 03:39:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -146,31 +146,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-121.286349,50.507899,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Bridge maintenance at Port Mann Bridge (Surrey). Until Sat Oct 4 at 9:00 PM PDT. Left lane is closed. Last updated Sat Oct 4 at 8:02 PM PDT. (DBC-82299)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-04T20:02:53-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82299
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5621,6 +5596,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.479074,53.155476,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 43, in both directions. Vehicle incident between Kaisner Rd and Lower Elk Valley Rd (11 km north of Sparwood). Road closed. Expect delays. Detour in effect. Watch for traffic control. Detour via Lower Elk Valley Road. Next update time Sat Oct 4 at 10:30 PM MDT. Last updated Sat Oct 4 at 9:34 PM MDT. (DBC-82300)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 43&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Kaisner Rd and Lower Elk Valley Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 km north of Sparwood&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-04T20:34:05-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-04T21:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82300
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-114.901073,49.846703,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
