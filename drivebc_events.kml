@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-06 18:02:28 UTC
+        Last updated: 2025-10-06 18:39:18 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (250)</name>
+      <name>🚗 Traffic Events (251)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3829,6 +3829,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 12, in both directions. Construction work between 30 Mile Rd and Munson Rd (13 km south of Lillooet). Until Sat Oct 11 at 5:00 PM PDT. From 8:00 AM to 12:00 PM PDT and from 1:00 PM to 5:00 PM PDT on weekdays and Saturday. Road closed. Big Slide Rockfall protection systems repair. Highway open 12PM-1PM to let vehicles through. Next update time Sat Oct 11 at 5:00 PM PDT. Last updated Mon Oct 6 at 11:20 AM PDT. (DBC-81064)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 12&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 30 Mile Rd and Munson Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km south of Lillooet&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T11:20:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-11T17:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81064
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.797934,50.55449,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 14, in both directions. Utility work between Church Rd and Phillips Rd for 1.1 km (Sooke). Until Wed Dec 31 at 12:00 PM PDT. Lane Closure. Watch for traffic control. Last updated Mon May 5 at 7:43 AM PDT. (DBC-75277)</name>
           <description>
     &lt;![CDATA[
@@ -6061,31 +6086,6 @@ Last sailing from Galena Bay: 8:30pm. Next update time Mon Oct 13 at 11:00 AM PD
           </Point>
         </Placemark>
         <Placemark>
-          <name>Needles Ferry. Required maintenance at Needles Ferry (Needles). Until Mon Oct 6 at 11:00 AM PDT. Ferry route closed. Next update time Mon Oct 6 at 11:00 AM PDT. Last updated Wed Oct 1 at 1:29 PM PDT. (DBC-82183)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Needles Ferry&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Needles&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T10:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-06T11:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82183
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-118.090004,49.873015,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Barnston Island Ferry, in both directions. Possible ferry delays at Barnston Island Ferry (Surrey). Until Fri Oct 10 at 4:00 PM PDT. Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Last updated Mon Sep 22 at 10:37 AM PDT. (DBC-80223)</name>
           <description>
     &lt;![CDATA[
@@ -6339,6 +6339,31 @@ Last sailing from Galena Bay: 8:30pm. Next update time Mon Oct 13 at 11:00 AM PD
             <tessellate>1</tessellate>
             <coordinates>-120.204766,51.075899,0 -120.204726,51.075921,0 -120.203331,51.076692,0 -120.202047,51.077378,0 -120.201435,51.077633,0 -120.200953,51.077781,0 -120.200431,51.077897,0 -120.199996,51.077958,0 -120.199771,51.077989,0 -120.199431,51.078011,0 -120.198439,51.078074,0 -120.197718,51.078206,0 -120.1976,51.078242,0 -120.196449,51.078593,0 -120.195696,51.078793,0 -120.192891,51.079361,0 -120.192642,51.079412,0 -120.19242,51.079457,0 -120.191962,51.079606,0 -120.191361,51.079801,0 -120.190699,51.080095,0 -120.190558,51.080157,0 -120.187367,51.081921,0 -120.186491,51.082497,0 -120.185899,51.082955,0 -120.185691,51.083115,0 -120.185622,51.083169,0 -120.183051,51.085454,0 -120.182568,51.085853,0 -120.181904,51.086251,0 -120.180998,51.086526,0 -120.180729,51.086608,0 -120.180596,51.086639,0 -120.179852,51.08681,0 -120.17763,51.087321,0 -120.176632,51.087694,0 -120.176174,51.087937,0 -120.175988,51.088035,0 -120.175395,51.088436,0 -120.17521,51.088604,0 -120.174948,51.088841,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 44 and King Edward St (Coquitlam). Left lane is blocked. Next update time Mon Oct 6 at 12:30 PM PDT. Last updated Mon Oct 6 at 11:30 AM PDT. (DBC-82332)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between King Edward St and Exit 44&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T11:30:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-06T12:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82332
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.843188,49.230327,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Upper Arrow Lake Ferry. Departure delayed between Shelter Bay and Galena Bay. From 8:45 AM to 11:00 AM PST on Wednesday. Departure delayed every Wednesday for fueling purposes. Next update time Wed Dec 31 at 10:00 AM PST. Last updated Tue Jan 7 at 12:16 PM PST. (DBC-71712)</name>
