@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-06 13:38:04 UTC
+        Last updated: 2025-10-06 14:02:33 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (236)</name>
+      <name>🚗 Traffic Events (239)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -992,6 +992,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Morris Valley Rd. Maintenance between Highway 7 and Hemlock Valley Rd. Until Mon Oct 27. From 7:00 AM to 3:00 PM PDT daily. Single lane alternating traffic. Last updated Fri Oct 3 at 10:53 AM PDT. (DBC-82253)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Morris Valley Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Highway 7 and Hemlock Valley Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82253
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.951152,49.255744,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, northbound. Utility work between Exit 28 and Massey Tunnel for 0.9 km (Delta). Until Wed Oct 8 at 4:30 AM PDT. From 10:00 PM to 4:30 AM PDT on Monday and Tuesday. HOV lane closed. Night time construction work. Last updated Fri Sep 19 at 5:25 PM PDT. (DBC-81803)</name>
           <description>
     &lt;![CDATA[
@@ -1016,31 +1041,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
             <tessellate>1</tessellate>
             <coordinates>-123.05574,49.107859,0 -123.056791,49.108335,0 -123.057397,49.10861,0 -123.059688,49.109649,0 -123.060952,49.110227,0 -123.061573,49.110588,0 -123.062941,49.111686,0 -123.064717,49.113111,0 -123.065013,49.11335,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Morris Valley Rd. Maintenance between Highway 7 and Hemlock Valley Rd. Until Mon Oct 27. From 7:00 AM to 3:00 PM PDT daily. Single lane alternating traffic. Last updated Fri Oct 3 at 10:53 AM PDT. (DBC-82253)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Morris Valley Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Highway 7 and Hemlock Valley Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82253
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.951152,49.255744,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5, in both directions. Roadside brushing planned between East Kamloops and River Heights Dr for 25.2 km (Kamloops). Starting Tue Oct 7 at 7:00 PM PDT until Thu Oct 9 at 6:00 AM PDT. Watch for traffic control personnel. Last updated Wed Oct 1 at 12:30 PM PDT. (DBC-82179)</name>
@@ -1607,7 +1607,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 23, in both directions. Maintenance planned between Revelstoke Dam Access Rd and Martha Creek Camp Ground for 13.2 km (Revelstoke). Starting Mon Oct 6 at 7:00 AM PDT until Fri Oct 10 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT daily. Single lane alternating traffic will be in effect. Speed limit 70 km/h. Last updated Mon Sep 29 at 11:32 AM PDT. (DBC-82129)</name>
+          <name>Highway 23, in both directions. Maintenance between Revelstoke Dam Access Rd and Martha Creek Camp Ground for 13.2 km (Revelstoke). Until Fri Oct 10 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT daily. Single lane alternating traffic. Speed limit 70 km/h. Last updated Mon Sep 29 at 11:32 AM PDT. (DBC-82129)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1619,7 +1619,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between Revelstoke Dam Access Rd and Martha Creek Camp Ground for 13.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-29T11:32:42-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T07:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2325,6 +2325,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Windermere Loop Road, in both directions. Maintenance at Windermere Loop Road in Windermere. Until Mon Oct 6 at 3:00 PM MDT. Single lane alternating traffic. Watch for traffic control. Last updated Mon Oct 6 at 7:34 AM MDT. (DBC-82314)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Windermere Loop Road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Windermere Loop Road in Windermere&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T06:34:47-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82314
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-115.953471,50.482595,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Fairwinds Drive, in both directions. Construction work planned between Bonnington Drive and Powder Point Road. Starting Mon Oct 6 at 7:00 PM PDT until Fri Oct 10 at 7:00 AM PDT. From 7:00 PM to 7:00 AM PDT on Wednesday, Thursday, Friday and Saturday. All lanes will be blocked. Watch for traffic control personnel. Last updated Fri Oct 3 at 12:30 PM PDT. (DBC-82135)</name>
           <description>
     &lt;![CDATA[
@@ -2401,6 +2426,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Hemlock Valley Rd. Road maintenance work planned between Snowmist Dr and End of Route for 2.4 km (2 km south of Sasquatch Mountain Resort to Sasquatch Mountain Resort). Starting Mon Oct 6 at 7:30 AM PDT until Mon Oct 6 at 2:30 PM PDT. Road will be open to traffic. Last updated Mon Oct 6 at 6:37 AM PDT. (DBC-82315)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Hemlock Valley Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Snowmist Dr and End of Route for 2.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sasquatch Mountain Resort to 2 km south of Sasquatch Mountain Resort&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T06:37:42-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82315
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.921392,49.364964,0 -121.919493,49.365686,0 -121.919091,49.365951,0 -121.918834,49.366211,0 -121.918666,49.366499,0 -121.918645,49.366756,0 -121.918696,49.367114,0 -121.918751,49.367492,0 -121.919003,49.367836,0 -121.919095,49.36793,0 -121.919708,49.368557,0 -121.920361,49.369474,0 -121.920451,49.369562,0 -121.920627,49.369734,0 -121.921122,49.370217,0 -121.922243,49.371173,0 -121.922269,49.371195,0 -121.923336,49.37188,0 -121.923935,49.372162,0 -121.924213,49.372259,0 -121.92482,49.372471,0 -121.925187,49.372617,0 -121.925514,49.372847,0 -121.925732,49.373151,0 -121.925795,49.37346,0 -121.925811,49.37354,0 -121.925811,49.373561,0 -121.92581,49.373588,0 -121.925802,49.37432,0 -121.92586,49.37511,0 -121.925918,49.37535,0 -121.925981,49.375614,0 -121.926153,49.37604,0 -121.926967,49.377406,0 -121.927082,49.377489,0 -121.927411,49.377725,0 -121.927791,49.37787,0 -121.928258,49.377958,0 -121.928373,49.377958,0 -121.928651,49.377961,0 -121.928704,49.377949,0 -121.92877,49.377936,0 -121.92889,49.37791,0 -121.930221,49.37763,0 -121.930477,49.377614,0 -121.930844,49.377634,0 -121.931029,49.377668,0 -121.931835,49.377806,0 -121.932586,49.377928,0 -121.932993,49.378037,0 -121.933305,49.378167,0 -121.935577,49.379524,0 -121.935244,49.379742,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1A. Construction work at Pattullo Bridge (New Westminster). Activities related to Pattullo Bridge replacement project. Watch for crews. Road closures to be posted as they are confirmed. Visit https://www.Pattullobridgereplacement.Ca/ or call the 24/7 hotline at 1-844-815-6149 for more info. Next update time Wed Oct 8 at 12:00 PM PDT. Last updated Wed Oct 1 at 12:05 PM PDT. (DBC-80168)</name>
           <description>
     &lt;![CDATA[
@@ -2449,32 +2500,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <Point>
             <coordinates>-121.677915,49.250397,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 27, in both directions. Bridge maintenance planned between Vines Dr and Snell Rd W for 1.3 km (50 to 48 km south of Fort St James). Starting Mon Oct 6 at 7:00 AM PDT until Tue Oct 7 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on Monday and Tuesday. Bridge deck inspections. No work during adverse weather conditions. Last updated Wed Oct 1 at 2:48 PM PDT. (DBC-82190)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 27&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Vines Dr and Snell Rd W for 1.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 48 to 50 km south of Fort St James&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:48:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82190
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.120384,54.044632,0 -124.120227,54.04496,0 -124.120079,54.045519,0 -124.120048,54.04644,0 -124.120049,54.046603,0 -124.120062,54.047906,0 -124.120064,54.048139,0 -124.120068,54.048538,0 -124.120073,54.049173,0 -124.120115,54.053729,0 -124.120035,54.054175,0 -124.119894,54.05456,0 -124.119553,54.055008,0 -124.119094,54.055418,0 -124.118401,54.055836,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 4A. Tree pruning between Coombs Rd and Smithers Rd for 5.9 km (2 to 8 km west of Parksville). Until Wed Oct 8 at 3:00 PM PDT. Shoulder closed. Watch for traffic control. Last updated Mon Sep 29 at 4:00 PM PDT. (DBC-82137)</name>
@@ -2680,6 +2705,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <Point>
             <coordinates>-121.988068,53.896437,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 27, in both directions. Bridge maintenance between Vines Dr and Snell Rd W for 1.3 km (50 to 48 km south of Fort St James). Until Tue Oct 7 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on Monday and Tuesday. Bridge deck inspections. No work during adverse weather conditions. Last updated Wed Oct 1 at 2:48 PM PDT. (DBC-82190)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 27&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Vines Dr and Snell Rd W for 1.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 48 to 50 km south of Fort St James&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82190
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.120384,54.044632,0 -124.120227,54.04496,0 -124.120079,54.045519,0 -124.120048,54.04644,0 -124.120049,54.046603,0 -124.120062,54.047906,0 -124.120064,54.048139,0 -124.120068,54.048538,0 -124.120073,54.049173,0 -124.120115,54.053729,0 -124.120035,54.054175,0 -124.119894,54.05456,0 -124.119553,54.055008,0 -124.119094,54.055418,0 -124.118401,54.055836,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, southbound. Construction work at 80th St in Delta. Until Wed Nov 5. Exit ramp is closed. Use Exit 20 or Ladner Trunk Road. More info https://letstalk.Delta.Ca/Parkwood. Next update time Wed Nov 5. Last updated Wed Sep 17 at 12:21 PM PDT. (DBC-81701)</name>
@@ -3292,31 +3343,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Peaceview Rd. Road maintenance work planned between Moore Pit Road and 247 Road. Starting Mon Oct 6 at 7:00 AM MST until Fri Oct 24 at 5:00 PM MST. Intermittent single lane alternating traffic. Please slow down when passing crews and equipment. Last updated Fri Sep 26 at 9:23 AM MST. (DBC-82054)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Peaceview Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Moore Pit Road and 247 Road&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-26T09:23:31-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82054
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.623043,56.150021,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 8, in both directions. Construction work between Start of Highway 8 and Porcupine Ridge Rd 6 km east of Spences Bridge. Until Sat Nov 15. Single lane alternating traffic. Watch for traffic control. Expect delays. SITE 16, 17, 18, 19. Last updated Tue Aug 26 at 5:25 PM PDT. (DBC-80660)</name>
           <description>
     &lt;![CDATA[
@@ -3364,6 +3390,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.493848,48.839305,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Peaceview Rd. Road maintenance work between Moore Pit Road and 247 Road. Until Fri Oct 24 at 5:00 PM MST. Intermittent single lane alternating traffic. Please slow down when passing crews and equipment. Last updated Fri Sep 26 at 9:23 AM MST. (DBC-82054)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Peaceview Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Moore Pit Road and 247 Road&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82054
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.623043,56.150021,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4317,6 +4368,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Electrical maintenance between Junction Hwy 8 and Nicomen River Rd (14 km west of Spences Bridge). Until Fri Oct 10. From 7:00 AM to 6:00 PM PDT daily. Single lane alternating traffic. Watch for traffic control. Last updated Sat Oct 4 at 2:34 PM PDT. (DBC-82292)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Nicomen River Rd and Junction Hwy 8&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km west of Spences Bridge&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82292
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.393322,50.30753,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 6 NS, in both directions. Construction work between Storbo Rd and Pass Creek Rd for 6.9 km (5 km south of Passmore to 2 km west of Playmor Junction). Until Sat Oct 25. From 7:00 AM to 7:00 PM PDT on weekdays and Saturday. Single lane alternating traffic. Last updated Fri Aug 22 at 3:16 PM PDT. (DBC-80787)</name>
           <description>
     &lt;![CDATA[
@@ -4341,31 +4417,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
             <tessellate>1</tessellate>
             <coordinates>-117.600308,49.505128,0 -117.600011,49.504585,0 -117.599888,49.504361,0 -117.599685,49.503633,0 -117.599681,49.503613,0 -117.599129,49.501049,0 -117.598858,49.500498,0 -117.598443,49.499984,0 -117.598402,49.499933,0 -117.598048,49.499632,0 -117.597717,49.499404,0 -117.597092,49.498968,0 -117.596658,49.498666,0 -117.596438,49.498512,0 -117.596198,49.498345,0 -117.595417,49.4978,0 -117.594463,49.497135,0 -117.592983,49.496104,0 -117.592956,49.496084,0 -117.592616,49.495847,0 -117.58955,49.493703,0 -117.588837,49.493205,0 -117.587797,49.492478,0 -117.58677,49.491693,0 -117.58672,49.491647,0 -117.586295,49.491254,0 -117.586229,49.491193,0 -117.585744,49.49068,0 -117.585388,49.490195,0 -117.585137,49.489787,0 -117.584442,49.488661,0 -117.583945,49.487833,0 -117.583816,49.487617,0 -117.583099,49.486423,0 -117.582707,49.485925,0 -117.582258,49.485493,0 -117.58201,49.485304,0 -117.581715,49.485082,0 -117.581042,49.484632,0 -117.580833,49.484528,0 -117.580617,49.484421,0 -117.580351,49.484289,0 -117.579587,49.484007,0 -117.579331,49.483932,0 -117.578279,49.483622,0 -117.577191,49.483302,0 -117.57663,49.483052,0 -117.576421,49.482958,0 -117.575894,49.482663,0 -117.575373,49.482269,0 -117.574985,49.481904,0 -117.57465,49.481484,0 -117.573696,49.48029,0 -117.572377,49.478637,0 -117.572351,49.478602,0 -117.57186,49.477927,0 -117.571597,49.477349,0 -117.571431,49.476674,0 -117.57129,49.47567,0 -117.571265,49.475491,0 -117.571135,49.474563,0 -117.570987,49.473507,0 -117.570937,49.472668,0 -117.570921,49.472401,0 -117.570927,49.471284,0 -117.570935,49.46989,0 -117.570907,49.469715,0 -117.57081,49.469092,0 -117.570631,49.468457,0 -117.570567,49.468299,0 -117.570361,49.467793,0 -117.570284,49.467666,0 -117.569946,49.467117,0 -117.569418,49.466399,0 -117.569359,49.466341,0 -117.5686,49.465608,0 -117.567639,49.464678,0 -117.566317,49.463399,0 -117.566147,49.463202,0 -117.566122,49.463174,0 -117.564777,49.461299,0 -117.56377,49.459895,0 -117.563311,49.459209,0 -117.561773,49.456912,0 -117.561098,49.456163,0 -117.560994,49.45605,0 -117.56084,49.455881,0 -117.560724,49.455753,0 -117.560458,49.455266,0 -117.560264,49.454734,0 -117.560096,49.454022,0 -117.560067,49.453902,0 -117.56001,49.453659,0 -117.559669,49.452213,0 -117.559424,49.451148,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Electrical maintenance between Junction Hwy 8 and Nicomen River Rd (14 km west of Spences Bridge). Until Fri Oct 10. From 7:00 AM to 6:00 PM PDT daily. Single lane alternating traffic. Watch for traffic control. Last updated Sat Oct 4 at 2:34 PM PDT. (DBC-82292)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Nicomen River Rd and Junction Hwy 8&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km west of Spences Bridge&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82292
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.393322,50.30753,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 31A, in both directions. Construction work planned between Denver Siding Rd and Retallak for 15.1 km (2 to 17 km east of New Denver). Starting Wed Oct 15 until Thu Oct 16. From 7:00 AM to 7:00 PM PDT daily. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Sep 26 at 3:18 PM PDT. (DBC-82067)</name>
@@ -4548,7 +4599,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Bridge maintenance planned between Penny Access Rd and Dome Creek Camp (51 km east of Purden Lake). Starting Mon Oct 6 at 7:00 AM PDT until Fri Oct 17 at 6:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Width limit 4.90 m. Centerline crossing not permitted; up to 5.2 m width if 0.2m curb clearance can be achieved. Last updated Thu Oct 2 at 2:01 PM PDT. (DBC-82013)</name>
+          <name>Highway 16 (Yellowhead Highway). Bridge maintenance between Penny Access Rd and Dome Creek Camp (51 km east of Purden Lake). Until Fri Oct 17 at 6:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Width limit 4.90 m. Centerline crossing not permitted; up to 5.2 m width if 0.2m curb clearance can be achieved. Last updated Thu Oct 2 at 2:01 PM PDT. (DBC-82013)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4560,7 +4611,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between Penny Access Rd and Dome Creek Camp&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 51 km east of Purden Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T14:01:11-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T07:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5927,6 +5978,32 @@ Last sailing from Galena Bay: 8:30pm. Next update time Mon Oct 13 at 11:00 AM PD
           <Point>
             <coordinates>-122.426554,49.075276,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 95, in both directions. Vehicle incident between Galena School Rd and Josef Rd for 4.8 km (13 to 8 km north of Brisco). Single lane alternating traffic. Last updated Mon Oct 6 at 7:37 AM MDT. (DBC-82316)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 95&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Galena School Rd and Josef Rd for 4.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 8 to 13 km north of Brisco&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T06:37:43-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82316
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.347498,50.889519,0 -116.349263,50.890369,0 -116.350748,50.891083,0 -116.352457,50.891991,0 -116.353483,50.892637,0 -116.353952,50.892978,0 -116.354839,50.893622,0 -116.355208,50.893927,0 -116.355578,50.894233,0 -116.356611,50.895194,0 -116.357239,50.895881,0 -116.358127,50.896993,0 -116.358604,50.897728,0 -116.35977,50.899528,0 -116.360102,50.900002,0 -116.360422,50.900459,0 -116.360753,50.900835,0 -116.361434,50.901607,0 -116.364567,50.904877,0 -116.364669,50.904984,0 -116.364686,50.905001,0 -116.365375,50.90572,0 -116.365558,50.905911,0 -116.365853,50.906229,0 -116.367291,50.907779,0 -116.368029,50.908631,0 -116.368611,50.909373,0 -116.369856,50.910765,0 -116.371217,50.9122,0 -116.378913,50.920316,0 -116.379803,50.921473,0 -116.382071,50.92442,0 -116.383326,50.926052,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla South), in both directions. There is a wildfire between Exit 231: Mine Creek Rd and Exit 250: Larson Hill for 18.6 km (12 to 31 km north of Coquihalla Summit). Drive with care. Next update time Tue Oct 7 at 10:00 AM PDT. Last updated Tue Sep 30 at 10:04 AM PDT. (DBC-81233)</name>
