@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-06 07:02:25 UTC
+        Last updated: 2025-10-06 07:32:46 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -530,31 +530,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Utility work planned between River Rd and 64 St. Starting Mon Oct 6 until Wed Oct 8. From 10:00 PM to 4:30 AM PDT daily. Right lane will be closed. Last updated Wed Sep 10 at 4:35 PM PDT. (DBC-81429)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between River Rd and 64 St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-10T16:35:34-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81429
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.05139,49.10585,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Construction work at Porto Rico Rd (2 km east of Moyie). Until Sat Nov 1 at 6:00 PM MDT. From 7:00 AM to 6:00 PM MDT on weekdays and Saturday. Right lane closed. Shoulder closed. Single lane alternating traffic. Grading and paving upgrades for new sign installation. Last updated Thu Oct 2 at 12:13 PM MDT. (DBC-81097)</name>
           <description>
     &lt;![CDATA[
@@ -577,6 +552,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-115.829354,49.309816,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Utility work between River Rd and 64 St. Until Wed Oct 8. From 10:00 PM to 4:30 AM PDT daily. Right lane closed. Last updated Wed Sep 10 at 4:35 PM PDT. (DBC-81429)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between River Rd and 64 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81429
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.05139,49.10585,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -603,32 +603,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.14179,49.249823,0 -124.141737,49.249803,0 -124.141369,49.249672,0 -124.141201,49.249613,0 -124.140464,49.249449,0 -124.139749,49.249369,0 -124.139373,49.249357,0 -124.138993,49.249345,0 -124.138019,49.249447,0 -124.137306,49.249609,0 -124.136327,49.249943,0 -124.136015,49.250059,0 -124.135535,49.250238,0 -124.133719,49.250917,0 -124.133638,49.250944,0 -124.132808,49.251225,0 -124.132737,49.251249,0 -124.131812,49.251514,0 -124.131738,49.251535,0 -124.131537,49.251571,0 -124.130747,49.25171,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. There will be ditching between Glacier National Park East Boundary and Donald Rd for 30.8 km (East Boundary of Glacier National Park to 24 km west of Golden). Starting Mon Oct 6 until Tue Oct 7. From 8:30 AM to 4:00 PM PDT on Monday and Tuesday. Last updated Thu Oct 2 at 12:34 PM PDT. (DBC-82227)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park East Boundary and Donald Rd for 30.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 24 km west of Golden to East Boundary of Glacier National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T12:34:23-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82227
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.47989,51.463186,0 -117.480289,51.464206,0 -117.480491,51.464884,0 -117.480543,51.465061,0 -117.480712,51.465629,0 -117.480784,51.465871,0 -117.480888,51.466222,0 -117.481223,51.467969,0 -117.482053,51.472322,0 -117.482101,51.472577,0 -117.482433,51.474317,0 -117.48245,51.474865,0 -117.482383,51.475468,0 -117.482285,51.475901,0 -117.48197,51.476687,0 -117.481579,51.47734,0 -117.480917,51.478283,0 -117.479541,51.480242,0 -117.475858,51.485639,0 -117.475703,51.485865,0 -117.474987,51.486914,0 -117.474238,51.488077,0 -117.473325,51.48932,0 -117.472689,51.49009,0 -117.471588,51.491187,0 -117.470389,51.492236,0 -117.469991,51.492575,0 -117.466745,51.495338,0 -117.4663,51.495716,0 -117.465079,51.496951,0 -117.464398,51.497832,0 -117.463807,51.498667,0 -117.463352,51.49931,0 -117.46306,51.499722,0 -117.462846,51.500024,0 -117.462786,51.500109,0 -117.46239,51.500669,0 -117.461688,51.501601,0 -117.461073,51.50215,0 -117.460521,51.502489,0 -117.45994,51.502749,0 -117.459211,51.502981,0 -117.45725,51.503402,0 -117.452134,51.504501,0 -117.450736,51.504866,0 -117.44985,51.505259,0 -117.449683,51.505333,0 -117.449146,51.505646,0 -117.449113,51.505665,0 -117.448254,51.506414,0 -117.446229,51.508887,0 -117.445761,51.509458,0 -117.445191,51.510037,0 -117.44451,51.510561,0 -117.443638,51.511081,0 -117.442585,51.511528,0 -117.441896,51.511749,0 -117.441313,51.511906,0 -117.440477,51.512072,0 -117.439872,51.512157,0 -117.439232,51.512214,0 -117.438434,51.512243,0 -117.437794,51.51223,0 -117.437059,51.512177,0 -117.436298,51.512078,0 -117.435588,51.511942,0 -117.433103,51.511308,0 -117.429323,51.510216,0 -117.4276,51.509811,0 -117.426275,51.509453,0 -117.425442,51.50918,0 -117.424629,51.508863,0 -117.423752,51.508475,0 -117.422894,51.508017,0 -117.419073,51.505766,0 -117.409209,51.499992,0 -117.407075,51.498743,0 -117.406919,51.498652,0 -117.400044,51.494627,0 -117.398994,51.494012,0 -117.398965,51.493996,0 -117.397434,51.493152,0 -117.396474,51.492685,0 -117.395246,51.492147,0 -117.394782,51.49196,0 -117.39394,51.491621,0 -117.389217,51.489718,0 -117.387099,51.488864,0 -117.384263,51.487721,0 -117.367755,51.481064,0 -117.364974,51.479942,0 -117.363456,51.479331,0 -117.363271,51.479257,0 -117.362033,51.478759,0 -117.361787,51.478676,0 -117.361343,51.478526,0 -117.360625,51.478385,0 -117.360008,51.47832,0 -117.359402,51.478314,0 -117.358994,51.478351,0 -117.358862,51.478363,0 -117.35825,51.478469,0 -117.357721,51.478627,0 -117.357277,51.478814,0 -117.357039,51.478915,0 -117.356972,51.478943,0 -117.356945,51.478954,0 -117.356877,51.478983,0 -117.356378,51.479195,0 -117.355538,51.479551,0 -117.355027,51.479737,0 -117.354603,51.479892,0 -117.35359,51.480185,0 -117.351608,51.480673,0 -117.350158,51.481031,0 -117.35006,51.481055,0 -117.350044,51.481059,0 -117.346246,51.481983,0 -117.339476,51.483631,0 -117.338988,51.48375,0 -117.335835,51.484517,0 -117.335504,51.484598,0 -117.335082,51.484698,0 -117.334455,51.484847,0 -117.331003,51.48572,0 -117.329858,51.48601,0 -117.329102,51.486201,0 -117.328802,51.486277,0 -117.328424,51.48637,0 -117.323425,51.487591,0 -117.319124,51.488642,0 -117.317358,51.489074,0 -117.316437,51.4893,0 -117.310362,51.490789,0 -117.309007,51.49112,0 -117.308706,51.491194,0 -117.305068,51.492085,0 -117.303864,51.49238,0 -117.303248,51.492532,0 -117.2991,51.493549,0 -117.298732,51.49364,0 -117.298388,51.493694,0 -117.297653,51.49381,0 -117.29647,51.493895,0 -117.295544,51.4939,0 -117.295213,51.493872,0 -117.294553,51.493817,0 -117.29426,51.493778,0 -117.293774,51.493715,0 -117.293335,51.493625,0 -117.292219,51.493395,0 -117.291869,51.493323,0 -117.29122,51.493189,0 -117.285155,51.49194,0 -117.283554,51.491611,0 -117.28354,51.491608,0 -117.283221,51.491543,0 -117.281709,51.491236,0 -117.281246,51.491142,0 -117.280198,51.49093,0 -117.279414,51.490769,0 -117.2786,51.490601,0 -117.27452,51.489747,0 -117.27303,51.489434,0 -117.272784,51.489383,0 -117.266839,51.488137,0 -117.264598,51.487667,0 -117.263694,51.487477,0 -117.263447,51.487422,0 -117.261363,51.486956,0 -117.259659,51.48651,0 -117.258741,51.486212,0 -117.258177,51.486029,0 -117.255235,51.484995,0 -117.251827,51.483792,0 -117.248688,51.482683,0 -117.245662,51.481615,0 -117.240936,51.479945,0 -117.239184,51.479326,0 -117.237133,51.478602,0 -117.23712,51.478597,0 -117.236357,51.478327,0 -117.235879,51.478159,0 -117.233546,51.477334,0 -117.232021,51.476789,0 -117.228198,51.475425,0 -117.22733,51.475161,0 -117.22673,51.475016,0 -117.225682,51.474863,0 -117.224572,51.474802,0 -117.223573,51.474869,0 -117.22283,51.474979,0 -117.222292,51.475095,0 -117.221946,51.47517,0 -117.221138,51.475445,0 -117.220294,51.47582,0 -117.220067,51.475959,0 -117.219669,51.476205,0 -117.219121,51.476632,0 -117.218679,51.477123,0 -117.218352,51.477595,0 -117.218102,51.478146,0 -117.217985,51.478695,0 -117.217978,51.478729,0 -117.217967,51.479169,0 -117.218024,51.479551,0 -117.218075,51.479714,0 -117.218189,51.480078,0 -117.218499,51.480636,0 -117.218559,51.480745,0 -117.219099,51.48133,0 -117.219691,51.481837,0 -117.221299,51.48313,0 -117.227065,51.487768,0 -117.227561,51.488286,0 -117.227878,51.488749,0 -117.228078,51.489189,0 -117.228114,51.489338,0 -117.228212,51.489734,0 -117.228214,51.490074,0 -117.228217,51.490362,0 -117.228087,51.490957,0 -117.226465,51.494308,0 -117.226138,51.49478,0 -117.225817,51.495092,0 -117.225343,51.495435,0 -117.225271,51.495469,0 -117.224712,51.49573,0 -117.224168,51.495921,0 -117.223438,51.49607,0 -117.222883,51.496135,0 -117.222181,51.496143,0 -117.221825,51.496113,0 -117.221571,51.496092,0 -117.220817,51.495952,0 -117.2196,51.495657,0 -117.215629,51.494695,0 -117.212856,51.494023,0 -117.208358,51.492932,0 -117.208259,51.492904,0 -117.207126,51.492586,0 -117.206181,51.492264,0 -117.206008,51.492205,0 -117.205844,51.492149,0 -117.204901,51.491776,0 -117.203814,51.491263,0 -117.201276,51.489784,0 -117.200397,51.489348,0 -117.200157,51.489228,0 -117.200016,51.489169,0 -117.199001,51.488745,0 -117.195568,51.487528,0 -117.187509,51.484785,0 -117.187119,51.484679,0 -117.18656,51.484528,0 -117.186434,51.484506,0 -117.185895,51.484413,0 -117.185055,51.484277,0 -117.183905,51.484142,0 -117.183277,51.484137,0 -117.182836,51.484145,0 -117.182094,51.484225,0 -117.181683,51.484249,0 -117.180767,51.484336,0 -117.178723,51.484674,0 -117.178401,51.484745,0 -117.178006,51.484856,0 -117.177191,51.485086,0 -117.176144,51.485381,0 -117.175527,51.485565,0 -117.174209,51.485977,0 -117.17384,51.486092,0 -117.172642,51.486292,0 -117.172129,51.486374,0 -117.171674,51.48644,0 -117.171036,51.4865,0 -117.170172,51.486502,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -786,32 +760,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 6 EW, eastbound. Geotechnical investigation planned between Norris Ave and Miller St for 0.2 km (Lumby). Starting Mon Oct 6 until Fri Oct 10. From 8:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Oct 3 at 10:39 AM PDT. (DBC-82251)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 6 EW&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Norris Ave and Miller St for 0.2 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Lumby&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T10:39:52-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82251
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.962297,50.248259,0 -118.9619,50.24839,0 -118.961049,50.248769,0 -118.960466,50.248914,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Lochside Dr, in both directions. Utility work between Captains Walk and Ocean Avenue. Until Fri Nov 21. From 6:00 AM to 6:00 PM PDT daily. Single lane alternating traffic. Watch for traffic control. Last updated Thu Aug 7 at 4:21 PM PDT. (DBC-80205)</name>
           <description>
     &lt;![CDATA[
@@ -860,6 +808,32 @@
           <Point>
             <coordinates>-123.075821,49.122079,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 6 EW, eastbound. Geotechnical investigation between Norris Ave and Miller St for 0.2 km (Lumby). Until Fri Oct 10. From 8:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Fri Oct 3 at 10:39 AM PDT. (DBC-82251)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 6 EW&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Norris Ave and Miller St for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Lumby&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82251
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.962297,50.248259,0 -118.9619,50.24839,0 -118.961049,50.248769,0 -118.960466,50.248914,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector), northbound. Utility work at Exeter Station Rd (100 Mile House). Until Tue Oct 28. From 7:00 AM to 5:00 PM PDT daily. Lane Closure. Last updated Wed Sep 24 at 11:32 AM PDT. (DBC-81974)</name>
@@ -966,32 +940,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Utility work planned between Exit 28 and Massey Tunnel for 0.9 km (Delta). Starting Mon Oct 6 until Wed Oct 8 at 4:30 AM PDT. From 10:00 PM to 4:30 AM PDT on Monday and Tuesday. HOV lane will be closed. Night time construction work planned. Last updated Fri Sep 19 at 5:25 PM PDT. (DBC-81803)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel for 0.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-19T17:25:52-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81803
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.05574,49.107859,0 -123.056791,49.108335,0 -123.057397,49.10861,0 -123.059688,49.109649,0 -123.060952,49.110227,0 -123.061573,49.110588,0 -123.062941,49.111686,0 -123.064717,49.113111,0 -123.065013,49.11335,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Roadside brushing planned between Copperhead Dr and Pat Rd for 19.5 km (Kamloops). Starting Tue Oct 7 at 7:00 PM PDT until Wed Oct 8 at 6:00 AM PDT. Watch for traffic control personnel. Last updated Wed Oct 1 at 12:24 PM PDT. (DBC-82178)</name>
           <description>
     &lt;![CDATA[
@@ -1018,31 +966,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Morris Valley Rd. Maintenance planned between Highway 7 and Hemlock Valley Rd. Starting Mon Oct 6 until Mon Oct 27. From 7:00 AM to 3:00 PM PDT daily. Single lane alternating traffic will be in effect. Last updated Fri Oct 3 at 10:53 AM PDT. (DBC-82253)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Morris Valley Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Highway 7 and Hemlock Valley Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T10:53:02-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82253
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.951152,49.255744,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work between Clear Rd N and Kragbak Rd for 7.7 km (Wildwood). Until Thu Oct 9. From 8:00 AM to 4:00 PM PDT on weekdays. Please watch for traffic control signage and personnel. Expect minor delays. Shoulder lane will be closed. Last updated Wed Sep 24 at 8:38 AM PDT. (DBC-81102)</name>
           <description>
     &lt;![CDATA[
@@ -1067,6 +990,57 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
             <tessellate>1</tessellate>
             <coordinates>-122.093393,52.221053,0 -122.094117,52.224542,0 -122.094839,52.22802,0 -122.094863,52.228068,0 -122.095022,52.22839,0 -122.095088,52.228522,0 -122.095409,52.229027,0 -122.095577,52.229187,0 -122.095909,52.229504,0 -122.096058,52.229646,0 -122.096873,52.230222,0 -122.101575,52.233268,0 -122.103605,52.234583,0 -122.104766,52.235335,0 -122.104973,52.235469,0 -122.106027,52.236151,0 -122.112205,52.240152,0 -122.113822,52.241199,0 -122.114208,52.241448,0 -122.114473,52.24162,0 -122.115362,52.242204,0 -122.116605,52.243019,0 -122.117018,52.243379,0 -122.117476,52.243843,0 -122.117932,52.244465,0 -122.118227,52.245104,0 -122.118406,52.245754,0 -122.118408,52.245795,0 -122.118436,52.246491,0 -122.118333,52.247139,0 -122.118094,52.247733,0 -122.117787,52.248263,0 -122.117589,52.248603,0 -122.115931,52.250171,0 -122.115476,52.250685,0 -122.115144,52.25119,0 -122.114956,52.251782,0 -122.114946,52.252213,0 -122.114997,52.252632,0 -122.115271,52.25318,0 -122.115706,52.25377,0 -122.115924,52.253992,0 -122.117501,52.255597,0 -122.117669,52.255768,0 -122.120203,52.258348,0 -122.12065,52.258741,0 -122.121285,52.259147,0 -122.122082,52.259516,0 -122.122928,52.25976,0 -122.12386,52.259953,0 -122.124311,52.260028,0 -122.127401,52.260537,0 -122.128308,52.260729,0 -122.129128,52.260977,0 -122.130045,52.261328,0 -122.131309,52.261908,0 -122.136449,52.264266,0 -122.136886,52.264467,0 -122.137875,52.265032,0 -122.138046,52.26513,0 -122.138747,52.265627,0 -122.13964,52.266408,0 -122.140244,52.267053,0 -122.140691,52.267722,0 -122.141098,52.268476,0 -122.141723,52.269634,0 -122.141879,52.269923,0 -122.142455,52.270989,0 -122.142926,52.271589,0 -122.143949,52.272752,0 -122.144506,52.273386,0 -122.144547,52.273432,0 -122.144721,52.27363,0 -122.146848,52.276048,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Utility work between Exit 28 and Massey Tunnel for 0.9 km (Delta). Until Wed Oct 8 at 4:30 AM PDT. From 10:00 PM to 4:30 AM PDT on Monday and Tuesday. HOV lane closed. Night time construction work. Last updated Fri Sep 19 at 5:25 PM PDT. (DBC-81803)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81803
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.05574,49.107859,0 -123.056791,49.108335,0 -123.057397,49.10861,0 -123.059688,49.109649,0 -123.060952,49.110227,0 -123.061573,49.110588,0 -123.062941,49.111686,0 -123.064717,49.113111,0 -123.065013,49.11335,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Morris Valley Rd. Maintenance between Highway 7 and Hemlock Valley Rd. Until Mon Oct 27. From 7:00 AM to 3:00 PM PDT daily. Single lane alternating traffic. Last updated Fri Oct 3 at 10:53 AM PDT. (DBC-82253)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Morris Valley Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Highway 7 and Hemlock Valley Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82253
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.951152,49.255744,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5, in both directions. Roadside brushing planned between East Kamloops and River Heights Dr for 25.2 km (Kamloops). Starting Tue Oct 7 at 7:00 PM PDT until Thu Oct 9 at 6:00 AM PDT. Watch for traffic control personnel. Last updated Wed Oct 1 at 12:30 PM PDT. (DBC-82179)</name>
@@ -1762,31 +1736,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector), northbound. Utility work planned between Maranatha Dr and Pigeon Rd (150 Mile House). Starting Mon Oct 6 until Fri Oct 10. From 6:00 AM to 6:00 PM PDT on weekdays. Lane Closure. Last updated Wed Sep 24 at 1:22 PM PDT. (DBC-81979)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Maranatha Dr and Pigeon Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 150 Mile House&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T13:22:30-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81979
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.928382,52.102989,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector), in both directions. Bridge maintenance planned between Thorp Rd and Yard Rd for 1.0 km (Hixon). Starting Mon Oct 6 at 8:00 AM PDT until Fri Oct 10 at 4:30 PM PDT. Single lane alternating traffic will be in effect. Bridge maintenance daily from 8:00am to 4:30pm until October 10th. Last updated Fri Oct 3 at 12:39 PM PDT. (DBC-82263)</name>
           <description>
     &lt;![CDATA[
@@ -1811,6 +1760,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
             <tessellate>1</tessellate>
             <coordinates>-122.584798,53.419257,0 -122.58557,53.419929,0 -122.585961,53.42026,0 -122.586539,53.420769,0 -122.587336,53.421461,0 -122.58779,53.421872,0 -122.58903,53.42294,0 -122.589683,53.423415,0 -122.590925,53.424221,0 -122.591103,53.424337,0 -122.593143,53.425661,0 -122.593506,53.425984,0 -122.593829,53.426344,0 -122.593855,53.426387,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), northbound. Utility work between Maranatha Dr and Pigeon Rd (150 Mile House). Until Fri Oct 10. From 6:00 AM to 6:00 PM PDT on weekdays. Lane Closure. Last updated Wed Sep 24 at 1:22 PM PDT. (DBC-81979)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Maranatha Dr and Pigeon Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 150 Mile House&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81979
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.928382,52.102989,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 37, northbound. Maintenance planned between Water Lily Bay Rd and Jack Talstra Way (45 km north of Kitimat). Starting Tue Oct 7 until Fri Oct 31. From 8:00 AM to 6:00 PM PDT on weekdays. Single lane alternating traffic will be in effect. Barrier removal 0.2km south of Williams Creek Bridge. Last updated Fri Oct 3 at 12:57 PM PDT. (DBC-82264)</name>
@@ -2298,7 +2272,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 11, northbound. Utility work planned between McCallum Rd and Bateman Rd for 1.0 km (Abbotsford). Starting Mon Oct 6 until Fri Oct 17. From 9:00 AM to 5:00 PM PDT on weekdays. Right lane will be blocked. Last updated Wed Sep 24 at 2:42 PM PDT. (DBC-81985)</name>
+          <name>Highway 11, northbound. Utility work between McCallum Rd and Bateman Rd for 1.0 km (Abbotsford). Until Fri Oct 17. From 9:00 AM to 5:00 PM PDT on weekdays. Right lane is blocked. Last updated Wed Sep 24 at 2:42 PM PDT. (DBC-81985)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2310,7 +2284,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between McCallum Rd and Bateman Rd for 1.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Abbotsford&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-24T14:42:21-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2425,7 +2399,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Utility work planned between Exit 146 and Wahleach Access Rd (13 km east of Chilliwack). Starting Mon Oct 6 until Fri Oct 10. From 8:00 AM to 4:00 PM PDT on weekdays. Right lane will be blocked. Expect delays. Speed limit 60 km/h. Last updated Wed Oct 1 at 2:42 PM PDT. (DBC-82189)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Utility work between Exit 146 and Wahleach Access Rd (13 km east of Chilliwack). Until Fri Oct 10. From 8:00 AM to 4:00 PM PDT on weekdays. Right lane is blocked. Expect delays. Speed limit 60 km/h. Last updated Wed Oct 1 at 2:42 PM PDT. (DBC-82189)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2437,7 +2411,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between Wahleach Access Rd and Exit 146&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km east of Chilliwack&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T14:42:52-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2960,6 +2934,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Ditching between Glacier National Park East Boundary and Donald Rd for 30.8 km (East Boundary of Glacier National Park to 24 km west of Golden). Until Tue Oct 7. From 8:30 AM to 4:00 PM PDT on Monday and Tuesday. Last updated Thu Oct 2 at 12:34 PM PDT. (DBC-82227)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park East Boundary and Donald Rd for 30.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 24 km west of Golden to East Boundary of Glacier National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82227
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.47989,51.463186,0 -117.480289,51.464206,0 -117.480491,51.464884,0 -117.480543,51.465061,0 -117.480712,51.465629,0 -117.480784,51.465871,0 -117.480888,51.466222,0 -117.481223,51.467969,0 -117.482053,51.472322,0 -117.482101,51.472577,0 -117.482433,51.474317,0 -117.48245,51.474865,0 -117.482383,51.475468,0 -117.482285,51.475901,0 -117.48197,51.476687,0 -117.481579,51.47734,0 -117.480917,51.478283,0 -117.479541,51.480242,0 -117.475858,51.485639,0 -117.475703,51.485865,0 -117.474987,51.486914,0 -117.474238,51.488077,0 -117.473325,51.48932,0 -117.472689,51.49009,0 -117.471588,51.491187,0 -117.470389,51.492236,0 -117.469991,51.492575,0 -117.466745,51.495338,0 -117.4663,51.495716,0 -117.465079,51.496951,0 -117.464398,51.497832,0 -117.463807,51.498667,0 -117.463352,51.49931,0 -117.46306,51.499722,0 -117.462846,51.500024,0 -117.462786,51.500109,0 -117.46239,51.500669,0 -117.461688,51.501601,0 -117.461073,51.50215,0 -117.460521,51.502489,0 -117.45994,51.502749,0 -117.459211,51.502981,0 -117.45725,51.503402,0 -117.452134,51.504501,0 -117.450736,51.504866,0 -117.44985,51.505259,0 -117.449683,51.505333,0 -117.449146,51.505646,0 -117.449113,51.505665,0 -117.448254,51.506414,0 -117.446229,51.508887,0 -117.445761,51.509458,0 -117.445191,51.510037,0 -117.44451,51.510561,0 -117.443638,51.511081,0 -117.442585,51.511528,0 -117.441896,51.511749,0 -117.441313,51.511906,0 -117.440477,51.512072,0 -117.439872,51.512157,0 -117.439232,51.512214,0 -117.438434,51.512243,0 -117.437794,51.51223,0 -117.437059,51.512177,0 -117.436298,51.512078,0 -117.435588,51.511942,0 -117.433103,51.511308,0 -117.429323,51.510216,0 -117.4276,51.509811,0 -117.426275,51.509453,0 -117.425442,51.50918,0 -117.424629,51.508863,0 -117.423752,51.508475,0 -117.422894,51.508017,0 -117.419073,51.505766,0 -117.409209,51.499992,0 -117.407075,51.498743,0 -117.406919,51.498652,0 -117.400044,51.494627,0 -117.398994,51.494012,0 -117.398965,51.493996,0 -117.397434,51.493152,0 -117.396474,51.492685,0 -117.395246,51.492147,0 -117.394782,51.49196,0 -117.39394,51.491621,0 -117.389217,51.489718,0 -117.387099,51.488864,0 -117.384263,51.487721,0 -117.367755,51.481064,0 -117.364974,51.479942,0 -117.363456,51.479331,0 -117.363271,51.479257,0 -117.362033,51.478759,0 -117.361787,51.478676,0 -117.361343,51.478526,0 -117.360625,51.478385,0 -117.360008,51.47832,0 -117.359402,51.478314,0 -117.358994,51.478351,0 -117.358862,51.478363,0 -117.35825,51.478469,0 -117.357721,51.478627,0 -117.357277,51.478814,0 -117.357039,51.478915,0 -117.356972,51.478943,0 -117.356945,51.478954,0 -117.356877,51.478983,0 -117.356378,51.479195,0 -117.355538,51.479551,0 -117.355027,51.479737,0 -117.354603,51.479892,0 -117.35359,51.480185,0 -117.351608,51.480673,0 -117.350158,51.481031,0 -117.35006,51.481055,0 -117.350044,51.481059,0 -117.346246,51.481983,0 -117.339476,51.483631,0 -117.338988,51.48375,0 -117.335835,51.484517,0 -117.335504,51.484598,0 -117.335082,51.484698,0 -117.334455,51.484847,0 -117.331003,51.48572,0 -117.329858,51.48601,0 -117.329102,51.486201,0 -117.328802,51.486277,0 -117.328424,51.48637,0 -117.323425,51.487591,0 -117.319124,51.488642,0 -117.317358,51.489074,0 -117.316437,51.4893,0 -117.310362,51.490789,0 -117.309007,51.49112,0 -117.308706,51.491194,0 -117.305068,51.492085,0 -117.303864,51.49238,0 -117.303248,51.492532,0 -117.2991,51.493549,0 -117.298732,51.49364,0 -117.298388,51.493694,0 -117.297653,51.49381,0 -117.29647,51.493895,0 -117.295544,51.4939,0 -117.295213,51.493872,0 -117.294553,51.493817,0 -117.29426,51.493778,0 -117.293774,51.493715,0 -117.293335,51.493625,0 -117.292219,51.493395,0 -117.291869,51.493323,0 -117.29122,51.493189,0 -117.285155,51.49194,0 -117.283554,51.491611,0 -117.28354,51.491608,0 -117.283221,51.491543,0 -117.281709,51.491236,0 -117.281246,51.491142,0 -117.280198,51.49093,0 -117.279414,51.490769,0 -117.2786,51.490601,0 -117.27452,51.489747,0 -117.27303,51.489434,0 -117.272784,51.489383,0 -117.266839,51.488137,0 -117.264598,51.487667,0 -117.263694,51.487477,0 -117.263447,51.487422,0 -117.261363,51.486956,0 -117.259659,51.48651,0 -117.258741,51.486212,0 -117.258177,51.486029,0 -117.255235,51.484995,0 -117.251827,51.483792,0 -117.248688,51.482683,0 -117.245662,51.481615,0 -117.240936,51.479945,0 -117.239184,51.479326,0 -117.237133,51.478602,0 -117.23712,51.478597,0 -117.236357,51.478327,0 -117.235879,51.478159,0 -117.233546,51.477334,0 -117.232021,51.476789,0 -117.228198,51.475425,0 -117.22733,51.475161,0 -117.22673,51.475016,0 -117.225682,51.474863,0 -117.224572,51.474802,0 -117.223573,51.474869,0 -117.22283,51.474979,0 -117.222292,51.475095,0 -117.221946,51.47517,0 -117.221138,51.475445,0 -117.220294,51.47582,0 -117.220067,51.475959,0 -117.219669,51.476205,0 -117.219121,51.476632,0 -117.218679,51.477123,0 -117.218352,51.477595,0 -117.218102,51.478146,0 -117.217985,51.478695,0 -117.217978,51.478729,0 -117.217967,51.479169,0 -117.218024,51.479551,0 -117.218075,51.479714,0 -117.218189,51.480078,0 -117.218499,51.480636,0 -117.218559,51.480745,0 -117.219099,51.48133,0 -117.219691,51.481837,0 -117.221299,51.48313,0 -117.227065,51.487768,0 -117.227561,51.488286,0 -117.227878,51.488749,0 -117.228078,51.489189,0 -117.228114,51.489338,0 -117.228212,51.489734,0 -117.228214,51.490074,0 -117.228217,51.490362,0 -117.228087,51.490957,0 -117.226465,51.494308,0 -117.226138,51.49478,0 -117.225817,51.495092,0 -117.225343,51.495435,0 -117.225271,51.495469,0 -117.224712,51.49573,0 -117.224168,51.495921,0 -117.223438,51.49607,0 -117.222883,51.496135,0 -117.222181,51.496143,0 -117.221825,51.496113,0 -117.221571,51.496092,0 -117.220817,51.495952,0 -117.2196,51.495657,0 -117.215629,51.494695,0 -117.212856,51.494023,0 -117.208358,51.492932,0 -117.208259,51.492904,0 -117.207126,51.492586,0 -117.206181,51.492264,0 -117.206008,51.492205,0 -117.205844,51.492149,0 -117.204901,51.491776,0 -117.203814,51.491263,0 -117.201276,51.489784,0 -117.200397,51.489348,0 -117.200157,51.489228,0 -117.200016,51.489169,0 -117.199001,51.488745,0 -117.195568,51.487528,0 -117.187509,51.484785,0 -117.187119,51.484679,0 -117.18656,51.484528,0 -117.186434,51.484506,0 -117.185895,51.484413,0 -117.185055,51.484277,0 -117.183905,51.484142,0 -117.183277,51.484137,0 -117.182836,51.484145,0 -117.182094,51.484225,0 -117.181683,51.484249,0 -117.180767,51.484336,0 -117.178723,51.484674,0 -117.178401,51.484745,0 -117.178006,51.484856,0 -117.177191,51.485086,0 -117.176144,51.485381,0 -117.175527,51.485565,0 -117.174209,51.485977,0 -117.17384,51.486092,0 -117.172642,51.486292,0 -117.172129,51.486374,0 -117.171674,51.48644,0 -117.171036,51.4865,0 -117.170172,51.486502,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway). Utility work at Drinkwater Rd (1 km north of Duncan). Until Fri Oct 10. In effect 24/7. No lanes affected. Watch for signage in area. Last updated Fri Sep 12 at 9:39 AM PDT. (DBC-81493)</name>
           <description>
     &lt;![CDATA[
@@ -3062,7 +3062,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Maintenance planned at Exit 21: Mountain Hwy (North Vancouver - District). Starting Mon Oct 6 until Fri Oct 17. From 10:00 AM to 3:00 PM PDT daily. Left turn lane will be closed. Centre lane will be closed. Watch for traffic control personnel. Next update time Fri Oct 17 at 2:45 PM PDT. Last updated Fri Oct 3 at 4:46 PM PDT. (DBC-82275)</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Maintenance at Exit 21: Mountain Hwy (North Vancouver - District). Until Fri Oct 17. From 10:00 AM to 3:00 PM PDT daily. Left turn lane closed. Centre lane closed. Watch for traffic control. Next update time Fri Oct 17 at 2:45 PM PDT. Last updated Fri Oct 3 at 4:46 PM PDT. (DBC-82275)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3074,7 +3074,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; At Exit 21: Mountain Hwy&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T16:46:02-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-17T14:45:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3087,7 +3087,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway). Utility work planned at 216 St (Maple Ridge). Starting Mon Oct 6 until Tue Oct 7. From 9:00 AM to 2:00 PM PDT on Monday and Tuesday. Lane closures in both directions planned. Watch for traffic control personnel. Last updated Fri Oct 3 at 4:45 PM PDT. (DBC-82274)</name>
+          <name>Highway 7 (Lougheed Highway). Utility work at 216 St (Maple Ridge). Until Tue Oct 7. From 9:00 AM to 2:00 PM PDT on Monday and Tuesday. Lane closures in both directions in effect. Watch for traffic control. Last updated Fri Oct 3 at 4:45 PM PDT. (DBC-82274)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3099,7 +3099,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; At 216 St&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Maple Ridge&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T16:45:49-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3468,32 +3468,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 17, in both directions. Paving operations planned between Finlayson St and Cloverdale Ave for 0.7 km (Saanich to Victoria). Starting Mon Oct 6 until Fri Oct 10 at 7:00 AM PDT. From 6:30 PM to 7:00 AM PDT on weekdays. Road closure planned. Expect delays. Use alternate route. Next update time Fri Oct 10 at 7:00 AM PDT. Last updated Thu Oct 2 at 11:27 AM PDT. (DBC-82199)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Finlayson St and Cloverdale Ave for 0.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Victoria to Saanich&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T11:27:36-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-10T07:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82199
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.366336,48.445536,0 -123.36637,48.445594,0 -123.366393,48.445634,0 -123.366494,48.445808,0 -123.367738,48.447954,0 -123.367871,48.448264,0 -123.367881,48.448287,0 -123.368178,48.449187,0 -123.368468,48.449751,0 -123.368779,48.450155,0 -123.369333,48.450761,0 -123.369565,48.451016,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Renfrew Rd, in both directions. Road maintenance work between Timber Ridge Rd and W Shawnigan Lake Rd. Until Mon Dec 1. From 7:00 AM to 5:00 PM PDT on weekdays. Culvert work will be taking place in Shawnigan Lake. Watch for crews and equipment on the side of the road. Next update time Fri Nov 28 at 9:00 AM PDT. Last updated Tue Aug 26 at 3:23 PM PDT. (DBC-80899)</name>
           <description>
     &lt;![CDATA[
@@ -3517,6 +3491,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <Point>
             <coordinates>-123.688945,48.65691,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, in both directions. Paving operations between Finlayson St and Cloverdale Ave for 0.7 km (Saanich to Victoria). Until Fri Oct 10 at 7:00 AM PDT. From 6:30 PM to 7:00 AM PDT on weekdays. Road closed. Expect delays. Use alternate route. Next update time Fri Oct 10 at 7:00 AM PDT. Last updated Thu Oct 2 at 11:27 AM PDT. (DBC-82199)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Finlayson St and Cloverdale Ave for 0.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Victoria to Saanich&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-10T07:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82199
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.366336,48.445536,0 -123.36637,48.445594,0 -123.366393,48.445634,0 -123.366494,48.445808,0 -123.367738,48.447954,0 -123.367871,48.448264,0 -123.367881,48.448287,0 -123.368178,48.449187,0 -123.368468,48.449751,0 -123.368779,48.450155,0 -123.369333,48.450761,0 -123.369565,48.451016,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 14, in both directions. Utility work between Church Rd and Phillips Rd for 1.1 km (Sooke). Until Wed Dec 31 at 12:00 PM PDT. Lane Closure. Watch for traffic control. Last updated Mon May 5 at 7:43 AM PDT. (DBC-75277)</name>
@@ -4162,31 +4162,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Golden Ears Way, eastbound. Utility work planned at 177A St. Starting Mon Oct 6 until Sat Oct 11. From 9:00 AM to 3:00 PM PDT daily. Right lane will be closed. Last updated Mon Sep 22 at 11:13 AM PDT. (DBC-81870)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Golden Ears Way&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At 177A St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T11:13:33-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81870
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.727813,49.175572,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (Yellowhead Highway). Bridge maintenance between Rainbow Chain Up and Maintenance Boundary SA26 for 160.4 km (24 km west of Cedarvale to 29 km east of Prince Rupert). Until Fri Oct 10. From 6:00 AM to 4:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Mon Sep 29 at 8:32 AM PDT. (DBC-82124)</name>
           <description>
     &lt;![CDATA[
@@ -4211,6 +4186,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
             <tessellate>1</tessellate>
             <coordinates>-129.982695,54.20925,0 -129.982282,54.208989,0 -129.981953,54.208781,0 -129.981403,54.208434,0 -129.976854,54.205568,0 -129.976236,54.205105,0 -129.973351,54.202652,0 -129.972756,54.202232,0 -129.972098,54.201884,0 -129.971238,54.201571,0 -129.970553,54.201414,0 -129.970458,54.201392,0 -129.970093,54.201344,0 -129.969522,54.201268,0 -129.968403,54.201235,0 -129.967702,54.201262,0 -129.960825,54.201529,0 -129.960129,54.201556,0 -129.959552,54.201578,0 -129.957315,54.201664,0 -129.956942,54.201679,0 -129.956125,54.20174,0 -129.955483,54.201787,0 -129.950961,54.20243,0 -129.950871,54.202443,0 -129.949554,54.20263,0 -129.948975,54.202712,0 -129.946919,54.203005,0 -129.946769,54.203026,0 -129.946593,54.203061,0 -129.945986,54.203181,0 -129.945688,54.203241,0 -129.945157,54.203391,0 -129.944616,54.203544,0 -129.94383,54.203854,0 -129.942991,54.204254,0 -129.942088,54.204684,0 -129.941389,54.20494,0 -129.93824,54.205669,0 -129.937311,54.205981,0 -129.936581,54.206344,0 -129.933151,54.208432,0 -129.93202,54.20902,0 -129.929171,54.210309,0 -129.92833,54.210793,0 -129.928245,54.210842,0 -129.927533,54.211341,0 -129.92477,54.213476,0 -129.924738,54.213494,0 -129.923812,54.214008,0 -129.923056,54.214312,0 -129.922022,54.214598,0 -129.92112,54.214759,0 -129.918325,54.215068,0 -129.917574,54.215151,0 -129.916121,54.215311,0 -129.915849,54.215342,0 -129.915562,54.215373,0 -129.913716,54.215577,0 -129.911907,54.215729,0 -129.91125,54.215784,0 -129.910456,54.21585,0 -129.909393,54.216012,0 -129.908318,54.216264,0 -129.907137,54.216653,0 -129.901636,54.219003,0 -129.90076,54.219298,0 -129.89915,54.219677,0 -129.898004,54.219947,0 -129.89706,54.220268,0 -129.89625,54.220671,0 -129.892801,54.222941,0 -129.891944,54.223353,0 -129.891444,54.223525,0 -129.891194,54.223611,0 -129.890273,54.223832,0 -129.886431,54.224368,0 -129.88544,54.224594,0 -129.884288,54.224946,0 -129.883223,54.225409,0 -129.882426,54.225844,0 -129.87896,54.228246,0 -129.87323,54.232213,0 -129.872615,54.232597,0 -129.872103,54.232916,0 -129.871072,54.233498,0 -129.869677,54.23419,0 -129.868136,54.234851,0 -129.867477,54.235086,0 -129.867261,54.235163,0 -129.866958,54.235272,0 -129.866123,54.23557,0 -129.864535,54.236048,0 -129.862813,54.236475,0 -129.860907,54.236863,0 -129.858805,54.237181,0 -129.857134,54.237364,0 -129.855322,54.237488,0 -129.855307,54.237489,0 -129.855006,54.237499,0 -129.85473,54.237509,0 -129.853532,54.23755,0 -129.851568,54.237546,0 -129.846113,54.237288,0 -129.845851,54.237275,0 -129.845574,54.237262,0 -129.836464,54.236831,0 -129.836186,54.236817,0 -129.835914,54.236805,0 -129.835705,54.236795,0 -129.827697,54.236415,0 -129.822379,54.236162,0 -129.820563,54.236033,0 -129.818856,54.235856,0 -129.817402,54.235661,0 -129.815085,54.23525,0 -129.813032,54.234787,0 -129.811699,54.234425,0 -129.805316,54.232407,0 -129.805222,54.232377,0 -129.805113,54.232343,0 -129.80425,54.232069,0 -129.804083,54.232016,0 -129.803287,54.23176,0 -129.800174,54.230759,0 -129.799999,54.230702,0 -129.797535,54.22991,0 -129.794601,54.228967,0 -129.794337,54.228872,0 -129.793518,54.22858,0 -129.792371,54.228109,0 -129.791928,54.227927,0 -129.788812,54.226359,0 -129.788097,54.226,0 -129.787938,54.22592,0 -129.787616,54.225758,0 -129.786139,54.225015,0 -129.784679,54.224371,0 -129.783506,54.223926,0 -129.781928,54.223423,0 -129.780603,54.223075,0 -129.777283,54.22239,0 -129.774302,54.221775,0 -129.768819,54.220644,0 -129.767201,54.220378,0 -129.76513,54.220126,0 -129.764366,54.220066,0 -129.763254,54.219978,0 -129.762727,54.219957,0 -129.761725,54.219915,0 -129.759831,54.219914,0 -129.758697,54.219959,0 -129.752763,54.220193,0 -129.751091,54.220211,0 -129.75052,54.220199,0 -129.749135,54.220169,0 -129.746929,54.220045,0 -129.746555,54.220012,0 -129.745468,54.219916,0 -129.745127,54.219886,0 -129.739307,54.2192,0 -129.736281,54.218844,0 -129.73026,54.218134,0 -129.726866,54.217581,0 -129.72358,54.217045,0 -129.719894,54.216443,0 -129.718775,54.216327,0 -129.717615,54.216274,0 -129.717447,54.216266,0 -129.717249,54.216257,0 -129.715027,54.216155,0 -129.713739,54.216024,0 -129.712373,54.215798,0 -129.708143,54.214811,0 -129.706566,54.214564,0 -129.705185,54.214454,0 -129.701759,54.214183,0 -129.699961,54.213928,0 -129.699511,54.213827,0 -129.695836,54.213002,0 -129.692785,54.212483,0 -129.692575,54.212447,0 -129.692379,54.212413,0 -129.691327,54.212234,0 -129.6905,54.212036,0 -129.68951,54.211723,0 -129.688242,54.21115,0 -129.685485,54.209905,0 -129.684146,54.209391,0 -129.678408,54.207515,0 -129.678049,54.207368,0 -129.677846,54.207285,0 -129.677685,54.207219,0 -129.677331,54.207074,0 -129.676573,54.206705,0 -129.675632,54.206154,0 -129.674531,54.2054,0 -129.670135,54.202389,0 -129.668139,54.201022,0 -129.66661,54.199975,0 -129.666328,54.199782,0 -129.659678,54.195843,0 -129.653631,54.191592,0 -129.651489,54.190085,0 -129.650562,54.189573,0 -129.649769,54.189233,0 -129.648542,54.188825,0 -129.64536,54.187989,0 -129.64387,54.18769,0 -129.643315,54.187579,0 -129.641634,54.187357,0 -129.639542,54.187159,0 -129.637084,54.18711,0 -129.636307,54.187139,0 -129.632162,54.187295,0 -129.629735,54.187336,0 -129.629267,54.187344,0 -129.627768,54.187259,0 -129.624189,54.187056,0 -129.623227,54.187046,0 -129.622579,54.187095,0 -129.622051,54.187136,0 -129.620971,54.187365,0 -129.619929,54.187722,0 -129.614767,54.190156,0 -129.610622,54.191759,0 -129.610054,54.192058,0 -129.609109,54.192557,0 -129.6065,54.194407,0 -129.605007,54.195466,0 -129.60435,54.195876,0 -129.60343,54.196346,0 -129.602501,54.196725,0 -129.601561,54.197022,0 -129.601211,54.197132,0 -129.601,54.197199,0 -129.600004,54.197513,0 -129.597396,54.198336,0 -129.596538,54.198693,0 -129.596345,54.198773,0 -129.595492,54.199257,0 -129.594374,54.199988,0 -129.588257,54.203991,0 -129.587641,54.204508,0 -129.58723,54.205005,0 -129.58697,54.205457,0 -129.586785,54.20599,0 -129.58654,54.207476,0 -129.586342,54.208117,0 -129.585273,54.210187,0 -129.585035,54.210901,0 -129.584906,54.211721,0 -129.584946,54.214482,0 -129.584817,54.215135,0 -129.584748,54.215485,0 -129.584445,54.216242,0 -129.583996,54.217007,0 -129.583543,54.217603,0 -129.582852,54.218365,0 -129.581902,54.219211,0 -129.580836,54.219972,0 -129.579714,54.220678,0 -129.578411,54.221357,0 -129.577368,54.221843,0 -129.577272,54.221879,0 -129.577125,54.221934,0 -129.5769,54.222019,0 -129.576725,54.222085,0 -129.576351,54.222225,0 -129.575156,54.222675,0 -129.573622,54.223131,0 -129.571874,54.223548,0 -129.569735,54.223925,0 -129.563213,54.224661,0 -129.563044,54.22468,0 -129.56271,54.224718,0 -129.562648,54.224725,0 -129.556066,54.225461,0 -129.555972,54.225471,0 -129.555417,54.225534,0 -129.541988,54.227055,0 -129.541739,54.227076,0 -129.540413,54.227185,0 -129.535002,54.227278,0 -129.534254,54.227343,0 -129.533563,54.227462,0 -129.532915,54.227625,0 -129.532243,54.227864,0 -129.531558,54.228204,0 -129.53107,54.228542,0 -129.530547,54.229048,0 -129.527459,54.232586,0 -129.526534,54.233468,0 -129.526491,54.233509,0 -129.52555,54.234288,0 -129.523472,54.235801,0 -129.52297,54.236168,0 -129.522394,54.236689,0 -129.521995,54.237192,0 -129.521767,54.237588,0 -129.521543,54.238189,0 -129.521458,54.238755,0 -129.521684,54.24076,0 -129.521657,54.241146,0 -129.521525,54.241592,0 -129.521306,54.242011,0 -129.520942,54.242446,0 -129.520483,54.242833,0 -129.519862,54.243208,0 -129.519073,54.243553,0 -129.517426,54.244131,0 -129.516954,54.244296,0 -129.516814,54.244345,0 -129.516649,54.244403,0 -129.509003,54.247084,0 -129.508762,54.247169,0 -129.508549,54.247244,0 -129.507263,54.247695,0 -129.506314,54.247979,0 -129.505177,54.248245,0 -129.504056,54.248461,0 -129.503839,54.248502,0 -129.503581,54.248552,0 -129.499354,54.249364,0 -129.49838,54.249498,0 -129.497431,54.24957,0 -129.496523,54.249582,0 -129.495634,54.249541,0 -129.494616,54.249433,0 -129.494424,54.249402,0 -129.493118,54.249187,0 -129.489313,54.248429,0 -129.488113,54.24821,0 -129.487146,54.248065,0 -129.485887,54.247938,0 -129.4775,54.247534,0 -129.477239,54.247521,0 -129.477055,54.247513,0 -129.476369,54.247479,0 -129.475252,54.247475,0 -129.474525,54.247497,0 -129.47337,54.247582,0 -129.469586,54.248047,0 -129.467782,54.248204,0 -129.461731,54.248643,0 -129.460176,54.24878,0 -129.458994,54.248917,0 -129.457413,54.249164,0 -129.451201,54.250203,0 -129.450208,54.250396,0 -129.448663,54.250759,0 -129.447829,54.250975,0 -129.447593,54.251036,0 -129.447393,54.251088,0 -129.446655,54.251279,0 -129.445388,54.25156,0 -129.440257,54.252593,0 -129.439435,54.252798,0 -129.438703,54.253041,0 -129.437974,54.253353,0 -129.437345,54.253686,0 -129.436732,54.254098,0 -129.434663,54.2557,0 -129.434291,54.256038,0 -129.433921,54.256463,0 -129.433684,54.256795,0 -129.433498,54.257159,0 -129.433351,54.257516,0 -129.432602,54.259889,0 -129.432589,54.259928,0 -129.432262,54.26063,0 -129.431848,54.261272,0 -129.429207,54.265008,0 -129.429167,54.265058,0 -129.428734,54.265606,0 -129.428155,54.266234,0 -129.427397,54.266959,0 -129.42465,54.269184,0 -129.424176,54.26964,0 -129.423782,54.270084,0 -129.423486,54.270477,0 -129.423159,54.271013,0 -129.422943,54.271485,0 -129.422734,54.272128,0 -129.422728,54.272174,0 -129.422645,54.272722,0 -129.422472,54.27898,0 -129.422399,54.279395,0 -129.422253,54.279775,0 -129.422009,54.280179,0 -129.42166,54.280577,0 -129.421496,54.28072,0 -129.421423,54.280784,0 -129.42124,54.280943,0 -129.421195,54.280975,0 -129.42068,54.281338,0 -129.413986,54.285569,0 -129.413112,54.286046,0 -129.41233,54.286407,0 -129.410189,54.287252,0 -129.409944,54.287348,0 -129.409031,54.287785,0 -129.408511,54.288131,0 -129.408123,54.288443,0 -129.407758,54.288812,0 -129.406813,54.289897,0 -129.405449,54.291464,0 -129.405136,54.291784,0 -129.404718,54.292131,0 -129.404627,54.292187,0 -129.40427,54.29241,0 -129.404087,54.292524,0 -129.40345,54.292819,0 -129.402676,54.29308,0 -129.401712,54.293338,0 -129.401268,54.293448,0 -129.399999,54.293762,0 -129.399909,54.293784,0 -129.39946,54.293895,0 -129.398464,54.294141,0 -129.397994,54.294258,0 -129.397703,54.294351,0 -129.397291,54.294482,0 -129.396542,54.294781,0 -129.396115,54.295005,0 -129.395872,54.295132,0 -129.395309,54.295503,0 -129.39473,54.29599,0 -129.393775,54.29708,0 -129.393042,54.297917,0 -129.392461,54.298581,0 -129.39196,54.299029,0 -129.391361,54.299449,0 -129.390543,54.299873,0 -129.389542,54.300268,0 -129.378636,54.303919,0 -129.376027,54.30467,0 -129.373567,54.30538,0 -129.366983,54.307701,0 -129.362805,54.309174,0 -129.35115,54.313281,0 -129.349448,54.31388,0 -129.348384,54.314255,0 -129.346448,54.315027,0 -129.3454,54.315444,0 -129.341222,54.316997,0 -129.339445,54.317582,0 -129.337004,54.318244,0 -129.326518,54.321931,0 -129.326017,54.322107,0 -129.324471,54.322597,0 -129.323072,54.322983,0 -129.321731,54.323286,0 -129.320237,54.323572,0 -129.316372,54.324174,0 -129.310935,54.324968,0 -129.308681,54.325232,0 -129.307491,54.325399,0 -129.306687,54.325557,0 -129.305855,54.325772,0 -129.30481,54.326113,0 -129.30379,54.326544,0 -129.302906,54.327003,0 -129.302063,54.327534,0 -129.301953,54.327603,0 -129.301803,54.327722,0 -129.301351,54.328081,0 -129.300973,54.328481,0 -129.30057,54.329008,0 -129.30025,54.329565,0 -129.299724,54.33048,0 -129.299528,54.330762,0 -129.299188,54.331143,0 -129.298719,54.33155,0 -129.298158,54.331942,0 -129.29758,54.332284,0 -129.297366,54.33241,0 -129.296425,54.332966,0 -129.296219,54.333088,0 -129.295055,54.333776,0 -129.294163,54.334191,0 -129.293365,54.334475,0 -129.293287,54.334503,0 -129.292579,54.334693,0 -129.291444,54.334998,0 -129.28903,54.335128,0 -129.283519,54.33531,0 -129.27385,54.335629,0 -129.273399,54.335643,0 -129.268544,54.335769,0 -129.267467,54.335796,0 -129.264778,54.335865,0 -129.257899,54.336042,0 -129.249012,54.33627,0 -129.245126,54.33609,0 -129.23579,54.33632,0 -129.224563,54.336596,0 -129.217349,54.336772,0 -129.216721,54.336788,0 -129.210794,54.336932,0 -129.21039,54.336916,0 -129.208209,54.337027,0 -129.204682,54.337337,0 -129.203985,54.337501,0 -129.203415,54.337711,0 -129.202792,54.338162,0 -129.2023,54.338519,0 -129.201589,54.338794,0 -129.200639,54.338989,0 -129.199995,54.339027,0 -129.198387,54.339121,0 -129.197274,54.339369,0 -129.194417,54.340299,0 -129.190895,54.341446,0 -129.189135,54.342019,0 -129.187957,54.34255,0 -129.187354,54.342945,0 -129.186857,54.343396,0 -129.185388,54.344922,0 -129.184871,54.345458,0 -129.184118,54.346068,0 -129.184016,54.34615,0 -129.176401,54.351481,0 -129.175426,54.352164,0 -129.175255,54.352285,0 -129.175041,54.352438,0 -129.173139,54.353794,0 -129.17239,54.354425,0 -129.171703,54.355086,0 -129.171265,54.355535,0 -129.17117,54.355633,0 -129.171146,54.355657,0 -129.16814,54.358747,0 -129.165615,54.36134,0 -129.165142,54.361711,0 -129.164655,54.362018,0 -129.163991,54.362347,0 -129.163459,54.362558,0 -129.162803,54.362762,0 -129.162758,54.362776,0 -129.161737,54.36301,0 -129.161199,54.363105,0 -129.157057,54.36384,0 -129.155589,54.364019,0 -129.153278,54.364202,0 -129.150209,54.364446,0 -129.149638,54.364435,0 -129.149261,54.364368,0 -129.149081,54.364336,0 -129.148625,54.364322,0 -129.14503,54.364567,0 -129.143674,54.36481,0 -129.142559,54.365148,0 -129.141781,54.365495,0 -129.14116,54.365854,0 -129.140576,54.366298,0 -129.140088,54.36678,0 -129.139757,54.367256,0 -129.139524,54.367789,0 -129.139439,54.368173,0 -129.139337,54.369588,0 -129.139272,54.369953,0 -129.13908,54.370462,0 -129.139037,54.370513,0 -129.138606,54.371031,0 -129.138011,54.371538,0 -129.134174,54.374,0 -129.126927,54.378649,0 -129.126355,54.379016,0 -129.126282,54.379063,0 -129.125966,54.379266,0 -129.125752,54.379403,0 -129.125539,54.379515,0 -129.12549,54.37954,0 -129.124817,54.379894,0 -129.124609,54.380003,0 -129.123905,54.380284,0 -129.122955,54.380609,0 -129.120622,54.381213,0 -129.116888,54.381993,0 -129.116361,54.382103,0 -129.115467,54.38229,0 -129.11251,54.382908,0 -129.112046,54.383005,0 -129.099559,54.385613,0 -129.092091,54.387132,0 -129.087115,54.388167,0 -129.083403,54.388939,0 -129.083084,54.389005,0 -129.082115,54.389265,0 -129.080855,54.389695,0 -129.076658,54.391269,0 -129.075579,54.391736,0 -129.074427,54.392332,0 -129.074387,54.392353,0 -129.073252,54.393048,0 -129.070709,54.394607,0 -129.069722,54.395315,0 -129.067897,54.396956,0 -129.067619,54.397205,0 -129.067035,54.397656,0 -129.066557,54.397966,0 -129.06595,54.398315,0 -129.065114,54.39873,0 -129.064432,54.399018,0 -129.063576,54.399315,0 -129.062792,54.39954,0 -129.062727,54.399558,0 -129.061749,54.399778,0 -129.060593,54.399969,0 -129.06038,54.399991,0 -129.058668,54.40017,0 -129.057244,54.400302,0 -129.056937,54.400331,0 -129.055829,54.400434,0 -129.055659,54.40045,0 -129.047696,54.401192,0 -129.045601,54.401387,0 -129.043042,54.401626,0 -129.036605,54.402225,0 -129.033725,54.402673,0 -129.032233,54.403029,0 -129.014515,54.407247,0 -129.013568,54.407472,0 -129.009122,54.408604,0 -129.005689,54.409479,0 -129.005473,54.409533,0 -129.004886,54.409683,0 -129.002401,54.410316,0 -129.000024,54.410921,0 -128.999018,54.411177,0 -128.998607,54.411281,0 -128.998038,54.411426,0 -128.996914,54.411712,0 -128.996094,54.411864,0 -128.995117,54.411972,0 -128.994115,54.411992,0 -128.993057,54.411921,0 -128.989633,54.411316,0 -128.988887,54.411185,0 -128.987209,54.410958,0 -128.987019,54.410933,0 -128.98658,54.410904,0 -128.984557,54.410769,0 -128.982956,54.410699,0 -128.981969,54.410657,0 -128.98126,54.410626,0 -128.9614,54.409762,0 -128.957525,54.409594,0 -128.956394,54.409569,0 -128.956167,54.409564,0 -128.932747,54.409641,0 -128.918434,54.409686,0 -128.917201,54.40969,0 -128.916261,54.409693,0 -128.915799,54.409694,0 -128.915445,54.409695,0 -128.909821,54.409712,0 -128.905183,54.409726,0 -128.903564,54.409731,0 -128.902103,54.409934,0 -128.901196,54.410114,0 -128.898662,54.410731,0 -128.897814,54.410938,0 -128.8932,54.41206,0 -128.89014,54.412805,0 -128.889793,54.41289,0 -128.886906,54.413592,0 -128.886861,54.413603,0 -128.886454,54.413702,0 -128.88639,54.413717,0 -128.885783,54.413865,0 -128.880532,54.415143,0 -128.875452,54.416378,0 -128.874487,54.416613,0 -128.872905,54.417049,0 -128.866954,54.418691,0 -128.865415,54.419115,0 -128.864142,54.419466,0 -128.86326,54.419724,0 -128.862553,54.41993,0 -128.862288,54.420007,0 -128.861283,54.420339,0 -128.860337,54.4207,0 -128.860319,54.420707,0 -128.860227,54.420742,0 -128.859259,54.421162,0 -128.85846,54.421563,0 -128.854563,54.423667,0 -128.8538,54.424126,0 -128.853336,54.424467,0 -128.852909,54.424842,0 -128.852527,54.42525,0 -128.85215,54.425765,0 -128.849962,54.429654,0 -128.849667,54.430078,0 -128.849331,54.430455,0 -128.849039,54.430731,0 -128.848627,54.431035,0 -128.848041,54.431387,0 -128.847404,54.431679,0 -128.846796,54.431896,0 -128.846701,54.431923,0 -128.846141,54.432082,0 -128.84292,54.432688,0 -128.842161,54.432898,0 -128.841432,54.43316,0 -128.840824,54.433425,0 -128.840416,54.43366,0 -128.840315,54.433718,0 -128.840083,54.433852,0 -128.839812,54.434009,0 -128.837606,54.435525,0 -128.836906,54.436006,0 -128.835781,54.436779,0 -128.831121,54.439982,0 -128.829653,54.440914,0 -128.824143,54.444412,0 -128.822951,54.445169,0 -128.821393,54.446158,0 -128.819319,54.447474,0 -128.819237,54.447526,0 -128.815664,54.449793,0 -128.814054,54.450815,0 -128.810979,54.452765,0 -128.810221,54.453195,0 -128.805905,54.455316,0 -128.805378,54.455575,0 -128.803091,54.456644,0 -128.802092,54.457111,0 -128.799941,54.458038,0 -128.79653,54.459508,0 -128.795808,54.459775,0 -128.794958,54.460051,0 -128.794291,54.460231,0 -128.793367,54.46044,0 -128.789779,54.461158,0 -128.786321,54.46185,0 -128.785477,54.462058,0 -128.784919,54.462239,0 -128.784412,54.46244,0 -128.783783,54.462752,0 -128.783191,54.463126,0 -128.782427,54.463757,0 -128.782037,54.464336,0 -128.781374,54.465319,0 -128.781071,54.465665,0 -128.780728,54.465974,0 -128.78028,54.466303,0 -128.779594,54.466708,0 -128.779345,54.466826,0 -128.7792,54.466896,0 -128.777049,54.467922,0 -128.773154,54.46978,0 -128.772925,54.469889,0 -128.772226,54.470222,0 -128.771639,54.470502,0 -128.770181,54.471198,0 -128.769331,54.471603,0 -128.768083,54.472151,0 -128.767277,54.472472,0 -128.766953,54.472601,0 -128.765572,54.47309,0 -128.757277,54.475637,0 -128.757109,54.475706,0 -128.756069,54.476135,0 -128.755119,54.476605,0 -128.754396,54.477043,0 -128.753672,54.477552,0 -128.752311,54.478675,0 -128.752129,54.478826,0 -128.749755,54.480785,0 -128.748966,54.481368,0 -128.74821,54.481829,0 -128.74731,54.482299,0 -128.746281,54.482728,0 -128.746138,54.482788,0 -128.745273,54.483108,0 -128.744206,54.483503,0 -128.742523,54.484126,0 -128.741074,54.484662,0 -128.736541,54.48632,0 -128.736283,54.486394,0 -128.735546,54.486606,0 -128.735523,54.486612,0 -128.734479,54.486862,0 -128.733427,54.487055,0 -128.733315,54.487076,0 -128.732482,54.48723,0 -128.732221,54.487278,0 -128.729922,54.487701,0 -128.729157,54.487877,0 -128.728444,54.488081,0 -128.727536,54.488418,0 -128.726871,54.488733,0 -128.726369,54.489017,0 -128.726219,54.489102,0 -128.718557,54.494138,0 -128.714081,54.49708,0 -128.713365,54.497474,0 -128.712338,54.497968,0 -128.708498,54.499462,0 -128.704122,54.501164,0 -128.698234,54.503454,0 -128.697134,54.503852,0 -128.696079,54.504135,0 -128.692602,54.504774,0 -128.691635,54.50504,0 -128.690927,54.505287,0 -128.690102,54.505636,0 -128.689348,54.506057,0 -128.688711,54.506476,0 -128.686269,54.50848,0 -128.685526,54.509086,0 -128.68488,54.509691,0 -128.684452,54.510182,0 -128.684089,54.510677,0 -128.68368,54.511399,0 -128.683373,54.512048,0 -128.683272,54.512263,0 -128.682131,54.51468,0 -128.680922,54.517243,0 -128.680897,54.517296,0 -128.680499,54.518075,0 -128.680203,54.518479,0 -128.679946,54.518743,0 -128.679689,54.518952,0 -128.67928,54.519219,0 -128.678657,54.51953,0 -128.677911,54.519802,0 -128.674568,54.520866,0 -128.673731,54.521133,0 -128.672564,54.521504,0 -128.671664,54.521721,0 -128.670922,54.521842,0 -128.667875,54.52217,0 -128.667192,54.522244,0 -128.666441,54.5223,0 -128.665744,54.522308,0 -128.665046,54.522278,0 -128.664258,54.522167,0 -128.664216,54.522158,0 -128.664174,54.522148,0 -128.663879,54.522084,0 -128.663439,54.521986,0 -128.662665,54.521738,0 -128.662106,54.52151,0 -128.661786,54.521379,0 -128.660772,54.520965,0 -128.660643,54.520912,0 -128.660537,54.520869,0 -128.659214,54.52033,0 -128.657568,54.519659,0 -128.656722,54.519357,0 -128.656649,54.519331,0 -128.656264,54.51924,0 -128.656141,54.519212,0 -128.655767,54.519124,0 -128.655243,54.519047,0 -128.654682,54.518966,0 -128.651762,54.518789,0 -128.649864,54.518675,0 -128.646554,54.518475,0 -128.64337,54.518281,0 -128.640194,54.518086,0 -128.638804,54.518001,0 -128.637181,54.517899,0 -128.629064,54.517459,0 -128.626965,54.517345,0 -128.625219,54.51725,0 -128.6243,54.5172,0 -128.623915,54.51718,0 -128.623362,54.517147,0 -128.6216,54.517042,0 -128.621336,54.51703,0 -128.619215,54.516839,0 -128.616313,54.516664,0 -128.611429,54.51637,0 -128.609625,54.516262,0 -128.605301,54.516002,0 -128.601109,54.515756,0 -128.600858,54.515742,0 -128.599749,54.515677,0 -128.599064,54.515758,0 -128.598711,54.5158,0 -128.598262,54.515823,0 -128.596868,54.515777,0 -128.596301,54.515735,0 -128.596367,54.515252,0 -128.596436,54.514747,0 -128.596543,54.514008,0 -128.596539,54.513518,0 -128.596548,54.513277,0 -128.596411,54.513275,0 -128.595955,54.513269,0 -128.594689,54.513252,0 -128.594485,54.513249,0 -128.592954,54.51323,0 -128.591427,54.513209,0 -128.58821,54.513167,0 -128.586738,54.513154,0 -128.584225,54.513115,0 -128.584013,54.51309,0 -128.583538,54.513033,0 -128.583393,54.513015,0 -128.582094,54.512714,0 -128.581792,54.51262,0 -128.581736,54.51255,0 -128.580829,54.51232,0 -128.5804,54.512237,0 -128.580231,54.512206,0 -128.580031,54.512164,0 -128.579858,54.512135,0 -128.579548,54.512098,0 -128.579221,54.512061,0 -128.578654,54.512008,0 -128.578438,54.512003,0 -128.5778,54.512003,0 -128.577072,54.511994,0 -128.57698,54.512027,0 -128.576456,54.512026,0 -128.572711,54.511961,0 -128.570493,54.511926,0 -128.567625,54.511874,0 -128.567377,54.511867,0 -128.566139,54.511831,0 -128.56519,54.511803,0 -128.562883,54.511792,0 -128.56223,54.511781,0 -128.561586,54.511766,0 -128.559555,54.511759,0 -128.559015,54.511756,0 -128.558467,54.511659,0 -128.558197,54.511602,0 -128.557961,54.511542,0 -128.557833,54.51148,0 -128.557711,54.511459,0 -128.557584,54.511462,0 -128.557361,54.511515,0 -128.55676,54.511619,0 -128.556258,54.511635,0 -128.555714,54.511622,0 -128.555251,54.511618,0 -128.553678,54.511621,0 -128.553179,54.511626,0 -128.551102,54.511632,0 -128.548781,54.511772,0 -128.547747,54.511849,0 -128.546627,54.511986,0 -128.545379,54.512227,0 -128.544213,54.512559,0 -128.543257,54.512903,0 -128.542061,54.513476,0 -128.541336,54.513913,0 -128.540809,54.514276,0 -128.540076,54.514943,0 -128.538512,54.516685,0 -128.533922,54.521781,0 -128.529289,54.526922,0 -128.528112,54.528147,0 -128.527417,54.528715,0 -128.526692,54.529163,0 -128.525971,54.52952,0 -128.525391,54.529763,0 -128.519844,54.531801,0 -128.517652,54.532493,0 -128.515221,54.533147,0 -128.512786,54.533717,0 -128.511054,54.534068,0 -128.510056,54.534245,0 -128.506341,54.534965,0 -128.504849,54.535387,0 -128.503268,54.535881,0 -128.500015,54.537343,0 -128.499608,54.537526,0 -128.49837,54.538082,0 -128.496828,54.538774,0 -128.496581,54.538885,0 -128.495756,54.539143,0 -128.494821,54.539357,0 -128.49374,54.5395,0 -128.491671,54.539574,0 -128.48807,54.539702,0 -128.487885,54.539709,0 -128.486681,54.539751,0 -128.484655,54.539831,0 -128.483658,54.53994,0 -128.482654,54.540111,0 -128.481626,54.540358,0 -128.480694,54.540637,0 -128.479729,54.541007,0 -128.479012,54.541364,0 -128.478004,54.541866,0 -128.477578,54.542082,0 -128.476859,54.542446,0 -128.476502,54.542627,0 -128.476153,54.542799,0 -128.475433,54.543152,0 -128.473558,54.544074,0 -128.472767,54.544531,0 -128.472031,54.545068,0 -128.471352,54.545745,0 -128.470965,54.546299,0 -128.470864,54.546444,0 -128.470604,54.547111,0 -128.469721,54.551002,0 -128.469376,54.551736,0 -128.469311,54.551873,0 -128.468858,54.552528,0 -128.468442,54.552971,0 -128.467972,54.553381,0 -128.467657,54.553655,0 -128.467595,54.553694,0 -128.466526,54.554372,0 -128.465572,54.554855,0 -128.464851,54.555141,0 -128.464007,54.555413,0 -128.461007,54.556218,0 -128.451662,54.558726,0 -128.451178,54.558855,0 -128.443909,54.560805,0 -128.441718,54.561559,0 -128.441447,54.561652,0 -128.4391,54.562676,0 -128.438103,54.563214,0 -128.437849,54.563369,0 -128.436343,54.564292,0 -128.43618,54.564392,0 -128.432968,54.566832,0 -128.432331,54.567234,0 -128.431569,54.56759,0 -128.429272,54.568505,0 -128.428155,54.569007,0 -128.426919,54.569759,0 -128.426385,54.570174,0 -128.425711,54.570716,0 -128.419102,54.576814,0 -128.417364,54.578416,0 -128.416435,54.579272,0 -128.412482,54.582916,0 -128.407275,54.587714,0 -128.40539,54.58945,0 -128.404388,54.590373,0 -128.40318,54.5916,0 -128.402551,54.592522,0 -128.402172,54.593413,0 -128.402101,54.593562,0 -128.401938,54.594291,0 -128.401895,54.595072,0 -128.402083,54.596225,0 -128.402446,54.597596,0 -128.402626,54.598289,0 -128.403412,54.601277,0 -128.403544,54.601991,0 -128.403669,54.60313,0 -128.403685,54.603516,0 -128.403712,54.604139,0 -128.403711,54.604164,0 -128.403611,54.605762,0 -128.403409,54.606978,0 -128.403176,54.607895,0 -128.401506,54.612987,0 -128.400905,54.614816,0 -128.400405,54.616338,0 -128.400089,54.617302,0 -128.400041,54.617843,0 -128.400114,54.618311,0 -128.400196,54.618837,0 -128.400444,54.619419,0 -128.400842,54.620044,0 -128.40153,54.620808,0 -128.40159,54.620855,0 -128.401683,54.620926,0 -128.402384,54.621466,0 -128.403136,54.621878,0 -128.406316,54.623327,0 -128.407436,54.62404,0 -128.408336,54.624821,0 -128.409012,54.625773,0 -128.40938,54.626574,0 -128.409518,54.627491,0 -128.409485,54.628368,0 -128.409085,54.629369,0 -128.408462,54.630272,0 -128.407817,54.630922,0 -128.407115,54.631448,0 -128.405713,54.632363,0 -128.404957,54.632856,0 -128.404029,54.633524,0 -128.40395,54.633588,0 -128.401763,54.635575,0 -128.401608,54.635725,0 -128.401457,54.63587,0 -128.401111,54.636203,0 -128.400664,54.636633,0 -128.400327,54.636958,0 -128.399975,54.637298,0 -128.399802,54.637464,0 -128.399011,54.638225,0 -128.397197,54.640033,0 -128.396933,54.640447,0 -128.396305,54.641433,0 -128.395863,54.642521,0 -128.394951,54.644765,0 -128.394532,54.645796,0 -128.394408,54.646102,0 -128.393836,54.647108,0 -128.3937,54.647302,0 -128.393064,54.648212,0 -128.392022,54.649498,0 -128.391655,54.64995,0 -128.387564,54.65491,0 -128.385085,54.657851,0 -128.38449,54.658537,0 -128.383367,54.659875,0 -128.382805,54.660461,0 -128.382115,54.661035,0 -128.381813,54.661205,0 -128.381152,54.661579,0 -128.379963,54.662094,0 -128.379045,54.662372,0 -128.378051,54.6626,0 -128.377458,54.662694,0 -128.377129,54.662746,0 -128.374977,54.663081,0 -128.373891,54.66333,0 -128.373377,54.663452,0 -128.373146,54.663521,0 -128.366548,54.665487,0 -128.365903,54.665624,0 -128.365236,54.665714,0 -128.36381,54.665788,0 -128.363188,54.665861,0 -128.362445,54.666032,0 -128.358588,54.667287,0 -128.357709,54.667626,0 -128.3569,54.66805,0 -128.356102,54.668549,0 -128.355293,54.669282,0 -128.350206,54.676411,0 -128.347842,54.679724,0 -128.342931,54.686603,0 -128.342518,54.687086,0 -128.342453,54.687163,0 -128.341934,54.687665,0 -128.341226,54.688234,0 -128.340459,54.688749,0 -128.339674,54.689184,0 -128.339596,54.689228,0 -128.338647,54.689679,0 -128.338601,54.689696,0 -128.337382,54.69016,0 -128.32933,54.692466,0 -128.326699,54.693624,0 -128.322312,54.697075,0 -128.322266,54.697111,0 -128.319776,54.698753,0 -128.319676,54.698848,0 -128.31935,54.699155,0 -128.319271,54.699229,0 -128.319038,54.699595,0 -128.318957,54.699816,0 -128.31892,54.699919,0 -128.318732,54.701319,0 -128.318576,54.701806,0 -128.318186,54.702337,0 -128.316935,54.703519,0 -128.316416,54.704162,0 -128.312356,54.710872,0 -128.311851,54.711707,0 -128.311347,54.712963,0 -128.311167,54.714021,0 -128.311055,54.714675,0 -128.310898,54.715598,0 -128.310669,54.716943,0 -128.310676,54.717618,0 -128.311188,54.719834,0 -128.311195,54.720304,0 -128.310977,54.721512,0 -128.311315,54.723791,0 -128.311213,54.72455,0 -128.311011,54.72513,0 -128.310724,54.725644,0 -128.310382,54.726097,0 -128.309794,54.726682,0 -128.309059,54.727242,0 -128.308141,54.727761,0 -128.301458,54.730806,0 -128.298378,54.732208,0 -128.29761,54.7325,0 -128.296683,54.732776,0 -128.29556,54.733018,0 -128.294272,54.733177,0 -128.289032,54.733481,0 -128.287526,54.733525,0 -128.283618,54.733024,0 -128.282837,54.732991,0 -128.281704,54.733061,0 -128.280579,54.733259,0 -128.276356,54.734385,0 -128.275419,54.734843,0 -128.274748,54.735301,0 -128.273224,54.736911,0 -128.272591,54.737418,0 -128.271921,54.737753,0 -128.271096,54.738051,0 -128.266668,54.73919,0 -128.265657,54.739585,0 -128.264677,54.740112,0 -128.26373,54.740791,0 -128.263172,54.741349,0 -128.261122,54.744727,0 -128.261027,54.744883,0 -128.258608,54.748759,0 -128.258177,54.749451,0 -128.2581,54.749574,0 -128.257443,54.751063,0 -128.257227,54.752546,0 -128.257353,54.754143,0 -128.257942,54.761606,0 -128.258461,54.762395,0 -128.259326,54.763405,0 -128.259636,54.764136,0 -128.260349,54.766955,0 -128.260329,54.767495,0 -128.259431,54.770683,0 -128.259445,54.771371,0 -128.259495,54.77159,0 -128.26035,54.77539,0 -128.264148,54.785571,0 -128.264258,54.785865,0 -128.264799,54.78656,0 -128.274334,54.797797,0 -128.274684,54.798209,0 -128.27559,54.799979,0 -128.275767,54.800358,0 -128.276581,54.802087,0 -128.276791,54.802534,0 -128.277628,54.804312,0 -128.280891,54.811247,0 -128.2822,54.814028,0 -128.28284,54.814585,0 -128.283348,54.814943,0 -128.284031,54.815273,0 -128.284548,54.815457,0 -128.285084,54.815612,0 -128.285277,54.815668,0 -128.288644,54.816231,0 -128.288806,54.816276,0 -128.289448,54.816455,0 -128.290028,54.816689,0 -128.290572,54.817017,0 -128.291112,54.817487,0 -128.291436,54.81794,0 -128.291605,54.818376,0 -128.291639,54.818837,0 -128.291549,54.81926,0 -128.291026,54.820558,0 -128.290971,54.820944,0 -128.291079,54.821494,0 -128.291774,54.823778,0 -128.292162,54.824288,0 -128.292541,54.824641,0 -128.292948,54.824895,0 -128.293039,54.824951,0 -128.293727,54.825283,0 -128.296774,54.826264,0 -128.302933,54.828248,0 -128.307052,54.829575,0 -128.30939,54.830328,0 -128.309638,54.830441,0 -128.311406,54.831245,0 -128.313887,54.832683,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Golden Ears Way, eastbound. Utility work at 177A St. Until Sat Oct 11. From 9:00 AM to 3:00 PM PDT daily. Right lane closed. Last updated Mon Sep 22 at 11:13 AM PDT. (DBC-81870)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Golden Ears Way&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 177A St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81870
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.727813,49.175572,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 15 (Pacific Highway), northbound. Utility work between 68A Ave and Fraser Hwy for 1.1 km (Surrey). Until Wed Oct 15 at 6:00 PM PDT. Construction work. Watch for traffic control. Right lane is blocked. Last updated Mon Sep 15 at 8:18 PM PDT. (DBC-81624)</name>
@@ -4317,7 +4317,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 17, eastbound. Construction work planned between 72nd St and Highway 99. Starting Mon Oct 6 until Fri Oct 31. From 9:00 PM to 5:00 AM PDT daily. Right turn lane will be closed. Last updated Mon Sep 22 at 11:27 AM PDT. (DBC-81873)</name>
+          <name>Highway 17, eastbound. Construction work between 72nd St and Highway 99. Until Fri Oct 31. From 9:00 PM to 5:00 AM PDT daily. Right turn lane closed. Last updated Mon Sep 22 at 11:27 AM PDT. (DBC-81873)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4329,7 +4329,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between 72nd St and Highway 99&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-22T11:27:37-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -4339,31 +4339,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.025032,49.097282,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Electrical maintenance planned between Junction Hwy 8 and Nicomen River Rd (14 km west of Spences Bridge). Starting Mon Oct 6 until Fri Oct 10. From 7:00 AM to 6:00 PM PDT daily. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Sat Oct 4 at 2:34 PM PDT. (DBC-82292)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Nicomen River Rd and Junction Hwy 8&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km west of Spences Bridge&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-04T14:34:48-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82292
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.393322,50.30753,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4391,6 +4366,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
             <tessellate>1</tessellate>
             <coordinates>-117.600308,49.505128,0 -117.600011,49.504585,0 -117.599888,49.504361,0 -117.599685,49.503633,0 -117.599681,49.503613,0 -117.599129,49.501049,0 -117.598858,49.500498,0 -117.598443,49.499984,0 -117.598402,49.499933,0 -117.598048,49.499632,0 -117.597717,49.499404,0 -117.597092,49.498968,0 -117.596658,49.498666,0 -117.596438,49.498512,0 -117.596198,49.498345,0 -117.595417,49.4978,0 -117.594463,49.497135,0 -117.592983,49.496104,0 -117.592956,49.496084,0 -117.592616,49.495847,0 -117.58955,49.493703,0 -117.588837,49.493205,0 -117.587797,49.492478,0 -117.58677,49.491693,0 -117.58672,49.491647,0 -117.586295,49.491254,0 -117.586229,49.491193,0 -117.585744,49.49068,0 -117.585388,49.490195,0 -117.585137,49.489787,0 -117.584442,49.488661,0 -117.583945,49.487833,0 -117.583816,49.487617,0 -117.583099,49.486423,0 -117.582707,49.485925,0 -117.582258,49.485493,0 -117.58201,49.485304,0 -117.581715,49.485082,0 -117.581042,49.484632,0 -117.580833,49.484528,0 -117.580617,49.484421,0 -117.580351,49.484289,0 -117.579587,49.484007,0 -117.579331,49.483932,0 -117.578279,49.483622,0 -117.577191,49.483302,0 -117.57663,49.483052,0 -117.576421,49.482958,0 -117.575894,49.482663,0 -117.575373,49.482269,0 -117.574985,49.481904,0 -117.57465,49.481484,0 -117.573696,49.48029,0 -117.572377,49.478637,0 -117.572351,49.478602,0 -117.57186,49.477927,0 -117.571597,49.477349,0 -117.571431,49.476674,0 -117.57129,49.47567,0 -117.571265,49.475491,0 -117.571135,49.474563,0 -117.570987,49.473507,0 -117.570937,49.472668,0 -117.570921,49.472401,0 -117.570927,49.471284,0 -117.570935,49.46989,0 -117.570907,49.469715,0 -117.57081,49.469092,0 -117.570631,49.468457,0 -117.570567,49.468299,0 -117.570361,49.467793,0 -117.570284,49.467666,0 -117.569946,49.467117,0 -117.569418,49.466399,0 -117.569359,49.466341,0 -117.5686,49.465608,0 -117.567639,49.464678,0 -117.566317,49.463399,0 -117.566147,49.463202,0 -117.566122,49.463174,0 -117.564777,49.461299,0 -117.56377,49.459895,0 -117.563311,49.459209,0 -117.561773,49.456912,0 -117.561098,49.456163,0 -117.560994,49.45605,0 -117.56084,49.455881,0 -117.560724,49.455753,0 -117.560458,49.455266,0 -117.560264,49.454734,0 -117.560096,49.454022,0 -117.560067,49.453902,0 -117.56001,49.453659,0 -117.559669,49.452213,0 -117.559424,49.451148,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Electrical maintenance between Junction Hwy 8 and Nicomen River Rd (14 km west of Spences Bridge). Until Fri Oct 10. From 7:00 AM to 6:00 PM PDT daily. Single lane alternating traffic. Watch for traffic control. Last updated Sat Oct 4 at 2:34 PM PDT. (DBC-82292)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Nicomen River Rd and Junction Hwy 8&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km west of Spences Bridge&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82292
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.393322,50.30753,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 31A, in both directions. Construction work planned between Denver Siding Rd and Retallak for 15.1 km (2 to 17 km east of New Denver). Starting Wed Oct 15 until Thu Oct 16. From 7:00 AM to 7:00 PM PDT daily. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Sep 26 at 3:18 PM PDT. (DBC-82067)</name>
@@ -5112,32 +5112,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 5. Tree pruning planned between Raft River Rd and Lost Creek Rd for 5.6 km (Clearwater). Starting Mon Oct 6 until Tue Oct 7. From 8:00 AM to 5:00 PM PDT on Monday and Tuesday. Last updated Thu Oct 2 at 3:21 PM PDT. (DBC-82235)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Raft River Rd and Lost Creek Rd for 5.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Clearwater&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T15:21:03-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82235
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.971293,51.636907,0 -119.971009,51.636774,0 -119.968,51.635361,0 -119.965016,51.633959,0 -119.960584,51.631877,0 -119.959151,51.631203,0 -119.957647,51.630497,0 -119.955644,51.629549,0 -119.95533,51.629393,0 -119.955017,51.629237,0 -119.954129,51.628796,0 -119.952593,51.627923,0 -119.950741,51.626873,0 -119.94927,51.626038,0 -119.944728,51.623461,0 -119.94309,51.622531,0 -119.94198,51.621901,0 -119.940129,51.62085,0 -119.937157,51.619152,0 -119.931205,51.615738,0 -119.929711,51.615026,0 -119.928321,51.614481,0 -119.925704,51.613733,0 -119.92503,51.613553,0 -119.922468,51.612867,0 -119.921918,51.61272,0 -119.920514,51.612328,0 -119.918561,51.611783,0 -119.918292,51.611702,0 -119.917196,51.611373,0 -119.915021,51.610573,0 -119.912751,51.609686,0 -119.911664,51.609263,0 -119.908931,51.608199,0 -119.906372,51.607203,0 -119.906237,51.607151,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway). Construction work between Illecillewaet Brake Check and MacDonald Snowshed for 3.0 km (5 to 2 km west of West Boundary of Glacier National Park). Expect 30-minute closures anytime. 2-hour closures 1:00am - 3:00am every day. Intermittent stoppages may occur at any time. Next update time Mon Oct 6 at 12:00 PM PDT. Last updated Sat Sep 27 at 4:55 PM PDT. (DBC-73974)</name>
           <description>
     &lt;![CDATA[
@@ -5164,7 +5138,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>East Sooke Road. Utility work planned between Silver Spray Dr and Pike Rd. Starting Mon Oct 6 until Sun Oct 12. From 8:00 AM to 4:00 PM PDT daily. Single lane alternating traffic will be in effect. Last updated Tue Sep 16 at 11:45 AM PDT. (DBC-81651)</name>
+          <name>Highway 5. Tree pruning between Raft River Rd and Lost Creek Rd for 5.6 km (Clearwater). Until Tue Oct 7. From 8:00 AM to 5:00 PM PDT on Monday and Tuesday. Last updated Thu Oct 2 at 3:21 PM PDT. (DBC-82235)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5172,21 +5146,22 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; East Sooke Road&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Silver Spray Dr and Pike Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Raft River Rd and Lost Creek Rd for 5.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Clearwater&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-16T11:45:46-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81651
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82235
     ]]&gt;
     </description>
           <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.70604,48.355967,0</coordinates>
-          </Point>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.971293,51.636907,0 -119.971009,51.636774,0 -119.968,51.635361,0 -119.965016,51.633959,0 -119.960584,51.631877,0 -119.959151,51.631203,0 -119.957647,51.630497,0 -119.955644,51.629549,0 -119.95533,51.629393,0 -119.955017,51.629237,0 -119.954129,51.628796,0 -119.952593,51.627923,0 -119.950741,51.626873,0 -119.94927,51.626038,0 -119.944728,51.623461,0 -119.94309,51.622531,0 -119.94198,51.621901,0 -119.940129,51.62085,0 -119.937157,51.619152,0 -119.931205,51.615738,0 -119.929711,51.615026,0 -119.928321,51.614481,0 -119.925704,51.613733,0 -119.92503,51.613553,0 -119.922468,51.612867,0 -119.921918,51.61272,0 -119.920514,51.612328,0 -119.918561,51.611783,0 -119.918292,51.611702,0 -119.917196,51.611373,0 -119.915021,51.610573,0 -119.912751,51.609686,0 -119.911664,51.609263,0 -119.908931,51.608199,0 -119.906372,51.607203,0 -119.906237,51.607151,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Kicking Horse Trail, in both directions. Bridge maintenance planned between Kicking Horse Dr and Kicking Horse Dr (11 km east of Kicking Horse Mountain Resort). Starting Tue Oct 7 at 9:00 PM MDT until Thu Oct 16 at 6:00 AM MDT. From 9:00 PM to 7:00 AM MDT on Tuesday, Wednesday and Thursday. Road closure planned. Dogtooth Bridge closed to all traffic due to bridge maintenance (overnight). Last updated Fri Oct 3 at 12:10 PM MDT. (DBC-82243)</name>
@@ -5214,7 +5189,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 17, westbound. Road construction work planned between Grace Rd and Highway 91 Connector for 2.7 km (Delta). Starting Mon Oct 6 until Wed Oct 8. From 9:00 PM to 5:00 AM PDT on Monday, Tuesday and Wednesday. Lane Closure. Watch for traffic control personnel. Fast lane closed on Oct6, right lane closed on Oct 7 going into the morning of Oct 8. Watch for traffic control and when passing. Last updated Thu Oct 2 at 3:43 PM PDT. (DBC-82237)</name>
+          <name>East Sooke Road. Utility work between Silver Spray Dr and Pike Rd. Until Sun Oct 12. From 8:00 AM to 4:00 PM PDT daily. Single lane alternating traffic. Last updated Tue Sep 16 at 11:45 AM PDT. (DBC-81651)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; East Sooke Road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Silver Spray Dr and Pike Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81651
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.70604,48.355967,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, westbound. Road construction work between Grace Rd and Highway 91 Connector for 2.7 km (Delta). Until Wed Oct 8. From 9:00 PM to 5:00 AM PDT on Monday, Tuesday and Wednesday. Lane Closure. Watch for traffic control. Fast lane closed on Oct6, right lane closed on Oct 7 going into the morning of Oct 8. Watch for traffic control and when passing. Last updated Thu Oct 2 at 3:43 PM PDT. (DBC-82237)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5226,7 +5226,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between Highway 91 Connector and Grace Rd for 2.7 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-02T15:43:40-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5343,7 +5343,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Construction work planned at Exit 32: Steveston Hwy (Richmond). Starting Mon Oct 6 until Fri Oct 17. Entrance ramp will be partially closed. Watch for detour and traffic control. Last updated Thu Sep 25 at 4:45 PM PDT. (DBC-82038)</name>
+          <name>Highway 99, southbound. Construction work at Exit 32: Steveston Hwy (Richmond). Until Fri Oct 17. Entrance ramp will be partially closed. Watch for detour and traffic control. Last updated Thu Sep 25 at 4:45 PM PDT. (DBC-82038)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5355,7 +5355,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-25T16:45:15-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
