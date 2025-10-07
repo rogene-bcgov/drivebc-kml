@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-07 05:02:26 UTC
+        Last updated: 2025-10-07 05:33:46 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (251)</name>
+      <name>🚗 Traffic Events (252)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -993,6 +993,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Utility work between Exit 28 and Massey Tunnel for 0.9 km (Delta). Until Wed Oct 8 at 4:30 AM PDT. From 10:00 PM to 4:30 AM PDT on Monday and Tuesday. HOV lane closed. Night time construction work. Last updated Fri Sep 19 at 5:25 PM PDT. (DBC-81803)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81803
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.05574,49.107859,0 -123.056791,49.108335,0 -123.057397,49.10861,0 -123.059688,49.109649,0 -123.060952,49.110227,0 -123.061573,49.110588,0 -123.062941,49.111686,0 -123.064717,49.113111,0 -123.065013,49.11335,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work between Clear Rd N and Kragbak Rd for 7.7 km (Wildwood). Until Thu Oct 9. From 8:00 AM to 4:00 PM PDT on weekdays. Please watch for traffic control signage and personnel. Expect minor delays. Shoulder lane will be closed. Last updated Wed Sep 24 at 8:38 AM PDT. (DBC-81102)</name>
           <description>
     &lt;![CDATA[
@@ -1042,32 +1068,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <Point>
             <coordinates>-121.951152,49.255744,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, northbound. Utility work between Exit 28 and Massey Tunnel for 0.9 km (Delta). Until Wed Oct 8 at 4:30 AM PDT. From 10:00 PM to 4:30 AM PDT on Monday and Tuesday. HOV lane closed. Night time construction work. Last updated Fri Sep 19 at 5:25 PM PDT. (DBC-81803)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel for 0.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81803
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.05574,49.107859,0 -123.056791,49.108335,0 -123.057397,49.10861,0 -123.059688,49.109649,0 -123.060952,49.110227,0 -123.061573,49.110588,0 -123.062941,49.111686,0 -123.064717,49.113111,0 -123.065013,49.11335,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5, in both directions. Roadside brushing planned between East Kamloops and River Heights Dr for 25.2 km (Kamloops). Starting Tue Oct 7 at 7:00 PM PDT until Thu Oct 9 at 6:00 AM PDT. Watch for traffic control personnel. Last updated Wed Oct 1 at 12:30 PM PDT. (DBC-82179)</name>
@@ -1249,7 +1249,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>192 Street. Bridge maintenance planned at HWY 1. Starting Mon Oct 6 at 10:30 PM PDT until Fri Oct 10 at 5:00 AM PDT. From 10:30 PM to 5:00 AM PDT on Monday, Tuesday, Wednesday and Thursday. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Oct 3 at 11:28 AM PDT. (DBC-82255)</name>
+          <name>192 Street. Bridge maintenance at HWY 1. Until Fri Oct 10 at 5:00 AM PDT. From 10:30 PM to 5:00 AM PDT on Monday, Tuesday, Wednesday and Thursday. Single lane alternating traffic. Watch for traffic control. Last updated Fri Oct 3 at 11:28 AM PDT. (DBC-82255)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1261,7 +1261,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; At HWY 1&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T11:28:06-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T22:30:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -1325,7 +1325,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance planned at Exit 55: 192 St (Surrey). Starting Mon Oct 6 at 10:30 PM PDT until Fri Oct 10 at 5:00 AM PDT. From 10:30 PM to 5:00 AM PDT on Monday, Tuesday, Wednesday and Thursday. Exit ramp will be closed. Watch for traffic control personnel. Last updated Fri Oct 3 at 11:31 AM PDT. (DBC-82256)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Exit 55: 192 St (Surrey). Until Fri Oct 10 at 5:00 AM PDT. From 10:30 PM to 5:00 AM PDT on Monday, Tuesday, Wednesday and Thursday. Exit ramp is closed. Watch for traffic control. Last updated Fri Oct 3 at 11:31 AM PDT. (DBC-82256)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1337,7 +1337,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; At Exit 55: 192 St&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-03T11:31:49-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T22:30:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
@@ -2706,31 +2706,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance planned at Second Narrows Bridge (North Vancouver - District). Starting Mon Oct 6 at 10:00 PM PDT until Tue Oct 7 at 5:00 AM PDT. Right lane will be closed. Centre lane will be closed. Watch for traffic control personnel. Last updated Mon Oct 6 at 3:35 PM PDT. (DBC-82337)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T15:35:25-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82337
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.026346,49.295359,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Mission Mtn Rd, in both directions. Maintenance between Road 40 and Shalath 48 km west of Lillooet. Until Sat Oct 11 at 4:00 PM PDT. From 7:00 AM to 4:00 PM PDT on weekdays. Single lane alternating traffic. Expect 20 Minute Delays between Gabiens and surge road entrance. Watch for equipment and crews working. Last updated Tue Sep 23 at 6:55 AM PDT. (DBC-80766)</name>
           <description>
     &lt;![CDATA[
@@ -2781,6 +2756,31 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Second Narrows Bridge (North Vancouver - District). Until Tue Oct 7 at 5:00 AM PDT. Right lane closed. Centre lane closed. Watch for traffic control. Last updated Mon Oct 6 at 3:35 PM PDT. (DBC-82337)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T22:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82337
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.026346,49.295359,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Maintenance at Cassiar Tunnel (Vancouver). Until Thu Oct 9. From 10:00 PM to 5:00 AM PDT on Monday, Tuesday, Wednesday and Thursday. Left lane is blocked. Watch for traffic control. Last updated Mon Oct 6 at 3:37 PM PDT. (DBC-82338)</name>
           <description>
     &lt;![CDATA[
@@ -2806,7 +2806,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Road maintenance work planned at Cassiar Tunnel (Vancouver). Starting Mon Oct 6 at 10:00 PM PDT until Fri Oct 10 at 5:00 AM PDT. From 10:00 AM to 5:00 PM PDT on Monday, Tuesday, Wednesday and Thursday. Left lane will be closed. Tunnel washing. Last updated Mon Oct 6 at 7:36 AM PDT. (DBC-82319)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road maintenance work at Cassiar Tunnel (Vancouver). Until Fri Oct 10 at 5:00 AM PDT. From 10:00 AM to 5:00 PM PDT on Monday, Tuesday, Wednesday and Thursday. Left lane is closed. Tunnel washing. Last updated Mon Oct 6 at 7:36 AM PDT. (DBC-82319)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2818,7 +2818,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; At Cassiar Tunnel&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T07:36:16-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T22:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -4264,6 +4264,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.350475,54.122561,0 -125.350222,54.122198,0 -125.350109,54.122038,0 -125.349853,54.121671,0 -125.3491,54.120552,0 -125.345802,54.115649,0 -125.345132,54.114653,0 -125.344772,54.114127,0 -125.343483,54.112244,0 -125.33965,54.106579,0 -125.338874,54.105433,0 -125.338492,54.104926,0 -125.338307,54.10468,0 -125.338242,54.104595,0 -125.337677,54.104063,0 -125.337219,54.103708,0 -125.336464,54.103232,0 -125.335456,54.102756,0 -125.335172,54.102656,0 -125.334457,54.102405,0 -125.33372,54.102209,0 -125.332675,54.102002,0 -125.331798,54.101898,0 -125.331022,54.101849,0 -125.319861,54.101687,0 -125.308379,54.10152,0 -125.306327,54.10149,0 -125.304139,54.101458,0 -125.297126,54.101354,0 -125.291876,54.101277,0 -125.289273,54.101239,0 -125.284803,54.101172,0 -125.27496,54.101026,0 -125.26806,54.100923,0 -125.265478,54.100726,0 -125.259722,54.099982,0 -125.259693,54.099978,0 -125.259291,54.099926,0 -125.257889,54.099745,0 -125.250766,54.098824,0 -125.24905,54.098602,0 -125.242794,54.09779,0 -125.238986,54.097295,0 -125.237601,54.097206,0 -125.237479,54.097204,0 -125.237202,54.097199,0 -125.236941,54.097194,0 -125.234815,54.097156,0 -125.22618,54.097002,0 -125.222076,54.096928,0 -125.220116,54.096893,0 -125.210133,54.096713,0 -125.208157,54.096677,0 -125.207606,54.096667,0 -125.206728,54.096652,0 -125.205249,54.0966,0 -125.205133,54.096588,0 -125.203891,54.096464,0 -125.202817,54.096295,0 -125.201704,54.096046,0 -125.200011,54.095579,0 -125.197979,54.095019,0 -125.197216,54.094805,0 -125.196554,54.09462,0 -125.195285,54.094305,0 -125.193666,54.094037,0 -125.19244,54.093917,0 -125.191601,54.093882,0 -125.19086,54.093851,0 -125.187653,54.093871,0 -125.186538,54.093877,0 -125.18452,54.093889,0 -125.18091,54.093911,0 -125.179574,54.093919,0 -125.171324,54.093967,0 -125.170331,54.093973,0 -125.169658,54.093977,0 -125.168913,54.093981,0 -125.167415,54.093988,0 -125.166997,54.09399,0 -125.165249,54.093998,0 -125.164215,54.093954,0 -125.163813,54.093906,0 -125.163474,54.093865,0 -125.162726,54.093717,0 -125.162316,54.093602,0 -125.161872,54.093478,0 -125.161089,54.093163,0 -125.159532,54.092342,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Roadside brushing between 208 St and 216th St for 1.4 km (Langley - District). Until Tue Oct 7 at 5:00 AM PDT. Right lane is blocked. Watch for traffic control. Last updated Mon Oct 6 at 10:29 PM PDT. (DBC-82351)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 208 St and 216th St for 1.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T22:29:34-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82351
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.645395,49.157691,0 -122.632377,49.154242,0 -122.624118,49.152054,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
