@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-08 17:02:19 UTC
+        Last updated: 2025-10-08 17:33:42 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (264)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6575,7 +6575,7 @@ Last sailing from Galena Bay: 8:30pm. Next update time Mon Oct 13 at 11:00 AM PD
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Barnston Island Ferry, in both directions. Required maintenance between Barnston Island Ferry and the end of Barnston Island Ferry (1 km east of Surrey). Until Mon Oct 27. The ferry will be shutting down early at 10:00pm October 14-17, 20-24 and 27. Last updated Wed Oct 8 at 9:55 AM PDT. (DBC-82410)</name>
+          <name>Barnston Island Ferry, in both directions. Required maintenance between Barnston Island Ferry and the end of Barnston Island Ferry (Surrey). Until Mon Oct 27. The ferry will be shutting down early at 10:00pm October 14-17, 20-24 and 27. Last updated Wed Oct 8 at 9:57 AM PDT. (DBC-82410)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6585,9 +6585,9 @@ Last sailing from Galena Bay: 8:30pm. Next update time Mon Oct 13 at 11:00 AM PD
     &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Barnston Island Ferry&lt;br/&gt;
     &lt;b&gt;Location:&lt;/b&gt; Between Barnston Island Ferry and the end of Barnston Island Ferry&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km east of Surrey&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-08T09:55:37-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-08T09:57:14-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6595,9 +6595,36 @@ Last sailing from Galena Bay: 8:30pm. Next update time Mon Oct 13 at 11:00 AM PD
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.724994,49.192103,0</coordinates>
-          </Point>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.725702,49.192034,0 -122.725359,49.192068,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97C (Okanagan Connector), in both directions. Wildlife advisory in effect between Elkhart Rd and Loon Lake Rd for 12.7 km (34 to 22 km west of Pennask Summit). Cows on Roadway. Crew on scene. Please slow down. Next update time Wed Oct 8 at 12:00 PM PDT. Last updated Wed Oct 8 at 10:07 AM PDT. (DBC-82411)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97C&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Elkhart Rd and Loon Lake Rd for 12.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 22 to 34 km west of Pennask Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-08T10:07:02-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-08T12:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82411
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.311415,49.875836,0 -120.311706,49.87615,0 -120.312892,49.877425,0 -120.313061,49.877608,0 -120.318588,49.883452,0 -120.322129,49.887195,0 -120.323579,49.888386,0 -120.32525,49.889443,0 -120.327218,49.890387,0 -120.328665,49.890969,0 -120.33016,49.891464,0 -120.332115,49.891964,0 -120.351085,49.895161,0 -120.352185,49.895346,0 -120.354356,49.895713,0 -120.359655,49.896667,0 -120.362827,49.89721,0 -120.364251,49.897376,0 -120.365132,49.897446,0 -120.366292,49.897482,0 -120.366522,49.89749,0 -120.36759,49.897473,0 -120.369016,49.897375,0 -120.370429,49.897207,0 -120.371821,49.896956,0 -120.37319,49.896628,0 -120.374188,49.896329,0 -120.37515,49.895994,0 -120.387666,49.891221,0 -120.389561,49.890569,0 -120.390611,49.890266,0 -120.390882,49.890187,0 -120.392251,49.889861,0 -120.393306,49.889661,0 -120.393976,49.889534,0 -120.395337,49.889337,0 -120.397029,49.889175,0 -120.39843,49.8891,0 -120.399162,49.889087,0 -120.399868,49.889074,0 -120.401286,49.889111,0 -120.402688,49.889209,0 -120.404095,49.889363,0 -120.408946,49.890074,0 -120.410183,49.890196,0 -120.411464,49.890258,0 -120.412966,49.890243,0 -120.414518,49.890133,0 -120.416406,49.889848,0 -120.417891,49.8895,0 -120.419455,49.88902,0 -120.423251,49.887442,0 -120.423551,49.887352,0 -120.425163,49.886871,0 -120.426545,49.886582,0 -120.427911,49.886385,0 -120.429471,49.886262,0 -120.430149,49.886258,0 -120.433882,49.886216,0 -120.435312,49.886089,0 -120.43698,49.885835,0 -120.438563,49.885466,0 -120.439861,49.885063,0 -120.445532,49.882903,0 -120.446698,49.882552,0 -120.448077,49.882229,0 -120.449787,49.881973,0 -120.451534,49.881837,0 -120.453005,49.881826,0 -120.454377,49.881891,0 -120.454755,49.881937,0 -120.455972,49.882084,0 -120.457363,49.882349,0 -120.458882,49.882746,0 -120.460865,49.883465,0 -120.461062,49.883543,0 -120.461896,49.883954,0 -120.463703,49.884903,0 -120.466473,49.886323,0</coordinates>
+          </LineString>
         </Placemark>
       </Folder>
       <Folder>
