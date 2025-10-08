@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-08 03:12:03 UTC
+        Last updated: 2025-10-08 03:38:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (258)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1018,6 +1018,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.365475,49.348516,0 -124.367245,49.349041,0 -124.367848,49.349185,0 -124.368717,49.349314,0 -124.369415,49.34933,0 -124.369949,49.349289,0 -124.370407,49.349203,0 -124.371156,49.348996,0 -124.371175,49.348988,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Line painting planned between Cassiar Tunnel and Exit 27: E 1st Ave for 1.2 km (Vancouver). Starting Tue Oct 7 at 9:00 PM PDT until Wed Oct 8 at 5:00 AM PDT. Lane Closure. Last updated Tue Oct 7 at 8:28 PM PDT. (DBC-82392)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Cassiar Tunnel and Exit 27: E 1st Ave for 1.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-07T20:28:34-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82392
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.031731,49.279576,0 -123.031702,49.278279,0 -123.031689,49.277664,0 -123.031683,49.277432,0 -123.031678,49.277359,0 -123.031607,49.276368,0 -123.03141,49.275612,0 -123.031121,49.274868,0 -123.030644,49.274134,0 -123.030579,49.274044,0 -123.030429,49.273834,0 -123.028993,49.271824,0 -123.028721,49.271393,0 -123.027904,49.269717,0 -123.027828,49.269563,0 -123.027813,49.269531,0 -123.027735,49.269374,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -2914,32 +2940,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway), eastbound. Utility work between Hargreaves Rd and Red Pass Townsite Rd for 16.3 km (16 km east of Tete Jaune to 4 km west of Moose Lake). Until Mon Oct 20. From 8:00 AM to 5:00 PM PDT on weekdays. Watch for traffic control. Expect delays. Last updated Mon Oct 6 at 4:01 PM PDT. (DBC-82342)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Hargreaves Rd and Red Pass Townsite Rd for 16.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km west of Moose Lake to 16 km east of Tete Jaune&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T16:01:34-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82342
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.231119,53.034031,0 -119.230422,53.034117,0 -119.228995,53.034287,0 -119.22799,53.034301,0 -119.226832,53.034248,0 -119.225888,53.034138,0 -119.224586,53.033879,0 -119.220638,53.032942,0 -119.218953,53.032639,0 -119.217874,53.032469,0 -119.214549,53.032104,0 -119.212795,53.031911,0 -119.20977,53.031602,0 -119.209364,53.031577,0 -119.208939,53.031552,0 -119.208216,53.031548,0 -119.207943,53.031549,0 -119.207715,53.031548,0 -119.206876,53.031547,0 -119.205642,53.031611,0 -119.203937,53.031805,0 -119.203268,53.031912,0 -119.202569,53.032023,0 -119.201395,53.032275,0 -119.198646,53.033006,0 -119.197834,53.033136,0 -119.196881,53.033202,0 -119.195711,53.033131,0 -119.194607,53.0329,0 -119.194074,53.032732,0 -119.191528,53.031603,0 -119.191014,53.03142,0 -119.190348,53.03126,0 -119.188992,53.031007,0 -119.187587,53.030783,0 -119.186724,53.030582,0 -119.185924,53.030298,0 -119.184086,53.029549,0 -119.183296,53.029355,0 -119.18257,53.02923,0 -119.181567,53.029184,0 -119.178873,53.029341,0 -119.177599,53.029353,0 -119.172691,53.02901,0 -119.170419,53.028754,0 -119.16876,53.028336,0 -119.165871,53.027334,0 -119.164755,53.026968,0 -119.163739,53.026691,0 -119.15506,53.025364,0 -119.152448,53.024964,0 -119.151104,53.02469,0 -119.150024,53.024387,0 -119.14872,53.02391,0 -119.148181,53.02366,0 -119.146891,53.023063,0 -119.146169,53.022766,0 -119.1453,53.022462,0 -119.144182,53.022166,0 -119.141089,53.021605,0 -119.13822,53.020767,0 -119.138028,53.020727,0 -119.137359,53.020586,0 -119.136424,53.02046,0 -119.135358,53.020388,0 -119.134366,53.020394,0 -119.131578,53.020557,0 -119.130056,53.020483,0 -119.129043,53.020344,0 -119.124512,53.019596,0 -119.122574,53.01931,0 -119.121425,53.019223,0 -119.12036,53.019208,0 -119.119321,53.019241,0 -119.118101,53.01933,0 -119.107226,53.020534,0 -119.106197,53.020607,0 -119.10504,53.020639,0 -119.103863,53.020634,0 -119.102476,53.020562,0 -119.10201,53.02051,0 -119.100651,53.020357,0 -119.099404,53.02015,0 -119.096754,53.019522,0 -119.07586,53.014144,0 -119.073606,53.013564,0 -119.07234,53.013238,0 -119.071096,53.012885,0 -119.070312,53.012589,0 -119.069529,53.012208,0 -119.068976,53.011881,0 -119.067096,53.010596,0 -119.066299,53.010131,0 -119.065445,53.009697,0 -119.064428,53.009232,0 -119.063559,53.008895,0 -119.049742,53.004095,0 -119.048767,53.003803,0 -119.046628,53.003274,0 -119.045213,53.002983,0 -119.034309,53.001289,0 -119.033379,53.001084,0 -119.032412,53.000826,0 -119.031674,53.000593,0 -119.030758,53.000256,0 -119.02988,52.999847,0 -119.023412,52.996565,0 -119.015748,52.992675,0 -119.014108,52.991883,0 -119.013181,52.991501,0 -119.011919,52.991028,0 -119.010447,52.990539,0 -119.008005,52.989796,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between 248 St and Bradner Rd for 5.7 km (Langley - District). Until Sun Nov 30. From 8:30 PM to 8:00 AM PDT on weekends and from 8:30 PM to 5:00 AM PDT on weekdays. Lane closures in both directions in effect. Watch for traffic control. Next update time Fri Nov 28 at 2:00 PM PDT. Last updated Tue Oct 7 at 4:20 PM PDT. (DBC-79804)</name>
           <description>
     &lt;![CDATA[
@@ -2963,6 +2963,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.537041,49.118697,0 -122.530215,49.116002,0 -122.529425,49.115691,0 -122.528213,49.115212,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493315,49.101517,0 -122.493081,49.101427,0 -122.492806,49.101322,0 -122.491946,49.100985,0 -122.491271,49.10072,0 -122.489508,49.100028,0 -122.487088,49.099078,0 -122.486044,49.098669,0 -122.45954,49.088235,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), eastbound. Utility work between Hargreaves Rd and Red Pass Townsite Rd for 16.3 km (16 km east of Tete Jaune to 4 km west of Moose Lake). Until Mon Oct 20. From 8:00 AM to 5:00 PM PDT on weekdays. Watch for traffic control. Expect delays. Last updated Mon Oct 6 at 4:01 PM PDT. (DBC-82342)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hargreaves Rd and Red Pass Townsite Rd for 16.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km west of Moose Lake to 16 km east of Tete Jaune&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T16:01:34-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82342
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.231119,53.034031,0 -119.230422,53.034117,0 -119.228995,53.034287,0 -119.22799,53.034301,0 -119.226832,53.034248,0 -119.225888,53.034138,0 -119.224586,53.033879,0 -119.220638,53.032942,0 -119.218953,53.032639,0 -119.217874,53.032469,0 -119.214549,53.032104,0 -119.212795,53.031911,0 -119.20977,53.031602,0 -119.209364,53.031577,0 -119.208939,53.031552,0 -119.208216,53.031548,0 -119.207943,53.031549,0 -119.207715,53.031548,0 -119.206876,53.031547,0 -119.205642,53.031611,0 -119.203937,53.031805,0 -119.203268,53.031912,0 -119.202569,53.032023,0 -119.201395,53.032275,0 -119.198646,53.033006,0 -119.197834,53.033136,0 -119.196881,53.033202,0 -119.195711,53.033131,0 -119.194607,53.0329,0 -119.194074,53.032732,0 -119.191528,53.031603,0 -119.191014,53.03142,0 -119.190348,53.03126,0 -119.188992,53.031007,0 -119.187587,53.030783,0 -119.186724,53.030582,0 -119.185924,53.030298,0 -119.184086,53.029549,0 -119.183296,53.029355,0 -119.18257,53.02923,0 -119.181567,53.029184,0 -119.178873,53.029341,0 -119.177599,53.029353,0 -119.172691,53.02901,0 -119.170419,53.028754,0 -119.16876,53.028336,0 -119.165871,53.027334,0 -119.164755,53.026968,0 -119.163739,53.026691,0 -119.15506,53.025364,0 -119.152448,53.024964,0 -119.151104,53.02469,0 -119.150024,53.024387,0 -119.14872,53.02391,0 -119.148181,53.02366,0 -119.146891,53.023063,0 -119.146169,53.022766,0 -119.1453,53.022462,0 -119.144182,53.022166,0 -119.141089,53.021605,0 -119.13822,53.020767,0 -119.138028,53.020727,0 -119.137359,53.020586,0 -119.136424,53.02046,0 -119.135358,53.020388,0 -119.134366,53.020394,0 -119.131578,53.020557,0 -119.130056,53.020483,0 -119.129043,53.020344,0 -119.124512,53.019596,0 -119.122574,53.01931,0 -119.121425,53.019223,0 -119.12036,53.019208,0 -119.119321,53.019241,0 -119.118101,53.01933,0 -119.107226,53.020534,0 -119.106197,53.020607,0 -119.10504,53.020639,0 -119.103863,53.020634,0 -119.102476,53.020562,0 -119.10201,53.02051,0 -119.100651,53.020357,0 -119.099404,53.02015,0 -119.096754,53.019522,0 -119.07586,53.014144,0 -119.073606,53.013564,0 -119.07234,53.013238,0 -119.071096,53.012885,0 -119.070312,53.012589,0 -119.069529,53.012208,0 -119.068976,53.011881,0 -119.067096,53.010596,0 -119.066299,53.010131,0 -119.065445,53.009697,0 -119.064428,53.009232,0 -119.063559,53.008895,0 -119.049742,53.004095,0 -119.048767,53.003803,0 -119.046628,53.003274,0 -119.045213,53.002983,0 -119.034309,53.001289,0 -119.033379,53.001084,0 -119.032412,53.000826,0 -119.031674,53.000593,0 -119.030758,53.000256,0 -119.02988,52.999847,0 -119.023412,52.996565,0 -119.015748,52.992675,0 -119.014108,52.991883,0 -119.013181,52.991501,0 -119.011919,52.991028,0 -119.010447,52.990539,0 -119.008005,52.989796,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
