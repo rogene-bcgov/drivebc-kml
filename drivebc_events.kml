@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-09 20:02:23 UTC
+        Last updated: 2025-10-09 20:34:10 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (264)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5116,6 +5116,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Hicks Lake Rd, in both directions. Road maintenance work planned between Hicks Lake Rd and Harrison East Forest Service Rd in Harrison Hot Springs. Starting Tue Oct 14 at 7:00 AM PDT until Sat Nov 29 at 9:00 PM PDT. Single lane alternating traffic will be in effect. Last updated Thu Oct 9 at 1:17 PM PDT. (DBC-82466)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Hicks Lake Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hicks Lake Rd and Harrison East Forest Service Rd in Harrison Hot Springs&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-09T13:17:02-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82466
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.744673,49.350996,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (Malahat Highway), southbound. Electrical maintenance planned between Mill Bay Rd and Whittaker Rd for 1.0 km (3 to 4 km north of Malahat Summit). Starting Thu Oct 9 at 10:00 PM PDT until Fri Oct 10 at 5:00 AM PDT. Right lane will be closed. Last updated Mon Sep 22 at 11:51 AM PDT. (DBC-81876)</name>
           <description>
     &lt;![CDATA[
@@ -5140,6 +5165,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
             <tessellate>1</tessellate>
             <coordinates>-123.534985,48.601319,0 -123.535106,48.601651,0 -123.535266,48.602093,0 -123.53558,48.602954,0 -123.537329,48.607758,0 -123.537408,48.607974,0 -123.537454,48.6081,0 -123.537563,48.6084,0 -123.537687,48.608711,0 -123.538046,48.609449,0 -123.538172,48.609716,0 -123.538193,48.609767,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Quesnel-Hydraulic Road. Road maintenance work at 20 km east of Quesnel. Until Thu Mar 26, 2026. From 7:00 AM to 5:00 PM PDT on weekdays and Saturday. Single lane alternating traffic. Watch for traffic control. Crews will be doing slope stabilization work. Last updated Thu Oct 9 at 1:18 PM PDT. (DBC-82467)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Quesnel-Hydraulic Road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 20 km east of Quesnel&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-09T13:18:57-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82467
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.284009,52.878187,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), southbound. Construction work between Bobb Rd and Toll Rd for 14.1 km (Yale). Until Thu Oct 9 at 5:00 PM PDT. From 6:00 AM to 5:00 PM PDT on Tuesday, Wednesday and Thursday. Single lane alternating traffic. Cleaning out the Gabian wall at 1-97. Speed advisory set at 60 km/hr. Last updated Mon Oct 6 at 4:16 PM PDT. (DBC-82343)</name>
@@ -6595,31 +6645,6 @@ Last sailing from Galena Bay: 8:30pm. Next update time Mon Oct 13 at 11:00 AM PD
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-124.748379,48.97225,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, southbound. Road cleared between Porteau Cove Rd and Brunswick Beach Rd (Lions Bay). Last updated Thu Oct 9 at 12:49 PM PDT. (DBC-82462)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Brunswick Beach Rd and Porteau Cove Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Lions Bay&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-09T12:49:26-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82462
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.241869,49.474771,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
