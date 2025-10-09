@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-09 18:38:42 UTC
+        Last updated: 2025-10-09 19:02:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (264)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6672,6 +6672,32 @@ Last sailing from Galena Bay: 8:30pm. Next update time Mon Oct 13 at 11:00 AM PD
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Vehicle recovery between Tete Jaune Scales and Rearguard Falls Access for 3.1 km (1 to 4 km east of Tete Jaune). Until Fri Oct 10 at 9:00 PM PDT. Single lane alternating traffic. Last updated Thu Oct 9 at 11:47 AM PDT. (DBC-82463)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Tete Jaune Scales and Rearguard Falls Access for 3.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 to 1 km east of Tete Jaune&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-09T11:47:32-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82463
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.408525,52.977824,0 -119.406941,52.978221,0 -119.406548,52.978282,0 -119.405885,52.978386,0 -119.405224,52.978398,0 -119.404979,52.978403,0 -119.403762,52.978345,0 -119.402045,52.978206,0 -119.400906,52.97823,0 -119.400502,52.978292,0 -119.399689,52.978416,0 -119.399418,52.978468,0 -119.39532,52.979258,0 -119.394243,52.979389,0 -119.392959,52.979431,0 -119.391737,52.979378,0 -119.390723,52.979247,0 -119.389985,52.979107,0 -119.388987,52.978872,0 -119.382976,52.97746,0 -119.382019,52.977185,0 -119.380526,52.976667,0 -119.379727,52.976424,0 -119.378819,52.976224,0 -119.378086,52.976118,0 -119.377214,52.976093,0 -119.376482,52.976071,0 -119.36972,52.976136,0 -119.368201,52.976116,0 -119.367102,52.976025,0 -119.366209,52.975916,0 -119.365273,52.975747,0 -119.364435,52.975549,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 37A, in both directions. Watch for falling rocks between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km (13 km west of Meziadin to 11 km east of Stewart). Last updated Thu Oct 9 at 1:55 AM PDT. (DBC-74957)</name>
