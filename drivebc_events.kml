@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-10 15:02:35 UTC
+        Last updated: 2025-10-10 15:33:13 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (238)</name>
+      <name>🚗 Traffic Events (239)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5950,6 +5950,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
             <tessellate>1</tessellate>
             <coordinates>-121.590823,50.247841,0 -121.591746,50.247441,0 -121.59285,50.246936,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident at Exit 83: Mt Lehman Rd (Abbotsford). Right lane is blocked. Next update time Fri Oct 10 at 9:00 AM PDT. Last updated Fri Oct 10 at 8:21 AM PDT. (DBC-82490)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 83: Mt Lehman Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-10T08:21:46-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-10T09:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82490
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.381448,49.057631,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 8. Watch for falling rocks between the start of Highway 8 and Dot Ranch Cut-Off Rd West for 34.8 km (Spences Bridge to 29 km west of Merritt). There is debris on the road. Last updated Thu Oct 9 at 1:54 AM PDT. (DBC-72877)</name>
