@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-10 05:34:04 UTC
+        Last updated: 2025-10-10 06:02:36 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (249)</name>
+      <name>🚗 Traffic Events (251)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4881,6 +4881,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Maintenance between Cassiar Tunnel and Adanac St (Vancouver). Left lane is closed. Watch for traffic control. Next update time Fri Oct 10 at 4:00 AM PDT. Last updated Thu Oct 9 at 10:44 PM PDT. (DBC-82488)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Cassiar Tunnel and Adanac St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-09T22:44:15-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-10T04:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82488
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.031723,49.279219,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), eastbound. Utility work planned between Exit 173: Old Hope Princeton Way and First Avalanche Gate for 2.6 km (2 to 5 km east of Hope). Starting Mon Oct 20 until Fri Oct 31. From 8:00 AM to 3:00 PM PDT daily. Right lane will be closed. Crews will be working on the utility poles. Last updated Thu Oct 9 at 1:31 PM PDT. (DBC-82468)</name>
           <description>
     &lt;![CDATA[
@@ -6362,6 +6387,31 @@ Last sailing from Galena Bay: 8:30pm. Next update time Fri Oct 10 at 5:00 AM PDT
             <tessellate>1</tessellate>
             <coordinates>-119.408525,52.977824,0 -119.406941,52.978221,0 -119.406548,52.978282,0 -119.405885,52.978386,0 -119.405224,52.978398,0 -119.404979,52.978403,0 -119.403762,52.978345,0 -119.402045,52.978206,0 -119.400906,52.97823,0 -119.400502,52.978292,0 -119.399689,52.978416,0 -119.399418,52.978468,0 -119.39532,52.979258,0 -119.394243,52.979389,0 -119.392959,52.979431,0 -119.391737,52.979378,0 -119.390723,52.979247,0 -119.389985,52.979107,0 -119.388987,52.978872,0 -119.382976,52.97746,0 -119.382019,52.977185,0 -119.380526,52.976667,0 -119.379727,52.976424,0 -119.378819,52.976224,0 -119.378086,52.976118,0 -119.377214,52.976093,0 -119.376482,52.976071,0 -119.36972,52.976136,0 -119.368201,52.976116,0 -119.367102,52.976025,0 -119.366209,52.975916,0 -119.365273,52.975747,0 -119.364435,52.975549,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Needles Ferry, in both directions. Required maintenance between Needles and Fauquier. Expect delays. Next update time Fri Oct 10 at 3:00 AM PDT. Last updated Thu Oct 9 at 10:39 PM PDT. (DBC-82487)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Needles and Fauquier&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-09T22:39:43-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-10T03:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82487
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.090015,49.873017,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Lytton Ferry, in both directions. There is a mechanical issue between Lytton Ferry Start and Lytton Ferry End for 0.1 km (Lytton). Ferry route closed. Estimated reopening is Sun Oct 12 at 1:00 PM PDT. Next update time Sun Oct 12 at 8:00 AM PDT. Last updated Thu Oct 9 at 8:47 AM PDT. (DBC-82128)</name>
