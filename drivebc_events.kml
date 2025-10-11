@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-11 21:02:08 UTC
+        Last updated: 2025-10-11 21:31:23 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (228)</name>
+      <name>🚗 Traffic Events (229)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5593,30 +5593,54 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway), in both directions. Hazardous materials between 10th Ave and Boundary Rd for 1.6 km (Keremeos to 2 km west of Keremeos). Road closed. Detour in effect. Crews are on scene to a gas line rupture, Detour via Boundary Road to 10th Avenue. Watch for crews in area. Next update time Sat Oct 11 at 3:00 PM PDT. Last updated Sat Oct 11 at 1:50 PM PDT. (DBC-82522)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 73 and 248 St (Langley - District). Left lane is blocked. Next update time Sat Oct 11 at 3:00 PM PDT. Last updated Sat Oct 11 at 2:10 PM PDT. (DBC-82526)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 10th Ave and Boundary Rd for 1.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Keremeos to 2 km west of Keremeos&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 248 St and Exit 73&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-11T13:50:12-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-11T14:10:23-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-11T15:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82522
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82526
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.859696,49.205037,0 -119.858452,49.205126,0 -119.857782,49.205175,0 -119.856142,49.205293,0 -119.855855,49.205313,0 -119.853686,49.20531,0 -119.850046,49.205304,0 -119.84995,49.205304,0 -119.848701,49.205301,0 -119.84811,49.2053,0 -119.847327,49.205299,0 -119.846682,49.205298,0 -119.84612,49.205297,0 -119.842846,49.205291,0 -119.837323,49.205279,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-122.493904,49.101741,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Vehicle incident at Lions Gate Bridge (West Vancouver). Centre lane blocked. Northbound right lane is blocked, but traffic can use the centre lane to pass. Next update time Sat Oct 11 at 3:30 PM PDT. Last updated Sat Oct 11 at 2:23 PM PDT. (DBC-82527)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Lions Gate Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-11T14:23:52-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-11T15:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82527
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.13737,49.31659,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 8. Watch for falling rocks between the start of Highway 8 and Dot Ranch Cut-Off Rd West for 34.8 km (Spences Bridge to 29 km west of Merritt). There is debris on the road. Last updated Thu Oct 9 at 1:54 AM PDT. (DBC-72877)</name>
