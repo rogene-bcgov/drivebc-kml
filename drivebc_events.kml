@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-11 04:02:08 UTC
+        Last updated: 2025-10-11 04:34:18 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (237)</name>
+      <name>🚗 Traffic Events (236)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5137,32 +5137,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19 (Inland Island Highway), southbound. Bridge maintenance planned between Rumming Rd and Mallard Way Rd for 0.9 km (7 to 6 km north of Nanaimo). Starting Fri Oct 10 at 9:00 PM PDT until Sat Oct 11 at 1:00 AM PDT. Lane Closure. Last updated Fri Oct 10 at 2:38 PM PDT. (DBC-82505)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Rumming Rd and Mallard Way Rd for 0.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 7 km north of Nanaimo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-10T14:38:35-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82505
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.14179,49.249823,0 -124.141737,49.249803,0 -124.141369,49.249672,0 -124.141201,49.249613,0 -124.140464,49.249449,0 -124.139749,49.249369,0 -124.139373,49.249357,0 -124.138993,49.249345,0 -124.138019,49.249447,0 -124.137306,49.249609,0 -124.136327,49.249943,0 -124.136015,49.250059,0 -124.135535,49.250238,0 -124.133719,49.250917,0 -124.133638,49.250944,0 -124.132808,49.251225,0 -124.132737,49.251249,0 -124.131812,49.251514,0 -124.131738,49.251535,0 -124.131537,49.251571,0 -124.130747,49.25171,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 99, southbound. Construction work at Exit 32: Steveston Hwy (Richmond). Until Fri Oct 17 at 10:00 PM PDT. Entrance ramp will be partially closed. Watch for detour and traffic control. Next update time Fri Oct 17 at 10:00 PM PDT. Last updated Tue Oct 7 at 5:27 PM PDT. (DBC-82038)</name>
           <description>
     &lt;![CDATA[
@@ -5186,6 +5160,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <Point>
             <coordinates>-123.086593,49.133477,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19 (Inland Island Highway), southbound. Bridge maintenance between Rumming Rd and Mallard Way Rd for 0.9 km (7 to 6 km north of Nanaimo). Until Sat Oct 11 at 1:00 AM PDT. Lane Closure. Last updated Fri Oct 10 at 2:38 PM PDT. (DBC-82505)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Rumming Rd and Mallard Way Rd for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 7 km north of Nanaimo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-10T21:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82505
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.14179,49.249823,0 -124.141737,49.249803,0 -124.141369,49.249672,0 -124.141201,49.249613,0 -124.140464,49.249449,0 -124.139749,49.249369,0 -124.139373,49.249357,0 -124.138993,49.249345,0 -124.138019,49.249447,0 -124.137306,49.249609,0 -124.136327,49.249943,0 -124.136015,49.250059,0 -124.135535,49.250238,0 -124.133719,49.250917,0 -124.133638,49.250944,0 -124.132808,49.251225,0 -124.132737,49.251249,0 -124.131812,49.251514,0 -124.131738,49.251535,0 -124.131537,49.251571,0 -124.130747,49.25171,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Pacific Way, in both directions. Utility work between Hugh Allan Dr and Exit 367 in Kamloops. Until Fri Nov 14. From 7:00 AM to 5:00 PM PDT on weekdays. Lane closures in both directions in effect. Last updated Tue Sep 23 at 4:42 PM PDT. (DBC-81946)</name>
@@ -5446,7 +5446,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91, eastbound. Stalled vehicle between Exit 15 and Exit 11: Westminster Hwy (Richmond). Left lane is blocked. Next update time Fri Oct 10 at 9:30 PM PDT. Last updated Fri Oct 10 at 8:37 PM PDT. (DBC-82516)</name>
+          <name>Highway 91, eastbound. Stalled vehicle between Exit 15 and Exit 11: Westminster Hwy (Richmond). Left lane is blocked. Next update time Fri Oct 10 at 10:15 PM PDT. Last updated Fri Oct 10 at 9:30 PM PDT. (DBC-82516)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5458,8 +5458,8 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 15 and Exit 11: Westminster Hwy&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-10T20:37:41-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-10T21:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-10T21:30:47-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-10T22:15:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82516
@@ -5948,32 +5948,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Vehicle recovery between Tete Jaune Scales and Rearguard Falls Access for 3.1 km (1 to 4 km east of Tete Jaune). Until Fri Oct 10 at 9:00 PM PDT. Single lane alternating traffic. Last updated Thu Oct 9 at 11:47 AM PDT. (DBC-82463)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Tete Jaune Scales and Rearguard Falls Access for 3.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 to 1 km east of Tete Jaune&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-09T11:47:32-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82463
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.408525,52.977824,0 -119.406941,52.978221,0 -119.406548,52.978282,0 -119.405885,52.978386,0 -119.405224,52.978398,0 -119.404979,52.978403,0 -119.403762,52.978345,0 -119.402045,52.978206,0 -119.400906,52.97823,0 -119.400502,52.978292,0 -119.399689,52.978416,0 -119.399418,52.978468,0 -119.39532,52.979258,0 -119.394243,52.979389,0 -119.392959,52.979431,0 -119.391737,52.979378,0 -119.390723,52.979247,0 -119.389985,52.979107,0 -119.388987,52.978872,0 -119.382976,52.97746,0 -119.382019,52.977185,0 -119.380526,52.976667,0 -119.379727,52.976424,0 -119.378819,52.976224,0 -119.378086,52.976118,0 -119.377214,52.976093,0 -119.376482,52.976071,0 -119.36972,52.976136,0 -119.368201,52.976116,0 -119.367102,52.976025,0 -119.366209,52.975916,0 -119.365273,52.975747,0 -119.364435,52.975549,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Lytton Ferry, in both directions. There is a mechanical issue between Lytton Ferry Start and Lytton Ferry End for 0.1 km (Lytton). Ferry route closed. Estimated reopening is Sun Oct 12 at 1:00 PM PDT. Next update time Sun Oct 12 at 8:00 AM PDT. Last updated Thu Oct 9 at 8:47 AM PDT. (DBC-82128)</name>
