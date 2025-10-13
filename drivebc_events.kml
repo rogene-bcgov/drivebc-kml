@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-13 01:29:50 UTC
+        Last updated: 2025-10-13 02:13:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3039,32 +3039,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 5A, in both directions. Bridge maintenance between Cedar Creek Rd and Belfort Rd for 0.1 km (5 km north of Princeton). Until Sun Oct 12 at 7:00 PM PDT. From 7:00 AM to 7:00 PM PDT daily. Single lane alternating traffic. Expect minor delays. Watch for crews and equipment working. Last updated Wed Oct 1 at 6:59 AM PDT. (DBC-82164)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Cedar Creek Rd and Belfort Rd for 0.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km north of Princeton&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T07:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82164
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.513574,49.526511,0 -120.51361,49.526553,0 -120.513706,49.526688,0 -120.513782,49.526781,0 -120.513869,49.526862,0 -120.514118,49.527127,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 5, in both directions. Utility work between Avola East Frontage Rd S Access and Diamond Dr for 1.1 km (Avola). Single lane alternating traffic. Poleline maintenance. Telecom cable installation. Last updated Wed Sep 10 at 9:20 AM PDT. (DBC-81405)</name>
           <description>
     &lt;![CDATA[
@@ -5565,6 +5539,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.89981,50.62915,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Police incident at Exit 55: 192 St (Surrey). HOV lane closed. Next update time Sun Oct 12 at 8:00 PM PDT. Last updated Sun Oct 12 at 7:04 PM PDT. (DBC-82534)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 55: 192 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-12T19:04:30-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-12T20:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82534
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.692501,49.170161,0</coordinates>
           </Point>
         </Placemark>
       </Folder>
