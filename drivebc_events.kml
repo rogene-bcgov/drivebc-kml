@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-14 17:32:07 UTC
+        Last updated: 2025-10-14 18:02:41 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (226)</name>
+      <name>🚗 Traffic Events (230)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1017,6 +1017,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Mainwaring Rd. Utility work planned at Mactavish Rd in North Saanich. Starting Wed Oct 15 at 9:30 AM PDT until Wed Oct 15 at 4:00 PM PDT. Lane Closure. Watch for traffic control personnel. Last updated Tue Oct 14 at 10:38 AM PDT. (DBC-82563)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Mainwaring Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Mactavish Rd in North Saanich&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T10:38:59-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82563
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.416608,48.630231,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance between Westlund Rd and Dore Overhead Bridge for 1.3 km (2 to 3 km west of McBride). Until Fri Oct 31. Single lane alternating traffic. Watch for traffic control. Maximum 30 km/hr and 85 tons. Width restriction of 4.4m. No work from Sept 30-Oct 14. Last updated Tue Sep 23 at 10:33 AM PDT. (DBC-81525)</name>
           <description>
     &lt;![CDATA[
@@ -1066,6 +1091,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <Point>
             <coordinates>-121.35082,49.378191,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 101. Utility work between Gibsons Way and Seacot Way for 0.5 km (Gibsons). Until Fri Oct 31 at 8:00 PM PDT. Northbound lane closure. Watch for traffic control. Sewer rehabilitation. Last updated Tue Oct 14 at 10:48 AM PDT. (DBC-82564)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Gibsons Way and Seacot Way for 0.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Gibsons&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T10:48:42-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82564
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.513367,49.406889,0 -123.513395,49.407308,0 -123.513463,49.408488,0 -123.51348,49.408786,0 -123.513514,49.409416,0 -123.513569,49.410411,0 -123.513603,49.41106,0 -123.513653,49.411957,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 4, in both directions. Construction work between Hydro Hill West Creek and Kennedy River Rest Area for 2.3 km (25 km west of Sutton Pass Summit to 23 km east of Southern Boundary of Pacific Rim National Park). Until Fri Oct 31. Single lane alternating traffic. Watch for speed reduction and Trucks turning. Next update time Fri Oct 31 at 9:00 AM PDT. Last updated Wed Aug 20 at 9:36 AM PDT. (DBC-78891)</name>
@@ -5267,6 +5318,32 @@ North bound left lane will be closed. Watch for crew and equipment. Use caution 
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Material spill planned between Kwetsa Rd and Pemberton Farm Rd E for 0.5 km (Pemberton). Starting Wed Oct 15 until Wed Oct 22. From 8:00 AM to 3:00 PM PDT daily. Shoulder will be closed. Crews will be assessing and taking soil samples. Last updated Tue Oct 14 at 10:31 AM PDT. (DBC-82562)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; SPILL&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Pemberton Farm Rd E and Kwetsa Rd for 0.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Pemberton&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T10:31:52-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82562
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.760888,50.314418,0 -122.760825,50.314212,0 -122.760807,50.313941,0 -122.760962,50.312958,0 -122.76095,50.312681,0 -122.7608,50.312371,0 -122.760543,50.312073,0 -122.759614,50.311352,0 -122.758988,50.311114,0 -122.758353,50.31104,0 -122.757392,50.311038,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between Wilgress Lake Rest Area and Granby Rd for 26.1 km (2 km west of Eholt Summit to Grand Forks). Last updated Tue Apr 1 at 4:26 AM PDT. (DBC-73820)</name>
           <description>
     &lt;![CDATA[
@@ -5315,6 +5392,31 @@ North bound left lane will be closed. Watch for crew and equipment. Use caution 
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.432976,52.815713,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Needles Ferry, in both directions. There will be required maintenance between Needles Ferry and Needles Ferry (Needles). Starting Sat Oct 18 at 10:00 PM PDT until Sun Oct 19 at 5:00 AM PDT. Ferry route will be closed. Next update time Sun Oct 19 at 5:00 AM PDT. Last updated Tue Oct 14 at 10:52 AM PDT. (DBC-82565)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Needles Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Needles Ferry and Needles Ferry&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Needles&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T10:52:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-19T05:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82565
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.089084,49.872871,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
