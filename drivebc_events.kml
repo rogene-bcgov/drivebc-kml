@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-14 04:02:18 UTC
+        Last updated: 2025-10-14 04:35:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (220)</name>
+      <name>🚗 Traffic Events (222)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5010,6 +5010,57 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.479074,53.155476,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Exit 21: Mountain Hwy and Exit 22: Lillooet Rd for 0.8 km (North Vancouver - District). Left lane is blocked. Next update time Mon Oct 13 at 10:15 PM PDT. Last updated Mon Oct 13 at 9:30 PM PDT. (DBC-82544)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 21: Mountain Hwy and Exit 22: Lillooet Rd for 0.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-13T21:30:33-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-13T22:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82544
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.037311,49.315384,0 -123.037096,49.315239,0 -123.036545,49.314931,0 -123.036266,49.314791,0 -123.035864,49.314627,0 -123.035526,49.31447,0 -123.035268,49.314384,0 -123.034948,49.314269,0 -123.034559,49.314116,0 -123.033916,49.313927,0 -123.033043,49.31361,0 -123.032491,49.313418,0 -123.032042,49.313262,0 -123.031641,49.313124,0 -123.031138,49.312948,0 -123.030521,49.312708,0 -123.029629,49.312417,0 -123.028835,49.312026,0 -123.028577,49.311769,0 -123.028491,49.311684,0 -123.028327,49.311489,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Vehicle incident between Keith Rd and Exit 14: Capilano Rd (West Vancouver). Right lane is blocked. Next update time Mon Oct 13 at 10:30 PM PDT. Last updated Mon Oct 13 at 9:32 PM PDT. (DBC-82545)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Keith Rd and Exit 14: Capilano Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-13T21:32:15-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-13T22:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82545
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.118835,49.332513,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
