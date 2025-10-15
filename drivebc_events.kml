@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-15 00:06:57 UTC
+        Last updated: 2025-10-15 00:46:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (232)</name>
+      <name>🚗 Traffic Events (230)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3828,6 +3828,31 @@ Oct 26 10pm - 5am: NB Slow lane, Oct 27 10pm</name>
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, in both directions. Construction work planned at Exit 32: Steveston Hwy (Richmond). Starting Sun Oct 19 until Sat Oct 25. From 11:00 PM to 4:30 AM PDT daily. Road closure planned. Detour planned. Next update time Sat Oct 25 at 4:30 AM PDT. Last updated Tue Oct 14 at 5:23 PM PDT. (DBC-82586)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 32: Steveston Hwy&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T17:23:05-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-25T04:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82586
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086593,49.133477,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Hicks Lake Rd, in both directions. Road maintenance work between Hicks Lake Rd and Harrison East Forest Service Rd in Harrison Hot Springs. Until Sat Nov 29 at 9:00 PM PDT. From 7:00 AM to 9:00 PM PDT daily. Single lane alternating traffic. Last updated Thu Oct 9 at 1:54 PM PDT. (DBC-82466)</name>
           <description>
     &lt;![CDATA[
@@ -4984,32 +5009,6 @@ Oct 26 10pm - 5am: NB Slow lane, Oct 27 10pm</name>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Line painting between Daisy Lake Rd and Alice Lake Rd for 8.5 km (Squamish). Until Tue Oct 14 at 5:30 PM PDT. Left lane is closed. Last updated Fri Oct 10 at 3:55 PM PDT. (DBC-82508)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Alice Lake Rd and Daisy Lake Rd for 8.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Squamish&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T07:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82508
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.13269,49.79284,0 -123.132687,49.792853,0 -123.132316,49.79472,0 -123.131989,49.795399,0 -123.131368,49.796121,0 -123.130942,49.79643,0 -123.130187,49.796828,0 -123.129,49.797207,0 -123.126723,49.797688,0 -123.126651,49.797703,0 -123.124739,49.798161,0 -123.124121,49.79837,0 -123.123278,49.79878,0 -123.122574,49.799288,0 -123.122043,49.799867,0 -123.121609,49.800707,0 -123.121515,49.80118,0 -123.121547,49.801776,0 -123.121781,49.802587,0 -123.122655,49.805624,0 -123.12272,49.806348,0 -123.122577,49.807071,0 -123.12156,49.809267,0 -123.12133,49.809991,0 -123.121311,49.810693,0 -123.12148,49.811369,0 -123.122106,49.812928,0 -123.122451,49.813459,0 -123.122785,49.813829,0 -123.123178,49.814131,0 -123.123552,49.814338,0 -123.123868,49.814512,0 -123.12463,49.814773,0 -123.12595,49.815127,0 -123.12663,49.815364,0 -123.127245,49.815665,0 -123.127625,49.815972,0 -123.127947,49.816313,0 -123.128804,49.817722,0 -123.13059,49.820131,0 -123.131146,49.820735,0 -123.132549,49.822046,0 -123.133026,49.822634,0 -123.133516,49.823408,0 -123.134053,49.824671,0 -123.135185,49.828625,0 -123.135308,49.829398,0 -123.135173,49.833255,0 -123.135128,49.834542,0 -123.135151,49.835401,0 -123.135219,49.835666,0 -123.135375,49.836263,0 -123.135761,49.837092,0 -123.13633,49.837895,0 -123.137069,49.838641,0 -123.138092,49.839416,0 -123.139427,49.840426,0 -123.139834,49.840734,0 -123.142248,49.842562,0 -123.143734,49.843687,0 -123.143854,49.843778,0 -123.143948,49.843831,0 -123.144602,49.844199,0 -123.144945,49.844347,0 -123.147204,49.845091,0 -123.148033,49.845435,0 -123.14853,49.845713,0 -123.148934,49.845968,0 -123.149429,49.846398,0 -123.149858,49.846927,0 -123.150105,49.847325,0 -123.150251,49.847773,0 -123.150309,49.847952,0 -123.150435,49.84892,0 -123.150695,49.850923,0 -123.150966,49.85219,0 -123.150993,49.852313,0 -123.151226,49.853401,0 -123.15156,49.85419,0 -123.151973,49.854746,0 -123.152516,49.855255,0 -123.152703,49.855388,0 -123.15294,49.855557,0 -123.153321,49.855785,0 -123.154545,49.856518,0 -123.15475,49.85664,0 -123.155131,49.856952,0 -123.155592,49.857481,0 -123.155687,49.857661,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 22, in both directions. Construction work planned between Junction Highway 3B (Trail) and 23rd St for 23.5 km (Trail to Castlegar). Starting Sat Oct 18 until Mon Oct 20. From 7:00 AM to 9:00 PM PDT daily. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Sun Oct 12 at 3:55 PM PDT. (DBC-82066)</name>
           <description>
     &lt;![CDATA[
@@ -5773,7 +5772,7 @@ Oct 26 10pm - 5am: NB Slow lane, Oct 27 10pm</name>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 15 (Pacific Highway), southbound. Vehicle incident at Golden Ears Way (Surrey). Right lane is blocked. Expect delays due to congestion. Next update time Tue Oct 14 at 5:00 PM PDT. Last updated Tue Oct 14 at 4:08 PM PDT. (DBC-82577)</name>
+          <name>Highway 15 (Pacific Highway), southbound. Vehicle incident at Golden Ears Way (Surrey). Right lane is blocked. Expect delays due to congestion. Next update time Tue Oct 14 at 6:00 PM PDT. Last updated Tue Oct 14 at 5:18 PM PDT. (DBC-82577)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5785,8 +5784,8 @@ Oct 26 10pm - 5am: NB Slow lane, Oct 27 10pm</name>
     &lt;b&gt;Location:&lt;/b&gt; At Golden Ears Way&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T16:08:16-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-14T17:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T17:18:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-14T18:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82577
@@ -5824,57 +5823,7 @@ Oct 26 10pm - 5am: NB Slow lane, Oct 27 10pm</name>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 91, southbound. Road cleared at Alex Fraser Bridge (Delta). Expect delays due to heavy congestion. Last updated Tue Oct 14 at 4:46 PM PDT. (DBC-82580)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T16:46:04-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82580
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.943309,49.160815,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, eastbound. Vehicle incident between Exit 15 and Exit 11: Westminster Hwy (Richmond). Shoulder closed. Emergency vehicles on scene. Expect delays due to congestion. Next update time Tue Oct 14 at 5:15 PM PDT. Last updated Tue Oct 14 at 4:51 PM PDT. (DBC-82584)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 15 and Exit 11: Westminster Hwy&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T16:51:06-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-14T17:15:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82584
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.994187,49.169499,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 7B (Mary Hill Bypass), eastbound. Vehicle incident between Shaughnessy St and Pitt River Rd for 2.2 km (Port Coquitlam). Left lane is blocked. Next update time Tue Oct 14 at 5:30 PM PDT. Last updated Tue Oct 14 at 4:35 PM PDT. (DBC-82585)</name>
+          <name>Highway 7B (Mary Hill Bypass), eastbound. Vehicle incident between Shaughnessy St and Pitt River Rd for 2.2 km (Port Coquitlam). Left lane is blocked. Next update time Tue Oct 14 at 6:00 PM PDT. Last updated Tue Oct 14 at 5:08 PM PDT. (DBC-82585)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5886,8 +5835,8 @@ Oct 26 10pm - 5am: NB Slow lane, Oct 27 10pm</name>
     &lt;b&gt;Location:&lt;/b&gt; Between Shaughnessy St and Pitt River Rd for 2.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Coquitlam&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T16:35:21-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-14T17:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T17:08:22-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-14T18:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82585
