@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-15 04:02:15 UTC
+        Last updated: 2025-10-15 04:35:33 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (229)</name>
+      <name>🚗 Traffic Events (228)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -685,7 +685,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 17, in both directions. Road maintenance work planned between 72 St and 80 St Conn (Delta). Starting Tue Oct 14 at 9:00 PM PDT until Wed Oct 15 at 4:00 AM PDT. Lane closures in both directions planned. Watch for traffic control personnel. Last updated Tue Oct 14 at 9:45 AM PDT. (DBC-82559)</name>
+          <name>Highway 17, in both directions. Road maintenance work between 72 St and 80 St Conn (Delta). Until Wed Oct 15 at 4:00 AM PDT. Lane closures in both directions in effect. Watch for traffic control. Last updated Tue Oct 14 at 9:45 AM PDT. (DBC-82559)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -697,7 +697,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between 72 St and 80 St Conn&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T09:45:21-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T21:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3062,31 +3062,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance planned at Second Narrows Bridge (North Vancouver - District). Starting Tue Oct 14 at 10:00 PM PDT until Wed Oct 15 at 5:00 AM PDT. Left lane will be closed. Centre lane will be closed. Expect delays. Bridge joint work. Next update time Wed Oct 15 at 5:00 AM PDT. Last updated Tue Oct 14 at 2:24 PM PDT. (DBC-82573)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T14:24:21-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-15T05:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82573
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.026346,49.295359,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 5 (Coquihalla South), northbound. Bridge maintenance at Exit 183: Othello Rd (6 km north of Hope). From 5:00 AM to 7:30 PM PDT on Tuesday, Wednesday and Thursday. Right lane closed. Last updated Mon Jul 28 at 10:39 AM PDT. (DBC-79808)</name>
           <description>
     &lt;![CDATA[
@@ -3134,6 +3109,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-129.508505,56.099207,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Bridge maintenance at Second Narrows Bridge (North Vancouver - District). Until Wed Oct 15 at 5:00 AM PDT. Left lane is closed. Centre lane closed. Expect delays. Bridge joint work. Next update time Wed Oct 15 at 5:00 AM PDT. Last updated Tue Oct 14 at 9:02 PM PDT. (DBC-82573)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T21:02:54-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-15T05:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82573
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.026346,49.295359,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5769,31 +5769,6 @@ Oct 26 10pm - 5am: NB Slow lane, Oct 27 10pm</name>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 15 (Pacific Highway), southbound. Vehicle incident at Golden Ears Way (Surrey). Right lane is blocked. Expect delays due to congestion. Next update time Tue Oct 14 at 9:00 PM PDT. Last updated Tue Oct 14 at 8:45 PM PDT. (DBC-82577)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Golden Ears Way&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T20:45:41-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-14T21:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82577
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.734617,49.17632,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
