@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-16 17:02:30 UTC
+        Last updated: 2025-10-16 17:34:00 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (241)</name>
+      <name>🚗 Traffic Events (243)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2169,6 +2169,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 26, eastbound. Maintenance planned between Cinderella Rd and 72 C Rd (27 km west of Wells). Starting Mon Oct 20 until Sun Nov 30. From 6:00 AM to 6:00 PM PDT on weekdays and Saturday. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Culvert replacement will be taking place. Last updated Thu Oct 16 at 10:06 AM PDT. (DBC-82643)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 26&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Cinderella Rd and 72 C Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 27 km west of Wells&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-16T10:06:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82643
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.90763,53.062769,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, in both directions. Construction work between Fountain Valley Rd and Sallus Creek Rd for 8.6 km (18 to 10 km north of Lillooet). Until Tue Nov 25 at 7:00 PM PDT. From 7:00 AM to 7:00 PM PDT on weekdays and Saturday. Single lane alternating traffic. Watch for traffic control. Ten Mile Slide area. Next update time Tue Nov 25 at 7:00 PM PDT. Last updated Tue Sep 30 at 9:27 AM PDT. (DBC-82147)</name>
           <description>
     &lt;![CDATA[
@@ -2219,6 +2244,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
             <tessellate>1</tessellate>
             <coordinates>-117.63164,49.315277,0 -117.631484,49.315666,0 -117.631284,49.316172,0 -117.630868,49.317224,0 -117.630649,49.31776,0 -117.630645,49.317767,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 14, westbound. Utility work planned at Connie Rd (Sooke). Starting Thu Oct 16 at 10:00 PM PDT until Fri Oct 17 at 6:00 AM PDT. Right lane will be closed. Watch for traffic control personnel. Last updated Thu Oct 16 at 10:24 AM PDT. (DBC-82644)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 14&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Connie Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sooke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-16T10:24:59-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82644
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.619728,48.397418,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Fraser Hwy, in both directions. Construction work at Hwy 10 in Langley - City. Until Fri Jan 30, 2026 at 8:00 PM PDT. Fraser Highway left turn lane to Highway 10 closed. Last updated Mon Sep 8 at 9:56 AM PDT. (DBC-80099)</name>
@@ -4935,7 +4985,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Maintenance planned at Cassiar Tunnel (Vancouver). Starting Sun Oct 19 until Fri Dec 5. From 8:00 PM to 5:00 AM PDT daily. Lane Closure. Watch for traffic control personnel. Last updated Wed Oct 15 at 12:07 PM PDT. (DBC-82615)</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Maintenance planned at Cassiar Tunnel (Vancouver). Starting Sun Oct 19 until Fri Dec 5. From 8:00 PM to 5:00 AM PDT daily. Lane Closure. Watch for traffic control personnel. Last updated Thu Oct 16 at 10:27 AM PDT. (DBC-82615)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4947,7 +4997,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; At Cassiar Tunnel&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-15T12:07:51-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-16T10:27:19-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
