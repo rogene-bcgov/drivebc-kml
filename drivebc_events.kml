@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-17 22:02:18 UTC
+        Last updated: 2025-10-17 22:33:42 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (242)</name>
+      <name>🚗 Traffic Events (241)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -838,6 +838,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <Point>
             <coordinates>-124.132087,54.589539,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), eastbound. Road construction work planned between Dewdney Trunk Rd and 203 St for 0.1 km (Maple Ridge). Starting Fri Oct 17 at 9:00 PM PDT until Sat Oct 18 at 6:00 AM PDT. Roadway will be reduced to one lane. Watch for traffic control personnel. Expect delays. Last updated Fri Oct 17 at 3:05 PM PDT. (DBC-82678)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Dewdney Trunk Rd and 203 St for 0.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Maple Ridge&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T15:05:17-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82678
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.663952,49.221033,0 -122.663607,49.2209,0 -122.66266,49.220536,0 -122.662561,49.220505,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 19A (Island Highway), in both directions. Road construction work between Lee Rd and Drew Rd for 0.5 km (2 to 1 km south of Qualicum Beach). Until Fri Nov 28 at 5:00 PM PDT. Single lane alternating traffic. Possible delays. Watch for traffic control. Last updated Wed Oct 8 at 4:24 PM PDT. (DBC-81975)</name>
@@ -5708,32 +5734,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between Wilgress Lake Rest Area and Granby Rd for 26.1 km (2 km west of Eholt Summit to Grand Forks). Last updated Tue Apr 1 at 4:26 AM PDT. (DBC-73820)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Wilgress Lake Rest Area and Granby Rd for 26.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Grand Forks to 2 km west of Eholt Summit&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-04-01T04:26:17-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-73820
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.534306,49.145445,0 -118.534553,49.145377,0 -118.534915,49.1452,0 -118.535332,49.145013,0 -118.535816,49.144568,0 -118.53629,49.143595,0 -118.536542,49.143158,0 -118.536968,49.142646,0 -118.537798,49.141897,0 -118.538167,49.1415,0 -118.538341,49.141187,0 -118.538443,49.140866,0 -118.538444,49.140835,0 -118.538458,49.140503,0 -118.538423,49.140294,0 -118.538345,49.140078,0 -118.538105,49.139658,0 -118.537581,49.139007,0 -118.537156,49.138357,0 -118.537047,49.13807,0 -118.53701,49.137824,0 -118.537026,49.137556,0 -118.537132,49.137197,0 -118.540034,49.131805,0 -118.540503,49.131051,0 -118.540745,49.130736,0 -118.541041,49.13044,0 -118.541419,49.130166,0 -118.541876,49.129912,0 -118.542488,49.129622,0 -118.542653,49.129547,0 -118.543753,49.129047,0 -118.544395,49.128544,0 -118.544813,49.128016,0 -118.545159,49.127287,0 -118.545184,49.127235,0 -118.545382,49.126466,0 -118.54538,49.125964,0 -118.545231,49.125392,0 -118.544816,49.12479,0 -118.544223,49.1243,0 -118.542264,49.12303,0 -118.542229,49.123008,0 -118.54064,49.121977,0 -118.537846,49.120593,0 -118.537449,49.120325,0 -118.537349,49.120258,0 -118.53679,49.119803,0 -118.536597,49.119612,0 -118.536401,49.119416,0 -118.535501,49.118249,0 -118.535266,49.117896,0 -118.535052,49.11749,0 -118.534248,49.115328,0 -118.534149,49.115063,0 -118.533991,49.114636,0 -118.533419,49.113101,0 -118.533389,49.112953,0 -118.533314,49.112593,0 -118.532895,49.110572,0 -118.532855,49.110376,0 -118.532707,49.109662,0 -118.532527,49.109225,0 -118.53238,49.109012,0 -118.532262,49.108844,0 -118.532206,49.108763,0 -118.530592,49.106802,0 -118.529644,49.10548,0 -118.529615,49.105439,0 -118.529268,49.104897,0 -118.529048,49.104386,0 -118.528642,49.103445,0 -118.52836,49.102312,0 -118.528332,49.101798,0 -118.528308,49.101354,0 -118.528377,49.099999,0 -118.528393,49.099693,0 -118.52849,49.097784,0 -118.528535,49.096909,0 -118.52888,49.096028,0 -118.529337,49.095409,0 -118.529855,49.094926,0 -118.530412,49.094528,0 -118.531352,49.094068,0 -118.54264,49.089626,0 -118.544597,49.08843,0 -118.545901,49.086958,0 -118.546297,49.085617,0 -118.546318,49.085546,0 -118.546372,49.085361,0 -118.546298,49.084521,0 -118.546233,49.083788,0 -118.545896,49.082985,0 -118.54441,49.079441,0 -118.544394,49.079393,0 -118.544017,49.078269,0 -118.543997,49.078208,0 -118.54355,49.074912,0 -118.543562,49.074153,0 -118.543729,49.073652,0 -118.544017,49.073201,0 -118.545207,49.071972,0 -118.545631,49.071406,0 -118.545871,49.070798,0 -118.546082,49.06807,0 -118.546459,49.066951,0 -118.547357,49.065035,0 -118.547643,49.064036,0 -118.547668,49.063416,0 -118.54769,49.062877,0 -118.547436,49.060297,0 -118.547357,49.059498,0 -118.547305,49.058968,0 -118.547034,49.056217,0 -118.546975,49.055882,0 -118.546639,49.054464,0 -118.546314,49.053637,0 -118.545988,49.052809,0 -118.545816,49.052371,0 -118.543905,49.049058,0 -118.5439,49.04905,0 -118.543751,49.048628,0 -118.543564,49.047079,0 -118.543316,49.046396,0 -118.543231,49.046272,0 -118.542991,49.045922,0 -118.542505,49.045443,0 -118.540066,49.043603,0 -118.539356,49.042827,0 -118.539118,49.042396,0 -118.538856,49.041919,0 -118.53862,49.041079,0 -118.538616,49.040408,0 -118.538615,49.040219,0 -118.538615,49.040207,0 -118.538995,49.037087,0 -118.539187,49.035504,0 -118.539189,49.035493,0 -118.539299,49.034706,0 -118.540194,49.028312,0 -118.540615,49.025299,0 -118.541016,49.022432,0 -118.541096,49.021861,0 -118.541005,49.020438,0 -118.539865,49.01386,0 -118.539684,49.012893,0 -118.539463,49.010004,0 -118.539439,49.009797,0 -118.539307,49.007968,0 -118.539035,49.007124,0 -118.53824,49.005918,0 -118.537432,49.004858,0 -118.536301,49.003373,0 -118.536256,49.003314,0 -118.535664,49.002807,0 -118.534877,49.002383,0 -118.534208,49.002167,0 -118.53416,49.002152,0 -118.533239,49.001992,0 -118.53238,49.001978,0 -118.531358,49.002121,0 -118.530459,49.002402,0 -118.529812,49.002729,0 -118.529156,49.003248,0 -118.528725,49.003856,0 -118.527791,49.005707,0 -118.527321,49.006326,0 -118.526662,49.006956,0 -118.525719,49.007612,0 -118.525218,49.007876,0 -118.520023,49.010001,0 -118.519956,49.010028,0 -118.518748,49.010459,0 -118.517573,49.010748,0 -118.51632,49.010896,0 -118.514527,49.01092,0 -118.50656,49.010915,0 -118.505797,49.010923,0 -118.505208,49.010988,0 -118.505076,49.011028,0 -118.504618,49.011138,0 -118.504163,49.011326,0 -118.503777,49.011532,0 -118.503366,49.011837,0 -118.5027,49.012479,0 -118.500509,49.014673,0 -118.499511,49.015667,0 -118.499466,49.015702,0 -118.4993,49.015825,0 -118.498994,49.016048,0 -118.498636,49.016223,0 -118.498284,49.016362,0 -118.497804,49.016487,0 -118.493274,49.017244,0 -118.492009,49.01753,0 -118.489935,49.018223,0 -118.488168,49.018807,0 -118.48598,49.019405,0 -118.482605,49.020235,0 -118.477422,49.021502,0 -118.475876,49.021891,0 -118.475301,49.022036,0 -118.475254,49.022052,0 -118.474722,49.022234,0 -118.474616,49.022281,0 -118.474137,49.022455,0 -118.473914,49.022537,0 -118.470766,49.023962,0 -118.467914,49.025223,0 -118.4646,49.026669,0 -118.464588,49.026674,0 -118.463409,49.02713,0 -118.462212,49.027595,0 -118.461042,49.028049,0 -118.459871,49.028519,0 -118.459739,49.028586,0 -118.459223,49.028838,0 -118.459089,49.028903,0 -118.458874,49.029008,0 -118.458763,49.029047,0 -118.458555,49.029119,0 -118.457954,49.029265,0 -118.457832,49.029294,0 -118.457515,49.029333,0 -118.455617,49.029567,0 -118.45295,49.029878,0 -118.452611,49.029939,0 -118.45165,49.030169,0 -118.450415,49.030501,0 -118.449078,49.030865,0 -118.448502,49.031017,0 -118.447741,49.031217,0 -118.446462,49.031555,0 -118.445291,49.031865,0 -118.445199,49.031889,0 -118.444921,49.031962,0 -118.44419,49.032155,0 -118.444109,49.032176,0 -118.443919,49.032226,0 -118.44264,49.032573,0 -118.441353,49.032914,0 -118.440076,49.033239,0 -118.438902,49.033556,0 -118.437752,49.03387,0 -118.436603,49.034174,0 -118.436327,49.034241,0 -118.436287,49.034251,0 -118.435727,49.034388,0 -118.435659,49.034404,0 -118.435455,49.034454,0 -118.435269,49.0345,0 -118.434827,49.034514,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection. Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road. Next update time Tue Apr 14, 2026 at 9:00 AM PDT. Last updated Mon Apr 14 at 9:09 AM PDT. (DBC-23443)</name>
           <description>
     &lt;![CDATA[
@@ -6058,31 +6058,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-124.748379,48.97225,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Road cleared at Exit 21: Mountain Hwy (North Vancouver - District). Last updated Fri Oct 17 at 2:50 PM PDT. (DBC-82275)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 21: Mountain Hwy&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T14:50:57-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82275
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.037311,49.315384,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
