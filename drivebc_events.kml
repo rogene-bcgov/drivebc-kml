@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-17 18:37:29 UTC
+        Last updated: 2025-10-17 19:02:02 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (243)</name>
+      <name>🚗 Traffic Events (242)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -248,6 +248,32 @@
           <Point>
             <coordinates>-123.838308,49.115589,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Utility work planned between 72 St and Exit 28 for 2.1 km (Delta). Starting Thu Oct 23 until Sun Oct 26. From 10:00 PM to 4:30 AM PDT daily. Right lane will be closed. Last updated Fri Oct 17 at 11:36 AM PDT. (DBC-82672)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 72 St and Exit 28 for 2.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T11:36:48-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82672
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.019085,49.093942,0 -123.023082,49.09472,0 -123.024136,49.094925,0 -123.026296,49.095345,0 -123.026387,49.095363,0 -123.026551,49.095394,0 -123.026691,49.095422,0 -123.027399,49.095559,0 -123.028104,49.095703,0 -123.028875,49.095893,0 -123.029787,49.096173,0 -123.029966,49.096242,0 -123.030682,49.096515,0 -123.031229,49.096756,0 -123.039738,49.100612,0 -123.046193,49.103517,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance at Rockingham Creek Bridge (7 km west of British Columbia and Alberta Border). Until Fri Oct 31. From 7:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Tue Oct 14 at 8:30 AM PDT. (DBC-82556)</name>
@@ -2397,31 +2423,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
             <tessellate>1</tessellate>
             <coordinates>-121.276138,50.390232,0 -121.276029,50.390162,0 -121.275662,50.389925,0 -121.27521,50.389743,0 -121.275112,50.389703,0 -121.274408,50.389587,0 -121.271746,50.389329,0 -121.270763,50.389172,0 -121.268247,50.38877,0 -121.268018,50.388734,0 -121.267335,50.388592,0 -121.26665,50.388404,0 -121.266271,50.388225,0 -121.266247,50.388203,0 -121.266081,50.388052,0 -121.265949,50.387798,0 -121.265933,50.387658,0 -121.265941,50.387586,0 -121.265986,50.387209,0 -121.266168,50.385403,0 -121.266145,50.385015,0 -121.266052,50.3846,0 -121.265877,50.384281,0 -121.26563,50.383961,0 -121.265238,50.383558,0 -121.264672,50.383063,0 -121.263961,50.382587,0 -121.262817,50.382107,0 -121.261647,50.381671,0 -121.25913,50.380734,0 -121.258648,50.380487,0 -121.258326,50.380243,0 -121.258043,50.37989,0 -121.257559,50.378982,0 -121.256712,50.377828,0 -121.25574,50.37711,0 -121.255548,50.376852,0 -121.255452,50.376537,0 -121.255408,50.375511,0 -121.255369,50.374597,0 -121.255247,50.374262,0 -121.255041,50.37397,0 -121.254773,50.373765,0 -121.253909,50.373377,0 -121.25326,50.373227,0 -121.251549,50.372975,0 -121.251107,50.37291,0 -121.25043,50.372782,0 -121.249788,50.372597,0 -121.249215,50.372341,0 -121.24908,50.372246,0 -121.248427,50.371789,0 -121.247783,50.371198,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97. Shoulder maintenance between Sage Mesa Dr and Wharf St (3 km north of Penticton). Until Fri Oct 17 at 12:00 PM PDT. Right lane closed. Watch for traffic control. Last updated Thu Oct 16 at 12:53 PM PDT. (DBC-82650)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Sage Mesa Dr and Wharf St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km north of Penticton&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T07:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82650
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-119.617722,49.518787,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 8. Construction work between the start of Highway 8 and Porcupine Ridge Rd for 0.3 km (Spences Bridge). Until Sat Nov 15 at 5:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Site 22 - obey traffic signals. Last updated Mon Oct 6 at 8:52 AM PDT. (DBC-80709)</name>
@@ -5655,7 +5656,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Little Fort Ferry, in both directions. There is a mechanical issue between Little Fort Ferry and the end of Little Fort Ferry (Little Fort). Until Fri Oct 17 at 4:30 PM PDT. Ferry route closed. Next update time Fri Oct 17 at 4:30 PM PDT. Last updated Thu Oct 16 at 4:35 PM PDT. (DBC-82658)</name>
+          <name>Little Fort Ferry, in both directions. Road cleared between Little Fort Ferry and the end of Little Fort Ferry (Little Fort). Last updated Fri Oct 17 at 11:47 AM PDT. (DBC-82658)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5667,9 +5668,9 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Little Fort Ferry and the end of Little Fort Ferry&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Little Fort&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-16T16:35:28-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-17T16:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T11:47:27-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82658
     ]]&gt;
@@ -6109,31 +6110,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway). Vehicle incident at Taylor Bridge (Taylor). Single lane alternating traffic. Bridge damaged. Clean up in progress. Expect delays. Next update time Fri Oct 17 at 12:30 PM MST. Last updated Fri Oct 17 at 9:25 AM MST. (DBC-82665)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Taylor Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Taylor&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T09:25:51-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-17T12:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82665
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-120.672229,56.137458,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Usk Ferry. Ferry is currently out of service between Usk Ferry and the end of Usk Ferry (Usk). Due to low river level. Cable car in service. Next update time Wed Oct 22 at 11:30 AM PDT. Last updated Wed Oct 15 at 1:30 PM PDT. (DBC-82611)</name>
           <description>
     &lt;![CDATA[
@@ -6159,7 +6135,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 4, westbound. Vehicle incident between Koen Rd and Chalet Rd (7 km east of Cathedral Grove). Watch for traffic control. Westbound traffic is able to get by through using an eastbound lane. Next update time Fri Oct 17 at 11:30 AM PDT. Last updated Fri Oct 17 at 10:38 AM PDT. (DBC-82669)</name>
+          <name>Highway 4, westbound. Vehicle incident between Koen Rd and Chalet Rd (7 km east of Cathedral Grove). Watch for traffic control. Westbound traffic is able to get by through using an eastbound lane. Next update time Fri Oct 17 at 12:30 PM PDT. Last updated Fri Oct 17 at 11:38 AM PDT. (DBC-82669)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6171,8 +6147,8 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Chalet Rd and Koen Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 km east of Cathedral Grove&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T10:38:06-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-17T11:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T11:38:14-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-17T12:30:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82669
