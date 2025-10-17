@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-17 17:02:15 UTC
+        Last updated: 2025-10-17 17:33:15 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3902,31 +3902,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Main St. Construction work planned at Mountain Hwy in North Vancouver - District. Starting Fri Oct 17 at 10:00 AM PDT until Fri Oct 17 at 2:00 PM PDT. Lane closures in both directions planned. Expect delays. Last updated Fri Oct 17 at 7:52 AM PDT. (DBC-82470)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Main St&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Mountain Hwy in North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T07:52:15-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82470
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.030351,49.304902,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 5 (Coquihalla North), in both directions. Utility work planned at Exit 315: Helmer Rd (7 km south of Surrey Lake Summit). Starting Mon Oct 20 until Fri Oct 24. From 7:00 AM to 5:00 PM PDT on weekdays. Lane Closure. Watch for traffic control personnel. Expect delays. Last updated Wed Oct 15 at 11:35 AM PDT. (DBC-82612)</name>
           <description>
     &lt;![CDATA[
@@ -3976,6 +3951,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
             <tessellate>1</tessellate>
             <coordinates>-120.13415,50.663555,0 -120.131322,50.662943,0 -120.130066,50.662671,0 -120.129839,50.662622,0 -120.129603,50.662552,0 -120.128469,50.662214,0 -120.128349,50.662178,0 -120.128183,50.662114,0 -120.127353,50.661794,0 -120.127227,50.661745,0 -120.127128,50.6617,0 -120.126964,50.661626,0 -120.126472,50.661403,0 -120.125084,50.660761,0 -120.124831,50.660663,0 -120.123464,50.660129,0 -120.123425,50.660114,0 -120.123287,50.66007,0 -120.123019,50.659983,0 -120.122309,50.659755,0 -120.120838,50.659425,0 -120.119753,50.659248,0 -120.119079,50.659174,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Main St. Construction work at Mountain Hwy in North Vancouver - District. Until Fri Oct 17 at 2:00 PM PDT. Lane closures in both directions in effect. Expect delays. Last updated Fri Oct 17 at 7:52 AM PDT. (DBC-82470)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Main St&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Mountain Hwy in North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T10:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82470
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.030351,49.304902,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 99, northbound. Utility work between Callaghan Valley Rd and Soo Valley Rd for 30.4 km (Whistler to 5 km south of Pemberton). Until Fri Oct 31. Shoulder closed. Last updated Mon Oct 6 at 5:13 PM PDT. (DBC-82348)</name>
@@ -4567,6 +4567,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.605993,49.401939,0 -119.606015,49.407517,0 -119.606026,49.411027,0 -119.606028,49.411856,0 -119.60598,49.412392,0 -119.605918,49.413074,0 -119.605746,49.413764,0 -119.605652,49.414143,0 -119.605535,49.414613,0 -119.605379,49.415242,0 -119.605282,49.416164,0 -119.605289,49.41628,0 -119.605332,49.417048,0 -119.605441,49.417809,0 -119.605616,49.418425,0 -119.605827,49.419056,0 -119.606327,49.420546,0 -119.606807,49.42198,0 -119.607089,49.422483,0 -119.607719,49.423241,0 -119.608185,49.423802,0 -119.608254,49.423885,0 -119.608641,49.424535,0 -119.60874,49.424747,0 -119.608865,49.425013,0 -119.609095,49.425503,0 -119.609113,49.425541,0 -119.611416,49.430484,0 -119.611566,49.430783,0 -119.611904,49.431456,0 -119.6123,49.432019,0 -119.613712,49.433662,0 -119.614126,49.434248,0 -119.614365,49.434655,0 -119.614526,49.434989,0 -119.614664,49.435277,0 -119.61482,49.435699,0 -119.614929,49.436125,0 -119.615408,49.438993,0 -119.615457,49.439289,0 -119.615393,49.439868,0 -119.614888,49.441497,0 -119.614525,49.442666,0 -119.614206,49.443693,0 -119.613921,49.444436,0 -119.61371,49.444792,0 -119.613369,49.445196,0 -119.613054,49.445525,0 -119.612408,49.446199,0 -119.612127,49.446627,0 -119.61193,49.447041,0 -119.611813,49.447383,0 -119.611729,49.447748,0 -119.611631,49.448379,0 -119.611424,49.449067,0 -119.611403,49.449148,0 -119.611292,49.449474,0 -119.611073,49.449831,0 -119.610833,49.450108,0 -119.610814,49.450131,0 -119.610514,49.450368,0 -119.610127,49.450595,0 -119.609716,49.450765,0 -119.609213,49.450928,0 -119.608946,49.450995,0 -119.60796,49.451241,0 -119.604654,49.452066,0 -119.603618,49.452304,0 -119.602526,49.452446,0 -119.600263,49.452636,0 -119.599995,49.452658,0 -119.598227,49.452806,0 -119.597825,49.45284,0 -119.597715,49.45285,0 -119.597233,49.45289,0 -119.597152,49.452897,0 -119.597064,49.452904,0 -119.59693,49.452919,0 -119.596244,49.455905,0 -119.595499,49.459142,0 -119.595493,49.45917,0 -119.595391,49.459615,0 -119.595377,49.459669,0 -119.595289,49.460013,0 -119.594616,49.462658,0 -119.594254,49.464359,0 -119.594074,49.465401,0 -119.594025,49.465861,0 -119.594028,49.466331,0 -119.594153,49.467275,0 -119.594608,49.46896,0 -119.594992,49.470381,0 -119.595407,49.472147,0 -119.596177,49.474623,0 -119.596498,49.475846,0 -119.596559,49.476314,0 -119.596584,49.477058,0 -119.596588,49.477174,0 -119.59659,49.477237,0 -119.596611,49.477873,0 -119.596666,49.478256,0 -119.596748,49.478495,0 -119.597132,49.479049,0 -119.597148,49.479072,0 -119.598329,49.480575,0 -119.598493,49.480783,0 -119.598857,49.481128,0 -119.599284,49.481534,0 -119.599688,49.48185,0 -119.600001,49.482058,0 -119.600138,49.482149,0 -119.600441,49.48235,0 -119.602401,49.483523,0 -119.60451,49.484784,0 -119.604603,49.48484,0 -119.604916,49.485027,0 -119.60542,49.485418,0 -119.605601,49.485638,0 -119.605723,49.485877,0 -119.605789,49.486251,0 -119.605715,49.486605,0 -119.605413,49.487348,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 14, eastbound. Utility work between Lazzar Rd and Ludlow Rd for 3.1 km (Sooke). Until Fri Oct 31 at 5:00 AM PDT. Shoulder closed. Lane Closure. BC Hydro crews will be working on their poles. Last updated Fri Oct 17 at 10:06 AM PDT. (DBC-82670)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 14&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Lazzar Rd and Ludlow Rd for 3.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sooke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T10:06:36-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82670
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.696839,48.387715,0 -123.694233,48.387515,0 -123.692916,48.387446,0 -123.691925,48.387412,0 -123.691714,48.387405,0 -123.690872,48.387377,0 -123.690137,48.387352,0 -123.687465,48.387266,0 -123.686201,48.387211,0 -123.685696,48.387252,0 -123.68526,48.387389,0 -123.683541,48.388212,0 -123.682725,48.38897,0 -123.682259,48.389262,0 -123.681864,48.389434,0 -123.681456,48.389558,0 -123.679232,48.389966,0 -123.678536,48.390132,0 -123.676223,48.390844,0 -123.67474,48.390852,0 -123.67174,48.390916,0 -123.671295,48.39094,0 -123.669304,48.391045,0 -123.66911,48.391052,0 -123.66757,48.391105,0 -123.667194,48.391118,0 -123.66653,48.391152,0 -123.665592,48.391199,0 -123.665227,48.391262,0 -123.665198,48.391267,0 -123.664801,48.39139,0 -123.664009,48.391677,0 -123.663769,48.391781,0 -123.662457,48.392348,0 -123.662342,48.392397,0 -123.662181,48.392472,0 -123.661756,48.392668,0 -123.660995,48.393019,0 -123.660715,48.393148,0 -123.660305,48.393337,0 -123.65976,48.39356,0 -123.658384,48.39398,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5441,31 +5467,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-120.201922,51.422461,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Colleymount Rd, in both directions. Washout at 53.5km near Burns Lake. Single lane alternating traffic. Partial road washout, obey signage. Next update time Fri Oct 17 at 10:00 AM PDT. Last updated Fri Sep 26 at 9:47 AM PDT. (DBC-71008)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Colleymount Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At 53.5km near Burns Lake&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-09-26T09:47:40-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-17T10:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-71008
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-126.479614,53.985412,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
