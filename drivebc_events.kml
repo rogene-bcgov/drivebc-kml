@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-18 03:37:52 UTC
+        Last updated: 2025-10-18 04:02:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -840,32 +840,6 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), eastbound. Road construction work planned between Dewdney Trunk Rd and 203 St for 0.1 km (Maple Ridge). Starting Fri Oct 17 at 9:00 PM PDT until Sat Oct 18 at 6:00 AM PDT. Roadway will be reduced to one lane. Watch for traffic control personnel. Expect delays. Last updated Fri Oct 17 at 3:05 PM PDT. (DBC-82678)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Dewdney Trunk Rd and 203 St for 0.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Maple Ridge&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T15:05:17-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82678
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.663952,49.221033,0 -122.663607,49.2209,0 -122.66266,49.220536,0 -122.662561,49.220505,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 19A (Island Highway), in both directions. Road construction work between Lee Rd and Drew Rd for 0.5 km (2 to 1 km south of Qualicum Beach). Until Fri Nov 28 at 5:00 PM PDT. Single lane alternating traffic. Possible delays. Watch for traffic control. Last updated Wed Oct 8 at 4:24 PM PDT. (DBC-81975)</name>
           <description>
     &lt;![CDATA[
@@ -889,6 +863,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.365475,49.348516,0 -124.367245,49.349041,0 -124.367848,49.349185,0 -124.368717,49.349314,0 -124.369415,49.34933,0 -124.369949,49.349289,0 -124.370407,49.349203,0 -124.371156,49.348996,0 -124.371175,49.348988,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), eastbound. Road construction work between Dewdney Trunk Rd and 203 St for 0.1 km (Maple Ridge). Until Sat Oct 18 at 6:00 AM PDT. Roadway reduced to one lane. Watch for traffic control. Expect delays. Last updated Fri Oct 17 at 3:05 PM PDT. (DBC-82678)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Dewdney Trunk Rd and 203 St for 0.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Maple Ridge&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T21:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82678
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.663952,49.221033,0 -122.663607,49.2209,0 -122.66266,49.220536,0 -122.662561,49.220505,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5472,6 +5472,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Stalled vehicle between 72 St and Exit 20 (Delta). Left turn lane closed. Next update time Fri Oct 17 at 9:30 PM PDT. Last updated Fri Oct 17 at 8:44 PM PDT. (DBC-82680)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 20 and 72 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T20:44:22-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-17T21:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82680
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.963112,49.090598,0 -122.963126,49.090598,0 -122.963477,49.090597,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, southbound. Material spill between Kwetsa Rd and Pemberton Farm Rd E for 0.5 km (Pemberton). Until Wed Oct 22. From 8:00 AM to 3:00 PM PDT daily. Shoulder closed. Crews will be assessing and taking soil samples. Last updated Tue Oct 14 at 10:31 AM PDT. (DBC-82562)</name>
           <description>
     &lt;![CDATA[
@@ -5495,32 +5521,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.760888,50.314418,0 -122.760825,50.314212,0 -122.760807,50.313941,0 -122.760962,50.312958,0 -122.76095,50.312681,0 -122.7608,50.312371,0 -122.760543,50.312073,0 -122.759614,50.311352,0 -122.758988,50.311114,0 -122.758353,50.31104,0 -122.757392,50.311038,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, southbound. Stalled vehicle between 72 St and Exit 20 (Delta). Left turn lane closed. Next update time Fri Oct 17 at 8:30 PM PDT. Last updated Fri Oct 17 at 6:57 PM PDT. (DBC-82680)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 20 and 72 St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T18:57:53-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-17T20:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82680
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.963112,49.090598,0 -122.963126,49.090598,0 -122.963477,49.090597,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6137,7 +6137,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Tailings Rd and Cook St for 68.9 km (14 km east of Salmo to Creston). Last updated Fri Oct 17 at 3:58 PM PDT. (DBCRCON-223755)</name>
+          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Tailings Rd and Cook St for 68.9 km (14 km east of Salmo to Creston). Last updated Fri Oct 17 at 8:53 PM PDT. (DBCRCON-223755)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6149,7 +6149,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Tailings Rd and Cook St for 68.9 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Creston to 14 km east of Salmo&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T15:58:35-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-17T20:53:38-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
