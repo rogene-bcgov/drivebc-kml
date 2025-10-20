@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-20 17:02:26 UTC
+        Last updated: 2025-10-20 17:33:36 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (247)</name>
+      <name>🚗 Traffic Events (249)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1919,6 +1919,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 19A (Island Highway), in both directions. Utility work planned between 20th St and 19th St for 0.1 km (Courtenay). Starting Sun Oct 26 at 7:00 PM PDT until Fri Oct 31 at 7:00 AM PDT. Watch for traffic control personnel. Single lane alternating traffic will be in effect. Last updated Mon Oct 20 at 9:56 AM PDT. (DBC-82735)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 20th St and 19th St for 0.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Courtenay&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-20T09:56:15-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82735
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.985803,49.681479,0 -124.98732,49.682401,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1A. Construction work at Pattullo Bridge (New Westminster). Activities related to Pattullo Bridge replacement project. Watch for crews. Road closures to be posted as they are confirmed. Visit https://www.Pattullobridgereplacement.Ca/ or call the 24/7 hotline at 1-844-815-6149 for more info. Next update time Thu Oct 30 at 12:00 PM PDT. Last updated Wed Oct 15 at 11:56 AM PDT. (DBC-80168)</name>
           <description>
     &lt;![CDATA[
@@ -1991,6 +2017,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-122.133088,52.11757,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Shoulder maintenance between Alice Lake Rd and Daisy Lake Rd (Squamish). Until Fri Oct 31 at 9:00 PM PDT. Shoulder closed. Centre lane closed. Watch for traffic control. No work on Fridays after 12 Noon. Next update time Fri Oct 31 at 9:00 PM PDT. Last updated Mon Oct 20 at 10:27 AM PDT. (DBC-82736)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Alice Lake Rd and Daisy Lake Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Squamish&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-20T10:27:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-31T21:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82736
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.133028,49.791138,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
