@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-22 16:02:43 UTC
+        Last updated: 2025-10-22 16:38:49 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1354,7 +1354,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between Coates Rd and Caen Rd for 0.7 km (18 km west of Tappen to 17 km east of Chase). Starting Wed Oct 22 at 9:00 AM PDT until Wed Oct 22 at 3:00 PM PDT. Last updated Wed Oct 1 at 1:32 PM PDT. (DBC-82184)</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Coates Rd and Caen Rd for 0.7 km (18 km west of Tappen to 17 km east of Chase). Until Wed Oct 22 at 3:00 PM PDT. Last updated Wed Oct 1 at 1:32 PM PDT. (DBC-82184)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1366,7 +1366,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Coates Rd and Caen Rd for 0.7 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 17 km east of Chase to 18 km west of Tappen&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-01T13:32:22-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-22T09:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2812,31 +2812,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway), in both directions. Construction work between 115 Creek Campground and Callison Rd (166 km north of Fort Nelson). Until Thu Oct 23 at 5:00 PM MST. Single lane alternating traffic. Last updated Wed Oct 22 at 8:45 AM MST. (DBC-82788)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 115 Creek Campground and Callison Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 166 km north of Fort Nelson&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-22T08:45:26-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82788
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-125.027278,58.797639,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 19A (Island Highway). Utility work between Sailor Rd and York Rd for 1.1 km (5 to 6 km south of Campbell River). Until Thu Oct 23 at 3:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Last updated Wed Oct 8 at 2:30 PM PDT. (DBC-82422)</name>
           <description>
     &lt;![CDATA[
@@ -3038,6 +3013,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-120.28098,49.872024,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 4. Electrical maintenance planned at Adelaide St (Port Alberni). Starting Thu Oct 23 at 8:00 AM PDT until Thu Oct 23 at 4:00 PM PDT. Watch for traffic control personnel. Last updated Wed Oct 22 at 9:03 AM PDT. (DBC-82791)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Adelaide St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Alberni&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-22T09:03:46-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82791
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.808341,49.25947,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
