@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-24 20:34:38 UTC
+        Last updated: 2025-10-24 21:02:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -5171,6 +5171,31 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 37, in both directions. Construction work between Stikine Health Ctr and Rabid Grizzly Rest Area (13 km north of Dease Lake). Until Fri Oct 24 at 2:00 PM PDT. Expect delays. Single lane alternating traffic 24/7. Last updated Fri Oct 24 at 1:49 PM PDT. (DBC-82797)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 37N&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Stikine Health Ctr and Rabid Grizzly Rest Area&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 km north of Dease Lake&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-24T13:49:50-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82797
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-130.02327,58.55305,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 7 (Lougheed Highway). Construction work between Seabird Island Rd and Johnson Slough Rest Area for 11.6 km (Kent). Until Fri Oct 31. From 7:00 AM to 5:00 PM PDT daily. Lane Closure. Last updated Fri Oct 10 at 2:33 PM PDT. (DBC-82503)</name>
           <description>
     &lt;![CDATA[
@@ -5983,31 +6008,6 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.271589,49.375989,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, southbound. Road cleared at Annacis Channel Bridge (New Westminster). Last updated Fri Oct 24 at 1:17 PM PDT. (DBC-82848)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Annacis Channel Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; New Westminster&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-24T13:17:41-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82848
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.955613,49.176057,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
