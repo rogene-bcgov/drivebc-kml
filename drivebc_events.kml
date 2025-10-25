@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-25 00:06:14 UTC
+        Last updated: 2025-10-25 00:46:32 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (256)</name>
+      <name>🚗 Traffic Events (253)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -174,31 +174,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Construction work between Friesen Rd and Venables Valley Rd (10 km east of Spences Bridge). Until Fri Oct 24 at 5:30 PM PDT. Lane Closure. Expect minor delays. Last updated Fri Oct 3 at 8:44 PM PDT. (DBC-82281)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Friesen Rd and Venables Valley Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 10 km east of Spences Bridge&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-20T09:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82281
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.286349,50.507899,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97. Pavement patching is planned. Between Pine Centre Rd and 22nd Ave for 0.2 km (Prince George). Starting Wed Oct 29 at 12:00 PM PDT until Wed Oct 29 at 6:00 PM PDT. Lane closures in both directions planned. Watch for traffic control personnel. Last updated Fri Oct 24 at 6:14 AM PDT. (DBC-82838)</name>
           <description>
     &lt;![CDATA[
@@ -223,6 +198,31 @@
             <tessellate>1</tessellate>
             <coordinates>-122.777396,53.899725,0 -122.77795,53.899864,0 -122.778215,53.89993,0 -122.778263,53.899941,0 -122.778492,53.900001,0 -122.778778,53.900114,0 -122.779474,53.90039,0 -122.779564,53.900436,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>East Sooke Rd, in both directions. Utility work planned between Sutiacum Road and Speyside Rd. Starting Tue Nov 4 at 9:00 AM PDT until Tue Nov 4 at 5:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Oct 24 at 5:32 PM PDT. (DBC-82858)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; East Sooke Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Sutiacum Road and Speyside Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-24T17:32:41-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82858
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.690137,48.387352,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 5 (Coquihalla South), southbound. Utility work planned between Exit 228: Coquihalla Lakes Rd and Exit 183: Othello Rd for 44.9 km (9 km north of Coquihalla Summit to 6 km north of Hope). Starting Thu Nov 6 at 8:00 AM PDT until Thu Nov 6 at 4:00 PM PDT. Right lane will be closed. Last updated Wed Oct 22 at 3:05 PM PDT. (DBC-82800)</name>
@@ -2989,56 +2989,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Fulford-Ganges Rd.. Paving operations at Cranberry Rd. Until Fri Oct 24 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT on weekdays. Speed reduced to 30 km/hr through work zone. Please respect traffic control personnel and construction signage. Last updated Wed Oct 1 at 4:25 PM PDT. (DBC-82195)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Fulford-Ganges Rd.&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Cranberry Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-20T07:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82195
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.493848,48.839305,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Peaceview Rd. Road maintenance work between Moore Pit Road and 247 Road. Until Fri Oct 24 at 5:00 PM MST. Intermittent single lane alternating traffic. Please slow down when passing crews and equipment. Last updated Fri Sep 26 at 9:23 AM MST. (DBC-82054)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Peaceview Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Moore Pit Road and 247 Road&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-06T07:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82054
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.623043,56.150021,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>[Truncated] Highway 93, in both directions. Utility work between West Boundary of Kootenay National Park and McKay Creek Maint for 1.4 km (4 to 3 km north of Radium Hot Springs). Until Fri Oct 31. From 7:00 AM to 7:00 PM MDT daily. Expect 15 - minute delays. Periodic single lane traffic and intermittent closures. Periodic weekend &amp; overnight work. Lane diversions onto shoulder. Lane width and speed limit reductions. Wide loads report to Parks Canada for approval. Last updated Thu Oct 9 at 11:54</name>
           <description>
     &lt;![CDATA[
@@ -5324,32 +5274,6 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 10, in both directions. Utility work between 232 St and 72 Ave for 0.3 km (Langley - District). Until Fri Oct 24 at 5:00 PM PDT. From 7:00 AM to 5:00 PM PDT daily. Single lane alternating traffic. Shoulder closed. Intermittent single lane alternating traffic between 9 AM to 3 PM. Last updated Mon Oct 13 at 5:54 PM PDT. (DBC-82541)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 232 St and 72 Ave for 0.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-14T07:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82541
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.581692,49.130882,0 -122.581652,49.130944,0 -122.581636,49.130968,0 -122.58149,49.131285,0 -122.581486,49.131313,0 -122.581444,49.131595,0 -122.581429,49.132116,0 -122.581408,49.132867,0 -122.581384,49.133566,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 8. Construction work between the start of Highway 8 and 14 Mile Ranch Rd for 2.7 km (9 to 12 km east of Spences Bridge). Until Fri Nov 28. Single lane alternating traffic. SITE 9/10. Next update time Fri Nov 28 at 9:00 AM PDT. Last updated Mon Oct 13 at 2:10 PM PDT. (DBC-74796)</name>
           <description>
     &lt;![CDATA[
@@ -5455,7 +5379,7 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91, eastbound. Vehicle incident between No 6 Rd and No 7 Rd (Richmond). Roadway reduced to one lane. Expect Major delays due to congestion. Next update time Fri Oct 24 at 5:00 PM PDT. Last updated Fri Oct 24 at 4:08 PM PDT. (DBC-82855)</name>
+          <name>Highway 91, eastbound. Road cleared between No 6 Rd and No 7 Rd (Richmond). Last updated Fri Oct 24 at 5:29 PM PDT. (DBC-82855)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5467,8 +5391,8 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between No 6 Rd and No 7 Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-24T16:08:12-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-24T17:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-24T17:29:35-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82855
@@ -5476,11 +5400,11 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-123.050389,49.177422,0</coordinates>
+            <coordinates>-123.05039,49.177422,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
-          <name>Holberg Road , in both directions. Landslide at Holberg Road in Port Hardy. Road closed ahead. Assessment in progress. Next update time Fri Oct 24 at 5:00 PM PDT. Last updated Fri Oct 24 at 9:28 AM PDT. (DBC-82834)</name>
+          <name>Holberg Road , in both directions. Landslide at Holberg Road in Port Hardy. Road closed ahead. Assessment in progress. Next update time Fri Oct 31 at 5:00 PM PDT. Last updated Fri Oct 24 at 5:18 PM PDT. (DBC-82834)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5492,8 +5416,8 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; At Holberg Road in Port Hardy&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-24T09:28:11-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-24T17:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-24T17:18:50-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-31T17:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82834
@@ -5580,20 +5504,20 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (on Haida Gwaii). Vehicle incident between E Cedar Ave and Naikoon Pk for 9.2 km (Port Clements). Road closed. Assessment in progress. Watch for traffic control. Next update time Fri Oct 24 at 5:15 PM PDT. Last updated Fri Oct 24 at 4:17 PM PDT. (DBC-82857)</name>
+          <name>Highway 16 (on Haida Gwaii), in both directions. Vehicle incident between E Cedar Ave and Naikoon Pk for 9.2 km (Port Clements). Road closed. Watch for traffic control. Next update time Fri Oct 24 at 8:00 PM PDT. Last updated Fri Oct 24 at 5:34 PM PDT. (DBC-82857)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
     &lt;b&gt;Location:&lt;/b&gt; Between E Cedar Ave and Naikoon Pk for 9.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Clements&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-24T16:17:55-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-24T17:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-24T17:34:38-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-24T20:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-82857
