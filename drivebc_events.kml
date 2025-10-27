@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-27 02:18:37 UTC
+        Last updated: 2025-10-27 03:00:59 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (243)</name>
+      <name>🚗 Traffic Events (245)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -5740,7 +5740,7 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Westside Rd, in both directions. Tree on road between Denison Rd and Shelter Cove for 1.4 km (14 to 15 km east of West Kelowna). Road closed. Detour not available. Next update time Mon Oct 27 at 1:00 AM PDT. Last updated Sun Oct 26 at 7:14 PM PDT. (DBC-82878)</name>
+          <name>Westside Rd, in both directions. Tree on road between Denison Rd and Shelter Cove for 1.4 km (14 to 15 km east of West Kelowna). Road closed. Detour not available. Next update time Mon Oct 27 at 1:00 AM PDT. Last updated Sun Oct 26 at 7:39 PM PDT. (DBC-82878)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5752,7 +5752,7 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between Denison Rd and Shelter Cove for 1.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 15 to 14 km east of West Kelowna&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-26T19:14:14-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-26T19:39:06-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-27T01:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
@@ -6364,6 +6364,61 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.497415,48.444246,0 -123.497089,48.444633,0 -123.496511,48.44575,0 -123.495964,48.446805,0 -123.495817,48.44709,0 -123.495809,48.447104,0 -123.495702,48.447316,0 -123.495628,48.447462,0 -123.495511,48.447792,0 -123.49541,48.44808,0 -123.495306,48.448511,0</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Chain Up Events</name>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between West Avalanche Gate and East Avalanche Gate for 0.1 km (5 to 6 km east of Kootenay Pass).</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between West Avalanche Gate and East Avalanche Gate&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 5 km east of Kootenay Pass&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-26T19:38:24-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-224066
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CHAIN_UP</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.001326,49.095686,0 -117.000804,49.095756,0 -117.000087,49.095852,0 -116.999993,49.095866,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between West Avalanche Gate and East Avalanche Gate for 0.1 km (9 km west of Kootenay Pass).</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between West Avalanche Gate and East Avalanche Gate&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 km west of Kootenay Pass&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-26T19:38:24-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-224065
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CHAIN_UP</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.141373,49.037791,0 -117.141141,49.038679,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
