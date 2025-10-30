@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-30 20:02:19 UTC
+        Last updated: 2025-10-30 20:34:57 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -5227,6 +5227,32 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), northbound. Tree pruning planned between Brenton-Page Rd and Cedar Rd for 0.6 km (4 to 5 km north of Ladysmith). Starting Wed Nov 26 at 9:00 AM PDT until Thu Nov 27 at 3:00 PM PDT. Expect minor delays. Right lane will be closed. Watch for traffic control personnel. WATCH FOR SPEEED REDUCTION + WORK CREWS. Last updated Thu Oct 30 at 1:03 PM PDT. (DBC-83019)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Brenton-Page Rd and Cedar Rd for 0.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 to 4 km north of Ladysmith&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T13:03:02-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83019
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.862413,49.026991,0 -123.863394,49.028156,0 -123.863659,49.028584,0 -123.863896,49.02908,0 -123.863986,49.029443,0 -123.864028,49.030222,0 -123.86394,49.030658,0 -123.863897,49.030772,0 -123.863603,49.031556,0 -123.863063,49.032995,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work planned between Maze Lake Rd and Johnson Mill Rd for 13.6 km (11 to 25 km south of 150 Mile House). Starting Tue Nov 11 at 8:00 AM PDT until Fri Dec 12 at 5:00 PM PDT. Expect minor delays. Last updated Thu Oct 23 at 11:08 AM PDT. (DBC-82823)</name>
           <description>
     &lt;![CDATA[
@@ -5688,31 +5714,6 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
             <tessellate>1</tessellate>
             <coordinates>-123.70482,48.888332,0 -123.704856,48.888366,0 -123.705232,48.888655,0 -123.705975,48.889181,0 -123.710402,48.892315,0 -123.710842,48.89266,0 -123.711902,48.893604,0 -123.718369,48.900007,0 -123.718588,48.900223,0 -123.718779,48.900412,0 -123.719735,48.901359,0 -123.719943,48.901564,0 -123.720063,48.901682,0 -123.720096,48.901716,0 -123.721167,48.902776,0 -123.721469,48.903047,0 -123.721832,48.903346,0 -123.722103,48.903573,0 -123.725568,48.906074,0 -123.72654,48.906709,0 -123.727156,48.907046,0 -123.727907,48.907397,0 -123.72802,48.907441,0 -123.728448,48.907606,0 -123.72905,48.907827,0 -123.729268,48.907908,0 -123.730027,48.908131,0 -123.73523,48.909402,0 -123.736891,48.909918,0 -123.7381,48.910437,0 -123.738986,48.910866,0 -123.740197,48.911554,0 -123.740698,48.911888,0 -123.741378,48.912402,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Mount Seymour Road, in both directions. Shoulder maintenance at Cabin Trail. Until Thu Oct 30 at 1:30 PM PDT. Last updated Thu Oct 30 at 9:46 AM PDT. (DBC-83008)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Mount Seymour Road&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Cabin Trail&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T09:46:59-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83008
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.947878,49.359698,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Utility work planned between 19 mile Rd and Enchanted Forest Ftg Rd for 2.8 km (26 to 29 km west of Revelstoke). Starting Mon Nov 17 until Fri Nov 21. From 10:30 AM to 2:30 PM PDT on weekdays. Single lane alternating traffic will be in effect. Speed reduced to 60km/hr. Last updated Wed Oct 29 at 12:01 PM PDT. (DBC-82955)</name>
