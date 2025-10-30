@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-30 07:02:23 UTC
+        Last updated: 2025-10-30 07:32:49 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,9 +120,34 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (263)</name>
+      <name>🚗 Traffic Events (264)</name>
       <Folder>
         <name>Construction Events</name>
+        <Placemark>
+          <name>Highway 17, westbound. Maintenance between Grace Rd and Highway 91 Connector (Delta). Until Thu Oct 30 at 4:45 AM PDT. Left lane is blocked. Watch for traffic control. Work being done on the Highway 17 westbound ramp to the Highway 91 Connector. Last updated Thu Oct 30 at 12:17 AM PDT. (DBC-82991)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Highway 91 Connector and Grace Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T00:17:28-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82991
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.952528,49.149471,0</coordinates>
+          </Point>
+        </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Construction work at Exit 73 (Langley - District). Until Wed Dec 31 at 7:00 PM PDT. Exit ramp is closed. Current westbound offramp loop is closed. A new offramp will open before the overpass. Exit the highway and turn left or right onto 264th Street. Next update time Wed Dec 31 at 7:00 AM PDT. Last updated Sat Aug 2 at 11:01 PM PDT. (DBC-76914)</name>
           <description>
