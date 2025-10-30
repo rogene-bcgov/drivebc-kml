@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-30 19:31:32 UTC
+        Last updated: 2025-10-30 20:02:19 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -5201,6 +5201,32 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97A, in both directions. Utility work planned between Cliff Ave and Stanley Ave for 0.2 km (Enderby). Starting Mon Nov 3 at 8:00 AM PDT until Fri Nov 7 at 6:00 PM PDT. From 8:00 AM to 6:00 PM PDT on weekdays. Lane Closure. Last updated Thu Oct 30 at 12:53 PM PDT. (DBC-83018)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Cliff Ave and Stanley Ave for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Enderby&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T12:53:04-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83018
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.140135,50.550289,0 -119.140127,50.551105,0 -119.140116,50.551926,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work planned between Maze Lake Rd and Johnson Mill Rd for 13.6 km (11 to 25 km south of 150 Mile House). Starting Tue Nov 11 at 8:00 AM PDT until Fri Dec 12 at 5:00 PM PDT. Expect minor delays. Last updated Thu Oct 23 at 11:08 AM PDT. (DBC-82823)</name>
           <description>
     &lt;![CDATA[
@@ -5276,32 +5302,6 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           <Point>
             <coordinates>-120.635815,50.321318,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97 (Cariboo Connector). Shoulder maintenance between Ainsworth Rd and Exeter Station Rd for 4.0 km (100 Mile House). Until Thu Oct 30 at 1:00 PM PDT. Lane Closure. Last updated Tue Oct 28 at 9:51 AM PDT. (DBC-82928)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Ainsworth Rd and Exeter Station Rd for 4.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 100 Mile House&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T07:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82928
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.289855,51.616844,0 -121.289959,51.617002,0 -121.290281,51.617997,0 -121.290473,51.618588,0 -121.290588,51.618823,0 -121.290782,51.619217,0 -121.291127,51.619724,0 -121.291764,51.620327,0 -121.293644,51.621864,0 -121.293836,51.622022,0 -121.294619,51.622599,0 -121.295649,51.623227,0 -121.299021,51.625191,0 -121.299105,51.62524,0 -121.299447,51.625505,0 -121.299698,51.625699,0 -121.299743,51.625734,0 -121.300045,51.626007,0 -121.300435,51.626427,0 -121.300765,51.626954,0 -121.300936,51.627298,0 -121.301084,51.627809,0 -121.301131,51.628475,0 -121.301064,51.629075,0 -121.300533,51.630918,0 -121.300351,51.631537,0 -121.300008,51.632705,0 -121.299332,51.63515,0 -121.298877,51.636796,0 -121.298512,51.638045,0 -121.297928,51.640071,0 -121.29753,51.641617,0 -121.297468,51.64186,0 -121.297288,51.642414,0 -121.297075,51.643256,0 -121.297007,51.643492,0 -121.296375,51.645694,0 -121.296313,51.646309,0 -121.296286,51.64656,0 -121.296253,51.646741,0 -121.296188,51.647342,0 -121.296217,51.647608,0 -121.296224,51.647807,0 -121.296346,51.648234,0 -121.296283,51.648334,0 -121.296315,51.648641,0 -121.296362,51.649725,0 -121.296354,51.650034,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5, in both directions. Construction work between Hoirup Rd and Skinner Rd (10 km north of Vavenby). Until Fri Dec 19 at 7:00 PM PDT. From 7:00 AM to 7:00 PM PDT on weekdays and Saturday. Single lane alternating traffic. Culvert install near the junction of Hwy 5 and Martin Creek FSR. Last updated Mon Sep 29 at 1:45 PM PDT. (DBC-81996)</name>
@@ -6225,7 +6225,7 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19A (Island Highway), southbound. Vehicle incident between 29th St and Cliffe Ave (Courtenay). Right lane is blocked. Watch for traffic control. Assessment in progress. Next update time Thu Oct 30 at 12:30 PM PDT. Last updated Thu Oct 30 at 11:58 AM PDT. (DBC-83015)</name>
+          <name>Highway 19A (Island Highway), southbound. Vehicle incident between 29th St and Cliffe Ave (Courtenay). Right lane is blocked. Watch for traffic control. Assessment in progress. Next update time Thu Oct 30 at 1:30 PM PDT. Last updated Thu Oct 30 at 12:36 PM PDT. (DBC-83015)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6237,8 +6237,8 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between Cliffe Ave and 29th St&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Courtenay&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T11:58:47-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-30T12:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T12:36:35-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-30T13:30:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-83015
