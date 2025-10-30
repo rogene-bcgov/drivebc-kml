@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-30 16:38:33 UTC
+        Last updated: 2025-10-30 17:01:52 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (280)</name>
+      <name>🚗 Traffic Events (282)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5561,6 +5561,31 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Mount Seymour Road, in both directions. Shoulder maintenance at Cabin Trail. Until Thu Oct 30 at 1:30 PM PDT. Last updated Thu Oct 30 at 9:46 AM PDT. (DBC-83008)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Mount Seymour Road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Cabin Trail&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T09:46:59-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83008
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.947878,49.359698,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Utility work planned between 19 mile Rd and Enchanted Forest Ftg Rd for 2.8 km (26 to 29 km west of Revelstoke). Starting Mon Nov 17 until Fri Nov 21. From 10:30 AM to 2:30 PM PDT on weekdays. Single lane alternating traffic will be in effect. Speed reduced to 60km/hr. Last updated Wed Oct 29 at 12:01 PM PDT. (DBC-82955)</name>
           <description>
     &lt;![CDATA[
@@ -6093,6 +6118,32 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           <Point>
             <coordinates>-120.473403,50.192229,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla South), in both directions. Vehicle incident between Exit 238: Juliet Rd and Exit 250: Larson Hill for 11.8 km (31 to 19 km north of Coquihalla Summit). Traffic is stopped in both directions due to an Air Ambulance that has landed. Highway will reopen once it departs. Next update time Thu Oct 30 at 10:30 AM PDT. Last updated Thu Oct 30 at 9:54 AM PDT. (DBC-83009)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 238: Juliet Rd and Exit 250: Larson Hill for 11.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 19 to 31 km north of Coquihalla Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T09:54:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-30T10:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83009
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.01233,49.74088,0 -121.012461,49.744506,0 -121.012364,49.745412,0 -121.012054,49.748305,0 -121.011713,49.751608,0 -121.011469,49.752623,0 -121.011135,49.753555,0 -121.01055,49.754497,0 -121.010329,49.754763,0 -121.009801,49.755398,0 -121.008948,49.756169,0 -121.007584,49.757103,0 -121.006682,49.757529,0 -121.003709,49.758932,0 -121.002658,49.759619,0 -121.001677,49.760586,0 -121.001573,49.760688,0 -121.00142,49.760839,0 -121.001249,49.761007,0 -121.001029,49.761224,0 -120.999989,49.76225,0 -120.997517,49.764686,0 -120.996274,49.765911,0 -120.995403,49.766802,0 -120.994708,49.767513,0 -120.994152,49.768238,0 -120.994075,49.768376,0 -120.993966,49.768571,0 -120.993759,49.768942,0 -120.993542,49.769549,0 -120.992963,49.771438,0 -120.992885,49.771694,0 -120.992523,49.772443,0 -120.991963,49.773301,0 -120.990887,49.774445,0 -120.989478,49.775484,0 -120.987344,49.776788,0 -120.985371,49.777993,0 -120.984386,49.778651,0 -120.983163,49.779526,0 -120.980011,49.78178,0 -120.974673,49.785597,0 -120.973401,49.786559,0 -120.973061,49.786816,0 -120.972304,49.787562,0 -120.971609,49.788562,0 -120.971076,49.790088,0 -120.971039,49.790234,0 -120.97092,49.790688,0 -120.970902,49.790752,0 -120.970438,49.792416,0 -120.969877,49.793589,0 -120.969313,49.794441,0 -120.968322,49.795546,0 -120.967407,49.796287,0 -120.966974,49.796638,0 -120.965979,49.797262,0 -120.965789,49.797381,0 -120.961568,49.799439,0 -120.960574,49.79995,0 -120.96043,49.800028,0 -120.957991,49.801349,0 -120.955771,49.802791,0 -120.955215,49.803193,0 -120.954142,49.803969,0 -120.952251,49.805573,0 -120.951553,49.806222,0 -120.950436,49.80736,0 -120.948765,49.809316,0 -120.948569,49.809563,0 -120.948504,49.809645,0 -120.948248,49.809941,0 -120.946366,49.812124,0 -120.939885,49.820042,0 -120.939156,49.821047,0 -120.938896,49.821679,0 -120.938637,49.82247,0 -120.938324,49.826188,0 -120.938049,49.826939,0 -120.937609,49.827678,0 -120.937171,49.828229,0 -120.936302,49.8291,0 -120.934689,49.83045,0</coordinates>
+          </LineString>
         </Placemark>
       </Folder>
       <Folder>
