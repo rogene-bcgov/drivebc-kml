@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-30 15:36:10 UTC
+        Last updated: 2025-10-30 16:02:42 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5329,6 +5329,32 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), northbound. Utility work planned between Oyster Sto-Lo Rd and Cedar Rd for 0.2 km (4 km north of Ladysmith). Starting Wed Nov 12 at 9:00 AM PDT until Wed Nov 12 at 3:00 PM PDT. Right lane will be closed. Expect minor delays. Watch for traffic control personnel. WATCH FOR SPEED REDUCTION + WORK CREWS. Last updated Thu Oct 30 at 8:55 AM PDT. (DBC-83002)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Oyster Sto-Lo Rd and Cedar Rd for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km north of Ladysmith&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T08:55:11-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83002
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.861286,49.025548,0 -123.861645,49.026033,0 -123.861925,49.026416,0 -123.862284,49.026838,0 -123.862521,49.02712,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 19 (Island Highway), in both directions. Utility work planned between SW Main Rd and Campbell Way for 3.7 km (7 to 3 km south of Port McNeill). Starting Sat Nov 1 at 7:30 AM PDT until Sat Nov 15 at 5:00 PM PDT. Road will be closed intermittently. Watch for traffic control personnel. Road Closures Max 10 Min as needed. Excluding Nov 11/25. Last updated Tue Oct 28 at 8:52 AM PDT. (DBC-82924)</name>
           <description>
     &lt;![CDATA[
@@ -5939,6 +5965,31 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.418333,52.868329,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle at Exit 27: E 1st Ave (Vancouver). Left lane is blocked. Next update time Thu Oct 30 at 9:15 AM PDT. Last updated Thu Oct 30 at 8:32 AM PDT. (DBC-83001)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 27: E 1st Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T08:32:24-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-30T09:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83001
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.027735,49.269374,0</coordinates>
           </Point>
         </Placemark>
       </Folder>
