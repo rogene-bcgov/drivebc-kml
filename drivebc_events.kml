@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-31 07:32:34 UTC
+        Last updated: 2025-10-31 08:02:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (264)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Weather Condition Events</name>
         <Placemark>
@@ -6280,6 +6280,32 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, southbound. Vehicle incident between Stewart St and Dairy Rd for 0.8 km (Blue River). Next update time Fri Oct 31 at 2:30 AM PDT. Last updated Fri Oct 31 at 12:37 AM PDT. (DBC-83036)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Dairy Rd and Stewart St for 0.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Blue River&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-31T00:37:06-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-10-31T02:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83036
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.311026,52.093969,0 -119.311081,52.095966,0 -119.311105,52.096668,0 -119.311122,52.097178,0 -119.311146,52.09786,0 -119.311155,52.098116,0 -119.311157,52.09817,0 -119.311203,52.099485,0 -119.311237,52.100003,0 -119.311303,52.101036,0 -119.311317,52.101255,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 37A, in both directions. Watch for falling rocks between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km (13 km west of Meziadin to 11 km east of Stewart). Last updated Thu Oct 30 at 11:05 AM PDT. (DBC-74957)</name>
