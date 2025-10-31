@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-10-31 02:13:35 UTC
+        Last updated: 2025-10-31 02:58:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (265)</name>
+      <name>🚗 Traffic Events (266)</name>
       <Folder>
         <name>Weather Condition Events</name>
         <Placemark>
@@ -616,32 +616,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Utility work planned between Exit 109: Yale Rd and Exit 116: Lickman Rd for 1.3 km (Chilliwack). Starting Thu Oct 30 at 7:30 PM PDT until Fri Oct 31 at 6:30 AM PDT. Shoulder will be closed. Last updated Tue Oct 21 at 12:18 PM PDT. (DBC-82765)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 109: Yale Rd and Exit 116: Lickman Rd for 1.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-21T12:18:38-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82765
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.081623,49.129756,0 -122.078795,49.131829,0 -122.077931,49.13242,0 -122.073929,49.135434,0 -122.073422,49.135758,0 -122.072647,49.136135,0 -122.071772,49.136464,0 -122.070959,49.136672,0 -122.069934,49.136878,0 -122.067971,49.137164,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 3A, in both directions. Blasting between Kuskonook Rest Area and Bathie Rd for 0.3 km (4 km south of Kuskonook). Until Fri Nov 7. From 7:00 AM to 5:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Expect delays. Up to 20 minute delays with scheduled one hour closure from 1:30 PM to 2:30pm. Next update time Fri Nov 7 at 10:00 AM PDT. Last updated Tue Oct 28 at 9:47 AM PDT. (DBC-80874)</name>
           <description>
     &lt;![CDATA[
@@ -665,6 +639,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.64608,49.261177,0 -116.645673,49.260561,0 -116.645277,49.260107,0 -116.644753,49.259706,0 -116.644236,49.259396,0 -116.643705,49.259077,0 -116.64347,49.258963,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Utility work between Exit 109: Yale Rd and Exit 116: Lickman Rd for 1.3 km (Chilliwack). Until Fri Oct 31 at 6:30 AM PDT. Shoulder closed. Last updated Tue Oct 21 at 12:18 PM PDT. (DBC-82765)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 109: Yale Rd and Exit 116: Lickman Rd for 1.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T19:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82765
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.081623,49.129756,0 -122.078795,49.131829,0 -122.077931,49.13242,0 -122.073929,49.135434,0 -122.073422,49.135758,0 -122.072647,49.136135,0 -122.071772,49.136464,0 -122.070959,49.136672,0 -122.069934,49.136878,0 -122.067971,49.137164,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6179,6 +6179,31 @@ Exit 374 overpass to Hwy 5 north closed. Estimated time of re-opening Fri Oct 31
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.725702,49.192034,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle at Exit 48: 152 St (Surrey). Left exit lane to 152nd St is blocked. Last updated Thu Oct 30 at 7:49 PM PDT. (DBC-83030)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 48: 152 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-10-30T19:49:35-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83030
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.798027,49.201297,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
