@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-04 22:34:52 UTC
+        Last updated: 2025-11-04 23:02:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (246)</name>
+      <name>🚗 Traffic Events (248)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -537,6 +537,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Admirals Rd, in both directions. Utility work planned between Hallowell Rd and Thomas Rd in Esquimalt. Starting Wed Nov 12 until Mon Nov 17. From 9:00 AM to 3:00 PM PST on weekends, Monday, Wednesday, Thursday and Friday. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Tue Nov 4 at 2:33 PM PST. (DBC-83165)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Admirals Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hallowell Rd and Thomas Rd in Esquimalt&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-04T14:33:16-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83165
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.427399,48.445316,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Tamany Dr, northbound. Construction work at Keating Cross Rd in Saanich. Until Sun Nov 30. Road closed. Watch for traffic control. Tamany Rd will be closed at Keating Cross Rd as part of the Highway 17 Keating Cross Flyover Project. Next update time Sun Nov 30 at 9:00 AM PST. Last updated Mon Nov 3 at 9:31 AM PST. (DBC-79749)</name>
           <description>
     &lt;![CDATA[
@@ -610,6 +635,32 @@
           <Point>
             <coordinates>-115.829354,49.309816,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, northbound. Utility work planned between Wall Rd and Christopher Dr for 1.2 km (Prince George). Starting Tue Nov 18 at 9:00 AM PST until Tue Nov 18 at 3:00 PM PST. Right lane will be closed. Watch for traffic control personnel. Last updated Tue Nov 4 at 2:44 PM PST. (DBC-83166)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Wall Rd and Christopher Dr for 1.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince George&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-04T14:44:13-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83166
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.768243,54.033993,0 -122.766045,54.03555,0 -122.765844,54.035693,0 -122.765297,54.036081,0 -122.764971,54.036312,0 -122.764457,54.036676,0 -122.764264,54.036813,0 -122.763336,54.037471,0 -122.76129,54.03892,0 -122.760457,54.039511,0 -122.760378,54.039568,0 -122.759725,54.04003,0 -122.756485,54.042327,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Germansen Landing Road, northbound. Geotechnical investigation between 1.5KM and 2.5KM near Fort St James. Road closed ahead. Detour in effect. Germansen Landing Road is closed at KM 1.7. Detour in Effect using the Takla Road - Teardrop Forest Service Road [FSR]. Next update time Fri Nov 28 at 9:30 AM PDT. Last updated Tue Oct 21 at 6:38 AM PDT. (DBC-81520)</name>
@@ -6096,7 +6147,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Tailings Rd and Cook St for 68.9 km (14 km east of Salmo to Creston). Slushy sections. Last updated Tue Nov 4 at 10:21 AM PST. (DBCRCON-224840)</name>
+          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Tailings Rd and Cook St for 68.9 km (14 km east of Salmo to Creston). Last updated Tue Nov 4 at 2:50 PM PST. (DBCRCON-224840)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6108,7 +6159,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Tailings Rd and Cook St for 68.9 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Creston to 14 km east of Salmo&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-04T10:21:57-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-04T14:50:41-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
