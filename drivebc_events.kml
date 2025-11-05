@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-05 18:40:25 UTC
+        Last updated: 2025-11-05 19:02:34 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (275)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1539,6 +1539,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Colleymount rd, in both directions. Ditching between Ford rd and Sprigler rd near Francois Lake. Until Fri Nov 7. From 8:00 AM to 5:00 PM PST on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Wed Nov 5 at 10:41 AM PST. (DBC-83206)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Colleymount rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Ford rd and Sprigler rd near Francois Lake&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-05T10:41:43-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83206
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-125.85837,54.05247,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 4A, in both directions. Utility work planned between Fairdowne Rd and Bellevue Rd for 0.6 km (1 to 2 km west of Parksville). Starting Fri Nov 7 at 3:30 AM PDT until Fri Nov 7 at 6:30 AM PDT. Single lane alternating traffic will be in effect. Expect minor delays. Watch for traffic control personnel. NIGHT WORK - Watch for work crews. Last updated Tue Oct 28 at 1:58 PM PDT. (DBC-82936)</name>
           <description>
     &lt;![CDATA[
@@ -1589,6 +1614,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
             <tessellate>1</tessellate>
             <coordinates>-123.7165,48.805825,0 -123.716505,48.805872,0 -123.717875,48.81242,0 -123.717976,48.813051,0 -123.718011,48.813663,0 -123.71802,48.816709,0 -123.718018,48.817007,0 -123.718009,48.81893,0 -123.717987,48.823462,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Heffley Louis Creek Rd. Road maintenance work between McGillivray Creek Rd and Sun Peaks. Until Wed Nov 5 at 7:00 PM PST. Single lane alternating traffic. Delays of up to 15 minutes for roadside work. Last updated Wed Nov 5 at 10:45 AM PST. (DBC-83207)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Heffley Louis Creek Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between McGillivray Creek Rd and Sun Peaks&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-05T10:45:44-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83207
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.978135,50.851218,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Hemlock Valley Rd., in both directions. Roadside brushing between Morris Valley Rd. And 20955 Hemlock Valley Rd. Until Fri Nov 14. From 7:00 AM to 3:00 PM PDT daily. Vegetation clearance for BC Hydro overhead powerlines. No work on Nov. 6th. Last updated Thu Oct 30 at 4:22 PM PDT. (DBC-83023)</name>
@@ -5026,32 +5076,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <Point>
             <coordinates>-123.860418,49.027016,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 95. Electrical maintenance between McMurdo Rd and Mitchell Rd for 1.8 km (15 to 17 km south of Golden). Until Wed Nov 5 at 12:00 PM MST. Single lane alternating traffic. Expect minor delays. Last updated Mon Nov 3 at 2:46 PM MST. (DBC-83126)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 95&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between McMurdo Rd and Mitchell Rd for 1.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 17 to 15 km south of Golden&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-05T08:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83126
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.807399,51.160809,0 -116.808134,51.16126,0 -116.808821,51.161628,0 -116.809361,51.161918,0 -116.809458,51.16197,0 -116.824789,51.169182,0 -116.826618,51.170078,0 -116.827901,51.170744,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, southbound. Utility work planned between Rice Mill Rd and Exit 26 for 5.3 km (Delta to Richmond). Starting Wed Nov 12 at 10:00 PM PDT until Fri Nov 14 at 5:30 AM PDT. Shoulder will be closed. Last updated Thu Oct 30 at 9:00 AM PDT. (DBC-83004)</name>
