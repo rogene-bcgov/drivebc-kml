@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-05 09:35:52 UTC
+        Last updated: 2025-11-05 10:02:45 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (237)</name>
+      <name>🚗 Traffic Events (238)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5208,6 +5208,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <Point>
             <coordinates>-122.432976,52.815713,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Vehicle incident between Massey Tunnel and Exit 28 for 2.2 km (Delta to Richmond). Right lane is blocked. Emergency vehicles on scene. Next update time Wed Nov 5 at 2:30 AM PST. Last updated Wed Nov 5 at 1:50 AM PST. (DBC-83190)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel for 2.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta to Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-05T01:50:19-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-05T02:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83190
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.055538,49.107769,0 -123.055646,49.107817,0 -123.055701,49.107842,0 -123.056791,49.108335,0 -123.057397,49.10861,0 -123.059688,49.109649,0 -123.060952,49.110227,0 -123.061573,49.110588,0 -123.062941,49.111686,0 -123.064717,49.113111,0 -123.066009,49.114154,0 -123.066722,49.11473,0 -123.06679,49.114784,0 -123.067503,49.11536,0 -123.067712,49.115528,0 -123.068741,49.116359,0 -123.069199,49.116729,0 -123.07269,49.119548,0 -123.072788,49.119627,0 -123.073003,49.119801,0 -123.07312,49.119896,0 -123.07548,49.121804,0 -123.075821,49.122079,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector). Rest area closed between Charles Rd and Anderson Rd (15 km south of Pineview). Next update time Thu Nov 6 at 12:00 PM PDT. Last updated Thu Oct 30 at 1:46 PM PDT. (DBC-71474)</name>
