@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-08 21:31:24 UTC
+        Last updated: 2025-11-08 22:02:14 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4180,6 +4180,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Shoulder maintenance planned between Three Valley Avalanche Gate and Three Valley Frtg Rd for 2.1 km (18 to 16 km west of Revelstoke). Starting Sun Nov 9 at 9:00 AM PST until Sun Nov 9 at 1:00 PM PST. Single lane alternating traffic will be in effect. Expect minor delays. Watch for traffic control personnel. Last updated Sat Nov 8 at 1:52 PM PST. (DBC-83327)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Three Valley Avalanche Gate and Three Valley Frtg Rd for 2.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 to 18 km west of Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-08T13:52:17-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83327
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.473145,50.927681,0 -118.472402,50.927735,0 -118.470459,50.927916,0 -118.467881,50.928154,0 -118.465271,50.928396,0 -118.463347,50.928574,0 -118.463205,50.928588,0 -118.461627,50.928734,0 -118.460965,50.928851,0 -118.460308,50.929029,0 -118.45849,50.929767,0 -118.457757,50.930013,0 -118.451868,50.931435,0 -118.449699,50.931791,0 -118.449647,50.9318,0 -118.448653,50.932043,0 -118.447861,50.932298,0 -118.447136,50.932601,0 -118.445748,50.933278,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 19A (Island Highway). Electrical maintenance planned between Comox Rd and Ryan Rd (Courtenay). Starting Wed Nov 12 at 8:00 AM PST until Wed Nov 12 at 2:00 PM PST. Watch for traffic control personnel. Last updated Sat Nov 8 at 11:45 AM PST. (DBC-83323)</name>
           <description>
     &lt;![CDATA[
@@ -4305,6 +4331,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-120.379939,50.651688,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Little Fort Ferry, in both directions. Maintenance at Little Fort Ferry (1 km west of Little Fort). Ferry is currently out of service. Next update time Sat Nov 8 at 2:30 PM PST. Last updated Sat Nov 8 at 1:29 PM PST. (DBC-83326)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Little Fort Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Little Fort Ferry&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km west of Little Fort&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-08T13:29:21-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-08T14:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83326
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.201244,51.422224,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5407,7 +5458,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. Vehicle incident between Brunswick Beach Rd and Porteau Cove Rd (3 km north of Lions Bay). Road closed. Emergency vehicles on scene. Expect major delays. Next update time Sat Nov 8 at 1:30 PM PST. Last updated Sat Nov 8 at 12:41 PM PST. (DBC-83324)</name>
+          <name>Highway 99, in both directions. Vehicle incident between Brunswick Beach Rd and Porteau Cove Rd (3 km north of Lions Bay). Road closed. Emergency vehicles on scene. Expect major delays. Next update time Sat Nov 8 at 2:15 PM PST. Last updated Sat Nov 8 at 1:44 PM PST. (DBC-83324)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5419,8 +5470,8 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Brunswick Beach Rd and Porteau Cove Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km north of Lions Bay&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-08T12:41:12-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-08T13:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-08T13:44:32-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-08T14:15:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-83324
@@ -5432,7 +5483,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 66: 232nd St and Glover Rd (Langley - District). Roadway reduced to one lane. Expect delays due to congestion. Next update time Sat Nov 8 at 1:45 PM PST. Last updated Sat Nov 8 at 12:59 PM PST. (DBC-83325)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 66: 232nd St and Glover Rd (Langley - District). Roadway reduced to one lane. Expect delays due to congestion. Next update time Sat Nov 8 at 2:15 PM PST. Last updated Sat Nov 8 at 1:43 PM PST. (DBC-83325)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5444,8 +5495,8 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Glover Rd and Exit 66: 232nd St&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-08T12:59:31-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-08T13:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-08T13:43:34-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-08T14:15:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-83325
