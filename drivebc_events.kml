@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-09 15:31:48 UTC
+        Last updated: 2025-11-09 16:02:09 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (275)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -6164,7 +6164,33 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Travel advisory in effect between Exit 32: Sprott St and Exit 37: Gaglardi Way for 5.1 km (Burnaby). Until Sun Nov 9 at 8:00 AM PST. Road closed. Exit at Willingdon, Sprott, or Gaglardi. Detour via Lougheed Highway 7. Next update time Sun Nov 9 at 8:00 AM PST. Last updated Sun Nov 9 at 2:54 AM PST. (DBC-83138)</name>
+          <name>Highway 16 (Yellowhead Highway), eastbound. Vehicle incident between Red Pass Townsite Rd and Fountain Pullouts for 0.9 km (3 to 4 km west of Moose Lake). Single lane alternating traffic. Watch for traffic control. Next update time Sun Nov 9 at 8:15 AM PST. Last updated Sun Nov 9 at 7:38 AM PST. (DBC-83340)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Red Pass Townsite Rd and Fountain Pullouts for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 to 3 km west of Moose Lake&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-09T07:38:39-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-09T08:15:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83340
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.001996,52.987967,0 -119.001871,52.987922,0 -118.996805,52.986387,0 -118.995129,52.985877,0 -118.986836,52.983335,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Travel advisory in effect between Exit 32: Sprott St and Exit 37: Gaglardi Way for 5.1 km (Burnaby). Until Sun Nov 9 at 9:00 AM PST. Road closed. Exit at Willingdon, Sprott, or Gaglardi. Detour via Lougheed Highway 7. Next update time Sun Nov 9 at 9:00 AM PST. Last updated Sun Nov 9 at 7:49 AM PST. (DBC-83138)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6176,8 +6202,8 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 32: Sprott St and Exit 37: Gaglardi Way for 5.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-09T02:54:42-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-09T08:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-09T07:49:27-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-09T09:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-83138
