@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-09 07:02:17 UTC
+        Last updated: 2025-11-09 07:31:56 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (268)</name>
+      <name>🚗 Traffic Events (269)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5082,6 +5082,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Toby Creek Rd, in both directions. Winter driving conditions between Start of Route and Panorama Dr (1 km west of Panorama Mountain Resort). Last updated Sun Nov 9 at 12:15 AM MST. (DBC-83337)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Toby Creek Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Start of Route and Panorama Dr&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km west of Panorama Mountain Resort&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-08T23:15:16-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83337
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <Point>
+            <coordinates>-116.250308,50.456069,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Alaska Highway). Limited visibility with fog between 230 Rd and Taylor Bridge for 8.7 km (Taylor). Last updated Sat Nov 8 at 3:52 PM MST. (DBC-83248)</name>
           <description>
     &lt;![CDATA[
@@ -5670,29 +5695,30 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 37, northbound. Vehicle incident between Highway 37A Junction and Hanna North Bridge (3 km north of Meziadin). Lane blocked. Expect delays. Next update time Sat Nov 8 at 11:30 PM PST. Last updated Sat Nov 8 at 10:23 PM PST. (DBC-83336)</name>
+          <name>Highway 91, southbound. Vehicle incident between Exit 8: Nordel Way and Exit 6: 72 Ave for 0.6 km (Delta). Lane blocked. Expect delays. The incident is just past the Highway 91 Connector. Next update time Sun Nov 9 at 12:15 AM PST. Last updated Sat Nov 8 at 11:24 PM PST. (DBC-83338)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 37N&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Highway 37A Junction and Hanna North Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km north of Meziadin&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 8: Nordel Way and Exit 6: 72 Ave for 0.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-08T22:23:53-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-08T23:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-08T23:24:33-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-09T00:15:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83336
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83338
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-129.283608,56.122024,0</coordinates>
-          </Point>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.935884,49.142877,0 -122.935419,49.141788,0 -122.935232,49.141348,0 -122.934812,49.140671,0 -122.932542,49.138252,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 8. Watch for falling rocks between the start of Highway 8 and Dot Ranch Cut-Off Rd West for 34.8 km (Spences Bridge to 29 km west of Merritt). There is debris on the road. Last updated Thu Nov 6 at 1:42 AM PST. (DBC-72877)</name>
