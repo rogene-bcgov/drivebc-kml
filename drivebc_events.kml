@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-12 20:35:27 UTC
+        Last updated: 2025-11-12 21:02:15 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (267)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1229,6 +1229,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (on Haida Gwaii), in both directions. Bridge maintenance between E Cedar Ave and Beitush Rd for 6.3 km (7 km west of Tlell to 5 km east of Port Clements). Bridge construction. Bridge repairs in effect at Woodpile Bridge. Speed reduction, reduce speed. Next update time Wed Nov 26 at 12:30 PM PST. Last updated Wed Nov 12 at 12:35 PM PST. (DBC-74895)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between E Cedar Ave and Beitush Rd for 6.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km east of Port Clements to 7 km west of Tlell&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T12:35:21-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-26T12:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-74895
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-132.1019,53.652339,0 -132.096851,53.650278,0 -132.088324,53.646798,0 -132.085928,53.645819,0 -132.083003,53.644625,0 -132.082869,53.64457,0 -132.082571,53.644449,0 -132.082415,53.644385,0 -132.082343,53.644355,0 -132.074681,53.641206,0 -132.071678,53.639972,0 -132.062631,53.635968,0 -132.053906,53.632125,0 -132.053758,53.632059,0 -132.053626,53.632001,0 -132.053475,53.631935,0 -132.053433,53.631916,0 -132.053213,53.631819,0 -132.044452,53.627934,0 -132.040518,53.626189,0 -132.033658,53.623145,0 -132.031814,53.622327,0 -132.03136,53.622126,0 -132.029783,53.621426,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, in both directions. Rock scaling between Alta Lake Rd and Taylor Way for 0.4 km (Whistler). Until Fri Nov 14. From 9:00 AM to 3:00 PM PST on weekdays. Lane Closure. Last updated Mon Nov 3 at 10:45 AM PST. (DBC-83120)</name>
           <description>
     &lt;![CDATA[
@@ -1252,32 +1278,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.999671,50.089908,0 -122.999639,50.089904,0 -122.999393,50.089902,0 -122.99916,50.089901,0 -122.99875,50.08996,0 -122.998288,50.090133,0 -122.997897,50.090378,0 -122.997631,50.090634,0 -122.99752,50.09074,0 -122.996584,50.091832,0 -122.996394,50.092063,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (on Haida Gwaii), in both directions. Bridge maintenance between E Cedar Ave and Beitush Rd for 6.3 km (7 km west of Tlell to 5 km east of Port Clements). Bridge construction. Bridge repairs in effect at Woodpile Bridge. Speed reduction, reduce speed. Next update time Wed Nov 12 at 12:30 PM PST. Last updated Mon Nov 10 at 4:30 PM PST. (DBC-74895)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between E Cedar Ave and Beitush Rd for 6.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km east of Port Clements to 7 km west of Tlell&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-10T16:30:49-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-12T12:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-74895
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-132.1019,53.652338,0 -132.096851,53.650278,0 -132.088324,53.646798,0 -132.085928,53.645819,0 -132.083003,53.644625,0 -132.082869,53.64457,0 -132.082571,53.644449,0 -132.082415,53.644385,0 -132.082343,53.644355,0 -132.074681,53.641206,0 -132.071678,53.639972,0 -132.062631,53.635968,0 -132.053906,53.632125,0 -132.053758,53.632059,0 -132.053626,53.632001,0 -132.053475,53.631935,0 -132.053433,53.631916,0 -132.053213,53.631819,0 -132.044452,53.627934,0 -132.040518,53.626189,0 -132.033658,53.623145,0 -132.031814,53.622327,0 -132.03136,53.622126,0 -132.029783,53.621426,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4384,7 +4384,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (on Haida Gwaii), in both directions. Road maintenance work between Lawnhill Rd and Miller Rd for 9.3 km (13 to 4 km west of Skidegate). Watch for traffic control. Culvert work, reduce speed, watch for crews, obey traffic signs. Next update time Wed Nov 12 at 12:30 PM PST. Last updated Mon Nov 10 at 4:22 PM PST. (DBC-80321)</name>
+          <name>Highway 16 (on Haida Gwaii), in both directions. Road maintenance work between Lawnhill Rd and Miller Rd for 9.3 km (13 to 4 km west of Skidegate). Watch for traffic control. Culvert work, reduce speed, watch for crews, obey traffic signs. Next update time Wed Nov 26 at 12:30 PM PST. Last updated Wed Nov 12 at 12:34 PM PST. (DBC-80321)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4396,8 +4396,8 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Lawnhill Rd and Miller Rd for 9.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 to 13 km west of Skidegate&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-10T16:22:17-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-12T12:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T12:34:58-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-26T12:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-80321
@@ -5484,6 +5484,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 7B (Mary Hill Bypass), eastbound. Vehicle incident between the start of Highway 7B (Mary Hill Bypass) and United Blvd (Coquitlam). Right lane is blocked. Exit ramp is closed. Emergency vehicles on scene. Expect delays. Next update time Wed Nov 12 at 1:45 PM PST. Last updated Wed Nov 12 at 12:52 PM PST. (DBC-83426)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7B&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 7B (Mary Hill Bypass) and United Blvd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T12:52:30-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-12T13:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83426
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.852963,49.231233,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Barnston Island Ferry. Possible ferry delays at Barnston Island Ferry (Surrey). Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Next update time Fri Nov 21 at 12:00 PM PST. Last updated Fri Nov 7 at 8:24 AM PST. (DBC-82935)</name>
           <description>
     &lt;![CDATA[
@@ -6045,7 +6070,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Wed Nov 12 at 10:33 AM MST. (DBCRCON-225404)</name>
+          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Wed Nov 12 at 1:47 PM MST. (DBCRCON-225404)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6057,7 +6082,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Beaverfoot Rd and BC/Alberta Border for 45.6 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 1 km west of West Boundary of Yoho National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T09:33:05-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T12:47:31-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6097,7 +6122,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 93. Watch for slippery sections between Stanley St and the end of Highway 93 for 94.4 km (Radium Hot Springs to British Columbia and Alberta Border). Last updated Wed Nov 12 at 10:33 AM MST. (DBCRCON-225460)</name>
+          <name>Highway 93. Watch for slippery sections between Stanley St and the end of Highway 93 for 94.4 km (Radium Hot Springs to British Columbia and Alberta Border). Last updated Wed Nov 12 at 1:47 PM MST. (DBCRCON-225460)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6109,7 +6134,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Stanley St and the end of Highway 93 for 94.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Alberta Border to Radium Hot Springs&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T09:33:05-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T12:47:31-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6493,7 +6518,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
       <Folder>
         <name>Weather Condition Events</name>
         <Placemark>
-          <name>Highway 23. Limited visibility with fog between Junction Hwy 31 and Junction Highway 1 for 49.0 km (Revelstoke). Last updated Wed Nov 12 at 9:33 AM PST. (DBCRCON-225379)</name>
+          <name>Highway 23. Limited visibility with fog between Junction Hwy 31 and Junction Highway 1 for 49.0 km (Revelstoke). Last updated Wed Nov 12 at 12:47 PM PST. (DBCRCON-225379)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6505,7 +6530,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 31 and Junction Highway 1 for 49.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T09:33:05-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T12:47:31-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6597,7 +6622,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Columbia West FSR and West Boundary of Yoho National Park for 68.0 km (14 km east of East Boundary of Glacier National Park to 1 km west of West Boundary of Yoho National Park). Last updated Wed Nov 12 at 10:33 AM MST. (DBCRCON-225503)</name>
+          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Columbia West FSR and West Boundary of Yoho National Park for 68.0 km (14 km east of East Boundary of Glacier National Park to 1 km west of West Boundary of Yoho National Park). Last updated Wed Nov 12 at 1:47 PM MST. (DBCRCON-225503)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6609,7 +6634,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Columbia West FSR and West Boundary of Yoho National Park for 68.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km west of West Boundary of Yoho National Park to 14 km east of East Boundary of Glacier National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T09:33:05-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T12:47:31-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6623,7 +6648,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Victoria Rd W and Glacier National Park West Boundary for 48.1 km (Revelstoke to 1 km east of West Boundary of Glacier National Park). Last updated Wed Nov 12 at 9:33 AM PST. (DBCRCON-225502)</name>
+          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Victoria Rd W and Glacier National Park West Boundary for 48.1 km (Revelstoke to 1 km east of West Boundary of Glacier National Park). Last updated Wed Nov 12 at 12:47 PM PST. (DBCRCON-225502)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6635,7 +6660,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Victoria Rd W and Glacier National Park West Boundary for 48.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km east of West Boundary of Glacier National Park to Revelstoke&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T09:33:05-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T12:47:31-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
