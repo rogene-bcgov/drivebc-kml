@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-12 21:33:24 UTC
+        Last updated: 2025-11-12 22:02:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (267)</name>
+      <name>🚗 Traffic Events (266)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1304,6 +1304,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
             <tessellate>1</tessellate>
             <coordinates>-122.999671,50.089908,0 -122.999639,50.089904,0 -122.999393,50.089902,0 -122.99916,50.089901,0 -122.99875,50.08996,0 -122.998288,50.090133,0 -122.997897,50.090378,0 -122.997631,50.090634,0 -122.99752,50.09074,0 -122.996584,50.091832,0 -122.996394,50.092063,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Shoulder maintenance planned between Blaeberry School Rd and Forde Station Rd (17 km west of Golden). Starting Mon Nov 17 at 8:00 AM MST until Fri Nov 28 at 4:00 PM MST. Lane Closure. Watch for traffic control personnel. Expect minor delays. Next update time Fri Nov 28 at 4:00 PM MST. Last updated Wed Nov 12 at 2:49 PM MST. (DBC-83428)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Forde Station Rd and Blaeberry School Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 17 km west of Golden&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T13:49:36-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-28T15:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83428
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-117.096494,51.449181,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work between Dallas Rd and Bull Mountain Rd for 0.6 km (3 km north of Wildwood). Until Sun Dec 14. From 8:00 AM to 4:00 PM PST daily. Please watch for signage and personnel. Expect minor delays of up to five minutes. Last updated Mon Nov 10 at 1:43 PM PST. (DBC-83381)</name>
@@ -4537,31 +4562,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 19A (Island Highway). Electrical maintenance between Comox Rd and Ryan Rd (Courtenay). Until Wed Nov 12 at 2:00 PM PST. Watch for traffic control. Last updated Sat Nov 8 at 11:45 AM PST. (DBC-83323)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Comox Rd and Ryan Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Courtenay&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T08:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83323
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-124.990335,49.690989,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), southbound. Tree pruning planned between Davis Rd and Radford Rd for 0.8 km (2 km north of Chemainus to 1 km south of Ladysmith). Starting Thu Nov 13 at 9:00 AM PST until Thu Nov 13 at 3:00 PM PST. Right lane will be closed. Expect minor delays. Watch for traffic control personnel. Watch for speed reduction and work crews. Last updated Mon Nov 3 at 1:41 PM PST. (DBC-83014)</name>
           <description>
     &lt;![CDATA[
@@ -5506,32 +5506,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <Point>
             <coordinates>-122.854396,49.231411,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91. Stalled vehicle between Jacombs Rd and Exit 21: Knight St for 0.4 km (Richmond). Right lane is blocked. Next update time Wed Nov 12 at 2:00 PM PST. Last updated Wed Nov 12 at 1:09 PM PST. (DBC-83427)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Jacombs Rd and Exit 21: Knight St for 0.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T13:09:43-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-12T14:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83427
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.080384,49.177413,0 -123.079934,49.177416,0 -123.079608,49.177419,0 -123.077142,49.177437,0 -123.075013,49.177569,0 -123.074728,49.177587,0 -123.074581,49.177596,0 -123.074395,49.177609,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Barnston Island Ferry. Possible ferry delays at Barnston Island Ferry (Surrey). Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Next update time Fri Nov 21 at 12:00 PM PST. Last updated Fri Nov 7 at 8:24 AM PST. (DBC-82935)</name>
