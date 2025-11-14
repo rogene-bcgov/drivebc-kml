@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-14 02:14:58 UTC
+        Last updated: 2025-11-14 02:59:00 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (280)</name>
+      <name>🚗 Traffic Events (281)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2897,31 +2897,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Rock slope stabilization between Shames Mountain Rd and West Amsbury (15 km west of Terrace). Until Thu Nov 13. From 7:00 AM to 5:00 PM PST on Wednesday and Thursday. Single lane alternating traffic. Expect up to 20 min delays. Last updated Mon Nov 10 at 3:55 PM PST. (DBC-83390)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Shames Mountain Rd and West Amsbury&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 15 km west of Terrace&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-12T00:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83390
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-128.824552,54.444152,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 101. Utility work between Shorncliffe Ave and Wharf Ave for 0.9 km (Sechelt). Until Fri Nov 14. From 9:00 AM to 3:00 PM PST daily. Lane Closure. Watch for traffic control. Expect delays. Last updated Wed Nov 5 at 4:27 PM PST. (DBC-83239)</name>
           <description>
     &lt;![CDATA[
@@ -2946,6 +2921,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
             <tessellate>1</tessellate>
             <coordinates>-123.764534,49.470711,0 -123.7639,49.470714,0 -123.763204,49.470711,0 -123.762394,49.470711,0 -123.762142,49.470708,0 -123.759135,49.471065,0 -123.758488,49.471149,0 -123.757497,49.471276,0 -123.756352,49.471423,0 -123.755239,49.47158,0 -123.755008,49.471673,0 -123.754885,49.471759,0 -123.754793,49.471845,0 -123.754735,49.471949,0 -123.754705,49.472357,0 -123.754673,49.472718,0 -123.754561,49.473942,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Rock slope stabilization between Shames Mountain Rd and West Amsbury (15 km west of Terrace). Until Fri Nov 14. From 7:00 AM to 5:00 PM PST on Wednesday, Thursday and Friday. Single lane alternating traffic. Expect up to 20 min delays. Last updated Thu Nov 13 at 6:27 PM PST. (DBC-83390)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Shames Mountain Rd and West Amsbury&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 15 km west of Terrace&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-13T18:27:36-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83390
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-128.824552,54.444152,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 15 (Pacific Highway), in both directions. Road construction work at 32 Ave (Surrey). Until Sat Nov 15. Traffic pattern change, lane shift in place. Last updated Mon Sep 22 at 8:50 AM PDT. (DBC-81864)</name>
@@ -5074,6 +5074,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.4859,49.966416,0 -121.486978,49.9671,0 -121.48723,49.967261,0 -121.490603,49.969283,0 -121.491412,49.969918,0 -121.492019,49.970557,0 -121.492594,49.971434,0 -121.492966,49.972001,0 -121.494037,49.97374,0 -121.496998,49.978548,0 -121.499001,49.981727,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, in both directions. Bridge maintenance planned between Clements Cres and Chidley Rd for 0.4 km (Peachland). Starting Thu Nov 13 at 8:00 PM PST until Fri Nov 14 at 4:00 AM PST. Single lane alternating traffic will be in effect. Reduce speed, watch for crews and equipment working. Last updated Thu Nov 13 at 6:33 PM PST. (DBC-83475)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Clements Cres and Chidley Rd for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Peachland&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-13T18:33:17-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83475
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.718754,49.783747,0 -119.718027,49.78377,0 -119.717102,49.783805,0 -119.716108,49.783889,0 -119.715145,49.784049,0 -119.714752,49.784133,0 -119.713887,49.784364,0 -119.713609,49.78444,0 -119.713543,49.784458,0 -119.713476,49.784478,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
