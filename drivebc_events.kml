@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-20 07:02:16 UTC
+        Last updated: 2025-11-20 07:33:09 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (264)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -6096,6 +6096,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.432976,52.815713,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, northbound. Vehicle incident between 36 Ave and Exit 13 (Delta). Right lane is blocked. Next update time Wed Nov 19 at 11:45 PM PST. Last updated Wed Nov 19 at 11:20 PM PST. (DBC-83694)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 36 Ave and Exit 13&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-19T23:20:56-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-19T23:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83694
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.027065,49.083393,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
