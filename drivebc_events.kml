@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-20 16:39:22 UTC
+        Last updated: 2025-11-20 17:02:18 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (277)</name>
+      <name>🚗 Traffic Events (279)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -5979,6 +5979,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Pothole repair at Exit 168: Flood Hope Rd (Hope). Left lane is closed. We are fixing a big pothole just east of overpass. Last updated Thu Nov 20 at 8:40 AM PST. (DBC-83711)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 168: Flood Hope Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Hope&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-20T08:40:37-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83711
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.478115,49.364537,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 99, northbound. Construction work planned between Deas Thruway and Exit 32: Steveston Hwy (Richmond). Starting Tue Nov 25 at 10:00 PM PST until Fri Nov 28 at 5:00 AM PST. From 10:00 PM to 5:00 AM PST on Tuesday, Wednesday and Thursday. Lane Closure. Detour planned. Watch for traffic control personnel. Work taking place at the Steveston Highway east intersection. Last updated Tue Nov 18 at 12:37 PM PST. (DBC-83621)</name>
           <description>
     &lt;![CDATA[
@@ -6054,6 +6079,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
             <tessellate>1</tessellate>
             <coordinates>-124.823476,49.500885,0 -124.823496,49.501643,0 -124.823531,49.501928,0 -124.823629,49.502242,0 -124.823779,49.502447,0 -124.823997,49.502745,0 -124.824269,49.503034,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Bridge maintenance at Old Cariboo Rd (Cache Creek). Until Thu Nov 20 at 3:00 PM PST. Single lane alternating traffic. Lane Closure on Bonaparte Bridge #1 Across from Husky Station. Last updated Thu Nov 20 at 8:47 AM PST. (DBC-83712)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Old Cariboo Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Cache Creek&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-20T08:47:30-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83712
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.324612,50.803641,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 4A, in both directions. Utility work planned between Fairdowne Rd and Bellevue Rd for 0.5 km (2 to 1 km west of Parksville). Starting Thu Nov 27 at 11:00 PM PST until Fri Nov 28 at 6:30 AM PST. Single lane alternating traffic will be in effect. Expect minor delays. Watch for traffic control personnel. Night work - watch for speed reduction and work crews. Last updated Mon Nov 17 at 2:28 PM PST. (DBC-83586)</name>
