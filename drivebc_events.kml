@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-20 01:30:04 UTC
+        Last updated: 2025-11-20 02:13:21 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (261)</name>
+      <name>🚗 Traffic Events (259)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -2554,6 +2554,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 7 (Lougheed Highway), eastbound. Utility work planned between Ottawa St and Pitt River Bridge for 0.5 km (Port Coquitlam). Starting Mon Dec 1 until Fri Apr 10, 2026. Right lane will be blocked. Centre lane will be blocked. Watch for traffic control personnel. Bus stop construction. Last updated Wed Nov 19 at 5:56 PM PST. (DBC-83691)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Ottawa St and Pitt River Bridge for 0.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-19T17:56:42-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83691
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.735461,49.250303,0 -122.735297,49.250242,0 -122.735045,49.250148,0 -122.734498,49.249943,0 -122.733519,49.249576,0 -122.732884,49.249335,0 -122.732187,49.249071,0 -122.731887,49.248942,0 -122.730283,49.248266,0 -122.729722,49.24803,0 -122.729473,49.247925,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Nisga'a Hwy (Highway 113), in both directions. Roadside brushing between North Rd and Nass Rd for 43.6 km (Gitlaxt'aamiks (New Aiyanish) to Laxgalts'ap). Until Fri Nov 28. From 8:00 AM to 4:00 PM PST on weekdays. Last updated Thu Nov 6 at 3:50 PM PST. (DBC-81431)</name>
           <description>
     &lt;![CDATA[
@@ -3907,32 +3933,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.250323,49.286482,0 -124.250081,49.285974,0 -124.24989,49.285295,0 -124.249532,49.284047,0 -124.249329,49.283585,0 -124.249143,49.283253,0 -124.248883,49.282929,0 -124.248551,49.282562,0 -124.247954,49.282072,0 -124.246078,49.28066,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Tree pruning between Tete Cache Jaune Rest Area and Rearguard Falls Access for 0.4 km (1 km east of Tete Jaune). Until Wed Nov 19 at 6:00 PM PST. Single lane alternating traffic. Watch for traffic control. Last updated Wed Nov 19 at 10:28 AM PST. (DBC-83678)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Tete Cache Jaune Rest Area and Rearguard Falls Access for 0.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km east of Tete Jaune&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-19T10:28:26-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83678
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.408823,52.97775,0 -119.408525,52.977824,0 -119.406941,52.978221,0 -119.406548,52.978282,0 -119.405885,52.978386,0 -119.405224,52.978398,0 -119.404979,52.978403,0 -119.403901,52.978351,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6196,32 +6196,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Port Mann Bridge and Exit 48: 152 St for 0.9 km (Surrey). Right lane is blocked. Expect delays. Next update time Wed Nov 19 at 6:15 PM PST. Last updated Wed Nov 19 at 5:10 PM PST. (DBC-83690)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Port Mann Bridge and Exit 48: 152 St for 0.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-19T17:10:27-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-19T18:15:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83690
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.810849,49.213785,0 -122.810817,49.213712,0 -122.81078,49.213631,0 -122.810689,49.213427,0 -122.81062,49.21328,0 -122.810535,49.213114,0 -122.810445,49.212951,0 -122.810336,49.212778,0 -122.810314,49.212743,0 -122.810254,49.212656,0 -122.810163,49.212529,0 -122.810106,49.21245,0 -122.810004,49.212322,0 -122.809923,49.212224,0 -122.8098,49.212086,0 -122.809714,49.211995,0 -122.809649,49.21193,0 -122.80959,49.211868,0 -122.809492,49.211774,0 -122.809405,49.211695,0 -122.809281,49.211582,0 -122.809177,49.211494,0 -122.809057,49.211394,0 -122.808992,49.21134,0 -122.808817,49.211199,0 -122.808766,49.211158,0 -122.807078,49.209869,0 -122.806157,49.209139,0 -122.805506,49.208599,0 -122.804707,49.207919,0 -122.804096,49.207373,0 -122.804048,49.207329,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Big Bar Reaction Ferry. Travel advisory in effect at Big Bar Reaction Ferry (Big Bar Reaction Ferry). Road closed for the season. Aerial Car open to foot traffic only. Next update time Tue Mar 31, 2026 at 10:00 AM PST. Last updated Tue Nov 18 at 7:27 AM PST. (DBC-83601)</name>
           <description>
     &lt;![CDATA[
@@ -6448,31 +6422,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-119.671172,50.957577,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between Bradner Rd and Exit 83: Mt Lehman Rd (Abbotsford). Last updated Wed Nov 19 at 5:15 PM PST. (DBC-83689)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Bradner Rd and Exit 83: Mt Lehman Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Abbotsford&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-19T17:15:39-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83689
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.386722,49.059714,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
