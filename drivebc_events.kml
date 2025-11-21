@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-21 21:32:14 UTC
+        Last updated: 2025-11-21 22:01:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -3072,6 +3072,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 17, in both directions. Construction work planned between 136 St and 104 Ave for 1.2 km (Surrey). Starting Mon Nov 24 until Wed Nov 26. From 7:00 PM to 5:00 AM PST on Monday and Tuesday. Lane closures in both directions planned. Watch for traffic control personnel. Survey work. Last updated Fri Nov 21 at 1:30 PM PST. (DBC-83767)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 136 St and 104 Ave for 1.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-21T13:30:56-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83767
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.749302,49.198593,0 -122.74816,49.197976,0 -122.747516,49.197588,0 -122.746896,49.197178,0 -122.74641,49.196805,0 -122.745817,49.196304,0 -122.745086,49.195638,0 -122.744593,49.195214,0 -122.743174,49.194105,0 -122.742707,49.193807,0 -122.742026,49.193371,0 -122.741777,49.193212,0 -122.741413,49.192983,0 -122.741025,49.192764,0 -122.740459,49.192469,0 -122.739954,49.192207,0 -122.739652,49.192055,0 -122.738491,49.191487,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 7 (Lougheed Highway), in both directions. Geotechnical investigation at Old Dewdney Trunk Rd (Pitt Meadows). Until Tue Nov 25 at 3:00 PM PST. From 9:00 AM to 3:00 PM PST daily. Watch for traffic control. One of the eastbound left turn lanes will be closed during working hours. Westbound right turn lane will also be closed. Last updated Wed Nov 19 at 12:18 PM PST. (DBC-83683)</name>
           <description>
     &lt;![CDATA[
@@ -3094,6 +3120,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-122.719662,49.242917,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17. Construction work planned at Bridgeview Dr (Surrey). Starting Mon Nov 24 until Wed Nov 26. From 7:00 PM to 5:00 AM PST on Monday and Tuesday. Left lane will be closed in both directions. Expect delays. Survey work. Last updated Fri Nov 21 at 1:36 PM PST. (DBC-83768)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Bridgeview Dr&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-21T13:36:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83768
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.861921,49.213152,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -6738,32 +6789,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 5 (Coquihalla South), in both directions. Collision between Exit 195 and Exit 200: Shylock Rd for 4.0 km (16 to 12 km south of Great Bear Snowshed). Until Fri Nov 21 at 1:30 PM PST. Left lane is closed in both directions. Last updated Fri Nov 21 at 8:28 AM PST. (DBC-83748)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 195 and Exit 200: Shylock Rd for 4.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 12 to 16 km south of Great Bear Snowshed&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-21T08:28:41-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83748
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.25318,49.479311,0 -121.252958,49.47995,0 -121.252893,49.480137,0 -121.252579,49.48074,0 -121.252324,49.481117,0 -121.252045,49.481525,0 -121.250107,49.48395,0 -121.24991,49.484247,0 -121.249466,49.485242,0 -121.249327,49.486261,0 -121.249273,49.487211,0 -121.249132,49.488213,0 -121.248988,49.488632,0 -121.2488,49.489024,0 -121.248501,49.489473,0 -121.247199,49.49077,0 -121.24572,49.492134,0 -121.244909,49.492842,0 -121.244411,49.493203,0 -121.244263,49.493288,0 -121.243842,49.493532,0 -121.243473,49.493707,0 -121.24335,49.493765,0 -121.242755,49.494003,0 -121.242509,49.494063,0 -121.241464,49.494318,0 -121.241088,49.494361,0 -121.240275,49.494452,0 -121.239384,49.494443,0 -121.23709,49.494237,0 -121.23605,49.494169,0 -121.235272,49.494178,0 -121.234022,49.4943,0 -121.232799,49.494547,0 -121.231271,49.494923,0 -121.229785,49.495214,0 -121.22809,49.495426,0 -121.226002,49.495566,0 -121.224412,49.495561,0 -121.222795,49.49546,0 -121.221755,49.495329,0 -121.215584,49.494355,0 -121.214507,49.494247,0 -121.213614,49.494231,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Big Bar Reaction Ferry. Travel advisory in effect at Big Bar Reaction Ferry (Big Bar Reaction Ferry). Road closed for the season. Aerial Car open to foot traffic only. Next update time Tue Mar 31, 2026 at 10:00 AM PST. Last updated Tue Nov 18 at 7:27 AM PST. (DBC-83601)</name>
           <description>
     &lt;![CDATA[
@@ -6786,31 +6811,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.134132,51.182858,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Exit 40: Brunette Ave and North Rd (Coquitlam). Centre lane blocked. Left lane is blocked. Expect delays. Next update time Fri Nov 21 at 1:45 PM PST. Last updated Fri Nov 21 at 1:26 PM PST. (DBC-83766)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between North Rd and Exit 40: Brunette Ave&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-21T13:26:49-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-21T13:45:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83766
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.888772,49.239822,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
