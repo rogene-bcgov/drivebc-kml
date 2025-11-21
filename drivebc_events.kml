@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-21 11:02:08 UTC
+        Last updated: 2025-11-21 11:31:35 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (265)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -224,6 +224,31 @@
             <tessellate>1</tessellate>
             <coordinates>-122.753658,49.244851,0 -122.753107,49.245101,0 -122.752079,49.245464,0 -122.750626,49.245906,0 -122.748833,49.246267,0 -122.74796,49.246446,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Electrical maintenance at Lions Gate Bridge (West Vancouver). Until Fri Nov 21 at 5:00 AM PST. Right lane is blocked. Last updated Fri Nov 21 at 3:02 AM PST. (DBC-83737)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Lions Gate Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-21T03:02:55-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83737
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.13737,49.31659,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), southbound. Construction work between Bobb Rd and Toll Rd for 14.1 km (Yale). Single lane alternating traffic. Expect delays. Highway crews working at 1-97. Single lane alternating traffic with speed reduction at 60 km/hr. Expect delays. Last updated Wed Oct 29 at 3:02 PM PDT. (DBC-82980)</name>
@@ -5035,32 +5060,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 6 NS, in both directions. Watch for falling rocks between Slocan Park Rd and Junction Hwy 3A for 11.7 km (3 km south of Passmore to Playmor Junction). Last updated Tue Nov 18 at 4:59 AM PST. (DBC-83598)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Slocan Park Rd and Junction Hwy 3A for 11.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Playmor Junction to 3 km south of Passmore&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-18T04:59:43-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83598
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.62546,49.517105,0 -117.624153,49.5166,0 -117.620555,49.515352,0 -117.619404,49.514953,0 -117.615019,49.5134,0 -117.611808,49.51228,0 -117.611177,49.51206,0 -117.61104,49.51201,0 -117.610992,49.511993,0 -117.607501,49.510742,0 -117.60713,49.510609,0 -117.606822,49.510501,0 -117.606203,49.510284,0 -117.60554,49.510052,0 -117.604037,49.509525,0 -117.603147,49.509135,0 -117.60297,49.509008,0 -117.602588,49.508734,0 -117.60221,49.508379,0 -117.60221,49.508379,0 -117.602202,49.508372,0 -117.601817,49.507875,0 -117.601013,49.506412,0 -117.600867,49.506146,0 -117.600451,49.505388,0 -117.600388,49.505273,0 -117.600308,49.505128,0 -117.600011,49.504585,0 -117.599888,49.504361,0 -117.599685,49.503633,0 -117.599681,49.503613,0 -117.599129,49.501049,0 -117.598858,49.500498,0 -117.598443,49.499984,0 -117.598402,49.499933,0 -117.598048,49.499632,0 -117.597717,49.499404,0 -117.597092,49.498968,0 -117.596658,49.498666,0 -117.596438,49.498512,0 -117.596198,49.498345,0 -117.595417,49.4978,0 -117.594463,49.497135,0 -117.592983,49.496104,0 -117.592956,49.496084,0 -117.592616,49.495847,0 -117.58955,49.493703,0 -117.588837,49.493205,0 -117.587797,49.492478,0 -117.58677,49.491693,0 -117.58672,49.491647,0 -117.586295,49.491254,0 -117.586229,49.491193,0 -117.585744,49.49068,0 -117.585388,49.490195,0 -117.585137,49.489787,0 -117.584442,49.488661,0 -117.583945,49.487833,0 -117.583816,49.487617,0 -117.583099,49.486423,0 -117.582707,49.485925,0 -117.582258,49.485493,0 -117.58201,49.485304,0 -117.581715,49.485082,0 -117.581042,49.484632,0 -117.580833,49.484528,0 -117.580617,49.484421,0 -117.580351,49.484289,0 -117.579587,49.484007,0 -117.579331,49.483932,0 -117.578279,49.483622,0 -117.577191,49.483302,0 -117.57663,49.483052,0 -117.576421,49.482958,0 -117.575894,49.482663,0 -117.575373,49.482269,0 -117.574985,49.481904,0 -117.57465,49.481484,0 -117.573696,49.48029,0 -117.572377,49.478637,0 -117.572351,49.478602,0 -117.57186,49.477927,0 -117.571597,49.477349,0 -117.571431,49.476674,0 -117.57129,49.47567,0 -117.571265,49.475491,0 -117.571135,49.474563,0 -117.570987,49.473507,0 -117.570937,49.472668,0 -117.570921,49.472401,0 -117.570927,49.471284,0 -117.570935,49.46989,0 -117.570907,49.469715,0 -117.57081,49.469092,0 -117.570631,49.468457,0 -117.570567,49.468299,0 -117.570361,49.467793,0 -117.570284,49.467666,0 -117.569946,49.467117,0 -117.569418,49.466399,0 -117.569359,49.466341,0 -117.5686,49.465608,0 -117.567639,49.464678,0 -117.566317,49.463399,0 -117.566147,49.463202,0 -117.566122,49.463174,0 -117.564777,49.461299,0 -117.56377,49.459895,0 -117.563311,49.459209,0 -117.561773,49.456912,0 -117.561098,49.456163,0 -117.560994,49.45605,0 -117.56084,49.455881,0 -117.560724,49.455753,0 -117.560458,49.455266,0 -117.560264,49.454734,0 -117.560096,49.454022,0 -117.560067,49.453902,0 -117.56001,49.453659,0 -117.559669,49.452213,0 -117.559424,49.451148,0 -117.559401,49.451071,0 -117.559285,49.450698,0 -117.559228,49.450498,0 -117.55913,49.450157,0 -117.559113,49.450099,0 -117.558909,49.449409,0 -117.558163,49.447352,0 -117.557794,49.446332,0 -117.557504,49.445532,0 -117.557311,49.445106,0 -117.55698,49.44468,0 -117.556607,49.444339,0 -117.556237,49.444116,0 -117.553012,49.442408,0 -117.552489,49.442305,0 -117.548834,49.441842,0 -117.548081,49.44185,0 -117.5457,49.441876,0 -117.54402,49.441873,0 -117.539174,49.441869,0 -117.536854,49.441856,0 -117.536106,49.441867,0 -117.535617,49.441853,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Blackburn Road, in both directions. Washout between Sunrise Place and Fulford-Ganges Road near Salt Spring Island. Road closed. Detour in effect. Detour via Cranberry Road. Next update time Wed Sep 2, 2026 at 12:00 PM PDT. Last updated Tue Sep 2 at 4:21 PM PDT. (DBC-77329)</name>
           <description>
     &lt;![CDATA[
@@ -5613,31 +5612,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-118.089328,49.872909,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Adams Lake Ferry. Possible ferry delays between Adams Lake Ferry and the end of Adams Lake Ferry (Adams Lake). Until Fri Nov 21 at 3:00 AM PST. Expect 20-minute delays due to crew training. Next update time Fri Nov 21 at 3:00 AM PST. Last updated Wed Nov 5 at 3:34 PM PST. (DBC-83233)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Adams Lake Ferry&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Adams Lake Ferry and the end of Adams Lake Ferry&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Adams Lake&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-20T05:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-21T03:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83233
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-119.671172,50.957577,0</coordinates>
           </Point>
         </Placemark>
       </Folder>
