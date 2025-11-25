@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-25 21:33:13 UTC
+        Last updated: 2025-11-25 22:02:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (292)</name>
+      <name>🚗 Traffic Events (293)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -556,6 +556,32 @@ Use Caution and Slow down when passing. Last updated Tue Nov 25 at 11:05 AM PST.
           <Point>
             <coordinates>-123.593336,48.344739,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work planned between 20 Ave NE and 40 Ave NE for 1.6 km (Salmon Arm). Starting Wed Dec 3 at 8:00 AM PST until Wed Dec 3 at 4:00 PM PST. Single lane alternating traffic will be in effect. Last updated Tue Nov 25 at 1:48 PM PST. (DBC-83907)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 20 Ave NE and 40 Ave NE for 1.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmon Arm&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-25T13:48:36-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83907
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.227265,50.714401,0 -119.227277,50.717189,0 -119.227279,50.717621,0 -119.227283,50.718503,0 -119.227285,50.718817,0 -119.227289,50.71968,0 -119.227298,50.721734,0 -119.227297,50.722397,0 -119.227296,50.725625,0 -119.227295,50.725922,0 -119.227295,50.727001,0 -119.227294,50.72902,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Germansen Landing Road, northbound. Bridge construction between 18 and 20 25 km north of Fort St James. Single lane alternating traffic. Roadway reduced to one lane. The Bridge is Single Lane with a Max width of 3.86m
