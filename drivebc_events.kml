@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-25 03:30:23 UTC
+        Last updated: 2025-11-25 04:05:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (284)</name>
+      <name>🚗 Traffic Events (283)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5355,29 +5355,30 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Road cleared at Lions Gate Bridge (West Vancouver). Last updated Mon Nov 24 at 7:09 PM PST. (DBC-83873)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 58: 200 St and Exit 55: 192 St (Langley - District). Right merge lane on-ramp blocked. Last updated Mon Nov 24 at 7:40 PM PST. (DBC-83875)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Lions Gate Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 55: 192 St and Exit 58: 200 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-24T19:09:34-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-24T19:40:34-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83873
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83875
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.13737,49.31659,0</coordinates>
-          </Point>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.669138,49.164147,0 -122.669124,49.164144,0 -122.669006,49.164111,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Big Bar Reaction Ferry. Travel advisory in effect at Big Bar Reaction Ferry (Big Bar Reaction Ferry). Road closed for the season. Aerial Car open to foot traffic only. Next update time Tue Mar 31, 2026 at 10:00 AM PST. Last updated Tue Nov 18 at 7:27 AM PST. (DBC-83601)</name>
@@ -5452,31 +5453,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway), in both directions. Vehicle incident between Loop Bridge and Corbin Rd (6 km east of Sparwood). Single lane alternating traffic. Next update time Mon Nov 24 at 8:30 PM MST. Last updated Mon Nov 24 at 7:41 PM MST. (DBC-83862)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Loop Bridge and Corbin Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 km east of Sparwood&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-24T18:41:56-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-24T19:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83862
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-114.779929,49.671751,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -6418,7 +6394,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 6 EW. Watch for slippery sections between Monashee Summit and Needles Ferry for 40.2 km (Monashee Summit to Needles). Last updated Mon Nov 24 at 3:53 PM PST. (DBCRCON-226916)</name>
+          <name>Highway 6 EW. Watch for slippery sections between Monashee Summit and Needles Ferry for 40.2 km (Monashee Summit to Needles). Last updated Mon Nov 24 at 7:33 PM PST. (DBCRCON-226916)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6430,7 +6406,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Monashee Summit and Needles Ferry for 40.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Needles to Monashee Summit&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-24T15:53:23-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-24T19:33:08-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6574,7 +6550,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Tailings Rd and Cook St for 68.9 km (14 km east of Salmo to Creston). Slushy sections. Last updated Mon Nov 24 at 1:56 PM PST. (DBCRCON-226677)</name>
+          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Tailings Rd and Cook St for 68.9 km (14 km east of Salmo to Creston). Compact snow. Last updated Mon Nov 24 at 7:49 PM PST. (DBCRCON-226677)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6586,7 +6562,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Tailings Rd and Cook St for 68.9 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Creston to 14 km east of Salmo&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-24T13:56:52-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-24T19:49:30-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
