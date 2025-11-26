@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-26 17:34:36 UTC
+        Last updated: 2025-11-26 18:02:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (306)</name>
+      <name>🚗 Traffic Events (307)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -582,6 +582,32 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           <Point>
             <coordinates>-121.792372,52.012137,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), in both directions. Roadside brushing between Trudeau Rd and Church Rd for 1.5 km (42 to 40 km south of Quesnel). Until Wed Nov 26 at 5:00 PM PST. Single lane alternating traffic. Expect minor delays. Last updated Wed Nov 26 at 9:51 AM PST. (DBC-83946)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Trudeau Rd and Church Rd for 1.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 40 to 42 km south of Quesnel&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T09:51:43-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83946
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.467254,52.604128,0 -122.467226,52.604642,0 -122.467108,52.60518,0 -122.467048,52.605347,0 -122.466887,52.605799,0 -122.466293,52.606842,0 -122.465861,52.607599,0 -122.463704,52.611388,0 -122.463152,52.612217,0 -122.462456,52.612962,0 -122.461664,52.61367,0 -122.460993,52.614135,0 -122.458261,52.615775,0 -122.457838,52.616029,0 -122.457562,52.616195,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 19A (Island Highway), in both directions. Road construction work between Lee Rd and Drew Rd for 0.5 km (2 to 1 km south of Qualicum Beach). Until Fri Nov 28 at 5:00 PM PDT. Single lane alternating traffic. Possible delays. Watch for traffic control. Last updated Wed Oct 8 at 4:24 PM PDT. (DBC-81975)</name>
