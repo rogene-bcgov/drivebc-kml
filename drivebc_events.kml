@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-11-27 01:29:37 UTC
+        Last updated: 2025-11-27 02:13:52 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (302)</name>
+      <name>🚗 Traffic Events (305)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -2067,7 +2067,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway), in both directions. Snow deposit removal planned between 86 St and 100 St for 1.8 km (Fort St John). Starting Wed Nov 26 at 7:00 PM MST until Thu Nov 27 at 4:30 AM MST. Detour planned. Intersections will be closed while crews are working within them. Detours will be in effect. Watch for signage and traffic control. Last updated Wed Nov 26 at 4:45 PM MST. (DBC-83964)</name>
+          <name>Highway 97 (Alaska Highway), in both directions. Snow deposit removal between 86 St and 100 St for 1.8 km (Fort St John). Until Thu Nov 27 at 4:30 AM MST. Detour in effect. Intersections will be closed while crews are working within them. Detours will be in effect. Watch for signage and traffic control. Last updated Wed Nov 26 at 4:45 PM MST. (DBC-83964)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2079,7 +2079,7 @@ No Over width or weight loads permitted. Estimated time of re-opening Fri Oct 31
     &lt;b&gt;Location:&lt;/b&gt; Between 86 St and 100 St for 1.8 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Fort St John&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T15:45:11-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T18:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2712,6 +2712,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 5, in both directions. Maintenance planned between Wire Cache Rest Area and Avola Frontage Roads Access for 1.0 km (1 km south of Avola to Avola). Starting Thu Nov 27 at 7:30 AM PST until Thu Nov 27 at 8:00 PM PST. Watch for traffic control personnel. Last updated Wed Nov 26 at 5:36 PM PST. (DBC-83977)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Wire Cache Rest Area and Avola Frontage Roads Access for 1.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km south of Avola to Avola&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T17:36:35-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83977
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.3256,51.773511,0 -119.325629,51.7736,0 -119.325749,51.774338,0 -119.325775,51.774607,0 -119.325847,51.775347,0 -119.325936,51.776308,0 -119.326124,51.77845,0 -119.326281,51.780246,0 -119.326365,51.781197,0 -119.326397,51.781567,0 -119.326344,51.781916,0 -119.326302,51.782186,0 -119.326297,51.782224,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Tillicum Rd and Exit 6: McKenzie Ave for 1.1 km (Saanich). Until Wed Dec 24, 2025. From 8:00 PM to 5:30 AM PST on weekdays and Sunday. Lane closures in both directions in effect. Traffic reduced to single lane both directions. Maximum width 4m. No maximum height change. Speed limit 50km/h. Last updated Fri Dec 20 at 9:03 AM PST. (DBC-71006)</name>
           <description>
     &lt;![CDATA[
@@ -2760,6 +2786,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-120.564212,55.957219,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Tree pruning planned at Hargreaves Rd (16 km east of Tete Jaune). Starting Fri Nov 28 at 7:00 AM PST until Fri Nov 28 at 6:00 PM PST. Road will be closed intermittently. Watch for traffic control personnel. Last updated Wed Nov 26 at 5:42 PM PST. (DBC-83978)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Hargreaves Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Tete Jaune&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T17:42:35-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83978
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.231279,53.034012,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -2812,6 +2863,32 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.663719,53.633749,0 -122.663705,53.633976,0 -122.663688,53.634287,0 -122.663669,53.634615,0 -122.663657,53.634818,0 -122.663649,53.635501,0 -122.66364,53.636233,0 -122.66343,53.638369,0 -122.663441,53.639371,0 -122.663593,53.640474,0 -122.663882,53.641691,0 -122.664443,53.64304,0 -122.665248,53.644438,0 -122.666347,53.645886,0 -122.667428,53.647016,0 -122.66882,53.648212,0 -122.670427,53.649355,0 -122.673068,53.65108,0 -122.675494,53.652404,0 -122.675867,53.652627,0 -122.676429,53.653025,0 -122.676863,53.653462,0 -122.677176,53.65392,0 -122.677347,53.654401,0 -122.677416,53.654875,0 -122.677417,53.655081,0 -122.677418,53.655171,0 -122.677433,53.657473,0 -122.677451,53.659685,0 -122.677465,53.66127,0 -122.677468,53.661625,0 -122.677479,53.662816,0 -122.677499,53.665101,0 -122.677514,53.666733,0 -122.67748,53.666947,0 -122.677055,53.66962,0 -122.677004,53.669914,0 -122.676979,53.670055,0 -122.676512,53.672242,0 -122.676437,53.672447,0 -122.67576,53.673667,0 -122.674828,53.674876,0 -122.674488,53.675444,0 -122.674216,53.676063,0 -122.674081,53.676415,0 -122.673911,53.676859,0 -122.673869,53.677299,0 -122.673838,53.677626,0 -122.673829,53.677827,0 -122.673843,53.678147,0 -122.673855,53.67841,0 -122.673951,53.679231,0 -122.674166,53.680319,0 -122.674232,53.68123,0 -122.67419,53.682396,0 -122.674172,53.682888,0 -122.673999,53.684019,0 -122.673861,53.684921,0 -122.673737,53.685854,0 -122.673622,53.686405,0 -122.67356,53.686593,0 -122.673135,53.687433,0 -122.671069,53.69063,0 -122.670096,53.692128,0 -122.666659,53.697372,0 -122.666391,53.69778,0 -122.666256,53.697929,0 -122.665675,53.698569,0 -122.664944,53.699239,0 -122.664575,53.699577,0 -122.656832,53.70667,0 -122.656263,53.707354,0 -122.655831,53.708196,0 -122.65581,53.708284,0 -122.655659,53.708925,0 -122.655701,53.712398,0 -122.655706,53.713371,0 -122.655709,53.714018,0 -122.655718,53.715816,0 -122.655745,53.721123,0 -122.655785,53.726314,0 -122.655811,53.72972,0 -122.655839,53.733297,0 -122.655841,53.733523,0 -122.655857,53.7356,0 -122.655912,53.742854,0 -122.65593,53.745566,0 -122.655943,53.747455,0 -122.655958,53.749856,0 -122.655973,53.752013,0 -122.655993,53.755087,0 -122.656004,53.756732,0 -122.656024,53.759824,0 -122.656039,53.762197,0 -122.656055,53.764533,0 -122.656102,53.766297,0 -122.656118,53.76768,0 -122.656126,53.768327,0 -122.656145,53.769962,0 -122.656158,53.773837,0 -122.656168,53.776516,0 -122.656169,53.776794,0 -122.656184,53.781032,0 -122.656186,53.781262,0 -122.656223,53.785531,0 -122.656227,53.786026,0 -122.656237,53.78723,0 -122.656189,53.788209,0 -122.656253,53.7891,0 -122.656255,53.789721,0 -122.656256,53.792859,0 -122.656287,53.79656,0 -122.656298,53.797821,0 -122.65631,53.799251,0 -122.656325,53.80109,0 -122.656333,53.802007,0 -122.656345,53.803508,0 -122.656366,53.805989,0 -122.656383,53.808033,0 -122.656386,53.808399,0 -122.656402,53.810672,0 -122.656403,53.810825,0 -122.656412,53.81211,0 -122.656451,53.817674,0 -122.65646,53.81907,0 -122.656549,53.819295,0 -122.656798,53.819929,0 -122.656947,53.820131,0 -122.657335,53.820655,0 -122.65811,53.821284,0 -122.660228,53.822586,0 -122.677933,53.833467,0 -122.68325,53.836732,0 -122.687822,53.839537,0 -122.689277,53.84043,0 -122.691996,53.842097,0 -122.692286,53.842276,0 -122.692554,53.84244,0 -122.693001,53.842714,0 -122.696603,53.844922,0 -122.700129,53.847087,0 -122.701901,53.848175,0 -122.702091,53.848379,0 -122.704654,53.850002,0 -122.705046,53.85025,0 -122.705386,53.850442,0 -122.705812,53.850692,0 -122.708638,53.85237,0 -122.709918,53.853165,0 -122.712193,53.854533,0 -122.712748,53.854856,0 -122.71345,53.855326,0 -122.71362,53.855438,0 -122.713627,53.855443,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 23, southbound. Utility work planned between Nelson Rd and Clough Rd for 0.4 km (3 to 2 km south of Revelstoke). Starting Wed Dec 3 at 7:30 AM PST until Wed Dec 3 at 3:00 PM PST. Right lane will be blocked. Speed reduced to 70 km/hr. Watch for traffic control. Last updated Wed Nov 26 at 5:51 PM PST. (DBC-83980)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Clough Rd and Nelson Rd for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 to 2 km south of Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T17:51:39-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83980
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.231657,50.972279,0 -118.231658,50.97233,0 -118.231675,50.972411,0 -118.231691,50.972501,0 -118.231694,50.972591,0 -118.231696,50.972681,0 -118.231699,50.972797,0 -118.231702,50.972914,0 -118.231705,50.973022,0 -118.231694,50.973121,0 -118.231696,50.973202,0 -118.231684,50.973292,0 -118.231672,50.973373,0 -118.231672,50.9734,0 -118.231661,50.973517,0 -118.231636,50.973643,0 -118.231625,50.973751,0 -118.231599,50.973869,0 -118.23156,50.973986,0 -118.231535,50.974112,0 -118.231495,50.974229,0 -118.231442,50.974365,0 -118.231374,50.974518,0 -118.231322,50.974672,0 -118.231254,50.974817,0 -118.231186,50.974943,0 -118.231132,50.975043,0 -118.23105,50.97516,0 -118.230954,50.975305,0 -118.230844,50.975468,0 -118.230749,50.975631,0 -118.230693,50.975686,0 -118.230638,50.975776,0 -118.230583,50.97584,0 -118.230569,50.975858,0 -118.230515,50.975939,0 -118.230474,50.976003,0 -118.230334,50.976138,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6822,7 +6899,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91, westbound. Vehicle incident between Boundary Rd and Exit 11: Westminster Hwy (Richmond). Roadway reduced to one lane. Emergency vehicles on scene. Expect delays. Next update time Wed Nov 26 at 5:30 PM PST. Last updated Wed Nov 26 at 4:57 PM PST. (DBC-83972)</name>
+          <name>Highway 91, westbound. Vehicle incident between Boundary Rd and Exit 11: Westminster Hwy (Richmond). Roadway reduced to one lane. Emergency vehicles on scene. Expect delays. Next update time Wed Nov 26 at 6:30 PM PST. Last updated Wed Nov 26 at 6:06 PM PST. (DBC-83972)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6834,8 +6911,8 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 11: Westminster Hwy and Boundary Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T16:57:50-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-26T17:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T18:06:34-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-26T18:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-83972
@@ -6922,6 +6999,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Stalled vehicle between Blundell Rd and Exit 32: Steveston Hwy (Richmond). Exit lane to Steveston Hwy partially blocked. Pass with caution. Next update time Wed Nov 26 at 6:30 PM PST. Last updated Wed Nov 26 at 5:46 PM PST. (DBC-83973)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 32: Steveston Hwy and Blundell Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T17:46:47-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-26T18:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83973
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.086578,49.13777,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection. Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road. Next update time Tue Apr 14, 2026 at 9:00 AM PDT. Last updated Mon Apr 14 at 9:09 AM PDT. (DBC-23443)</name>
           <description>
     &lt;![CDATA[
@@ -6944,31 +7046,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.432976,52.815713,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, southbound. Stalled vehicle between Blundell Rd and Exit 32: Steveston Hwy (Richmond). Exit lane to Steveston Hwy partially blocked. Pass with caution. Next update time Wed Nov 26 at 5:45 PM PST. Last updated Wed Nov 26 at 5:16 PM PST. (DBC-83973)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 32: Steveston Hwy and Blundell Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T17:16:38-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-26T17:45:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83973
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.086578,49.13777,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -7048,31 +7125,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Police incident between Exit 27: E 1st Ave and Exit 28: Boundary Rd (Vancouver). Left lane is blocked. Expect delays. Next update time Wed Nov 26 at 6:00 PM PST. Last updated Wed Nov 26 at 5:07 PM PST. (DBC-83976)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 27: E 1st Ave and Exit 28: Boundary Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T17:07:17-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-26T18:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83976
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.02704,49.268012,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave (14 km east of East Boundary of Glacier National Park). Redgrave rest area is permanently closed. New rest area will be built just west of the current location. Stay tuned for more updates as construction progresses. Next update time Mon Dec 1. Last updated Mon Jul 21 at 12:51 PM MDT. (DBC-73964)</name>
           <description>
     &lt;![CDATA[
@@ -7120,6 +7172,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.489194,52.972914,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91A, westbound. Stalled vehicle at Boundary Rd (Richmond). Left lane is blocked. Expect delays. Next update time Wed Nov 26 at 6:30 PM PST. Last updated Wed Nov 26 at 5:43 PM PST. (DBC-83979)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Boundary Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-26T17:43:09-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-26T18:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-83979
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.957336,49.177176,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
