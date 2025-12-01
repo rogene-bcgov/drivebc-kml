@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-01 06:42:55 UTC
+        Last updated: 2025-12-01 07:03:35 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (269)</name>
+      <name>🚗 Traffic Events (270)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3355,6 +3355,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Bridge maintenance at 152 St (Surrey). Until Mon Dec 1 at 5:00 AM PST. Right lane closed. Watch for traffic control. Last updated Sun Nov 30 at 10:44 PM PST. (DBC-84100)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 152 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-30T22:44:03-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84100
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.801177,49.058546,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), eastbound. Ditching at Garret Rd (46 km west of Princeton). Right lane closed. Last updated Fri Oct 10 at 1:55 PM PDT. (DBC-82499)</name>
           <description>
     &lt;![CDATA[
@@ -6018,31 +6043,6 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave (14 km east of East Boundary of Glacier National Park). Redgrave rest area is permanently closed. New rest area will be built just west of the current location. Stay tuned for more updates as construction progresses. Next update time Mon Dec 1. Last updated Mon Jul 21 at 12:51 PM MDT. (DBC-73964)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Redgrave&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-07-21T11:51:02-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-11-30T23:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-73964
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-117.35359,51.480185,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)</name>
           <description>
     &lt;![CDATA[
@@ -6065,6 +6065,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.489194,52.972914,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave (14 km east of East Boundary of Glacier National Park). Redgrave rest area is permanently closed. New rest area will be built just west of the current location. Stay tuned for more updates as construction progresses. Last updated Sun Nov 30 at 11:48 PM MST. (DBC-73964)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Redgrave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-30T22:48:07-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-73964
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-117.35359,51.480185,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
