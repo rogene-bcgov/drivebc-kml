@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-01 08:41:49 UTC
+        Last updated: 2025-12-01 09:04:23 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (268)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3303,6 +3303,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road sweeping between United Blvd and Port Mann Bridge (Coquitlam). Until Mon Dec 1 at 2:00 AM PST. Watch for traffic control. Lane blocked. Crews will be sweeping in both Surrey Exit lanes through the evening. Last updated Mon Dec 1 at 12:37 AM PST. (DBC-84102)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between United Blvd and Port Mann Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T00:37:17-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84102
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.813667,49.220621,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 5. Blasting planned between McMurphy Station Rd and McMurphy Pullout; SA Boundary for 0.9 km (19 to 18 km south of Avola). Starting Wed Dec 3 at 11:00 AM PST until Wed Dec 3 at 3:00 PM PST. Lane closures in both directions planned. Expect minor delays. Watch for traffic control personnel. Last updated Thu Nov 27 at 11:02 AM PST. (DBC-84006)</name>
           <description>
     &lt;![CDATA[
@@ -6193,7 +6218,7 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Stalled vehicle between 72 St and Exit 20 (Delta). HOV lane closed. Watch for traffic control. HOV / Bus lane blocked. Next update time Mon Dec 1 at 12:45 AM PST. Last updated Mon Dec 1 at 12:27 AM PST. (DBC-84101)</name>
+          <name>Highway 99, southbound. Stalled vehicle between 72 St and Exit 20 (Delta). HOV lane closed. Watch for traffic control. HOV / Bus lane blocked. Next update time Mon Dec 1 at 1:30 AM PST. Last updated Mon Dec 1 at 12:46 AM PST. (DBC-84101)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6205,8 +6230,8 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 20 and 72 St&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T00:27:56-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-01T00:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T00:46:09-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-01T01:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-84101
@@ -6215,6 +6240,31 @@ Reduce Speed and Use Caution when Passing Expect up to 15 min. Delays. Last upda
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.991295,49.09056,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Exit 40: Brunette Ave and King Edward St (Coquitlam). HOV lane closed. Watch for traffic control. Tow truck on scene. Next update time Mon Dec 1 at 1:15 AM PST. Last updated Mon Dec 1 at 12:42 AM PST. (DBC-84103)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 40: Brunette Ave and King Edward St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T00:42:36-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-01T01:15:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84103
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.866723,49.232831,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
