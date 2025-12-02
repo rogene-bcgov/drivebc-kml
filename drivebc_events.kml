@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-02 10:02:34 UTC
+        Last updated: 2025-12-02 10:38:13 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (327)</name>
+      <name>🚗 Traffic Events (326)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -377,31 +377,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.756997,48.804901,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1A, eastbound. Bridge construction at Pattullo Bridge (New Westminster). Until Tue Dec 2 at 2:00 AM PST. Bridge is closed. Southbound closure, northbound will be open. Alternate route Alex Fraser Bridge or Port Mann Bridge. Next update time Tue Dec 2 at 2:00 AM PST. Last updated Mon Dec 1 at 11:01 AM PST. (DBC-83869)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Pattullo Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; New Westminster&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T21:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-02T02:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-83869
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.894618,49.207727,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4759,7 +4734,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 7: Westridge Ave and Almondel Rd for 1.5 km (West Vancouver). Road closed. Next update time Tue Dec 2 at 2:30 AM PST. Last updated Tue Dec 2 at 1:16 AM PST. (DBC-84156)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 7: Westridge Ave and Almondel Rd for 1.5 km (West Vancouver). Road closed. Westbound traffic is being diverted through the brake check. Next update time Tue Dec 2 at 3:30 AM PST. Last updated Tue Dec 2 at 2:19 AM PST. (DBC-84156)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4771,8 +4746,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Almondel Rd and Exit 7: Westridge Ave for 1.5 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T01:16:45-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-02T02:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T02:19:29-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-02T03:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-84156
@@ -4782,6 +4757,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.236371,49.348984,0 -123.235963,49.348983,0 -123.233838,49.348976,0 -123.231747,49.348804,0 -123.230492,49.348659,0 -123.228278,49.34828,0 -123.227117,49.347991,0 -123.221835,49.346676,0 -123.219554,49.346389,0 -123.216591,49.34623,0 -123.216463,49.346223,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, in both directions. Vehicle incident between Porteau Cove and Sea View Dr for 2.5 km (10 to 7 km south of Squamish). Single lane alternating traffic. Next update time Tue Dec 2 at 4:00 AM PST. Last updated Tue Dec 2 at 2:23 AM PST. (DBC-84157)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Porteau Cove and Sea View Dr for 2.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 to 10 km south of Squamish&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T02:23:40-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-02T04:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84157
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.232512,49.560329,0 -123.232533,49.560646,0 -123.232559,49.560992,0 -123.232565,49.561134,0 -123.232581,49.561237,0 -123.232612,49.561381,0 -123.232645,49.561488,0 -123.232734,49.561661,0 -123.232786,49.561774,0 -123.232846,49.561902,0 -123.23293,49.562062,0 -123.233019,49.5622,0 -123.233182,49.562456,0 -123.233373,49.562695,0 -123.233457,49.562864,0 -123.233547,49.563082,0 -123.233599,49.563233,0 -123.233648,49.563431,0 -123.233657,49.563625,0 -123.233641,49.563882,0 -123.233622,49.564053,0 -123.233602,49.564206,0 -123.233586,49.564369,0 -123.233573,49.564556,0 -123.233541,49.564807,0 -123.233485,49.565042,0 -123.23343,49.565209,0 -123.233346,49.565398,0 -123.232752,49.566479,0 -123.232489,49.566784,0 -123.23189,49.567362,0 -123.231627,49.567659,0 -123.231395,49.568011,0 -123.231104,49.568859,0 -123.2301,49.570147,0 -123.229831,49.570665,0 -123.229597,49.571336,0 -123.2295,49.571466,0 -123.229241,49.572486,0 -123.229095,49.572846,0 -123.228881,49.573175,0 -123.227656,49.574347,0 -123.227421,49.574684,0 -123.226853,49.575925,0 -123.225856,49.577221,0 -123.225618,49.57753,0 -123.225441,49.577776,0 -123.224918,49.578779,0 -123.224796,49.578919,0 -123.224464,49.579298,0 -123.223677,49.57985,0 -123.223591,49.579906,0 -123.222709,49.580478,0 -123.222344,49.580816,0 -123.222285,49.580889,0 -123.222088,49.581134,0 -123.222002,49.581322,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -8434,32 +8435,6 @@
       </Folder>
       <Folder>
         <name>Chain Up Events</name>
-        <Placemark>
-          <name>Highway 6 NS. Commercial chain up in effect between Slocan Ave and Denver Three Forks Rd for 0.1 km (New Denver).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Slocan Ave and Denver Three Forks Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; New Denver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T00:02:22-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-228319
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.372234,49.98949,0 -117.372244,49.989252,0 -117.372253,49.98916,0 -117.372268,49.988872,0 -117.37227,49.988784,0 -117.372281,49.988587,0</coordinates>
-          </LineString>
-        </Placemark>
         <Placemark>
           <name>Highway 3A. Commercial chain up in effect between Kootenay Bay Ferry and Scott Rd for 0.1 km (Kootenay Bay Ferry Landing).</name>
           <description>
