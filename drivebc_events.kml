@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-02 17:04:23 UTC
+        Last updated: 2025-12-02 17:37:05 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (343)</name>
+      <name>🚗 Traffic Events (344)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -840,6 +840,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Maintenance between Exit 7: Westridge Ave and Almondel Rd (West Vancouver). Until Tue Dec 2 at 2:30 PM PST. Left lane is closed. Last updated Tue Dec 2 at 9:28 AM PST. (DBC-84177)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Almondel Rd and Exit 7: Westridge Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T09:28:14-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84177
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.230492,49.348659,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 19A (Island Highway). Construction work between Henry Rd and Heard Rd for 2.8 km (4 to 1 km south of Campbell River). Until Fri Jan 30, 2026 at 7:00 PM PDT. Multiple locations. Work at each location done within 3 hrs. Last updated Tue Apr 8 at 2:45 PM PDT. (DBC-75100)</name>
           <description>
     &lt;![CDATA[
@@ -889,6 +914,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.49285,49.089382,0 -122.49288,49.090793,0 -122.492875,49.091452,0 -122.492856,49.093872,0 -122.492852,49.094394,0 -122.492847,49.095032,0 -122.492846,49.095176,0 -122.492841,49.095842,0 -122.492836,49.096481,0 -122.492835,49.096578,0 -122.492839,49.096796,0 -122.492864,49.098335,0 -122.492879,49.099233,0 -122.492876,49.099309,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, westbound. Road maintenance work between 104 Ave and 136 St for 8.7 km (Surrey). Until Tue Dec 2 at 1:30 PM PST. Left lane is closed. Watch for traffic control. Maintenance planned in front of the North Surrey Truck Parking. Last updated Mon Dec 1 at 8:48 AM PST. (DBC-84114)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 136 St and 104 Ave for 8.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T09:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84114
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.845251,49.213071,0 -122.844909,49.213059,0 -122.843955,49.213067,0 -122.84281,49.213142,0 -122.842142,49.213214,0 -122.84151,49.213299,0 -122.840609,49.213462,0 -122.839762,49.213659,0 -122.838202,49.214072,0 -122.837227,49.214281,0 -122.836485,49.214401,0 -122.835922,49.214465,0 -122.835371,49.214524,0 -122.834707,49.214561,0 -122.834205,49.214585,0 -122.833689,49.214584,0 -122.833218,49.214575,0 -122.832596,49.214543,0 -122.830114,49.214357,0 -122.82918,49.214306,0 -122.8283,49.214292,0 -122.826438,49.214324,0 -122.824682,49.214346,0 -122.823471,49.214389,0 -122.822299,49.214446,0 -122.820761,49.214526,0 -122.819346,49.214568,0 -122.818351,49.214586,0 -122.816928,49.214573,0 -122.816008,49.214549,0 -122.815035,49.214503,0 -122.814107,49.214445,0 -122.811764,49.214272,0 -122.811185,49.21423,0 -122.81104,49.214219,0 -122.810725,49.214196,0 -122.81058,49.214186,0 -122.810188,49.214157,0 -122.810076,49.21415,0 -122.809235,49.214066,0 -122.808208,49.213982,0 -122.807369,49.213887,0 -122.806561,49.213774,0 -122.805926,49.213671,0 -122.804003,49.213348,0 -122.802092,49.213027,0 -122.799535,49.212603,0 -122.798319,49.212402,0 -122.797452,49.21225,0 -122.796734,49.21213,0 -122.796025,49.212029,0 -122.795653,49.21198,0 -122.795109,49.211927,0 -122.794434,49.211875,0 -122.793944,49.211859,0 -122.793603,49.211848,0 -122.792397,49.211856,0 -122.791267,49.211898,0 -122.789376,49.211968,0 -122.788705,49.21198,0 -122.78787,49.211955,0 -122.787445,49.211935,0 -122.786727,49.211875,0 -122.784292,49.211608,0 -122.783648,49.211538,0 -122.782039,49.211363,0 -122.781401,49.211307,0 -122.78082,49.211265,0 -122.780076,49.211233,0 -122.779185,49.211209,0 -122.7778,49.211229,0 -122.776691,49.211276,0 -122.776104,49.211295,0 -122.775677,49.211299,0 -122.775074,49.211288,0 -122.774367,49.211231,0 -122.773681,49.21115,0 -122.773132,49.211067,0 -122.772479,49.210946,0 -122.77185,49.210801,0 -122.771812,49.21079,0 -122.77131,49.21065,0 -122.770732,49.210465,0 -122.770086,49.210225,0 -122.769496,49.209977,0 -122.7689,49.209696,0 -122.768194,49.209294,0 -122.767295,49.208762,0 -122.766594,49.208341,0 -122.765821,49.207895,0 -122.76268,49.206002,0 -122.761854,49.205497,0 -122.76107,49.205051,0 -122.758141,49.20344,0 -122.756485,49.202513,0 -122.754939,49.201648,0 -122.751737,49.199907,0 -122.74816,49.197976,0 -122.747516,49.197588,0 -122.746896,49.197178,0 -122.74641,49.196805,0 -122.745817,49.196304,0 -122.745086,49.195638,0 -122.744593,49.195214,0 -122.743174,49.194105,0 -122.742707,49.193807,0 -122.742026,49.193371,0 -122.741777,49.193212,0 -122.741413,49.192983,0 -122.741025,49.192764,0 -122.740459,49.192469,0 -122.739954,49.192207,0 -122.739652,49.192055,0 -122.738491,49.191487,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3122,32 +3173,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 17, westbound. Road maintenance work planned between 104 Ave and 136 St for 8.7 km (Surrey). Starting Tue Dec 2 at 9:30 AM PST until Tue Dec 2 at 1:30 PM PST. Left lane will be closed. Watch for traffic control personnel. Maintenance planned in front of the North Surrey Truck Parking. Last updated Mon Dec 1 at 8:48 AM PST. (DBC-84114)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 136 St and 104 Ave for 8.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T08:48:53-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-84114
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.845251,49.213071,0 -122.844909,49.213059,0 -122.843955,49.213067,0 -122.84281,49.213142,0 -122.842142,49.213214,0 -122.84151,49.213299,0 -122.840609,49.213462,0 -122.839762,49.213659,0 -122.838202,49.214072,0 -122.837227,49.214281,0 -122.836485,49.214401,0 -122.835922,49.214465,0 -122.835371,49.214524,0 -122.834707,49.214561,0 -122.834205,49.214585,0 -122.833689,49.214584,0 -122.833218,49.214575,0 -122.832596,49.214543,0 -122.830114,49.214357,0 -122.82918,49.214306,0 -122.8283,49.214292,0 -122.826438,49.214324,0 -122.824682,49.214346,0 -122.823471,49.214389,0 -122.822299,49.214446,0 -122.820761,49.214526,0 -122.819346,49.214568,0 -122.818351,49.214586,0 -122.816928,49.214573,0 -122.816008,49.214549,0 -122.815035,49.214503,0 -122.814107,49.214445,0 -122.811764,49.214272,0 -122.811185,49.21423,0 -122.81104,49.214219,0 -122.810725,49.214196,0 -122.81058,49.214186,0 -122.810188,49.214157,0 -122.810076,49.21415,0 -122.809235,49.214066,0 -122.808208,49.213982,0 -122.807369,49.213887,0 -122.806561,49.213774,0 -122.805926,49.213671,0 -122.804003,49.213348,0 -122.802092,49.213027,0 -122.799535,49.212603,0 -122.798319,49.212402,0 -122.797452,49.21225,0 -122.796734,49.21213,0 -122.796025,49.212029,0 -122.795653,49.21198,0 -122.795109,49.211927,0 -122.794434,49.211875,0 -122.793944,49.211859,0 -122.793603,49.211848,0 -122.792397,49.211856,0 -122.791267,49.211898,0 -122.789376,49.211968,0 -122.788705,49.21198,0 -122.78787,49.211955,0 -122.787445,49.211935,0 -122.786727,49.211875,0 -122.784292,49.211608,0 -122.783648,49.211538,0 -122.782039,49.211363,0 -122.781401,49.211307,0 -122.78082,49.211265,0 -122.780076,49.211233,0 -122.779185,49.211209,0 -122.7778,49.211229,0 -122.776691,49.211276,0 -122.776104,49.211295,0 -122.775677,49.211299,0 -122.775074,49.211288,0 -122.774367,49.211231,0 -122.773681,49.21115,0 -122.773132,49.211067,0 -122.772479,49.210946,0 -122.77185,49.210801,0 -122.771812,49.21079,0 -122.77131,49.21065,0 -122.770732,49.210465,0 -122.770086,49.210225,0 -122.769496,49.209977,0 -122.7689,49.209696,0 -122.768194,49.209294,0 -122.767295,49.208762,0 -122.766594,49.208341,0 -122.765821,49.207895,0 -122.76268,49.206002,0 -122.761854,49.205497,0 -122.76107,49.205051,0 -122.758141,49.20344,0 -122.756485,49.202513,0 -122.754939,49.201648,0 -122.751737,49.199907,0 -122.74816,49.197976,0 -122.747516,49.197588,0 -122.746896,49.197178,0 -122.74641,49.196805,0 -122.745817,49.196304,0 -122.745086,49.195638,0 -122.744593,49.195214,0 -122.743174,49.194105,0 -122.742707,49.193807,0 -122.742026,49.193371,0 -122.741777,49.193212,0 -122.741413,49.192983,0 -122.741025,49.192764,0 -122.740459,49.192469,0 -122.739954,49.192207,0 -122.739652,49.192055,0 -122.738491,49.191487,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (on Haida Gwaii), in both directions. Road maintenance work between Lawnhill Rd and Miller Rd for 9.3 km (13 to 4 km west of Skidegate). Watch for traffic control. Culvert work, reduce speed, watch for crews, obey traffic signs. Next update time Wed Dec 3 at 12:30 PM PST. Last updated Wed Nov 26 at 12:29 PM PST. (DBC-80321)</name>
           <description>
     &lt;![CDATA[
@@ -3535,6 +3560,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Gladwin Rd and Nicomen River Rd (7 km east of Lytton). Until Fri Dec 19. Single lane alternating traffic. Gladwin Culvert Replacement. Please watch for signage and personnel. Expect minor delays of up to 5 minutes. Next update time Fri Dec 19 at 3:00 PM PST. Last updated Tue Dec 2 at 9:06 AM PST. (DBC-84149)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Gladwin Rd and Nicomen River Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 km east of Lytton&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T09:06:55-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-19T15:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84149
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.478881,50.248031,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 28, westbound. Roadside brushing between Campbell River Rd and Gold River Hwy for 86.9 km (Gold River to Campbell River). Until Fri Dec 5 at 5:00 PM PST. From 7:00 AM to 5:00 PM PST on weekdays. Watch for traffic control. Slow moving operation. Last updated Tue Nov 18 at 8:23 AM PST. (DBC-83609)</name>
           <description>
     &lt;![CDATA[
@@ -3585,31 +3635,6 @@
             <tessellate>1</tessellate>
             <coordinates>-121.761594,49.238143,0 -121.761846,49.238162,0 -121.765933,49.238468,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway). Construction work between Gladwin Rd and Nicomen River Rd (7 km east of Lytton). Until Fri Dec 19. From 7:00 AM to 6:00 PM PST on weekdays and Saturday. Single lane alternating traffic. Gladwin Culvert Replacement. Please watch for signage and personnel. Expect minor delays of up to 5 minutes. Next update time Fri Dec 19 at 3:00 PM PST. Last updated Mon Dec 1 at 6:14 PM PST. (DBC-84149)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Gladwin Rd and Nicomen River Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 km east of Lytton&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T18:14:05-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-19T15:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-84149
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.478881,50.248031,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Shoulder maintenance planned between Sunshine Valley and Second Avalanche Gate for 7.2 km (17 to 25 km east of Hope). Starting Thu Dec 4 at 8:00 AM PST until Thu Dec 4 at 4:30 PM PST. Single lane alternating traffic will be in effect. 19 Mile Bridge Hwy 3 near engineers pullout. Last updated Mon Dec 1 at 3:55 PM PST. (DBC-84147)</name>
