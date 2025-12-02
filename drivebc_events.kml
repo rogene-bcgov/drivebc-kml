@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-02 02:17:23 UTC
+        Last updated: 2025-12-02 03:00:09 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (315)</name>
+      <name>🚗 Traffic Events (317)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3584,31 +3584,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Construction work between Gladwin Rd and Nicomen River Rd (7 km east of Lytton). Until Fri Dec 19. From 7:00 AM to 6:00 PM PST on weekdays and Saturday. Single lane alternating traffic. Gladwin Culvert Replacement. Please watch for signage and personnel. Expect minor delays of up to 5 minutes. Next update time Fri Dec 19 at 3:00 PM PST. Last updated Mon Dec 1 at 6:12 PM PST. (DBC-84149)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Gladwin Rd and Nicomen River Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 km east of Lytton&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T18:12:33-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-19T15:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-84149
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-121.478881,50.248031,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 28, westbound. Roadside brushing between Campbell River Rd and Gold River Hwy for 86.9 km (Gold River to Campbell River). Until Fri Dec 5 at 5:00 PM PST. From 7:00 AM to 5:00 PM PST on weekdays. Watch for traffic control. Slow moving operation. Last updated Tue Nov 18 at 8:23 AM PST. (DBC-83609)</name>
           <description>
     &lt;![CDATA[
@@ -3659,6 +3634,31 @@
             <tessellate>1</tessellate>
             <coordinates>-121.761594,49.238143,0 -121.761846,49.238162,0 -121.765933,49.238468,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Construction work between Gladwin Rd and Nicomen River Rd (7 km east of Lytton). Until Fri Dec 19. From 7:00 AM to 6:00 PM PST on weekdays and Saturday. Single lane alternating traffic. Gladwin Culvert Replacement. Please watch for signage and personnel. Expect minor delays of up to 5 minutes. Next update time Fri Dec 19 at 3:00 PM PST. Last updated Mon Dec 1 at 6:14 PM PST. (DBC-84149)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Gladwin Rd and Nicomen River Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 km east of Lytton&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T18:14:05-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-19T15:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84149
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.478881,50.248031,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Shoulder maintenance planned between Sunshine Valley and Second Avalanche Gate for 7.2 km (17 to 25 km east of Hope). Starting Thu Dec 4 at 8:00 AM PST until Thu Dec 4 at 4:30 PM PST. Single lane alternating traffic will be in effect. 19 Mile Bridge Hwy 3 near engineers pullout. Last updated Mon Dec 1 at 3:55 PM PST. (DBC-84147)</name>
@@ -4913,7 +4913,33 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle at Exit 33: Kensington Ave (Burnaby). Expect delays. Next update time Mon Dec 1 at 6:15 PM PST. Last updated Mon Dec 1 at 5:50 PM PST. (DBC-84148)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. There is a multi-vehicle incident between Vicars Rd and Copperhead Dr for 9.5 km (Kamloops). Multiple spun out semis, please watch for crews and equipment. Last updated Mon Dec 1 at 6:46 PM PST. (DBC-84150)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Copperhead Dr and Vicars Rd for 9.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kamloops&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T18:46:37-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84150
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.398841,50.660807,0 -120.398727,50.660779,0 -120.398658,50.660762,0 -120.396008,50.66012,0 -120.394518,50.659662,0 -120.393737,50.65928,0 -120.393214,50.658966,0 -120.392623,50.658525,0 -120.390414,50.656643,0 -120.389452,50.656125,0 -120.388615,50.655813,0 -120.387903,50.655629,0 -120.385289,50.655131,0 -120.384216,50.654893,0 -120.383186,50.654585,0 -120.379288,50.65304,0 -120.379156,50.652994,0 -120.378384,50.652778,0 -120.377454,50.652579,0 -120.376292,50.652485,0 -120.375198,50.652511,0 -120.374034,50.652605,0 -120.373313,50.652716,0 -120.37149,50.653111,0 -120.368755,50.653667,0 -120.368519,50.653709,0 -120.364887,50.654535,0 -120.363751,50.655045,0 -120.363346,50.655362,0 -120.362999,50.65575,0 -120.361968,50.65755,0 -120.361479,50.65821,0 -120.360949,50.658732,0 -120.360103,50.65927,0 -120.359558,50.659599,0 -120.356953,50.660706,0 -120.355922,50.661051,0 -120.355243,50.661201,0 -120.354625,50.661297,0 -120.349873,50.662037,0 -120.347893,50.662179,0 -120.347449,50.662211,0 -120.347231,50.662214,0 -120.346877,50.662205,0 -120.344019,50.662132,0 -120.340275,50.661926,0 -120.336459,50.661765,0 -120.33471,50.66173,0 -120.330509,50.661737,0 -120.329666,50.661743,0 -120.328449,50.661751,0 -120.32778,50.661756,0 -120.324741,50.661804,0 -120.323367,50.661826,0 -120.32215,50.66194,0 -120.32015,50.662249,0 -120.318901,50.662559,0 -120.317428,50.662998,0 -120.315808,50.663627,0 -120.314755,50.664146,0 -120.313974,50.664602,0 -120.313011,50.665335,0 -120.312463,50.665789,0 -120.311401,50.666669,0 -120.310821,50.667063,0 -120.31006,50.667466,0 -120.307974,50.668287,0 -120.306644,50.66881,0 -120.304966,50.669508,0 -120.303313,50.670435,0 -120.303302,50.670441,0 -120.302025,50.671183,0 -120.300986,50.671679,0 -120.299595,50.672121,0 -120.298019,50.672544,0 -120.297679,50.672635,0 -120.297466,50.672692,0 -120.297423,50.672703,0 -120.29719,50.672765,0 -120.296865,50.672851,0 -120.295797,50.673193,0 -120.294909,50.673585,0 -120.291675,50.675562,0 -120.290281,50.676416,0 -120.289588,50.676762,0 -120.288563,50.677192,0 -120.287453,50.677573,0 -120.286309,50.677893,0 -120.283474,50.678455,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared at Exit 33: Kensington Ave (Burnaby). Last updated Mon Dec 1 at 6:49 PM PST. (DBC-84148)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4925,8 +4951,8 @@
     &lt;b&gt;Location:&lt;/b&gt; At Exit 33: Kensington Ave&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T17:50:14-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-01T18:15:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T18:49:46-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-84148
@@ -5980,7 +6006,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 6 EW. Watch for slippery sections between Monashee Summit and Needles Ferry for 40.2 km (Monashee Summit to Needles). Slushy sections. Last updated Mon Dec 1 at 4:19 PM PST. (DBCRCON-228153)</name>
+          <name>Highway 6 EW. Compact ice between Monashee Summit and Needles Ferry for 40.2 km (Monashee Summit to Needles). Limited visibility with snow. Watch for slippery sections. Last updated Mon Dec 1 at 6:29 PM PST. (DBCRCON-228153)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5992,7 +6018,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Monashee Summit and Needles Ferry for 40.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Needles to Monashee Summit&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T16:19:40-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T18:29:30-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6292,7 +6318,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3A. Watch for slippery sections between Kootenay Bay Ferry and Junction Hwy 3 for 78.0 km (1 km north of Kootenay Bay Ferry Landing to Creston). Last updated Mon Dec 1 at 3:55 PM PST. (DBCRCON-228140)</name>
+          <name>Highway 3A. Watch for slippery sections between Kootenay Bay Ferry and Junction Hwy 3 for 78.0 km (1 km north of Kootenay Bay Ferry Landing to Creston). Last updated Mon Dec 1 at 6:45 PM PST. (DBCRCON-228140)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6304,7 +6330,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Kootenay Bay Ferry and Junction Hwy 3 for 78.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Creston to 1 km north of Kootenay Bay Ferry Landing&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T15:55:14-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T18:45:24-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -8224,7 +8250,7 @@
       <Folder>
         <name>Chain Up Events</name>
         <Placemark>
-          <name>Highway 5 (Coquihalla South). Commercial chain up in effect between Exit 202: Portia and Exit 217: Zopkios Brake Check for 0.1 km (2 km south of Great Bear Snowshed).</name>
+          <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between West Avalanche Gate and East Avalanche Gate for 0.1 km (9 km west of Kootenay Pass).</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -8232,21 +8258,47 @@
     &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 202: Portia and Exit 217: Zopkios Brake Check&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km south of Great Bear Snowshed&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between West Avalanche Gate and East Avalanche Gate&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 km west of Kootenay Pass&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T15:05:54-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T18:57:08-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-228227
+    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-228290
     ]]&gt;
     </description>
           <styleUrl>#style_CHAIN_UP</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-121.180268,49.574926,0 -121.179513,49.575614,0 -121.179464,49.575658,0</coordinates>
+            <coordinates>-117.141373,49.037791,0 -117.141141,49.038679,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between West Avalanche Gate and East Avalanche Gate for 0.1 km (5 to 6 km east of Kootenay Pass).</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between West Avalanche Gate and East Avalanche Gate&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 5 km east of Kootenay Pass&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T18:57:08-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-228291
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CHAIN_UP</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.001326,49.095686,0 -117.000804,49.095756,0 -117.000087,49.095852,0 -116.999993,49.095866,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
