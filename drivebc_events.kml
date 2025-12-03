@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-03 07:03:09 UTC
+        Last updated: 2025-12-03 07:35:08 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (302)</name>
+      <name>🚗 Traffic Events (304)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -866,6 +866,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97 (Alaska Highway), in both directions. Bridge maintenance between Macdonald Campground Access Rd and Liard River Hotsprings Access Rd (301 km north of Fort Nelson). Until Sat Dec 20. From 6:00 AM to 6:00 PM MST daily. Single lane alternating traffic. Last updated Tue Dec 2 at 11:07 AM MST. (DBC-84178)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Macdonald Campground Access Rd and Liard River Hotsprings Access Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 301 km north of Fort Nelson&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T23:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84178
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-126.095562,59.413197,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (on Haida Gwaii), in both directions. Bridge maintenance between E Cedar Ave and Beitush Rd for 6.3 km (7 km west of Tlell to 5 km east of Port Clements). Bridge construction. Bridge repairs in effect at Woodpile Bridge. Speed reduction, reduce speed. Next update time Wed Dec 3 at 12:30 PM PST. Last updated Wed Nov 26 at 12:30 PM PST. (DBC-74895)</name>
           <description>
     &lt;![CDATA[
@@ -890,31 +915,6 @@
             <tessellate>1</tessellate>
             <coordinates>-132.101901,53.652339,0 -132.096851,53.650278,0 -132.088324,53.646798,0 -132.085928,53.645819,0 -132.083003,53.644625,0 -132.082869,53.64457,0 -132.082571,53.644449,0 -132.082415,53.644385,0 -132.082343,53.644355,0 -132.074681,53.641206,0 -132.071678,53.639972,0 -132.062631,53.635968,0 -132.053906,53.632125,0 -132.053758,53.632059,0 -132.053626,53.632001,0 -132.053475,53.631935,0 -132.053433,53.631916,0 -132.053213,53.631819,0 -132.044452,53.627934,0 -132.040518,53.626189,0 -132.033658,53.623145,0 -132.031814,53.622327,0 -132.03136,53.622126,0 -132.029783,53.621426,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97 (Alaska Highway), in both directions. Bridge maintenance planned between Macdonald Campground Access Rd and Liard River Hotsprings Access Rd (301 km north of Fort Nelson). Starting Wed Dec 3 until Sat Dec 20. From 6:00 AM to 6:00 PM MST daily. Single lane alternating traffic will be in effect. Last updated Tue Dec 2 at 11:07 AM MST. (DBC-84178)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Macdonald Campground Access Rd and Liard River Hotsprings Access Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 301 km north of Fort Nelson&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T10:07:23-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-84178
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-126.095562,59.413197,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work between Dallas Rd and Bull Mountain Rd for 0.6 km (3 km north of Wildwood). Until Sun Dec 14. From 8:00 AM to 4:00 PM PST daily. Please watch for signage and personnel. Expect minor delays of up to five minutes. Last updated Mon Nov 10 at 1:43 PM PST. (DBC-83381)</name>
@@ -3091,6 +3091,58 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.663719,53.633749,0 -122.663705,53.633976,0 -122.663688,53.634287,0 -122.663669,53.634615,0 -122.663657,53.634818,0 -122.663649,53.635501,0 -122.66364,53.636233,0 -122.66343,53.638369,0 -122.663441,53.639371,0 -122.663593,53.640474,0 -122.663882,53.641691,0 -122.664443,53.64304,0 -122.665248,53.644438,0 -122.666347,53.645886,0 -122.667428,53.647016,0 -122.66882,53.648212,0 -122.670427,53.649355,0 -122.673068,53.65108,0 -122.675494,53.652404,0 -122.675867,53.652627,0 -122.676429,53.653025,0 -122.676863,53.653462,0 -122.677176,53.65392,0 -122.677347,53.654401,0 -122.677416,53.654875,0 -122.677417,53.655081,0 -122.677418,53.655171,0 -122.677433,53.657473,0 -122.677451,53.659685,0 -122.677465,53.66127,0 -122.677468,53.661625,0 -122.677479,53.662816,0 -122.677499,53.665101,0 -122.677514,53.666733,0 -122.67748,53.666947,0 -122.677055,53.66962,0 -122.677004,53.669914,0 -122.676979,53.670055,0 -122.676512,53.672242,0 -122.676437,53.672447,0 -122.67576,53.673667,0 -122.674828,53.674876,0 -122.674488,53.675444,0 -122.674216,53.676063,0 -122.674081,53.676415,0 -122.673911,53.676859,0 -122.673869,53.677299,0 -122.673838,53.677626,0 -122.673829,53.677827,0 -122.673843,53.678147,0 -122.673855,53.67841,0 -122.673951,53.679231,0 -122.674166,53.680319,0 -122.674232,53.68123,0 -122.67419,53.682396,0 -122.674172,53.682888,0 -122.673999,53.684019,0 -122.673861,53.684921,0 -122.673737,53.685854,0 -122.673622,53.686405,0 -122.67356,53.686593,0 -122.673135,53.687433,0 -122.671069,53.69063,0 -122.670096,53.692128,0 -122.666659,53.697372,0 -122.666391,53.69778,0 -122.666256,53.697929,0 -122.665675,53.698569,0 -122.664944,53.699239,0 -122.664575,53.699577,0 -122.656832,53.70667,0 -122.656263,53.707354,0 -122.655831,53.708196,0 -122.65581,53.708284,0 -122.655659,53.708925,0 -122.655701,53.712398,0 -122.655706,53.713371,0 -122.655709,53.714018,0 -122.655718,53.715816,0 -122.655745,53.721123,0 -122.655785,53.726314,0 -122.655811,53.72972,0 -122.655839,53.733297,0 -122.655841,53.733523,0 -122.655857,53.7356,0 -122.655912,53.742854,0 -122.65593,53.745566,0 -122.655943,53.747455,0 -122.655958,53.749856,0 -122.655973,53.752013,0 -122.655993,53.755087,0 -122.656004,53.756732,0 -122.656024,53.759824,0 -122.656039,53.762197,0 -122.656055,53.764533,0 -122.656102,53.766297,0 -122.656118,53.76768,0 -122.656126,53.768327,0 -122.656145,53.769962,0 -122.656158,53.773837,0 -122.656168,53.776516,0 -122.656169,53.776794,0 -122.656184,53.781032,0 -122.656186,53.781262,0 -122.656223,53.785531,0 -122.656227,53.786026,0 -122.656237,53.78723,0 -122.656189,53.788209,0 -122.656253,53.7891,0 -122.656255,53.789721,0 -122.656256,53.792859,0 -122.656287,53.79656,0 -122.656298,53.797821,0 -122.65631,53.799251,0 -122.656325,53.80109,0 -122.656333,53.802007,0 -122.656345,53.803508,0 -122.656366,53.805989,0 -122.656383,53.808033,0 -122.656386,53.808399,0 -122.656402,53.810672,0 -122.656403,53.810825,0 -122.656412,53.81211,0 -122.656451,53.817674,0 -122.65646,53.81907,0 -122.656549,53.819295,0 -122.656798,53.819929,0 -122.656947,53.820131,0 -122.657335,53.820655,0 -122.65811,53.821284,0 -122.660228,53.822586,0 -122.677933,53.833467,0 -122.68325,53.836732,0 -122.687822,53.839537,0 -122.689277,53.84043,0 -122.691996,53.842097,0 -122.692286,53.842276,0 -122.692554,53.84244,0 -122.693001,53.842714,0 -122.696603,53.844922,0 -122.700129,53.847087,0 -122.701901,53.848175,0 -122.702091,53.848379,0 -122.704654,53.850002,0 -122.705046,53.85025,0 -122.705386,53.850442,0 -122.705812,53.850692,0 -122.708638,53.85237,0 -122.709918,53.853165,0 -122.712193,53.854533,0 -122.712748,53.854856,0 -122.71345,53.855326,0 -122.71362,53.855438,0 -122.713627,53.855443,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Maintenance between Exit 21: Mountain Hwy and Exit 18: Lonsdale Ave for 3.4 km (North Vancouver - District to North Vancouver - City). Until Wed Dec 3 at 5:00 AM PST. Right lane is blocked. Drain cleaning. Last updated Tue Dec 2 at 11:16 PM PST. (DBC-84200)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 18: Lonsdale Ave and Exit 21: Mountain Hwy for 3.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District to North Vancouver - City&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T23:16:22-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84200
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.072007,49.331879,0 -123.068904,49.331845,0 -123.062849,49.331778,0 -123.06279,49.331782,0 -123.060668,49.331907,0 -123.060573,49.331913,0 -123.06049,49.331918,0 -123.059879,49.331896,0 -123.059087,49.331799,0 -123.057887,49.331546,0 -123.057196,49.331323,0 -123.057047,49.331262,0 -123.056897,49.3312,0 -123.056388,49.330991,0 -123.056362,49.330981,0 -123.056201,49.330915,0 -123.055612,49.330585,0 -123.054475,49.329745,0 -123.054264,49.329527,0 -123.053743,49.328988,0 -123.053636,49.328879,0 -123.053582,49.328823,0 -123.053367,49.328601,0 -123.053023,49.328245,0 -123.052073,49.327551,0 -123.051481,49.327227,0 -123.050896,49.326948,0 -123.046732,49.325659,0 -123.045835,49.325228,0 -123.045234,49.324826,0 -123.044676,49.324243,0 -123.041899,49.320723,0 -123.039078,49.317153,0 -123.038491,49.316475,0 -123.037725,49.315663,0 -123.03769,49.315639,0 -123.037625,49.315596,0 -123.037589,49.315572,0 -123.037311,49.315384,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Road sweeping between Exit 21: Mountain Hwy and Exit 18: Lonsdale Ave for 3.4 km (North Vancouver - City to North Vancouver - District). Until Wed Dec 3 at 5:00 AM PST. Right lane is blocked. Last updated Tue Dec 2 at 11:18 PM PST. (DBC-84201)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 18: Lonsdale Ave and Exit 21: Mountain Hwy for 3.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - City to North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-02T23:18:02-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84201
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.072007,49.331879,0 -123.068904,49.331845,0 -123.062849,49.331778,0 -123.06279,49.331782,0 -123.060668,49.331907,0 -123.060573,49.331913,0 -123.06049,49.331918,0 -123.059879,49.331896,0 -123.059087,49.331799,0 -123.057887,49.331546,0 -123.057196,49.331323,0 -123.057047,49.331262,0 -123.056897,49.3312,0 -123.056388,49.330991,0 -123.056362,49.330981,0 -123.056201,49.330915,0 -123.055612,49.330585,0 -123.054475,49.329745,0 -123.054264,49.329527,0 -123.053743,49.328988,0 -123.053636,49.328879,0 -123.053582,49.328823,0 -123.053367,49.328601,0 -123.053023,49.328245,0 -123.052073,49.327551,0 -123.051481,49.327227,0 -123.050896,49.326948,0 -123.046732,49.325659,0 -123.045835,49.325228,0 -123.045234,49.324826,0 -123.044676,49.324243,0 -123.041899,49.320723,0 -123.039078,49.317153,0 -123.038491,49.316475,0 -123.037725,49.315663,0 -123.03769,49.315639,0 -123.037625,49.315596,0 -123.037589,49.315572,0 -123.037311,49.315384,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
