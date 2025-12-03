@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-03 17:36:52 UTC
+        Last updated: 2025-12-03 18:02:35 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (305)</name>
+      <name>🚗 Traffic Events (306)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -252,7 +252,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>216th St, northbound. Utility work planned between University Drive and Hwy 1 on-ramp. Starting Wed Dec 3 at 9:30 AM PST until Wed Dec 3 at 2:30 PM PST. Right lane will be blocked. Last updated Mon Dec 1 at 3:26 PM PST. (DBC-84144)</name>
+          <name>216th St, northbound. Utility work between University Drive and Hwy 1 on-ramp. Until Wed Dec 3 at 2:30 PM PST. Right lane is blocked. Last updated Mon Dec 1 at 3:26 PM PST. (DBC-84144)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -264,7 +264,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between University Drive and Hwy 1 on-ramp&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-01T15:26:34-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T09:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -1763,31 +1763,6 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), eastbound. Electrical maintenance planned between Dewdney Trunk Rd and Dyke Rd (Mission). Starting Wed Dec 3 at 9:30 AM PST until Wed Dec 3 at 12:30 PM PST. Work on shoulder. One lane shift up to 30 minutes will be required. Watch for traffic control. Last updated Thu Nov 27 at 3:29 PM PST. (DBC-84015)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Dewdney Trunk Rd and Dyke Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-11-27T15:29:05-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-84015
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.254204,49.149705,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 7 (Lougheed Highway), eastbound. Utility work between Ottawa St and Pitt River Bridge for 0.5 km (Port Coquitlam). Until Fri Apr 10, 2026. Right lane is blocked. Centre lane blocked. Watch for traffic control. Bus stop construction. Last updated Wed Nov 19 at 5:56 PM PST. (DBC-83691)</name>
           <description>
     &lt;![CDATA[
@@ -1862,6 +1837,31 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-116.911591,51.25274,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), eastbound. Electrical maintenance between Dewdney Trunk Rd and Dyke Rd (Mission). Until Wed Dec 3 at 12:30 PM PST. Work on shoulder. One lane shift up to 30 minutes will be required. Watch for traffic control. Last updated Thu Nov 27 at 3:29 PM PST. (DBC-84015)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Dewdney Trunk Rd and Dyke Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T09:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84015
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.254204,49.149705,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -3943,7 +3943,7 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97. There will be ditching between E Arras Rd and 239 Rd (16 km south of Dawson Creek). Starting Wed Dec 3 at 10:30 AM MST until Wed Dec 3 at 1:30 PM MST. Single lane alternating traffic will be in effect. Slow down and watch for crews and equipment working, watch for traffic control. Last updated Wed Dec 3 at 8:51 AM MST. (DBC-84211)</name>
+          <name>Highway 97. Ditching between E Arras Rd and 239 Rd (16 km south of Dawson Creek). Until Wed Dec 3 at 1:30 PM MST. Single lane alternating traffic. Slow down and watch for crews and equipment working, watch for traffic control. Last updated Wed Dec 3 at 8:51 AM MST. (DBC-84211)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3955,7 +3955,7 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
     &lt;b&gt;Location:&lt;/b&gt; Between E Arras Rd and 239 Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km south of Dawson Creek&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T07:51:31-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T09:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -4379,7 +4379,7 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91, southbound. Vehicle incident between Nordel Crt and Exit 8: Nordel Way (Delta). Left lane is blocked. Incident on the southbound exit ramp to westbound Hwy 91 Connector. Next update time Wed Dec 3 at 10:30 AM PST. Last updated Wed Dec 3 at 9:25 AM PST. (DBC-84215)</name>
+          <name>Highway 91, southbound. Vehicle incident between Nordel Crt and Exit 8: Nordel Way (Delta). Left lane is blocked. Incident on the southbound exit ramp to westbound eastbound Nordel Way. Next update time Wed Dec 3 at 10:30 AM PST. Last updated Wed Dec 3 at 9:29 AM PST. (DBC-84215)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4391,7 +4391,7 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
     &lt;b&gt;Location:&lt;/b&gt; Between Nordel Crt and Exit 8: Nordel Way&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T09:25:59-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T09:29:48-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-03T10:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -4401,6 +4401,31 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.937592,49.14688,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91 Connector , westbound. Road cleared between Highway 17 and River Road in Delta. Last updated Wed Dec 3 at 9:53 AM PST. (DBC-84216)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91 Connector&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Highway 17 and River Road in Delta&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T09:53:45-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84216
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.950773,49.148666,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
