@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-03 21:31:45 UTC
+        Last updated: 2025-12-03 22:02:21 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (300)</name>
+      <name>🚗 Traffic Events (305)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2991,6 +2991,31 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Rainbow Rd, in both directions. Utility work planned between Atkins Rd and Kanaka Rd in Salt Spring Island. Starting Sun Dec 14 at 9:00 PM PST until Mon Dec 15 at 5:00 AM PST. Road closure planned. Night time construction work planned. Last updated Wed Dec 3 at 1:31 PM PST. (DBC-84227)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Rainbow Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Atkins Rd and Kanaka Rd in Salt Spring Island&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T13:31:02-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84227
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.51272,48.854278,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Maintenance at Cassiar Tunnel (Vancouver). Until Fri Dec 5. From 8:00 PM to 5:00 AM PDT daily. Lane Closure. Watch for traffic control. Last updated Thu Oct 16 at 10:27 AM PDT. (DBC-82615)</name>
           <description>
     &lt;![CDATA[
@@ -3068,6 +3093,58 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Road maintenance work planned between Exit 153: Laidlaw Rd and Exit 151: Peters Rd for 2.2 km (9 to 7 km west of Hope). Starting Thu Dec 4 at 7:00 AM PST until Thu Dec 4 at 3:00 PM PST. Right lane will be closed. We will be cleaning out drains though out this stretch. Last updated Wed Dec 3 at 1:32 PM PST. (DBC-84228)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 151: Peters Rd and Exit 153: Laidlaw Rd for 2.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 to 7 km west of Hope&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T13:32:32-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84228
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.6556,49.296306,0 -121.654001,49.297804,0 -121.653567,49.29821,0 -121.653026,49.298653,0 -121.652155,49.299179,0 -121.651286,49.299541,0 -121.650342,49.299827,0 -121.649756,49.3,0 -121.64892,49.300248,0 -121.64796,49.300565,0 -121.647354,49.300766,0 -121.645844,49.301431,0 -121.645107,49.301881,0 -121.644773,49.302084,0 -121.638686,49.306856,0 -121.637814,49.30754,0 -121.637031,49.308203,0 -121.635824,49.309225,0 -121.634995,49.31007,0 -121.634938,49.310129,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 13, in both directions. Utility work planned between 16 Ave and 24 Ave for 0.3 km (Langley - District). Starting Fri Dec 12 at 8:00 AM PST until Fri Dec 12 at 4:00 PM PST. Right lane will be blocked. Watch for traffic control personnel. Speed reduction of 50 km /hr in effect within work zone. Last updated Wed Dec 3 at 1:35 PM PST. (DBC-84229)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 13&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 16 Ave and 24 Ave for 0.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T13:35:15-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84229
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.492507,49.031268,0 -122.492508,49.031525,0 -122.492509,49.031936,0 -122.492514,49.033781,0 -122.492516,49.034682,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 4, in both directions. Maintenance between Port Alberni Summit and Chalet Rd for 9.5 km (Cathedral Grove). Vehicles/loads over 3.2m in width must contact Permit Centre for instructions at 1-800-559-9688. Daytime travel restriction, must travel between 9pm-5am. Next update time Mon Feb 2, 2026 at 3:00 PM PST. Last updated Fri Nov 14 at 3:15 PM PST. (DBC-52953)</name>
           <description>
     &lt;![CDATA[
@@ -3118,6 +3195,56 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
             <tessellate>1</tessellate>
             <coordinates>-119.494494,51.669474,0 -119.494003,51.669461,0 -119.493506,51.669448,0 -119.483138,51.669179,0 -119.482937,51.669174,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 11, northbound. Road maintenance work planned at Abbotsford-Mission Bridge (Mission). Starting Thu Dec 4 at 8:00 PM PST until Fri Dec 5 at 5:00 AM PST. Right lane will be closed. The Northbound right lane will be closed at the beginning of the Mission Bridge at allow crews to replace a damaged crash attenuator. Please follow all posted construction speed limits and watch for workers. Last updated Wed Dec 3 at 1:46 PM PST. (DBC-84230)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Abbotsford-Mission Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T13:46:36-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84230
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.305399,49.123376,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Road maintenance work planned at Exit 83: Mt Lehman Rd (Abbotsford). Starting Thu Dec 4 at 8:00 PM PST until Fri Dec 5 at 5:00 AM PST. Right lane will be closed. Right lane will be closed Westbound on HWY 1 at the Mt. Lehman exit (Exit 83) to replace a damaged crash attenuator. Please watch for crews and follow all posted construction speed limits. Last updated Wed Dec 3 at 1:55 PM PST. (DBC-84231)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 83: Mt Lehman Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-03T13:55:39-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84231
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.381448,49.057631,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97 (Cariboo Connector), southbound. Utility work between Boundary Rd and Shortt Rd for 26.9 km (20 km south of Pineview to Prince George). Until Wed Dec 3 at 5:00 PM PST. Shoulder closed. Watch for traffic control. Last updated Thu Nov 13 at 3:43 PM PST. (DBC-83474)</name>
