@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-07 09:02:06 UTC
+        Last updated: 2025-12-07 09:33:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (318)</name>
+      <name>🚗 Traffic Events (319)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4077,6 +4077,32 @@ Tamany Rd is closed at Keating Cross Rd for the Highway 17 Keating Cross Flyover
           <Point>
             <coordinates>-122.373433,52.214655,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Glacier National Park Summit and Hemlock Grove Boardwalk for 0.7 km (4 km west of Rogers Pass Summit). Westbound lane closure. Single lane alternating traffic. Watch for traffic control. Expect minor delays. Last updated Sun Dec 7 at 1:20 AM PST. (DBC-84364)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hemlock Grove Boardwalk and Glacier National Park Summit for 0.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km west of Rogers Pass Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-07T01:20:58-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84364
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.511326,51.268222,0 -117.51132,51.268224,0 -117.51127,51.268241,0 -117.510898,51.268304,0 -117.510811,51.268319,0 -117.510742,51.268331,0 -117.510728,51.268333,0 -117.510709,51.268336,0 -117.510351,51.268379,0 -117.510307,51.268384,0 -117.509647,51.268464,0 -117.506582,51.268595,0 -117.506125,51.268631,0 -117.505525,51.268678,0 -117.505511,51.26868,0 -117.50548,51.268686,0 -117.504745,51.268845,0 -117.504177,51.269092,0 -117.503931,51.269293,0 -117.503636,51.269535,0 -117.50335,51.269969,0 -117.503282,51.270362,0 -117.503345,51.27076,0 -117.503419,51.270914,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Upper Arrow Lake Ferry. Departure delayed between Shelter Bay and Galena Bay. From 8:45 AM to 11:00 AM PST on Wednesday. Departure delayed every Wednesday for fueling purposes. Next update time Wed Dec 31 at 10:00 AM PST. Last updated Tue Jan 7 at 12:16 PM PST. (DBC-71712)</name>
