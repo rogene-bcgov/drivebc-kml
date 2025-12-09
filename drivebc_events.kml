@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-09 21:33:29 UTC
+        Last updated: 2025-12-09 22:02:26 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (305)</name>
+      <name>🚗 Traffic Events (307)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4178,6 +4178,32 @@ Site contact: Colin King 604-754-0626. Last updated Mon Dec 8 at 2:13 PM PST. (D
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 17, in both directions. Road maintenance work planned between Exit 13 and 72 St (Delta). Starting Tue Dec 9 at 9:00 PM PST until Wed Dec 10 at 3:00 AM PST. Left lane will be closed in both directions. Watch for traffic control personnel. Last updated Tue Dec 9 at 1:42 PM PST. (DBC-84479)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 13 and 72 St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-09T13:42:22-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84479
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.025764,49.119733,0 -123.025641,49.119955,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Mill Bay Rd, in both directions. Utility work between Handy Rd and Keir Rd in Mill Bay. Until Fri Dec 12. From 8:00 AM to 4:00 PM PST on weekdays. Single lane alternating traffic. Last updated Mon Nov 24 at 11:48 AM PST. (DBC-83854)</name>
           <description>
     &lt;![CDATA[
@@ -4996,7 +5022,7 @@ Site contact: Colin King 604-754-0626. Last updated Mon Dec 8 at 2:13 PM PST. (D
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). There is a multi-vehicle incident between Canyon-Lister Rd and Lakeview Arrow Creek Rd for 0.3 km (4 km east of Creston). Vehicle recovery. Single lane alternating traffic. Next update time Tue Dec 9 at 2:00 PM PST. Last updated Tue Dec 9 at 1:04 PM PST. (DBC-84458)</name>
+          <name>Highway 3 (Crowsnest Highway). There is a multi-vehicle incident between Canyon-Lister Rd and Lakeview Arrow Creek Rd for 0.3 km (4 km east of Creston). Vehicle recovery. Single lane alternating traffic. Next update time Tue Dec 9 at 3:00 PM PST. Last updated Tue Dec 9 at 1:53 PM PST. (DBC-84458)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5008,8 +5034,8 @@ Site contact: Colin King 604-754-0626. Last updated Mon Dec 8 at 2:13 PM PST. (D
     &lt;b&gt;Location:&lt;/b&gt; Between Canyon-Lister Rd and Lakeview Arrow Creek Rd for 0.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km east of Creston&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-09T13:04:15-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-09T14:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-09T13:53:21-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-09T15:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-84458
@@ -5353,6 +5379,31 @@ Site contact: Colin King 604-754-0626. Last updated Mon Dec 8 at 2:13 PM PST. (D
             <tessellate>1</tessellate>
             <coordinates>-122.3045,50.404809,0 -122.304436,50.404846,0 -122.303395,50.405795,0 -122.302084,50.406989,0 -122.301484,50.407362,0 -122.300955,50.407692,0 -122.30064,50.407888,0 -122.300414,50.408028,0 -122.300244,50.408134,0 -122.299525,50.409163,0 -122.299227,50.409349,0 -122.296791,50.40988,0 -122.295783,50.409938,0 -122.293937,50.409885,0 -122.29382,50.409902,0 -122.29235,50.410116,0 -122.291711,50.410444,0 -122.290008,50.411815,0 -122.289785,50.411995,0 -122.289665,50.412061,0 -122.289501,50.412151,0 -122.289211,50.412309,0 -122.289085,50.412337,0 -122.286999,50.412788,0 -122.286024,50.412999,0 -122.284708,50.413283,0 -122.284474,50.413334,0 -122.284397,50.413358,0 -122.283259,50.41371,0 -122.282033,50.414305,0 -122.281513,50.414679,0 -122.281232,50.414987,0 -122.281107,50.415125,0 -122.280627,50.415651,0 -122.280193,50.415984,0 -122.279866,50.416234,0 -122.279113,50.417635,0 -122.2786,50.41823,0 -122.278077,50.418836,0 -122.277624,50.419205,0 -122.276216,50.42012,0 -122.274747,50.421075,0 -122.274488,50.421243,0 -122.274119,50.421583,0 -122.274074,50.421691,0 -122.273984,50.421908,0 -122.273757,50.422454,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, in both directions. Vehicle incident at Spall Rd (Kelowna). Assessment in progress. Expect Major delays due to congestion. Next update time Tue Dec 9 at 2:30 PM PST. Last updated Tue Dec 9 at 1:39 PM PST. (DBC-84478)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Spall Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kelowna&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-09T13:39:02-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-09T14:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84478
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-119.454487,49.881877,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Wildlife advisory in effect between Johnson Rd and Queens Ave for 34.2 km (Moyie to Yahk). Until Tue Dec 9 at 6:00 PM MST. Last updated Tue Dec 9 at 4:39 AM MST. (DBC-84449)</name>
@@ -7178,7 +7229,7 @@ Site contact: Colin King 604-754-0626. Last updated Mon Dec 8 at 2:13 PM PST. (D
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 93. Compact ice between Stanley St and the end of Highway 93 for 94.4 km (Radium Hot Springs to British Columbia and Alberta Border). Watch for slippery sections. Last updated Tue Dec 9 at 1:45 PM MST. (DBCRCON-229978)</name>
+          <name>Highway 93. Slushy with slippery sections between Stanley St and the end of Highway 93 for 94.4 km (Radium Hot Springs to British Columbia and Alberta Border). Last updated Tue Dec 9 at 2:32 PM MST. (DBCRCON-229978)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7190,7 +7241,7 @@ Site contact: Colin King 604-754-0626. Last updated Mon Dec 8 at 2:13 PM PST. (D
     &lt;b&gt;Location:&lt;/b&gt; Between Stanley St and the end of Highway 93 for 94.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Alberta Border to Radium Hot Springs&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-09T12:45:35-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-09T13:32:33-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
