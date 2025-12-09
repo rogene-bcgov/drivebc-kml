@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-09 10:39:00 UTC
+        Last updated: 2025-12-09 11:02:13 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (325)</name>
+      <name>🚗 Traffic Events (326)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4076,19 +4076,19 @@ Site contact: Colin King 604-754-0626. Last updated Mon Dec 8 at 2:13 PM PST. (D
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. Maintenance at Massey Tunnel (Richmond). Until Tue Dec 9 at 4:00 AM PST. Right lane is blocked. Last updated Mon Dec 8 at 10:04 PM PST. (DBC-84446)</name>
+          <name>Highway 99, northbound. Maintenance at Massey Tunnel (Richmond). Until Tue Dec 9 at 4:00 AM PST. Right lane is blocked. Last updated Tue Dec 9 at 2:41 AM PST. (DBC-84446)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
     &lt;b&gt;Location:&lt;/b&gt; At Massey Tunnel&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-08T22:04:38-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-09T02:41:17-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -8508,6 +8508,32 @@ Site contact: Colin King 604-754-0626. Last updated Mon Dec 8 at 2:13 PM PST. (D
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.053005,50.633287,0 -116.052459,50.633256,0 -116.051594,50.633258,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 93. Commercial chain up in effect between Marble Canyon Campground and the end of Highway 93 for 0.1 km (British Columbia and Alberta Border).</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Marble Canyon Campground and the end of Highway 93&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Alberta Border&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-09T02:50:01-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-229979
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CHAIN_UP</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.054154,51.225689,0 -116.053809,51.225916,0 -116.053213,51.226315,0 -116.053174,51.226342,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
