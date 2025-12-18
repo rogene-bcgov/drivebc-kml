@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-18 09:38:40 UTC
+        Last updated: 2025-12-18 10:02:26 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (289)</name>
+      <name>🚗 Traffic Events (290)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -608,6 +608,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.482014,49.172361,0 -122.480744,49.172484,0 -122.48059,49.172501,0 -122.480396,49.172523,0 -122.479562,49.172613,0 -122.478686,49.17274,0 -122.477035,49.172903,0 -122.475687,49.173079,0 -122.475638,49.173085,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Shoulder maintenance between Exit 20 and 112 St for 2.1 km (Delta). Until Thu Dec 18 at 5:00 AM PST. Left lane is blocked. Watch for traffic control. Last updated Thu Dec 18 at 1:41 AM PST. (DBC-84927)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 112 St and Exit 20 for 2.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-18T01:41:27-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84927
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.935033,49.090569,0 -122.942119,49.090572,0 -122.945994,49.090574,0 -122.955326,49.090577,0 -122.958206,49.090556,0 -122.959454,49.090559,0 -122.963112,49.090598,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
