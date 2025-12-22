@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-22 16:39:20 UTC
+        Last updated: 2025-12-22 17:02:30 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (269)</name>
+      <name>🚗 Traffic Events (268)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1120,31 +1120,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Construction work at Exit 73 (Langley - District). Until Wed Dec 31. From 11:00 PM to 4:30 AM PST daily. Road closed. Detours in effect through 264th Street interchange. No overnight closures December 24-28. For more info: KEA Construction 1-844-851-4180. Next update time Wed Dec 31 at 4:30 AM PST. Last updated Tue Dec 16 at 7:11 AM PST. (DBC-79804)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 73&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-16T07:11:09-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-31T04:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-79804
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.492806,49.101322,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Cariboo Connector). Utility work planned between 70 Mile Frontage Rd and Maple Rd for 0.7 km (70 Mile House). Starting Mon Dec 22 at 9:00 AM PST until Mon Dec 22 at 3:00 PM PST. Single lane alternating traffic will be in effect. Please watch for signage and personnel. Expect minor delays of up to five minutes. Last updated Wed Dec 17 at 11:16 AM PST. (DBC-84893)</name>
           <description>
     &lt;![CDATA[
@@ -1169,6 +1144,31 @@
             <tessellate>1</tessellate>
             <coordinates>-121.397567,51.305196,0 -121.397721,51.307317,0 -121.397673,51.307783,0 -121.397532,51.308305,0 -121.397521,51.308346,0 -121.397067,51.309187,0 -121.397052,51.309215,0 -121.396766,51.309613,0 -121.396318,51.310074,0 -121.394788,51.311286,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work at Exit 73 (Langley - District). Until Wed Dec 31. From 11:00 PM to 4:30 AM PST daily. Road closed. Detours in effect through 264th Street interchange. No overnight closures December 24-28. For more info: KEA Construction 1-844-851-4180. Next update time Wed Dec 31 at 4:30 AM PST. Last updated Tue Dec 16 at 7:11 AM PST. (DBC-79804)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 73&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-16T07:11:09-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-31T04:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-79804
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.492806,49.101322,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Road construction work between Garret Rd and Sunday Summit for 11.3 km (43 to 32 km west of Princeton). Until Sat Jan 31, 2026. Single lane alternating traffic. Watch for traffic control. Minimum width to be maintained through project zone is 4.4 meters. Last updated Tue Dec 2 at 4:22 PM PST. (DBC-77799)</name>
@@ -2382,31 +2382,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident at Exit 53: 176th St / Highway 15 (Surrey). Road closed. Expect major delays. Next update time Mon Dec 22 at 9:00 AM PST. Last updated Mon Dec 22 at 8:18 AM PST. (DBC-85074)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 53: 176th St / Highway 15&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-22T08:18:18-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-22T09:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-85074
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.734962,49.181398,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (Yellowhead Highway). Watch for falling ice between West of 35 Mile and East of 35 Mile for 0.7 km (51 to 50 km west of Terrace). Until Mon Dec 22 at 5:00 PM PST. Last updated Mon Dec 15 at 5:00 PM PST. (DBC-84784)</name>
           <description>
     &lt;![CDATA[
@@ -2483,29 +2458,30 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Soda Creek-MacAlister Rd, in both directions. Road cleared at 5.75 km south of Hwy 97. Last updated Mon Dec 22 at 8:31 AM PST. (DBC-85006)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 58: 200 St and Exit 53: 176th St / Highway 15 for 5.2 km (Langley - District to Surrey). Road closed. Assessment in progress. Expect major delays. Next update time Mon Dec 22 at 11:00 AM PST. Last updated Mon Dec 22 at 8:52 AM PST. (DBC-85074)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Soda Creek-MacAlister Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At 5.75 km south of Hwy 97&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 53: 176th St / Highway 15 and Exit 58: 200 St for 5.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District to Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-22T08:31:06-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-22T08:52:59-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-22T11:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-85006
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85074
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.387093,52.401391,0</coordinates>
-          </Point>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.734962,49.181398,0 -122.734784,49.18136,0 -122.73448,49.181279,0 -122.73343,49.181003,0 -122.731273,49.180433,0 -122.731225,49.18042,0 -122.729926,49.180077,0 -122.727867,49.179533,0 -122.727116,49.179335,0 -122.726199,49.179095,0 -122.724635,49.178681,0 -122.723043,49.178261,0 -122.721564,49.177871,0 -122.72005,49.177472,0 -122.718539,49.177074,0 -122.717056,49.176682,0 -122.71575,49.176314,0 -122.715611,49.176277,0 -122.711238,49.175173,0 -122.70972,49.174808,0 -122.709195,49.174675,0 -122.70906,49.174641,0 -122.702062,49.172681,0 -122.70198,49.172658,0 -122.69768,49.171517,0 -122.695043,49.170827,0 -122.694338,49.170642,0 -122.693903,49.170528,0 -122.692559,49.170176,0 -122.692501,49.170161,0 -122.692393,49.170132,0 -122.688027,49.16896,0 -122.685333,49.168236,0 -122.679297,49.166714,0 -122.679001,49.166641,0 -122.677893,49.166361,0 -122.6777,49.166313,0 -122.67615,49.165931,0 -122.675687,49.165817,0 -122.673139,49.16519,0 -122.669261,49.164179,0 -122.669124,49.164144,0 -122.669006,49.164111,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 3B, in both directions. Debris on roadway between Richie Rd and Snowshoe for 23.9 km (Rossland to 8 km north of Nancy Greene Summit). Single lane alternating traffic. Truck restrictions in force. Passenger vehicles only, no semi transport vehicles. Drive with caution. Last updated Wed Dec 17 at 12:07 PM PST. (DBC-84895)</name>
