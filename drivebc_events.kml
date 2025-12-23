@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-23 04:13:53 UTC
+        Last updated: 2025-12-23 04:42:44 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (249)</name>
+      <name>🚗 Traffic Events (250)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6556,6 +6556,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.001326,49.095686,0 -117.000804,49.095756,0 -117.000087,49.095852,0 -116.999993,49.095866,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla South). Commercial chain up in effect between Exit 202: Portia and Exit 217: Zopkios Brake Check for 0.1 km (2 km south of Great Bear Snowshed).</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 202: Portia and Exit 217: Zopkios Brake Check&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km south of Great Bear Snowshed&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-22T20:25:20-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-232907
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CHAIN_UP</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.180268,49.574926,0 -121.179513,49.575614,0 -121.179464,49.575658,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
