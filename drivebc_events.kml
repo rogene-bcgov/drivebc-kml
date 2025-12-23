@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-23 16:40:12 UTC
+        Last updated: 2025-12-23 17:03:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -585,32 +585,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Bridge maintenance planned between Carey Rd and Burnside Rd W for 1.4 km (Saanich). Starting Tue Dec 23 at 9:00 AM PST until Tue Dec 23 at 3:00 PM PST. Eastbound lane will be closed. Last updated Mon Dec 22 at 8:33 AM PST. (DBC-85077)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Carey Rd and Burnside Rd W for 1.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Saanich&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-22T08:33:45-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-85077
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.37699,48.454873,0 -123.377184,48.455023,0 -123.377363,48.455098,0 -123.377424,48.455119,0 -123.377511,48.45515,0 -123.377861,48.455276,0 -123.378166,48.455365,0 -123.378587,48.455465,0 -123.380002,48.455763,0 -123.380482,48.455865,0 -123.381067,48.456008,0 -123.38207,48.456231,0 -123.389675,48.457992,0 -123.390356,48.458149,0 -123.390426,48.458161,0 -123.39079,48.458223,0 -123.391067,48.458271,0 -123.391121,48.458281,0 -123.391164,48.458288,0 -123.391211,48.458291,0 -123.391293,48.458295,0 -123.392288,48.458352,0 -123.394495,48.458315,0 -123.394799,48.45831,0 -123.394889,48.458309,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 99, in both directions. Utility work between Murrin Lake Provincial Pk and Stawamus Chief Provincial Pk for 4.7 km (Squamish). Until Fri Jan 30, 2026. From 8:00 AM to 4:00 PM PST daily. Right lane closed. Watch for traffic control. Last updated Thu Dec 11 at 10:32 AM PST. (DBC-84606)</name>
           <description>
     &lt;![CDATA[
@@ -791,6 +765,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Electrical maintenance between Tanager Dr and Grand Blvd (Kamloops). Until Tue Dec 23 at 11:30 AM PST. Left lane is closed. Watch for traffic control. Reduce speed and watch for workers on the road. Last updated Tue Dec 23 at 8:46 AM PST. (DBC-85118)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Tanager Dr and Grand Blvd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kamloops&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:46:39-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85118
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.23822,50.674341,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Quesnel-Hydraulic Road. Road maintenance work at 20 km east of Quesnel. Until Thu Mar 26, 2026. From 7:00 AM to 5:00 PM PDT on weekdays and Saturday. Single lane alternating traffic. Watch for traffic control. Crews will be doing slope stabilization work. Last updated Thu Oct 16 at 9:00 AM PDT. (DBC-82467)</name>
           <description>
     &lt;![CDATA[
@@ -839,6 +838,32 @@
           <Point>
             <coordinates>-122.494374,49.101921,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Bridge maintenance planned between Carey Rd and Burnside Rd W for 1.4 km (Saanich). Starting Tue Dec 23 at 9:00 AM PST until Tue Dec 23 at 3:00 PM PST. Eastbound lane will be closed. Last updated Mon Dec 22 at 8:33 AM PST. (DBC-85077)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Carey Rd and Burnside Rd W for 1.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Saanich&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-22T08:33:45-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85077
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.37699,48.454873,0 -123.377184,48.455023,0 -123.377363,48.455098,0 -123.377424,48.455119,0 -123.377511,48.45515,0 -123.377861,48.455276,0 -123.378166,48.455365,0 -123.378587,48.455465,0 -123.380002,48.455763,0 -123.380482,48.455865,0 -123.381067,48.456008,0 -123.38207,48.456231,0 -123.389675,48.457992,0 -123.390356,48.458149,0 -123.390426,48.458161,0 -123.39079,48.458223,0 -123.391067,48.458271,0 -123.391121,48.458281,0 -123.391164,48.458288,0 -123.391211,48.458291,0 -123.391293,48.458295,0 -123.392288,48.458352,0 -123.394495,48.458315,0 -123.394799,48.45831,0 -123.394889,48.458309,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5, southbound. Construction work between Miledge Creek Bridge and Thunder River Rd for 4.9 km (17 to 12 km north of Blue River). Until Sat Nov 7, 2026 at 5:00 PM PDT. From 8:00 AM to 5:00 PM PDT on weekdays. Watch for traffic control. Single Lane Alternating Traffic will only be required for a brief duration during mobilization and demobilization of materials and equipment. Last updated Sun Sep 28 at 9:26 PM PDT. (DBC-82106)</name>
@@ -2559,31 +2584,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Barnston Island Ferry. Possible ferry delays at Barnston Island Ferry (Surrey). Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Next update time Fri Dec 26 at 4:00 PM PST. Last updated Fri Dec 19 at 4:08 PM PST. (DBC-82935)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Barnston Island Ferry&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Barnston Island Ferry&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-19T16:08:11-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-26T16:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-82935
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.725702,49.192034,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 5 (Coquihalla North), northbound. Vehicle recovery planned between Exit 336: Walloper Interchange and Inks Lake Rd for 9.4 km (9 km south of Kamloops to 15 km north of Surrey Lake Summit). Starting Tue Dec 23 at 9:00 AM PST until Tue Dec 23 at 1:00 PM PST. Lane Closure. Last updated Mon Dec 22 at 11:22 AM PST. (DBC-85085)</name>
           <description>
     &lt;![CDATA[
@@ -2608,6 +2608,31 @@
             <tessellate>1</tessellate>
             <coordinates>-120.540302,50.48671,0 -120.535934,50.487229,0 -120.519268,50.489333,0 -120.51719,50.48962,0 -120.514611,50.490128,0 -120.512691,50.490602,0 -120.509893,50.491292,0 -120.50821,50.491708,0 -120.506044,50.492245,0 -120.505169,50.492494,0 -120.504122,50.492843,0 -120.502956,50.493362,0 -120.50191,50.4939,0 -120.500899,50.494561,0 -120.499975,50.495269,0 -120.499408,50.495817,0 -120.499361,50.495863,0 -120.497997,50.497503,0 -120.496795,50.498997,0 -120.495982,50.500006,0 -120.494701,50.501598,0 -120.490998,50.506194,0 -120.489541,50.508003,0 -120.488623,50.509372,0 -120.488086,50.510353,0 -120.487419,50.511723,0 -120.485619,50.516054,0 -120.483335,50.521522,0 -120.482755,50.52302,0 -120.481392,50.52623,0 -120.480967,50.527222,0 -120.480034,50.529397,0 -120.479227,50.530745,0 -120.478592,50.531592,0 -120.47784,50.532425,0 -120.477289,50.532964,0 -120.47577,50.53421,0 -120.474743,50.53487,0 -120.473331,50.535683,0 -120.471832,50.536415,0 -120.468238,50.538006,0 -120.462556,50.540521,0 -120.462204,50.540721,0 -120.461087,50.541354,0 -120.46002,50.542053,0 -120.458713,50.543119,0 -120.457797,50.543983,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Barnston Island Ferry. Possible ferry delays at Barnston Island Ferry (Surrey). Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Next update time Fri Dec 26 at 4:00 PM PST. Last updated Fri Dec 19 at 4:08 PM PST. (DBC-82935)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Barnston Island Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Barnston Island Ferry&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-19T16:08:11-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-26T16:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-82935
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.725702,49.192034,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 6 NS. Watch for falling rocks between Summit Lake Rd and 11th Ave for 26.1 km (Summit Lake to New Denver). Last updated Sat Nov 1 at 9:55 PM PDT. (DBC-83082)</name>
@@ -3355,32 +3380,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.001326,49.095686,0 -117.000804,49.095756,0 -117.000087,49.095852,0 -116.999993,49.095866,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5 (Coquihalla South). Commercial chain up in effect between Exit 202: Portia and Exit 217: Zopkios Brake Check for 0.1 km (2 km south of Great Bear Snowshed).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 202: Portia and Exit 217: Zopkios Brake Check&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km south of Great Bear Snowshed&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T01:22:25-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-232907
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.180268,49.574926,0 -121.179513,49.575614,0 -121.179464,49.575658,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
@@ -6879,7 +6878,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.406614-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.385143-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6916,7 +6915,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.415694-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.391865-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6953,7 +6952,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.396536-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.378374-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6990,7 +6989,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.425621-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.399025-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7027,7 +7026,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.370001-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.356831-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7067,7 +7066,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.379954-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.363584-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7104,7 +7103,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.432849-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.405226-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7141,7 +7140,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.440481-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.412325-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7178,7 +7177,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.456167-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.426150-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7215,7 +7214,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.355571-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.342453-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7252,7 +7251,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.362789-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.350354-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7292,7 +7291,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.388630-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.371247-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7329,7 +7328,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.462859-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.419017-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7366,7 +7365,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T08:00:31.347489-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-23T09:00:31.333045-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
