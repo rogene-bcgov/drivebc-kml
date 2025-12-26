@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-26 15:35:04 UTC
+        Last updated: 2025-12-26 16:02:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (275)</name>
+      <name>🚗 Traffic Events (274)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2738,6 +2738,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 101, in both directions. Downed hydro lines between Trout Lake Rd and Belair Rd (3 km west of Sechelt). Road closed. Next update time Fri Dec 26 at 8:45 AM PST. Last updated Fri Dec 26 at 7:35 AM PST. (DBC-85219)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Trout Lake Rd and Belair Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km west of Sechelt&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-26T07:35:03-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-26T08:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85219
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.867877,49.5068,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 37A, in both directions. Watch for falling rocks between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km (13 km west of Meziadin to 11 km east of Stewart). Last updated Thu Dec 25 at 11:39 AM PST. (DBC-74957)</name>
           <description>
     &lt;![CDATA[
@@ -2838,32 +2863,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-116.156443,49.066204,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Toby Creek Rd, in both directions. Downed hydro lines at 6 km east of Panorama Drive. Single lane alternating traffic. Watch for traffic control. Expect delays. Telus lines downed in the area, watch for crews.
-Closed to high profile vehicles. Next update time Fri Dec 26 at 8:15 AM MST. Last updated Fri Dec 26 at 6:58 AM MST. (DBC-85205)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Toby Creek Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At 6 km east of Panorama Drive&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-26T05:58:55-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-26T07:15:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-85205
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-116.174917,50.493534,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -7187,32 +7186,6 @@ Closed to high profile vehicles. Next update time Fri Dec 26 at 8:15 AM MST. Las
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.054154,51.225689,0 -116.053809,51.225916,0 -116.053213,51.226315,0 -116.053174,51.226342,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 93. Commercial chain up in effect between West Boundary of Kootenay National Park and McKay Creek Maint for 0.1 km (1 km north of Radium Hot Springs).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between West Boundary of Kootenay National Park and McKay Creek Maint&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km north of Radium Hot Springs&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-26T06:02:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-233677
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.053005,50.633287,0 -116.052459,50.633256,0 -116.051594,50.633258,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
