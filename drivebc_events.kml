@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-26 20:02:16 UTC
+        Last updated: 2025-12-26 20:35:03 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2224,31 +2224,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-128.409051,54.634434,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, in both directions. Winter operations are occuring at Alex Fraser Bridge (Delta). Until Fri Dec 26 at 12:00 PM PST. Right lane closed. Watch for traffic control. Travel advisory in effect. Lookout for crews in closures. Follow direction of traffic control equipment and devices, please drive with caution for winter conditions. Last updated Wed Dec 24 at 2:34 PM PST. (DBC-85166)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Alex Fraser Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-25T19:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-85166
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.943309,49.160815,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -6876,6 +6851,32 @@
       </Folder>
       <Folder>
         <name>Chain Up Events</name>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between Sunshine Valley and Second Avalanche Gate for 0.1 km (20 km east of Hope).</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Sunshine Valley and Second Avalanche Gate&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 20 km east of Hope&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-26T12:29:18-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-233850
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CHAIN_UP</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.210612,49.265373,0 -121.209709,49.264693,0</coordinates>
+          </LineString>
+        </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between West Avalanche Gate and East Avalanche Gate for 0.1 km (9 km west of Kootenay Pass).</name>
           <description>
