@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2025-12-27 11:02:08 UTC
+        Last updated: 2025-12-27 11:32:18 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (258)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2022,6 +2022,31 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.373433,52.214655,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla South), southbound. Vehicle recovery between Exit 183: Othello Rd and the start of Highway 5 (Coquihalla South) (3 km north of Hope). Expect delays. Next update time Sat Dec 27 at 5:00 AM PST. Last updated Sat Dec 27 at 3:29 AM PST. (DBC-85241)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 5 (Coquihalla South) and Exit 183: Othello Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km north of Hope&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2025-12-27T03:29:49-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2025-12-27T05:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85241
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-121.351972,49.378516,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
