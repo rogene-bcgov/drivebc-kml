@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-02 17:01:52 UTC
+        Last updated: 2026-01-02 17:34:44 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (249)</name>
+      <name>🚗 Traffic Events (247)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1639,7 +1639,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Maintenance planned between Overlander Falls Access and Avalanche Gates - East for 1.0 km (8 to 7 km west of Moose Lake). Starting Fri Jan 2 at 9:00 AM PST until Fri Jan 2 at 4:00 PM PST. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Jan 2 at 7:16 AM PST. (DBC-85437)</name>
+          <name>Highway 16 (Yellowhead Highway). Maintenance between Overlander Falls Access and Avalanche Gates - East for 1.0 km (8 to 7 km west of Moose Lake). Until Fri Jan 2 at 4:00 PM PST. Single lane alternating traffic. Watch for traffic control. Last updated Fri Jan 2 at 7:16 AM PST. (DBC-85437)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1651,7 +1651,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Overlander Falls Access and Avalanche Gates - East for 1.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 to 8 km west of Moose Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T07:16:52-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -1663,6 +1663,31 @@
             <tessellate>1</tessellate>
             <coordinates>-119.061329,53.00812,0 -119.049742,53.004095,0 -119.048767,53.003803,0 -119.048559,53.003751,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19A (Island Highway), northbound. Electrical maintenance planned at 26th St (Courtenay). Starting Fri Jan 2 at 10:00 AM PST until Fri Jan 2 at 2:00 PM PST. Right lane will be closed. Watch for traffic control personnel. Last updated Fri Jan 2 at 9:00 AM PST. (DBC-85440)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 26th St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Courtenay&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:41-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85440
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.982638,49.676192,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 15 (Pacific Highway). Utility work planned between 68A Ave and Fraser Hwy for 1.1 km (Surrey). Starting Mon Jan 5, 2026 until Wed Jan 14, 2026. Roadway down to a single lane of traffic in both directions. Last updated Wed Dec 31 at 11:50 AM PST. (DBC-85399)</name>
@@ -2050,32 +2075,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.940405,49.168659,0 -123.940748,49.170162,0 -123.940804,49.170409,0 -123.940848,49.170601,0 -123.941314,49.171252,0 -123.941558,49.171541,0 -123.941662,49.171664,0 -123.941879,49.171921,0 -123.941961,49.172076,0 -123.941997,49.172145,0 -123.942223,49.172586,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Mount Washington Rd, in both directions. Snow deposit removal between Alpine Rd and Dove Creek Rd for 17.7 km (Mount Washington Ski Resort). Until Fri Jan 2 at 11:00 AM PST. Watch for a slow moving vehicle. Last updated Fri Jan 2 at 6:10 AM PST. (DBC-85434)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Mount Washington Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Alpine Rd and Dove Creek Rd for 17.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mount Washington Ski Resort&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T06:10:22-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-85434
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.298405,49.740564,0 -125.298386,49.74036,0 -125.298582,49.738697,0 -125.298678,49.738457,0 -125.298842,49.738218,0 -125.299389,49.737706,0 -125.299919,49.73721,0 -125.299996,49.737092,0 -125.300056,49.736883,0 -125.300022,49.736593,0 -125.299969,49.7365,0 -125.299927,49.736427,0 -125.299853,49.736358,0 -125.299544,49.736069,0 -125.299241,49.735786,0 -125.299184,49.735733,0 -125.299173,49.735722,0 -125.299144,49.735694,0 -125.298981,49.735424,0 -125.29894,49.735207,0 -125.298989,49.734905,0 -125.299117,49.734691,0 -125.299763,49.733985,0 -125.299852,49.733788,0 -125.299877,49.733558,0 -125.299842,49.733374,0 -125.299744,49.733175,0 -125.298283,49.731575,0 -125.298177,49.731458,0 -125.297903,49.731228,0 -125.296516,49.73032,0 -125.295178,49.729442,0 -125.294926,49.729313,0 -125.294622,49.729214,0 -125.294318,49.72916,0 -125.29374,49.729175,0 -125.293286,49.729293,0 -125.292958,49.729478,0 -125.292774,49.729634,0 -125.292618,49.729884,0 -125.292565,49.730155,0 -125.292583,49.730343,0 -125.293251,49.731648,0 -125.294508,49.734108,0 -125.294587,49.734204,0 -125.294821,49.734492,0 -125.295445,49.735054,0 -125.295547,49.735199,0 -125.295548,49.735229,0 -125.295552,49.735323,0 -125.29547,49.735422,0 -125.295291,49.735488,0 -125.295111,49.735501,0 -125.294922,49.735459,0 -125.294785,49.735359,0 -125.294653,49.735163,0 -125.294477,49.7349,0 -125.294161,49.734428,0 -125.293925,49.734177,0 -125.293376,49.733722,0 -125.291754,49.73238,0 -125.291136,49.731868,0 -125.290762,49.731611,0 -125.290511,49.731482,0 -125.290187,49.731358,0 -125.289604,49.731207,0 -125.289243,49.73116,0 -125.288852,49.731153,0 -125.288366,49.731185,0 -125.287281,49.731417,0 -125.287061,49.731464,0 -125.286098,49.731669,0 -125.284823,49.731951,0 -125.281868,49.732605,0 -125.281397,49.732732,0 -125.281385,49.732737,0 -125.281067,49.732856,0 -125.280898,49.732953,0 -125.279089,49.733993,0 -125.278696,49.734156,0 -125.278641,49.734171,0 -125.278315,49.734259,0 -125.277608,49.734369,0 -125.27693,49.73442,0 -125.276773,49.734432,0 -125.276266,49.734493,0 -125.275953,49.734566,0 -125.275455,49.734739,0 -125.27517,49.73488,0 -125.274009,49.735454,0 -125.273153,49.735785,0 -125.272808,49.735886,0 -125.2726,49.735946,0 -125.272046,49.736075,0 -125.271281,49.736198,0 -125.271088,49.73621,0 -125.268192,49.736391,0 -125.267261,49.736524,0 -125.266699,49.736655,0 -125.264836,49.73727,0 -125.264399,49.73739,0 -125.263515,49.737564,0 -125.2624,49.73766,0 -125.261745,49.737666,0 -125.260107,49.737681,0 -125.259545,49.737731,0 -125.259238,49.737778,0 -125.258624,49.737873,0 -125.257677,49.738123,0 -125.255816,49.738731,0 -125.254612,49.739157,0 -125.254458,49.739227,0 -125.254344,49.739279,0 -125.253676,49.739643,0 -125.252954,49.740127,0 -125.252407,49.74042,0 -125.252117,49.740575,0 -125.251088,49.740955,0 -125.248685,49.741665,0 -125.248481,49.741725,0 -125.248394,49.741756,0 -125.247632,49.742025,0 -125.246776,49.742383,0 -125.245827,49.742856,0 -125.24557,49.743007,0 -125.245337,49.743143,0 -125.243922,49.744129,0 -125.242711,49.744889,0 -125.242315,49.745152,0 -125.242042,49.745287,0 -125.241681,49.745406,0 -125.241201,49.745524,0 -125.240754,49.745583,0 -125.23969,49.745604,0 -125.239055,49.745671,0 -125.238654,49.745785,0 -125.238349,49.745907,0 -125.237651,49.746285,0 -125.237169,49.746481,0 -125.236925,49.746547,0 -125.236459,49.746622,0 -125.235773,49.746732,0 -125.235476,49.746818,0 -125.235208,49.746953,0 -125.23506,49.747076,0 -125.234911,49.747273,0 -125.234874,49.747366,0 -125.234842,49.747445,0 -125.234844,49.747715,0 -125.234992,49.748094,0 -125.235132,49.748449,0 -125.235141,49.748473,0 -125.235131,49.748808,0 -125.235049,49.748997,0 -125.234994,49.749058,0 -125.234872,49.74919,0 -125.234652,49.749336,0 -125.234385,49.749448,0 -125.234086,49.749517,0 -125.233267,49.749538,0 -125.231907,49.749573,0 -125.229497,49.749584,0 -125.228922,49.749531,0 -125.228408,49.749449,0 -125.227812,49.749298,0 -125.227223,49.749091,0 -125.226276,49.748682,0 -125.223737,49.747583,0 -125.221422,49.746581,0 -125.220382,49.746187,0 -125.219839,49.746044,0 -125.21586,49.745305,0 -125.215277,49.745173,0 -125.215201,49.745146,0 -125.214866,49.74503,0 -125.214277,49.744826,0 -125.213621,49.744493,0 -125.213503,49.744433,0 -125.213212,49.744239,0 -125.212861,49.744005,0 -125.209944,49.742056,0 -125.209361,49.741723,0 -125.209333,49.741711,0 -125.208739,49.741435,0 -125.208272,49.741279,0 -125.204896,49.740292,0 -125.204736,49.740246,0 -125.20441,49.740152,0 -125.203519,49.739846,0 -125.202263,49.739333,0 -125.199799,49.738216,0 -125.196259,49.736612,0 -125.19556,49.736406,0 -125.195028,49.736307,0 -125.192893,49.736033,0 -125.192209,49.735927,0 -125.192146,49.735911,0 -125.191629,49.735783,0 -125.191054,49.735566,0 -125.189349,49.734712,0 -125.187194,49.733799,0 -125.183476,49.732224,0 -125.182817,49.732007,0 -125.182137,49.731849,0 -125.18125,49.731706,0 -125.177234,49.73106,0 -125.176554,49.730906,0 -125.176175,49.730788,0 -125.175466,49.730511,0 -125.174886,49.730248,0 -125.169686,49.727683,0 -125.165784,49.725842,0 -125.165587,49.725758,0 -125.164546,49.725314,0 -125.159804,49.723585,0 -125.15954,49.723488,0 -125.15916,49.7234,0 -125.157292,49.723195,0 -125.156505,49.722991,0 -125.152276,49.721496,0 -125.150942,49.720921,0 -125.149684,49.72038,0 -125.149112,49.720194,0 -125.148623,49.72008,0 -125.148544,49.720068,0 -125.148124,49.720003,0 -125.147561,49.719953,0 -125.146856,49.719957,0 -125.146263,49.720019,0 -125.145781,49.720103,0 -125.143299,49.720791,0 -125.142916,49.720852,0 -125.142316,49.720903,0 -125.141778,49.720902,0 -125.139581,49.720738,0 -125.139305,49.720703,0 -125.137935,49.720531,0 -125.136445,49.720524,0 -125.134994,49.720405,0 -125.134644,49.720436,0 -125.134314,49.720525,0 -125.13382,49.720761,0 -125.133474,49.720873,0 -125.133012,49.720967,0 -125.132502,49.720991,0 -125.132376,49.720983,0 -125.13207,49.720963,0 -125.131676,49.720893,0 -125.129512,49.720222,0 -125.12936,49.720197,0 -125.128893,49.72012,0 -125.127383,49.72013,0 -125.12624,49.720243,0 -125.125376,49.72024,0 -125.123269,49.720241,0 -125.122307,49.720361,0 -125.121885,49.720453,0 -125.121596,49.720553,0 -125.121375,49.720669,0 -125.121147,49.720841,0 -125.119864,49.722089,0 -125.119339,49.7226,0 -125.119123,49.722877,0 -125.119008,49.723092,0 -125.118739,49.723863,0 -125.11807,49.724978,0 -125.117594,49.725611,0 -125.116708,49.726517,0 -125.116473,49.7267,0 -125.116204,49.726854,0 -125.115883,49.726961,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4067,7 +4066,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between First Avalanche Gate and Sunday Summit for 78.6 km (17 km east of Hope to 32 km west of Princeton). Compact snow. Last updated Fri Jan 2 at 6:57 AM PST. (DBCRCON-234637)</name>
+          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between First Avalanche Gate and Sunday Summit for 78.6 km (17 km east of Hope to 32 km west of Princeton). Compact snow. Last updated Fri Jan 2 at 9:09 AM PST. (DBCRCON-234637)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4079,7 +4078,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
     &lt;b&gt;Location:&lt;/b&gt; Between First Avalanche Gate and Sunday Summit for 78.6 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 32 km west of Princeton to 17 km east of Hope&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T06:57:34-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:09:14-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6490,58 +6489,6 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
       <Folder>
         <name>Chain Up Events</name>
         <Placemark>
-          <name>Highway 22. Commercial chain up in effect between Byers Lane and Second St for 0.1 km (Trail).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 22&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Byers Lane and Second St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Trail&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T05:40:04-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-235141
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.719077,49.097634,0 -117.717924,49.097277,0 -117.717835,49.097249,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 22. Commercial chain up in effect between Lytton St and Montcalm Rd for 0.1 km (Warfield).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 22&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Lytton St and Montcalm Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Warfield&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T05:40:04-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-235140
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.745602,49.095306,0 -117.745525,49.095326,0 -117.745145,49.095333,0 -117.74481,49.095282,0 -117.744362,49.095063,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 97 (Alaska Highway). Commercial chain up in effect between 223 Rd and James Paul Rd for 0.1 km (4 km north of Dawson Creek).</name>
           <description>
     &lt;![CDATA[
@@ -6600,7 +6547,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.370827-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.505094-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6637,7 +6584,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.385628-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.513554-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6674,7 +6621,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.360629-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.497744-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6711,7 +6658,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.408007-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.522227-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6748,7 +6695,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.295683-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.473020-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6788,7 +6735,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.310861-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.481906-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6825,7 +6772,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.416353-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.532074-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6862,7 +6809,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.425211-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.539940-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6899,7 +6846,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.470932-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.557211-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6936,7 +6883,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.269347-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.456326-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6973,7 +6920,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.281989-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.464377-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7013,7 +6960,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.341433-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.490019-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7050,7 +6997,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.503887-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.548540-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7087,7 +7034,7 @@ Watch for emergency vehicles. Last updated Thu Jan 1 at 8:03 PM PST. (DBC-85253)
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T08:00:03.254677-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-02T09:00:39.446403-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
