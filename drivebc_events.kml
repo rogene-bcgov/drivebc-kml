@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-05 08:43:00 UTC
+        Last updated: 2026-01-05 09:05:41 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -1663,6 +1663,31 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Maintenance between Central Valley Greenway and North Rd (Burnaby). HOV lane closed. Watch for traffic control. Next update time Mon Jan 5 at 3:00 AM PST. Last updated Mon Jan 5 at 1:00 AM PST. (DBC-85534)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Central Valley Greenway and North Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-05T01:00:15-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-05T03:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85534
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.90293,49.245906,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 4, eastbound. Utility work planned between Victoria Quay and Margaret St (Port Alberni). Starting Mon Jan 5, 2026 at 8:00 AM PST until Fri Jan 30, 2026 at 4:00 PM PST. Expect minor delays. Watch for traffic control personnel. Lane shift - slow down and watch for work crews. Last updated Tue Dec 23 at 9:58 AM PST. (DBC-85122)</name>
           <description>
     &lt;![CDATA[
@@ -2738,31 +2763,6 @@ Watch for emergency vehicles. Last updated Sun Jan 4 at 3:55 PM PST. (DBC-85253)
             <tessellate>1</tessellate>
             <coordinates>-118.103097,51.008605,0 -118.102961,51.008625,0 -118.101892,51.008812,0 -118.100843,51.0091,0 -118.099941,51.009429,0 -118.099142,51.009779,0 -118.096266,51.01104,0 -118.095161,51.011435,0 -118.094634,51.011624,0 -118.093367,51.011987,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 17, westbound. Stalled vehicle between 80 St Conn and 72 St (Delta). Lane blocked. Watch for traffic control. Next update time Mon Jan 5 at 1:00 AM PST. Last updated Mon Jan 5 at 12:31 AM PST. (DBC-85532)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 72 St and 80 St Conn&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-05T00:31:05-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-05T01:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-85532
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.008337,49.1356,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 16 (Yellowhead Highway), westbound. Vehicle recovery planned between Loos Rd and Dome Creek Rd for 11.5 km (60 km east of Purden Lake to 69 km west of McBride). Starting Mon Jan 5 at 8:00 AM PST until Tue Jan 6 at 8:00 PM PST. From 8:00 AM to 8:00 PM PST on Monday and Tuesday. Single lane alternating traffic will be in effect. Next update time Tue Jan 6 at 4:00 PM PST. Last updated Sun Jan 4 at 7:57 PM PST. (DBC-85501)</name>
