@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-09 11:02:04 UTC
+        Last updated: 2026-01-09 11:34:09 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (255)</name>
+      <name>🚗 Traffic Events (256)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -247,6 +247,32 @@
           <Point>
             <coordinates>-122.489194,52.972914,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, in both directions. Vehicle incident between Allan Creek Rec Site and Albreda Pit Rd for 10.0 km (25 to 35 km south of Valemount). Road closed. Assessment in progress. Watch for traffic control. Next update time Fri Jan 9 at 5:00 AM PST. Last updated Fri Jan 9 at 3:14 AM PST. (DBC-85730)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Allan Creek Rec Site and Albreda Pit Rd for 10.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 35 to 25 km south of Valemount&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-09T03:14:19-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-09T05:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85730
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.111804,52.553315,0 -119.111792,52.55336,0 -119.111575,52.554193,0 -119.111333,52.555124,0 -119.111164,52.555696,0 -119.110216,52.558915,0 -119.109453,52.561502,0 -119.109232,52.562018,0 -119.108777,52.562796,0 -119.108327,52.563397,0 -119.10745,52.564277,0 -119.106753,52.564826,0 -119.105614,52.565588,0 -119.105479,52.565679,0 -119.105033,52.565979,0 -119.103703,52.566871,0 -119.103067,52.567389,0 -119.102157,52.568219,0 -119.101441,52.569048,0 -119.100689,52.570093,0 -119.100582,52.570327,0 -119.097551,52.577244,0 -119.097285,52.57785,0 -119.096615,52.57924,0 -119.095565,52.581762,0 -119.095366,52.582623,0 -119.095317,52.583721,0 -119.095505,52.58525,0 -119.095774,52.586028,0 -119.096366,52.587199,0 -119.096557,52.587576,0 -119.098083,52.589707,0 -119.098432,52.59016,0 -119.098584,52.590373,0 -119.100762,52.593427,0 -119.101347,52.594165,0 -119.10221,52.595129,0 -119.10295,52.595841,0 -119.107631,52.600063,0 -119.108884,52.601194,0 -119.110463,52.60247,0 -119.110969,52.602815,0 -119.111532,52.6032,0 -119.112576,52.603844,0 -119.114186,52.60471,0 -119.116988,52.60598,0 -119.121525,52.608436,0 -119.123521,52.609578,0 -119.125652,52.610796,0 -119.125813,52.610889,0 -119.12696,52.611617,0 -119.127378,52.611917,0 -119.127462,52.611977,0 -119.129245,52.613253,0 -119.129578,52.613514,0 -119.130249,52.614017,0 -119.131284,52.614888,0 -119.132766,52.616302,0 -119.133101,52.616622,0 -119.133826,52.617365,0 -119.134257,52.617806,0 -119.137568,52.621768,0 -119.138264,52.622483,0 -119.13883,52.622985,0 -119.139439,52.623405,0 -119.140085,52.623767,0 -119.14081,52.624112,0 -119.141829,52.624469,0 -119.143143,52.624884,0 -119.144014,52.625203,0 -119.144614,52.625478,0 -119.144744,52.625537,0 -119.145411,52.625916,0 -119.14613,52.626451,0 -119.146908,52.62709,0 -119.148869,52.628701,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39 km east of Tatla Lake to 6 km west of Anahim Lake). Last updated Thu Jan 8 at 4:09 PM PST. (DBC-78509)</name>
