@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-11 09:34:56 UTC
+        Last updated: 2026-01-11 10:02:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (239)</name>
+      <name>🚗 Traffic Events (240)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -1222,6 +1222,32 @@ Watch for emergency vehicles. Last updated Sat Jan 10 at 5:11 PM PST. (DBC-85253
           <Point>
             <coordinates>-122.077555,50.732184,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Water pooling between Riverside Rd and Dyke Crest Rd for 16.7 km (Abbotsford). Heavy rain. Last updated Sun Jan 11 at 1:44 AM PST. (DBCRCON-236875)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; SURFACE_WATER_HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Riverside Rd and Dyke Crest Rd for 16.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-11T01:44:02-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-236875
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.266377,49.033355,0 -122.266231,49.033355,0 -122.265911,49.03335,0 -122.265286,49.033338,0 -122.265248,49.033337,0 -122.264655,49.033336,0 -122.260262,49.033327,0 -122.260193,49.033327,0 -122.258602,49.033324,0 -122.255591,49.033312,0 -122.252523,49.033222,0 -122.241817,49.033202,0 -122.240898,49.033251,0 -122.240496,49.033273,0 -122.238309,49.03339,0 -122.235897,49.033654,0 -122.232914,49.034116,0 -122.229795,49.034828,0 -122.227452,49.035551,0 -122.226035,49.036077,0 -122.224419,49.036804,0 -122.223049,49.037422,0 -122.219748,49.038909,0 -122.21411,49.041235,0 -122.21343,49.041515,0 -122.213252,49.041596,0 -122.200044,49.047583,0 -122.191692,49.051368,0 -122.1908,49.051772,0 -122.189756,49.052245,0 -122.184853,49.054466,0 -122.181199,49.056121,0 -122.180689,49.056352,0 -122.180624,49.056382,0 -122.180348,49.056506,0 -122.180261,49.056546,0 -122.176731,49.058144,0 -122.172881,49.059889,0 -122.171956,49.060377,0 -122.170349,49.061307,0 -122.16276,49.065955,0 -122.158969,49.068277,0 -122.141419,49.07901,0 -122.141128,49.079188,0 -122.126464,49.088159,0 -122.125788,49.08858,0 -122.125148,49.089028,0 -122.124591,49.089511,0 -122.123757,49.090357,0 -122.122375,49.092175,0 -122.120061,49.095225,0 -122.116442,49.100007,0 -122.114085,49.103119,0 -122.111414,49.106646,0 -122.1113,49.106797,0 -122.11095,49.107258,0 -122.110789,49.107471,0 -122.104631,49.115599,0 -122.101384,49.119883,0 -122.100692,49.120658,0 -122.100008,49.121224,0 -122.099047,49.121814,0 -122.098555,49.122045,0 -122.097854,49.122313,0 -122.097621,49.12239,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 3A. Watch for slippery sections between Kootenay Bay Ferry and Junction Hwy 3 for 78.0 km (1 km north of Kootenay Bay Ferry Landing to Creston). Compact snow. Last updated Sat Jan 10 at 7:48 PM PST. (DBCRCON-235966)</name>
