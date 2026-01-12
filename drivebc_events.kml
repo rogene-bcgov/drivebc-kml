@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-12 09:06:13 UTC
+        Last updated: 2026-01-12 09:42:00 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (261)</name>
+      <name>🚗 Traffic Events (262)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -501,6 +501,31 @@
             <tessellate>1</tessellate>
             <coordinates>-123.623,48.719171,0 -123.623922,48.719307,0 -123.62399,48.719317,0 -123.62749,48.71983,0 -123.629987,48.720197,0 -123.631076,48.720401,0 -123.631737,48.720572,0 -123.632337,48.720826,0 -123.632786,48.721081,0 -123.633284,48.72147,0 -123.633715,48.721909,0 -123.634815,48.723548,0 -123.635342,48.724251,0 -123.636267,48.725234,0 -123.638956,48.728121,0 -123.640205,48.729461,0 -123.640572,48.729859,0 -123.640916,48.730114,0 -123.649476,48.736517,0 -123.650228,48.737068,0 -123.650281,48.737107,0 -123.650813,48.737495,0 -123.651742,48.738176,0 -123.654095,48.739715,0 -123.655483,48.740623,0 -123.657456,48.741914,0 -123.659299,48.743047,0 -123.659686,48.743285,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Redrooffs Road, in both directions. Tree on road at Welcome Beach in Sechelt. Downed hydro lines. Road closed. Watch for traffic control. Next update time Mon Jan 12 at 2:00 AM PST. Last updated Mon Jan 12 at 1:17 AM PST. (DBC-85853)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Redrooffs Road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Welcome Beach in Sechelt&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-12T01:17:37-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-12T02:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85853
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.904425,49.48816,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>McLure Ferry, in both directions. Ferry is currently out of service between McLure Ferry and the end of McLure Ferry (McLure). Ferry route closed. Next update time Mon Jan 19, 2026 at 12:00 PM PST. Last updated Tue Dec 30 at 10:16 AM PST. (DBC-85247)</name>
