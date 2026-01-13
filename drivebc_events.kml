@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-13 22:02:22 UTC
+        Last updated: 2026-01-13 22:37:33 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (277)</name>
+      <name>🚗 Traffic Events (281)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -249,29 +249,30 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Marine Dr, westbound. Stalled vehicle at Hwy 99 On-Ramp in North Vancouver - District. Left lane is blocked. Left lane of on-ramp to Lions Gate Bridge is blocked. Pass with caution. Next update time Tue Jan 13 at 2:00 PM PST. Last updated Tue Jan 13 at 1:10 PM PST. (DBC-85980)</name>
+          <name>Highway 31. Avalanche control work planned between Beaton-Armstrong Lake Rd and Hill Creek Rd for 9.7 km (13 to 22 km north of Trout Lake). Starting Wed Jan 14 at 11:00 AM PST. Road closure planned. Estimated time of re-opening Wed Jan 14 at 1:00 PM PST. Next update time Wed Jan 14 at 1:15 PM PST. Last updated Tue Jan 13 at 2:09 PM PST. (DBC-85981)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Marine Dr&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Hwy 99 On-Ramp in North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 31&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Beaton-Armstrong Lake Rd and Hill Creek Rd for 9.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 22 to 13 km north of Trout Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-13T13:10:56-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-13T14:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-13T14:09:31-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-14T13:15:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-85980
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85981
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.127728,49.327012,0</coordinates>
-          </Point>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.697778,50.701908,0 -117.698009,50.70188,0 -117.698222,50.701854,0 -117.698476,50.701823,0 -117.701694,50.701428,0 -117.70303,50.701279,0 -117.70372,50.701226,0 -117.704481,50.70126,0 -117.705169,50.701357,0 -117.709124,50.702298,0 -117.709882,50.70253,0 -117.710872,50.702921,0 -117.71155,50.703252,0 -117.712589,50.703878,0 -117.713322,50.704461,0 -117.715428,50.706775,0 -117.715954,50.707208,0 -117.716567,50.707596,0 -117.717441,50.707984,0 -117.718278,50.708252,0 -117.719293,50.708433,0 -117.720284,50.708498,0 -117.721281,50.708486,0 -117.723905,50.708212,0 -117.729955,50.707581,0 -117.731091,50.707413,0 -117.732123,50.707208,0 -117.732224,50.70718,0 -117.732783,50.707025,0 -117.732894,50.706995,0 -117.733439,50.706844,0 -117.738049,50.705057,0 -117.73997,50.703983,0 -117.740766,50.703538,0 -117.741753,50.702868,0 -117.741801,50.702836,0 -117.742883,50.701969,0 -117.74473,50.700491,0 -117.745325,50.700014,0 -117.746245,50.699277,0 -117.746959,50.698929,0 -117.749057,50.698495,0 -117.749563,50.698326,0 -117.74983,50.698207,0 -117.750004,50.698128,0 -117.750681,50.697697,0 -117.751811,50.696977,0 -117.753174,50.696291,0 -117.754421,50.695815,0 -117.756167,50.695434,0 -117.756732,50.695259,0 -117.757913,50.694704,0 -117.760367,50.693602,0 -117.761393,50.693141,0 -117.765402,50.691339,0 -117.765673,50.691194,0 -117.767463,50.690239,0 -117.768738,50.689331,0 -117.769841,50.688546,0 -117.772066,50.686961,0 -117.772282,50.686807,0 -117.772835,50.686213,0 -117.773189,50.685646,0 -117.774653,50.683302,0 -117.775895,50.681822,0 -117.776956,50.680558,0 -117.77851,50.678708,0 -117.779324,50.678093,0 -117.779838,50.677813,0 -117.783823,50.675638,0 -117.785929,50.674437,0 -117.787191,50.673718,0 -117.789018,50.672676,0 -117.7901,50.672193,0 -117.79208,50.671446,0 -117.792717,50.671136,0 -117.793853,50.670388,0 -117.793982,50.670336,0 -117.79436,50.670184,0 -117.79473,50.670127,0 -117.794907,50.670099,0 -117.796814,50.670022,0 -117.797124,50.669982,0 -117.797746,50.669902,0 -117.798805,50.669668,0 -117.799998,50.669331,0 -117.801823,50.668815,0 -117.804685,50.667909,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Needles Ferry, in both directions. There will be required maintenance between Needles Ferry and the end of Needles Ferry (Needles). Starting Sun Jan 18 at 9:00 AM PST until Sun Jan 18 at 12:00 PM PST. Ferry route will be closed. Next update time Sun Jan 18 at 12:00 PM PST. Last updated Fri Jan 9 at 11:30 AM PST. (DBC-85760)</name>
@@ -296,6 +297,57 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-118.09743,49.874179,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Avalanche control work planned between West Avalanche Gate and East Avalanche Gate for 18.0 km (Kootenay Pass). Starting Wed Jan 14 at 12:00 PM PST until Wed Jan 14 at 4:00 PM PST. Road closure planned. Alternate route available from Nelson to Creston; Highway 3A, Kootenay Lake Ferry, estimated travel time 2.5 hours. Next update time Wed Jan 14 at 4:00 PM PST. Last updated Tue Jan 13 at 2:10 PM PST. (DBC-85982)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between West Avalanche Gate and East Avalanche Gate for 18.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kootenay Pass&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-13T14:10:49-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-14T16:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85982
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.15163,49.026497,0 -117.151085,49.026971,0 -117.150075,49.027896,0 -117.145493,49.032089,0 -117.143334,49.034064,0 -117.142536,49.034879,0 -117.142221,49.035302,0 -117.141833,49.036035,0 -117.141644,49.036752,0 -117.14103,49.039105,0 -117.140862,49.03955,0 -117.140571,49.040069,0 -117.140566,49.040078,0 -117.140207,49.040482,0 -117.139539,49.041008,0 -117.139021,49.041346,0 -117.133555,49.04491,0 -117.131791,49.04606,0 -117.131496,49.046242,0 -117.131159,49.046449,0 -117.13067,49.046673,0 -117.130553,49.046727,0 -117.128188,49.047534,0 -117.127248,49.048,0 -117.12683,49.048226,0 -117.124041,49.049741,0 -117.123708,49.049901,0 -117.123369,49.050064,0 -117.122783,49.050306,0 -117.122026,49.050552,0 -117.121437,49.050721,0 -117.118476,49.051569,0 -117.116417,49.052159,0 -117.11366,49.053298,0 -117.112669,49.053724,0 -117.111945,49.054035,0 -117.110831,49.054514,0 -117.110024,49.054954,0 -117.106553,49.057562,0 -117.105656,49.05811,0 -117.105387,49.058274,0 -117.104311,49.058816,0 -117.103203,49.059261,0 -117.102601,49.059463,0 -117.102037,49.059653,0 -117.101959,49.059673,0 -117.10076,49.05997,0 -117.099323,49.060245,0 -117.098023,49.060419,0 -117.097499,49.060489,0 -117.096643,49.060659,0 -117.096032,49.060828,0 -117.095063,49.06116,0 -117.093733,49.061717,0 -117.092624,49.062134,0 -117.092467,49.062172,0 -117.091576,49.06239,0 -117.090538,49.062592,0 -117.089365,49.062695,0 -117.089061,49.062695,0 -117.088172,49.062696,0 -117.08785,49.062696,0 -117.086951,49.062617,0 -117.08599,49.062473,0 -117.085633,49.062392,0 -117.085041,49.062258,0 -117.084217,49.062006,0 -117.0838,49.061856,0 -117.082951,49.06155,0 -117.082481,49.061415,0 -117.081899,49.061308,0 -117.081209,49.06128,0 -117.080687,49.061309,0 -117.080136,49.061413,0 -117.079557,49.061595,0 -117.078909,49.061909,0 -117.078603,49.062093,0 -117.077177,49.062956,0 -117.076689,49.063219,0 -117.075931,49.063524,0 -117.07526,49.063704,0 -117.074773,49.063788,0 -117.072271,49.064218,0 -117.070334,49.064551,0 -117.069829,49.064605,0 -117.06964,49.064625,0 -117.068947,49.064626,0 -117.068195,49.064545,0 -117.067317,49.064371,0 -117.0622,49.063214,0 -117.061096,49.062886,0 -117.0603,49.062603,0 -117.059062,49.062165,0 -117.058284,49.061863,0 -117.057286,49.061476,0 -117.056305,49.061046,0 -117.055693,49.060698,0 -117.055537,49.06059,0 -117.05509,49.060282,0 -117.054137,49.059624,0 -117.053483,49.059248,0 -117.052746,49.058947,0 -117.051578,49.058627,0 -117.050083,49.058294,0 -117.048447,49.057929,0 -117.047259,49.057664,0 -117.046523,49.05755,0 -117.045736,49.057488,0 -117.044976,49.057501,0 -117.043935,49.05759,0 -117.042867,49.057775,0 -117.04179,49.058056,0 -117.040873,49.058434,0 -117.040463,49.058667,0 -117.040331,49.058742,0 -117.040011,49.058924,0 -117.039921,49.058991,0 -117.039815,49.05907,0 -117.039375,49.059397,0 -117.039027,49.05975,0 -117.038904,49.059875,0 -117.03833,49.060669,0 -117.038019,49.061461,0 -117.037994,49.061591,0 -117.037925,49.061959,0 -117.03792,49.061984,0 -117.037931,49.062806,0 -117.038089,49.065876,0 -117.038009,49.066623,0 -117.037789,49.067323,0 -117.037398,49.068024,0 -117.03719,49.06832,0 -117.036971,49.068629,0 -117.035533,49.070557,0 -117.034529,49.071567,0 -117.029897,49.075379,0 -117.028236,49.076746,0 -117.025511,49.078988,0 -117.023849,49.0806,0 -117.02198,49.082412,0 -117.021354,49.083019,0 -117.021135,49.083284,0 -117.018861,49.086044,0 -117.016617,49.088838,0 -117.014719,49.091201,0 -117.014371,49.091649,0 -117.01395,49.092193,0 -117.013009,49.093244,0 -117.012238,49.09374,0 -117.011981,49.093848,0 -117.011307,49.094129,0 -117.010084,49.094374,0 -117.007689,49.094738,0 -117.002372,49.095544,0 -117.00229,49.095557,0 -117.002065,49.095587,0 -117.001955,49.095602,0 -117.000804,49.095756,0 -117.000087,49.095852,0 -116.999993,49.095866,0 -116.999456,49.095947,0 -116.998003,49.096163,0 -116.997413,49.09625,0 -116.994995,49.096609,0 -116.993533,49.096826,0 -116.991175,49.097175,0 -116.99069,49.09723,0 -116.989521,49.097363,0 -116.985479,49.09736,0 -116.985425,49.09736,0 -116.981694,49.097357,0 -116.980011,49.097288,0 -116.976577,49.097011,0 -116.97636,49.096994,0 -116.975103,49.096892,0 -116.972659,49.096695,0 -116.970745,49.096541,0 -116.969089,49.096407,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Police incident between 32 Ave and 40 Ave (Surrey). Right lane is blocked. Last updated Tue Jan 13 at 2:21 PM PST. (DBC-85984)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 32 Ave and 40 Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-13T14:21:56-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85984
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.735328,49.061608,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -705,7 +757,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Fording Mine Rd, in both directions. Debris on roadway between the start of Fording Mine Rd and End of Route (Elkford). All lanes blocked. Watch for traffic control. Incident/Debris is located 23km North of Elkford on Fording River Road. Next update time Tue Jan 13 at 3:00 PM MST. Last updated Tue Jan 13 at 11:58 AM MST. (DBC-85967)</name>
+          <name>Fording Mine Rd, in both directions. Debris on roadway between the start of Fording Mine Rd and End of Route (Elkford). All lanes blocked. Watch for traffic control. Incident/Debris is located 23km North of Elkford on Fording River Road. Next update time Tue Jan 13 at 6:00 PM MST. Last updated Tue Jan 13 at 3:05 PM MST. (DBC-85967)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -717,8 +769,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between the start of Fording Mine Rd and End of Route&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Elkford&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-13T10:58:29-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-13T14:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-13T14:05:32-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-13T17:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-85967
@@ -1733,6 +1785,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97 (Cariboo Connector). Utility work planned between Spring Lake Rd and Kokanee Bay Rd for 16.8 km (31 to 14 km north of 100 Mile House). Starting Sun Jan 18 until Sun Jan 18. From 8:00 AM to 4:00 PM PST on weekdays. Please watch for signage and personnel. Single lane alternating traffic as required. Expect minor delays of up to five minutes. Last updated Tue Jan 13 at 2:11 PM PST. (DBC-85983)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Spring Lake Rd and Kokanee Bay Rd for 16.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 to 31 km north of 100 Mile House&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-13T14:11:54-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85983
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.392731,51.774212,0 -121.397158,51.776732,0 -121.398555,51.777527,0 -121.399624,51.778159,0 -121.399694,51.778201,0 -121.40005,51.778437,0 -121.400395,51.778666,0 -121.401066,51.779233,0 -121.401732,51.780064,0 -121.402531,51.781569,0 -121.40337,51.783187,0 -121.404143,51.784694,0 -121.404697,51.785772,0 -121.40542,51.787181,0 -121.406077,51.788462,0 -121.407094,51.790379,0 -121.407423,51.790997,0 -121.407891,51.791582,0 -121.407924,51.791624,0 -121.408648,51.792207,0 -121.409546,51.792697,0 -121.411752,51.793652,0 -121.413592,51.794449,0 -121.416386,51.795659,0 -121.416942,51.795899,0 -121.419498,51.797,0 -121.419567,51.79703,0 -121.434599,51.803504,0 -121.440811,51.806179,0 -121.441249,51.806367,0 -121.442051,51.806655,0 -121.443313,51.806998,0 -121.451933,51.809341,0 -121.452253,51.809426,0 -121.457164,51.810749,0 -121.457902,51.810868,0 -121.458059,51.810885,0 -121.458864,51.810968,0 -121.45892,51.810969,0 -121.459433,51.810979,0 -121.460578,51.810965,0 -121.46487,51.810834,0 -121.465207,51.810824,0 -121.466826,51.810849,0 -121.468036,51.811048,0 -121.468482,51.811157,0 -121.469359,51.811444,0 -121.470676,51.811963,0 -121.472251,51.812565,0 -121.47256,51.812681,0 -121.474176,51.813275,0 -121.47589,51.8139,0 -121.4767,51.814206,0 -121.478272,51.814875,0 -121.479772,51.815578,0 -121.484098,51.817713,0 -121.484405,51.817861,0 -121.488006,51.819605,0 -121.488226,51.819711,0 -121.489266,51.820214,0 -121.490493,51.820808,0 -121.491874,51.821256,0 -121.492806,51.821463,0 -121.493932,51.821632,0 -121.495319,51.82184,0 -121.496135,51.821946,0 -121.497623,51.822141,0 -121.498668,51.82217,0 -121.499903,51.822102,0 -121.5011,51.822007,0 -121.503,51.821855,0 -121.503418,51.821822,0 -121.50539,51.821796,0 -121.506319,51.821855,0 -121.5078,51.821989,0 -121.509244,51.822142,0 -121.514336,51.822681,0 -121.515435,51.822846,0 -121.516715,51.823139,0 -121.517649,51.823405,0 -121.519347,51.824012,0 -121.521433,51.824758,0 -121.524481,51.826163,0 -121.525489,51.826627,0 -121.526709,51.82719,0 -121.529094,51.828289,0 -121.529683,51.82851,0 -121.5302,51.828642,0 -121.531286,51.828849,0 -121.532534,51.828931,0 -121.532841,51.828925,0 -121.536309,51.828858,0 -121.537121,51.828921,0 -121.537804,51.829032,0 -121.538739,51.829221,0 -121.539518,51.829428,0 -121.539698,51.829497,0 -121.540688,51.829877,0 -121.543153,51.831013,0 -121.544585,51.831674,0 -121.545514,51.832102,0 -121.547236,51.832891,0 -121.548219,51.833456,0 -121.549426,51.834329,0 -121.549477,51.83437,0 -121.550276,51.835006,0 -121.55043,51.835129,0 -121.550685,51.835333,0 -121.551639,51.836087,0 -121.553114,51.837189,0 -121.553945,51.837756,0 -121.555044,51.838217,0 -121.556553,51.838671,0 -121.557988,51.839199,0 -121.558717,51.839542,0 -121.559508,51.839959,0 -121.56009,51.840336,0 -121.562401,51.841934,0 -121.563066,51.842394,0 -121.568208,51.845968,0 -121.568669,51.846289,0 -121.569031,51.846542,0 -121.572243,51.848718,0 -121.572916,51.849049,0 -121.573812,51.849402,0 -121.574473,51.849613,0 -121.57548,51.849844,0 -121.576262,51.849956,0 -121.57637,51.849965,0 -121.577219,51.850033,0 -121.578337,51.850041,0 -121.579617,51.849966,0 -121.581479,51.849856,0 -121.581762,51.849839,0 -121.582256,51.84981,0 -121.584189,51.849696,0 -121.585342,51.849628,0 -121.585472,51.84962,0 -121.585781,51.849602,0 -121.587003,51.849526,0 -121.587261,51.849509,0 -121.587715,51.849481,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Fraser Hwy, northbound. Utility work between Highway 10 and 196A St in Langley - City. Until Fri Jan 16. From 7:00 AM to 5:00 PM PST daily. Right lane closed. Watch for traffic control. Pole replacements for Skytrain project. No closures or delays on Hwy 10. Last updated Tue Dec 30, 2025 at 1:32 PM PST. (DBC-85307)</name>
           <description>
     &lt;![CDATA[
@@ -1909,6 +1987,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.565479,48.647528,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Electrical maintenance at Foreman Rd (Prince George). Until Tue Jan 13 at 4:00 PM PST. Westcana Electric crew will be standing a light standard at Graves Road in the Eastbound Lane. Work Zone set up, Please obey all signage and watch for personnal on roadside. Last updated Tue Jan 13 at 2:25 PM PST. (DBC-85985)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Foreman Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince George&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-13T14:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-85985
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.647938,53.920411,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
