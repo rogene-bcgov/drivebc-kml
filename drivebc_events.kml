@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-15 19:36:49 UTC
+        Last updated: 2026-01-15 20:02:25 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (288)</name>
+      <name>🚗 Traffic Events (289)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -1529,6 +1529,32 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Construction work between Telegraph Rest Area and Maintenance Boundary SA27 for 8.6 km (63 to 54 km east of Prince Rupert). Until Thu Jan 15 at 12:00 PM PST. Road closed intermittently. Last updated Thu Jan 15 at 11:54 AM PST. (DBC-86044)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Telegraph Rest Area and Maintenance Boundary SA27 for 8.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 54 to 63 km east of Prince Rupert&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:54:11-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86044
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-129.653631,54.191592,0 -129.651489,54.190085,0 -129.650562,54.189573,0 -129.649769,54.189233,0 -129.648542,54.188825,0 -129.64536,54.187989,0 -129.64387,54.18769,0 -129.643315,54.187579,0 -129.641634,54.187357,0 -129.639542,54.187159,0 -129.637084,54.18711,0 -129.636307,54.187139,0 -129.632162,54.187295,0 -129.629735,54.187336,0 -129.629267,54.187344,0 -129.627768,54.187259,0 -129.624189,54.187056,0 -129.623227,54.187046,0 -129.622579,54.187095,0 -129.622051,54.187136,0 -129.620971,54.187365,0 -129.619929,54.187722,0 -129.614767,54.190156,0 -129.610622,54.191759,0 -129.610054,54.192058,0 -129.609109,54.192557,0 -129.6065,54.194407,0 -129.605007,54.195466,0 -129.60435,54.195876,0 -129.60343,54.196346,0 -129.602501,54.196725,0 -129.601561,54.197022,0 -129.601211,54.197132,0 -129.601,54.197199,0 -129.600004,54.197513,0 -129.597396,54.198336,0 -129.596538,54.198693,0 -129.596345,54.198773,0 -129.595492,54.199257,0 -129.594374,54.199988,0 -129.588257,54.203991,0 -129.587641,54.204508,0 -129.58723,54.205005,0 -129.58697,54.205457,0 -129.586785,54.20599,0 -129.58654,54.207476,0 -129.586342,54.208117,0 -129.585273,54.210187,0 -129.585035,54.210901,0 -129.584906,54.211721,0 -129.584946,54.214482,0 -129.584817,54.215135,0 -129.584748,54.215485,0 -129.584445,54.216242,0 -129.583996,54.217007,0 -129.583543,54.217603,0 -129.582852,54.218365,0 -129.581902,54.219211,0 -129.580836,54.219972,0 -129.579714,54.220678,0 -129.578411,54.221357,0 -129.577368,54.221843,0 -129.577272,54.221879,0 -129.577125,54.221934,0 -129.5769,54.222019,0 -129.576725,54.222085,0 -129.576351,54.222225,0 -129.575156,54.222675,0 -129.573622,54.223131,0 -129.571874,54.223548,0 -129.569735,54.223925,0 -129.563213,54.224661,0 -129.563044,54.22468,0 -129.56271,54.224718,0 -129.562648,54.224725,0 -129.557113,54.225344,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 26. Utility work between Victoria Creek Rd and Sorum Rd for 0.3 km (24 km east of Quesnel). Until Fri Jan 16. From 7:00 AM to 5:00 PM PST on weekdays. Please watch for signage and personnel. Last updated Mon Dec 29, 2025 at 10:51 AM PST. (DBC-85305)</name>
           <description>
     &lt;![CDATA[
@@ -1552,32 +1578,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.17799,53.053662,0 -122.177406,53.053941,0 -122.177339,53.053968,0 -122.177033,53.054091,0 -122.176399,53.054346,0 -122.17607,53.054478,0 -122.174807,53.054985,0 -122.174146,53.055196,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Construction work between Telegraph Rest Area and Maintenance Boundary SA27 for 8.6 km (63 to 54 km east of Prince Rupert). Until Thu Jan 15 at 3:00 PM PST. Road closed intermittently. Last updated Wed Jan 14 at 10:22 AM PST. (DBC-86044)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Telegraph Rest Area and Maintenance Boundary SA27 for 8.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 54 to 63 km east of Prince Rupert&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T10:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86044
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-129.653631,54.191592,0 -129.651489,54.190085,0 -129.650562,54.189573,0 -129.649769,54.189233,0 -129.648542,54.188825,0 -129.64536,54.187989,0 -129.64387,54.18769,0 -129.643315,54.187579,0 -129.641634,54.187357,0 -129.639542,54.187159,0 -129.637084,54.18711,0 -129.636307,54.187139,0 -129.632162,54.187295,0 -129.629735,54.187336,0 -129.629267,54.187344,0 -129.627768,54.187259,0 -129.624189,54.187056,0 -129.623227,54.187046,0 -129.622579,54.187095,0 -129.622051,54.187136,0 -129.620971,54.187365,0 -129.619929,54.187722,0 -129.614767,54.190156,0 -129.610622,54.191759,0 -129.610054,54.192058,0 -129.609109,54.192557,0 -129.6065,54.194407,0 -129.605007,54.195466,0 -129.60435,54.195876,0 -129.60343,54.196346,0 -129.602501,54.196725,0 -129.601561,54.197022,0 -129.601211,54.197132,0 -129.601,54.197199,0 -129.600004,54.197513,0 -129.597396,54.198336,0 -129.596538,54.198693,0 -129.596345,54.198773,0 -129.595492,54.199257,0 -129.594374,54.199988,0 -129.588257,54.203991,0 -129.587641,54.204508,0 -129.58723,54.205005,0 -129.58697,54.205457,0 -129.586785,54.20599,0 -129.58654,54.207476,0 -129.586342,54.208117,0 -129.585273,54.210187,0 -129.585035,54.210901,0 -129.584906,54.211721,0 -129.584946,54.214482,0 -129.584817,54.215135,0 -129.584748,54.215485,0 -129.584445,54.216242,0 -129.583996,54.217007,0 -129.583543,54.217603,0 -129.582852,54.218365,0 -129.581902,54.219211,0 -129.580836,54.219972,0 -129.579714,54.220678,0 -129.578411,54.221357,0 -129.577368,54.221843,0 -129.577272,54.221879,0 -129.577125,54.221934,0 -129.5769,54.222019,0 -129.576725,54.222085,0 -129.576351,54.222225,0 -129.575156,54.222675,0 -129.573622,54.223131,0 -129.571874,54.223548,0 -129.569735,54.223925,0 -129.563213,54.224661,0 -129.563044,54.22468,0 -129.56271,54.224718,0 -129.562648,54.224725,0 -129.557113,54.225344,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -2987,6 +2987,31 @@
             <tessellate>1</tessellate>
             <coordinates>-125.6462,49.885206,0 -125.646485,49.88547,0 -125.646589,49.885566,0 -125.650427,49.889124,0 -125.651167,49.890072,0 -125.651654,49.890797,0 -125.652269,49.891711,0 -125.653201,49.893096,0 -125.653507,49.89355,0 -125.653615,49.89381,0 -125.653657,49.894014,0 -125.653583,49.895177,0 -125.653841,49.89704,0 -125.653948,49.898434,0 -125.653862,49.899679,0 -125.653854,49.900003,0 -125.653844,49.900399,0 -125.653831,49.900928,0 -125.65368,49.902484,0 -125.653773,49.903253,0 -125.65374,49.904475,0 -125.653704,49.905787,0 -125.653544,49.906705,0 -125.653447,49.907009,0 -125.652973,49.908026,0 -125.652358,49.909067,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Pothole repair at Second Narrows Bridge (North Vancouver - District). Right lane closed. Next update time Thu Jan 15 at 1:00 PM PST. Last updated Thu Jan 15 at 11:48 AM PST. (DBC-86116)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:48:44-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-15T13:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86116
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.026346,49.295359,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97. Electrical maintenance between Upland St and Pine Centre Rd (Prince George). Until Thu Jan 15 at 12:00 PM PST. Crews will be working in the Eastbound Lane at the Intersection of Hwy 16 and 97. Repairing a Downed Light Standard. Work Zone will be set up, please obey all signage and watch for personnal on roadside. Last updated Thu Jan 15 at 8:04 AM PST. (DBC-86100)</name>
@@ -7584,7 +7609,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.686591-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.110785-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7621,7 +7646,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.706164-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.119347-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7658,7 +7683,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.680106-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.097916-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7695,7 +7720,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.731963-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.127351-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7732,7 +7757,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.659009-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.051461-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7772,7 +7797,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.665674-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.067021-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7809,7 +7834,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.766196-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.135470-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7846,7 +7871,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.791323-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.143434-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7883,7 +7908,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.820304-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.160316-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7920,7 +7945,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.638012-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.017268-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7957,7 +7982,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.652010-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.033393-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7997,7 +8022,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.673143-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.083331-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8034,7 +8059,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.831895-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:40.152211-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8071,7 +8096,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T11:00:49.629650-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-15T12:00:39.996157-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
