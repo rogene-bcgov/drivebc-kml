@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-17 18:40:28 UTC
+        Last updated: 2026-01-17 19:01:57 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (245)</name>
+      <name>🚗 Traffic Events (247)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -701,6 +701,31 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-117.92884,50.634871,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between McDermott Rd Uturn and Exit 104: No 3 Rd (Abbotsford). Right lane is blocked. Next update time Sat Jan 17 at 11:30 AM PST. Last updated Sat Jan 17 at 10:42 AM PST. (DBC-86207)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between McDermott Rd Uturn and Exit 104: No 3 Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-17T10:42:13-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-17T11:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86207
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.145222,49.076685,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -1717,7 +1742,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (on Haida Gwaii). Watch for slippery sections between Old Beach Rd and Skidgate Ferry Terminal for 102.1 km (Masset to Skidegate). Last updated Sat Jan 17 at 4:42 AM PST. (DBCRCON-237813)</name>
+          <name>Highway 16 (on Haida Gwaii). Watch for slippery sections between Old Beach Rd and Skidgate Ferry Terminal for 102.1 km (Masset to Skidegate). Last updated Sat Jan 17 at 10:45 AM PST. (DBCRCON-237813)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1729,7 +1754,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Old Beach Rd and Skidgate Ferry Terminal for 102.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Skidegate to Masset&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-17T04:42:54-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-17T10:45:47-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2003,32 +2028,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Ocean View Dr. Watch for slippery sections between the start of Ocean View Dr and Queen Charlotte Mainline for 7.5 km (Skidegate to Queen Charlotte). Last updated Sat Jan 17 at 4:42 AM PST. (DBCRCON-237814)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Ocean View Dr&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Ocean View Dr and Queen Charlotte Mainline for 7.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Queen Charlotte to Skidegate&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-17T04:42:54-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-237814
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-132.009534,53.247209,0 -132.009684,53.24727,0 -132.010454,53.247579,0 -132.011081,53.247689,0 -132.011829,53.247714,0 -132.012339,53.247646,0 -132.012751,53.24751,0 -132.013186,53.247348,0 -132.013377,53.247252,0 -132.013397,53.247234,0 -132.01365,53.247009,0 -132.013849,53.24677,0 -132.013996,53.246371,0 -132.014008,53.245714,0 -132.014,53.245237,0 -132.014149,53.244625,0 -132.014721,53.244216,0 -132.015119,53.243993,0 -132.015618,53.243846,0 -132.016234,53.243779,0 -132.017137,53.243766,0 -132.018221,53.243836,0 -132.018607,53.243861,0 -132.019058,53.243913,0 -132.019501,53.244013,0 -132.02009,53.24424,0 -132.022475,53.245363,0 -132.022855,53.245546,0 -132.023097,53.245662,0 -132.02431,53.246391,0 -132.024897,53.246846,0 -132.025169,53.247076,0 -132.02542,53.247287,0 -132.025538,53.247386,0 -132.025765,53.247622,0 -132.026076,53.247945,0 -132.026303,53.24818,0 -132.026497,53.248381,0 -132.02658,53.248467,0 -132.027246,53.249158,0 -132.027507,53.249369,0 -132.027602,53.249446,0 -132.027996,53.249649,0 -132.028414,53.249848,0 -132.028985,53.250035,0 -132.0293,53.250094,0 -132.029586,53.250147,0 -132.03105,53.250244,0 -132.031541,53.250296,0 -132.031915,53.250334,0 -132.03234,53.250407,0 -132.032386,53.250415,0 -132.034332,53.250868,0 -132.034773,53.250945,0 -132.035419,53.251024,0 -132.036896,53.25114,0 -132.037241,53.251169,0 -132.037759,53.25121,0 -132.038976,53.251305,0 -132.039595,53.251353,0 -132.039914,53.251384,0 -132.040138,53.251406,0 -132.041209,53.251509,0 -132.043447,53.251989,0 -132.044094,53.252072,0 -132.044149,53.25208,0 -132.044811,53.252115,0 -132.04565,53.25216,0 -132.047038,53.25238,0 -132.048257,53.252573,0 -132.048767,53.252616,0 -132.048962,53.252632,0 -132.048997,53.252631,0 -132.050885,53.252604,0 -132.05286,53.252817,0 -132.053653,53.252828,0 -132.054431,53.252761,0 -132.054511,53.252745,0 -132.05517,53.252616,0 -132.055625,53.252467,0 -132.05656,53.252163,0 -132.057062,53.252,0 -132.057249,53.25196,0 -132.057574,53.251894,0 -132.058023,53.251867,0 -132.058559,53.251902,0 -132.059009,53.252013,0 -132.061285,53.252829,0 -132.062282,53.253014,0 -132.062955,53.253193,0 -132.06462,53.253872,0 -132.065511,53.254142,0 -132.066321,53.254321,0 -132.066728,53.254371,0 -132.067123,53.254394,0 -132.068099,53.254426,0 -132.068317,53.254433,0 -132.068789,53.254444,0 -132.071095,53.254489,0 -132.072261,53.254512,0 -132.072443,53.254516,0 -132.072548,53.254517,0 -132.073416,53.254532,0 -132.075463,53.254573,0 -132.075889,53.254601,0 -132.075988,53.254607,0 -132.077681,53.2549,0 -132.078071,53.254932,0 -132.078442,53.254937,0 -132.078843,53.254901,0 -132.079839,53.254751,0 -132.080656,53.254714,0 -132.082237,53.254748,0 -132.083679,53.254778,0 -132.083751,53.254779,0 -132.086747,53.25486,0 -132.08677,53.25486,0 -132.089785,53.25488,0 -132.090445,53.254854,0 -132.091086,53.25478,0 -132.092334,53.254571,0 -132.092753,53.254501,0 -132.094089,53.254281,0 -132.094587,53.254199,0 -132.09481,53.254182,0 -132.095194,53.254164,0 -132.095876,53.254148,0 -132.095986,53.254146,0 -132.097863,53.254156,0 -132.098289,53.254193,0 -132.098627,53.254293,0 -132.09887,53.254423,0 -132.098985,53.254485,0 -132.099215,53.254559,0 -132.099564,53.254631,0 -132.100502,53.254703,0 -132.100767,53.254696,0 -132.100862,53.254693,0 -132.101187,53.254646,0 -132.101903,53.25441,0 -132.101989,53.254381,0 -132.102372,53.254268,0 -132.102844,53.254209,0 -132.103257,53.254157,0 -132.104169,53.253948,0 -132.104532,53.253903,0 -132.105255,53.253929,0 -132.105539,53.253909,0 -132.106483,53.253738,0 -132.107284,53.253698,0 -132.108246,53.253751,0 -132.1093,53.25381,0 -132.109673,53.253793,0 -132.110017,53.253777,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 6 NS. Watch for slippery sections between the start of Highway 6 NS and Summit Lake Rd for 20.3 km (Nakusp to Summit Lake). Last updated Sat Jan 17 at 6:35 AM PST. (DBCRCON-237984)</name>
           <description>
     &lt;![CDATA[
@@ -2237,6 +2236,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Ocean View Dr. Watch for slippery sections between the start of Ocean View Dr and Queen Charlotte Mainline for 7.5 km (Skidegate to Queen Charlotte). Last updated Sat Jan 17 at 10:45 AM PST. (DBCRCON-237814)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Ocean View Dr&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between the start of Ocean View Dr and Queen Charlotte Mainline for 7.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Queen Charlotte to Skidegate&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-17T10:45:47-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-237814
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-132.009534,53.247209,0 -132.009684,53.24727,0 -132.010454,53.247579,0 -132.011081,53.247689,0 -132.011829,53.247714,0 -132.012339,53.247646,0 -132.012751,53.24751,0 -132.013186,53.247348,0 -132.013377,53.247252,0 -132.013397,53.247234,0 -132.01365,53.247009,0 -132.013849,53.24677,0 -132.013996,53.246371,0 -132.014008,53.245714,0 -132.014,53.245237,0 -132.014149,53.244625,0 -132.014721,53.244216,0 -132.015119,53.243993,0 -132.015618,53.243846,0 -132.016234,53.243779,0 -132.017137,53.243766,0 -132.018221,53.243836,0 -132.018607,53.243861,0 -132.019058,53.243913,0 -132.019501,53.244013,0 -132.02009,53.24424,0 -132.022475,53.245363,0 -132.022855,53.245546,0 -132.023097,53.245662,0 -132.02431,53.246391,0 -132.024897,53.246846,0 -132.025169,53.247076,0 -132.02542,53.247287,0 -132.025538,53.247386,0 -132.025765,53.247622,0 -132.026076,53.247945,0 -132.026303,53.24818,0 -132.026497,53.248381,0 -132.02658,53.248467,0 -132.027246,53.249158,0 -132.027507,53.249369,0 -132.027602,53.249446,0 -132.027996,53.249649,0 -132.028414,53.249848,0 -132.028985,53.250035,0 -132.0293,53.250094,0 -132.029586,53.250147,0 -132.03105,53.250244,0 -132.031541,53.250296,0 -132.031915,53.250334,0 -132.03234,53.250407,0 -132.032386,53.250415,0 -132.034332,53.250868,0 -132.034773,53.250945,0 -132.035419,53.251024,0 -132.036896,53.25114,0 -132.037241,53.251169,0 -132.037759,53.25121,0 -132.038976,53.251305,0 -132.039595,53.251353,0 -132.039914,53.251384,0 -132.040138,53.251406,0 -132.041209,53.251509,0 -132.043447,53.251989,0 -132.044094,53.252072,0 -132.044149,53.25208,0 -132.044811,53.252115,0 -132.04565,53.25216,0 -132.047038,53.25238,0 -132.048257,53.252573,0 -132.048767,53.252616,0 -132.048962,53.252632,0 -132.048997,53.252631,0 -132.050885,53.252604,0 -132.05286,53.252817,0 -132.053653,53.252828,0 -132.054431,53.252761,0 -132.054511,53.252745,0 -132.05517,53.252616,0 -132.055625,53.252467,0 -132.05656,53.252163,0 -132.057062,53.252,0 -132.057249,53.25196,0 -132.057574,53.251894,0 -132.058023,53.251867,0 -132.058559,53.251902,0 -132.059009,53.252013,0 -132.061285,53.252829,0 -132.062282,53.253014,0 -132.062955,53.253193,0 -132.06462,53.253872,0 -132.065511,53.254142,0 -132.066321,53.254321,0 -132.066728,53.254371,0 -132.067123,53.254394,0 -132.068099,53.254426,0 -132.068317,53.254433,0 -132.068789,53.254444,0 -132.071095,53.254489,0 -132.072261,53.254512,0 -132.072443,53.254516,0 -132.072548,53.254517,0 -132.073416,53.254532,0 -132.075463,53.254573,0 -132.075889,53.254601,0 -132.075988,53.254607,0 -132.077681,53.2549,0 -132.078071,53.254932,0 -132.078442,53.254937,0 -132.078843,53.254901,0 -132.079839,53.254751,0 -132.080656,53.254714,0 -132.082237,53.254748,0 -132.083679,53.254778,0 -132.083751,53.254779,0 -132.086747,53.25486,0 -132.08677,53.25486,0 -132.089785,53.25488,0 -132.090445,53.254854,0 -132.091086,53.25478,0 -132.092334,53.254571,0 -132.092753,53.254501,0 -132.094089,53.254281,0 -132.094587,53.254199,0 -132.09481,53.254182,0 -132.095194,53.254164,0 -132.095876,53.254148,0 -132.095986,53.254146,0 -132.097863,53.254156,0 -132.098289,53.254193,0 -132.098627,53.254293,0 -132.09887,53.254423,0 -132.098985,53.254485,0 -132.099215,53.254559,0 -132.099564,53.254631,0 -132.100502,53.254703,0 -132.100767,53.254696,0 -132.100862,53.254693,0 -132.101187,53.254646,0 -132.101903,53.25441,0 -132.101989,53.254381,0 -132.102372,53.254268,0 -132.102844,53.254209,0 -132.103257,53.254157,0 -132.104169,53.253948,0 -132.104532,53.253903,0 -132.105255,53.253929,0 -132.105539,53.253909,0 -132.106483,53.253738,0 -132.107284,53.253698,0 -132.108246,53.253751,0 -132.1093,53.25381,0 -132.109673,53.253793,0 -132.110017,53.253777,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Gowrie St and Granby Rd for 38.8 km (1 km east of Greenwood to Grand Forks). Last updated Sat Jan 17 at 6:36 AM PST. (DBCRCON-237986)</name>
           <description>
     &lt;![CDATA[
@@ -2315,7 +2340,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Watch for slippery sections between Prince Rupert Ferry Terminal and Maintenance Boundary SA25 for 198.2 km (Prince Rupert to 24 km west of Cedarvale). Last updated Sat Jan 17 at 4:45 AM PST. (DBCRCON-237924)</name>
+          <name>Highway 16 (Yellowhead Highway). Watch for slippery sections between Prince Rupert Ferry Terminal and Maintenance Boundary SA25 for 198.2 km (Prince Rupert to 24 km west of Cedarvale). Last updated Sat Jan 17 at 10:45 AM PST. (DBCRCON-237924)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2327,7 +2352,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Prince Rupert Ferry Terminal and Maintenance Boundary SA25 for 198.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 24 km west of Cedarvale to Prince Rupert&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-17T04:45:27-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-17T10:45:47-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5014,6 +5039,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.11758,49.192077,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Maintenance between Davis Rd and Roberts St (Ladysmith). Until Sat Jan 17 at 1:00 PM PST. Left lane is blocked. Left turn lane closed. Watch for traffic control. Last updated Sat Jan 17 at 10:43 AM PST. (DBC-86208)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Davis Rd and Roberts St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Ladysmith&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-17T10:43:47-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86208
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.804433,48.980037,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
