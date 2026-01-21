@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-21 15:42:01 UTC
+        Last updated: 2026-01-21 16:06:06 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -451,7 +451,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 91, northbound. Vehicle incident between Alex Fraser Bridge and Derwent Way (Delta). Two left lanes blocked. Expect delays. Next update time Wed Jan 21 at 8:00 AM PST. Last updated Wed Jan 21 at 7:14 AM PST. (DBC-86352)</name>
+          <name>Highway 91, northbound. Vehicle incident between Alex Fraser Bridge and Derwent Way (Delta). Left lane is blocked. Centre lane blocked. Expect delays. Next update time Wed Jan 21 at 9:00 AM PST. Last updated Wed Jan 21 at 8:00 AM PST. (DBC-86352)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -463,8 +463,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Derwent Way and Alex Fraser Bridge&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:14:16-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-21T08:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:58-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-21T09:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-86352
@@ -885,7 +885,32 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 91, northbound. Vehicle incident between Nordel Crt and River Rd (Delta). Lane blocked. Two right lanes blocked. Next update time Wed Jan 21 at 8:00 AM PST. Last updated Wed Jan 21 at 7:12 AM PST. (DBC-86354)</name>
+          <name>Highway 17, westbound. Vehicle incident between Abbey Dr and 104 Ave (Surrey). Right lane is blocked. Next update time Wed Jan 21 at 8:15 AM PST. Last updated Wed Jan 21 at 7:43 AM PST. (DBC-86356)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 104 Ave and Abbey Dr&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:43:35-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-21T08:15:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86356
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.734279,49.188524,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, northbound. Vehicle incident between Nordel Crt and River Rd (Delta). Two right lanes are blocked. Next update time Wed Jan 21 at 9:00 AM PST. Last updated Wed Jan 21 at 8:01 AM PST. (DBC-86354)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -897,8 +922,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between River Rd and Nordel Crt&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:12:52-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-21T08:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:01:50-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-21T09:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-86354
@@ -907,31 +932,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.940298,49.153452,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 37: Gaglardi Way and Exit 33: Kensington Ave (Burnaby). HOV lane closed. Next update time Wed Jan 21 at 8:30 AM PST. Last updated Wed Jan 21 at 7:31 AM PST. (DBC-86355)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 33: Kensington Ave and Exit 37: Gaglardi Way&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:31:45-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-21T08:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86355
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.95826,49.240744,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -2497,32 +2497,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Road maintenance work planned between Woods OH Bridge and Clanwilliam OH Bridge for 2.1 km (9 to 11 km west of Revelstoke). Starting Wed Jan 21 at 8:00 AM PST until Wed Jan 21 at 12:00 PM PST. Roadway will be reduced to two lanes. Watch for traffic control personnel. Last updated Tue Jan 20 at 2:13 PM PST. (DBC-86330)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Woods OH Bridge and Clanwilliam OH Bridge for 2.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 to 9 km west of Revelstoke&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-20T14:13:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86330
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.383605,50.962876,0 -118.383306,50.962927,0 -118.382729,50.96295,0 -118.382186,50.962972,0 -118.381551,50.962943,0 -118.380651,50.962902,0 -118.379995,50.962871,0 -118.379496,50.962849,0 -118.375656,50.962673,0 -118.37551,50.962666,0 -118.374707,50.962679,0 -118.373867,50.962803,0 -118.373341,50.962958,0 -118.373067,50.963039,0 -118.370719,50.964161,0 -118.370426,50.964268,0 -118.369853,50.964477,0 -118.369491,50.96461,0 -118.367575,50.965377,0 -118.365547,50.965926,0 -118.364816,50.966043,0 -118.363203,50.966327,0 -118.362562,50.966469,0 -118.361994,50.966627,0 -118.361762,50.966713,0 -118.361233,50.966922,0 -118.360629,50.967221,0 -118.360131,50.96754,0 -118.359873,50.967719,0 -118.359166,50.968358,0 -118.358668,50.968826,0 -118.358143,50.969286,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Blackwater Rd, northbound. Utility work planned between Punchaw Rd and Lynx Lake Rd for 0.2 km (25 km south of Prince George). Starting Tue Feb 10 at 7:00 AM PST until Mon Feb 16 at 5:00 PM PST. Lane Closure. Single lane alternating traffic will be in effect. Last updated Mon Jan 19 at 2:48 PM PST. (DBC-86280)</name>
           <description>
     &lt;![CDATA[
@@ -2960,7 +2934,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 11, northbound. Pothole repair planned between London Ave Overpass and Cedar Valley Conn for 0.6 km (Mission). Starting Wed Jan 21 at 8:00 AM PST until Wed Jan 21 at 3:00 PM PST. Left lane will be blocked. Watch for traffic control personnel. Last updated Wed Jan 21 at 5:46 AM PST. (DBC-86348)</name>
+          <name>Highway 11, northbound. Pothole repair between London Ave Overpass and Cedar Valley Conn for 0.6 km (Mission). Until Wed Jan 21 at 3:00 PM PST. Left lane is blocked. Watch for traffic control. Last updated Wed Jan 21 at 5:46 AM PST. (DBC-86348)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2972,7 +2946,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between London Ave Overpass and Cedar Valley Conn for 0.6 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T05:46:14-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3394,32 +3368,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.133177,52.464265,0 -119.133265,52.464804,0 -119.133312,52.465088,0 -119.133779,52.467931,0 -119.134445,52.471965,0 -119.134862,52.474293,0 -119.134891,52.474991,0 -119.134845,52.475511,0 -119.13466,52.476015,0 -119.134412,52.476474,0 -119.134088,52.476955,0 -119.133147,52.477817,0 -119.132964,52.477985,0 -119.132876,52.478064,0 -119.13233,52.478552,0 -119.132175,52.478691,0 -119.129518,52.481015,0 -119.125746,52.484317,0 -119.124932,52.485029,0 -119.124886,52.485069,0 -119.124598,52.485321,0 -119.124453,52.485448,0 -119.123582,52.48621,0 -119.121201,52.488293,0 -119.121016,52.488455,0 -119.119349,52.489913,0 -119.11929,52.489965,0 -119.118594,52.490576,0 -119.117508,52.491528,0 -119.116735,52.492279,0 -119.115843,52.493289,0 -119.114913,52.494599,0 -119.114157,52.495822,0 -119.114141,52.495848,0 -119.113568,52.496775,0 -119.113374,52.497088,0 -119.113327,52.497163,0 -119.113248,52.497291,0 -119.111564,52.500013,0 -119.111268,52.500492,0 -119.108144,52.505541,0 -119.107626,52.506465,0 -119.107341,52.507085,0 -119.106969,52.507895,0 -119.106645,52.508817,0 -119.10638,52.509757,0 -119.10617,52.510785,0 -119.106164,52.51084,0 -119.10604,52.51197,0 -119.106034,52.512017,0 -119.106009,52.512986,0 -119.106069,52.514064,0 -119.106171,52.514793,0 -119.106339,52.515555,0 -119.106514,52.51635,0 -119.106952,52.517668,0 -119.107355,52.518608,0 -119.108009,52.519847,0 -119.108582,52.520755,0 -119.109699,52.522254,0 -119.111288,52.523957,0 -119.112233,52.524898,0 -119.113494,52.526154,0 -119.113611,52.52627,0 -119.113839,52.526496,0 -119.114589,52.52727,0 -119.115086,52.527782,0 -119.115434,52.52823,0 -119.116123,52.529326,0 -119.116458,52.530029,0 -119.116709,52.530705,0 -119.11687,52.531409,0 -119.116963,52.532083,0 -119.116938,52.533342,0 -119.116472,52.535365,0 -119.115331,52.539748,0 -119.115278,52.539954,0 -119.115214,52.540199,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 8, in both directions. Construction work planned between Porcupine Ridge Rd and Dot Ranch Cut-Off Rd East for 18.8 km (28 to 9 km east of Spences Bridge). Starting Wed Jan 21 at 8:00 AM PST until Fri Jan 23. From 8:00 AM to 12:00 PM PST on Wednesday, Thursday and Friday. Expect closures of up to 20 minutes between 8:00am and 12:00pm on Jan. 21, 22 and 23. Next update time Fri Jan 23 at 1:00 PM PST. Last updated Mon Jan 19 at 3:26 PM PST. (DBC-86288)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 8&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Porcupine Ridge Rd and Dot Ranch Cut-Off Rd East for 18.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 to 28 km east of Spences Bridge&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-19T15:26:13-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-23T13:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86288
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.243118,50.367143,0 -121.241682,50.367047,0 -121.241003,50.366937,0 -121.240456,50.366751,0 -121.239995,50.366448,0 -121.239641,50.366061,0 -121.239426,50.365725,0 -121.239321,50.36546,0 -121.239298,50.36517,0 -121.239349,50.364311,0 -121.239379,50.362451,0 -121.239412,50.360384,0 -121.239256,50.359457,0 -121.239057,50.358662,0 -121.239012,50.3581,0 -121.23913,50.356935,0 -121.239037,50.356706,0 -121.238941,50.356589,0 -121.238716,50.356457,0 -121.238487,50.356381,0 -121.237926,50.356305,0 -121.236702,50.356309,0 -121.236171,50.356227,0 -121.235934,50.356143,0 -121.235651,50.355991,0 -121.23544,50.355816,0 -121.235152,50.355418,0 -121.234995,50.355024,0 -121.23491,50.354561,0 -121.234898,50.354458,0 -121.234881,50.354307,0 -121.234779,50.3534,0 -121.234764,50.353271,0 -121.234638,50.352701,0 -121.234486,50.352011,0 -121.23445,50.351593,0 -121.234503,50.351324,0 -121.234565,50.350991,0 -121.234511,50.350565,0 -121.234226,50.350095,0 -121.233084,50.348627,0 -121.232641,50.347907,0 -121.232129,50.347078,0 -121.231761,50.346614,0 -121.230817,50.345545,0 -121.230075,50.344706,0 -121.229884,50.344531,0 -121.229377,50.344216,0 -121.229066,50.344095,0 -121.227914,50.343781,0 -121.227494,50.343667,0 -121.226206,50.343259,0 -121.225779,50.343073,0 -121.225423,50.34285,0 -121.225012,50.342497,0 -121.224795,50.342227,0 -121.224748,50.342168,0 -121.224623,50.341908,0 -121.224511,50.34148,0 -121.224282,50.340605,0 -121.224142,50.339895,0 -121.224135,50.339858,0 -121.22409,50.339629,0 -121.224096,50.33938,0 -121.224178,50.339061,0 -121.224249,50.338877,0 -121.224445,50.33837,0 -121.224491,50.338284,0 -121.224752,50.337797,0 -121.224985,50.337563,0 -121.225206,50.337397,0 -121.225571,50.337202,0 -121.228286,50.33614,0 -121.228481,50.336031,0 -121.228624,50.335915,0 -121.228716,50.335738,0 -121.228714,50.335555,0 -121.228615,50.335382,0 -121.228116,50.334817,0 -121.227131,50.333719,0 -121.226762,50.333502,0 -121.226272,50.333382,0 -121.225213,50.333197,0 -121.224706,50.333067,0 -121.224296,50.332895,0 -121.223828,50.332642,0 -121.22333,50.332271,0 -121.223109,50.332107,0 -121.222451,50.331617,0 -121.21922,50.329115,0 -121.217723,50.327955,0 -121.217385,50.327589,0 -121.217261,50.327289,0 -121.217239,50.327236,0 -121.217177,50.326367,0 -121.216846,50.325363,0 -121.21643,50.324105,0 -121.216053,50.322802,0 -121.215593,50.321213,0 -121.214544,50.317588,0 -121.21439,50.317238,0 -121.214327,50.317097,0 -121.213973,50.316497,0 -121.213531,50.315479,0 -121.213114,50.313965,0 -121.212866,50.313216,0 -121.212762,50.313,0 -121.212327,50.312096,0 -121.212286,50.31203,0 -121.211957,50.311497,0 -121.211531,50.310969,0 -121.21106,50.310503,0 -121.210631,50.310232,0 -121.2084,50.30937,0 -121.207785,50.309064,0 -121.207704,50.309003,0 -121.207509,50.308854,0 -121.207329,50.308625,0 -121.20723,50.308225,0 -121.207238,50.308018,0 -121.207498,50.306993,0 -121.207451,50.30673,0 -121.207142,50.306071,0 -121.206835,50.305699,0 -121.206338,50.305277,0 -121.206003,50.305054,0 -121.205317,50.304742,0 -121.205186,50.304683,0 -121.205118,50.304652,0 -121.204843,50.304581,0 -121.204583,50.304588,0 -121.204291,50.304647,0 -121.202984,50.305027,0 -121.202563,50.305081,0 -121.202071,50.305078,0 -121.202038,50.305073,0 -121.201533,50.305,0 -121.201114,50.304879,0 -121.200674,50.304688,0 -121.20013,50.304335,0 -121.199991,50.304191,0 -121.199834,50.30403,0 -121.199529,50.303571,0 -121.199461,50.303506,0 -121.199277,50.303329,0 -121.199015,50.303188,0 -121.198932,50.303143,0 -121.197778,50.302522,0 -121.196357,50.301879,0 -121.196058,50.301743,0 -121.194774,50.301162,0 -121.194227,50.300976,0 -121.193489,50.300809,0 -121.192668,50.300707,0 -121.192301,50.300662,0 -121.191538,50.300656,0 -121.189543,50.300731,0 -121.189264,50.300741,0 -121.188198,50.300781,0 -121.187789,50.300768,0 -121.187553,50.300728,0 -121.187216,50.300671,0 -121.186505,50.30046,0 -121.184989,50.300012,0 -121.183069,50.299443,0 -121.182595,50.299303,0 -121.182168,50.299111,0 -121.181849,50.298931,0 -121.18037,50.297918,0 -121.179929,50.297616,0 -121.179742,50.297487,0 -121.178663,50.296689,0 -121.178119,50.296364,0 -121.177908,50.2962,0 -121.17761,50.295967,0 -121.177158,50.295424,0 -121.176944,50.295244,0 -121.176639,50.295039,0 -121.17529,50.29439,0 -121.175016,50.294166,0 -121.174858,50.293862,0 -121.174893,50.29358,0 -121.174944,50.293407,0 -121.175073,50.292972,0 -121.175158,50.292716,0 -121.175377,50.292096,0 -121.175501,50.291699,0 -121.175563,50.291501,0 -121.175905,50.290408,0 -121.176017,50.290051,0 -121.176024,50.289792,0 -121.175978,50.289587,0 -121.175783,50.289307,0 -121.175459,50.289049,0 -121.175179,50.288904,0 -121.174915,50.288823,0 -121.174482,50.288777,0 -121.174064,50.288799,0 -121.173676,50.288892,0 -121.17305,50.289139,0 -121.172094,50.289638,0 -121.171673,50.289984,0 -121.171219,50.290581,0 -121.170882,50.290841,0 -121.170374,50.291117,0 -121.169726,50.291352,0 -121.168962,50.291496,0 -121.168315,50.291535,0 -121.167705,50.291513,0 -121.167251,50.291474,0 -121.166279,50.291391,0 -121.165659,50.29126,0 -121.164735,50.290892,0 -121.164327,50.29073,0 -121.164014,50.290598,0 -121.162829,50.290096,0 -121.162368,50.289803,0 -121.161462,50.289227,0 -121.160944,50.289018,0 -121.160798,50.288986,0 -121.160221,50.288857,0 -121.159462,50.288691,0 -121.159016,50.288543,0 -121.158631,50.288373,0 -121.157962,50.287947,0 -121.157404,50.287639,0 -121.157168,50.287538,0 -121.156463,50.2873,0 -121.154958,50.286994,0 -121.150373,50.286063,0 -121.149634,50.285977,0 -121.148929,50.285979,0 -121.148314,50.286042,0 -121.147699,50.286163,0 -121.147243,50.286296,0 -121.146232,50.28664,0 -121.14618,50.286658,0 -121.145679,50.286768,0 -121.145233,50.286793,0 -121.144669,50.286737,0 -121.144275,50.286651,0 -121.14104,50.285658,0 -121.140521,50.285467,0 -121.140173,50.285283,0 -121.139624,50.284826,0 -121.138476,50.283951,0 -121.138172,50.283577,0 -121.137893,50.283061,0 -121.137408,50.281992,0 -121.137338,50.281838,0 -121.137015,50.281437,0 -121.136002,50.280472,0 -121.135388,50.279888,0 -121.134993,50.279634,0 -121.13451,50.279434,0 -121.133981,50.279317,0 -121.133479,50.279241,0 -121.131021,50.278873,0 -121.129833,50.278539,0 -121.12939,50.278452,0 -121.129013,50.278424,0 -121.128437,50.278473,0 -121.127501,50.278535,0 -121.126974,50.278496,0 -121.12658,50.278467,0 -121.12425,50.278135,0 -121.123851,50.278018,0 -121.123473,50.277803,0 -121.123094,50.27744,0 -121.122652,50.276884,0 -121.12162,50.275356,0 -121.121226,50.274961,0 -121.121006,50.274776,0 -121.120108,50.274019,0 -121.11867,50.272807,0 -121.118225,50.27254,0 -121.117531,50.272248,0 -121.117418,50.272184,0 -121.117097,50.272004,0 -121.116797,50.271755,0 -121.11629,50.271184,0 -121.115227,50.269984,0 -121.113786,50.268505,0 -121.113021,50.267935,0 -121.112603,50.267623,0 -121.111823,50.266986,0 -121.111788,50.26695,0 -121.111159,50.26633,0 -121.109772,50.264964,0 -121.108741,50.263948,0 -121.107937,50.263155,0 -121.106762,50.262289,0 -121.106733,50.262262,0 -121.106591,50.262124,0 -121.106497,50.262032,0 -121.106256,50.261699,0 -121.105569,50.260465,0 -121.105218,50.259833,0 -121.104667,50.258992,0 -121.104294,50.258552,0 -121.103407,50.257839,0 -121.103385,50.257815,0 -121.103144,50.257551,0 -121.102953,50.257264,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3887,6 +3835,32 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Road maintenance work between Woods OH Bridge and Clanwilliam OH Bridge for 2.1 km (9 to 11 km west of Revelstoke). Until Wed Jan 21 at 12:00 PM PST. Roadway reduced to two lanes. Watch for traffic control. Last updated Tue Jan 20 at 2:13 PM PST. (DBC-86330)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Woods OH Bridge and Clanwilliam OH Bridge for 2.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 to 9 km west of Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86330
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.383605,50.962876,0 -118.383306,50.962927,0 -118.382729,50.96295,0 -118.382186,50.962972,0 -118.381551,50.962943,0 -118.380651,50.962902,0 -118.379995,50.962871,0 -118.379496,50.962849,0 -118.375656,50.962673,0 -118.37551,50.962666,0 -118.374707,50.962679,0 -118.373867,50.962803,0 -118.373341,50.962958,0 -118.373067,50.963039,0 -118.370719,50.964161,0 -118.370426,50.964268,0 -118.369853,50.964477,0 -118.369491,50.96461,0 -118.367575,50.965377,0 -118.365547,50.965926,0 -118.364816,50.966043,0 -118.363203,50.966327,0 -118.362562,50.966469,0 -118.361994,50.966627,0 -118.361762,50.966713,0 -118.361233,50.966922,0 -118.360629,50.967221,0 -118.360131,50.96754,0 -118.359873,50.967719,0 -118.359166,50.968358,0 -118.358668,50.968826,0 -118.358143,50.969286,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 93. Utility work between Bradford Rd and Green Rd for 27.6 km (Skookumchuck to 1 km south of Canal Flats). Until Wed Apr 1 at 6:00 PM MST. From 8:00 AM to 6:00 PM MST daily. Industrial traffic may slow or block regular traffic. Watch for traffic control. Tue Jan 20 to Fri Jan 23, single lane alternating traffic and speed reduction. Next update time Fri Jan 23 at 6:00 PM MST. Last updated Thu Jan 15 at 10:47 AM MST. (DBC-86106)</name>
           <description>
     &lt;![CDATA[
@@ -3936,6 +3910,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.246435,50.366894,0 -121.245043,50.367053,0 -121.244131,50.367157,0 -121.243118,50.367143,0 -121.241682,50.367047,0 -121.241003,50.366937,0 -121.240456,50.366751,0 -121.239995,50.366448,0 -121.239641,50.366061,0 -121.239426,50.365725,0 -121.239321,50.36546,0 -121.239298,50.36517,0 -121.239349,50.364311,0 -121.239379,50.362451,0 -121.239412,50.360384,0 -121.239256,50.359457,0 -121.239057,50.358662,0 -121.239012,50.3581,0 -121.23913,50.356935,0 -121.239037,50.356706,0 -121.238941,50.356589,0 -121.238716,50.356457,0 -121.238487,50.356381,0 -121.237926,50.356305,0 -121.236702,50.356309,0 -121.236171,50.356227,0 -121.235934,50.356143,0 -121.235651,50.355991,0 -121.23544,50.355816,0 -121.235152,50.355418,0 -121.234995,50.355024,0 -121.23491,50.354561,0 -121.234898,50.354458,0 -121.234881,50.354307,0 -121.234779,50.3534,0 -121.234764,50.353271,0 -121.234638,50.352701,0 -121.234486,50.352011,0 -121.23445,50.351593,0 -121.234503,50.351324,0 -121.234565,50.350991,0 -121.234511,50.350565,0 -121.234226,50.350095,0 -121.233084,50.348627,0 -121.232933,50.348381,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 8, in both directions. Construction work between Porcupine Ridge Rd and Dot Ranch Cut-Off Rd East for 18.8 km (28 to 9 km east of Spences Bridge). Until Fri Jan 23. From 8:00 AM to 12:00 PM PST on Wednesday, Thursday and Friday. Expect closures of up to 20 minutes between 8:00am and 12:00pm on Jan. 21, 22 and 23. Next update time Fri Jan 23 at 1:00 PM PST. Last updated Mon Jan 19 at 3:26 PM PST. (DBC-86288)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 8&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Porcupine Ridge Rd and Dot Ranch Cut-Off Rd East for 18.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 to 28 km east of Spences Bridge&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-23T13:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86288
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.243118,50.367143,0 -121.241682,50.367047,0 -121.241003,50.366937,0 -121.240456,50.366751,0 -121.239995,50.366448,0 -121.239641,50.366061,0 -121.239426,50.365725,0 -121.239321,50.36546,0 -121.239298,50.36517,0 -121.239349,50.364311,0 -121.239379,50.362451,0 -121.239412,50.360384,0 -121.239256,50.359457,0 -121.239057,50.358662,0 -121.239012,50.3581,0 -121.23913,50.356935,0 -121.239037,50.356706,0 -121.238941,50.356589,0 -121.238716,50.356457,0 -121.238487,50.356381,0 -121.237926,50.356305,0 -121.236702,50.356309,0 -121.236171,50.356227,0 -121.235934,50.356143,0 -121.235651,50.355991,0 -121.23544,50.355816,0 -121.235152,50.355418,0 -121.234995,50.355024,0 -121.23491,50.354561,0 -121.234898,50.354458,0 -121.234881,50.354307,0 -121.234779,50.3534,0 -121.234764,50.353271,0 -121.234638,50.352701,0 -121.234486,50.352011,0 -121.23445,50.351593,0 -121.234503,50.351324,0 -121.234565,50.350991,0 -121.234511,50.350565,0 -121.234226,50.350095,0 -121.233084,50.348627,0 -121.232641,50.347907,0 -121.232129,50.347078,0 -121.231761,50.346614,0 -121.230817,50.345545,0 -121.230075,50.344706,0 -121.229884,50.344531,0 -121.229377,50.344216,0 -121.229066,50.344095,0 -121.227914,50.343781,0 -121.227494,50.343667,0 -121.226206,50.343259,0 -121.225779,50.343073,0 -121.225423,50.34285,0 -121.225012,50.342497,0 -121.224795,50.342227,0 -121.224748,50.342168,0 -121.224623,50.341908,0 -121.224511,50.34148,0 -121.224282,50.340605,0 -121.224142,50.339895,0 -121.224135,50.339858,0 -121.22409,50.339629,0 -121.224096,50.33938,0 -121.224178,50.339061,0 -121.224249,50.338877,0 -121.224445,50.33837,0 -121.224491,50.338284,0 -121.224752,50.337797,0 -121.224985,50.337563,0 -121.225206,50.337397,0 -121.225571,50.337202,0 -121.228286,50.33614,0 -121.228481,50.336031,0 -121.228624,50.335915,0 -121.228716,50.335738,0 -121.228714,50.335555,0 -121.228615,50.335382,0 -121.228116,50.334817,0 -121.227131,50.333719,0 -121.226762,50.333502,0 -121.226272,50.333382,0 -121.225213,50.333197,0 -121.224706,50.333067,0 -121.224296,50.332895,0 -121.223828,50.332642,0 -121.22333,50.332271,0 -121.223109,50.332107,0 -121.222451,50.331617,0 -121.21922,50.329115,0 -121.217723,50.327955,0 -121.217385,50.327589,0 -121.217261,50.327289,0 -121.217239,50.327236,0 -121.217177,50.326367,0 -121.216846,50.325363,0 -121.21643,50.324105,0 -121.216053,50.322802,0 -121.215593,50.321213,0 -121.214544,50.317588,0 -121.21439,50.317238,0 -121.214327,50.317097,0 -121.213973,50.316497,0 -121.213531,50.315479,0 -121.213114,50.313965,0 -121.212866,50.313216,0 -121.212762,50.313,0 -121.212327,50.312096,0 -121.212286,50.31203,0 -121.211957,50.311497,0 -121.211531,50.310969,0 -121.21106,50.310503,0 -121.210631,50.310232,0 -121.2084,50.30937,0 -121.207785,50.309064,0 -121.207704,50.309003,0 -121.207509,50.308854,0 -121.207329,50.308625,0 -121.20723,50.308225,0 -121.207238,50.308018,0 -121.207498,50.306993,0 -121.207451,50.30673,0 -121.207142,50.306071,0 -121.206835,50.305699,0 -121.206338,50.305277,0 -121.206003,50.305054,0 -121.205317,50.304742,0 -121.205186,50.304683,0 -121.205118,50.304652,0 -121.204843,50.304581,0 -121.204583,50.304588,0 -121.204291,50.304647,0 -121.202984,50.305027,0 -121.202563,50.305081,0 -121.202071,50.305078,0 -121.202038,50.305073,0 -121.201533,50.305,0 -121.201114,50.304879,0 -121.200674,50.304688,0 -121.20013,50.304335,0 -121.199991,50.304191,0 -121.199834,50.30403,0 -121.199529,50.303571,0 -121.199461,50.303506,0 -121.199277,50.303329,0 -121.199015,50.303188,0 -121.198932,50.303143,0 -121.197778,50.302522,0 -121.196357,50.301879,0 -121.196058,50.301743,0 -121.194774,50.301162,0 -121.194227,50.300976,0 -121.193489,50.300809,0 -121.192668,50.300707,0 -121.192301,50.300662,0 -121.191538,50.300656,0 -121.189543,50.300731,0 -121.189264,50.300741,0 -121.188198,50.300781,0 -121.187789,50.300768,0 -121.187553,50.300728,0 -121.187216,50.300671,0 -121.186505,50.30046,0 -121.184989,50.300012,0 -121.183069,50.299443,0 -121.182595,50.299303,0 -121.182168,50.299111,0 -121.181849,50.298931,0 -121.18037,50.297918,0 -121.179929,50.297616,0 -121.179742,50.297487,0 -121.178663,50.296689,0 -121.178119,50.296364,0 -121.177908,50.2962,0 -121.17761,50.295967,0 -121.177158,50.295424,0 -121.176944,50.295244,0 -121.176639,50.295039,0 -121.17529,50.29439,0 -121.175016,50.294166,0 -121.174858,50.293862,0 -121.174893,50.29358,0 -121.174944,50.293407,0 -121.175073,50.292972,0 -121.175158,50.292716,0 -121.175377,50.292096,0 -121.175501,50.291699,0 -121.175563,50.291501,0 -121.175905,50.290408,0 -121.176017,50.290051,0 -121.176024,50.289792,0 -121.175978,50.289587,0 -121.175783,50.289307,0 -121.175459,50.289049,0 -121.175179,50.288904,0 -121.174915,50.288823,0 -121.174482,50.288777,0 -121.174064,50.288799,0 -121.173676,50.288892,0 -121.17305,50.289139,0 -121.172094,50.289638,0 -121.171673,50.289984,0 -121.171219,50.290581,0 -121.170882,50.290841,0 -121.170374,50.291117,0 -121.169726,50.291352,0 -121.168962,50.291496,0 -121.168315,50.291535,0 -121.167705,50.291513,0 -121.167251,50.291474,0 -121.166279,50.291391,0 -121.165659,50.29126,0 -121.164735,50.290892,0 -121.164327,50.29073,0 -121.164014,50.290598,0 -121.162829,50.290096,0 -121.162368,50.289803,0 -121.161462,50.289227,0 -121.160944,50.289018,0 -121.160798,50.288986,0 -121.160221,50.288857,0 -121.159462,50.288691,0 -121.159016,50.288543,0 -121.158631,50.288373,0 -121.157962,50.287947,0 -121.157404,50.287639,0 -121.157168,50.287538,0 -121.156463,50.2873,0 -121.154958,50.286994,0 -121.150373,50.286063,0 -121.149634,50.285977,0 -121.148929,50.285979,0 -121.148314,50.286042,0 -121.147699,50.286163,0 -121.147243,50.286296,0 -121.146232,50.28664,0 -121.14618,50.286658,0 -121.145679,50.286768,0 -121.145233,50.286793,0 -121.144669,50.286737,0 -121.144275,50.286651,0 -121.14104,50.285658,0 -121.140521,50.285467,0 -121.140173,50.285283,0 -121.139624,50.284826,0 -121.138476,50.283951,0 -121.138172,50.283577,0 -121.137893,50.283061,0 -121.137408,50.281992,0 -121.137338,50.281838,0 -121.137015,50.281437,0 -121.136002,50.280472,0 -121.135388,50.279888,0 -121.134993,50.279634,0 -121.13451,50.279434,0 -121.133981,50.279317,0 -121.133479,50.279241,0 -121.131021,50.278873,0 -121.129833,50.278539,0 -121.12939,50.278452,0 -121.129013,50.278424,0 -121.128437,50.278473,0 -121.127501,50.278535,0 -121.126974,50.278496,0 -121.12658,50.278467,0 -121.12425,50.278135,0 -121.123851,50.278018,0 -121.123473,50.277803,0 -121.123094,50.27744,0 -121.122652,50.276884,0 -121.12162,50.275356,0 -121.121226,50.274961,0 -121.121006,50.274776,0 -121.120108,50.274019,0 -121.11867,50.272807,0 -121.118225,50.27254,0 -121.117531,50.272248,0 -121.117418,50.272184,0 -121.117097,50.272004,0 -121.116797,50.271755,0 -121.11629,50.271184,0 -121.115227,50.269984,0 -121.113786,50.268505,0 -121.113021,50.267935,0 -121.112603,50.267623,0 -121.111823,50.266986,0 -121.111788,50.26695,0 -121.111159,50.26633,0 -121.109772,50.264964,0 -121.108741,50.263948,0 -121.107937,50.263155,0 -121.106762,50.262289,0 -121.106733,50.262262,0 -121.106591,50.262124,0 -121.106497,50.262032,0 -121.106256,50.261699,0 -121.105569,50.260465,0 -121.105218,50.259833,0 -121.104667,50.258992,0 -121.104294,50.258552,0 -121.103407,50.257839,0 -121.103385,50.257815,0 -121.103144,50.257551,0 -121.102953,50.257264,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6282,7 +6282,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.334898-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.689588-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6319,7 +6319,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.342541-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.695670-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6356,7 +6356,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.326693-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.683876-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6393,7 +6393,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.348668-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.702834-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6430,7 +6430,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.301953-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.660073-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6470,7 +6470,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.310376-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.669776-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6507,7 +6507,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.356910-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.711821-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6544,7 +6544,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.363950-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.718703-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6581,7 +6581,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.381380-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.730975-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6618,7 +6618,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.283185-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.644626-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6655,7 +6655,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.294248-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.651762-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6695,7 +6695,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.318328-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.677842-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6732,7 +6732,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.388927-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.740100-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6769,7 +6769,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T07:00:56.274129-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T08:00:53.636684-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
