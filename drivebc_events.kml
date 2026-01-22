@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-22 01:30:24 UTC
+        Last updated: 2026-01-22 02:41:32 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -858,6 +858,31 @@
             <tessellate>1</tessellate>
             <coordinates>-119.319561,52.980866,0 -119.319531,52.9809,0 -119.319426,52.981055,0 -119.319234,52.981336,0 -119.318867,52.982242,0 -119.318419,52.983588,0 -119.317815,52.984585,0 -119.317128,52.985425,0 -119.312433,52.990136,0 -119.31194,52.990631,0 -119.310826,52.991586,0 -119.309835,52.992376,0 -119.302946,52.997787,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), eastbound. Stalled vehicle between Allen Way and Harris Rd (Pitt Meadows). Centre lane blocked. Expect delays. Next update time Wed Jan 21 at 7:00 PM PST. Last updated Wed Jan 21 at 6:17 PM PST. (DBC-86390)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Allen Way and Harris Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Pitt Meadows&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:17:16-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-21T19:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86390
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.693074,49.232393,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 6 NS. Watch for falling rocks between Summit Lake Provincial Park and Springer Creek Rd for 60.6 km (4 km north of Summit Lake to 1 km south of Slocan). Watch for falling ice. Debris on roadway. Last updated Wed Jan 21 at 3:55 PM PST. (DBC-86078)</name>
@@ -4972,32 +4997,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Hemlock Valley Rd. Watch for slippery sections between the start of Hemlock Valley Rd and End of Route for 13.8 km (13 km south of Sasquatch Mountain Resort to Sasquatch Mountain Resort). Last updated Wed Jan 21 at 5:01 AM PST. (DBCRCON-238323)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Hemlock Valley Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Hemlock Valley Rd and End of Route for 13.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sasquatch Mountain Resort to 13 km south of Sasquatch Mountain Resort&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T05:01:41-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238323
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.916826,49.307935,0 -121.91584,49.308742,0 -121.915329,49.309307,0 -121.915338,49.309364,0 -121.915463,49.309376,0 -121.915631,49.309319,0 -121.915933,49.309118,0 -121.916229,49.308977,0 -121.916657,49.308886,0 -121.917206,49.308855,0 -121.917474,49.308891,0 -121.917982,49.309143,0 -121.918152,49.309173,0 -121.91831,49.309137,0 -121.918736,49.308875,0 -121.918865,49.308878,0 -121.918952,49.308958,0 -121.918921,49.309074,0 -121.918494,49.309425,0 -121.918114,49.309639,0 -121.917902,49.309706,0 -121.917166,49.309938,0 -121.916988,49.310032,0 -121.916725,49.31017,0 -121.916454,49.310465,0 -121.916298,49.310882,0 -121.916235,49.311132,0 -121.916118,49.311592,0 -121.916084,49.311645,0 -121.915986,49.311796,0 -121.915802,49.311944,0 -121.915283,49.312276,0 -121.914968,49.312388,0 -121.914759,49.312405,0 -121.914704,49.312409,0 -121.91434,49.312327,0 -121.913535,49.312058,0 -121.913331,49.311897,0 -121.9131,49.311479,0 -121.912961,49.311424,0 -121.912762,49.311448,0 -121.912716,49.311576,0 -121.913182,49.312264,0 -121.913454,49.312974,0 -121.913455,49.313105,0 -121.913318,49.313303,0 -121.913209,49.313389,0 -121.912603,49.313872,0 -121.912334,49.313952,0 -121.912047,49.313945,0 -121.911522,49.313844,0 -121.911276,49.313702,0 -121.911206,49.31352,0 -121.911343,49.313328,0 -121.91167,49.313106,0 -121.911671,49.312987,0 -121.911576,49.312921,0 -121.911433,49.312932,0 -121.910651,49.313301,0 -121.909783,49.313463,0 -121.909725,49.313515,0 -121.909734,49.313601,0 -121.910191,49.314027,0 -121.910525,49.314518,0 -121.910675,49.314738,0 -121.91093,49.314965,0 -121.911339,49.315243,0 -121.911664,49.315535,0 -121.911618,49.315799,0 -121.911398,49.316034,0 -121.91145,49.31614,0 -121.9116,49.316194,0 -121.912301,49.316018,0 -121.913706,49.315772,0 -121.913855,49.315793,0 -121.913943,49.31586,0 -121.913933,49.315968,0 -121.913854,49.316072,0 -121.913578,49.316232,0 -121.911679,49.316865,0 -121.911143,49.317089,0 -121.910811,49.317171,0 -121.910672,49.317174,0 -121.909854,49.317197,0 -121.909462,49.317302,0 -121.909245,49.317413,0 -121.908684,49.318082,0 -121.908502,49.318219,0 -121.906845,49.318762,0 -121.906503,49.31893,0 -121.90614,49.319168,0 -121.906113,49.319518,0 -121.90631,49.319975,0 -121.906235,49.320139,0 -121.906155,49.320164,0 -121.906096,49.320183,0 -121.905969,49.320169,0 -121.905617,49.319953,0 -121.904894,49.319948,0 -121.904526,49.320004,0 -121.904271,49.320112,0 -121.904141,49.320267,0 -121.903936,49.320786,0 -121.90395,49.320959,0 -121.903954,49.321007,0 -121.904422,49.321783,0 -121.905125,49.323251,0 -121.905645,49.32388,0 -121.905725,49.324112,0 -121.905678,49.324317,0 -121.905527,49.324449,0 -121.905445,49.324489,0 -121.905156,49.32461,0 -121.904935,49.324703,0 -121.904652,49.324917,0 -121.904499,49.325089,0 -121.904226,49.325714,0 -121.903554,49.326979,0 -121.903509,49.327065,0 -121.903235,49.327498,0 -121.902941,49.328149,0 -121.902439,49.329257,0 -121.902409,49.330065,0 -121.902404,49.330196,0 -121.902397,49.330252,0 -121.902231,49.331538,0 -121.902229,49.33156,0 -121.901733,49.332072,0 -121.901281,49.332825,0 -121.900713,49.333168,0 -121.900161,49.33427,0 -121.900101,49.334522,0 -121.900063,49.334683,0 -121.899597,49.335119,0 -121.899321,49.335483,0 -121.89907,49.336092,0 -121.899073,49.336457,0 -121.899196,49.336669,0 -121.899785,49.337242,0 -121.900395,49.337643,0 -121.900609,49.337919,0 -121.900678,49.33806,0 -121.900731,49.338168,0 -121.901125,49.338973,0 -121.901416,49.339357,0 -121.901963,49.339817,0 -121.902158,49.33998,0 -121.902583,49.340485,0 -121.903027,49.34157,0 -121.903188,49.343045,0 -121.903161,49.343119,0 -121.902958,49.343667,0 -121.902505,49.345552,0 -121.901887,49.346389,0 -121.901882,49.346563,0 -121.901973,49.346776,0 -121.902146,49.34701,0 -121.902303,49.347094,0 -121.902491,49.347156,0 -121.902768,49.34714,0 -121.903,49.347033,0 -121.903113,49.346894,0 -121.903132,49.346246,0 -121.903262,49.346027,0 -121.90367,49.345658,0 -121.904366,49.345186,0 -121.904958,49.344645,0 -121.905134,49.344597,0 -121.905369,49.344619,0 -121.905568,49.344753,0 -121.905644,49.344941,0 -121.905646,49.344973,0 -121.905685,49.345461,0 -121.905449,49.34623,0 -121.905413,49.346514,0 -121.905428,49.346772,0 -121.905866,49.347806,0 -121.906066,49.347961,0 -121.906315,49.348072,0 -121.906629,49.34813,0 -121.907386,49.348065,0 -121.90782,49.34806,0 -121.90815,49.348109,0 -121.910415,49.348858,0 -121.91205,49.34947,0 -121.913859,49.3503,0 -121.91414,49.3505,0 -121.914707,49.3511,0 -121.915419,49.351741,0 -121.916136,49.352287,0 -121.916184,49.352323,0 -121.916219,49.352387,0 -121.91627,49.352481,0 -121.916254,49.352618,0 -121.915966,49.352962,0 -121.915919,49.353109,0 -121.915977,49.353231,0 -121.916332,49.353493,0 -121.91636,49.353597,0 -121.916322,49.353687,0 -121.916083,49.353897,0 -121.916054,49.354024,0 -121.916096,49.354176,0 -121.916315,49.35444,0 -121.916316,49.354614,0 -121.916109,49.354804,0 -121.916086,49.354909,0 -121.916135,49.355022,0 -121.916662,49.355507,0 -121.916546,49.355791,0 -121.916573,49.355994,0 -121.916837,49.356473,0 -121.917151,49.357045,0 -121.917341,49.357256,0 -121.917384,49.357294,0 -121.917926,49.357759,0 -121.918572,49.35845,0 -121.918641,49.358575,0 -121.918839,49.358932,0 -121.918948,49.359402,0 -121.918888,49.359546,0 -121.91888,49.359564,0 -121.91871,49.359653,0 -121.918692,49.359663,0 -121.918618,49.359673,0 -121.918406,49.359701,0 -121.917995,49.359668,0 -121.917494,49.359559,0 -121.916863,49.359351,0 -121.915226,49.358813,0 -121.914658,49.358726,0 -121.914464,49.358696,0 -121.914301,49.358629,0 -121.913314,49.35822,0 -121.912814,49.357974,0 -121.911943,49.35738,0 -121.911339,49.35687,0 -121.911137,49.356831,0 -121.910958,49.356892,0 -121.910904,49.356998,0 -121.9109,49.357007,0 -121.910974,49.357154,0 -121.911249,49.357473,0 -121.913261,49.359291,0 -121.914093,49.359849,0 -121.914349,49.359976,0 -121.91472,49.360162,0 -121.916254,49.360751,0 -121.916874,49.361203,0 -121.917131,49.361329,0 -121.917155,49.361341,0 -121.917219,49.361372,0 -121.918562,49.362031,0 -121.919289,49.362452,0 -121.919626,49.362726,0 -121.919898,49.363044,0 -121.920046,49.363218,0 -121.920162,49.363256,0 -121.920264,49.363246,0 -121.920297,49.363243,0 -121.920376,49.363201,0 -121.920471,49.363151,0 -121.920492,49.363113,0 -121.920678,49.362795,0 -121.920819,49.362711,0 -121.921066,49.362658,0 -121.921483,49.362686,0 -121.921656,49.362749,0 -121.922067,49.363094,0 -121.922268,49.363364,0 -121.922322,49.363565,0 -121.922294,49.363796,0 -121.922079,49.364259,0 -121.921964,49.364409,0 -121.921736,49.36471,0 -121.921392,49.364964,0 -121.919493,49.365686,0 -121.919091,49.365951,0 -121.918834,49.366211,0 -121.918666,49.366499,0 -121.918645,49.366756,0 -121.918696,49.367114,0 -121.918751,49.367492,0 -121.919003,49.367836,0 -121.919095,49.36793,0 -121.919708,49.368557,0 -121.920361,49.369474,0 -121.920451,49.369562,0 -121.920627,49.369734,0 -121.921122,49.370217,0 -121.922243,49.371173,0 -121.922269,49.371195,0 -121.923336,49.37188,0 -121.923935,49.372162,0 -121.924213,49.372259,0 -121.92482,49.372471,0 -121.925187,49.372617,0 -121.925514,49.372847,0 -121.925732,49.373151,0 -121.925795,49.37346,0 -121.925811,49.37354,0 -121.925811,49.373561,0 -121.92581,49.373588,0 -121.925802,49.37432,0 -121.92586,49.37511,0 -121.925918,49.37535,0 -121.925981,49.375614,0 -121.926153,49.37604,0 -121.926967,49.377406,0 -121.927082,49.377489,0 -121.927411,49.377725,0 -121.927791,49.37787,0 -121.928258,49.377958,0 -121.928373,49.377958,0 -121.928651,49.377961,0 -121.928704,49.377949,0 -121.92877,49.377936,0 -121.92889,49.37791,0 -121.930221,49.37763,0 -121.930477,49.377614,0 -121.930844,49.377634,0 -121.931029,49.377668,0 -121.931835,49.377806,0 -121.932586,49.377928,0 -121.932993,49.378037,0 -121.933305,49.378167,0 -121.935577,49.379524,0 -121.935244,49.379742,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Nisga'a Hwy (Highway 113). Watch for slippery sections between Broad St and Highway 16 for 168.5 km (Gingolx to Terrace). Last updated Wed Jan 21 at 3:57 PM PST. (DBCRCON-237198)</name>
           <description>
     &lt;![CDATA[
@@ -6281,7 +6280,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.392978-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.719429-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6318,7 +6317,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.399282-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.724402-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6355,7 +6354,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.386422-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.714442-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6392,7 +6391,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.405754-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.730652-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6429,7 +6428,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.365883-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.700057-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6469,7 +6468,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.372628-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.705034-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6506,7 +6505,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.413060-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.736478-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6543,7 +6542,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.418896-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.742291-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6580,7 +6579,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.431034-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.753594-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6617,7 +6616,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.353076-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.687236-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6654,7 +6653,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.359816-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.693695-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6694,7 +6693,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.379406-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.709700-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6731,7 +6730,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.437446-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.747718-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6768,7 +6767,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:00:52.344606-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T18:00:57.678026-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
