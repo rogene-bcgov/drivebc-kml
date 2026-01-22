@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-22 15:41:23 UTC
+        Last updated: 2026-01-22 16:04:42 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (256)</name>
+      <name>🚗 Traffic Events (257)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -992,6 +992,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 5 (Coquihalla North), northbound. Vehicle recovery planned between Chuwhels Mountain Rd and Inks Lake Rd for 8.5 km (1 to 9 km south of Kamloops). Starting Thu Jan 22 at 9:00 AM PST until Thu Jan 22 at 11:00 AM PST. Right lane will be closed. Last updated Thu Jan 22 at 7:56 AM PST. (DBC-86414)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Chuwhels Mountain Rd and Inks Lake Rd for 8.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 to 1 km south of Kamloops&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:56:09-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86414
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-120.455167,50.546967,0 -120.453945,50.548376,0 -120.452853,50.549691,0 -120.451011,50.551908,0 -120.450417,50.552703,0 -120.450037,50.553306,0 -120.44956,50.554325,0 -120.449384,50.554701,0 -120.449331,50.554868,0 -120.449117,50.555535,0 -120.448847,50.557329,0 -120.448857,50.557579,0 -120.44886,50.557673,0 -120.448888,50.558397,0 -120.449136,50.559739,0 -120.449679,50.561649,0 -120.450533,50.564747,0 -120.450877,50.565635,0 -120.451254,50.566369,0 -120.451918,50.567281,0 -120.452766,50.568118,0 -120.453441,50.568645,0 -120.454671,50.569411,0 -120.457016,50.570693,0 -120.457801,50.571122,0 -120.458576,50.571638,0 -120.458826,50.571842,0 -120.459449,50.572347,0 -120.460256,50.573216,0 -120.460911,50.574161,0 -120.461627,50.575655,0 -120.462295,50.577051,0 -120.462701,50.577783,0 -120.463151,50.578385,0 -120.463187,50.578423,0 -120.463738,50.579018,0 -120.46455,50.579794,0 -120.465919,50.581016,0 -120.469164,50.583985,0 -120.470494,50.585202,0 -120.475137,50.58945,0 -120.475794,50.590136,0 -120.476349,50.590834,0 -120.476757,50.591504,0 -120.477101,50.59221,0 -120.477327,50.59292,0 -120.477451,50.593456,0 -120.477542,50.594271,0 -120.477538,50.594485,0 -120.477531,50.594799,0 -120.477379,50.59586,0 -120.476283,50.600007,0 -120.475675,50.602304,0 -120.475281,50.603663,0 -120.47188,50.616176,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), westbound. Watch for falling ice between Albert Canyon Chain Up Area and East Boundary of Mount Revelstoke National Park for 2.8 km (East Boundary of Mount Revelstoke National Park). Until Wed Jan 28. Last updated Wed Jan 14 at 1:30 AM PST. (DBC-86011)</name>
           <description>
     &lt;![CDATA[
@@ -1068,7 +1094,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle recovery planned between Holloway Dr and Tunkwa Lake Rd for 3.5 km (23 to 20 km west of Kamloops). Starting Thu Jan 22 at 8:00 AM PST until Thu Jan 22 at 5:00 PM PST. Right lane will be closed. Watch for traffic control personnel. Last updated Wed Jan 21 at 3:33 PM PST. (DBC-86383)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle recovery between Holloway Dr and Tunkwa Lake Rd for 3.5 km (23 to 20 km west of Kamloops). Until Thu Jan 22 at 5:00 PM PST. Right lane closed. Watch for traffic control. Last updated Wed Jan 21 at 3:33 PM PST. (DBC-86383)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1080,7 +1106,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Tunkwa Lake Rd and Holloway Dr for 3.5 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 23 to 20 km west of Kamloops&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T15:33:24-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5022,32 +5048,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), westbound. Road construction work planned between Scowlitz Access Rd and Harrison Bay Rd for 0.2 km (5 km west of Kent). Starting Thu Jan 22 at 8:00 AM PST until Thu Jan 22 at 4:00 PM PST. Roadside brushing planned. Single lane alternating traffic will be in effect. Tree Removal - Watch For Crews Working - Watch for Traffic Control. Last updated Thu Jan 22 at 7:12 AM PST. (DBC-86412)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Harrison Bay Rd and Scowlitz Access Rd for 0.2 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km west of Kent&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:12:20-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86412
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.006565,49.234439,0 -122.005389,49.23557,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Maintenance planned between Tibbets Creek Rd and Priestly Station Rd for 11.6 km (2 to 13 km west of Priestly Hill). Starting Thu Jan 22 at 8:30 AM PST until Thu Jan 22 at 1:30 PM PST. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Thu Jan 22 at 7:15 AM PST. (DBC-86413)</name>
           <description>
     &lt;![CDATA[
@@ -5071,6 +5071,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.504949,54.190014,0 -125.501034,54.189633,0 -125.500461,54.189577,0 -125.496808,54.189221,0 -125.495748,54.189085,0 -125.495386,54.189039,0 -125.493717,54.188746,0 -125.491867,54.18828,0 -125.490257,54.187744,0 -125.488619,54.187126,0 -125.48664,54.186379,0 -125.484329,54.185509,0 -125.481855,54.184578,0 -125.471869,54.180879,0 -125.470363,54.18021,0 -125.469626,54.179822,0 -125.46921,54.179603,0 -125.467765,54.178655,0 -125.465042,54.176337,0 -125.463123,54.174703,0 -125.462304,54.174007,0 -125.460998,54.172897,0 -125.458406,54.170695,0 -125.457417,54.169954,0 -125.456322,54.169227,0 -125.455308,54.168667,0 -125.446999,54.164898,0 -125.446441,54.164645,0 -125.445531,54.164179,0 -125.444749,54.163732,0 -125.440844,54.161142,0 -125.44034,54.16086,0 -125.440074,54.160712,0 -125.439435,54.160355,0 -125.426553,54.153162,0 -125.42525,54.152441,0 -125.424526,54.152041,0 -125.424034,54.151816,0 -125.423838,54.151726,0 -125.423157,54.151414,0 -125.421935,54.150999,0 -125.420707,54.150673,0 -125.419069,54.150355,0 -125.417637,54.150192,0 -125.416206,54.150127,0 -125.414829,54.150142,0 -125.41478,54.150145,0 -125.410299,54.150383,0 -125.408337,54.150487,0 -125.405239,54.150626,0 -125.402899,54.150612,0 -125.401226,54.150533,0 -125.40062,54.150481,0 -125.400005,54.150429,0 -125.399765,54.150408,0 -125.398917,54.150311,0 -125.397869,54.150191,0 -125.395729,54.149816,0 -125.393891,54.149403,0 -125.392889,54.149149,0 -125.391409,54.148695,0 -125.389567,54.148073,0 -125.387645,54.147387,0 -125.386292,54.146911,0 -125.38621,54.146882,0 -125.384322,54.146214,0 -125.382705,54.145642,0 -125.381378,54.14515,0 -125.381348,54.145137,0 -125.380097,54.14458,0 -125.37853,54.143829,0 -125.377901,54.143513,0 -125.377326,54.143225,0 -125.375798,54.14252,0 -125.374644,54.142106,0 -125.373602,54.14181,0 -125.372595,54.141583,0 -125.372329,54.141538,0 -125.371837,54.141455,0 -125.369723,54.141097,0 -125.369101,54.140941,0 -125.368548,54.140802,0 -125.367678,54.140513,0 -125.366747,54.140147,0 -125.366416,54.139972,0 -125.365926,54.139714,0 -125.365442,54.139405,0 -125.365126,54.139203,0 -125.364308,54.138547,0 -125.363859,54.138087,0 -125.362332,54.136114,0 -125.362075,54.135782,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), westbound. Road construction work between Scowlitz Access Rd and Harrison Bay Rd for 0.2 km (5 km west of Kent). Until Thu Jan 22 at 4:00 PM PST. Roadside brushing. Single lane alternating traffic. Tree Removal - Watch For Crews Working - Watch for Traffic Control. Last updated Thu Jan 22 at 7:12 AM PST. (DBC-86412)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Harrison Bay Rd and Scowlitz Access Rd for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km west of Kent&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86412
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.006565,49.234439,0 -122.005389,49.23557,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5155,7 +5181,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 19A (Island Highway). Fog patches between Jamieson Rd and the end of Highway 19A (Island Highway) for 82.2 km (12 km south of Buckley Bay Ferry Terminal to Campbell River). Last updated Thu Jan 22 at 6:32 AM PST. (DBCRCON-238410)</name>
+          <name>Highway 19A (Island Highway). Fog patches between Jamieson Rd and the end of Highway 19A (Island Highway) for 82.2 km (12 km south of Buckley Bay Ferry Terminal to Campbell River). Last updated Thu Jan 22 at 7:40 AM PST. (DBCRCON-238410)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5167,7 +5193,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Jamieson Rd and the end of Highway 19A (Island Highway) for 82.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Campbell River to 12 km south of Buckley Bay Ferry Terminal&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T06:32:56-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:40:44-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5363,7 +5389,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 28. Fog patches between Gold River Hwy and the end of Highway 28 for 47.4 km (Campbell River). Last updated Thu Jan 22 at 5:10 AM PST. (DBCRCON-238135)</name>
+          <name>Highway 28. Fog patches between Gold River Hwy and the end of Highway 28 for 47.4 km (Campbell River). Last updated Thu Jan 22 at 7:40 AM PST. (DBCRCON-238135)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5375,7 +5401,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Gold River Hwy and the end of Highway 28 for 47.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Campbell River&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T05:10:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:40:44-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6750,7 +6776,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.468377-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.377808-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6787,7 +6813,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.474601-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.384398-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6824,7 +6850,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.460969-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.371676-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6861,7 +6887,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.482569-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.390696-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6898,7 +6924,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.436409-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.351151-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6938,7 +6964,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.441914-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.358601-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6975,7 +7001,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.496180-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.396528-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7012,7 +7038,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.501692-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.403157-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7049,7 +7075,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.515952-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.415259-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7086,7 +7112,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.423521-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.338337-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7123,7 +7149,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.430375-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.344377-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7163,7 +7189,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.450054-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.365728-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7200,7 +7226,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.526477-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.408913-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7237,7 +7263,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T07:00:58.416723-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-22T08:00:52.329645-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
