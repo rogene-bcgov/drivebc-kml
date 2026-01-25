@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-25 21:02:04 UTC
+        Last updated: 2026-01-25 21:33:48 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (226)</name>
+      <name>🚗 Traffic Events (228)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -604,32 +604,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Cornwall Rd and Airport Rd for 5.3 km (9 to 4 km south of Cache Creek). Road closed. Assessment in progress. Detour through Ashcroft via Highway 97C and Cornwall Rd. Next update time Sun Jan 25 at 1:00 PM PST. Last updated Sun Jan 25 at 10:49 AM PST. (DBC-86515)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Cornwall Rd and Airport Rd for 5.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 to 9 km south of Cache Creek&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-25T10:49:04-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-25T13:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86515
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.32724,50.721693,0 -121.326814,50.722481,0 -121.325718,50.724711,0 -121.325701,50.724741,0 -121.32449,50.72688,0 -121.323624,50.728114,0 -121.323364,50.728485,0 -121.323019,50.728943,0 -121.321127,50.731451,0 -121.321027,50.731584,0 -121.319395,50.733749,0 -121.318093,50.735578,0 -121.315924,50.738487,0 -121.315438,50.739138,0 -121.31488,50.739887,0 -121.313176,50.742171,0 -121.311898,50.743885,0 -121.311371,50.745148,0 -121.311249,50.745818,0 -121.311169,50.746257,0 -121.311089,50.746701,0 -121.311104,50.748238,0 -121.311132,50.748351,0 -121.312097,50.752306,0 -121.312107,50.752344,0 -121.3129,50.755436,0 -121.313069,50.756095,0 -121.313102,50.756223,0 -121.313312,50.757042,0 -121.313846,50.759123,0 -121.314156,50.760437,0 -121.314291,50.761008,0 -121.314446,50.76234,0 -121.314403,50.763562,0 -121.31434,50.763923,0 -121.314198,50.764723,0 -121.313629,50.766586,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Mission Mountain Rd. Debris on roadway between Terzaghi Dam and Shalath 40 km west of Lillooet. Construction work. Watch for traffic control. Expect delays. Light traffic only, limited road widths. Last updated Sun Jan 25 at 4:30 AM PST. (DBC-84909)</name>
           <description>
     &lt;![CDATA[
@@ -653,6 +627,32 @@
           <Point>
             <coordinates>-122.222928,50.789899,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Road cleared between Cornwall Rd and Airport Rd for 5.3 km (9 to 4 km south of Cache Creek). Last updated Sun Jan 25 at 1:20 PM PST. (DBC-86515)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Cornwall Rd and Airport Rd for 5.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 to 9 km south of Cache Creek&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-25T13:20:59-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86515
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.32724,50.721693,0 -121.326814,50.722481,0 -121.325718,50.724711,0 -121.325701,50.724741,0 -121.32449,50.72688,0 -121.323624,50.728114,0 -121.323364,50.728485,0 -121.323019,50.728943,0 -121.321127,50.731451,0 -121.321027,50.731584,0 -121.319395,50.733749,0 -121.318093,50.735578,0 -121.315924,50.738487,0 -121.315438,50.739138,0 -121.31488,50.739887,0 -121.313176,50.742171,0 -121.311898,50.743885,0 -121.311371,50.745148,0 -121.311249,50.745818,0 -121.311169,50.746257,0 -121.311089,50.746701,0 -121.311104,50.748238,0 -121.311132,50.748351,0 -121.312097,50.752306,0 -121.312107,50.752344,0 -121.3129,50.755436,0 -121.313069,50.756095,0 -121.313102,50.756223,0 -121.313312,50.757042,0 -121.313846,50.759123,0 -121.314156,50.760437,0 -121.314291,50.761008,0 -121.314446,50.76234,0 -121.314403,50.763562,0 -121.31434,50.763923,0 -121.314198,50.764723,0 -121.313629,50.766586,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Barnston Island Ferry, in both directions. Possible ferry delays at Barnston Island Ferry (Surrey). Ferry may carry reduced loads during periods of low water. Max 13,000kg or up to 4 cars. Next update time Mon Jan 26 at 8:00 AM PST. Last updated Fri Jan 23 at 6:44 PM PST. (DBC-82935)</name>
@@ -3987,6 +3987,56 @@
             <tessellate>1</tessellate>
             <coordinates>-123.079683,49.125194,0 -123.079695,49.125204,0 -123.080785,49.126083,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 10, westbound. Utility work planned at 96 St in Delta. Starting Wed Jan 28 until Fri Jan 30. From 8:30 PM to 4:30 AM PST on weekdays. Lane Closure. Southbound left turn lane closure. Last updated Sun Jan 25 at 1:04 PM PST. (DBC-86516)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 96 St in Delta&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-25T13:04:14-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86516
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.956897,49.091649,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Chancellor Blvd, westbound. Road construction work planned between Allison Rd and Acadia Rd in Vancouver. Starting Mon Jan 26 until Fri Feb 13. From 8:00 AM to 4:00 PM PST on Wednesday and Thursday. Lane Closure. Last updated Sun Jan 25 at 1:06 PM PST. (DBC-86517)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Chancellor Blvd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Allison Rd and Acadia Rd in Vancouver&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-25T13:06:47-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86517
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.243803,49.273507,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 101, in both directions. Utility work at Oceanview Dr (2 km west of Gibsons). Until Sat Jan 31. From 7:00 AM to 4:30 PM PST daily. Right lane is blocked. Last updated Wed Dec 24, 2025 at 10:29 AM PST. (DBC-85159)</name>
