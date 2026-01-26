@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-26 17:06:50 UTC
+        Last updated: 2026-01-26 17:40:58 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (237)</name>
+      <name>🚗 Traffic Events (236)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -249,31 +249,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Exit 58: 200 St and Exit 55: 192 St (Langley - District). Last updated Mon Jan 26 at 8:58 AM PST. (DBC-86538)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 55: 192 St and Exit 58: 200 St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:58:37-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86538
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.675238,49.165707,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 95. Wildlife advisory in effect between BC/US Border and Sinclair Creek Loop Rd for 11.2 km (Curzon Junction to Kingsgate). Until Mon Jan 26 at 5:00 PM PST. Watch for falling rocks. Last updated Mon Jan 26 at 6:05 AM PST. (DBC-86535)</name>
           <description>
     &lt;![CDATA[
@@ -323,6 +298,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.861576,49.232249,0 -122.861292,49.232217,0 -122.86015,49.232088,0 -122.859863,49.232058,0 -122.857521,49.23179,0 -122.856925,49.231721,0 -122.85629,49.231647,0 -122.855078,49.231493,0 -122.854946,49.231477,0 -122.854692,49.231445,0 -122.854216,49.23139,0 -122.853547,49.231316,0 -122.853223,49.231282,0 -122.852927,49.231252,0 -122.852388,49.231201,0 -122.851934,49.23116,0 -122.85147,49.23112,0 -122.85085,49.231073,0 -122.849693,49.23099,0 -122.848701,49.230918,0 -122.847909,49.230856,0 -122.847423,49.230815,0 -122.847245,49.230799,0 -122.847022,49.230779,0 -122.846974,49.230774,0 -122.846417,49.230721,0 -122.845295,49.230601,0 -122.843792,49.230414,0 -122.841731,49.230118,0 -122.840572,49.229966,0 -122.839048,49.229781,0 -122.836947,49.229545,0 -122.836061,49.229445,0 -122.832683,49.229063,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Golden Ears Way and Exit 53: 176th St / Highway 15 for 1.5 km (Surrey). Right lane is blocked. Next update time Mon Jan 26 at 10:00 AM PST. Last updated Mon Jan 26 at 9:32 AM PST. (DBC-86548)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 53: 176th St / Highway 15 and Golden Ears Way for 1.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:32:09-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-26T10:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86548
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.734962,49.181398,0 -122.734784,49.18136,0 -122.73448,49.181279,0 -122.73343,49.181003,0 -122.731273,49.180433,0 -122.731225,49.18042,0 -122.729926,49.180077,0 -122.727867,49.179533,0 -122.727116,49.179335,0 -122.726199,49.179095,0 -122.724635,49.178681,0 -122.723043,49.178261,0 -122.721564,49.177871,0 -122.72005,49.177472,0 -122.718539,49.177074,0 -122.717056,49.176682,0 -122.71575,49.176314,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -2060,31 +2061,6 @@
             <tessellate>1</tessellate>
             <coordinates>-123.882459,49.142604,0 -123.883893,49.143982,0 -123.884191,49.144268,0 -123.884296,49.144309,0 -123.884404,49.144421,0 -123.885104,49.145147,0 -123.885302,49.145394,0 -123.885638,49.145814,0 -123.886192,49.146741,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>[Truncated] Highway 1 (TransCanada Highway). Geotechnical investigation between Jumping Creek Rd and MacDonald Snowshed (4 km west of West Boundary of Glacier National Park). Until Tue Jan 27. From 12:00 PM to 5:00 PM PST on Monday and from 8:00 AM to 5:00 PM PST on Tuesday. Single lane alternating traffic. Crews will be cleaning up the area from a previous vehicle incident. Traffic will be single-lane alternating, but priority will be given to westbound traffic. Last updated Fri Jan 23 at 6:43</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Jumping Creek Rd and MacDonald Snowshed&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km west of West Boundary of Glacier National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T00:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-85577
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-117.751884,51.186938,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Upper Arrow Lake Ferry, in both directions. Ferry will be out of service at Upper Arrow Lake Ferry (Upper Arrow Lake). Starting Thu Jan 29 at 9:00 PM PST until Fri Jan 30 at 5:00 AM PST. Early shutdown, last sailing from Shelter Bay is 8PM, last sailing from Galena Bay is 830PM. Next update time Fri Jan 30 at 5:00 AM PST. Last updated Mon Jan 12 at 2:51 PM PST. (DBC-85908)</name>
