@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-26 16:43:00 UTC
+        Last updated: 2026-01-26 17:06:50 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (235)</name>
+      <name>🚗 Traffic Events (237)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -249,7 +249,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 58: 200 St and Exit 55: 192 St (Langley - District). Shoulder closed. Next update time Mon Jan 26 at 9:00 AM PST. Last updated Mon Jan 26 at 8:28 AM PST. (DBC-86538)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Exit 58: 200 St and Exit 55: 192 St (Langley - District). Last updated Mon Jan 26 at 8:58 AM PST. (DBC-86538)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -261,8 +261,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 55: 192 St and Exit 58: 200 St&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:28:45-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-26T09:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:58:37-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-86538
@@ -272,32 +272,6 @@
           <Point>
             <coordinates>-122.675238,49.165707,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Exit 44 and King Edward St for 2.1 km (Coquitlam). Two right lanes are blocked. Next update time Mon Jan 26 at 9:00 AM PST. Last updated Mon Jan 26 at 8:22 AM PST. (DBC-86536)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between King Edward St and Exit 44 for 2.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:22:10-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-26T09:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86536
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.861576,49.232249,0 -122.861292,49.232217,0 -122.86015,49.232088,0 -122.859863,49.232058,0 -122.857521,49.23179,0 -122.856925,49.231721,0 -122.85629,49.231647,0 -122.855078,49.231493,0 -122.854946,49.231477,0 -122.854692,49.231445,0 -122.854216,49.23139,0 -122.853547,49.231316,0 -122.853223,49.231282,0 -122.852927,49.231252,0 -122.852388,49.231201,0 -122.851934,49.23116,0 -122.85147,49.23112,0 -122.85085,49.231073,0 -122.849693,49.23099,0 -122.848701,49.230918,0 -122.847909,49.230856,0 -122.847423,49.230815,0 -122.847245,49.230799,0 -122.847022,49.230779,0 -122.846974,49.230774,0 -122.846417,49.230721,0 -122.845295,49.230601,0 -122.843792,49.230414,0 -122.841731,49.230118,0 -122.840572,49.229966,0 -122.839048,49.229781,0 -122.836947,49.229545,0 -122.836061,49.229445,0 -122.832683,49.229063,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 95. Wildlife advisory in effect between BC/US Border and Sinclair Creek Loop Rd for 11.2 km (Curzon Junction to Kingsgate). Until Mon Jan 26 at 5:00 PM PST. Watch for falling rocks. Last updated Mon Jan 26 at 6:05 AM PST. (DBC-86535)</name>
@@ -323,6 +297,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.180654,49.000826,0 -116.180687,49.001271,0 -116.180685,49.001351,0 -116.180759,49.001499,0 -116.180957,49.001621,0 -116.180995,49.001756,0 -116.180917,49.002294,0 -116.180731,49.003589,0 -116.180705,49.003767,0 -116.180627,49.00431,0 -116.180573,49.004693,0 -116.180531,49.00499,0 -116.180469,49.005429,0 -116.180476,49.005791,0 -116.180476,49.005805,0 -116.180589,49.0061,0 -116.180748,49.00629,0 -116.180905,49.006411,0 -116.181207,49.006645,0 -116.181265,49.00669,0 -116.182251,49.007352,0 -116.182548,49.007551,0 -116.183672,49.008297,0 -116.184656,49.008949,0 -116.184992,49.009173,0 -116.185094,49.009241,0 -116.185788,49.009702,0 -116.186794,49.010372,0 -116.187563,49.010883,0 -116.18842,49.011453,0 -116.188595,49.011545,0 -116.189141,49.011833,0 -116.189176,49.011852,0 -116.189334,49.011911,0 -116.190015,49.01217,0 -116.190621,49.012323,0 -116.191266,49.012446,0 -116.192076,49.012538,0 -116.192461,49.012581,0 -116.192765,49.012623,0 -116.193408,49.012713,0 -116.194091,49.012858,0 -116.194372,49.012917,0 -116.19535,49.013231,0 -116.195941,49.013464,0 -116.196017,49.013503,0 -116.196625,49.013821,0 -116.197283,49.014244,0 -116.197936,49.014757,0 -116.198295,49.015129,0 -116.198441,49.01528,0 -116.198779,49.01577,0 -116.1991,49.016409,0 -116.199696,49.01822,0 -116.199773,49.018455,0 -116.199849,49.019369,0 -116.199778,49.020292,0 -116.199583,49.020975,0 -116.199213,49.021824,0 -116.198746,49.022517,0 -116.198202,49.023151,0 -116.197878,49.023478,0 -116.197411,49.023881,0 -116.196816,49.024302,0 -116.195972,49.024832,0 -116.195819,49.024922,0 -116.194174,49.025892,0 -116.192862,49.026665,0 -116.192188,49.027062,0 -116.190271,49.028192,0 -116.189553,49.028563,0 -116.188792,49.028899,0 -116.187596,49.029323,0 -116.186552,49.029612,0 -116.185552,49.029814,0 -116.175327,49.031347,0 -116.174175,49.031519,0 -116.172543,49.031666,0 -116.171208,49.031786,0 -116.170218,49.031876,0 -116.169726,49.031949,0 -116.169304,49.032067,0 -116.16891,49.032253,0 -116.168604,49.032475,0 -116.164892,49.03606,0 -116.164752,49.036166,0 -116.164162,49.036613,0 -116.163187,49.037242,0 -116.161776,49.038023,0 -116.160609,49.038778,0 -116.16029,49.039016,0 -116.159958,49.039446,0 -116.159669,49.039992,0 -116.158591,49.042614,0 -116.158506,49.042821,0 -116.158382,49.043355,0 -116.158357,49.043843,0 -116.158499,49.044506,0 -116.15917,49.046344,0 -116.159217,49.047023,0 -116.159091,49.0478,0 -116.158841,49.048966,0 -116.158777,49.049264,0 -116.158723,49.049512,0 -116.158498,49.050549,0 -116.158512,49.051662,0 -116.158629,49.052459,0 -116.158661,49.052634,0 -116.158747,49.053105,0 -116.158862,49.053731,0 -116.158985,49.054402,0 -116.159142,49.055259,0 -116.159227,49.056105,0 -116.159208,49.057021,0 -116.159208,49.057042,0 -116.159117,49.057478,0 -116.158835,49.058828,0 -116.158728,49.059259,0 -116.158565,49.05991,0 -116.158338,49.060823,0 -116.157893,49.062607,0 -116.157848,49.062787,0 -116.157544,49.064007,0 -116.157438,49.064431,0 -116.157262,49.064887,0 -116.157153,49.06517,0 -116.156836,49.065671,0 -116.156762,49.065788,0 -116.156671,49.065932,0 -116.156322,49.066349,0 -116.155997,49.066737,0 -116.155502,49.067175,0 -116.155407,49.067259,0 -116.155057,49.067568,0 -116.15459,49.067872,0 -116.154074,49.068207,0 -116.153715,49.06844,0 -116.153351,49.068677,0 -116.151947,49.069589,0 -116.150541,49.070503,0 -116.150199,49.070725,0 -116.149989,49.070862,0 -116.14838,49.071887,0 -116.14802,49.072117,0 -116.147878,49.072206,0 -116.147349,49.072541,0 -116.147243,49.072609,0 -116.146719,49.072945,0 -116.14604,49.073381,0 -116.145124,49.073803,0 -116.144408,49.074018,0 -116.143515,49.074287,0 -116.142228,49.074594,0 -116.141691,49.074732,0 -116.141197,49.07486,0 -116.140671,49.074996,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Medical emergency between Exit 44 and King Edward St for 2.1 km (Coquitlam). Two right lanes are blocked. Expect delays due to congestion. Next update time Mon Jan 26 at 11:00 AM PST. Last updated Mon Jan 26 at 9:01 AM PST. (DBC-86536)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between King Edward St and Exit 44 for 2.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:01:07-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-26T11:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86536
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.861576,49.232249,0 -122.861292,49.232217,0 -122.86015,49.232088,0 -122.859863,49.232058,0 -122.857521,49.23179,0 -122.856925,49.231721,0 -122.85629,49.231647,0 -122.855078,49.231493,0 -122.854946,49.231477,0 -122.854692,49.231445,0 -122.854216,49.23139,0 -122.853547,49.231316,0 -122.853223,49.231282,0 -122.852927,49.231252,0 -122.852388,49.231201,0 -122.851934,49.23116,0 -122.85147,49.23112,0 -122.85085,49.231073,0 -122.849693,49.23099,0 -122.848701,49.230918,0 -122.847909,49.230856,0 -122.847423,49.230815,0 -122.847245,49.230799,0 -122.847022,49.230779,0 -122.846974,49.230774,0 -122.846417,49.230721,0 -122.845295,49.230601,0 -122.843792,49.230414,0 -122.841731,49.230118,0 -122.840572,49.229966,0 -122.839048,49.229781,0 -122.836947,49.229545,0 -122.836061,49.229445,0 -122.832683,49.229063,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -631,7 +631,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Westham Island Bridge, in both directions. Travel advisory in effect between River Road and Trim Road. Vehicle incident. Bridge is closed. Https://www.Translink.Ca/news/2026/january/westham%20island%20bridge%20repair%20update. Next update time Mon Jan 26 at 9:00 AM PST. Last updated Fri Jan 23 at 9:10 AM PST. (DBC-86343)</name>
+          <name>Westham Island Bridge, in both directions. Travel advisory in effect between River Road and Trim Road. Vehicle incident. Bridge is closed. Https://buzzer.Translink.Ca/westham-island-bridge. Next update time Wed Jan 28 at 9:00 AM PST. Last updated Mon Jan 26 at 9:02 AM PST. (DBC-86343)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -643,8 +643,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between River Road and Trim Road&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-23T09:10:55-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-26T09:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:02:57-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-28T09:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-86343
@@ -1935,32 +1935,6 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 19 (Inland Island Highway), southbound. Maintenance planned between Exit 18: Jingle Pot Rd and Wilkinson Rd for 7.4 km (Nanaimo). Starting Mon Jan 26 at 9:00 AM PST until Mon Jan 26 at 3:00 PM PST. Right lane will be closed. Watch for traffic control personnel. Last updated Fri Jan 23 at 12:08 PM PST. (DBC-86464)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 18: Jingle Pot Rd and Wilkinson Rd for 7.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Nanaimo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-23T12:08:10-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86464
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.971729,49.161688,0 -123.971351,49.161292,0 -123.970944,49.160644,0 -123.970619,49.160002,0 -123.970442,49.159252,0 -123.970439,49.159138,0 -123.970426,49.158604,0 -123.970576,49.157691,0 -123.970674,49.157365,0 -123.970718,49.157219,0 -123.970887,49.156655,0 -123.971047,49.156201,0 -123.971308,49.155461,0 -123.971372,49.15528,0 -123.971474,49.154992,0 -123.971679,49.154404,0 -123.97169,49.154372,0 -123.971913,49.153644,0 -123.972027,49.153178,0 -123.972217,49.152405,0 -123.972259,49.152098,0 -123.972494,49.150376,0 -123.972529,49.148697,0 -123.972471,49.147921,0 -123.972348,49.147285,0 -123.972253,49.147114,0 -123.972149,49.146927,0 -123.972114,49.146863,0 -123.972082,49.146806,0 -123.972059,49.146764,0 -123.971995,49.146648,0 -123.971865,49.146416,0 -123.971559,49.146032,0 -123.971017,49.145353,0 -123.970277,49.144734,0 -123.969731,49.144389,0 -123.968682,49.143818,0 -123.965456,49.142347,0 -123.965311,49.142281,0 -123.965146,49.142209,0 -123.964309,49.141846,0 -123.963814,49.141632,0 -123.961936,49.140818,0 -123.961027,49.14046,0 -123.958435,49.139599,0 -123.957454,49.139172,0 -123.956481,49.138582,0 -123.954501,49.137045,0 -123.953473,49.136369,0 -123.952324,49.135812,0 -123.951502,49.135476,0 -123.95045,49.135202,0 -123.94984,49.135098,0 -123.94953,49.135045,0 -123.949302,49.135016,0 -123.94879,49.134952,0 -123.948777,49.134951,0 -123.947897,49.134881,0 -123.946561,49.134899,0 -123.944733,49.135103,0 -123.941134,49.135513,0 -123.939815,49.135553,0 -123.939019,49.13552,0 -123.938163,49.135428,0 -123.93737,49.135309,0 -123.93649,49.135108,0 -123.935513,49.134818,0 -123.934513,49.134413,0 -123.933821,49.134071,0 -123.933011,49.133553,0 -123.932406,49.133089,0 -123.93172,49.132462,0 -123.931685,49.13243,0 -123.931118,49.131808,0 -123.930417,49.130919,0 -123.929924,49.130083,0 -123.929482,49.12925,0 -123.928543,49.127481,0 -123.928152,49.126891,0 -123.927765,49.126502,0 -123.927088,49.125973,0 -123.926534,49.125643,0 -123.925906,49.125366,0 -123.925202,49.125136,0 -123.924839,49.125039,0 -123.923968,49.124847,0 -123.922486,49.124756,0 -123.92238,49.124749,0 -123.920065,49.12478,0 -123.919932,49.124782,0 -123.919738,49.124785,0 -123.918089,49.124814,0 -123.91743,49.124754,0 -123.917296,49.124742,0 -123.91704,49.124699,0 -123.916745,49.12465,0 -123.916683,49.124635,0 -123.916466,49.124578,0 -123.916363,49.124549,0 -123.916054,49.124431,0 -123.915777,49.124326,0 -123.915684,49.124287,0 -123.915096,49.123932,0 -123.914622,49.123505,0 -123.91428,49.123039,0 -123.914089,49.12257,0 -123.9139,49.121499,0 -123.913526,49.120253,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Glover Road, northbound. Utility work planned at Highway 10 / Langley Bypass in Langley - City. Starting Tue Jan 27 at 8:30 PM PST until Fri Jan 30 at 4:00 AM PST. From 8:30 PM to 4:00 AM PST on Tuesday, Wednesday, Thursday and Friday. Right turn lane will be closed. Last updated Fri Jan 23 at 12:16 PM PST. (DBC-86466)</name>
           <description>
     &lt;![CDATA[
@@ -2009,6 +1983,32 @@
           <Point>
             <coordinates>-122.624118,49.152054,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work planned between 216th St and Exit 73 for 11.3 km (Langley - District). Starting Thu Jan 29 until Fri Feb 27. Lane Closure. Watch for traffic control personnel. Work will be happening at various times throughout the day. Last updated Mon Jan 26 at 8:48 AM PST. (DBC-86546)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 216th St and Exit 73 for 11.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:48:19-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86546
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.624118,49.152054,0 -122.621226,49.151288,0 -122.619112,49.150674,0 -122.617191,49.150075,0 -122.612378,49.148248,0 -122.609596,49.147156,0 -122.607977,49.14652,0 -122.601361,49.143927,0 -122.600009,49.143397,0 -122.599655,49.143258,0 -122.597552,49.142434,0 -122.596022,49.141834,0 -122.591439,49.140036,0 -122.591096,49.139902,0 -122.590785,49.13978,0 -122.588433,49.138858,0 -122.587114,49.13834,0 -122.584443,49.137294,0 -122.584253,49.137219,0 -122.581542,49.136157,0 -122.581332,49.136075,0 -122.58001,49.135556,0 -122.579399,49.135317,0 -122.579018,49.135167,0 -122.574428,49.133367,0 -122.573154,49.132868,0 -122.570311,49.131753,0 -122.570157,49.131692,0 -122.569772,49.131541,0 -122.567442,49.130627,0 -122.55998,49.1277,0 -122.558669,49.127186,0 -122.54739,49.12276,0 -122.54655,49.12243,0 -122.543802,49.121351,0 -122.537041,49.118697,0 -122.530215,49.116002,0 -122.529425,49.115691,0 -122.528213,49.115212,0 -122.52592,49.114318,0 -122.525113,49.114004,0 -122.523487,49.113369,0 -122.52099,49.112396,0 -122.519916,49.111977,0 -122.519687,49.111888,0 -122.514957,49.110007,0 -122.512396,49.108989,0 -122.512114,49.108877,0 -122.510466,49.108221,0 -122.508112,49.107285,0 -122.506798,49.106763,0 -122.50666,49.106708,0 -122.50638,49.106599,0 -122.502735,49.105174,0 -122.499173,49.103783,0 -122.495816,49.102471,0 -122.495247,49.102254,0 -122.493517,49.101593,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 99, northbound. Maintenance at Massey Tunnel (Richmond). Until Wed Feb 18 at 4:30 AM PST. Right lane closed. Watch for traffic control. Last updated Fri Jan 9 at 10:27 AM PST. (DBC-85756)</name>
@@ -2110,6 +2110,58 @@
           <Point>
             <coordinates>-117.898614,50.629029,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, in both directions. Utility work planned between Blue River Bridge and Whitewater/HWY 5 Bridge for 8.6 km (Blue River). Starting Wed Jan 28 at 7:30 AM PST until Thu Jan 29 at 5:00 PM PST. Lane Closure. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Mon Jan 26 at 8:59 AM PST. (DBC-86547)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Blue River Bridge and Whitewater/HWY 5 Bridge for 8.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Blue River&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:59:59-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86547
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.302105,52.116734,0 -119.301936,52.116916,0 -119.3018,52.117063,0 -119.301064,52.117859,0 -119.300695,52.118258,0 -119.300154,52.118853,0 -119.296555,52.122731,0 -119.29026,52.129494,0 -119.290164,52.129598,0 -119.289436,52.13038,0 -119.287324,52.132648,0 -119.286739,52.133279,0 -119.286196,52.133864,0 -119.285867,52.134219,0 -119.285825,52.134264,0 -119.285656,52.134446,0 -119.28562,52.134485,0 -119.285493,52.134622,0 -119.285453,52.134665,0 -119.284733,52.135562,0 -119.284026,52.136584,0 -119.281557,52.140784,0 -119.280945,52.141824,0 -119.275148,52.15167,0 -119.274781,52.152294,0 -119.274665,52.152491,0 -119.273524,52.154429,0 -119.268606,52.162777,0 -119.268172,52.163467,0 -119.267976,52.163778,0 -119.267609,52.164362,0 -119.267248,52.164864,0 -119.266792,52.165374,0 -119.266029,52.16608,0 -119.265133,52.166705,0 -119.265078,52.166737,0 -119.261455,52.168814,0 -119.260997,52.169108,0 -119.259871,52.170005,0 -119.259429,52.170476,0 -119.257793,52.172362,0 -119.257178,52.172955,0 -119.25695,52.173143,0 -119.256624,52.17341,0 -119.255969,52.173815,0 -119.253986,52.175042,0 -119.24913,52.178043,0 -119.244967,52.18109,0 -119.244032,52.181774,0 -119.243445,52.182279,0 -119.243359,52.182367,0 -119.242856,52.182877,0 -119.242555,52.183254,0 -119.242414,52.183431,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19 (Inland Island Highway), southbound. Maintenance between Exit 18: Jingle Pot Rd and Wilkinson Rd for 7.4 km (Nanaimo). Until Mon Jan 26 at 3:00 PM PST. Right lane closed. Watch for traffic control. Last updated Fri Jan 23 at 12:08 PM PST. (DBC-86464)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 18: Jingle Pot Rd and Wilkinson Rd for 7.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Nanaimo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86464
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.971729,49.161688,0 -123.971351,49.161292,0 -123.970944,49.160644,0 -123.970619,49.160002,0 -123.970442,49.159252,0 -123.970439,49.159138,0 -123.970426,49.158604,0 -123.970576,49.157691,0 -123.970674,49.157365,0 -123.970718,49.157219,0 -123.970887,49.156655,0 -123.971047,49.156201,0 -123.971308,49.155461,0 -123.971372,49.15528,0 -123.971474,49.154992,0 -123.971679,49.154404,0 -123.97169,49.154372,0 -123.971913,49.153644,0 -123.972027,49.153178,0 -123.972217,49.152405,0 -123.972259,49.152098,0 -123.972494,49.150376,0 -123.972529,49.148697,0 -123.972471,49.147921,0 -123.972348,49.147285,0 -123.972253,49.147114,0 -123.972149,49.146927,0 -123.972114,49.146863,0 -123.972082,49.146806,0 -123.972059,49.146764,0 -123.971995,49.146648,0 -123.971865,49.146416,0 -123.971559,49.146032,0 -123.971017,49.145353,0 -123.970277,49.144734,0 -123.969731,49.144389,0 -123.968682,49.143818,0 -123.965456,49.142347,0 -123.965311,49.142281,0 -123.965146,49.142209,0 -123.964309,49.141846,0 -123.963814,49.141632,0 -123.961936,49.140818,0 -123.961027,49.14046,0 -123.958435,49.139599,0 -123.957454,49.139172,0 -123.956481,49.138582,0 -123.954501,49.137045,0 -123.953473,49.136369,0 -123.952324,49.135812,0 -123.951502,49.135476,0 -123.95045,49.135202,0 -123.94984,49.135098,0 -123.94953,49.135045,0 -123.949302,49.135016,0 -123.94879,49.134952,0 -123.948777,49.134951,0 -123.947897,49.134881,0 -123.946561,49.134899,0 -123.944733,49.135103,0 -123.941134,49.135513,0 -123.939815,49.135553,0 -123.939019,49.13552,0 -123.938163,49.135428,0 -123.93737,49.135309,0 -123.93649,49.135108,0 -123.935513,49.134818,0 -123.934513,49.134413,0 -123.933821,49.134071,0 -123.933011,49.133553,0 -123.932406,49.133089,0 -123.93172,49.132462,0 -123.931685,49.13243,0 -123.931118,49.131808,0 -123.930417,49.130919,0 -123.929924,49.130083,0 -123.929482,49.12925,0 -123.928543,49.127481,0 -123.928152,49.126891,0 -123.927765,49.126502,0 -123.927088,49.125973,0 -123.926534,49.125643,0 -123.925906,49.125366,0 -123.925202,49.125136,0 -123.924839,49.125039,0 -123.923968,49.124847,0 -123.922486,49.124756,0 -123.92238,49.124749,0 -123.920065,49.12478,0 -123.919932,49.124782,0 -123.919738,49.124785,0 -123.918089,49.124814,0 -123.91743,49.124754,0 -123.917296,49.124742,0 -123.91704,49.124699,0 -123.916745,49.12465,0 -123.916683,49.124635,0 -123.916466,49.124578,0 -123.916363,49.124549,0 -123.916054,49.124431,0 -123.915777,49.124326,0 -123.915684,49.124287,0 -123.915096,49.123932,0 -123.914622,49.123505,0 -123.91428,49.123039,0 -123.914089,49.12257,0 -123.9139,49.121499,0 -123.913526,49.120253,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 5, in both directions. Construction work between Hoirup Rd and Skinner Rd (10 km north of Vavenby). Until Thu Apr 30 at 5:00 PM PST. From 7:00 AM to 7:00 PM PST on weekdays and Saturday. Single lane alternating traffic. Culvert install near the junction of Hwy 5 and Martin Creek Forest Service Road. Next update time Wed Apr 29 at 10:00 AM PST. Last updated Tue Jan 6 at 10:41 AM PST. (DBC-85604)</name>
@@ -4829,7 +4881,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97, in both directions. Construction work between Callan Rd and N Beach Rd for 1.6 km (Summerland to 2 km north of Summerland). From 9:00 AM to 4:00 PM PST on weekdays. Starting Jan 17, crews will be working Saturdays until further notice. Obey all posted traffic signage and continue to travel through site with additional caution. Next update time Mon Jan 26 at 9:00 AM PST. Last updated Mon Jan 26 at 8:03 AM PST. (DBC-84346)</name>
+          <name>[Truncated] Highway 97, in both directions. Construction work between Callan Rd and N Beach Rd for 1.6 km (Summerland to 2 km north of Summerland). From 9:00 AM to 4:00 PM PST on weekdays. No planned or expected traffic delays for week of January 26th. Intermittently over the next several months, construction haul trucks will be entering/exiting at this location with notice. Obey traffic control and construction vehicles. Next update time Fri Jan 30 at 9:00 AM PST. Last updated Mon Jan 26 at 8:5</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4841,8 +4893,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Callan Rd and N Beach Rd for 1.6 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Summerland to 2 km north of Summerland&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:03:29-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-26T09:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:56:04-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-30T09:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-84346
@@ -6194,7 +6246,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.495668-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.336276-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6231,7 +6283,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.503121-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.343008-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6268,7 +6320,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.485348-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.326359-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6305,7 +6357,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.512939-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.349820-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6342,7 +6394,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.457963-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.307107-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6382,7 +6434,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.467015-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.313967-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6419,7 +6471,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.521227-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.356118-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6456,7 +6508,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.530332-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.362158-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6493,7 +6545,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.548752-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.375283-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6530,7 +6582,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.426303-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.294738-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6567,7 +6619,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.444919-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.300802-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6607,7 +6659,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.476180-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.320532-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6644,7 +6696,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.558746-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.368665-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6681,7 +6733,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T08:00:01.405996-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T09:00:01.287408-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
