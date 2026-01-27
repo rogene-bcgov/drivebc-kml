@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-27 08:42:58 UTC
+        Last updated: 2026-01-27 09:06:43 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (261)</name>
+      <name>🚗 Traffic Events (262)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -1731,6 +1731,32 @@
           <Point>
             <coordinates>-122.489194,52.972914,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Big Eddy Rd and Highway 23 South for 1.7 km (Revelstoke). Road closed. Next update time Tue Jan 27 at 3:00 AM PST. Last updated Tue Jan 27 at 12:57 AM PST. (DBC-86582)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Big Eddy Rd and Highway 23 South for 1.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-27T00:57:41-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-27T03:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86582
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.256904,50.992146,0 -118.24821,50.993529,0 -118.246809,50.993752,0 -118.246663,50.993784,0 -118.246055,50.993916,0 -118.245417,50.994106,0 -118.245329,50.994133,0 -118.245016,50.994265,0 -118.244585,50.994447,0 -118.244194,50.994672,0 -118.244059,50.994749,0 -118.243558,50.995111,0 -118.24318,50.995497,0 -118.243165,50.995515,0 -118.242071,50.996923,0 -118.241406,50.997779,0 -118.241255,50.997973,0 -118.240729,50.998521,0 -118.240196,50.998958,0 -118.239377,50.999484,0 -118.239221,50.999562,0 -118.238431,50.999958,0 -118.238397,50.999975,0 -118.238304,51.000015,0 -118.237805,51.000231,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Usk Ferry. Seasonal shutdown between Usk Ferry and the end of Usk Ferry (Usk). Seasonal shutdown. Cable car in service. Last updated Thu Jan 8 at 2:39 PM PST. (DBC-83629)</name>
