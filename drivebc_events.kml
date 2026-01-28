@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-28 17:09:41 UTC
+        Last updated: 2026-01-28 17:41:45 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (259)</name>
+      <name>🚗 Traffic Events (258)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5199,6 +5199,58 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 6 NS. Watch for slippery sections between Junction Hwy 3 and US Border for 10.4 km (BC and WA Border, South of Osoyoos). Snowing. Last updated Wed Jan 28 at 9:30 AM PST. (DBCRCON-238941)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3 and US Border for 10.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; BC and WA Border, South of Osoyoos&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T09:30:38-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238941
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.272874,49.075474,0 -117.275933,49.073164,0 -117.27665,49.071479,0 -117.275856,49.06754,0 -117.27315,49.064454,0 -117.27298,49.06232,0 -117.277309,49.059024,0 -117.28285,49.053678,0 -117.293291,49.046922,0 -117.294295,49.042748,0 -117.293661,49.038937,0 -117.297417,49.03531,0 -117.295,49.0324,0 -117.292164,49.03024,0 -117.290451,49.027301,0 -117.288668,49.02622,0 -117.284581,49.024986,0 -117.283542,49.02065,0 -117.28033,49.017945,0 -117.2804,49.015729,0 -117.286265,49.00687,0 -117.288166,49.005923,0 -117.293164,49.004958,0 -117.297559,49.003473,0 -117.299547,48.999979,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Junction Hwy 3B and Junction Hwy 6NS for 24.5 km (Salmo). Snowing. Last updated Wed Jan 28 at 9:30 AM PST. (DBCRCON-238939)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3B and Junction Hwy 6NS for 24.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T09:30:38-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238939
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.420458,49.18785,0 -117.411625,49.188353,0 -117.404567,49.187922,0 -117.392329,49.184288,0 -117.388904,49.183813,0 -117.381431,49.18499,0 -117.373194,49.185533,0 -117.368167,49.187762,0 -117.351456,49.191826,0 -117.343778,49.191057,0 -117.330879,49.192252,0 -117.315587,49.18954,0 -117.301727,49.192397,0 -117.295191,49.194252,0 -117.287834,49.192582,0 -117.285743,49.191573,0 -117.280558,49.176087,0 -117.272708,49.158371,0 -117.271232,49.156757,0 -117.266587,49.154043,0 -117.265308,49.15222,0 -117.264639,49.143906,0 -117.26054,49.129144,0 -117.258544,49.127241,0 -117.253044,49.125132,0 -117.251784,49.123346,0 -117.255671,49.11092,0 -117.260427,49.102476,0 -117.261806,49.096137,0 -117.270346,49.085035,0 -117.272954,49.082907,0 -117.276534,49.078536,0 -117.276145,49.076623,0 -117.275002,49.075852,0 -117.273011,49.075479,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Jackass Summit and Colvin Rd for 50.5 km (2 km north of Jackass Mountain Summit to Spences Bridge). Last updated Wed Jan 28 at 6:43 AM PST. (DBCRCON-238942)</name>
           <description>
     &lt;![CDATA[
@@ -5900,6 +5952,32 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 6 NS. Watch for slippery sections between Junction Hwy 3A and Junction Hwy 3 for 40.4 km (Nelson to Salmo). Snowing. Last updated Wed Jan 28 at 9:30 AM PST. (DBCRCON-238952)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3A and Junction Hwy 3 for 40.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmo to Nelson&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T09:30:38-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238952
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.29519,49.486961,0 -117.289714,49.475182,0 -117.283796,49.466257,0 -117.282429,49.460371,0 -117.278827,49.45536,0 -117.273666,49.451268,0 -117.272403,49.449359,0 -117.26469,49.443918,0 -117.261589,49.4394,0 -117.261206,49.435794,0 -117.25707,49.433775,0 -117.249195,49.427503,0 -117.24451,49.425223,0 -117.241001,49.424076,0 -117.233356,49.422566,0 -117.224511,49.418256,0 -117.207827,49.407571,0 -117.206566,49.405507,0 -117.207724,49.402034,0 -117.206418,49.397349,0 -117.208448,49.394608,0 -117.211961,49.39157,0 -117.213513,49.390742,0 -117.220929,49.389673,0 -117.232417,49.385876,0 -117.235113,49.384626,0 -117.236617,49.383278,0 -117.246905,49.363569,0 -117.248059,49.359245,0 -117.247731,49.353427,0 -117.245458,49.344503,0 -117.241421,49.338039,0 -117.24464,49.331837,0 -117.243805,49.321625,0 -117.242631,49.320272,0 -117.236041,49.316201,0 -117.229789,49.3103,0 -117.228344,49.308212,0 -117.227252,49.304614,0 -117.223996,49.300878,0 -117.223696,49.299435,0 -117.224789,49.296746,0 -117.225344,49.290301,0 -117.223625,49.285765,0 -117.220299,49.282876,0 -117.206865,49.275314,0 -117.206648,49.274011,0 -117.208029,49.269749,0 -117.207491,49.265322,0 -117.209522,49.264003,0 -117.21341,49.259462,0 -117.217275,49.257411,0 -117.226128,49.254309,0 -117.227592,49.253352,0 -117.2293,49.247196,0 -117.23073,49.244907,0 -117.232109,49.244404,0 -117.236839,49.244082,0 -117.241877,49.241815,0 -117.249331,49.232279,0 -117.255813,49.226953,0 -117.257639,49.223161,0 -117.257966,49.2201,0 -117.264849,49.20877,0 -117.281092,49.193134,0 -117.285743,49.191573,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 52 N (Heritage Highway). Watch for slippery sections between 200 Rd and the end of Highway 52 N (Heritage Highway) for 81.7 km (Tumbler Ridge). Last updated Wed Jan 28 at 6:43 AM MST. (DBCRCON-238925)</name>
           <description>
     &lt;![CDATA[
@@ -6157,32 +6235,6 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.93631,52.114972,0 -121.935544,52.11578,0 -121.935684,52.116868,0 -121.941889,52.124035,0 -121.943881,52.12553,0 -121.948119,52.132822,0 -121.948188,52.141897,0 -121.950446,52.147179,0 -121.94934,52.152661,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 6 NS. Watch for slippery sections between Junction Hwy 3A and Spruce St for 28.3 km (Nelson to 11 km north of Salmo). Snowing. Last updated Wed Jan 28 at 6:36 AM PST. (DBCRCON-238933)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3A and Spruce St for 28.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 km north of Salmo to Nelson&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T06:36:41-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238933
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.29519,49.486961,0 -117.289714,49.475182,0 -117.283796,49.466257,0 -117.282429,49.460371,0 -117.278827,49.45536,0 -117.273666,49.451268,0 -117.272403,49.449359,0 -117.26469,49.443918,0 -117.261589,49.4394,0 -117.261206,49.435794,0 -117.25707,49.433775,0 -117.249195,49.427503,0 -117.24451,49.425223,0 -117.241001,49.424076,0 -117.233356,49.422566,0 -117.224511,49.418256,0 -117.207827,49.407571,0 -117.206663,49.406163,0 -117.207724,49.402034,0 -117.206418,49.397349,0 -117.208448,49.394608,0 -117.211961,49.39157,0 -117.213513,49.390742,0 -117.220929,49.389673,0 -117.232417,49.385876,0 -117.235113,49.384626,0 -117.236617,49.383278,0 -117.246905,49.363569,0 -117.248059,49.359245,0 -117.247731,49.353427,0 -117.245458,49.344503,0 -117.241421,49.338039,0 -117.24464,49.331837,0 -117.243805,49.321625,0 -117.242631,49.320272,0 -117.236041,49.316201,0 -117.229789,49.3103,0 -117.228344,49.308212,0 -117.227252,49.304614,0 -117.223996,49.300878,0 -117.223696,49.299435,0 -117.224789,49.296746,0 -117.225344,49.290301,0 -117.223625,49.285765,0 -117.220299,49.282876,0 -117.21158,49.278304,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6604,84 +6656,6 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.199421,49.505642,0 -121.198825,49.508139,0 -121.199271,49.509309,0 -121.206114,49.519053,0 -121.207106,49.521345,0 -121.204341,49.532518,0 -121.201232,49.537407,0 -121.196796,49.542387,0 -121.190423,49.556424,0 -121.186475,49.562619,0 -121.183425,49.565969,0 -121.181777,49.573377,0 -121.165527,49.587239,0 -121.164123,49.589293,0 -121.16291,49.593515,0 -121.16079,49.595662,0 -121.156695,49.596972,0 -121.137316,49.599225,0 -121.13479,49.598916,0 -121.128995,49.59665,0 -121.123745,49.595445,0 -121.108218,49.595217,0 -121.098157,49.592318,0 -121.094565,49.591864,0 -121.09076,49.591939,0 -121.086483,49.592799,0 -121.082679,49.594482,0 -121.07621,49.598376,0 -121.069382,49.601358,0 -121.063572,49.605188,0 -121.052931,49.61007,0 -121.042269,49.619275,0 -121.037265,49.622468,0 -121.030802,49.625363,0 -121.01971,49.62873,0 -121.010535,49.633367,0 -121.002958,49.6405,0 -121.001712,49.643856,0 -121.004584,49.65355,0 -121.012603,49.663148,0 -121.0147,49.675056,0 -121.013209,49.683089,0 -121.013086,49.692185,0 -121.010896,49.696611,0 -121.011948,49.700072,0 -121.016088,49.706714,0 -121.016431,49.708378,0 -121.015868,49.709939,0 -121.012509,49.713718,0 -121.012132,49.715164,0 -121.013532,49.720631,0 -121.012146,49.731072,0 -121.012461,49.744506,0 -121.011135,49.753555,0 -121.008948,49.756169,0 -121.002658,49.759619,0 -120.994708,49.767513,0 -120.992523,49.772443,0 -120.990887,49.774445,0 -120.973061,49.786816,0 -120.971609,49.788562,0 -120.970438,49.792416,0 -120.968322,49.795546,0 -120.954142,49.803969,0 -120.946366,49.812124,0 -120.939156,49.821047,0 -120.938049,49.826939,0 -120.933316,49.832103,0 -120.932795,49.837582,0 -120.928059,49.845486,0 -120.925797,49.847428,0 -120.918971,49.851349,0 -120.91644,49.854553,0 -120.916199,49.857828,0 -120.919041,49.865238,0 -120.916017,49.873245,0 -120.913219,49.876246,0 -120.901465,49.882937,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 6 NS. Snowing between Spruce St and Junction Hwy 3 for 12.1 km (Salmo). Last updated Wed Jan 28 at 6:41 AM PST. (DBCRCON-238940)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Spruce St and Junction Hwy 3 for 12.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T06:41:30-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238940
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.21158,49.278304,0 -117.206635,49.274864,0 -117.208029,49.269749,0 -117.207777,49.264981,0 -117.209522,49.264003,0 -117.21341,49.259462,0 -117.217275,49.257411,0 -117.227193,49.253702,0 -117.228073,49.252528,0 -117.2293,49.247196,0 -117.23073,49.244907,0 -117.232109,49.244404,0 -117.236839,49.244082,0 -117.241877,49.241815,0 -117.249331,49.232279,0 -117.255813,49.226953,0 -117.257639,49.223161,0 -117.257966,49.2201,0 -117.264849,49.20877,0 -117.281092,49.193134,0 -117.285743,49.191573,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 6 NS. Snowing between Junction Hwy 3 and US Border for 10.4 km (BC and WA Border, South of Osoyoos). Last updated Wed Jan 28 at 6:41 AM PST. (DBCRCON-238941)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3 and US Border for 10.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; BC and WA Border, South of Osoyoos&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T06:41:30-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238941
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.272874,49.075474,0 -117.275933,49.073164,0 -117.27665,49.071479,0 -117.275856,49.06754,0 -117.27315,49.064454,0 -117.27298,49.06232,0 -117.277309,49.059024,0 -117.28285,49.053678,0 -117.293291,49.046922,0 -117.294295,49.042748,0 -117.293661,49.038937,0 -117.297417,49.03531,0 -117.295,49.0324,0 -117.292164,49.03024,0 -117.290451,49.027301,0 -117.288668,49.02622,0 -117.284581,49.024986,0 -117.283542,49.02065,0 -117.28033,49.017945,0 -117.2804,49.015729,0 -117.286265,49.00687,0 -117.288166,49.005923,0 -117.293164,49.004958,0 -117.297559,49.003473,0 -117.299547,48.999979,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Snowing between Junction Hwy 3B and Junction Hwy 6NS for 24.5 km (Salmo). Last updated Wed Jan 28 at 6:41 AM PST. (DBCRCON-238939)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3B and Junction Hwy 6NS for 24.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T06:41:30-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238939
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.420458,49.18785,0 -117.411625,49.188353,0 -117.404567,49.187922,0 -117.392329,49.184288,0 -117.388904,49.183813,0 -117.381431,49.18499,0 -117.373194,49.185533,0 -117.368167,49.187762,0 -117.351456,49.191826,0 -117.343778,49.191057,0 -117.330879,49.192252,0 -117.315587,49.18954,0 -117.301727,49.192397,0 -117.295191,49.194252,0 -117.287834,49.192582,0 -117.285743,49.191573,0 -117.280558,49.176087,0 -117.272708,49.158371,0 -117.271232,49.156757,0 -117.266587,49.154043,0 -117.265308,49.15222,0 -117.264639,49.143906,0 -117.26054,49.129144,0 -117.258544,49.127241,0 -117.253044,49.125132,0 -117.251784,49.123346,0 -117.255671,49.11092,0 -117.260427,49.102476,0 -117.261806,49.096137,0 -117.270346,49.085035,0 -117.272954,49.082907,0 -117.276534,49.078536,0 -117.276145,49.076623,0 -117.275002,49.075852,0 -117.273011,49.075479,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
