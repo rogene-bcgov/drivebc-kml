@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-28 16:06:37 UTC
+        Last updated: 2026-01-28 16:43:40 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (260)</name>
+      <name>🚗 Traffic Events (261)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3093,6 +3093,31 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 3 (Crowsnest Highway), eastbound. There will be ditching at Exit 173: Old Hope Princeton Way (Hope). Starting Wed Jan 28 at 10:00 AM PST until Wed Jan 28 at 2:00 PM PST. Watch for traffic control personnel. Eastbound Exit 173. Last updated Wed Jan 28 at 8:14 AM PST. (DBC-86623)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 173: Old Hope Princeton Way&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Hope&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T08:14:17-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86623
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-121.408469,49.370732,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97, northbound. Utility work between Upland St and Pine Centre Rd for 0.1 km (Prince George). Until Sat Jan 31 at 7:00 PM PST. Shoulder closed. Last updated Mon Jan 19 at 4:08 PM PST. (DBC-86296)</name>
           <description>
     &lt;![CDATA[
@@ -3169,6 +3194,57 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
             <tessellate>1</tessellate>
             <coordinates>-123.019085,49.093942,0 -123.023082,49.09472,0 -123.024136,49.094925,0 -123.026296,49.095345,0 -123.026387,49.095363,0 -123.026551,49.095394,0 -123.026691,49.095422,0 -123.027399,49.095559,0 -123.028104,49.095703,0 -123.028875,49.095893,0 -123.029787,49.096173,0 -123.029966,49.096242,0 -123.030682,49.096515,0 -123.031229,49.096756,0 -123.039738,49.100612,0 -123.047739,49.104212,0 -123.04996,49.105211,0 -123.055538,49.107769,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), westbound. Road maintenance work between Priestly Station Rd and Galloway Rd for 2.2 km (2 to 4 km west of Priestly Hill). Until Wed Jan 28 at 1:30 PM PST. Single lane alternating traffic. Watch for traffic control. Last updated Wed Jan 28 at 8:34 AM PST. (DBC-86625)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Galloway Rd and Priestly Station Rd for 2.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 to 4 km west of Priestly Hill&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T08:34:20-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86625
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.387645,54.147387,0 -125.386292,54.146911,0 -125.38621,54.146882,0 -125.384322,54.146214,0 -125.382705,54.145642,0 -125.381378,54.14515,0 -125.381348,54.145137,0 -125.380097,54.14458,0 -125.37853,54.143829,0 -125.377901,54.143513,0 -125.377326,54.143225,0 -125.375798,54.14252,0 -125.374644,54.142106,0 -125.373602,54.14181,0 -125.372595,54.141583,0 -125.372329,54.141538,0 -125.371837,54.141455,0 -125.369723,54.141097,0 -125.369101,54.140941,0 -125.368548,54.140802,0 -125.367678,54.140513,0 -125.366747,54.140147,0 -125.366416,54.139972,0 -125.365926,54.139714,0 -125.365442,54.139405,0 -125.365126,54.139203,0 -125.364308,54.138547,0 -125.363859,54.138087,0 -125.362332,54.136114,0 -125.362075,54.135782,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 24. Utility work planned between Sheridan Lake Road W and Horse Lake Road. Starting Mon Feb 2 until Tue Feb 10. From 6:00 AM to 6:00 PM PST daily. Single lane alternating traffic will be in effect. Please watch for signage and personnel. Last updated Wed Jan 28 at 8:37 AM PST. (DBC-86626)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 24&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Sheridan Lake Road W and Horse Lake Road&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T08:37:05-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86626
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-120.968096,51.54192,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 8. Construction work between the start of Highway 8 and 14 Mile Ranch Rd for 2.7 km (9 to 12 km east of Spences Bridge). Until Thu Apr 30. SITE 9/10. Up to 30-min may occur between 10am-2pm daily. Next update time Thu Apr 30 at 2:00 PM PST. Last updated Mon Jan 5 at 8:46 AM PST. (DBC-85551)</name>
@@ -4707,7 +4783,7 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), eastbound. Road cleared between Haney Bypass S and River Rd (Maple Ridge). Last updated Wed Jan 28 at 7:49 AM PST. (DBC-86622)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between North Rd and Exit 40: Brunette Ave (Coquitlam). Last updated Wed Jan 28 at 8:26 AM PST. (DBC-86624)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4715,20 +4791,20 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Haney Bypass S and River Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Maple Ridge&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between North Rd and Exit 40: Brunette Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T07:49:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T08:26:42-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86622
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86624
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-122.57876,49.201064,0</coordinates>
+            <coordinates>-122.879381,49.234685,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5667,7 +5743,7 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Columbia West FSR and BC/Alberta Border for 113.7 km (14 km east of East Boundary of Glacier National Park to 16 km east of Field). Last updated Wed Jan 28 at 8:05 AM MST. (DBCRCON-238775)</name>
+          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Columbia West FSR and BC/Alberta Border for 113.7 km (14 km east of East Boundary of Glacier National Park to 16 km east of Field). Last updated Wed Jan 28 at 9:30 AM MST. (DBCRCON-238775)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5679,7 +5755,7 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
     &lt;b&gt;Location:&lt;/b&gt; Between Columbia West FSR and BC/Alberta Border for 113.7 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 14 km east of East Boundary of Glacier National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T07:05:09-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T08:30:40-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5693,7 +5769,7 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Slushy with slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Wed Jan 28 at 7:05 AM PST. (DBCRCON-238880)</name>
+          <name>Highway 1 (TransCanada Highway). Slushy with slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Wed Jan 28 at 8:30 AM PST. (DBCRCON-238880)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5705,7 +5781,7 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
     &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T07:05:09-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T08:30:40-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5742,32 +5818,6 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-133.698763,59.575787,0 -133.699258,59.577374,0 -133.697846,59.579714,0 -133.699745,59.583719,0 -133.69958,59.584633,0 -133.698267,59.585362,0 -133.694564,59.586352,0 -133.689,59.58736,0 -133.68534,59.5891,0 -133.683847,59.592309,0 -133.678817,59.594967,0 -133.676224,59.597641,0 -133.67385,59.598924,0 -133.671693,59.60262,0 -133.672905,59.606801,0 -133.678258,59.610718,0 -133.679275,59.615243,0 -133.678126,59.617369,0 -133.678198,59.620344,0 -133.68029,59.623983,0 -133.679922,59.627574,0 -133.683651,59.643677,0 -133.689464,59.650171,0 -133.692997,59.653183,0 -133.694325,59.65668,0 -133.697734,59.658531,0 -133.701684,59.659932,0 -133.704166,59.66257,0 -133.706187,59.666995,0 -133.706331,59.672489,0 -133.712377,59.68286,0 -133.711669,59.687781,0 -133.715046,59.693357,0 -133.714118,59.699753,0 -133.715663,59.70468,0 -133.722674,59.711889,0 -133.727952,59.713952,0 -133.735393,59.718608,0 -133.742666,59.721196,0 -133.744772,59.724042,0 -133.750275,59.726074,0 -133.754124,59.728906,0 -133.755525,59.731662,0 -133.758939,59.733951,0 -133.766505,59.744861,0 -133.77413,59.749001,0 -133.77445,59.752089,0 -133.78345,59.764901,0 -133.789028,59.768282,0 -133.791856,59.770627,0 -133.798759,59.777271,0 -133.799698,59.779934,0 -133.797554,59.785328,0 -133.798211,59.801972,0 -133.793818,59.811782,0 -133.79419,59.814961,0 -133.796251,59.817742,0 -133.797048,59.822142,0 -133.800353,59.82944,0 -133.801251,59.836679,0 -133.800704,59.839249,0 -133.803438,59.841984,0 -133.804865,59.845027,0 -133.803283,59.852114,0 -133.799987,59.856485,0 -133.799471,59.858711,0 -133.807505,59.872064,0 -133.808223,59.881609,0 -133.803451,59.890045,0 -133.805301,59.898361,0 -133.803854,59.905919,0 -133.796738,59.91648,0 -133.795877,59.920461,0 -133.791573,59.926418,0 -133.791622,59.928558,0 -133.793921,59.932988,0 -133.796883,59.935693,0 -133.798427,59.940327,0 -133.796881,59.943667,0 -133.798012,59.945869,0 -133.798173,59.94877,0 -133.797469,59.949532,0 -133.793402,59.951178,0 -133.792819,59.951803,0 -133.793783,59.955007,0 -133.79214,59.958532,0 -133.791567,59.961742,0 -133.793865,59.964479,0 -133.794433,59.970305,0 -133.797582,59.977441,0 -133.797447,59.981212,0 -133.793321,59.986902,0 -133.794809,59.999612,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 23. Watch for slippery sections between Junction Highway 1 and Mica Dam for 150.1 km (Revelstoke to 5 km north of Mica Dam). Last updated Wed Jan 28 at 7:05 AM PST. (DBCRCON-238789)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Junction Highway 1 and Mica Dam for 150.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km north of Mica Dam to Revelstoke&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T07:05:09-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238789
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.210506,51.01047,0 -118.210651,51.011009,0 -118.212252,51.01084,0 -118.212785,51.011206,0 -118.21294,51.022319,0 -118.210309,51.027638,0 -118.209842,51.030035,0 -118.210658,51.03356,0 -118.208106,51.040733,0 -118.205846,51.042632,0 -118.19872,51.045027,0 -118.195467,51.045374,0 -118.192425,51.046525,0 -118.181394,51.05546,0 -118.179755,51.059793,0 -118.179823,51.061516,0 -118.175447,51.067489,0 -118.172335,51.076622,0 -118.172856,51.080425,0 -118.174926,51.083831,0 -118.175668,51.087564,0 -118.173975,51.090946,0 -118.175917,51.093092,0 -118.179023,51.099523,0 -118.179927,51.104663,0 -118.182931,51.109669,0 -118.183221,51.112099,0 -118.184333,51.114152,0 -118.183967,51.117342,0 -118.186474,51.120687,0 -118.190331,51.124366,0 -118.190681,51.12818,0 -118.193977,51.135467,0 -118.194263,51.140095,0 -118.197763,51.145363,0 -118.201372,51.154057,0 -118.203931,51.169363,0 -118.202279,51.176177,0 -118.199733,51.181641,0 -118.197767,51.188067,0 -118.198217,51.190297,0 -118.201192,51.196257,0 -118.201674,51.204333,0 -118.204507,51.215756,0 -118.204054,51.217161,0 -118.201517,51.219446,0 -118.201471,51.220826,0 -118.202455,51.221824,0 -118.207128,51.223557,0 -118.208802,51.224737,0 -118.226948,51.246493,0 -118.229245,51.252156,0 -118.237124,51.263979,0 -118.240805,51.26824,0 -118.243203,51.272496,0 -118.251342,51.281138,0 -118.25942,51.28636,0 -118.263492,51.290782,0 -118.271464,51.293586,0 -118.27631,51.298722,0 -118.282462,51.301762,0 -118.285132,51.303796,0 -118.288583,51.304939,0 -118.291721,51.306712,0 -118.293182,51.310379,0 -118.296455,51.313278,0 -118.313167,51.320613,0 -118.318496,51.320832,0 -118.320919,51.321525,0 -118.32478,51.324946,0 -118.337454,51.329487,0 -118.341554,51.331257,0 -118.346151,51.334348,0 -118.35042,51.335567,0 -118.356848,51.341154,0 -118.361378,51.342611,0 -118.395005,51.363431,0 -118.399538,51.365296,0 -118.410448,51.378741,0 -118.421558,51.389029,0 -118.430559,51.398367,0 -118.436483,51.40279,0 -118.442797,51.411553,0 -118.450041,51.418531,0 -118.453128,51.425475,0 -118.453295,51.427667,0 -118.452076,51.430419,0 -118.451567,51.434186,0 -118.451929,51.437983,0 -118.450629,51.440767,0 -118.452871,51.452529,0 -118.451213,51.457947,0 -118.446108,51.463216,0 -118.441283,51.46637,0 -118.424751,51.473957,0 -118.41675,51.478693,0 -118.40949,51.484251,0 -118.396781,51.489995,0 -118.394142,51.491901,0 -118.390527,51.492759,0 -118.388195,51.493885,0 -118.384451,51.496765,0 -118.378799,51.497837,0 -118.372009,51.499891,0 -118.370802,51.500916,0 -118.370874,51.502332,0 -118.372391,51.503451,0 -118.37407,51.503861,0 -118.38143,51.50357,0 -118.385984,51.502492,0 -118.391377,51.500294,0 -118.396412,51.499117,0 -118.409773,51.492994,0 -118.418525,51.490145,0 -118.426566,51.484264,0 -118.429325,51.483136,0 -118.445468,51.48031,0 -118.469636,51.480033,0 -118.473411,51.481194,0 -118.483299,51.494055,0 -118.491272,51.500033,0 -118.494778,51.504509,0 -118.499181,51.50786,0 -118.504979,51.514225,0 -118.506464,51.517155,0 -118.508548,51.526294,0 -118.517079,51.53862,0 -118.531525,51.550902,0 -118.534217,51.552078,0 -118.539335,51.553046,0 -118.542125,51.554417,0 -118.553872,51.566408,0 -118.562031,51.570856,0 -118.565651,51.57366,0 -118.570118,51.576104,0 -118.581435,51.58687,0 -118.590143,51.590854,0 -118.6002,51.597771,0 -118.601399,51.599648,0 -118.601594,51.601372,0 -118.598761,51.606637,0 -118.598878,51.608741,0 -118.612035,51.623953,0 -118.616578,51.643228,0 -118.615995,51.647287,0 -118.610395,51.655761,0 -118.610353,51.65855,0 -118.617147,51.668003,0 -118.619672,51.67023,0 -118.621953,51.671369,0 -118.638908,51.67687,0 -118.640863,51.678125,0 -118.642128,51.679879,0 -118.640973,51.693199,0 -118.647709,51.704938,0 -118.648967,51.709036,0 -118.65494,51.720691,0 -118.654211,51.725198,0 -118.656441,51.73837,0 -118.655694,51.754199,0 -118.659393,51.761663,0 -118.660479,51.775259,0 -118.659791,51.779347,0 -118.659999,51.791439,0 -118.656839,51.801186,0 -118.650336,51.808239,0 -118.643203,51.817754,0 -118.641844,51.821683,0 -118.638294,51.827604,0 -118.636866,51.828751,0 -118.61917,51.837779,0 -118.614433,51.842489,0 -118.603034,51.856458,0 -118.591452,51.866441,0 -118.584594,51.870868,0 -118.577024,51.877306,0 -118.574758,51.87985,0 -118.574679,51.882191,0 -118.572214,51.884734,0 -118.56823,51.892982,0 -118.567553,51.896493,0 -118.562191,51.905111,0 -118.560894,51.912554,0 -118.559101,51.914603,0 -118.558761,51.916312,0 -118.563807,51.921805,0 -118.564811,51.925263,0 -118.56398,51.927464,0 -118.560917,51.930747,0 -118.56051,51.932227,0 -118.563084,51.935928,0 -118.564362,51.9392,0 -118.567015,51.942252,0 -118.568426,51.947079,0 -118.566197,51.953023,0 -118.563213,51.955791,0 -118.561439,51.959002,0 -118.559595,51.964434,0 -118.559545,51.969158,0 -118.561261,51.973315,0 -118.561974,51.978652,0 -118.564999,51.985307,0 -118.563527,52.002657,0 -118.564466,52.004192,0 -118.568772,52.006573,0 -118.569832,52.008008,0 -118.569586,52.009574,0 -118.567264,52.012775,0 -118.569476,52.016873,0 -118.571778,52.019317,0 -118.577165,52.023384,0 -118.579085,52.028068,0 -118.583971,52.032504,0 -118.585686,52.035303,0 -118.592458,52.041486,0 -118.593785,52.044674,0 -118.592479,52.048118,0 -118.585972,52.054395,0 -118.579816,52.056471,0 -118.575203,52.059393,0 -118.567189,52.063254,0 -118.56096,52.067232,0 -118.559641,52.069198,0 -118.557804,52.077039,0 -118.558389,52.079069,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5820,6 +5870,32 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-120.847582,56.289915,0 -120.794309,56.28987,0 -120.787471,56.291154,0 -120.783965,56.291098,0 -120.763961,56.287747,0 -120.757804,56.284459,0 -120.752206,56.283035,0 -120.747104,56.282629,0 -120.741934,56.28361,0 -120.736446,56.284008,0 -120.728078,56.281168,0 -120.723109,56.280325,0 -120.716813,56.280275,0 -120.709162,56.28154,0 -120.706776,56.281565,0 -120.699352,56.279618,0 -120.689561,56.27803,0 -120.680053,56.277769,0 -120.67683,56.276706,0 -120.666228,56.269858,0 -120.661662,56.268809,0 -120.64652,56.274786,0 -120.638864,56.275685,0 -120.636978,56.276662,0 -120.636652,56.302653,0 -120.636013,56.30382,0 -120.634421,56.304577,0 -120.482112,56.30469,0 -120.480218,56.304995,0 -120.478556,56.306615,0 -120.478457,56.332296,0 -120.477263,56.333354,0 -120.475024,56.333798,0 -120.226955,56.333727,0 -120.206866,56.332188,0 -120.188414,56.333722,0 -120.111487,56.333693,0 -120.110206,56.33344,0 -120.109657,56.332748,0 -120.109629,56.319242,0 -120.008102,56.319226,0 -120.0056,56.318795,0 -120.001449,56.316947,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 23. Watch for slippery sections between Junction Highway 1 and Mica Dam for 150.1 km (Revelstoke to 5 km north of Mica Dam). Last updated Wed Jan 28 at 8:30 AM PST. (DBCRCON-238789)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Junction Highway 1 and Mica Dam for 150.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km north of Mica Dam to Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T08:30:40-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238789
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.210506,51.01047,0 -118.210651,51.011009,0 -118.212252,51.01084,0 -118.212785,51.011206,0 -118.21294,51.022319,0 -118.210309,51.027638,0 -118.209842,51.030035,0 -118.210658,51.03356,0 -118.208106,51.040733,0 -118.205846,51.042632,0 -118.19872,51.045027,0 -118.195467,51.045374,0 -118.192425,51.046525,0 -118.181394,51.05546,0 -118.179755,51.059793,0 -118.179823,51.061516,0 -118.175447,51.067489,0 -118.172335,51.076622,0 -118.172856,51.080425,0 -118.174926,51.083831,0 -118.175668,51.087564,0 -118.173975,51.090946,0 -118.175917,51.093092,0 -118.179023,51.099523,0 -118.179927,51.104663,0 -118.182931,51.109669,0 -118.183221,51.112099,0 -118.184333,51.114152,0 -118.183967,51.117342,0 -118.186474,51.120687,0 -118.190331,51.124366,0 -118.190681,51.12818,0 -118.193977,51.135467,0 -118.194263,51.140095,0 -118.197763,51.145363,0 -118.201372,51.154057,0 -118.203931,51.169363,0 -118.202279,51.176177,0 -118.199733,51.181641,0 -118.197767,51.188067,0 -118.198217,51.190297,0 -118.201192,51.196257,0 -118.201674,51.204333,0 -118.204507,51.215756,0 -118.204054,51.217161,0 -118.201517,51.219446,0 -118.201471,51.220826,0 -118.202455,51.221824,0 -118.207128,51.223557,0 -118.208802,51.224737,0 -118.226948,51.246493,0 -118.229245,51.252156,0 -118.237124,51.263979,0 -118.240805,51.26824,0 -118.243203,51.272496,0 -118.251342,51.281138,0 -118.25942,51.28636,0 -118.263492,51.290782,0 -118.271464,51.293586,0 -118.27631,51.298722,0 -118.282462,51.301762,0 -118.285132,51.303796,0 -118.288583,51.304939,0 -118.291721,51.306712,0 -118.293182,51.310379,0 -118.296455,51.313278,0 -118.313167,51.320613,0 -118.318496,51.320832,0 -118.320919,51.321525,0 -118.32478,51.324946,0 -118.337454,51.329487,0 -118.341554,51.331257,0 -118.346151,51.334348,0 -118.35042,51.335567,0 -118.356848,51.341154,0 -118.361378,51.342611,0 -118.395005,51.363431,0 -118.399538,51.365296,0 -118.410448,51.378741,0 -118.421558,51.389029,0 -118.430559,51.398367,0 -118.436483,51.40279,0 -118.442797,51.411553,0 -118.450041,51.418531,0 -118.453128,51.425475,0 -118.453295,51.427667,0 -118.452076,51.430419,0 -118.451567,51.434186,0 -118.451929,51.437983,0 -118.450629,51.440767,0 -118.452871,51.452529,0 -118.451213,51.457947,0 -118.446108,51.463216,0 -118.441283,51.46637,0 -118.424751,51.473957,0 -118.41675,51.478693,0 -118.40949,51.484251,0 -118.396781,51.489995,0 -118.394142,51.491901,0 -118.390527,51.492759,0 -118.388195,51.493885,0 -118.384451,51.496765,0 -118.378799,51.497837,0 -118.372009,51.499891,0 -118.370802,51.500916,0 -118.370874,51.502332,0 -118.372391,51.503451,0 -118.37407,51.503861,0 -118.38143,51.50357,0 -118.385984,51.502492,0 -118.391377,51.500294,0 -118.396412,51.499117,0 -118.409773,51.492994,0 -118.418525,51.490145,0 -118.426566,51.484264,0 -118.429325,51.483136,0 -118.445468,51.48031,0 -118.469636,51.480033,0 -118.473411,51.481194,0 -118.483299,51.494055,0 -118.491272,51.500033,0 -118.494778,51.504509,0 -118.499181,51.50786,0 -118.504979,51.514225,0 -118.506464,51.517155,0 -118.508548,51.526294,0 -118.517079,51.53862,0 -118.531525,51.550902,0 -118.534217,51.552078,0 -118.539335,51.553046,0 -118.542125,51.554417,0 -118.553872,51.566408,0 -118.562031,51.570856,0 -118.565651,51.57366,0 -118.570118,51.576104,0 -118.581435,51.58687,0 -118.590143,51.590854,0 -118.6002,51.597771,0 -118.601399,51.599648,0 -118.601594,51.601372,0 -118.598761,51.606637,0 -118.598878,51.608741,0 -118.612035,51.623953,0 -118.616578,51.643228,0 -118.615995,51.647287,0 -118.610395,51.655761,0 -118.610353,51.65855,0 -118.617147,51.668003,0 -118.619672,51.67023,0 -118.621953,51.671369,0 -118.638908,51.67687,0 -118.640863,51.678125,0 -118.642128,51.679879,0 -118.640973,51.693199,0 -118.647709,51.704938,0 -118.648967,51.709036,0 -118.65494,51.720691,0 -118.654211,51.725198,0 -118.656441,51.73837,0 -118.655694,51.754199,0 -118.659393,51.761663,0 -118.660479,51.775259,0 -118.659791,51.779347,0 -118.659999,51.791439,0 -118.656839,51.801186,0 -118.650336,51.808239,0 -118.643203,51.817754,0 -118.641844,51.821683,0 -118.638294,51.827604,0 -118.636866,51.828751,0 -118.61917,51.837779,0 -118.614433,51.842489,0 -118.603034,51.856458,0 -118.591452,51.866441,0 -118.584594,51.870868,0 -118.577024,51.877306,0 -118.574758,51.87985,0 -118.574679,51.882191,0 -118.572214,51.884734,0 -118.56823,51.892982,0 -118.567553,51.896493,0 -118.562191,51.905111,0 -118.560894,51.912554,0 -118.559101,51.914603,0 -118.558761,51.916312,0 -118.563807,51.921805,0 -118.564811,51.925263,0 -118.56398,51.927464,0 -118.560917,51.930747,0 -118.56051,51.932227,0 -118.563084,51.935928,0 -118.564362,51.9392,0 -118.567015,51.942252,0 -118.568426,51.947079,0 -118.566197,51.953023,0 -118.563213,51.955791,0 -118.561439,51.959002,0 -118.559595,51.964434,0 -118.559545,51.969158,0 -118.561261,51.973315,0 -118.561974,51.978652,0 -118.564999,51.985307,0 -118.563527,52.002657,0 -118.564466,52.004192,0 -118.568772,52.006573,0 -118.569832,52.008008,0 -118.569586,52.009574,0 -118.567264,52.012775,0 -118.569476,52.016873,0 -118.571778,52.019317,0 -118.577165,52.023384,0 -118.579085,52.028068,0 -118.583971,52.032504,0 -118.585686,52.035303,0 -118.592458,52.041486,0 -118.593785,52.044674,0 -118.592479,52.048118,0 -118.585972,52.054395,0 -118.579816,52.056471,0 -118.575203,52.059393,0 -118.567189,52.063254,0 -118.56096,52.067232,0 -118.559641,52.069198,0 -118.557804,52.077039,0 -118.558389,52.079069,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6683,58 +6759,6 @@ SPEED REDUCTION IN EFFECT. Last updated Wed Jan 28 at 6:59 AM PST. (DBC-86621)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.420458,49.18785,0 -117.411625,49.188353,0 -117.404567,49.187922,0 -117.392329,49.184288,0 -117.388904,49.183813,0 -117.381431,49.18499,0 -117.373194,49.185533,0 -117.368167,49.187762,0 -117.351456,49.191826,0 -117.343778,49.191057,0 -117.330879,49.192252,0 -117.315587,49.18954,0 -117.301727,49.192397,0 -117.295191,49.194252,0 -117.287834,49.192582,0 -117.285743,49.191573,0 -117.280558,49.176087,0 -117.272708,49.158371,0 -117.271232,49.156757,0 -117.266587,49.154043,0 -117.265308,49.15222,0 -117.264639,49.143906,0 -117.26054,49.129144,0 -117.258544,49.127241,0 -117.253044,49.125132,0 -117.251784,49.123346,0 -117.255671,49.11092,0 -117.260427,49.102476,0 -117.261806,49.096137,0 -117.270346,49.085035,0 -117.272954,49.082907,0 -117.276534,49.078536,0 -117.276145,49.076623,0 -117.275002,49.075852,0 -117.273011,49.075479,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 35. Snowing between the start of Highway 35 and the end of Highway 35 for 23.4 km (Northbank to Burns Lake). Last updated Wed Jan 28 at 6:51 AM PST. (DBCRCON-238930)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 35&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 35 and the end of Highway 35 for 23.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burns Lake to Northbank&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T06:51:19-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238930
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.756538,54.05101,0 -125.756885,54.051756,0 -125.754921,54.051894,0 -125.743567,54.05117,0 -125.74354,54.061393,0 -125.742057,54.065557,0 -125.750189,54.077702,0 -125.749865,54.080877,0 -125.747642,54.082687,0 -125.741671,54.084872,0 -125.734149,54.085901,0 -125.732001,54.086573,0 -125.725181,54.090181,0 -125.717746,54.099544,0 -125.717457,54.103948,0 -125.716378,54.106669,0 -125.710156,54.111969,0 -125.708817,54.11506,0 -125.709528,54.118959,0 -125.71263,54.124938,0 -125.72189,54.135632,0 -125.727907,54.147983,0 -125.728682,54.157106,0 -125.731153,54.16332,0 -125.730212,54.164662,0 -125.726522,54.166932,0 -125.725148,54.168795,0 -125.724826,54.170971,0 -125.732619,54.187576,0 -125.735441,54.191382,0 -125.737565,54.19603,0 -125.739746,54.198519,0 -125.74435,54.20056,0 -125.75363,54.205929,0 -125.765718,54.21516,0 -125.764399,54.222616,0 -125.760971,54.224135,0 -125.756036,54.22402,0 -125.754113,54.224861,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Snowing between Center St and SA24/23 Maintenance Boundary for 32.7 km (Burns Lake to Priestly Hill). Last updated Wed Jan 28 at 6:51 AM PST. (DBCRCON-238929)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Center St and SA24/23 Maintenance Boundary for 32.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Priestly Hill to Burns Lake&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T06:51:19-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-238929
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.760221,54.227359,0 -125.751602,54.224029,0 -125.745028,54.223245,0 -125.742179,54.223973,0 -125.737188,54.227511,0 -125.733836,54.227405,0 -125.724311,54.223113,0 -125.723525,54.222018,0 -125.723232,54.218673,0 -125.714416,54.212065,0 -125.711895,54.210977,0 -125.706633,54.209664,0 -125.704065,54.20787,0 -125.702088,54.207213,0 -125.698477,54.207567,0 -125.694092,54.210668,0 -125.691007,54.211839,0 -125.666711,54.214772,0 -125.663756,54.214442,0 -125.655483,54.212392,0 -125.647904,54.213435,0 -125.626245,54.210939,0 -125.615786,54.210979,0 -125.613463,54.210238,0 -125.610095,54.20758,0 -125.58307,54.194626,0 -125.580524,54.193817,0 -125.571003,54.194125,0 -125.566257,54.19331,0 -125.543392,54.191741,0 -125.526028,54.192036,0 -125.496808,54.189221,0 -125.491867,54.18828,0 -125.46921,54.179603,0 -125.456322,54.169227,0 -125.445531,54.164179,0 -125.423157,54.151414,0 -125.417637,54.150192,0 -125.402899,54.150612,0 -125.395729,54.149816,0 -125.382705,54.145642,0 -125.374644,54.142106,0 -125.366747,54.140147,0 -125.364308,54.138547,0 -125.36038,54.13412,0 -125.349789,54.129069,0 -125.349351,54.12716,0 -125.351299,54.124436,0 -125.350475,54.122561,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
