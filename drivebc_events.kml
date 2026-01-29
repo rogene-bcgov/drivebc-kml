@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-29 22:03:23 UTC
+        Last updated: 2026-01-29 22:40:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -2015,6 +2015,32 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 17, westbound. Shoulder maintenance planned between 104 Ave and 136 St for 0.9 km (Surrey). Starting Fri Jan 30 at 8:00 AM PST until Fri Jan 30 at 3:15 PM PST. Right lane will be closed. Watch for traffic control personnel. Shoulder maintaince right lane closed, watch for traffic control and crews on scene. Last updated Thu Jan 29 at 2:27 PM PST. (DBC-86675)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 136 St and 104 Ave for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T14:27:30-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86675
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.823106,49.214407,0 -122.822299,49.214446,0 -122.820761,49.214526,0 -122.819346,49.214568,0 -122.818351,49.214586,0 -122.816928,49.214573,0 -122.816008,49.214549,0 -122.815035,49.214503,0 -122.814107,49.214445,0 -122.811764,49.214272,0 -122.811515,49.214254,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 13, southbound. Utility work between 56 Ave and 48 Ave for 1.1 km (Langley - District). Until Sat Jan 31 at 5:30 AM PST. From 9:00 PM to 5:30 AM PST daily. Lane Closure. Speed limit reduced. Last updated Mon Jan 26 at 10:12 AM PST. (DBC-83212)</name>
           <description>
     &lt;![CDATA[
@@ -2475,32 +2501,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.053636,49.328879,0 -123.053582,49.328823,0 -123.053367,49.328601,0 -123.053023,49.328245,0 -123.052073,49.327551,0 -123.051481,49.327227,0 -123.050896,49.326948,0 -123.046732,49.325659,0 -123.045835,49.325228,0 -123.045234,49.324826,0 -123.044676,49.324243,0 -123.041899,49.320723,0 -123.039078,49.317153,0 -123.038491,49.316475,0 -123.037725,49.315663,0 -123.03769,49.315639,0 -123.037625,49.315596,0 -123.037589,49.315572,0 -123.037311,49.315384,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 7 (Lougheed Highway), in both directions. Shoulder maintenance between Harrison Mills Bridge and Fielder Rd for 3.3 km (Kent). Until Thu Jan 29 at 2:30 PM PST. Single lane alternating traffic. SHOULDER WORK ON HWY 7 - WB - SLAT IN PLACE/ WATCH FOR TCP/ GRADER/ BACKHOE/ GROUND CREW, PLEASE SLOW DOWN WHEN ENTERING WORK ZONE. Last updated Thu Jan 29 at 6:40 AM PST. (DBC-86655)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Harrison Mills Bridge and Fielder Rd for 3.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kent&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T08:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86655
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.945254,49.245148,0 -121.944841,49.244809,0 -121.944216,49.244295,0 -121.943061,49.243512,0 -121.941308,49.242615,0 -121.939505,49.24189,0 -121.939234,49.241811,0 -121.938124,49.241492,0 -121.936705,49.241141,0 -121.935423,49.240886,0 -121.929919,49.239761,0 -121.927916,49.239351,0 -121.924915,49.238639,0 -121.918916,49.237194,0 -121.918484,49.237099,0 -121.918238,49.237045,0 -121.918081,49.237011,0 -121.91742,49.236973,0 -121.916775,49.237062,0 -121.91628,49.237207,0 -121.915798,49.237453,0 -121.914228,49.238552,0 -121.913807,49.238781,0 -121.913597,49.238895,0 -121.913315,49.238987,0 -121.91303,49.239081,0 -121.912438,49.239219,0 -121.912285,49.239234,0 -121.911782,49.239283,0 -121.911092,49.239278,0 -121.910257,49.239167,0 -121.909766,49.239018,0 -121.909371,49.238899,0 -121.908795,49.238606,0 -121.908604,49.23851,0 -121.908241,49.238219,0 -121.906497,49.236822,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4531,7 +4531,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, in both directions. Vehicle incident between Exit 3: Horseshoe Bay Junction and Ansell Pl (West Vancouver). Expect Major delays due to congestion. One lane is open in each direction using the northbound lanes. Next update time Thu Jan 29 at 2:00 PM PST. Last updated Thu Jan 29 at 1:43 PM PST. (DBC-86672)</name>
+          <name>Highway 99, in both directions. Vehicle incident between Exit 3: Horseshoe Bay Junction and Ansell Pl (West Vancouver). Expect Major delays due to congestion. One lane is open in each direction using the northbound lanes. Next update time Thu Jan 29 at 3:00 PM PST. Last updated Thu Jan 29 at 2:17 PM PST. (DBC-86672)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4543,8 +4543,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 3: Horseshoe Bay Junction and Ansell Pl&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T13:43:56-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-29T14:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T14:17:47-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-29T15:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-86672
