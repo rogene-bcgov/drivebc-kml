@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-29 17:11:17 UTC
+        Last updated: 2026-01-29 17:43:23 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (299)</name>
+      <name>🚗 Traffic Events (302)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3838,6 +3838,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (Kicking Horse Pass), westbound. Snow deposit removal between BC/Alberta Border and Yoho Valley Rd - Takakkaw Falls for 2.9 km (13 to 16 km east of Field). Until Thu Jan 29 at 1:00 PM MST. Watch for traffic control. Expect minor delays. Watch for slow moving highway equipment. Last updated Thu Jan 29 at 10:11 AM MST. (DBC-86662)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Yoho Valley Rd - Takakkaw Falls and BC/Alberta Border for 2.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 to 16 km east of Field&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T09:11:52-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86662
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.326075,51.447787,0 -116.326027,51.447796,0 -116.32537,51.447921,0 -116.317603,51.449397,0 -116.316025,51.449748,0 -116.315306,51.449943,0 -116.312157,51.451002,0 -116.310645,51.451511,0 -116.309906,51.451709,0 -116.309383,51.451849,0 -116.308592,51.451992,0 -116.307555,51.452092,0 -116.301328,51.452456,0 -116.296116,51.452761,0 -116.290812,51.45307,0 -116.288364,51.453213,0 -116.28718,51.453282,0 -116.285948,51.453348,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97. Utility work between Rodney Road and 300 Meters N of Likely Road. Until Thu Feb 19. From 8:00 AM to 4:00 PM PST on weekdays. Single lane alternating traffic. Please watch for signage and personnel. Expect minor delays of up to five minutes. Last updated Wed Jan 14 at 9:45 AM PST. (DBC-86040)</name>
           <description>
     &lt;![CDATA[
@@ -3860,6 +3886,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-121.91085,52.050098,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector), northbound. Pavement patching underway at Dragon Lake Rd (5 km south of Quesnel). Until Thu Jan 29 at 12:00 PM PST. Lane Closure. Last updated Thu Jan 29 at 9:16 AM PST. (DBC-86663)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Dragon Lake Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km south of Quesnel&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T09:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86663
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.436488,52.919697,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4913,28 +4964,53 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97, northbound. Stalled vehicle at William R Bennett Bridge (Kelowna). Left lane is blocked. Next update time Thu Jan 29 at 9:45 AM PST. Last updated Thu Jan 29 at 9:03 AM PST. (DBC-86659)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident at Port Mann Bridge (Surrey). Right lane is blocked. Expect delays. The right Surrey lane is blocked just before midspan. Last updated Thu Jan 29 at 9:23 AM PST. (DBC-86664)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At William R Bennett Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kelowna&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T09:03:36-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-29T09:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T09:23:13-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86659
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86664
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-119.511078,49.8795,0</coordinates>
+            <coordinates>-122.813328,49.21973,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), eastbound. Stalled vehicle between Bate Ave and Helena Ave (Elko). Lane blocked. Watch for traffic control. Next update time Thu Jan 29 at 12:30 PM MST. Last updated Thu Jan 29 at 10:30 AM MST. (DBC-86666)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Bate Ave and Helena Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Elko&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T09:30:02-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-29T11:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86666
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-115.115716,49.300051,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
