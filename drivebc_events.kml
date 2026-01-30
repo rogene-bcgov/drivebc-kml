@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-30 06:44:44 UTC
+        Last updated: 2026-01-30 07:15:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4555,6 +4555,31 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 123: Prest Rd and Exit 120: Young Rd (Chilliwack). Roadway reduced to one lane. Next update time Thu Jan 29 at 11:45 PM PST. Last updated Thu Jan 29 at 10:59 PM PST. (DBC-86688)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 120: Young Rd and Exit 123: Prest Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:59:53-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-29T23:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86688
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-121.92979,49.15274,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Wildlife advisory in effect between Moyie River Yahk Bridge and Queens Ave for 32.5 km (Moyie to Yahk). Until Fri Jan 30 at 4:00 PM MST. There are rocks on the road. Last updated Wed Jan 28 at 7:02 AM MST. (DBC-86611)</name>
           <description>
     &lt;![CDATA[
@@ -5460,32 +5485,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 6 EW. Watch for slippery sections between North Fork Rd and Needles Ferry for 82.3 km (Cherryville to Needles). Compact snow. Last updated Thu Jan 29 at 8:22 PM PST. (DBCRCON-239274)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 6 EW&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between North Fork Rd and Needles Ferry for 82.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Needles to Cherryville&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T20:22:51-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-239274
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.629423,50.246856,0 -118.623657,50.243736,0 -118.620232,50.240511,0 -118.604929,50.23738,0 -118.600562,50.235294,0 -118.59825,50.234909,0 -118.591523,50.232543,0 -118.586297,50.229396,0 -118.583199,50.226045,0 -118.582739,50.222413,0 -118.580205,50.219279,0 -118.574,50.214084,0 -118.569318,50.211815,0 -118.565689,50.208906,0 -118.562179,50.204776,0 -118.560863,50.20104,0 -118.557538,50.199484,0 -118.554385,50.196715,0 -118.553192,50.191929,0 -118.55556,50.189776,0 -118.552413,50.189455,0 -118.549908,50.188178,0 -118.546211,50.185012,0 -118.54394,50.183867,0 -118.538866,50.178877,0 -118.529017,50.174534,0 -118.526297,50.172491,0 -118.525348,50.170064,0 -118.523864,50.170885,0 -118.522484,50.170959,0 -118.517473,50.168367,0 -118.512247,50.163901,0 -118.511178,50.159848,0 -118.508595,50.155616,0 -118.5072,50.148544,0 -118.508366,50.146006,0 -118.506843,50.141681,0 -118.507458,50.138745,0 -118.504653,50.133166,0 -118.507332,50.127093,0 -118.509099,50.125397,0 -118.50635,50.119298,0 -118.507976,50.115729,0 -118.507191,50.111988,0 -118.512007,50.107304,0 -118.513533,50.100429,0 -118.518349,50.095835,0 -118.51876,50.09115,0 -118.521639,50.089347,0 -118.521805,50.087699,0 -118.520719,50.085593,0 -118.526834,50.077946,0 -118.536948,50.072533,0 -118.547413,50.069011,0 -118.549361,50.065505,0 -118.551695,50.064145,0 -118.5554,50.060283,0 -118.559251,50.052821,0 -118.557017,50.048072,0 -118.553401,50.044355,0 -118.552239,50.041545,0 -118.550402,50.041191,0 -118.546193,50.04244,0 -118.533784,50.044226,0 -118.531179,50.04555,0 -118.527114,50.049349,0 -118.519961,50.052414,0 -118.513889,50.057644,0 -118.506117,50.058872,0 -118.500839,50.061022,0 -118.495347,50.061661,0 -118.491541,50.063614,0 -118.487436,50.062511,0 -118.485786,50.060719,0 -118.485708,50.058015,0 -118.48304,50.056571,0 -118.478078,50.057212,0 -118.472392,50.0568,0 -118.467503,50.059659,0 -118.464661,50.059844,0 -118.461899,50.058875,0 -118.458857,50.059647,0 -118.456255,50.059207,0 -118.452912,50.060084,0 -118.449453,50.06193,0 -118.442445,50.063982,0 -118.412318,50.060756,0 -118.410157,50.059842,0 -118.406247,50.05916,0 -118.400578,50.05518,0 -118.397963,50.05199,0 -118.394561,50.046119,0 -118.390035,50.041841,0 -118.382588,50.038073,0 -118.379528,50.035508,0 -118.371984,50.032868,0 -118.368768,50.031037,0 -118.360377,50.025168,0 -118.357401,50.021318,0 -118.352955,50.018092,0 -118.351065,50.014484,0 -118.352189,50.010035,0 -118.351868,50.007107,0 -118.347689,50.001316,0 -118.341716,49.998085,0 -118.340938,49.995925,0 -118.337253,49.995273,0 -118.32694,49.990194,0 -118.320333,49.988493,0 -118.317309,49.986357,0 -118.315758,49.985956,0 -118.31364,49.98398,0 -118.30538,49.982005,0 -118.299425,49.976879,0 -118.291263,49.975332,0 -118.288428,49.973997,0 -118.285537,49.972048,0 -118.282518,49.968375,0 -118.28024,49.968124,0 -118.28072,49.96672,0 -118.279955,49.96634,0 -118.279021,49.966545,0 -118.277733,49.967965,0 -118.270804,49.967611,0 -118.261654,49.964919,0 -118.250016,49.962842,0 -118.243125,49.958975,0 -118.235181,49.958641,0 -118.226467,49.956529,0 -118.22136,49.949011,0 -118.218615,49.943275,0 -118.217576,49.924195,0 -118.212982,49.910189,0 -118.207847,49.906427,0 -118.204545,49.904866,0 -118.196912,49.899001,0 -118.188706,49.89551,0 -118.188613,49.891477,0 -118.177478,49.877444,0 -118.175496,49.876847,0 -118.156877,49.876828,0 -118.155034,49.876483,0 -118.152926,49.875101,0 -118.150326,49.867778,0 -118.149058,49.866408,0 -118.146398,49.865009,0 -118.138214,49.862401,0 -118.136177,49.86057,0 -118.134649,49.860464,0 -118.129747,49.867273,0 -118.129492,49.888513,0 -118.125938,49.896064,0 -118.125252,49.896429,0 -118.120922,49.885807,0 -118.11973,49.88456,0 -118.114119,49.88196,0 -118.107648,49.875819,0 -118.10492,49.874014,0 -118.100915,49.872934,0 -118.09743,49.874179,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 6 NS. Watch for slippery sections between the start of Highway 6 NS and Summit Lake Rd for 20.3 km (Nakusp to Summit Lake). Slushy sections. Last updated Thu Jan 29 at 8:27 PM PST. (DBCRCON-239083)</name>
           <description>
     &lt;![CDATA[
@@ -5612,6 +5611,58 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 6 EW. Watch for slippery sections between Monashee Summit and Needles Ferry for 40.2 km (Monashee Summit to Needles). Compact snow. Fog patches. Last updated Thu Jan 29 at 11:08 PM PST. (DBCRCON-239294)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 6 EW&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Monashee Summit and Needles Ferry for 40.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Needles to Monashee Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:08:18-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-239294
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.400095,50.054617,0 -118.394561,50.046119,0 -118.390035,50.041841,0 -118.382588,50.038073,0 -118.379528,50.035508,0 -118.371984,50.032868,0 -118.368768,50.031037,0 -118.360377,50.025168,0 -118.357401,50.021318,0 -118.352955,50.018092,0 -118.351065,50.014484,0 -118.352189,50.010035,0 -118.351868,50.007107,0 -118.347689,50.001316,0 -118.341716,49.998085,0 -118.340938,49.995925,0 -118.337253,49.995273,0 -118.32694,49.990194,0 -118.320333,49.988493,0 -118.317309,49.986357,0 -118.315758,49.985956,0 -118.31364,49.98398,0 -118.30538,49.982005,0 -118.299425,49.976879,0 -118.291263,49.975332,0 -118.288428,49.973997,0 -118.285537,49.972048,0 -118.282518,49.968375,0 -118.28024,49.968124,0 -118.28072,49.96672,0 -118.279955,49.96634,0 -118.279021,49.966545,0 -118.277733,49.967965,0 -118.270804,49.967611,0 -118.261654,49.964919,0 -118.250016,49.962842,0 -118.243125,49.958975,0 -118.235181,49.958641,0 -118.226467,49.956529,0 -118.22136,49.949011,0 -118.218615,49.943275,0 -118.217576,49.924195,0 -118.212982,49.910189,0 -118.207847,49.906427,0 -118.204545,49.904866,0 -118.196912,49.899001,0 -118.188706,49.89551,0 -118.188613,49.891477,0 -118.177478,49.877444,0 -118.175496,49.876847,0 -118.156877,49.876828,0 -118.155034,49.876483,0 -118.152926,49.875101,0 -118.150326,49.867778,0 -118.149058,49.866408,0 -118.146398,49.865009,0 -118.138214,49.862401,0 -118.136177,49.86057,0 -118.134649,49.860464,0 -118.129747,49.867273,0 -118.129492,49.888513,0 -118.125938,49.896064,0 -118.125252,49.896429,0 -118.120922,49.885807,0 -118.11973,49.88456,0 -118.114119,49.88196,0 -118.107648,49.875819,0 -118.10492,49.874014,0 -118.100915,49.872934,0 -118.09743,49.874179,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 6 EW. Watch for slippery sections between North Fork Rd and Monashee Summit for 42.1 km (Cherryville to Monashee Summit). Compact snow. Last updated Thu Jan 29 at 3:26 PM PST. (DBCRCON-239293)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 6 EW&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between North Fork Rd and Monashee Summit for 42.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Monashee Summit to Cherryville&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T15:26:39-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-239293
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.629423,50.246856,0 -118.623657,50.243736,0 -118.620232,50.240511,0 -118.604929,50.23738,0 -118.600562,50.235294,0 -118.59825,50.234909,0 -118.591523,50.232543,0 -118.586297,50.229396,0 -118.583199,50.226045,0 -118.582739,50.222413,0 -118.580205,50.219279,0 -118.574,50.214084,0 -118.569318,50.211815,0 -118.565689,50.208906,0 -118.562179,50.204776,0 -118.560863,50.20104,0 -118.557538,50.199484,0 -118.554385,50.196715,0 -118.553192,50.191929,0 -118.55556,50.189776,0 -118.552413,50.189455,0 -118.549908,50.188178,0 -118.546211,50.185012,0 -118.54394,50.183867,0 -118.538866,50.178877,0 -118.529017,50.174534,0 -118.526297,50.172491,0 -118.525348,50.170064,0 -118.523864,50.170885,0 -118.522484,50.170959,0 -118.517473,50.168367,0 -118.512247,50.163901,0 -118.511178,50.159848,0 -118.508595,50.155616,0 -118.5072,50.148544,0 -118.508366,50.146006,0 -118.506843,50.141681,0 -118.507458,50.138745,0 -118.504653,50.133166,0 -118.507332,50.127093,0 -118.509099,50.125397,0 -118.50635,50.119298,0 -118.507976,50.115729,0 -118.507191,50.111988,0 -118.512007,50.107304,0 -118.513533,50.100429,0 -118.518349,50.095835,0 -118.51876,50.09115,0 -118.521639,50.089347,0 -118.521805,50.087699,0 -118.520719,50.085593,0 -118.526834,50.077946,0 -118.536948,50.072533,0 -118.547413,50.069011,0 -118.549361,50.065505,0 -118.551695,50.064145,0 -118.5554,50.060283,0 -118.559251,50.052821,0 -118.557017,50.048072,0 -118.553401,50.044355,0 -118.552239,50.041545,0 -118.550402,50.041191,0 -118.546193,50.04244,0 -118.533784,50.044226,0 -118.531179,50.04555,0 -118.527114,50.049349,0 -118.519961,50.052414,0 -118.513889,50.057644,0 -118.506117,50.058872,0 -118.500839,50.061022,0 -118.495347,50.061661,0 -118.491541,50.063614,0 -118.487436,50.062511,0 -118.485786,50.060719,0 -118.485708,50.058015,0 -118.48304,50.056571,0 -118.478078,50.057212,0 -118.472392,50.0568,0 -118.467503,50.059659,0 -118.464661,50.059844,0 -118.461899,50.058875,0 -118.458857,50.059647,0 -118.456255,50.059207,0 -118.452912,50.060084,0 -118.449453,50.06193,0 -118.441876,50.063984,0 -118.412318,50.060756,0 -118.405568,50.058851,0 -118.400095,50.054617,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -7212,7 +7263,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.918376-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.255964-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7249,7 +7300,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.930554-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.261972-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7286,7 +7337,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.913493-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.250116-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7323,7 +7374,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.939144-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.268394-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7360,7 +7411,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.894881-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.231852-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7400,7 +7451,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.900989-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.237889-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7437,7 +7488,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.943464-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.274216-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7474,7 +7525,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.948729-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.281360-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7511,7 +7562,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.961824-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.294124-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7548,7 +7599,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.880146-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.219984-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7585,7 +7636,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.887155-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.225536-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7625,7 +7676,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.908111-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.244418-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7662,7 +7713,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.954842-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.287976-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7699,7 +7750,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T22:01:01.872206-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T23:00:56.212727-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
