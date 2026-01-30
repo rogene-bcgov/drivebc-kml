@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-30 21:04:41 UTC
+        Last updated: 2026-01-30 21:38:56 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (310)</name>
+      <name>🚗 Traffic Events (315)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3480,6 +3480,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), northbound. Road maintenance work between Hudson Rd and Fuller Lake Rd for 2.9 km (Chemainus). Until Fri Jan 30 at 2:30 PM PST. Right lane is blocked. Watch for traffic control. Last updated Fri Jan 30 at 1:07 PM PST. (DBC-86725)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hudson Rd and Fuller Lake Rd for 2.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chemainus&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:07:19-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86725
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.701998,48.881796,0 -123.70184,48.882451,0 -123.701783,48.882995,0 -123.701826,48.883482,0 -123.701907,48.883914,0 -123.70205,48.884343,0 -123.702259,48.884823,0 -123.702554,48.885406,0 -123.702823,48.885936,0 -123.703744,48.88728,0 -123.704036,48.88759,0 -123.704856,48.888366,0 -123.705232,48.888655,0 -123.705975,48.889181,0 -123.710402,48.892315,0 -123.710842,48.89266,0 -123.711902,48.893604,0 -123.718369,48.900007,0 -123.718588,48.900223,0 -123.718779,48.900412,0 -123.719735,48.901359,0 -123.719943,48.901564,0 -123.720063,48.901682,0 -123.720096,48.901716,0 -123.721167,48.902776,0 -123.721469,48.903047,0 -123.721832,48.903346,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway). Construction work between Nicomen River Rd and Junction Hwy 8 (13 km west of Spences Bridge). Until Wed Jun 30, 2027. Sackum Overhead Replacement project. Single lane alternating traffic in effect February 2nd - 7th from 7 AM to 5 PM. Speed reduction to 50km/hr. Watch for signage and personnel. Expect minor traffic delays. Next update time Tue Jun 30. Last updated Thu Jan 29 at 5:10 PM PST. (DBC-86190)</name>
           <description>
     &lt;![CDATA[
@@ -3606,6 +3632,84 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.622846,49.217037,0 -122.622244,49.217032,0 -122.621264,49.217022,0 -122.62104,49.21702,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Garbage pickup planned between Exit 120: Young Rd and Gibson Rd Uturn for 5.5 km (Chilliwack). Starting Mon Feb 2 at 8:00 AM PST until Mon Feb 2 at 3:00 PM PST. Left lane will be closed in both directions. We will be picking the litter E/B from Young Rd to Gibson Rd. Also cleaning the centre meridian drains with ac truck. Also will be doing cable fence repair while we are out there. Last updated Fri Jan 30 at 1:27 PM PST. (DBC-86729)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 120: Young Rd and Gibson Rd Uturn for 5.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:27:53-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86729
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.947335,49.1484,0 -121.946974,49.148488,0 -121.945427,49.148866,0 -121.939971,49.150199,0 -121.933773,49.151746,0 -121.923113,49.154406,0 -121.921832,49.154736,0 -121.921628,49.154789,0 -121.920331,49.155035,0 -121.919293,49.155154,0 -121.918275,49.155175,0 -121.918206,49.155177,0 -121.917088,49.155194,0 -121.91326,49.155171,0 -121.909931,49.155151,0 -121.896475,49.15508,0 -121.874467,49.154959,0 -121.874419,49.154959,0 -121.874352,49.154958,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17. Road maintenance work planned between 80 St Conn and Highway 91 Connector for 3.5 km (Delta). Starting Mon Feb 2 until Fri Feb 13. From 7:30 AM to 4:00 PM PST on weekdays. Shoulder will be closed. Watch for traffic control personnel. Survey work taking place. Vehicles will be parked on shoulder. Last updated Fri Jan 30 at 1:11 PM PST. (DBC-84949)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 80 St Conn and Highway 91 Connector for 3.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:11:08-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-84949
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.995822,49.140527,0 -122.995425,49.140744,0 -122.994985,49.141055,0 -122.99447,49.141445,0 -122.994029,49.141837,0 -122.99361,49.142276,0 -122.993211,49.142754,0 -122.99301,49.143043,0 -122.992625,49.143552,0 -122.992189,49.144048,0 -122.991735,49.144416,0 -122.991131,49.144843,0 -122.990525,49.145178,0 -122.989659,49.145531,0 -122.989038,49.145715,0 -122.986925,49.146371,0 -122.984953,49.146955,0 -122.984403,49.147059,0 -122.983833,49.147186,0 -122.983193,49.147263,0 -122.982226,49.147355,0 -122.981047,49.14737,0 -122.975028,49.147356,0 -122.973325,49.147344,0 -122.972868,49.14737,0 -122.97236,49.147412,0 -122.9719,49.147506,0 -122.971139,49.147644,0 -122.97046,49.147826,0 -122.969697,49.148062,0 -122.969049,49.148225,0 -122.968213,49.148368,0 -122.967337,49.148448,0 -122.966335,49.148472,0 -122.957695,49.148416,0 -122.955969,49.148398,0 -122.955089,49.148446,0 -122.954579,49.148526,0 -122.954177,49.148659,0 -122.9534,49.148977,0 -122.953246,49.149064,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Garbage pickup planned between Gibson Rd Uturn and Annis Rd for 3.2 km (Chilliwack). Starting Tue Feb 3 at 7:00 AM PST until Tue Feb 3 at 3:00 PM PST. Left lane will be closed in both directions. Watch for crew and equipment working along and inside the left hand lanes cleaning out the culverts, watch for flagger and Obey all signs and workers working. Last updated Fri Jan 30 at 1:26 PM PST. (DBC-86728)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Gibson Rd Uturn and Annis Rd for 3.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:26:40-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86728
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.874352,49.154958,0 -121.852223,49.154824,0 -121.841006,49.154755,0 -121.834565,49.154714,0 -121.834539,49.154714,0 -121.833203,49.154709,0 -121.832243,49.154705,0 -121.83014,49.154696,0 -121.830126,49.154696,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4808,32 +4912,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between United Blvd and Exit 44 (Coquitlam). Right lane is blocked. Expect delays. Last updated Fri Jan 30 at 12:32 PM PST. (DBC-86722)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 44 and United Blvd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T12:32:41-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86722
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.831965,49.228975,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, westbound. Vehicle incident between No 7 Rd and No 6 Rd (Richmond). Left lane is blocked. Expect delays due to congestion. Next update time Fri Jan 30 at 1:30 PM PST. Last updated Fri Jan 30 at 12:53 PM PST. (DBC-86721)</name>
+          <name>Highway 91, westbound. Road cleared between No 7 Rd and No 6 Rd (Richmond). Expect delays due to congestion. Last updated Fri Jan 30 at 1:24 PM PST. (DBC-86721)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4845,8 +4924,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between No 6 Rd and No 7 Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T12:53:38-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-30T13:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:24:06-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-86721
@@ -4855,57 +4934,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.050027,49.177412,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway), in both directions. Vehicle recovery between East Avalanche Gate and West Creston Rd for 27.4 km (8 km west of Creston to 8 km east of Kootenay Pass). Until Fri Jan 30. Single lane alternating traffic. Expect delays. Next update time Fri Jan 30 at 1:30 PM PST. Last updated Fri Jan 30 at 12:36 PM PST. (DBC-86691)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between East Avalanche Gate and West Creston Rd for 27.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 8 km east of Kootenay Pass to 8 km west of Creston&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T12:36:36-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-30T13:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86691
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.969089,49.096407,0 -116.967766,49.0963,0 -116.966965,49.096236,0 -116.965623,49.096128,0 -116.962865,49.095918,0 -116.962355,49.095933,0 -116.961753,49.095951,0 -116.96085,49.096052,0 -116.959681,49.0963,0 -116.951219,49.098385,0 -116.949368,49.098875,0 -116.948116,49.099206,0 -116.947068,49.099565,0 -116.946201,49.099995,0 -116.94464,49.100973,0 -116.942731,49.10217,0 -116.941874,49.102602,0 -116.941021,49.102932,0 -116.935997,49.104149,0 -116.935118,49.104341,0 -116.934048,49.10438,0 -116.933076,49.104296,0 -116.931884,49.10415,0 -116.931769,49.104136,0 -116.92999,49.103919,0 -116.929688,49.103882,0 -116.928749,49.103831,0 -116.922181,49.104492,0 -116.916295,49.105144,0 -116.915486,49.105174,0 -116.914474,49.105109,0 -116.91371,49.104994,0 -116.913535,49.104947,0 -116.911455,49.104385,0 -116.910882,49.104305,0 -116.910248,49.104258,0 -116.904576,49.10424,0 -116.89989,49.104224,0 -116.895827,49.104211,0 -116.895206,49.104167,0 -116.895119,49.104161,0 -116.894644,49.104085,0 -116.894259,49.104024,0 -116.89283,49.103646,0 -116.891252,49.103189,0 -116.890705,49.103054,0 -116.889984,49.102952,0 -116.889329,49.102932,0 -116.888707,49.102983,0 -116.874802,49.10638,0 -116.873006,49.106819,0 -116.872526,49.106938,0 -116.871684,49.107147,0 -116.864551,49.108914,0 -116.860279,49.109972,0 -116.858969,49.110398,0 -116.858746,49.110471,0 -116.858626,49.11051,0 -116.844144,49.116789,0 -116.843455,49.117087,0 -116.842517,49.117494,0 -116.840563,49.118341,0 -116.839925,49.118617,0 -116.838327,49.11931,0 -116.836862,49.119854,0 -116.836141,49.120022,0 -116.835629,49.120108,0 -116.835218,49.120177,0 -116.833765,49.120288,0 -116.830525,49.120443,0 -116.829959,49.12047,0 -116.828984,49.120582,0 -116.827938,49.120776,0 -116.826824,49.121125,0 -116.825843,49.12157,0 -116.825057,49.122032,0 -116.822165,49.123899,0 -116.817878,49.126816,0 -116.816776,49.127789,0 -116.816114,49.128193,0 -116.815371,49.128508,0 -116.814573,49.128703,0 -116.812814,49.128952,0 -116.811945,49.129202,0 -116.811302,49.129476,0 -116.810646,49.129884,0 -116.809255,49.130983,0 -116.808608,49.131411,0 -116.807766,49.131843,0 -116.806713,49.132232,0 -116.805449,49.132562,0 -116.803463,49.133015,0 -116.801844,49.133392,0 -116.801623,49.133433,0 -116.800708,49.133658,0 -116.800015,49.133894,0 -116.799763,49.13398,0 -116.798893,49.134474,0 -116.798238,49.134916,0 -116.797553,49.135273,0 -116.79665,49.135577,0 -116.79092,49.137107,0 -116.7892,49.137566,0 -116.78857,49.137731,0 -116.781018,49.139712,0 -116.780823,49.139733,0 -116.780241,49.139796,0 -116.778181,49.139807,0 -116.777571,49.13981,0 -116.776773,49.139986,0 -116.776328,49.14016,0 -116.776144,49.140233,0 -116.775038,49.140943,0 -116.771686,49.143096,0 -116.770177,49.144065,0 -116.770065,49.144131,0 -116.769426,49.144511,0 -116.768661,49.144851,0 -116.768593,49.144873,0 -116.767537,49.145219,0 -116.767242,49.145271,0 -116.762744,49.146076,0 -116.761986,49.146171,0 -116.761186,49.146207,0 -116.760456,49.14624,0 -116.759335,49.146127,0 -116.758346,49.146028,0 -116.753222,49.145514,0 -116.750961,49.145198,0 -116.749982,49.144956,0 -116.749833,49.144919,0 -116.744771,49.143522,0 -116.743752,49.143241,0 -116.743112,49.143064,0 -116.741935,49.142802,0 -116.741109,49.142722,0 -116.740018,49.142722,0 -116.739946,49.142729,0 -116.738509,49.142867,0 -116.738348,49.142872,0 -116.737403,49.142906,0 -116.736759,49.14286,0 -116.73625,49.142783,0 -116.735349,49.142543,0 -116.733821,49.14208,0 -116.733097,49.14186,0 -116.726695,49.139918,0 -116.725887,49.139712,0 -116.72566,49.139674,0 -116.725093,49.13958,0 -116.724588,49.139545,0 -116.723915,49.139498,0 -116.722408,49.139452,0 -116.719391,49.139358,0 -116.719297,49.139355,0 -116.718255,49.139353,0 -116.71749,49.139383,0 -116.716472,49.139502,0 -116.715379,49.139724,0 -116.714802,49.139841,0 -116.713507,49.140045,0 -116.713464,49.140049,0 -116.712387,49.140143,0 -116.711031,49.140183,0 -116.707793,49.140218,0 -116.706895,49.140331,0 -116.705264,49.140606,0 -116.7048,49.140633,0 -116.704482,49.14063,0 -116.704324,49.140629,0 -116.70372,49.140577,0 -116.703208,49.14048,0 -116.70142,49.139978,0 -116.700611,49.139817,0 -116.699626,49.1397,0 -116.698755,49.139661,0 -116.697313,49.139597,0 -116.696588,49.139599,0 -116.696078,49.139661,0 -116.695934,49.139693,0 -116.695543,49.13978,0 -116.694296,49.140166,0 -116.69406,49.140239,0 -116.693462,49.140394,0 -116.693424,49.140402,0 -116.69272,49.140548,0 -116.686505,49.14145,0 -116.682159,49.14208,0 -116.678269,49.142644,0 -116.677485,49.142727,0 -116.677416,49.142728,0 -116.676736,49.142742,0 -116.675941,49.142666,0 -116.675693,49.142642,0 -116.673597,49.142299,0 -116.67298,49.142273,0 -116.672539,49.142302,0 -116.672261,49.142361,0 -116.671962,49.142425,0 -116.671015,49.142712,0 -116.670318,49.142859,0 -116.669988,49.142886,0 -116.669615,49.142888,0 -116.669231,49.142859,0 -116.667339,49.142601,0 -116.666818,49.142578,0 -116.666358,49.142605,0 -116.665987,49.142667,0 -116.665586,49.142764,0 -116.66526,49.142887,0 -116.664855,49.143084,0 -116.664157,49.143483,0 -116.663795,49.143645,0 -116.663196,49.143865,0 -116.662798,49.143976,0 -116.662503,49.144007,0 -116.662147,49.144044,0 -116.661442,49.144057,0 -116.660925,49.14401,0 -116.660296,49.143952,0 -116.659495,49.14393,0 -116.659055,49.143956,0 -116.658071,49.144015,0 -116.657384,49.144055,0 -116.656827,49.14403,0 -116.656384,49.143982,0 -116.655731,49.143883,0 -116.654682,49.143723,0 -116.654241,49.143632,0 -116.653977,49.143577,0 -116.653503,49.143426,0 -116.652168,49.142836,0 -116.651518,49.142636,0 -116.650787,49.142484,0 -116.650199,49.142361,0 -116.64881,49.142073,0 -116.64817,49.14194,0 -116.647856,49.141875,0 -116.647306,49.141761,0 -116.64579,49.141424,0 -116.644849,49.141114,0 -116.644104,49.140788,0 -116.643289,49.140318,0 -116.64187,49.139268,0 -116.641091,49.138686,0 -116.640696,49.13839,0 -116.637706,49.136156,0 -116.636944,49.135556,0 -116.636425,49.135014,0 -116.636114,49.134539,0 -116.635885,49.134045,0 -116.635868,49.133979,0 -116.635771,49.133603,0 -116.63548,49.132025,0 -116.63528,49.130946,0 -116.635035,49.130267,0 -116.634817,49.129959,0 -116.634546,49.12968,0 -116.634503,49.129635,0 -116.634043,49.129304,0 -116.63338,49.128939,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle recovery planned between Oak Dr and Greely Rd (Revelstoke). Starting Fri Jan 30 at 1:30 PM PST until Fri Jan 30 at 5:00 PM PST. Single lane alternating traffic will be in effect. Last updated Fri Jan 30 at 12:40 PM PST. (DBC-86723)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Oak Dr and Greely Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T12:40:42-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86723
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-118.155509,50.993228,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4933,6 +4961,31 @@
             <tessellate>1</tessellate>
             <coordinates>-121.145064,53.727003,0 -121.142489,53.726444,0 -121.141963,53.726329,0 -121.13296,53.72441,0 -121.131997,53.724182,0 -121.131175,53.723926,0 -121.130389,53.723614,0 -121.129726,53.723286,0 -121.119873,53.717422,0 -121.119313,53.71713,0 -121.118439,53.716754,0 -121.117619,53.716483,0 -121.117295,53.716405,0 -121.116742,53.716271,0 -121.116608,53.716245,0 -121.115785,53.716089,0 -121.11464,53.71598,0 -121.114244,53.715972,0 -121.113646,53.71596,0 -121.112695,53.715991,0 -121.111623,53.716111,0 -121.109486,53.716524,0 -121.108679,53.71668,0 -121.108078,53.716767,0 -121.10715,53.716827,0 -121.106053,53.716814,0 -121.105101,53.716707,0 -121.104071,53.716489,0 -121.102901,53.716069,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle recovery between Oak Dr and Greely Rd (Revelstoke). Until Fri Jan 30 at 5:00 PM PST. Westbound lane closure. Single lane alternating traffic. Expect minor delays. Watch for traffic control. Next update time Fri Jan 30 at 4:45 PM PST. Last updated Fri Jan 30 at 1:19 PM PST. (DBC-86723)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Oak Dr and Greely Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-30T16:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86723
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.155509,50.993228,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97, in both directions. Watch for falling rocks between Crystal Waters Rd and Grandview Flats Rd N for 35.1 km (11 km south of Coldstream to 17 km north of Vernon). Last updated Fri Jan 30 at 7:04 AM PST. (DBC-86654)</name>
@@ -5065,6 +5118,56 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 17, westbound. Vehicle incident between Highway 91 Connector and Aldrich Rd (Delta). Right lane is blocked. Next update time Fri Jan 30 at 2:15 PM PST. Last updated Fri Jan 30 at 1:07 PM PST. (DBC-86724)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Aldrich Rd and Highway 91 Connector&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:07:03-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-30T14:15:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86724
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.973378,49.147344,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, eastbound. Vehicle incident between No 6 Rd and No 7 Rd (Richmond). Left lane is blocked. Expect delays due to congestion. Next update time Fri Jan 30 at 2:00 PM PST. Last updated Fri Jan 30 at 1:18 PM PST. (DBC-86727)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between No 6 Rd and No 7 Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:18:48-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-30T14:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86727
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.056052,49.177581,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97A, in both directions. Watch for falling rocks between Hutchison Rd and Main St for 16.4 km (Sicamous). Watch for falling ice. Next update time Sun Feb 1 at 12:00 PM PST. Last updated Wed Jan 28 at 12:18 PM PST. (DBC-85945)</name>
           <description>
     &lt;![CDATA[
@@ -5088,6 +5191,58 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.035353,50.711225,0 -119.034684,50.713867,0 -119.034475,50.714694,0 -119.034272,50.715172,0 -119.034199,50.715345,0 -119.033943,50.715798,0 -119.033432,50.716434,0 -119.032246,50.717687,0 -119.032037,50.717988,0 -119.031952,50.71834,0 -119.03197,50.71913,0 -119.032001,50.720497,0 -119.032017,50.721179,0 -119.032071,50.721702,0 -119.032108,50.722073,0 -119.032286,50.722688,0 -119.032384,50.723087,0 -119.03262,50.724045,0 -119.032568,50.72433,0 -119.032382,50.724682,0 -119.032125,50.724999,0 -119.031721,50.725379,0 -119.031108,50.725825,0 -119.030747,50.726126,0 -119.030554,50.72638,0 -119.030381,50.726739,0 -119.030326,50.727093,0 -119.030291,50.728643,0 -119.030295,50.729431,0 -119.030301,50.730901,0 -119.030227,50.731341,0 -119.029953,50.731989,0 -119.029646,50.732431,0 -119.029513,50.732576,0 -119.02901,50.732986,0 -119.028323,50.733547,0 -119.026156,50.73575,0 -119.025841,50.736096,0 -119.025709,50.736241,0 -119.025418,50.736625,0 -119.025228,50.736874,0 -119.024746,50.737677,0 -119.024173,50.738632,0 -119.024028,50.739046,0 -119.024021,50.739111,0 -119.023951,50.739832,0 -119.023813,50.740191,0 -119.023309,50.741186,0 -119.023216,50.741618,0 -119.023217,50.741651,0 -119.023236,50.742201,0 -119.023491,50.7434,0 -119.02352,50.743504,0 -119.023629,50.743899,0 -119.024214,50.744997,0 -119.024268,50.745114,0 -119.024692,50.746038,0 -119.024781,50.746426,0 -119.024868,50.746807,0 -119.024871,50.747263,0 -119.024809,50.747782,0 -119.024556,50.748905,0 -119.024539,50.748979,0 -119.024572,50.749369,0 -119.0247,50.749639,0 -119.024944,50.749912,0 -119.025892,50.750669,0 -119.026025,50.750779,0 -119.026345,50.751133,0 -119.026594,50.751482,0 -119.026685,50.751759,0 -119.026551,50.753876,0 -119.026394,50.754304,0 -119.026196,50.754534,0 -119.025999,50.75469,0 -119.025354,50.75502,0 -119.025142,50.75519,0 -119.024525,50.75578,0 -119.024089,50.756073,0 -119.023392,50.756463,0 -119.022313,50.75685,0 -119.020556,50.75777,0 -119.020136,50.757947,0 -119.019828,50.75803,0 -119.018927,50.758095,0 -119.018363,50.758233,0 -119.017237,50.758594,0 -119.016615,50.758843,0 -119.015723,50.759299,0 -119.01493,50.759823,0 -119.013288,50.761092,0 -119.012988,50.761488,0 -119.012721,50.762225,0 -119.01259,50.762451,0 -119.01235,50.76271,0 -119.01202,50.762938,0 -119.011531,50.763182,0 -119.010536,50.763514,0 -119.010087,50.763721,0 -119.009715,50.763959,0 -119.009061,50.764632,0 -119.008712,50.764993,0 -119.007425,50.766435,0 -119.00713,50.766766,0 -119.006931,50.767025,0 -119.006618,50.767434,0 -119.006579,50.767543,0 -119.006464,50.76787,0 -119.00646,50.768194,0 -119.006459,50.768275,0 -119.006459,50.768313,0 -119.006542,50.768625,0 -119.006904,50.769495,0 -119.007047,50.769839,0 -119.007116,50.770288,0 -119.007105,50.770548,0 -119.0071,50.770684,0 -119.006953,50.771101,0 -119.006745,50.771519,0 -119.00647,50.771886,0 -119.005935,50.772446,0 -119.005554,50.772845,0 -119.005236,50.773308,0 -119.005093,50.773709,0 -119.004839,50.774768,0 -119.004678,50.775299,0 -119.004347,50.775956,0 -119.004093,50.776324,0 -119.004051,50.776384,0 -119.003916,50.776537,0 -119.003755,50.776727,0 -119.003726,50.776752,0 -119.002369,50.778082,0 -119.001213,50.779184,0 -119.000018,50.780174,0 -118.999369,50.780531,0 -118.998767,50.780776,0 -118.996837,50.781383,0 -118.996495,50.781517,0 -118.995989,50.781788,0 -118.995704,50.782101,0 -118.995409,50.782575,0 -118.994747,50.78386,0 -118.994593,50.784324,0 -118.994545,50.784718,0 -118.994528,50.785825,0 -118.994392,50.787213,0 -118.994299,50.787713,0 -118.994102,50.787998,0 -118.993939,50.788172,0 -118.993732,50.788326,0 -118.993438,50.788483,0 -118.991938,50.788933,0 -118.991835,50.788964,0 -118.991263,50.789181,0 -118.990725,50.789433,0 -118.990219,50.789762,0 -118.989944,50.789974,0 -118.988823,50.791096,0 -118.988513,50.791365,0 -118.987071,50.792444,0 -118.985273,50.794012,0 -118.983963,50.794991,0 -118.982716,50.79615,0 -118.981327,50.79727,0 -118.979326,50.798947,0 -118.978691,50.799579,0 -118.977964,50.800119,0 -118.97608,50.80085,0 -118.975794,50.80099,0 -118.974959,50.801516,0 -118.972456,50.803027,0 -118.971914,50.803393,0 -118.971541,50.803718,0 -118.971228,50.804146,0 -118.971067,50.804515,0 -118.971001,50.805042,0 -118.97106,50.805553,0 -118.971119,50.806061,0 -118.971209,50.806553,0 -118.971319,50.807446,0 -118.971384,50.807852,0 -118.971415,50.808049,0 -118.971495,50.80855,0 -118.971541,50.808836,0 -118.971753,50.810279,0 -118.971937,50.810653,0 -118.972218,50.811027,0 -118.973343,50.812031,0 -118.973734,50.812516,0 -118.973835,50.812893,0 -118.973841,50.813264,0 -118.973681,50.813925,0 -118.97343,50.814524,0 -118.972762,50.816062,0 -118.972539,50.81686,0 -118.972384,50.817617,0 -118.972285,50.818184,0 -118.972188,50.819225,0 -118.972203,50.819457,0 -118.972227,50.819821,0 -118.972237,50.820192,0 -118.97235,50.820964,0 -118.972536,50.822228,0 -118.972611,50.822549,0 -118.972763,50.822879,0 -118.973085,50.823274,0 -118.973613,50.823636,0 -118.974181,50.823894,0 -118.975332,50.824367,0 -118.976402,50.824784,0 -118.977373,50.82517,0 -118.980889,50.826565,0 -118.980972,50.826614,0 -118.981223,50.826766,0 -118.98144,50.826949,0 -118.98159,50.827218,0 -118.98163,50.827392,0 -118.981626,50.827599,0 -118.981618,50.827745,0 -118.981601,50.828052,0 -118.981445,50.830927,0 -118.981278,50.833164,0 -118.981277,50.833173,0 -118.980992,50.83375,0 -118.980922,50.833871,0 -118.980842,50.833985,0 -118.980773,50.834081,0 -118.980686,50.834107,0 -118.979622,50.835151,0 -118.979204,50.835505,0 -118.978131,50.836415,0 -118.977946,50.836827,0 -118.9778,50.837001,0 -118.977711,50.837025,0 -118.977571,50.837069,0 -118.977502,50.837152,0 -118.9775,50.837196,0 -118.97709,50.837456,0 -118.977055,50.837481,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Illecillewaet Brake Check and Albert Canyon East Bridge for 2.1 km (7 to 5 km east of East Boundary of Mount Revelstoke National Park). Lane Closure. Assessment in progress. Tow en route for vehicle recovery. Last updated Fri Jan 30 at 1:31 PM PST. (DBC-86730)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Albert Canyon East Bridge and Illecillewaet Brake Check for 2.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 7 to 5 km east of East Boundary of Mount Revelstoke National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:31:58-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86730
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.848988,51.141845,0 -117.848593,51.141971,0 -117.848394,51.142035,0 -117.847739,51.142245,0 -117.847431,51.142343,0 -117.847159,51.142431,0 -117.846156,51.142751,0 -117.845614,51.142926,0 -117.845074,51.143101,0 -117.840167,51.144679,0 -117.839455,51.144939,0 -117.838648,51.145368,0 -117.838165,51.145748,0 -117.837777,51.146187,0 -117.837527,51.146564,0 -117.837246,51.147251,0 -117.836515,51.149206,0 -117.836174,51.150273,0 -117.835874,51.150807,0 -117.835432,51.151307,0 -117.834906,51.151695,0 -117.834587,51.151869,0 -117.834309,51.152022,0 -117.833407,51.152363,0 -117.832784,51.152503,0 -117.83214,51.152595,0 -117.831559,51.152643,0 -117.829869,51.152724,0 -117.829138,51.152807,0 -117.827885,51.15306,0 -117.827706,51.153096,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Vehicle recovery between East Avalanche Gate and West Creston Rd for 27.4 km (8 km west of Creston to 8 km east of Kootenay Pass). Until Fri Jan 30. Single lane alternating traffic. Expect delays. Next update time Fri Jan 30 at 2:30 PM PST. Last updated Fri Jan 30 at 1:33 PM PST. (DBC-86691)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between East Avalanche Gate and West Creston Rd for 27.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 8 km east of Kootenay Pass to 8 km west of Creston&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:33:56-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-30T14:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86691
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.969089,49.096407,0 -116.967766,49.0963,0 -116.966965,49.096236,0 -116.965623,49.096128,0 -116.962865,49.095918,0 -116.962355,49.095933,0 -116.961753,49.095951,0 -116.96085,49.096052,0 -116.959681,49.0963,0 -116.951219,49.098385,0 -116.949368,49.098875,0 -116.948116,49.099206,0 -116.947068,49.099565,0 -116.946201,49.099995,0 -116.94464,49.100973,0 -116.942731,49.10217,0 -116.941874,49.102602,0 -116.941021,49.102932,0 -116.935997,49.104149,0 -116.935118,49.104341,0 -116.934048,49.10438,0 -116.933076,49.104296,0 -116.931884,49.10415,0 -116.931769,49.104136,0 -116.92999,49.103919,0 -116.929688,49.103882,0 -116.928749,49.103831,0 -116.922181,49.104492,0 -116.916295,49.105144,0 -116.915486,49.105174,0 -116.914474,49.105109,0 -116.91371,49.104994,0 -116.913535,49.104947,0 -116.911455,49.104385,0 -116.910882,49.104305,0 -116.910248,49.104258,0 -116.904576,49.10424,0 -116.89989,49.104224,0 -116.895827,49.104211,0 -116.895206,49.104167,0 -116.895119,49.104161,0 -116.894644,49.104085,0 -116.894259,49.104024,0 -116.89283,49.103646,0 -116.891252,49.103189,0 -116.890705,49.103054,0 -116.889984,49.102952,0 -116.889329,49.102932,0 -116.888707,49.102983,0 -116.874802,49.10638,0 -116.873006,49.106819,0 -116.872526,49.106938,0 -116.871684,49.107147,0 -116.864551,49.108914,0 -116.860279,49.109972,0 -116.858969,49.110398,0 -116.858746,49.110471,0 -116.858626,49.11051,0 -116.844144,49.116789,0 -116.843455,49.117087,0 -116.842517,49.117494,0 -116.840563,49.118341,0 -116.839925,49.118617,0 -116.838327,49.11931,0 -116.836862,49.119854,0 -116.836141,49.120022,0 -116.835629,49.120108,0 -116.835218,49.120177,0 -116.833765,49.120288,0 -116.830525,49.120443,0 -116.829959,49.12047,0 -116.828984,49.120582,0 -116.827938,49.120776,0 -116.826824,49.121125,0 -116.825843,49.12157,0 -116.825057,49.122032,0 -116.822165,49.123899,0 -116.817878,49.126816,0 -116.816776,49.127789,0 -116.816114,49.128193,0 -116.815371,49.128508,0 -116.814573,49.128703,0 -116.812814,49.128952,0 -116.811945,49.129202,0 -116.811302,49.129476,0 -116.810646,49.129884,0 -116.809255,49.130983,0 -116.808608,49.131411,0 -116.807766,49.131843,0 -116.806713,49.132232,0 -116.805449,49.132562,0 -116.803463,49.133015,0 -116.801844,49.133392,0 -116.801623,49.133433,0 -116.800708,49.133658,0 -116.800015,49.133894,0 -116.799763,49.13398,0 -116.798893,49.134474,0 -116.798238,49.134916,0 -116.797553,49.135273,0 -116.79665,49.135577,0 -116.79092,49.137107,0 -116.7892,49.137566,0 -116.78857,49.137731,0 -116.781018,49.139712,0 -116.780823,49.139733,0 -116.780241,49.139796,0 -116.778181,49.139807,0 -116.777571,49.13981,0 -116.776773,49.139986,0 -116.776328,49.14016,0 -116.776144,49.140233,0 -116.775038,49.140943,0 -116.771686,49.143096,0 -116.770177,49.144065,0 -116.770065,49.144131,0 -116.769426,49.144511,0 -116.768661,49.144851,0 -116.768593,49.144873,0 -116.767537,49.145219,0 -116.767242,49.145271,0 -116.762744,49.146076,0 -116.761986,49.146171,0 -116.761186,49.146207,0 -116.760456,49.14624,0 -116.759335,49.146127,0 -116.758346,49.146028,0 -116.753222,49.145514,0 -116.750961,49.145198,0 -116.749982,49.144956,0 -116.749833,49.144919,0 -116.744771,49.143522,0 -116.743752,49.143241,0 -116.743112,49.143064,0 -116.741935,49.142802,0 -116.741109,49.142722,0 -116.740018,49.142722,0 -116.739946,49.142729,0 -116.738509,49.142867,0 -116.738348,49.142872,0 -116.737403,49.142906,0 -116.736759,49.14286,0 -116.73625,49.142783,0 -116.735349,49.142543,0 -116.733821,49.14208,0 -116.733097,49.14186,0 -116.726695,49.139918,0 -116.725887,49.139712,0 -116.72566,49.139674,0 -116.725093,49.13958,0 -116.724588,49.139545,0 -116.723915,49.139498,0 -116.722408,49.139452,0 -116.719391,49.139358,0 -116.719297,49.139355,0 -116.718255,49.139353,0 -116.71749,49.139383,0 -116.716472,49.139502,0 -116.715379,49.139724,0 -116.714802,49.139841,0 -116.713507,49.140045,0 -116.713464,49.140049,0 -116.712387,49.140143,0 -116.711031,49.140183,0 -116.707793,49.140218,0 -116.706895,49.140331,0 -116.705264,49.140606,0 -116.7048,49.140633,0 -116.704482,49.14063,0 -116.704324,49.140629,0 -116.70372,49.140577,0 -116.703208,49.14048,0 -116.70142,49.139978,0 -116.700611,49.139817,0 -116.699626,49.1397,0 -116.698755,49.139661,0 -116.697313,49.139597,0 -116.696588,49.139599,0 -116.696078,49.139661,0 -116.695934,49.139693,0 -116.695543,49.13978,0 -116.694296,49.140166,0 -116.69406,49.140239,0 -116.693462,49.140394,0 -116.693424,49.140402,0 -116.69272,49.140548,0 -116.686505,49.14145,0 -116.682159,49.14208,0 -116.678269,49.142644,0 -116.677485,49.142727,0 -116.677416,49.142728,0 -116.676736,49.142742,0 -116.675941,49.142666,0 -116.675693,49.142642,0 -116.673597,49.142299,0 -116.67298,49.142273,0 -116.672539,49.142302,0 -116.672261,49.142361,0 -116.671962,49.142425,0 -116.671015,49.142712,0 -116.670318,49.142859,0 -116.669988,49.142886,0 -116.669615,49.142888,0 -116.669231,49.142859,0 -116.667339,49.142601,0 -116.666818,49.142578,0 -116.666358,49.142605,0 -116.665987,49.142667,0 -116.665586,49.142764,0 -116.66526,49.142887,0 -116.664855,49.143084,0 -116.664157,49.143483,0 -116.663795,49.143645,0 -116.663196,49.143865,0 -116.662798,49.143976,0 -116.662503,49.144007,0 -116.662147,49.144044,0 -116.661442,49.144057,0 -116.660925,49.14401,0 -116.660296,49.143952,0 -116.659495,49.14393,0 -116.659055,49.143956,0 -116.658071,49.144015,0 -116.657384,49.144055,0 -116.656827,49.14403,0 -116.656384,49.143982,0 -116.655731,49.143883,0 -116.654682,49.143723,0 -116.654241,49.143632,0 -116.653977,49.143577,0 -116.653503,49.143426,0 -116.652168,49.142836,0 -116.651518,49.142636,0 -116.650787,49.142484,0 -116.650199,49.142361,0 -116.64881,49.142073,0 -116.64817,49.14194,0 -116.647856,49.141875,0 -116.647306,49.141761,0 -116.64579,49.141424,0 -116.644849,49.141114,0 -116.644104,49.140788,0 -116.643289,49.140318,0 -116.64187,49.139268,0 -116.641091,49.138686,0 -116.640696,49.13839,0 -116.637706,49.136156,0 -116.636944,49.135556,0 -116.636425,49.135014,0 -116.636114,49.134539,0 -116.635885,49.134045,0 -116.635868,49.133979,0 -116.635771,49.133603,0 -116.63548,49.132025,0 -116.63528,49.130946,0 -116.635035,49.130267,0 -116.634817,49.129959,0 -116.634546,49.12968,0 -116.634503,49.129635,0 -116.634043,49.129304,0 -116.63338,49.128939,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5431,32 +5586,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 4. Water pooling between Beaver Creek Rd and the end of Highway 4 for 42.1 km (Port Alberni to Qualicum Beach). Last updated Fri Jan 30 at 4:53 AM PST. (DBCRCON-239514)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; SURFACE_WATER_HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Beaver Creek Rd and the end of Highway 4 for 42.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Qualicum Beach to Port Alberni&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T04:53:41-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-239514
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.816894,49.259621,0 -124.815289,49.258997,0 -124.813567,49.257465,0 -124.801003,49.26231,0 -124.786419,49.266028,0 -124.777309,49.266552,0 -124.766297,49.266399,0 -124.757215,49.264339,0 -124.747749,49.265812,0 -124.743534,49.264815,0 -124.733414,49.266649,0 -124.732,49.266147,0 -124.730305,49.264417,0 -124.728113,49.263721,0 -124.722563,49.265069,0 -124.715233,49.264678,0 -124.712037,49.26001,0 -124.71153,49.257105,0 -124.707281,49.251674,0 -124.705299,49.250929,0 -124.695046,49.249237,0 -124.687067,49.245887,0 -124.684848,49.245767,0 -124.679355,49.247332,0 -124.676126,49.247485,0 -124.670541,49.248831,0 -124.667474,49.248745,0 -124.661971,49.247616,0 -124.660829,49.248449,0 -124.660544,49.250945,0 -124.671073,49.260211,0 -124.673759,49.265082,0 -124.673548,49.267914,0 -124.675649,49.270932,0 -124.674829,49.273878,0 -124.675196,49.282729,0 -124.668079,49.28925,0 -124.663497,49.291067,0 -124.660451,49.291547,0 -124.658083,49.291362,0 -124.653346,49.290411,0 -124.644636,49.289887,0 -124.631263,49.287893,0 -124.628567,49.288069,0 -124.621591,49.289708,0 -124.618704,49.289474,0 -124.616234,49.287986,0 -124.61053,49.288983,0 -124.601429,49.286933,0 -124.596317,49.287465,0 -124.592868,49.285735,0 -124.590512,49.285482,0 -124.587875,49.286158,0 -124.584254,49.288589,0 -124.578203,49.288913,0 -124.573336,49.292757,0 -124.566255,49.293822,0 -124.562612,49.295333,0 -124.559736,49.297455,0 -124.558184,49.300009,0 -124.554568,49.302725,0 -124.543774,49.307993,0 -124.537863,49.309726,0 -124.530587,49.311076,0 -124.524432,49.3108,0 -124.511878,49.312471,0 -124.503227,49.311402,0 -124.495786,49.309752,0 -124.487708,49.306482,0 -124.473543,49.306227,0 -124.458098,49.303377,0 -124.45423,49.303609,0 -124.45118,49.304392,0 -124.45002,49.30578,0 -124.449455,49.311659,0 -124.442872,49.319835,0 -124.441556,49.322599,0 -124.442275,49.339236,0 -124.441541,49.348496,0 -124.444113,49.351027,0 -124.439741,49.35506,0 -124.439402,49.356094,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 6 EW. Slushy with slippery sections between Needles Ferry and Junction Hwy 23 for 59.1 km (Needles to Nakusp). Last updated Fri Jan 30 at 11:33 AM PST. (DBCRCON-239525)</name>
           <description>
     &lt;![CDATA[
@@ -5506,32 +5635,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-118.400095,50.054617,0 -118.394561,50.046119,0 -118.390035,50.041841,0 -118.382588,50.038073,0 -118.379528,50.035508,0 -118.371984,50.032868,0 -118.368768,50.031037,0 -118.360377,50.025168,0 -118.357401,50.021318,0 -118.352955,50.018092,0 -118.351065,50.014484,0 -118.352189,50.010035,0 -118.351868,50.007107,0 -118.347689,50.001316,0 -118.341716,49.998085,0 -118.340938,49.995925,0 -118.337253,49.995273,0 -118.32694,49.990194,0 -118.320333,49.988493,0 -118.317309,49.986357,0 -118.315758,49.985956,0 -118.31364,49.98398,0 -118.30538,49.982005,0 -118.299425,49.976879,0 -118.291263,49.975332,0 -118.288428,49.973997,0 -118.285537,49.972048,0 -118.282518,49.968375,0 -118.28024,49.968124,0 -118.28072,49.96672,0 -118.279955,49.96634,0 -118.279021,49.966545,0 -118.277733,49.967965,0 -118.270804,49.967611,0 -118.261654,49.964919,0 -118.250016,49.962842,0 -118.243125,49.958975,0 -118.235181,49.958641,0 -118.226467,49.956529,0 -118.22136,49.949011,0 -118.218615,49.943275,0 -118.217576,49.924195,0 -118.212982,49.910189,0 -118.207847,49.906427,0 -118.204545,49.904866,0 -118.196912,49.899001,0 -118.188706,49.89551,0 -118.188613,49.891477,0 -118.177478,49.877444,0 -118.175496,49.876847,0 -118.156877,49.876828,0 -118.155034,49.876483,0 -118.152926,49.875101,0 -118.150326,49.867778,0 -118.149058,49.866408,0 -118.146398,49.865009,0 -118.138214,49.862401,0 -118.136177,49.86057,0 -118.134649,49.860464,0 -118.129747,49.867273,0 -118.129492,49.888513,0 -118.125938,49.896064,0 -118.125252,49.896429,0 -118.120922,49.885807,0 -118.11973,49.88456,0 -118.114119,49.88196,0 -118.107648,49.875819,0 -118.10492,49.874014,0 -118.100915,49.872934,0 -118.09743,49.874179,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 4. Water pooling between Wick Rd and Taylor River Rest Area for 46.9 km (1 km east of Southern Boundary of Pacific Rim National Park to 2 km west of Sutton Pass Summit). Last updated Thu Jan 29 at 5:19 AM PST. (DBCRCON-239513)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; SURFACE_WATER_HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Wick Rd and Taylor River Rest Area for 46.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km west of Sutton Pass Summit to 1 km east of Southern Boundary of Pacific Rim National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-29T05:19:27-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-239513
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.588136,48.992008,0 -125.584709,48.994412,0 -125.582457,48.995242,0 -125.581669,48.996653,0 -125.574328,49.003058,0 -125.57145,49.004912,0 -125.568337,49.009391,0 -125.570466,49.012563,0 -125.571829,49.013401,0 -125.570581,49.015112,0 -125.554943,49.018274,0 -125.551047,49.020693,0 -125.546514,49.021348,0 -125.542342,49.024148,0 -125.539432,49.028487,0 -125.538671,49.031145,0 -125.541033,49.034814,0 -125.540595,49.035481,0 -125.534346,49.038264,0 -125.531107,49.038981,0 -125.528935,49.040437,0 -125.519385,49.041497,0 -125.507059,49.044384,0 -125.502496,49.046464,0 -125.498929,49.047263,0 -125.49179,49.047801,0 -125.489205,49.048662,0 -125.487711,49.049978,0 -125.482397,49.051918,0 -125.48106,49.053734,0 -125.479047,49.054681,0 -125.475959,49.060777,0 -125.474461,49.062345,0 -125.46801,49.064963,0 -125.467199,49.069572,0 -125.469317,49.076463,0 -125.465225,49.079245,0 -125.464642,49.082831,0 -125.460885,49.081575,0 -125.457207,49.082642,0 -125.456927,49.08357,0 -125.457949,49.085765,0 -125.456585,49.090133,0 -125.455995,49.090548,0 -125.453846,49.090033,0 -125.452825,49.090515,0 -125.452284,49.094808,0 -125.450946,49.096827,0 -125.453585,49.103619,0 -125.457087,49.106439,0 -125.454317,49.108619,0 -125.452912,49.110774,0 -125.45303,49.11209,0 -125.449742,49.112614,0 -125.449733,49.114182,0 -125.445025,49.115027,0 -125.437236,49.113035,0 -125.437264,49.114147,0 -125.439851,49.115006,0 -125.440032,49.116097,0 -125.436256,49.117167,0 -125.435716,49.119481,0 -125.433751,49.120412,0 -125.431921,49.121017,0 -125.428342,49.120901,0 -125.425466,49.122308,0 -125.424981,49.124673,0 -125.427624,49.128653,0 -125.419137,49.129641,0 -125.416654,49.131186,0 -125.416238,49.134515,0 -125.41864,49.139033,0 -125.417842,49.144882,0 -125.42251,49.15032,0 -125.421162,49.152655,0 -125.421369,49.155756,0 -125.419741,49.159052,0 -125.41197,49.161758,0 -125.406965,49.165271,0 -125.403495,49.166478,0 -125.399513,49.170108,0 -125.395638,49.178259,0 -125.397187,49.180031,0 -125.397417,49.183297,0 -125.402253,49.18703,0 -125.402501,49.190837,0 -125.400961,49.192032,0 -125.398499,49.192955,0 -125.393331,49.19325,0 -125.391052,49.19389,0 -125.383992,49.198633,0 -125.380666,49.199767,0 -125.375133,49.204937,0 -125.375755,49.207727,0 -125.373713,49.208864,0 -125.367232,49.214558,0 -125.367584,49.215648,0 -125.370116,49.21737,0 -125.370036,49.218762,0 -125.368534,49.220707,0 -125.364988,49.222581,0 -125.363653,49.227116,0 -125.359501,49.230475,0 -125.358761,49.233796,0 -125.355807,49.238,0 -125.359517,49.242271,0 -125.365514,49.243112,0 -125.368867,49.244815,0 -125.370587,49.246306,0 -125.370885,49.248307,0 -125.36959,49.250506,0 -125.371044,49.253778,0 -125.371209,49.255915,0 -125.370122,49.25988,0 -125.370835,49.26294,0 -125.367021,49.265799,0 -125.364513,49.271331,0 -125.364249,49.274547,0 -125.360423,49.275703,0 -125.357679,49.278693,0 -125.348252,49.282928,0 -125.347656,49.283528,0 -125.348179,49.285012,0 -125.347749,49.285624,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6260,6 +6363,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.818226,49.20684,0 -119.814981,49.205232,0 -119.788998,49.205159,0 -119.780947,49.201241,0 -119.738967,49.161595,0 -119.737939,49.159444,0 -119.735036,49.146137,0 -119.735225,49.137267,0 -119.732404,49.123301,0 -119.730691,49.121061,0 -119.729767,49.117744,0 -119.718252,49.107966,0 -119.716766,49.105934,0 -119.714711,49.097144,0 -119.711474,49.092037,0 -119.710836,49.0876,0 -119.708298,49.079541,0 -119.70722,49.069658,0 -119.706061,49.066359,0 -119.70377,49.050651,0 -119.701772,49.046909,0 -119.698602,49.037501,0 -119.694281,49.032812,0 -119.69264,49.029916,0 -119.687222,49.024145,0 -119.685142,49.023024,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 4. Water pooling between Wick Rd and the end of Highway 4 for 132.4 km (1 km east of Southern Boundary of Pacific Rim National Park to Qualicum Beach). Last updated Fri Jan 30 at 1:12 PM PST. (DBCRCON-239568)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; SURFACE_WATER_HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Wick Rd and the end of Highway 4 for 132.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Qualicum Beach to 1 km east of Southern Boundary of Pacific Rim National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T13:12:18-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-239568
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.588136,48.992008,0 -125.584709,48.994412,0 -125.582457,48.995242,0 -125.581669,48.996653,0 -125.574328,49.003058,0 -125.57145,49.004912,0 -125.568337,49.009391,0 -125.570466,49.012563,0 -125.571829,49.013401,0 -125.570581,49.015112,0 -125.554943,49.018274,0 -125.551047,49.020693,0 -125.546514,49.021348,0 -125.542342,49.024148,0 -125.539432,49.028487,0 -125.538671,49.031145,0 -125.541033,49.034814,0 -125.540595,49.035481,0 -125.534346,49.038264,0 -125.531107,49.038981,0 -125.528935,49.040437,0 -125.519385,49.041497,0 -125.507059,49.044384,0 -125.502496,49.046464,0 -125.498929,49.047263,0 -125.49179,49.047801,0 -125.489205,49.048662,0 -125.487711,49.049978,0 -125.482397,49.051918,0 -125.48106,49.053734,0 -125.479047,49.054681,0 -125.475959,49.060777,0 -125.474461,49.062345,0 -125.46801,49.064963,0 -125.467199,49.069572,0 -125.469317,49.076463,0 -125.465225,49.079245,0 -125.464642,49.082831,0 -125.460885,49.081575,0 -125.457207,49.082642,0 -125.456927,49.08357,0 -125.457949,49.085765,0 -125.456585,49.090133,0 -125.455995,49.090548,0 -125.453846,49.090033,0 -125.452825,49.090515,0 -125.452284,49.094808,0 -125.450946,49.096827,0 -125.453585,49.103619,0 -125.457087,49.106439,0 -125.454317,49.108619,0 -125.452912,49.110774,0 -125.45303,49.11209,0 -125.449742,49.112614,0 -125.449733,49.114182,0 -125.445025,49.115027,0 -125.437236,49.113035,0 -125.437264,49.114147,0 -125.439851,49.115006,0 -125.440032,49.116097,0 -125.436256,49.117167,0 -125.435716,49.119481,0 -125.433751,49.120412,0 -125.431921,49.121017,0 -125.428342,49.120901,0 -125.425466,49.122308,0 -125.424981,49.124673,0 -125.427624,49.128653,0 -125.419137,49.129641,0 -125.416654,49.131186,0 -125.416238,49.134515,0 -125.41864,49.139033,0 -125.417842,49.144882,0 -125.42251,49.15032,0 -125.421162,49.152655,0 -125.421369,49.155756,0 -125.419741,49.159052,0 -125.41197,49.161758,0 -125.406965,49.165271,0 -125.403495,49.166478,0 -125.399513,49.170108,0 -125.395638,49.178259,0 -125.397187,49.180031,0 -125.397417,49.183297,0 -125.402253,49.18703,0 -125.402501,49.190837,0 -125.400961,49.192032,0 -125.398499,49.192955,0 -125.393331,49.19325,0 -125.391052,49.19389,0 -125.383992,49.198633,0 -125.380666,49.199767,0 -125.375133,49.204937,0 -125.375755,49.207727,0 -125.373713,49.208864,0 -125.367232,49.214558,0 -125.367584,49.215648,0 -125.370116,49.21737,0 -125.370036,49.218762,0 -125.368534,49.220707,0 -125.364988,49.222581,0 -125.363653,49.227116,0 -125.359501,49.230475,0 -125.358761,49.233796,0 -125.355807,49.238,0 -125.359517,49.242271,0 -125.365514,49.243112,0 -125.368867,49.244815,0 -125.370587,49.246306,0 -125.370885,49.248307,0 -125.36959,49.250506,0 -125.371044,49.253778,0 -125.371209,49.255915,0 -125.370122,49.25988,0 -125.370835,49.26294,0 -125.367021,49.265799,0 -125.364513,49.271331,0 -125.364249,49.274547,0 -125.360423,49.275703,0 -125.357679,49.278693,0 -125.347892,49.283189,0 -125.348032,49.285403,0 -125.345862,49.286601,0 -125.344572,49.288943,0 -125.34271,49.29056,0 -125.335497,49.291101,0 -125.328814,49.292383,0 -125.31263,49.291228,0 -125.301788,49.292449,0 -125.296682,49.294961,0 -125.294537,49.298259,0 -125.29189,49.299037,0 -125.284928,49.29733,0 -125.271888,49.295096,0 -125.266384,49.294659,0 -125.26393,49.293775,0 -125.250542,49.291933,0 -125.233926,49.288797,0 -125.222023,49.290794,0 -125.215819,49.28988,0 -125.210183,49.289996,0 -125.204025,49.288806,0 -125.192146,49.288872,0 -125.183208,49.285174,0 -125.178302,49.28095,0 -125.1694,49.278575,0 -125.163877,49.278387,0 -125.152232,49.279135,0 -125.146279,49.280248,0 -125.131781,49.278129,0 -125.126836,49.27914,0 -125.116498,49.278798,0 -125.114001,49.279397,0 -125.110967,49.281718,0 -125.105856,49.283281,0 -125.098927,49.283568,0 -125.086803,49.280513,0 -125.082155,49.279786,0 -125.07677,49.279343,0 -125.071424,49.279986,0 -125.066469,49.279313,0 -125.0614,49.278395,0 -125.05199,49.274964,0 -125.042846,49.274036,0 -125.039417,49.274653,0 -125.033448,49.27919,0 -125.031813,49.279644,0 -125.023374,49.279986,0 -125.021252,49.280944,0 -125.018744,49.283099,0 -125.017137,49.283606,0 -125.008457,49.283777,0 -125.001755,49.282717,0 -124.998173,49.281447,0 -124.991567,49.280024,0 -124.988698,49.279844,0 -124.979596,49.283906,0 -124.97612,49.286191,0 -124.96801,49.287052,0 -124.957061,49.290896,0 -124.947631,49.295407,0 -124.943248,49.295721,0 -124.933172,49.295091,0 -124.927258,49.296329,0 -124.925965,49.29592,0 -124.923761,49.293835,0 -124.922065,49.293228,0 -124.90902,49.293283,0 -124.903209,49.289364,0 -124.897389,49.287634,0 -124.893382,49.282022,0 -124.886746,49.278234,0 -124.874937,49.27338,0 -124.87275,49.270864,0 -124.870907,49.269712,0 -124.863847,49.268849,0 -124.856377,49.269054,0 -124.853201,49.266602,0 -124.850713,49.266855,0 -124.848353,49.268163,0 -124.845689,49.267936,0 -124.835321,49.262782,0 -124.827672,49.26104,0 -124.816354,49.259517,0 -124.813567,49.257465,0 -124.801003,49.26231,0 -124.787487,49.265909,0 -124.777309,49.266552,0 -124.766629,49.266418,0 -124.757215,49.264339,0 -124.747749,49.265812,0 -124.743534,49.264815,0 -124.733414,49.266649,0 -124.732,49.266147,0 -124.730305,49.264417,0 -124.728113,49.263721,0 -124.722563,49.265069,0 -124.715233,49.264678,0 -124.712037,49.26001,0 -124.71153,49.257105,0 -124.707251,49.251654,0 -124.705299,49.250929,0 -124.695918,49.249477,0 -124.687067,49.245887,0 -124.685392,49.24571,0 -124.679355,49.247332,0 -124.676126,49.247485,0 -124.671305,49.248753,0 -124.667474,49.248745,0 -124.662367,49.247591,0 -124.660829,49.248449,0 -124.660693,49.251135,0 -124.671219,49.260432,0 -124.673759,49.265082,0 -124.673548,49.267914,0 -124.675649,49.270932,0 -124.674829,49.273878,0 -124.675196,49.282729,0 -124.668079,49.28925,0 -124.663497,49.291067,0 -124.660451,49.291547,0 -124.658083,49.291362,0 -124.653346,49.290411,0 -124.644636,49.289887,0 -124.631263,49.287893,0 -124.628567,49.288069,0 -124.621591,49.289708,0 -124.618704,49.289474,0 -124.616234,49.287986,0 -124.61053,49.288983,0 -124.601429,49.286933,0 -124.596317,49.287465,0 -124.592868,49.285735,0 -124.590512,49.285482,0 -124.587875,49.286158,0 -124.584254,49.288589,0 -124.578203,49.288913,0 -124.573336,49.292757,0 -124.566255,49.293822,0 -124.562612,49.295333,0 -124.559736,49.297455,0 -124.558184,49.300009,0 -124.554568,49.302725,0 -124.543774,49.307993,0 -124.537863,49.309726,0 -124.530587,49.311076,0 -124.524432,49.3108,0 -124.511878,49.312471,0 -124.503227,49.311402,0 -124.495786,49.309752,0 -124.487708,49.306482,0 -124.473543,49.306227,0 -124.458098,49.303377,0 -124.451783,49.304111,0 -124.45002,49.30578,0 -124.449977,49.310031,0 -124.449184,49.312168,0 -124.442872,49.319835,0 -124.441556,49.322599,0 -124.442275,49.339236,0 -124.441541,49.348496,0 -124.444113,49.351027,0 -124.439741,49.35506,0 -124.439402,49.356094,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
