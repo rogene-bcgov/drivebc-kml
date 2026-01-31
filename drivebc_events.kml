@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-01-31 07:08:34 UTC
+        Last updated: 2026-01-31 07:39:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (294)</name>
+      <name>🚗 Traffic Events (295)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3532,6 +3532,31 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Maintenance at Massey Tunnel (Richmond). Until Sat Jan 31 at 5:00 AM PST. Right lane closed. Last updated Fri Jan 30 at 11:06 PM PST. (DBC-86747)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Massey Tunnel&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T23:06:19-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86747
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.075821,49.122079,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Barnston Island, in both directions. Utility work at Dyke Road. Until Fri Jan 30. From 8:00 AM to 5:00 PM PST on weekdays. Single lane alternating traffic. Last updated Mon Jan 12 at 2:04 PM PST. (DBC-85905)</name>
           <description>
     &lt;![CDATA[
@@ -4785,31 +4810,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between United Blvd and Port Mann Bridge (Coquitlam). Right lane is blocked. Expect minor delays. The right Surrey exit lane is blocked. Next update time Fri Jan 30 at 11:15 PM PST. Last updated Fri Jan 30 at 10:45 PM PST. (DBC-86745)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between United Blvd and Port Mann Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T22:45:51-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-30T23:15:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86745
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.81652,49.22506,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between East Boundary of Mount Revelstoke National Park and Albert Canyon Chain Up Area for 1.2 km (1 to 2 km east of East Boundary of Mount Revelstoke National Park). Until Fri Jan 30 at 11:45 PM PST. Single lane alternating traffic. Watch for traffic control. Last updated Fri Jan 30 at 10:44 PM PST. (DBC-86746)</name>
           <description>
     &lt;![CDATA[
@@ -4834,6 +4834,31 @@
             <tessellate>1</tessellate>
             <coordinates>-117.886505,51.125211,0 -117.886441,51.125497,0 -117.886252,51.125836,0 -117.885924,51.126219,0 -117.885405,51.126591,0 -117.883986,51.12742,0 -117.883443,51.127886,0 -117.883111,51.128505,0 -117.883059,51.128904,0 -117.883277,51.130447,0 -117.883284,51.130872,0 -117.883161,51.131345,0 -117.882568,51.132799,0 -117.882478,51.133311,0 -117.882432,51.134245,0 -117.882343,51.134783,0 -117.882279,51.134942,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between United Blvd and Port Mann Bridge (Coquitlam). Right lane is blocked. Expect minor delays. The right Surrey exit lane is blocked. Next update time Fri Jan 30 at 11:45 PM PST. Last updated Fri Jan 30 at 11:15 PM PST. (DBC-86745)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between United Blvd and Port Mann Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T23:15:39-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-01-30T23:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86745
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.81652,49.22506,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 6 NS. Watch for falling rocks between Summit Lake Provincial Park and Springer Creek Rd for 60.6 km (4 km north of Summit Lake to 1 km south of Slocan). Watch for falling ice. Debris on roadway. Last updated Sat Jan 24 at 3:49 PM PST. (DBC-86078)</name>
