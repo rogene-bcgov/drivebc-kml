@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-01 09:06:00 UTC
+        Last updated: 2026-02-01 09:41:01 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (268)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4197,6 +4197,31 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 91A, eastbound. Stalled vehicle between Boundary Rd and Howes St (Richmond). Left lane is blocked. Next update time Sun Feb 1 at 2:00 AM PST. Last updated Sun Feb 1 at 1:34 AM PST. (DBC-86778)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Boundary Rd and Howes St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-01T01:34:28-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-01T02:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86778
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.960209,49.182258,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Silver Skagit Rd, in both directions. Washout at Flood Hope Rd. Road closed. Next update time Tue Feb 3 at 10:00 AM PST. Last updated Tue Jan 27 at 10:23 AM PST. (DBC-84723)</name>
           <description>
     &lt;![CDATA[
@@ -5080,6 +5105,32 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.199421,49.505642,0 -121.198825,49.508139,0 -121.199271,49.509309,0 -121.206114,49.519053,0 -121.207106,49.521345,0 -121.204341,49.532518,0 -121.201232,49.537407,0 -121.196796,49.542387,0 -121.190423,49.556424,0 -121.186475,49.562619,0 -121.183425,49.565969,0 -121.181777,49.573377,0 -121.165527,49.587239,0 -121.164123,49.589293,0 -121.16291,49.593515,0 -121.16079,49.595662,0 -121.156695,49.596972,0 -121.137316,49.599225,0 -121.13479,49.598916,0 -121.128995,49.59665,0 -121.123745,49.595445,0 -121.108218,49.595217,0 -121.098157,49.592318,0 -121.094565,49.591864,0 -121.09076,49.591939,0 -121.086483,49.592799,0 -121.082679,49.594482,0 -121.07621,49.598376,0 -121.069382,49.601358,0 -121.063572,49.605188,0 -121.052931,49.61007,0 -121.042269,49.619275,0 -121.037265,49.622468,0 -121.030802,49.625363,0 -121.01971,49.62873,0 -121.010535,49.633367,0 -121.002958,49.6405,0 -121.001712,49.643856,0 -121.004584,49.65355,0 -121.012603,49.663148,0 -121.0147,49.675056,0 -121.013209,49.683089,0 -121.013086,49.692185,0 -121.010896,49.696611,0 -121.011948,49.700072,0 -121.016088,49.706714,0 -121.016431,49.708378,0 -121.015868,49.709939,0 -121.012509,49.713718,0 -121.012132,49.715164,0 -121.013532,49.720631,0 -121.012146,49.731072,0 -121.012461,49.744506,0 -121.011135,49.753555,0 -121.008948,49.756169,0 -121.002658,49.759619,0 -120.994708,49.767513,0 -120.992523,49.772443,0 -120.990887,49.774445,0 -120.973061,49.786816,0 -120.971609,49.788562,0 -120.970438,49.792416,0 -120.968322,49.795546,0 -120.954142,49.803969,0 -120.946366,49.812124,0 -120.939156,49.821047,0 -120.938049,49.826939,0 -120.933316,49.832103,0 -120.932795,49.837582,0 -120.928059,49.845486,0 -120.925797,49.847428,0 -120.918971,49.851349,0 -120.91644,49.854553,0 -120.916199,49.857828,0 -120.919041,49.865238,0 -120.916017,49.873245,0 -120.913219,49.876246,0 -120.901465,49.882937,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Mount Washington Rd. Limited visibility with fog between Alpine Rd and Dove Creek Rd for 17.7 km (Mount Washington Ski Resort). Last updated Sun Feb 1 at 1:09 AM PST. (DBCRCON-240060)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Mount Washington Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Alpine Rd and Dove Creek Rd for 17.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mount Washington Ski Resort&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-01T01:09:48-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-240060
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.298405,49.740564,0 -125.298678,49.738457,0 -125.300056,49.736883,0 -125.29894,49.735207,0 -125.299842,49.733374,0 -125.297903,49.731228,0 -125.294926,49.729313,0 -125.29374,49.729175,0 -125.292583,49.730343,0 -125.295291,49.735488,0 -125.290511,49.731482,0 -125.288852,49.731153,0 -125.286098,49.731669,0 -125.281397,49.732732,0 -125.278696,49.734156,0 -125.275953,49.734566,0 -125.272046,49.736075,0 -125.257677,49.738123,0 -125.246776,49.742383,0 -125.242042,49.745287,0 -125.239055,49.745671,0 -125.235476,49.746818,0 -125.234842,49.747445,0 -125.235131,49.748808,0 -125.234385,49.749448,0 -125.229497,49.749584,0 -125.227223,49.749091,0 -125.220382,49.746187,0 -125.214277,49.744826,0 -125.208739,49.741435,0 -125.203519,49.739846,0 -125.196259,49.736612,0 -125.191629,49.735783,0 -125.182817,49.732007,0 -125.176175,49.730788,0 -125.164546,49.725314,0 -125.148623,49.72008,0 -125.146263,49.720019,0 -125.142316,49.720903,0 -125.134994,49.720405,0 -125.132502,49.720991,0 -125.128893,49.72012,0 -125.122307,49.720361,0 -125.119339,49.7226,0 -125.117594,49.725611,0 -125.115883,49.726961,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
