@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-02 23:04:52 UTC
+        Last updated: 2026-02-02 23:40:04 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (262)</name>
+      <name>🚗 Traffic Events (260)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -592,6 +592,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 29. Watch for slippery sections between Halfway River Bridge and the end of Highway 29 for 35.2 km (38 to 73 km north of Hudson's Hope). Last updated Mon Feb 2 at 4:11 PM MST. (DBCRCON-240447)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 29&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Halfway River Bridge and the end of Highway 29 for 35.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 73 to 38 km north of Hudson's Hope&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T15:11:34-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-240447
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.444417,56.220837,0 -121.428758,56.226592,0 -121.427114,56.228695,0 -121.426588,56.234163,0 -121.418524,56.237374,0 -121.407427,56.239402,0 -121.401699,56.241487,0 -121.366725,56.244401,0 -121.354006,56.245913,0 -121.335821,56.244337,0 -121.323227,56.245315,0 -121.315977,56.243547,0 -121.310744,56.244016,0 -121.299637,56.248233,0 -121.290085,56.253272,0 -121.268077,56.263231,0 -121.265752,56.264762,0 -121.261142,56.269638,0 -121.254342,56.272232,0 -121.246701,56.274678,0 -121.242852,56.275127,0 -121.230013,56.275627,0 -121.222097,56.274134,0 -121.217888,56.274938,0 -121.215199,56.27737,0 -121.215394,56.279824,0 -121.217998,56.28208,0 -121.223785,56.283469,0 -121.223543,56.284681,0 -121.225107,56.286259,0 -121.225281,56.287361,0 -121.223538,56.288507,0 -121.217787,56.288486,0 -121.215771,56.289153,0 -121.214744,56.290029,0 -121.214382,56.292659,0 -121.213704,56.293355,0 -121.209115,56.295226,0 -121.207837,56.295192,0 -121.203736,56.294184,0 -121.203245,56.291821,0 -121.201524,56.290661,0 -121.199398,56.290122,0 -121.196494,56.290101,0 -121.172973,56.301313,0 -121.171853,56.301598,0 -121.167154,56.302555,0 -121.168284,56.302209,0 -121.166676,56.302786,0 -121.167694,56.302362,0 -121.166258,56.303046,0 -121.162334,56.305974,0 -121.161364,56.306333,0 -121.157625,56.306848,0 -121.154897,56.306673,0 -121.1334,56.301075,0 -121.127685,56.300732,0 -121.122244,56.299666,0 -121.110272,56.296192,0 -121.107093,56.296546,0 -121.102011,56.297919,0 -121.093273,56.303678,0 -121.084728,56.307488,0 -121.069236,56.310549,0 -121.066692,56.310287,0 -121.060362,56.307644,0 -121.050754,56.304662,0 -121.02645,56.304592,0 -121.016662,56.305259,0 -121.006278,56.305357,0 -121.005098,56.305672,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Cariboo Connector). Watch for slippery sections between Olson Rd and Mitchell Rd for 125.8 km (24 km south of Hixon to 22 km north of Prince George). Last updated Mon Feb 2 at 11:18 AM PST. (DBCRCON-240433)</name>
           <description>
     &lt;![CDATA[
@@ -852,7 +878,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway). Watch for slippery sections between Taylor Bridge and Kitt Rd for 78.2 km (Taylor to 24 km south of Wonowon). Last updated Mon Feb 2 at 12:06 PM MST. (DBCRCON-240332)</name>
+          <name>Highway 97 (Alaska Highway). Watch for slippery sections between Taylor Bridge and Kitt Rd for 78.2 km (Taylor to 24 km south of Wonowon). Last updated Mon Feb 2 at 4:11 PM MST. (DBCRCON-240332)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -864,7 +890,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Taylor Bridge and Kitt Rd for 78.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 24 km south of Wonowon to Taylor&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T11:06:28-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T15:11:17-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -1397,32 +1423,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 43. Watch for slippery sections between the start of Highway 43 and Alpine Way for 33.7 km (Sparwood to Elkford). Last updated Mon Feb 2 at 7:22 AM MST. (DBCRCON-240407)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 43&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 43 and Alpine Way for 33.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Elkford to Sparwood&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T06:22:42-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-240407
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-114.87882,49.733084,0 -114.879429,49.734291,0 -114.882085,49.736421,0 -114.883343,49.745893,0 -114.886199,49.749524,0 -114.887106,49.761594,0 -114.889261,49.766025,0 -114.891023,49.767271,0 -114.89716,49.768733,0 -114.900368,49.770223,0 -114.901215,49.771381,0 -114.901422,49.799763,0 -114.900548,49.803575,0 -114.900557,49.820278,0 -114.901288,49.86306,0 -114.887971,49.889033,0 -114.888531,49.89056,0 -114.895,49.897667,0 -114.906155,49.906243,0 -114.907517,49.908017,0 -114.908336,49.927002,0 -114.909141,49.9293,0 -114.912556,49.934383,0 -114.915287,49.952852,0 -114.913326,49.958105,0 -114.915322,49.961219,0 -114.919269,49.972664,0 -114.921483,49.975733,0 -114.923267,49.980061,0 -114.923503,49.983834,0 -114.922811,49.986695,0 -114.92381,49.989933,0 -114.920738,49.992586,0 -114.918049,49.998658,0 -114.91671,50.021798,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 31. Slushy sections between Goat Range Provincial Pk and Junction Hwy 23 for 57.5 km (Trout Lake). Compact snow. Last updated Mon Feb 2 at 11:22 AM PST. (DBCRCON-240296)</name>
           <description>
     &lt;![CDATA[
@@ -1709,32 +1709,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Cecil Lake Rd (Highway 103). Watch for slippery sections between Rose Prairie Rd and the end of Cecil Lake Rd (Highway 103) for 61.2 km (22 km west of Cecil Lake to British Columbia and Alberta Border). Last updated Mon Feb 2 at 12:06 PM MST. (DBCRCON-240256)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Cecil Lake Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Rose Prairie Rd and the end of Cecil Lake Rd (Highway 103) for 61.2 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Alberta Border to 22 km west of Cecil Lake&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T11:06:28-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-240256
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-120.847582,56.289915,0 -120.794309,56.28987,0 -120.787471,56.291154,0 -120.783965,56.291098,0 -120.763961,56.287747,0 -120.757804,56.284459,0 -120.752206,56.283035,0 -120.747104,56.282629,0 -120.741934,56.28361,0 -120.736446,56.284008,0 -120.728078,56.281168,0 -120.723109,56.280325,0 -120.716813,56.280275,0 -120.709162,56.28154,0 -120.706776,56.281565,0 -120.699352,56.279618,0 -120.689561,56.27803,0 -120.680053,56.277769,0 -120.67683,56.276706,0 -120.666228,56.269858,0 -120.661662,56.268809,0 -120.64652,56.274786,0 -120.638864,56.275685,0 -120.636978,56.276662,0 -120.636652,56.302653,0 -120.636013,56.30382,0 -120.634421,56.304577,0 -120.482112,56.30469,0 -120.480218,56.304995,0 -120.478556,56.306615,0 -120.478457,56.332296,0 -120.477263,56.333354,0 -120.475024,56.333798,0 -120.226955,56.333727,0 -120.206866,56.332188,0 -120.188414,56.333722,0 -120.111487,56.333693,0 -120.110206,56.33344,0 -120.109657,56.332748,0 -120.109629,56.319242,0 -120.008102,56.319226,0 -120.0056,56.318795,0 -120.001449,56.316947,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Hemlock Valley Rd. Watch for slippery sections between the start of Hemlock Valley Rd and End of Route for 13.8 km (13 km south of Sasquatch Mountain Resort to Sasquatch Mountain Resort). Last updated Mon Feb 2 at 4:54 AM PST. (DBCRCON-240376)</name>
           <description>
     &lt;![CDATA[
@@ -1865,7 +1839,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 77. Watch for slippery sections between Junction Highway 97 and the end of Highway 77 for 137.6 km (British Columbia and Northwest Territory Border). Compact snow. Last updated Mon Feb 2 at 12:06 PM MST. (DBCRCON-240324)</name>
+          <name>Highway 77. Watch for slippery sections between Junction Highway 97 and the end of Highway 77 for 137.6 km (British Columbia and Northwest Territory Border). Compact snow. Last updated Mon Feb 2 at 4:04 PM MST. (DBCRCON-240324)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1877,7 +1851,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Junction Highway 97 and the end of Highway 77 for 137.6 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Northwest Territory Border&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T11:06:28-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T15:04:39-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -1891,7 +1865,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway). Watch for slippery sections between Sikanni Rd and Pipeline Mainline for 8.0 km (Fort Nelson). Compact snow. Last updated Mon Feb 2 at 12:06 PM MST. (DBCRCON-240333)</name>
+          <name>Highway 97 (Alaska Highway). Watch for slippery sections between Sikanni Rd and Pipeline Mainline for 8.0 km (Fort Nelson). Compact snow. Last updated Mon Feb 2 at 4:04 PM MST. (DBCRCON-240333)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1903,7 +1877,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Sikanni Rd and Pipeline Mainline for 8.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Fort Nelson&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T11:06:28-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T15:04:39-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3401,32 +3375,6 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 4, in both directions. Maintenance between Port Alberni Summit and Chalet Rd for 9.5 km (Cathedral Grove). Vehicles/loads over 3.2m in width must contact Permit Centre for instructions at 1-800-559-9688. Daytime travel restriction, must travel between 9pm-5am. Next update time Mon Feb 2 at 3:00 PM PST. Last updated Mon Jan 26 at 10:08 AM PST. (DBC-52953)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Port Alberni Summit and Chalet Rd for 9.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Cathedral Grove&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-26T10:08:54-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-02T15:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-52953
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.671007,49.260139,0 -124.671073,49.260211,0 -124.671219,49.260432,0 -124.671936,49.261523,0 -124.672459,49.262455,0 -124.672666,49.262873,0 -124.673759,49.265082,0 -124.673832,49.265408,0 -124.673812,49.265741,0 -124.673439,49.267158,0 -124.673435,49.267553,0 -124.673548,49.267914,0 -124.673738,49.268237,0 -124.675087,49.269712,0 -124.675378,49.270189,0 -124.675566,49.270588,0 -124.675649,49.270932,0 -124.67565,49.271252,0 -124.67556,49.271735,0 -124.674829,49.273878,0 -124.674827,49.274328,0 -124.674983,49.275682,0 -124.675006,49.276328,0 -124.674893,49.27841,0 -124.675426,49.28079,0 -124.675486,49.28106,0 -124.675513,49.281416,0 -124.675459,49.281874,0 -124.675326,49.282448,0 -124.675196,49.282729,0 -124.675013,49.282966,0 -124.674759,49.283193,0 -124.673908,49.283766,0 -124.672598,49.284649,0 -124.672261,49.284958,0 -124.670232,49.287187,0 -124.668996,49.288284,0 -124.668637,49.288687,0 -124.668385,49.288969,0 -124.668079,49.28925,0 -124.66768,49.28951,0 -124.667289,49.289704,0 -124.66594,49.290263,0 -124.665174,49.290531,0 -124.663497,49.291067,0 -124.662664,49.291225,0 -124.661063,49.291489,0 -124.660451,49.291547,0 -124.659894,49.291538,0 -124.659256,49.291476,0 -124.658083,49.291362,0 -124.656253,49.291126,0 -124.655519,49.291032,0 -124.655136,49.290982,0 -124.65452,49.290825,0 -124.653653,49.290483,0 -124.653346,49.290411,0 -124.652977,49.290365,0 -124.652562,49.29037,0 -124.651704,49.290469,0 -124.651188,49.290471,0 -124.649619,49.290339,0 -124.646381,49.289852,0 -124.644636,49.289887,0 -124.643959,49.289798,0 -124.643172,49.289629,0 -124.642753,49.289539,0 -124.641806,49.289193,0 -124.641276,49.289099,0 -124.63946,49.289079,0 -124.638773,49.289009,0 -124.637057,49.2887,0 -124.636458,49.28863,0 -124.634338,49.288547,0 -124.633643,49.288482,0 -124.633076,49.288362,0 -124.631719,49.287955,0 -124.631263,49.287893,0 -124.630844,49.287881,0 -124.629629,49.287927,0 -124.629081,49.287974,0 -124.628567,49.288069,0 -124.622969,49.289552,0 -124.622241,49.289664,0 -124.621591,49.289708,0 -124.620644,49.289694,0 -124.619201,49.289577,0 -124.618704,49.289474,0 -124.618272,49.289301,0 -124.618023,49.289141,0 -124.617211,49.288358,0 -124.616938,49.288181,0 -124.616586,49.28804,0 -124.616234,49.287986,0 -124.615866,49.287981,0 -124.615528,49.288031,0 -124.613908,49.288456,0 -124.613487,49.288531,0 -124.612186,49.288633,0 -124.611809,49.288703,0 -124.61115,49.28891,0 -124.61082,49.288976,0 -124.61053,49.288983,0 -124.609358,49.288819,0 -124.60859,49.288761,0 -124.608146,49.288687,0 -124.607649,49.288544,0 -124.606923,49.288226,0 -124.606474,49.288108,0 -124.605927,49.288009,0 -124.604229,49.287825,0 -124.603761,49.287729,0 -124.603285,49.287563,0 -124.602672,49.287233,0 -124.602317,49.287089,0 -124.601947,49.286999,0 -124.601429,49.286933,0 -124.600855,49.286901,0 -124.600372,49.286913,0 -124.600006,49.286971,0 -124.598653,49.287368,0 -124.598089,49.287458,0 -124.597412,49.287513,0 -124.59677,49.287519,0 -124.596317,49.287465,0 -124.595909,49.28735,0 -124.595594,49.287213,0 -124.593312,49.28592,0 -124.592868,49.285735,0 -124.592487,49.28563,0 -124.591775,49.285503,0 -124.591282,49.285442,0 -124.590909,49.285437,0 -124.590568,49.285476,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 5, southbound. Construction work between Miledge Creek Bridge and Thunder River Rd for 4.9 km (17 to 12 km north of Blue River). Until Sat Nov 7 at 5:00 PM PST. From 8:00 AM to 5:00 PM PST on weekdays. Watch for traffic control. Single Lane Alternating Traffic will only be required for a brief duration during mobilization and demobilization of materials and equipment. Last updated Mon Jan 26 at 10:10 AM PST. (DBC-82106)</name>
           <description>
     &lt;![CDATA[
@@ -4012,6 +3960,32 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           <Point>
             <coordinates>-122.943207,49.236978,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 4, in both directions. Maintenance between Port Alberni Summit and Chalet Rd for 9.5 km (Cathedral Grove). Vehicles/loads over 3.2m in width must contact Permit Centre for instructions at 1-800-559-9688. Daytime travel restriction, must travel between 9pm-5am. Next update time Mon Feb 9 at 3:00 PM PST. Last updated Mon Feb 2 at 3:12 PM PST. (DBC-52953)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Port Alberni Summit and Chalet Rd for 9.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Cathedral Grove&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T15:12:43-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-09T15:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-52953
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.671007,49.260139,0 -124.671073,49.260211,0 -124.671219,49.260432,0 -124.671936,49.261523,0 -124.672459,49.262455,0 -124.672666,49.262873,0 -124.673759,49.265082,0 -124.673832,49.265408,0 -124.673812,49.265741,0 -124.673439,49.267158,0 -124.673435,49.267553,0 -124.673548,49.267914,0 -124.673738,49.268237,0 -124.675087,49.269712,0 -124.675378,49.270189,0 -124.675566,49.270588,0 -124.675649,49.270932,0 -124.67565,49.271252,0 -124.67556,49.271735,0 -124.674829,49.273878,0 -124.674827,49.274328,0 -124.674983,49.275682,0 -124.675006,49.276328,0 -124.674893,49.27841,0 -124.675426,49.28079,0 -124.675486,49.28106,0 -124.675513,49.281416,0 -124.675459,49.281874,0 -124.675326,49.282448,0 -124.675196,49.282729,0 -124.675013,49.282966,0 -124.674759,49.283193,0 -124.673908,49.283766,0 -124.672598,49.284649,0 -124.672261,49.284958,0 -124.670232,49.287187,0 -124.668996,49.288284,0 -124.668637,49.288687,0 -124.668385,49.288969,0 -124.668079,49.28925,0 -124.66768,49.28951,0 -124.667289,49.289704,0 -124.66594,49.290263,0 -124.665174,49.290531,0 -124.663497,49.291067,0 -124.662664,49.291225,0 -124.661063,49.291489,0 -124.660451,49.291547,0 -124.659894,49.291538,0 -124.659256,49.291476,0 -124.658083,49.291362,0 -124.656253,49.291126,0 -124.655519,49.291032,0 -124.655136,49.290982,0 -124.65452,49.290825,0 -124.653653,49.290483,0 -124.653346,49.290411,0 -124.652977,49.290365,0 -124.652562,49.29037,0 -124.651704,49.290469,0 -124.651188,49.290471,0 -124.649619,49.290339,0 -124.646381,49.289852,0 -124.644636,49.289887,0 -124.643959,49.289798,0 -124.643172,49.289629,0 -124.642753,49.289539,0 -124.641806,49.289193,0 -124.641276,49.289099,0 -124.63946,49.289079,0 -124.638773,49.289009,0 -124.637057,49.2887,0 -124.636458,49.28863,0 -124.634338,49.288547,0 -124.633643,49.288482,0 -124.633076,49.288362,0 -124.631719,49.287955,0 -124.631263,49.287893,0 -124.630844,49.287881,0 -124.629629,49.287927,0 -124.629081,49.287974,0 -124.628567,49.288069,0 -124.622969,49.289552,0 -124.622241,49.289664,0 -124.621591,49.289708,0 -124.620644,49.289694,0 -124.619201,49.289577,0 -124.618704,49.289474,0 -124.618272,49.289301,0 -124.618023,49.289141,0 -124.617211,49.288358,0 -124.616938,49.288181,0 -124.616586,49.28804,0 -124.616234,49.287986,0 -124.615866,49.287981,0 -124.615528,49.288031,0 -124.613908,49.288456,0 -124.613487,49.288531,0 -124.612186,49.288633,0 -124.611809,49.288703,0 -124.61115,49.28891,0 -124.61082,49.288976,0 -124.61053,49.288983,0 -124.609358,49.288819,0 -124.60859,49.288761,0 -124.608146,49.288687,0 -124.607649,49.288544,0 -124.606923,49.288226,0 -124.606474,49.288108,0 -124.605927,49.288009,0 -124.604229,49.287825,0 -124.603761,49.287729,0 -124.603285,49.287563,0 -124.602672,49.287233,0 -124.602317,49.287089,0 -124.601947,49.286999,0 -124.601429,49.286933,0 -124.600855,49.286901,0 -124.600372,49.286913,0 -124.600006,49.286971,0 -124.598653,49.287368,0 -124.598089,49.287458,0 -124.597412,49.287513,0 -124.59677,49.287519,0 -124.596317,49.287465,0 -124.595909,49.28735,0 -124.595594,49.287213,0 -124.593312,49.28592,0 -124.592868,49.285735,0 -124.592487,49.28563,0 -124.591775,49.285503,0 -124.591282,49.285442,0 -124.590909,49.285437,0 -124.590568,49.285476,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Exit 19: Lynn Valley Rd and Exit 21: Mountain Hwy for 2.0 km (North Vancouver - City to North Vancouver - District). Until Thu Feb 5 at 5:00 AM PST. Right lane is closed in both directions. 10pm Fri Jan 30th- 5am Sat Jan 31: Eastbound right lane closure only.
@@ -6279,32 +6253,6 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.685142,49.023024,0 -119.676778,49.021794,0 -119.671721,49.019908,0 -119.66959,49.0201,0 -119.667997,49.020878,0 -119.657975,49.028473,0 -119.643799,49.046608,0 -119.623166,49.0574,0 -119.617266,49.063257,0 -119.61107,49.067102,0 -119.6056,49.072647,0 -119.598698,49.077929,0 -119.596321,49.082462,0 -119.589816,49.087161,0 -119.586329,49.087832,0 -119.5685,49.082417,0 -119.55734,49.076859,0 -119.536531,49.060277,0 -119.532897,49.058568,0 -119.529512,49.054195,0 -119.509722,49.046649,0 -119.487363,49.033813,0 -119.484294,49.033569,0 -119.479419,49.035522,0 -119.476082,49.03576,0 -119.470793,49.032767,0 -119.463485,49.033017,0 -119.462835,49.030372,0 -119.458871,49.028226,0 -119.447385,49.029018,0 -119.442577,49.028096,0 -119.432669,49.027835,0 -119.431541,49.028539,0 -119.429797,49.036587,0 -119.42772,49.037723,0 -119.425077,49.03752,0 -119.423732,49.036628,0 -119.421338,49.032749,0 -119.417174,49.028359,0 -119.416365,49.024247,0 -119.409468,49.018947,0 -119.409431,49.017977,0 -119.411202,49.0154,0 -119.412125,49.011539,0 -119.410643,49.009416,0 -119.409529,49.009618,0 -119.409041,49.011533,0 -119.403505,49.014961,0 -119.40362,49.017971,0 -119.402974,49.017723,0 -119.401226,49.014171,0 -119.405072,49.01097,0 -119.400511,49.012877,0 -119.393669,49.01238,0 -119.391407,49.013243,0 -119.391207,49.014556,0 -119.393104,49.016658,0 -119.391803,49.022537,0 -119.39272,49.025373,0 -119.391406,49.027604,0 -119.392067,49.031347,0 -119.391401,49.031957,0 -119.379192,49.026586,0 -119.377866,49.024795,0 -119.377295,49.022511,0 -119.375304,49.02055,0 -119.375101,49.017976,0 -119.372345,49.014968,0 -119.368795,49.013224,0 -119.367247,49.013504,0 -119.367966,49.020315,0 -119.366746,49.020774,0 -119.363085,49.016265,0 -119.358791,49.015361,0 -119.349563,49.011013,0 -119.347231,49.008093,0 -119.344269,49.006678,0 -119.340623,49.006474,0 -119.33622,49.007566,0 -119.332082,49.006654,0 -119.324819,49.00596,0 -119.321853,49.004507,0 -119.317327,49.004356,0 -119.31342,49.005664,0 -119.308875,49.009468,0 -119.30206,49.01201,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 4. Heavy rain between Sutton Pass Summit and the end of Highway 4 for 85.5 km (2 km west of Sutton Pass Summit to Qualicum Beach). Last updated Mon Feb 2 at 6:10 AM PST. (DBCRCON-240400)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HEAVY_DOWNPOUR&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Sutton Pass Summit and the end of Highway 4 for 85.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Qualicum Beach to 2 km west of Sutton Pass Summit&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T06:10:51-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-240400
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.347749,49.285624,0 -125.345862,49.286601,0 -125.344572,49.288943,0 -125.342317,49.290672,0 -125.335497,49.291101,0 -125.328814,49.292383,0 -125.31263,49.291228,0 -125.301313,49.292543,0 -125.296682,49.294961,0 -125.294537,49.298259,0 -125.29189,49.299037,0 -125.284928,49.29733,0 -125.271888,49.295096,0 -125.266384,49.294659,0 -125.26393,49.293775,0 -125.250542,49.291933,0 -125.233926,49.288797,0 -125.222023,49.290794,0 -125.215819,49.28988,0 -125.210183,49.289996,0 -125.204025,49.288806,0 -125.192146,49.288872,0 -125.183208,49.285174,0 -125.178302,49.28095,0 -125.1694,49.278575,0 -125.163877,49.278387,0 -125.152232,49.279135,0 -125.146279,49.280248,0 -125.131781,49.278129,0 -125.126836,49.27914,0 -125.116498,49.278798,0 -125.114001,49.279397,0 -125.110967,49.281718,0 -125.105856,49.283281,0 -125.098927,49.283568,0 -125.086803,49.280513,0 -125.082155,49.279786,0 -125.07677,49.279343,0 -125.071424,49.279986,0 -125.066469,49.279313,0 -125.0614,49.278395,0 -125.05199,49.274964,0 -125.042846,49.274036,0 -125.039417,49.274653,0 -125.033448,49.27919,0 -125.031813,49.279644,0 -125.023374,49.279986,0 -125.021252,49.280944,0 -125.018744,49.283099,0 -125.017137,49.283606,0 -125.008457,49.283777,0 -125.001755,49.282717,0 -124.998173,49.281447,0 -124.991567,49.280024,0 -124.988698,49.279844,0 -124.979596,49.283906,0 -124.97612,49.286191,0 -124.96801,49.287052,0 -124.957061,49.290896,0 -124.947631,49.295407,0 -124.943248,49.295721,0 -124.933172,49.295091,0 -124.927258,49.296329,0 -124.925965,49.29592,0 -124.923761,49.293835,0 -124.922065,49.293228,0 -124.90902,49.293283,0 -124.903209,49.289364,0 -124.897389,49.287634,0 -124.893382,49.282022,0 -124.886746,49.278234,0 -124.874937,49.27338,0 -124.87275,49.270864,0 -124.870907,49.269712,0 -124.863847,49.268849,0 -124.856377,49.269054,0 -124.853201,49.266602,0 -124.850713,49.266855,0 -124.848353,49.268163,0 -124.845689,49.267936,0 -124.835321,49.262782,0 -124.827672,49.26104,0 -124.816354,49.259517,0 -124.813567,49.257465,0 -124.801003,49.26231,0 -124.787487,49.265909,0 -124.777309,49.266552,0 -124.766629,49.266418,0 -124.757215,49.264339,0 -124.747749,49.265812,0 -124.743534,49.264815,0 -124.733414,49.266649,0 -124.732,49.266147,0 -124.730305,49.264417,0 -124.728113,49.263721,0 -124.722563,49.265069,0 -124.715233,49.264678,0 -124.712037,49.26001,0 -124.71153,49.257105,0 -124.707251,49.251654,0 -124.705299,49.250929,0 -124.695918,49.249477,0 -124.687067,49.245887,0 -124.685392,49.24571,0 -124.679355,49.247332,0 -124.676126,49.247485,0 -124.671305,49.248753,0 -124.667474,49.248745,0 -124.662367,49.247591,0 -124.660829,49.248449,0 -124.660693,49.251135,0 -124.671219,49.260432,0 -124.673759,49.265082,0 -124.673548,49.267914,0 -124.675649,49.270932,0 -124.674829,49.273878,0 -124.675196,49.282729,0 -124.668079,49.28925,0 -124.663497,49.291067,0 -124.660451,49.291547,0 -124.658083,49.291362,0 -124.653346,49.290411,0 -124.644636,49.289887,0 -124.631263,49.287893,0 -124.628567,49.288069,0 -124.621591,49.289708,0 -124.618704,49.289474,0 -124.616234,49.287986,0 -124.61053,49.288983,0 -124.601429,49.286933,0 -124.596317,49.287465,0 -124.592868,49.285735,0 -124.590512,49.285482,0 -124.587875,49.286158,0 -124.584254,49.288589,0 -124.578203,49.288913,0 -124.573336,49.292757,0 -124.566255,49.293822,0 -124.562612,49.295333,0 -124.559736,49.297455,0 -124.558184,49.300009,0 -124.554568,49.302725,0 -124.543774,49.307993,0 -124.537863,49.309726,0 -124.530587,49.311076,0 -124.524432,49.3108,0 -124.511878,49.312471,0 -124.503227,49.311402,0 -124.495786,49.309752,0 -124.487708,49.306482,0 -124.473543,49.306227,0 -124.458098,49.303377,0 -124.451783,49.304111,0 -124.45002,49.30578,0 -124.449977,49.310031,0 -124.449184,49.312168,0 -124.442872,49.319835,0 -124.441556,49.322599,0 -124.442275,49.339236,0 -124.441541,49.348496,0 -124.444113,49.351027,0 -124.439741,49.35506,0 -124.439402,49.356094,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
