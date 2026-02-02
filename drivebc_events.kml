@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-02 15:12:44 UTC
+        Last updated: 2026-02-02 15:43:07 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (272)</name>
+      <name>🚗 Traffic Events (273)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -3305,6 +3305,32 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. There will be ditching between Eagle River at Kay Falls Bridge and Enchanted Forest Ftg Rd for 2.8 km (32 to 29 km west of Revelstoke). Starting Mon Feb 2 at 11:00 AM PST until Mon Feb 2 at 1:00 PM PST. Watch for traffic control personnel. Expect 20 - minute delays. Last updated Mon Feb 2 at 7:32 AM PST. (DBC-86810)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Eagle River at Kay Falls Bridge and Enchanted Forest Ftg Rd for 2.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 29 to 32 km west of Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T07:32:09-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86810
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.606598,50.975575,0 -118.606123,50.975311,0 -118.605281,50.974843,0 -118.604504,50.974492,0 -118.604096,50.974333,0 -118.603838,50.974233,0 -118.602793,50.973906,0 -118.601957,50.97371,0 -118.59999,50.973451,0 -118.598236,50.97322,0 -118.597333,50.972981,0 -118.596849,50.972794,0 -118.595744,50.972366,0 -118.594905,50.972116,0 -118.590278,50.971183,0 -118.589554,50.971076,0 -118.588823,50.971018,0 -118.587874,50.971002,0 -118.585239,50.970957,0 -118.582033,50.970822,0 -118.577741,50.970545,0 -118.577418,50.970506,0 -118.576986,50.970454,0 -118.574455,50.96993,0 -118.573749,50.969842,0 -118.572986,50.969806,0 -118.572125,50.969829,0 -118.571617,50.969876,0 -118.571266,50.969908,0 -118.570704,50.970016,0 -118.570424,50.97007,0 -118.569341,50.970368,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway), in both directions. Bridge maintenance between Beaver Rd and Owens Rd for 17.6 km (12 km west of Smithers to Witset (Moricetown)). Until Mon Feb 2 at 4:00 PM PST. Single lane alternating traffic. Expect delays. Bridge maintenance, single alternating traffic, expect delays. Watch for construction workers. Last updated Mon Feb 2 at 7:03 AM PST. (DBC-86808)</name>
           <description>
     &lt;![CDATA[
@@ -3891,7 +3917,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </Point>
         </Placemark>
         <Placemark>
-          <name>Westham Island Bridge, in both directions. Travel advisory in effect between River Road and Trim Road. Vehicle incident. Bridge is closed. Https://buzzer.Translink.Ca/westham-island-bridge. Next update time Mon Feb 2 at 9:00 AM PST. Last updated Wed Jan 28 at 8:47 AM PST. (DBC-86343)</name>
+          <name>Westham Island Bridge, in both directions. Travel advisory in effect between River Road and Trim Road. Vehicle incident. Bridge is closed. Https://buzzer.Translink.Ca/westham-island-bridge. Next update time Fri Feb 6 at 9:00 AM PST. Last updated Mon Feb 2 at 7:12 AM PST. (DBC-86343)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3903,8 +3929,8 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
     &lt;b&gt;Location:&lt;/b&gt; Between River Road and Trim Road&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-28T08:47:23-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-02T09:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T07:12:48-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-06T09:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-86343
@@ -4146,7 +4172,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway). Vehicle recovery planned between 250 Rd and 285 Rd (19 km north of Fort St John). Starting Mon Feb 2 at 8:30 AM MST until Mon Feb 2 at 12:00 PM MST. Please slow down for crews and equipment working. Last updated Mon Feb 2 at 7:57 AM MST. (DBC-86807)</name>
+          <name>Highway 97 (Alaska Highway). Vehicle recovery between 250 Rd and 285 Rd (19 km north of Fort St John). Until Mon Feb 2 at 12:00 PM MST. Please slow down for crews and equipment working. Last updated Mon Feb 2 at 7:57 AM MST. (DBC-86807)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -4158,7 +4184,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
     &lt;b&gt;Location:&lt;/b&gt; Between 250 Rd and 285 Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 19 km north of Fort St John&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T06:57:05-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T07:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
