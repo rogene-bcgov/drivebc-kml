@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-03 21:08:24 UTC
+        Last updated: 2026-02-03 21:43:21 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (259)</name>
+      <name>🚗 Traffic Events (260)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -174,7 +174,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Upper Arrow Lake Ferry, in both directions. There is a mechanical issue at Upper Arrow Lake Ferry (Upper Arrow Lake). Ferry is currently out of service. Next update time Tue Feb 3 at 1:00 PM PST. Last updated Tue Feb 3 at 10:58 AM PST. (DBC-86838)</name>
+          <name>Upper Arrow Lake Ferry, in both directions. There is a mechanical issue at Upper Arrow Lake Ferry (Upper Arrow Lake). Ferry is currently out of service. Next update time Tue Feb 3 at 3:00 PM PST. Last updated Tue Feb 3 at 1:12 PM PST. (DBC-86838)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -186,8 +186,8 @@
     &lt;b&gt;Location:&lt;/b&gt; At Upper Arrow Lake Ferry&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Upper Arrow Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T10:58:17-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-03T13:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T13:12:25-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-03T15:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-86838
@@ -882,6 +882,32 @@
           <Point>
             <coordinates>-122.937318,49.146236,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Stalled vehicle between Exit 32: Steveston Hwy and Blundell Rd for 2.5 km (Richmond). Lane blocked. Next update time Tue Feb 3 at 2:00 PM PST. Last updated Tue Feb 3 at 1:27 PM PST. (DBC-86869)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 32: Steveston Hwy and Blundell Rd for 2.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T13:27:44-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-03T14:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86869
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.086593,49.133477,0 -123.086576,49.134359,0 -123.086575,49.134561,0 -123.086569,49.136154,0 -123.086593,49.14045,0 -123.086542,49.155778,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97B. Watch for falling rocks between Black Rd and Highway 1 for 5.6 km (Salmon Arm). Watch for falling ice. Last updated Tue Feb 3 at 11:06 AM PST. (DBC-86790)</name>
@@ -2602,32 +2628,6 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 7 (Lougheed Highway), in both directions. Shoulder maintenance between Harrison Mills Bridge and Mill Rd for 0.9 km (Kent). Until Tue Feb 3 at 1:30 PM PST. Single lane alternating traffic. Last updated Tue Feb 3 at 6:24 AM PST. (DBC-86843)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Harrison Mills Bridge and Mill Rd for 0.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kent&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T08:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86843
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.945366,49.24524,0 -121.944841,49.244809,0 -121.944216,49.244295,0 -121.943061,49.243512,0 -121.941308,49.242615,0 -121.939505,49.24189,0 -121.939234,49.241811,0 -121.938124,49.241492,0 -121.936705,49.241141,0 -121.935423,49.240886,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Island Highway), southbound. Maintenance between Browns Bay Rd and Orange Point Rd for 15.4 km (Campbell River). Until Fri Mar 6 at 4:00 PM PST. Single lane alternating traffic. Watch for traffic control. Lane Closure. Last updated Mon Jan 12 at 9:26 AM PST. (DBC-85883)</name>
           <description>
     &lt;![CDATA[
@@ -3725,6 +3725,32 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.344871,49.779851,0 -124.344803,49.779852,0 -124.3436,49.77987,0 -124.343,49.779911,0 -124.34257,49.77994,0 -124.342001,49.779938,0 -124.341738,49.779913,0 -124.341416,49.779884,0 -124.340784,49.77978,0 -124.337777,49.779117,0 -124.337066,49.77896,0 -124.331379,49.777707,0 -124.330447,49.777576,0 -124.329501,49.777491,0 -124.329404,49.777482,0 -124.328832,49.777431,0 -124.328593,49.777409,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 101, westbound. Paving operations between Oceanview Dr and Lower Rd for 0.4 km (2 km west of Gibsons). Until Sat Feb 7. From 7:30 AM to 4:30 PM PST on weekdays and Saturday. Shoulder closed. Last updated Tue Feb 3 at 1:20 PM PST. (DBC-86868)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Lower Rd and Oceanview Dr for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km west of Gibsons&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T13:20:53-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86868
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.562591,49.405944,0 -123.561694,49.405899,0 -123.560844,49.405886,0 -123.558903,49.405916,0 -123.55697,49.405946,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
