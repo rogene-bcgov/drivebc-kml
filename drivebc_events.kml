@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-04 07:44:09 UTC
+        Last updated: 2026-02-04 08:08:44 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (239)</name>
+      <name>🚗 Traffic Events (238)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -426,31 +426,6 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-123.481231,48.821154,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 15 (Pacific Highway), northbound. Utility work at Golden Ears Way (Surrey). Until Tue Feb 3. From 10:00 PM to 4:00 AM PST on Monday and Tuesday. Right turn lane closed. Last updated Mon Feb 2 at 9:48 AM PST. (DBC-86816)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Golden Ears Way&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-02T09:48:46-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86816
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.734617,49.17632,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -1456,6 +1431,58 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 14, westbound. Tree pruning between Humpback Rd and Kangaroo Rd for 2.3 km (Metchosin to Langford). For the next two weeks. Last updated Tue Feb 3 at 3:42 PM PST. (DBC-86883)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 14&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Kangaroo Rd and Humpback Rd for 2.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Metchosin to Langford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86883
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.585797,48.410866,0 -123.585769,48.411348,0 -123.58567,48.413042,0 -123.585486,48.413923,0 -123.585352,48.414395,0 -123.585269,48.414685,0 -123.585207,48.414906,0 -123.585126,48.415105,0 -123.585002,48.415409,0 -123.584666,48.415904,0 -123.584561,48.416016,0 -123.58426,48.416339,0 -123.58364,48.416793,0 -123.58103,48.418292,0 -123.580839,48.418439,0 -123.580561,48.418653,0 -123.580246,48.418995,0 -123.579557,48.419741,0 -123.578934,48.420278,0 -123.575307,48.422647,0 -123.574994,48.422851,0 -123.573231,48.423733,0 -123.572631,48.424061,0 -123.571792,48.424521,0 -123.571403,48.424795,0 -123.570007,48.425778,0 -123.569491,48.42603,0 -123.568892,48.42622,0 -123.56831,48.426321,0 -123.568188,48.426328,0 -123.567758,48.426351,0 -123.567735,48.426348,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), southbound. Utility work between Jackass Summit and Blue Lake Rd for 12.3 km (Jackass Mountain Summit). Until Fri Mar 6. From 8:00 AM to 4:00 PM PST on weekdays. Right lane is blocked. Watch for traffic control. Last updated Tue Feb 3 at 3:42 PM PST. (DBC-86882)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Blue Lake Rd and Jackass Summit for 12.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Jackass Mountain Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86882
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.503656,49.994087,0 -121.504362,49.995181,0 -121.504899,49.996013,0 -121.506936,49.998988,0 -121.508036,50.000592,0 -121.508737,50.001409,0 -121.509276,50.001931,0 -121.510088,50.002563,0 -121.511851,50.003726,0 -121.513844,50.005041,0 -121.514541,50.005674,0 -121.515037,50.00627,0 -121.515367,50.006968,0 -121.515746,50.008222,0 -121.516106,50.008823,0 -121.516467,50.009275,0 -121.523282,50.015323,0 -121.523892,50.015911,0 -121.524557,50.016785,0 -121.525045,50.017701,0 -121.525413,50.018863,0 -121.527921,50.026777,0 -121.528302,50.027603,0 -121.528452,50.027867,0 -121.533096,50.036038,0 -121.53362,50.036961,0 -121.539618,50.04751,0 -121.540563,50.04917,0 -121.541248,50.050702,0 -121.541681,50.052271,0 -121.541923,50.05314,0 -121.542703,50.056078,0 -121.544181,50.061645,0 -121.544496,50.063144,0 -121.544709,50.065732,0 -121.544833,50.066274,0 -121.545549,50.068325,0 -121.546652,50.073234,0 -121.547042,50.075028,0 -121.547232,50.075445,0 -121.547265,50.075482,0 -121.547479,50.075722,0 -121.547726,50.075887,0 -121.547865,50.07598,0 -121.548755,50.076412,0 -121.54962,50.077144,0 -121.549644,50.077161,0 -121.550111,50.077576,0 -121.550897,50.079157,0 -121.551446,50.081137,0 -121.551453,50.081161,0 -121.552253,50.083121,0 -121.553347,50.084746,0 -121.553712,50.085138,0 -121.554359,50.085678,0 -121.554889,50.086407,0 -121.555545,50.087581,0 -121.555944,50.088903,0 -121.556184,50.091182,0 -121.556145,50.091651,0 -121.555872,50.09267,0 -121.555844,50.092773,0 -121.555671,50.093419,0 -121.555664,50.093568,0 -121.55565,50.093874,0 -121.555727,50.094175,0 -121.555896,50.094842,0 -121.555926,50.095321,0 -121.555813,50.095763,0 -121.555236,50.096753,0 -121.555179,50.097379,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Alaska Highway), in both directions. Bridge maintenance planned at Taylor Bridge (Taylor). Starting Fri Feb 6 at 7:00 PM MST until Sat Feb 7 at 3:30 AM MST. Single lane alternating traffic will be in effect. Welding on Taylor Bridge, drive posted speed limits and slow for crews and equipment. Contact DRM 250-262-2600 if load is overweight or wider than 12.6'. Last updated Tue Feb 3 at 4:38 PM MST. (DBC-86880)</name>
           <description>
     &lt;![CDATA[
@@ -1479,58 +1506,6 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           <Point>
             <coordinates>-120.672229,56.137458,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 14, westbound. Tree pruning planned between Humpback Rd and Kangaroo Rd for 2.3 km (Metchosin to Langford). Starting Wed Feb 4 for the next two weeks. Last updated Tue Feb 3 at 3:42 PM PST. (DBC-86883)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 14&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Kangaroo Rd and Humpback Rd for 2.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Metchosin to Langford&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T15:42:08-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86883
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.585797,48.410866,0 -123.585769,48.411348,0 -123.58567,48.413042,0 -123.585486,48.413923,0 -123.585352,48.414395,0 -123.585269,48.414685,0 -123.585207,48.414906,0 -123.585126,48.415105,0 -123.585002,48.415409,0 -123.584666,48.415904,0 -123.584561,48.416016,0 -123.58426,48.416339,0 -123.58364,48.416793,0 -123.58103,48.418292,0 -123.580839,48.418439,0 -123.580561,48.418653,0 -123.580246,48.418995,0 -123.579557,48.419741,0 -123.578934,48.420278,0 -123.575307,48.422647,0 -123.574994,48.422851,0 -123.573231,48.423733,0 -123.572631,48.424061,0 -123.571792,48.424521,0 -123.571403,48.424795,0 -123.570007,48.425778,0 -123.569491,48.42603,0 -123.568892,48.42622,0 -123.56831,48.426321,0 -123.568188,48.426328,0 -123.567758,48.426351,0 -123.567735,48.426348,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), southbound. Utility work planned between Jackass Summit and Blue Lake Rd for 12.3 km (Jackass Mountain Summit). Starting Wed Feb 4 until Fri Mar 6. From 8:00 AM to 4:00 PM PST on weekdays. Right lane will be blocked. Watch for traffic control personnel. Last updated Tue Feb 3 at 3:42 PM PST. (DBC-86882)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Blue Lake Rd and Jackass Summit for 12.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Jackass Mountain Summit&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T15:42:05-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86882
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.503656,49.994087,0 -121.504362,49.995181,0 -121.504899,49.996013,0 -121.506936,49.998988,0 -121.508036,50.000592,0 -121.508737,50.001409,0 -121.509276,50.001931,0 -121.510088,50.002563,0 -121.511851,50.003726,0 -121.513844,50.005041,0 -121.514541,50.005674,0 -121.515037,50.00627,0 -121.515367,50.006968,0 -121.515746,50.008222,0 -121.516106,50.008823,0 -121.516467,50.009275,0 -121.523282,50.015323,0 -121.523892,50.015911,0 -121.524557,50.016785,0 -121.525045,50.017701,0 -121.525413,50.018863,0 -121.527921,50.026777,0 -121.528302,50.027603,0 -121.528452,50.027867,0 -121.533096,50.036038,0 -121.53362,50.036961,0 -121.539618,50.04751,0 -121.540563,50.04917,0 -121.541248,50.050702,0 -121.541681,50.052271,0 -121.541923,50.05314,0 -121.542703,50.056078,0 -121.544181,50.061645,0 -121.544496,50.063144,0 -121.544709,50.065732,0 -121.544833,50.066274,0 -121.545549,50.068325,0 -121.546652,50.073234,0 -121.547042,50.075028,0 -121.547232,50.075445,0 -121.547265,50.075482,0 -121.547479,50.075722,0 -121.547726,50.075887,0 -121.547865,50.07598,0 -121.548755,50.076412,0 -121.54962,50.077144,0 -121.549644,50.077161,0 -121.550111,50.077576,0 -121.550897,50.079157,0 -121.551446,50.081137,0 -121.551453,50.081161,0 -121.552253,50.083121,0 -121.553347,50.084746,0 -121.553712,50.085138,0 -121.554359,50.085678,0 -121.554889,50.086407,0 -121.555545,50.087581,0 -121.555944,50.088903,0 -121.556184,50.091182,0 -121.556145,50.091651,0 -121.555872,50.09267,0 -121.555844,50.092773,0 -121.555671,50.093419,0 -121.555664,50.093568,0 -121.55565,50.093874,0 -121.555727,50.094175,0 -121.555896,50.094842,0 -121.555926,50.095321,0 -121.555813,50.095763,0 -121.555236,50.096753,0 -121.555179,50.097379,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 28. Utility work between Western Mine Rd and Cedar Creek Rd for 2.8 km (32 to 29 km west of Campbell River). Shoulder closed. Watch for traffic control. Last updated Thu Jan 15 at 11:33 AM PST. (DBC-86115)</name>
@@ -2991,7 +2966,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Night time construction work planned between Blundell Rd and Rice Mill Rd for 3.4 km (Richmond). Starting Wed Feb 4. From 10:00 AM to 5:30 AM PST on Wednesday, Thursday and Friday. Right lane will be blocked. Shoulder will be closed. Last updated Wed Jan 21 at 5:18 PM PST. (DBC-86387)</name>
+          <name>Highway 99, southbound. Night time construction work between Blundell Rd and Rice Mill Rd for 3.4 km (Richmond). From 10:00 AM to 5:30 AM PST on Wednesday, Thursday and Friday. Right lane is blocked. Shoulder closed. Last updated Wed Jan 21 at 5:18 PM PST. (DBC-86387)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3003,7 +2978,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
     &lt;b&gt;Location:&lt;/b&gt; Between Rice Mill Rd and Blundell Rd for 3.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-21T17:18:29-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6307,7 +6282,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.473844-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.567767-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6344,7 +6319,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.479979-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.574313-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6381,7 +6356,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.468234-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.557043-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6418,7 +6393,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.485542-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.581607-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6455,7 +6430,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.448870-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.505911-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6495,7 +6470,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.455750-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.527620-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6532,7 +6507,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.491794-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.588036-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6569,7 +6544,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.498184-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.594907-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6606,7 +6581,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.512963-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.608275-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6643,7 +6618,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.435275-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.472028-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6680,7 +6655,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.442185-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.491028-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6720,7 +6695,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.461865-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.540077-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6757,7 +6732,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.504909-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.601358-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -6794,7 +6769,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T23:00:55.428083-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T00:00:55.460415-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
