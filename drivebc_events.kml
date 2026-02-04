@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-04 15:13:05 UTC
+        Last updated: 2026-02-04 15:44:06 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,34 +120,9 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (262)</name>
+      <name>🚗 Traffic Events (266)</name>
       <Folder>
         <name>Construction Events</name>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Pavement patching is planned. At Donald Rd (24 km west of Golden). Starting Wed Feb 4 at 8:30 AM MST until Wed Feb 4 at 12:00 PM MST. Left lane will be closed. Watch for slow moving Vehicle. Last updated Wed Feb 4 at 7:37 AM MST. (DBC-86909)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Donald Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 24 km west of Golden&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T06:37:59-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86909
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-117.170172,51.486502,0</coordinates>
-          </Point>
-        </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway), eastbound. Bridge maintenance planned at Exit 173: Old Hope Princeton Way (Hope). Starting Wed Feb 4 at 8:00 AM PST until Wed Feb 4 at 5:30 PM PST. Right lane will be closed. Right lane closed on Floods Hope OP East bound. Lane closure. Just east of Exit 170. Last updated Tue Feb 3 at 2:52 PM PST. (DBC-86876)</name>
           <description>
@@ -274,6 +249,31 @@
             <tessellate>1</tessellate>
             <coordinates>-123.049703,49.326579,0 -123.046732,49.325659,0 -123.045835,49.325228,0 -123.045234,49.324826,0 -123.044676,49.324243,0 -123.044631,49.324186,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Pavement patching underway at Donald Rd (24 km west of Golden). Until Wed Feb 4 at 12:00 PM MST. Left lane is closed. Watch for slow moving Vehicle. Last updated Wed Feb 4 at 7:37 AM MST. (DBC-86909)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Donald Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 24 km west of Golden&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T07:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86909
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-117.170172,51.486502,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 93, northbound. Utility work between Farstad Way and Sheep Creek Rd for 3.6 km (Skookumchuck). Until Thu Feb 5. From 8:00 AM to 5:00 PM MST on Sunday, Monday, Tuesday, Wednesday and Thursday. Lane Closure. Watch for traffic control. There will be no work on the highway on Sunday, February 1, 2026. Last updated Tue Jan 27 at 4:46 PM MST. (DBC-86571)</name>
@@ -2759,7 +2759,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road maintenance work planned at Meadows in the Sky Pkwy (Revelstoke). Starting Wed Feb 4 at 7:30 AM PST until Wed Feb 4 at 4:30 PM PST. Watch for traffic control personnel. Westbound lane will be closed. Diminished lane. Last updated Wed Feb 4 at 6:50 AM PST. (DBC-86910)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Road maintenance work at Meadows in the Sky Pkwy (Revelstoke). Until Wed Feb 4 at 4:30 PM PST. Watch for traffic control. Westbound lane closure. Diminished lane. Last updated Wed Feb 4 at 6:50 AM PST. (DBC-86910)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2771,7 +2771,7 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
     &lt;b&gt;Location:&lt;/b&gt; At Meadows in the Sky Pkwy&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T06:50:29-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T07:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3560,6 +3560,32 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97 (Cariboo Connector). Bridge maintenance planned between Liden Rd and Big Bar Rd for 1.7 km (7 to 6 km north of Clinton). Starting Wed Feb 4 at 8:00 AM PST until Thu Feb 5 at 4:00 PM PST. From 8:00 AM to 4:00 PM PST on Wednesday and Thursday. Lane Closure. Both Southbound Lanes at CN Rail overpass closed. Watch for traffic control. Last updated Wed Feb 4 at 7:19 AM PST. (DBC-86911)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Liden Rd and Big Bar Rd for 1.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 7 km north of Clinton&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T07:19:38-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86911
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.504315,51.132641,0 -121.500477,51.134926,0 -121.499952,51.135295,0 -121.499332,51.135834,0 -121.4988,51.136526,0 -121.498681,51.136773,0 -121.498493,51.137161,0 -121.498464,51.137221,0 -121.498303,51.137992,0 -121.498361,51.1388,0 -121.498381,51.138848,0 -121.498714,51.139678,0 -121.499314,51.140505,0 -121.499877,51.141181,0 -121.499984,51.14131,0 -121.500041,51.141378,0 -121.500216,51.141588,0 -121.500457,51.141877,0 -121.500777,51.14226,0 -121.500917,51.142429,0 -121.501109,51.142738,0 -121.501217,51.142913,0 -121.501376,51.143302,0 -121.501417,51.143382,0 -121.501443,51.14347,0 -121.501545,51.143861,0 -121.50155,51.143951,0 -121.501863,51.145453,0 -121.501918,51.145716,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 101, eastbound. Utility work planned between Seacot Way and Cemetery Rd for 0.5 km (Gibsons). Starting Sat Feb 7 until Fri Feb 20. From 8:00 AM to 4:00 PM PST on weekdays. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Fri Jan 30 at 4:51 PM PST. (DBC-86739)</name>
           <description>
     &lt;![CDATA[
@@ -4022,6 +4048,31 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.489194,52.972914,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 17, westbound. Vehicle incident at Tannery Rd (Surrey). Right lane is blocked. End of the merge lane from Tannery Road is blocked. Next update time Wed Feb 4 at 8:30 AM PST. Last updated Wed Feb 4 at 7:38 AM PST. (DBC-86912)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Tannery Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T07:38:59-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-04T08:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86912
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.893002,49.196199,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5309,32 +5360,6 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Mount Washington Rd. Fog patches between Alpine Rd and Dove Creek Rd for 17.7 km (Mount Washington Ski Resort). Last updated Wed Feb 4 at 5:13 AM PST. (DBCRCON-240727)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Mount Washington Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Alpine Rd and Dove Creek Rd for 17.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mount Washington Ski Resort&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T05:13:45-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-240727
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.298405,49.740564,0 -125.298678,49.738457,0 -125.300056,49.736883,0 -125.29894,49.735207,0 -125.299842,49.733374,0 -125.297903,49.731228,0 -125.294926,49.729313,0 -125.29374,49.729175,0 -125.292583,49.730343,0 -125.295291,49.735488,0 -125.290511,49.731482,0 -125.288852,49.731153,0 -125.286098,49.731669,0 -125.281397,49.732732,0 -125.278696,49.734156,0 -125.275953,49.734566,0 -125.272046,49.736075,0 -125.257677,49.738123,0 -125.246776,49.742383,0 -125.242042,49.745287,0 -125.239055,49.745671,0 -125.235476,49.746818,0 -125.234842,49.747445,0 -125.235131,49.748808,0 -125.234385,49.749448,0 -125.229497,49.749584,0 -125.227223,49.749091,0 -125.220382,49.746187,0 -125.214277,49.744826,0 -125.208739,49.741435,0 -125.203519,49.739846,0 -125.196259,49.736612,0 -125.191629,49.735783,0 -125.182817,49.732007,0 -125.176175,49.730788,0 -125.164546,49.725314,0 -125.148623,49.72008,0 -125.146263,49.720019,0 -125.142316,49.720903,0 -125.134994,49.720405,0 -125.132502,49.720991,0 -125.128893,49.72012,0 -125.122307,49.720361,0 -125.119339,49.7226,0 -125.117594,49.725611,0 -125.115883,49.726961,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 16 (Yellowhead Highway). Limited visibility with fog between Station Rd W and Wakefield Rd for 67.3 km (1 km west of Witset (Moricetown) to 16 km east of Telkwa). Water pooling. Last updated Wed Feb 4 at 6:49 AM PST. (DBCRCON-240784)</name>
           <description>
     &lt;![CDATA[
@@ -5540,6 +5565,84 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.621309,49.841727,0 -125.622327,49.845182,0 -125.62451,49.846741,0 -125.626237,49.849232,0 -125.62223,49.85486,0 -125.622641,49.858103,0 -125.627205,49.865306,0 -125.628198,49.870928,0 -125.630082,49.873404,0 -125.630684,49.876382,0 -125.633049,49.87871,0 -125.641791,49.88154,0 -125.651167,49.890072,0 -125.653657,49.894014,0 -125.653447,49.907009,0 -125.648393,49.917097,0 -125.645506,49.921404,0 -125.64388,49.922374,0 -125.645122,49.925672,0 -125.643725,49.928567,0 -125.637878,49.930073,0 -125.635442,49.931179,0 -125.632091,49.933359,0 -125.629756,49.936046,0 -125.627383,49.937398,0 -125.624741,49.938151,0 -125.621553,49.938263,0 -125.619275,49.939537,0 -125.614924,49.938955,0 -125.612832,49.939474,0 -125.609632,49.939186,0 -125.608368,49.940087,0 -125.605116,49.940772,0 -125.603433,49.942075,0 -125.600247,49.943335,0 -125.597606,49.946863,0 -125.59703,49.949914,0 -125.588696,49.953579,0 -125.583249,49.958929,0 -125.582602,49.961045,0 -125.578081,49.96506,0 -125.576516,49.968795,0 -125.569505,49.970718,0 -125.56706,49.970138,0 -125.564823,49.968038,0 -125.563007,49.967589,0 -125.560433,49.968502,0 -125.555022,49.96884,0 -125.550444,49.969743,0 -125.545263,49.969442,0 -125.540838,49.967334,0 -125.540628,49.96371,0 -125.538535,49.962422,0 -125.535248,49.961533,0 -125.527871,49.96076,0 -125.515665,49.962135,0 -125.501766,49.961256,0 -125.499512,49.963115,0 -125.498776,49.965473,0 -125.497655,49.965929,0 -125.493714,49.964996,0 -125.491519,49.965318,0 -125.484163,49.96479,0 -125.475206,49.967834,0 -125.470019,49.968921,0 -125.462081,49.969258,0 -125.457797,49.969886,0 -125.455707,49.97081,0 -125.451184,49.970208,0 -125.447738,49.970744,0 -125.444143,49.973193,0 -125.44128,49.976801,0 -125.438017,49.978371,0 -125.436014,49.980112,0 -125.437237,49.982921,0 -125.436857,49.983513,0 -125.432568,49.984302,0 -125.428054,49.984475,0 -125.424525,49.985707,0 -125.422663,49.986901,0 -125.413823,49.987305,0 -125.409876,49.989072,0 -125.406951,49.986607,0 -125.404672,49.986011,0 -125.401994,49.9869,0 -125.400902,49.988152,0 -125.399529,49.988486,0 -125.397351,49.988128,0 -125.39426,49.98642,0 -125.38473,49.98385,0 -125.381005,49.983987,0 -125.379238,49.986014,0 -125.381967,49.990933,0 -125.380602,49.993992,0 -125.381087,49.996399,0 -125.379298,49.997482,0 -125.373968,49.998216,0 -125.371888,50.001301,0 -125.369098,50.003497,0 -125.356551,50.007743,0 -125.356585,50.010788,0 -125.353233,50.020352,0 -125.353314,50.024488,0 -125.351947,50.0266,0 -125.350236,50.027684,0 -125.334219,50.033927,0 -125.329718,50.036133,0 -125.327357,50.036416,0 -125.317331,50.03581,0 -125.31326,50.036104,0 -125.302407,50.040096,0 -125.301004,50.039838,0 -125.296681,50.037176,0 -125.288921,50.037598,0 -125.285361,50.036636,0 -125.281611,50.03476,0 -125.27838,50.034476,0 -125.275032,50.033434,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19A (Island Highway). Fog patches between Jamieson Rd and Glenmore Rd for 58.5 km (12 km south of Buckley Bay Ferry Terminal to 11 km south of Campbell River). Last updated Wed Feb 4 at 7:24 AM PST. (DBCRCON-240796)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Jamieson Rd and Glenmore Rd for 58.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 km south of Campbell River to 12 km south of Buckley Bay Ferry Terminal&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T07:24:06-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-240796
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.755971,49.447315,0 -124.762116,49.447065,0 -124.767162,49.448153,0 -124.769999,49.449688,0 -124.778322,49.456535,0 -124.78863,49.458109,0 -124.795573,49.461866,0 -124.797972,49.463872,0 -124.798331,49.465285,0 -124.79474,49.470042,0 -124.795774,49.474661,0 -124.797254,49.476871,0 -124.810458,49.489512,0 -124.81596,49.491774,0 -124.819751,49.494579,0 -124.823293,49.49851,0 -124.823997,49.502745,0 -124.834908,49.512758,0 -124.836209,49.516394,0 -124.848728,49.52422,0 -124.859968,49.536704,0 -124.872523,49.555379,0 -124.872433,49.559986,0 -124.876796,49.567823,0 -124.881717,49.574979,0 -124.886644,49.584865,0 -124.887946,49.58948,0 -124.899828,49.605748,0 -124.901026,49.608368,0 -124.912807,49.61882,0 -124.913638,49.626616,0 -124.917901,49.628821,0 -124.920741,49.632314,0 -124.926225,49.63532,0 -124.930809,49.641274,0 -124.940835,49.644867,0 -124.94668,49.645916,0 -124.950911,49.647641,0 -124.953526,49.649714,0 -124.959839,49.652953,0 -124.962188,49.655272,0 -124.968199,49.65856,0 -124.969903,49.660951,0 -124.976593,49.667324,0 -124.981819,49.674846,0 -124.984896,49.680828,0 -124.990322,49.684177,0 -124.987997,49.686443,0 -124.990427,49.688521,0 -124.98986,49.692109,0 -124.990814,49.69362,0 -124.987701,49.695966,0 -124.989953,49.69913,0 -124.99131,49.699931,0 -124.990843,49.702708,0 -124.992553,49.708442,0 -124.993319,49.721441,0 -124.994344,49.725169,0 -124.998762,49.734459,0 -125.01789,49.759569,0 -125.026096,49.766658,0 -125.031271,49.769879,0 -125.033716,49.772572,0 -125.057427,49.783865,0 -125.062272,49.787273,0 -125.064971,49.790032,0 -125.07012,49.79275,0 -125.078303,49.796445,0 -125.111187,49.806385,0 -125.115019,49.808764,0 -125.134895,49.842323,0 -125.13495,49.843469,0 -125.133316,49.846307,0 -125.133458,49.853481,0 -125.130349,49.86976,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19 (Inland Island Highway). Fog patches between Duncan Bay Main and Cook Creek Rd for 56.7 km (12 km south of Campbell River to 28 km south of Cumberland). Last updated Wed Feb 4 at 7:24 AM PST. (DBCRCON-240795)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Duncan Bay Main and Cook Creek Rd for 56.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 28 km south of Cumberland to 12 km south of Campbell River&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T07:24:06-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-240795
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.190235,49.83008,0 -125.182757,49.819634,0 -125.173265,49.81207,0 -125.158519,49.798152,0 -125.146238,49.790583,0 -125.143547,49.788135,0 -125.141599,49.784266,0 -125.140094,49.773671,0 -125.138458,49.769882,0 -125.118627,49.741786,0 -125.097439,49.722036,0 -125.095432,49.717652,0 -125.095376,49.711223,0 -125.094621,49.707811,0 -125.092717,49.704812,0 -125.087088,49.69848,0 -125.062886,49.67787,0 -125.044852,49.664849,0 -125.036254,49.655869,0 -125.032791,49.653868,0 -125.016847,49.646788,0 -125.013245,49.644344,0 -125.010835,49.640962,0 -125.009298,49.633906,0 -125.007304,49.629937,0 -125.004417,49.626526,0 -124.990869,49.613993,0 -124.988852,49.610242,0 -124.986174,49.602644,0 -124.983182,49.598612,0 -124.976804,49.594392,0 -124.965192,49.589746,0 -124.933361,49.57829,0 -124.905625,49.566239,0 -124.897769,49.561757,0 -124.893411,49.558255,0 -124.876237,49.541743,0 -124.868727,49.531968,0 -124.852843,49.51845,0 -124.848922,49.508643,0 -124.846928,49.506127,0 -124.84041,49.500276,0 -124.838308,49.49434,0 -124.835681,49.490982,0 -124.831182,49.488579,0 -124.817799,49.486335,0 -124.811867,49.483987,0 -124.80892,49.48108,0 -124.80016,49.464176,0 -124.797677,49.461323,0 -124.791844,49.458307,0 -124.782518,49.456614,0 -124.778529,49.455168,0 -124.76901,49.447685,0 -124.746576,49.434064,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Mount Washington Rd. Fog patches between Alpine Rd and Dove Creek Rd for 17.7 km (Mount Washington Ski Resort). Last updated Wed Feb 4 at 7:24 AM PST. (DBCRCON-240727)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Mount Washington Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Alpine Rd and Dove Creek Rd for 17.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mount Washington Ski Resort&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T07:24:06-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-240727
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.298405,49.740564,0 -125.298678,49.738457,0 -125.300056,49.736883,0 -125.29894,49.735207,0 -125.299842,49.733374,0 -125.297903,49.731228,0 -125.294926,49.729313,0 -125.29374,49.729175,0 -125.292583,49.730343,0 -125.295291,49.735488,0 -125.290511,49.731482,0 -125.288852,49.731153,0 -125.286098,49.731669,0 -125.281397,49.732732,0 -125.278696,49.734156,0 -125.275953,49.734566,0 -125.272046,49.736075,0 -125.257677,49.738123,0 -125.246776,49.742383,0 -125.242042,49.745287,0 -125.239055,49.745671,0 -125.235476,49.746818,0 -125.234842,49.747445,0 -125.235131,49.748808,0 -125.234385,49.749448,0 -125.229497,49.749584,0 -125.227223,49.749091,0 -125.220382,49.746187,0 -125.214277,49.744826,0 -125.208739,49.741435,0 -125.203519,49.739846,0 -125.196259,49.736612,0 -125.191629,49.735783,0 -125.182817,49.732007,0 -125.176175,49.730788,0 -125.164546,49.725314,0 -125.148623,49.72008,0 -125.146263,49.720019,0 -125.142316,49.720903,0 -125.134994,49.720405,0 -125.132502,49.720991,0 -125.128893,49.72012,0 -125.122307,49.720361,0 -125.119339,49.7226,0 -125.117594,49.725611,0 -125.115883,49.726961,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
