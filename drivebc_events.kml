@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-04 20:06:03 UTC
+        Last updated: 2026-02-04 20:43:02 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (269)</name>
       <Folder>
         <name>Weather Condition Events</name>
         <Placemark>
@@ -1257,6 +1257,32 @@
           <Point>
             <coordinates>-120.201244,51.422224,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 23, in both directions. Vehicle recovery between Mt Begbie Rd and Begbie Rd for 0.9 km (Revelstoke to 1 km south of Revelstoke). Until Wed Feb 4 at 3:15 PM PST. Single lane alternating traffic. Watch for traffic control. Last updated Wed Feb 4 at 12:28 PM PST. (DBC-86932)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Mt Begbie Rd and Begbie Rd for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke to 1 km south of Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T12:28:12-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86932
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.225592,50.983291,0 -118.225551,50.984142,0 -118.225627,50.984875,0 -118.225684,50.985066,0 -118.226234,50.986915,0 -118.226378,50.987398,0 -118.227252,50.990336,0 -118.227472,50.990839,0 -118.228012,50.991548,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), southbound. Tree on road between Somenos Rd and Mays Rd for 1.5 km (5 to 4 km north of Duncan). Southbound lane closure. Last updated Wed Feb 4 at 5:13 AM PST. (DBC-86692)</name>
@@ -3002,6 +3028,32 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), southbound. Electrical maintenance between Brenton-Page Rd and Grouhel Rd for 0.1 km (3 to 2 km north of Ladysmith). Until Wed Feb 4 at 3:00 PM PST. Left lane is closed. Watch for traffic control. Speed reduction in place. Last updated Wed Feb 4 at 12:14 PM PST. (DBC-86931)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Grouhel Rd and Brenton-Page Rd for 0.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 to 2 km north of Ladysmith&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T12:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86931
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.85374,49.015249,0 -123.853862,49.015287,0 -123.854385,49.015501,0 -123.855054,49.015835,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 19A (Island Highway), northbound. Electrical maintenance at Goodyear Rd (9 km north of Qualicum Beach). Until Wed Feb 4 at 2:30 PM PST. Right turn lane closed. Watch for traffic control. Last updated Fri Jan 30 at 11:35 AM PST. (DBC-86717)</name>
           <description>
     &lt;![CDATA[
@@ -3024,6 +3076,31 @@ SPEED REDUCTION IN PLACE. Last updated Sat Jan 31 at 10:45 AM PST. (DBC-86757)</
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-124.586912,49.383617,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19/Tamarac. Electrical maintenance planned between Tamarac and 18th in Campbell River. Starting Wed Feb 4 at 7:00 PM PST until Thu Feb 5 at 3:00 AM PST. Watch for traffic control personnel. Last updated Wed Feb 4 at 12:35 PM PST. (DBC-86933)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19/Tamarac&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Tamarac and 18th in Campbell River&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-04T12:35:29-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86933
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-125.273584,50.033109,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
