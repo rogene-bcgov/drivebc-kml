@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-09 17:17:36 UTC
+        Last updated: 2026-02-09 17:45:28 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (258)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -2786,7 +2786,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97, northbound. Construction work planned between Airport Way and Old Vernon Rd for 2.1 km (Kelowna). Starting Mon Feb 9 at 9:30 AM PST until Mon Feb 9. Slow down for construction workers. Last updated Mon Feb 9 at 9:10 AM PST. (DBC-87136)</name>
+          <name>Highway 97, northbound. Construction work between Airport Way and Old Vernon Rd for 2.1 km (Kelowna). Until Mon Feb 9. Slow down for construction workers. Last updated Mon Feb 9 at 9:10 AM PST. (DBC-87136)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2798,7 +2798,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Airport Way and Old Vernon Rd for 2.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Kelowna&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T09:10:21-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T09:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2810,6 +2810,31 @@
             <tessellate>1</tessellate>
             <coordinates>-119.386312,49.95203,0 -119.38631,49.952391,0 -119.386269,49.954571,0 -119.386171,49.955052,0 -119.386042,49.955458,0 -119.384688,49.95889,0 -119.384458,49.959739,0 -119.384359,49.960397,0 -119.38438,49.962453,0 -119.3844,49.964395,0 -119.384407,49.965099,0 -119.384483,49.966341,0 -119.384665,49.967421,0 -119.384943,49.968549,0 -119.385258,49.969562,0 -119.385592,49.970368,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97. Utility work between McLeese Lake and Macalister. Until Sat Feb 28. From 6:30 AM to 7:00 PM PST on weekdays. Remediation work, please watch for signage and personnel. Expect minor delays. Last updated Mon Feb 9 at 9:41 AM PST. (DBC-87138)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between McLeese Lake and Macalister&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T09:41:04-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87138
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.367692,52.429125,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 10, eastbound. Construction work between 196 St and 200 St (1 km east of Langley - District). Until Mon Nov 15, 2027 at 7:00 AM PST. Access to side lane closed. Eastbound lanes unaffected. Watch for crews. Next update time Mon Nov 16 at 3:00 PM PST. Last updated Mon Jan 26 at 10:11 AM PST. (DBC-83230)</name>
