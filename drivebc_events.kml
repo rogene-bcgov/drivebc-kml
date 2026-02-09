@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-09 10:21:02 UTC
+        Last updated: 2026-02-09 10:46:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -4686,61 +4686,85 @@
         </Placemark>
       </Folder>
       <Folder>
-        <name>Special Event Events</name>
+        <name>Road Condition Events</name>
         <Placemark>
-          <name>Lodge pole road, in both directions. Special event planned between Barry Rd. And Frayne road. Starting Wed Feb 11 at 11:30 AM PST until Wed Feb 11 at 3:00 PM PST. Lane Closure. Expect delays. Traffic control training, will be single lane alternating traffic. Last updated Tue Feb 3 at 3:48 PM PST. (DBC-86277)</name>
+          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Mon Feb 9 at 2:29 AM PST. (DBCRCON-241736)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Lodge pole road&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Barry Rd. and Frayne road&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T15:48:20-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T02:29:55-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86277
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241736
     ]]&gt;
     </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <Point>
-            <coordinates>-123.561893,48.651077,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, in both directions. Special event planned between W Pender St and Stanley Park Dr for 3.0 km (Vancouver). Starting Sun Apr 19 at 7:00 AM PST until Sun Apr 19 at 12:00 PM PST. Roadway will be reduced to two lanes. Expect delays. Last updated Wed Jan 14 at 2:28 PM PST. (DBC-86061)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between W Pender St and Stanley Park Dr for 3.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-14T14:28:26-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86061
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-123.130597,49.290575,0 -123.132114,49.291606,0 -123.133719,49.292623,0 -123.135273,49.293615,0 -123.136072,49.294137,0 -123.136244,49.294137,0 -123.136722,49.294458,0 -123.136887,49.29474,0 -123.136912,49.29492,0 -123.13692,49.294981,0 -123.136836,49.295275,0 -123.136654,49.295583,0 -123.136414,49.295989,0 -123.13618,49.296289,0 -123.136196,49.296444,0 -123.136203,49.296515,0 -123.136253,49.296637,0 -123.136356,49.296887,0 -123.136697,49.297255,0 -123.137119,49.297661,0 -123.137454,49.297886,0 -123.137476,49.2979,0 -123.138138,49.298188,0 -123.1387,49.298398,0 -123.140184,49.298952,0 -123.141785,49.299809,0 -123.142121,49.300046,0 -123.142213,49.300111,0 -123.142981,49.300633,0 -123.143285,49.300962,0 -123.144427,49.302113,0 -123.144862,49.303018,0 -123.14525,49.304069,0 -123.145247,49.305536,0 -123.145167,49.306506,0 -123.144757,49.307919,0 -123.144318,49.308697,0 -123.143977,49.309341,0 -123.14375,49.309663,0 -123.143365,49.310162,0 -123.142958,49.310641,0 -123.142639,49.311007,0 -123.142583,49.311079,0 -123.142543,49.311126,0 -123.141936,49.311811,0 -123.141758,49.311997,0 -123.141232,49.312548,0</coordinates>
+            <coordinates>-117.715278,51.209709,0 -117.708402,51.211371,0 -117.700185,51.2126,0 -117.68871,51.21638,0 -117.682962,51.219548,0 -117.674942,51.226495,0 -117.669622,51.229622,0 -117.664074,51.236236,0 -117.661891,51.237254,0 -117.646958,51.241161,0 -117.636952,51.245731,0 -117.634502,51.24601,0 -117.629235,51.245496,0 -117.616535,51.248077,0 -117.61,51.250736,0 -117.597572,51.251915,0 -117.58299,51.257932,0 -117.564233,51.261767,0 -117.551012,51.26225,0 -117.542573,51.259559,0 -117.539194,51.259342,0 -117.525717,51.263671,0 -117.517386,51.265797,0 -117.51127,51.268241,0 -117.504177,51.269092,0 -117.50335,51.269969,0 -117.503513,51.27111,0 -117.508468,51.274324,0 -117.513531,51.282356,0 -117.513447,51.28681,0 -117.519916,51.299263,0 -117.519849,51.305783,0 -117.514427,51.312509,0 -117.510772,51.314349,0 -117.491433,51.319414,0 -117.483001,51.320722,0 -117.474549,51.323369,0 -117.465954,51.324433,0 -117.451808,51.328721,0 -117.446853,51.329622,0 -117.444192,51.331517,0 -117.439614,51.33693,0 -117.43428,51.345369,0 -117.435887,51.348741,0 -117.436664,51.353394,0 -117.438156,51.35626,0 -117.438666,51.360597,0 -117.443273,51.367438,0 -117.447027,51.37051,0 -117.449612,51.37359,0 -117.452769,51.378901,0 -117.452436,51.381253,0 -117.448274,51.385324,0 -117.448421,51.387085,0 -117.459849,51.396511,0 -117.464835,51.402926,0 -117.468823,51.405548,0 -117.470373,51.407571,0 -117.475287,51.426085,0 -117.479182,51.432974,0 -117.47712,51.43788,0 -117.476881,51.440196,0 -117.477994,51.443507,0 -117.478154,51.450602,0 -117.479127,51.453776,0 -117.479137,51.461384,0 -117.480888,51.466222,0 -117.482285,51.475901,0 -117.473325,51.48932,0 -117.465079,51.496951,0 -117.461073,51.50215,0 -117.459211,51.502981,0 -117.449683,51.505333,0 -117.445191,51.510037,0 -117.442585,51.511528,0 -117.439232,51.512214,0 -117.435588,51.511942,0 -117.423752,51.508475,0 -117.396474,51.492685,0 -117.362033,51.478759,0 -117.359052,51.478345,0</coordinates>
           </LineString>
         </Placemark>
-      </Folder>
-      <Folder>
-        <name>Road Condition Events</name>
+        <Placemark>
+          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Mon Feb 9 at 3:29 AM MST. (DBCRCON-241738)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Beaverfoot Rd and BC/Alberta Border for 45.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 1 km west of West Boundary of Yoho National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T02:29:55-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241738
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Water pooling between Victoria Rd W and Glacier National Park West Boundary for 48.1 km (Revelstoke to 1 km east of West Boundary of Glacier National Park). Last updated Mon Feb 9 at 2:29 AM PST. (DBCRCON-241735)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; SURFACE_WATER_HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Victoria Rd W and Glacier National Park West Boundary for 48.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km east of West Boundary of Glacier National Park to Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T02:29:55-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241735
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.216001,51.009333,0 -118.212272,51.010507,0 -118.208066,51.009939,0 -118.204305,51.007114,0 -118.199281,51.006589,0 -118.197503,51.00592,0 -118.190454,51.000964,0 -118.188138,51.00007,0 -118.185654,50.999686,0 -118.169351,50.999729,0 -118.165749,50.998715,0 -118.160837,50.995395,0 -118.153688,50.992616,0 -118.147961,50.991723,0 -118.141763,50.992045,0 -118.134385,50.994129,0 -118.129545,50.997681,0 -118.12221,51.000208,0 -118.112667,51.006748,0 -118.100843,51.0091,0 -118.09007,51.01309,0 -118.081463,51.016937,0 -118.068263,51.019709,0 -118.063628,51.021647,0 -118.054958,51.023316,0 -118.048212,51.026271,0 -118.035279,51.028519,0 -118.020617,51.03259,0 -118.014799,51.035248,0 -118.00268,51.03718,0 -117.99139,51.04082,0 -117.982416,51.041055,0 -117.975915,51.04228,0 -117.970382,51.041798,0 -117.966719,51.042171,0 -117.961168,51.044854,0 -117.952094,51.047022,0 -117.943568,51.050903,0 -117.937465,51.052587,0 -117.935476,51.054176,0 -117.935661,51.056909,0 -117.93438,51.062252,0 -117.932269,51.06516,0 -117.931239,51.068989,0 -117.926447,51.072992,0 -117.92861,51.078046,0 -117.927803,51.080577,0 -117.897419,51.113145,0 -117.894791,51.11514,0 -117.888646,51.11828,0 -117.887227,51.119679,0 -117.886053,51.122075,0 -117.886441,51.125497,0 -117.883111,51.128505,0 -117.883284,51.130872,0 -117.882343,51.134783,0 -117.880519,51.13694,0 -117.878196,51.137828,0 -117.869673,51.139073,0 -117.858391,51.138975,0 -117.840167,51.144679,0 -117.837777,51.146187,0 -117.835874,51.150807,0 -117.834309,51.152022,0 -117.819887,51.154312,0 -117.81772,51.156059,0 -117.812966,51.15816,0 -117.800767,51.161477,0 -117.785365,51.168084,0 -117.76425,51.179261,0 -117.755826,51.185595,0 -117.750498,51.187712,0 -117.748566,51.192447,0 -117.745238,51.196943,0 -117.745607,51.200525,0 -117.744357,51.202504,0 -117.736002,51.205628,0 -117.733345,51.206125,0 -117.727412,51.2062,0 -117.720657,51.208955,0 -117.715278,51.209709,0</coordinates>
+          </LineString>
+        </Placemark>
         <Placemark>
           <name>Nisga'a Hwy (Highway 113). Watch for slippery sections between Broad St and Big Cedar Bridge for 117.4 km (Gingolx to 41 km south of Gitlaxt'aamiks (New Aiyanish)). Water pooling. Last updated Sun Feb 8 at 4:00 PM PST. (DBCRCON-241790)</name>
           <description>
@@ -5964,84 +5988,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Sun Feb 8 at 11:59 PM PST. (DBCRCON-241736)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-08T23:59:43-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241736
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.715278,51.209709,0 -117.708402,51.211371,0 -117.700185,51.2126,0 -117.68871,51.21638,0 -117.682962,51.219548,0 -117.674942,51.226495,0 -117.669622,51.229622,0 -117.664074,51.236236,0 -117.661891,51.237254,0 -117.646958,51.241161,0 -117.636952,51.245731,0 -117.634502,51.24601,0 -117.629235,51.245496,0 -117.616535,51.248077,0 -117.61,51.250736,0 -117.597572,51.251915,0 -117.58299,51.257932,0 -117.564233,51.261767,0 -117.551012,51.26225,0 -117.542573,51.259559,0 -117.539194,51.259342,0 -117.525717,51.263671,0 -117.517386,51.265797,0 -117.51127,51.268241,0 -117.504177,51.269092,0 -117.50335,51.269969,0 -117.503513,51.27111,0 -117.508468,51.274324,0 -117.513531,51.282356,0 -117.513447,51.28681,0 -117.519916,51.299263,0 -117.519849,51.305783,0 -117.514427,51.312509,0 -117.510772,51.314349,0 -117.491433,51.319414,0 -117.483001,51.320722,0 -117.474549,51.323369,0 -117.465954,51.324433,0 -117.451808,51.328721,0 -117.446853,51.329622,0 -117.444192,51.331517,0 -117.439614,51.33693,0 -117.43428,51.345369,0 -117.435887,51.348741,0 -117.436664,51.353394,0 -117.438156,51.35626,0 -117.438666,51.360597,0 -117.443273,51.367438,0 -117.447027,51.37051,0 -117.449612,51.37359,0 -117.452769,51.378901,0 -117.452436,51.381253,0 -117.448274,51.385324,0 -117.448421,51.387085,0 -117.459849,51.396511,0 -117.464835,51.402926,0 -117.468823,51.405548,0 -117.470373,51.407571,0 -117.475287,51.426085,0 -117.479182,51.432974,0 -117.47712,51.43788,0 -117.476881,51.440196,0 -117.477994,51.443507,0 -117.478154,51.450602,0 -117.479127,51.453776,0 -117.479137,51.461384,0 -117.480888,51.466222,0 -117.482285,51.475901,0 -117.473325,51.48932,0 -117.465079,51.496951,0 -117.461073,51.50215,0 -117.459211,51.502981,0 -117.449683,51.505333,0 -117.445191,51.510037,0 -117.442585,51.511528,0 -117.439232,51.512214,0 -117.435588,51.511942,0 -117.423752,51.508475,0 -117.396474,51.492685,0 -117.362033,51.478759,0 -117.359052,51.478345,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway). Water pooling between Victoria Rd W and Glacier National Park West Boundary for 48.1 km (Revelstoke to 1 km east of West Boundary of Glacier National Park). Last updated Sun Feb 8 at 11:59 PM PST. (DBCRCON-241735)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; SURFACE_WATER_HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Victoria Rd W and Glacier National Park West Boundary for 48.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km east of West Boundary of Glacier National Park to Revelstoke&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-08T23:59:43-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241735
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.216001,51.009333,0 -118.212272,51.010507,0 -118.208066,51.009939,0 -118.204305,51.007114,0 -118.199281,51.006589,0 -118.197503,51.00592,0 -118.190454,51.000964,0 -118.188138,51.00007,0 -118.185654,50.999686,0 -118.169351,50.999729,0 -118.165749,50.998715,0 -118.160837,50.995395,0 -118.153688,50.992616,0 -118.147961,50.991723,0 -118.141763,50.992045,0 -118.134385,50.994129,0 -118.129545,50.997681,0 -118.12221,51.000208,0 -118.112667,51.006748,0 -118.100843,51.0091,0 -118.09007,51.01309,0 -118.081463,51.016937,0 -118.068263,51.019709,0 -118.063628,51.021647,0 -118.054958,51.023316,0 -118.048212,51.026271,0 -118.035279,51.028519,0 -118.020617,51.03259,0 -118.014799,51.035248,0 -118.00268,51.03718,0 -117.99139,51.04082,0 -117.982416,51.041055,0 -117.975915,51.04228,0 -117.970382,51.041798,0 -117.966719,51.042171,0 -117.961168,51.044854,0 -117.952094,51.047022,0 -117.943568,51.050903,0 -117.937465,51.052587,0 -117.935476,51.054176,0 -117.935661,51.056909,0 -117.93438,51.062252,0 -117.932269,51.06516,0 -117.931239,51.068989,0 -117.926447,51.072992,0 -117.92861,51.078046,0 -117.927803,51.080577,0 -117.897419,51.113145,0 -117.894791,51.11514,0 -117.888646,51.11828,0 -117.887227,51.119679,0 -117.886053,51.122075,0 -117.886441,51.125497,0 -117.883111,51.128505,0 -117.883284,51.130872,0 -117.882343,51.134783,0 -117.880519,51.13694,0 -117.878196,51.137828,0 -117.869673,51.139073,0 -117.858391,51.138975,0 -117.840167,51.144679,0 -117.837777,51.146187,0 -117.835874,51.150807,0 -117.834309,51.152022,0 -117.819887,51.154312,0 -117.81772,51.156059,0 -117.812966,51.15816,0 -117.800767,51.161477,0 -117.785365,51.168084,0 -117.76425,51.179261,0 -117.755826,51.185595,0 -117.750498,51.187712,0 -117.748566,51.192447,0 -117.745238,51.196943,0 -117.745607,51.200525,0 -117.744357,51.202504,0 -117.736002,51.205628,0 -117.733345,51.206125,0 -117.727412,51.2062,0 -117.720657,51.208955,0 -117.715278,51.209709,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Mon Feb 9 at 12:59 AM MST. (DBCRCON-241738)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Beaverfoot Rd and BC/Alberta Border for 45.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 1 km west of West Boundary of Yoho National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-08T23:59:43-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241738
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Atlin Hwy. Watch for slippery sections between Discovery Ave and Yukon Border for 50.8 km (Atlin to British Columbia and Yukon Border). Compact snow. Last updated Sun Feb 8 at 3:47 PM PST. (DBCRCON-241733)</name>
           <description>
     &lt;![CDATA[
@@ -6120,7 +6066,139 @@
         </Placemark>
       </Folder>
       <Folder>
+        <name>Special Event Events</name>
+        <Placemark>
+          <name>Lodge pole road, in both directions. Special event planned between Barry Rd. And Frayne road. Starting Wed Feb 11 at 11:30 AM PST until Wed Feb 11 at 3:00 PM PST. Lane Closure. Expect delays. Traffic control training, will be single lane alternating traffic. Last updated Tue Feb 3 at 3:48 PM PST. (DBC-86277)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Lodge pole road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Barry Rd. and Frayne road&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-03T15:48:20-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86277
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-123.561893,48.651077,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, in both directions. Special event planned between W Pender St and Stanley Park Dr for 3.0 km (Vancouver). Starting Sun Apr 19 at 7:00 AM PST until Sun Apr 19 at 12:00 PM PST. Roadway will be reduced to two lanes. Expect delays. Last updated Wed Jan 14 at 2:28 PM PST. (DBC-86061)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between W Pender St and Stanley Park Dr for 3.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-14T14:28:26-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86061
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.130597,49.290575,0 -123.132114,49.291606,0 -123.133719,49.292623,0 -123.135273,49.293615,0 -123.136072,49.294137,0 -123.136244,49.294137,0 -123.136722,49.294458,0 -123.136887,49.29474,0 -123.136912,49.29492,0 -123.13692,49.294981,0 -123.136836,49.295275,0 -123.136654,49.295583,0 -123.136414,49.295989,0 -123.13618,49.296289,0 -123.136196,49.296444,0 -123.136203,49.296515,0 -123.136253,49.296637,0 -123.136356,49.296887,0 -123.136697,49.297255,0 -123.137119,49.297661,0 -123.137454,49.297886,0 -123.137476,49.2979,0 -123.138138,49.298188,0 -123.1387,49.298398,0 -123.140184,49.298952,0 -123.141785,49.299809,0 -123.142121,49.300046,0 -123.142213,49.300111,0 -123.142981,49.300633,0 -123.143285,49.300962,0 -123.144427,49.302113,0 -123.144862,49.303018,0 -123.14525,49.304069,0 -123.145247,49.305536,0 -123.145167,49.306506,0 -123.144757,49.307919,0 -123.144318,49.308697,0 -123.143977,49.309341,0 -123.14375,49.309663,0 -123.143365,49.310162,0 -123.142958,49.310641,0 -123.142639,49.311007,0 -123.142583,49.311079,0 -123.142543,49.311126,0 -123.141936,49.311811,0 -123.141758,49.311997,0 -123.141232,49.312548,0</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
         <name>Weather Condition Events</name>
+        <Placemark>
+          <name>Highway 23. Limited visibility with fog between Junction Hwy 31 and Junction Highway 1 for 49.0 km (Revelstoke). Watch for slippery sections. Last updated Mon Feb 9 at 2:29 AM PST. (DBCRCON-241752)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 31 and Junction Highway 1 for 49.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T02:29:55-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241752
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.928779,50.634543,0 -117.928845,50.635432,0 -117.92694,50.637807,0 -117.926932,50.639524,0 -117.935808,50.650861,0 -117.949583,50.661567,0 -117.963666,50.67962,0 -117.969144,50.682132,0 -117.982664,50.692441,0 -117.986379,50.697488,0 -117.992932,50.700871,0 -118.012188,50.727595,0 -118.01444,50.729043,0 -118.021237,50.730961,0 -118.023275,50.73259,0 -118.02655,50.738994,0 -118.029943,50.742052,0 -118.032822,50.749268,0 -118.034798,50.751628,0 -118.042616,50.768468,0 -118.04395,50.772657,0 -118.049901,50.776837,0 -118.052217,50.779352,0 -118.055853,50.791194,0 -118.057775,50.79407,0 -118.064039,50.800772,0 -118.065515,50.806435,0 -118.073953,50.813962,0 -118.078324,50.81948,0 -118.082104,50.821899,0 -118.084245,50.826081,0 -118.089326,50.828543,0 -118.101026,50.837485,0 -118.107275,50.841406,0 -118.115143,50.848174,0 -118.123213,50.852034,0 -118.127009,50.855722,0 -118.129905,50.86264,0 -118.135006,50.868369,0 -118.145025,50.874284,0 -118.147548,50.87696,0 -118.15349,50.87905,0 -118.157602,50.882953,0 -118.165089,50.886198,0 -118.175293,50.896495,0 -118.177515,50.900185,0 -118.179811,50.906404,0 -118.1813,50.908234,0 -118.188477,50.912535,0 -118.20443,50.917801,0 -118.207196,50.919344,0 -118.209685,50.921632,0 -118.211338,50.925067,0 -118.213009,50.936979,0 -118.214321,50.938298,0 -118.219647,50.940169,0 -118.226097,50.949906,0 -118.22513,50.955906,0 -118.227987,50.96004,0 -118.227766,50.96301,0 -118.230304,50.966364,0 -118.231656,50.972249,0 -118.231254,50.974817,0 -118.22651,50.980739,0 -118.225551,50.984142,0 -118.227472,50.990839,0 -118.232219,50.99406,0 -118.232849,50.996311,0 -118.231326,50.998189,0 -118.226578,51.000724,0 -118.225756,51.003262,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Perry River Bridge and Victoria Rd W for 42.0 km (25 km east of Sicamous to Revelstoke). Last updated Mon Feb 9 at 2:29 AM PST. (DBCRCON-241734)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Perry River Bridge and Victoria Rd W for 42.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke to 25 km east of Sicamous&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T02:29:55-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241734
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.692071,50.996565,0 -118.679638,51.001373,0 -118.670022,51.003257,0 -118.665523,51.003321,0 -118.655757,51.001941,0 -118.651897,51.000573,0 -118.645903,50.997421,0 -118.635518,50.989218,0 -118.629948,50.986735,0 -118.626505,50.984335,0 -118.621076,50.983216,0 -118.61629,50.981587,0 -118.611398,50.97772,0 -118.603838,50.974233,0 -118.589554,50.971076,0 -118.577741,50.970545,0 -118.572125,50.969829,0 -118.569341,50.970368,0 -118.563043,50.973665,0 -118.553354,50.975766,0 -118.546782,50.974941,0 -118.530754,50.977311,0 -118.525445,50.976434,0 -118.522662,50.975039,0 -118.519538,50.971995,0 -118.512527,50.97031,0 -118.507338,50.967955,0 -118.503959,50.965388,0 -118.502444,50.96303,0 -118.498415,50.959063,0 -118.492546,50.955909,0 -118.489623,50.952702,0 -118.48355,50.950478,0 -118.481494,50.947428,0 -118.48112,50.945618,0 -118.483442,50.94154,0 -118.48439,50.935187,0 -118.481293,50.931122,0 -118.475708,50.928038,0 -118.473145,50.927681,0 -118.460965,50.928851,0 -118.457757,50.930013,0 -118.448653,50.932043,0 -118.444791,50.933675,0 -118.432392,50.936825,0 -118.428632,50.938751,0 -118.425856,50.942506,0 -118.424183,50.943707,0 -118.417164,50.945809,0 -118.413319,50.948293,0 -118.406945,50.950761,0 -118.399896,50.957408,0 -118.385398,50.962447,0 -118.382186,50.962972,0 -118.373867,50.962803,0 -118.367575,50.965377,0 -118.361233,50.966922,0 -118.357476,50.969713,0 -118.354738,50.97078,0 -118.348773,50.971396,0 -118.338689,50.971031,0 -118.330359,50.972908,0 -118.320632,50.978033,0 -118.313319,50.979902,0 -118.307153,50.979491,0 -118.303788,50.979961,0 -118.293246,50.985518,0 -118.273109,50.991148,0 -118.269943,50.991621,0 -118.258983,50.991862,0 -118.246055,50.993916,0 -118.243558,50.995111,0 -118.239377,50.999484,0 -118.232072,51.002591,0 -118.223964,51.003767,0 -118.216001,51.009333,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Columbia West FSR and West Boundary of Yoho National Park for 68.0 km (14 km east of East Boundary of Glacier National Park to 1 km west of West Boundary of Yoho National Park). Last updated Mon Feb 9 at 3:29 AM MST. (DBCRCON-241799)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Columbia West FSR and West Boundary of Yoho National Park for 68.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km west of West Boundary of Yoho National Park to 14 km east of East Boundary of Glacier National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T02:29:55-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241799
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.359052,51.478345,0 -117.35359,51.480185,0 -117.29647,51.493895,0 -117.293774,51.493715,0 -117.259659,51.48651,0 -117.225682,51.474863,0 -117.22283,51.474979,0 -117.220294,51.47582,0 -117.218679,51.477123,0 -117.217978,51.478729,0 -117.219099,51.48133,0 -117.227065,51.487768,0 -117.228078,51.489189,0 -117.228087,51.490957,0 -117.226465,51.494308,0 -117.225343,51.495435,0 -117.223438,51.49607,0 -117.220817,51.495952,0 -117.207126,51.492586,0 -117.199001,51.488745,0 -117.186434,51.484506,0 -117.183905,51.484142,0 -117.180767,51.484336,0 -117.171036,51.4865,0 -117.167154,51.4865,0 -117.16271,51.485519,0 -117.137321,51.472245,0 -117.127889,51.468211,0 -117.096494,51.449181,0 -117.093093,51.445919,0 -117.083284,51.440732,0 -117.074493,51.434877,0 -117.061112,51.427631,0 -117.028573,51.39341,0 -117.025262,51.384749,0 -117.020714,51.377647,0 -117.020597,51.373548,0 -117.018943,51.371769,0 -117.015416,51.365543,0 -117.006196,51.354362,0 -117.001336,51.349821,0 -116.997035,51.342283,0 -116.990492,51.332743,0 -116.986382,51.32931,0 -116.975618,51.322177,0 -116.972353,51.312764,0 -116.965358,51.306648,0 -116.964645,51.30279,0 -116.962956,51.300685,0 -116.959509,51.300212,0 -116.948408,51.301962,0 -116.943607,51.301065,0 -116.939167,51.300926,0 -116.929093,51.298723,0 -116.917598,51.298873,0 -116.912735,51.298293,0 -116.909087,51.298857,0 -116.906661,51.300825,0 -116.897292,51.301905,0 -116.895727,51.302892,0 -116.892957,51.303214,0 -116.89092,51.304769,0 -116.883974,51.30505,0 -116.878045,51.306473,0 -116.874515,51.306581,0 -116.863894,51.299084,0 -116.84244,51.29075,0 -116.83213,51.28931,0 -116.825185,51.287444,0 -116.818006,51.283594,0 -116.813866,51.280014,0 -116.81176,51.279004,0 -116.808645,51.27859,0 -116.804664,51.278903,0 -116.798999,51.28082,0 -116.793478,51.281808,0 -116.783984,51.280934,0 -116.778353,51.278078,0 -116.771494,51.276689,0 -116.766841,51.274461,0 -116.753036,51.271695,0 -116.737703,51.263956,0 -116.729042,51.260865,0 -116.720812,51.26018,0 -116.711013,51.258591,0 -116.70243,51.258407,0 -116.688873,51.254896,0 -116.678193,51.25005,0 -116.666625,51.246714,0 -116.652654,51.239147,0</coordinates>
+          </LineString>
+        </Placemark>
         <Placemark>
           <name>Highway 4. Fog patches between Wick Rd and the end of Highway 4 for 132.4 km (1 km east of Southern Boundary of Pacific Rim National Park to Qualicum Beach). Last updated Sun Feb 8 at 6:47 AM PST. (DBCRCON-241772)</name>
           <description>
@@ -6200,32 +6278,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 23. Limited visibility with fog between Junction Hwy 31 and Junction Highway 1 for 49.0 km (Revelstoke). Watch for slippery sections. Last updated Sun Feb 8 at 11:59 PM PST. (DBCRCON-241752)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 31 and Junction Highway 1 for 49.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-08T23:59:43-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241752
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.928779,50.634543,0 -117.928845,50.635432,0 -117.92694,50.637807,0 -117.926932,50.639524,0 -117.935808,50.650861,0 -117.949583,50.661567,0 -117.963666,50.67962,0 -117.969144,50.682132,0 -117.982664,50.692441,0 -117.986379,50.697488,0 -117.992932,50.700871,0 -118.012188,50.727595,0 -118.01444,50.729043,0 -118.021237,50.730961,0 -118.023275,50.73259,0 -118.02655,50.738994,0 -118.029943,50.742052,0 -118.032822,50.749268,0 -118.034798,50.751628,0 -118.042616,50.768468,0 -118.04395,50.772657,0 -118.049901,50.776837,0 -118.052217,50.779352,0 -118.055853,50.791194,0 -118.057775,50.79407,0 -118.064039,50.800772,0 -118.065515,50.806435,0 -118.073953,50.813962,0 -118.078324,50.81948,0 -118.082104,50.821899,0 -118.084245,50.826081,0 -118.089326,50.828543,0 -118.101026,50.837485,0 -118.107275,50.841406,0 -118.115143,50.848174,0 -118.123213,50.852034,0 -118.127009,50.855722,0 -118.129905,50.86264,0 -118.135006,50.868369,0 -118.145025,50.874284,0 -118.147548,50.87696,0 -118.15349,50.87905,0 -118.157602,50.882953,0 -118.165089,50.886198,0 -118.175293,50.896495,0 -118.177515,50.900185,0 -118.179811,50.906404,0 -118.1813,50.908234,0 -118.188477,50.912535,0 -118.20443,50.917801,0 -118.207196,50.919344,0 -118.209685,50.921632,0 -118.211338,50.925067,0 -118.213009,50.936979,0 -118.214321,50.938298,0 -118.219647,50.940169,0 -118.226097,50.949906,0 -118.22513,50.955906,0 -118.227987,50.96004,0 -118.227766,50.96301,0 -118.230304,50.966364,0 -118.231656,50.972249,0 -118.231254,50.974817,0 -118.22651,50.980739,0 -118.225551,50.984142,0 -118.227472,50.990839,0 -118.232219,50.99406,0 -118.232849,50.996311,0 -118.231326,50.998189,0 -118.226578,51.000724,0 -118.225756,51.003262,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Island Highway). Limited visibility with fog between Sayward Rd and Hamm Rd for 90.0 km (Campbell River). Last updated Sun Feb 8 at 9:37 AM PST. (DBCRCON-241745)</name>
           <description>
     &lt;![CDATA[
@@ -6301,58 +6353,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.422354,48.552736,0 -124.421544,48.551406,0 -124.411908,48.554941,0 -124.405136,48.555561,0 -124.392459,48.560457,0 -124.385851,48.561565,0 -124.382087,48.563091,0 -124.377669,48.561523,0 -124.371729,48.563015,0 -124.368176,48.562076,0 -124.363607,48.561842,0 -124.357581,48.560167,0 -124.353232,48.559534,0 -124.352961,48.558755,0 -124.355419,48.557,0 -124.355318,48.555743,0 -124.356369,48.554472,0 -124.355999,48.553259,0 -124.36013,48.549754,0 -124.364974,48.544006,0 -124.365439,48.541919,0 -124.364829,48.540109,0 -124.365451,48.538271,0 -124.364448,48.536367,0 -124.364865,48.534409,0 -124.363793,48.53277,0 -124.359994,48.531547,0 -124.358225,48.529749,0 -124.347781,48.524794,0 -124.336833,48.521252,0 -124.334012,48.521024,0 -124.329271,48.519096,0 -124.326282,48.518921,0 -124.322768,48.51686,0 -124.314418,48.51409,0 -124.307987,48.514552,0 -124.300616,48.513407,0 -124.294673,48.514929,0 -124.288066,48.513739,0 -124.285972,48.510389,0 -124.286296,48.508686,0 -124.288145,48.505956,0 -124.287256,48.504316,0 -124.281538,48.501864,0 -124.27905,48.49981,0 -124.275304,48.500483,0 -124.274498,48.49944,0 -124.271048,48.498484,0 -124.264297,48.49961,0 -124.264188,48.49872,0 -124.266027,48.496722,0 -124.266432,48.49439,0 -124.265727,48.493555,0 -124.264776,48.493562,0 -124.264055,48.494772,0 -124.260788,48.49563,0 -124.258755,48.495566,0 -124.255797,48.494357,0 -124.256305,48.493946,0 -124.262349,48.493141,0 -124.266601,48.490719,0 -124.26741,48.489689,0 -124.266545,48.48836,0 -124.267045,48.486821,0 -124.266299,48.486054,0 -124.26663,48.484513,0 -124.265222,48.484604,0 -124.260992,48.483524,0 -124.259706,48.482462,0 -124.25683,48.481657,0 -124.249814,48.480875,0 -124.243859,48.478688,0 -124.241076,48.478207,0 -124.238095,48.475919,0 -124.229585,48.474209,0 -124.225425,48.472027,0 -124.21733,48.470107,0 -124.215399,48.466972,0 -124.209975,48.465035,0 -124.199795,48.464504,0 -124.196518,48.463763,0 -124.18609,48.462986,0 -124.178683,48.461069,0 -124.174082,48.460921,0 -124.171861,48.460224,0 -124.167756,48.457762,0 -124.153261,48.453852,0 -124.150917,48.452011,0 -124.146821,48.45063,0 -124.137664,48.4487,0 -124.135093,48.447626,0 -124.113849,48.443826,0 -124.104098,48.439004,0 -124.099205,48.438617,0 -124.093573,48.439167,0 -124.078054,48.43876,0 -124.07633,48.434976,0 -124.071837,48.433339,0 -124.069767,48.431893,0 -124.067628,48.429305,0 -124.062623,48.427505,0 -124.056982,48.427152,0 -124.057228,48.426483,0 -124.059291,48.425934,0 -124.060166,48.424974,0 -124.059858,48.422491,0 -124.055588,48.422387,0 -124.052866,48.421462,0 -124.049458,48.421092,0 -124.047673,48.420231,0 -124.045351,48.420277,0 -124.044441,48.420865,0 -124.045381,48.422746,0 -124.044256,48.426055,0 -124.042246,48.426892,0 -124.038107,48.426001,0 -124.022961,48.420035,0 -124.017549,48.417184,0 -124.011753,48.412478,0 -124.005738,48.410243,0 -124.00263,48.410252,0 -123.994327,48.408364,0 -123.990494,48.405745,0 -123.987035,48.402186,0 -123.985794,48.399602,0 -123.984127,48.397962,0 -123.973517,48.395231,0 -123.962791,48.395678,0 -123.95706,48.397119,0 -123.950549,48.397428,0 -123.946134,48.396594,0 -123.939204,48.393921,0 -123.929451,48.394828,0 -123.923299,48.393741,0 -123.918519,48.39087,0 -123.91352,48.390724,0 -123.904916,48.38915,0 -123.898243,48.390145,0 -123.894706,48.389062,0 -123.893384,48.38968,0 -123.892658,48.392666,0 -123.891147,48.393468,0 -123.891521,48.396264,0 -123.890679,48.397243,0 -123.888806,48.397598,0 -123.879919,48.396086,0 -123.87864,48.395213,0 -123.871244,48.385969,0 -123.870536,48.380429,0 -123.869255,48.38044,0 -123.866213,48.382538,0 -123.863741,48.382196,0 -123.861953,48.380269,0 -123.852887,48.377783,0 -123.850354,48.374304,0 -123.840541,48.372806,0 -123.834431,48.369547,0 -123.830653,48.365248,0 -123.824129,48.359997,0 -123.822349,48.357753,0 -123.817993,48.358884,0 -123.814815,48.360345,0 -123.80717,48.361296,0 -123.803709,48.363058,0 -123.799434,48.363686,0 -123.794963,48.366101,0 -123.787124,48.365184,0 -123.785424,48.365821,0 -123.783605,48.367616,0 -123.779388,48.369943,0 -123.771137,48.370665,0 -123.765068,48.372072,0 -123.75056,48.3725,0 -123.740877,48.366082,0 -123.738284,48.365702,0 -123.734991,48.366188,0 -123.730748,48.368013,0 -123.725473,48.373651,0 -123.724735,48.376352,0 -123.722957,48.378083,0 -123.718726,48.37875,0 -123.711892,48.380996,0 -123.705264,48.38409,0 -123.700574,48.387543,0 -123.698397,48.387831,0 -123.685696,48.387252,0 -123.681456,48.389558,0 -123.676223,48.390844,0 -123.665198,48.391267,0 -123.65577,48.394721,0 -123.651285,48.393819,0 -123.650962,48.389812,0 -123.645705,48.38673,0 -123.644281,48.387193,0 -123.643547,48.388655,0 -123.640964,48.390935,0 -123.637521,48.391754,0 -123.635043,48.394558,0 -123.63332,48.394853,0 -123.629554,48.394428,0 -123.626451,48.395937,0 -123.622643,48.396267,0 -123.620195,48.397293,0 -123.616018,48.398106,0 -123.61031,48.397227,0 -123.607896,48.395058,0 -123.604636,48.393282,0 -123.599205,48.392835,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Perry River Bridge and Victoria Rd W for 42.0 km (25 km east of Sicamous to Revelstoke). Last updated Sun Feb 8 at 11:59 PM PST. (DBCRCON-241734)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Perry River Bridge and Victoria Rd W for 42.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke to 25 km east of Sicamous&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-08T23:59:43-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241734
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.692071,50.996565,0 -118.679638,51.001373,0 -118.670022,51.003257,0 -118.665523,51.003321,0 -118.655757,51.001941,0 -118.651897,51.000573,0 -118.645903,50.997421,0 -118.635518,50.989218,0 -118.629948,50.986735,0 -118.626505,50.984335,0 -118.621076,50.983216,0 -118.61629,50.981587,0 -118.611398,50.97772,0 -118.603838,50.974233,0 -118.589554,50.971076,0 -118.577741,50.970545,0 -118.572125,50.969829,0 -118.569341,50.970368,0 -118.563043,50.973665,0 -118.553354,50.975766,0 -118.546782,50.974941,0 -118.530754,50.977311,0 -118.525445,50.976434,0 -118.522662,50.975039,0 -118.519538,50.971995,0 -118.512527,50.97031,0 -118.507338,50.967955,0 -118.503959,50.965388,0 -118.502444,50.96303,0 -118.498415,50.959063,0 -118.492546,50.955909,0 -118.489623,50.952702,0 -118.48355,50.950478,0 -118.481494,50.947428,0 -118.48112,50.945618,0 -118.483442,50.94154,0 -118.48439,50.935187,0 -118.481293,50.931122,0 -118.475708,50.928038,0 -118.473145,50.927681,0 -118.460965,50.928851,0 -118.457757,50.930013,0 -118.448653,50.932043,0 -118.444791,50.933675,0 -118.432392,50.936825,0 -118.428632,50.938751,0 -118.425856,50.942506,0 -118.424183,50.943707,0 -118.417164,50.945809,0 -118.413319,50.948293,0 -118.406945,50.950761,0 -118.399896,50.957408,0 -118.385398,50.962447,0 -118.382186,50.962972,0 -118.373867,50.962803,0 -118.367575,50.965377,0 -118.361233,50.966922,0 -118.357476,50.969713,0 -118.354738,50.97078,0 -118.348773,50.971396,0 -118.338689,50.971031,0 -118.330359,50.972908,0 -118.320632,50.978033,0 -118.313319,50.979902,0 -118.307153,50.979491,0 -118.303788,50.979961,0 -118.293246,50.985518,0 -118.273109,50.991148,0 -118.269943,50.991621,0 -118.258983,50.991862,0 -118.246055,50.993916,0 -118.243558,50.995111,0 -118.239377,50.999484,0 -118.232072,51.002591,0 -118.223964,51.003767,0 -118.216001,51.009333,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (Kicking Horse Pass). Limited visibility with fog between 11th St N and West Boundary of Yoho National Park for 24.7 km (Golden to 1 km west of West Boundary of Yoho National Park). Last updated Mon Feb 9 at 12:59 AM MST. (DBCRCON-241737)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 11th St N and West Boundary of Yoho National Park for 24.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km west of West Boundary of Yoho National Park to Golden&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-08T23:59:43-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241737
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.963198,51.300821,0 -116.959509,51.300212,0 -116.950449,51.301887,0 -116.948035,51.301944,0 -116.943607,51.301065,0 -116.939167,51.300926,0 -116.929093,51.298723,0 -116.917598,51.298873,0 -116.912735,51.298293,0 -116.909087,51.298857,0 -116.906661,51.300825,0 -116.897292,51.301905,0 -116.895727,51.302892,0 -116.892957,51.303214,0 -116.89092,51.304769,0 -116.883974,51.30505,0 -116.878045,51.306473,0 -116.874515,51.306581,0 -116.863894,51.299084,0 -116.84244,51.29075,0 -116.83213,51.28931,0 -116.825185,51.287444,0 -116.818006,51.283594,0 -116.813866,51.280014,0 -116.81176,51.279004,0 -116.808645,51.27859,0 -116.804664,51.278903,0 -116.798999,51.28082,0 -116.793478,51.281808,0 -116.783984,51.280934,0 -116.778353,51.278078,0 -116.771494,51.276689,0 -116.766841,51.274461,0 -116.753036,51.271695,0 -116.737703,51.263956,0 -116.729042,51.260865,0 -116.720812,51.26018,0 -116.711013,51.258591,0 -116.70243,51.258407,0 -116.688873,51.254896,0 -116.678193,51.25005,0 -116.666625,51.246714,0 -116.652654,51.239147,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
