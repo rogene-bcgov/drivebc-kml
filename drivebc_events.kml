@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-10 19:23:47 UTC
+        Last updated: 2026-02-10 19:49:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (262)</name>
+      <name>🚗 Traffic Events (264)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -782,6 +782,31 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.129043,49.080541,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, northbound. Stalled vehicle between Exit 8: Nordel Way and Nordel Crt (Delta). Nordel Way merge lane partially blocked. Next update time Tue Feb 10 at 12:30 PM PST. Last updated Tue Feb 10 at 11:37 AM PST. (DBC-87193)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Nordel Crt and Exit 8: Nordel Way&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-10T11:37:17-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-10T12:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87193
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.938083,49.148033,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -3635,6 +3660,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>80th St, northbound. Utility work planned between Progress Way and Vantage Way. Starting Wed Feb 25 until Fri Feb 27. From 7:00 AM to 5:00 PM PST daily. Lane Closure. Last updated Tue Feb 10 at 11:23 AM PST. (DBC-87192)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; 80th St&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Progress Way and Vantage Way&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-10T11:23:17-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87192
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.001652,49.141573,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 19 (Island Highway), southbound. Maintenance between Browns Bay Rd and Orange Point Rd for 15.4 km (Campbell River). Until Fri Mar 6 at 4:00 PM PST. Single lane alternating traffic. Watch for traffic control. Lane Closure. Last updated Mon Jan 12 at 9:26 AM PST. (DBC-85883)</name>
           <description>
     &lt;![CDATA[
@@ -5983,6 +6033,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97. Watch for slippery sections between Mitchell Rd and Carp Lake Rd for 99.1 km (22 km north of Prince George to McLeod Lake). Last updated Tue Feb 10 at 11:20 AM PST. (DBCRCON-242019)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Mitchell Rd and Carp Lake Rd for 99.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; McLeod Lake to 22 km north of Prince George&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-10T11:20:01-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242019
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.60347,54.19776,0 -122.603378,54.214899,0 -122.605184,54.22648,0 -122.604554,54.231416,0 -122.60937,54.241868,0 -122.620015,54.251514,0 -122.623821,54.260147,0 -122.628907,54.266625,0 -122.627235,54.275078,0 -122.628512,54.288525,0 -122.623323,54.295809,0 -122.622552,54.297932,0 -122.624389,54.311157,0 -122.625586,54.31306,0 -122.627086,54.314144,0 -122.640978,54.321111,0 -122.642882,54.323017,0 -122.645171,54.328295,0 -122.647175,54.329559,0 -122.651531,54.331238,0 -122.653143,54.333296,0 -122.652453,54.342338,0 -122.64638,54.363511,0 -122.643641,54.36697,0 -122.636182,54.372351,0 -122.632013,54.381524,0 -122.633544,54.394174,0 -122.641433,54.410465,0 -122.64335,54.439163,0 -122.65308,54.457535,0 -122.655708,54.459545,0 -122.657705,54.46289,0 -122.660821,54.46563,0 -122.661654,54.469814,0 -122.680066,54.488312,0 -122.683763,54.495305,0 -122.695467,54.50866,0 -122.696414,54.511364,0 -122.696453,54.51895,0 -122.697168,54.521825,0 -122.702822,54.532921,0 -122.709092,54.539606,0 -122.709627,54.541784,0 -122.708735,54.54674,0 -122.709497,54.548258,0 -122.712909,54.551743,0 -122.715983,54.562749,0 -122.713512,54.583195,0 -122.706877,54.591165,0 -122.701051,54.609178,0 -122.700985,54.611049,0 -122.702129,54.6143,0 -122.699672,54.620666,0 -122.701167,54.62415,0 -122.702791,54.62577,0 -122.713042,54.630632,0 -122.716283,54.6315,0 -122.724108,54.632523,0 -122.726888,54.633429,0 -122.740285,54.641729,0 -122.747187,54.648493,0 -122.756089,54.655345,0 -122.759668,54.660811,0 -122.766466,54.664807,0 -122.768869,54.66727,0 -122.771073,54.671712,0 -122.768283,54.683351,0 -122.769144,54.685882,0 -122.776491,54.690402,0 -122.791543,54.69807,0 -122.791908,54.703523,0 -122.788914,54.708653,0 -122.785522,54.722397,0 -122.786413,54.729916,0 -122.79301,54.746002,0 -122.794979,54.749267,0 -122.80454,54.761884,0 -122.820049,54.777983,0 -122.828967,54.788238,0 -122.829881,54.79067,0 -122.829439,54.798533,0 -122.832596,54.80288,0 -122.839047,54.809163,0 -122.850578,54.818476,0 -122.870749,54.832354,0 -122.872408,54.83479,0 -122.875328,54.841908,0 -122.880541,54.847358,0 -122.882812,54.85228,0 -122.891242,54.859701,0 -122.897859,54.87108,0 -122.911442,54.882985,0 -122.919984,54.888997,0 -122.921823,54.890965,0 -122.922465,54.893624,0 -122.921419,54.899621,0 -122.92236,54.901447,0 -122.927852,54.904375,0 -122.934461,54.909115,0 -122.938019,54.914567,0 -122.943769,54.919,0 -122.955008,54.923927,0 -122.957911,54.925815,0 -122.972824,54.940737,0 -122.976343,54.945479,0 -122.982097,54.950652,0 -122.988667,54.953919,0 -122.996155,54.960127,0 -123.006296,54.96649,0 -123.014705,54.973313,0 -123.017765,54.974528,0 -123.025485,54.976079,0 -123.03065,54.978907,0 -123.032993,54.982209,0 -123.03315,54.991827,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway). Watch for slippery sections between Station Rd W and 6 Mile Hill Brakecheck for 138.1 km (1 km west of Witset (Moricetown) to 9 km east of Topley). Last updated Tue Feb 10 at 11:07 AM PST. (DBCRCON-242032)</name>
           <description>
     &lt;![CDATA[
@@ -6243,7 +6319,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 27. Watch for slippery sections between the start of Highway 27 and Tachie Rd for 61.2 km (Fort St James). Last updated Tue Feb 10 at 6:36 AM PST. (DBCRCON-241971)</name>
+          <name>Highway 27. Watch for slippery sections between the start of Highway 27 and Tachie Rd for 61.2 km (Fort St James). Last updated Tue Feb 10 at 11:20 AM PST. (DBCRCON-241971)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6255,7 +6331,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 27 and Tachie Rd for 61.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Fort St James&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-10T06:36:12-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-10T11:20:13-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6815,32 +6891,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.956182,50.649554,0 -119.926049,50.646131,0 -119.917429,50.64422,0 -119.906421,50.645254,0 -119.895553,50.649277,0 -119.879551,50.653573,0 -119.852918,50.669428,0 -119.838293,50.673148,0 -119.834661,50.674511,0 -119.827182,50.67982,0 -119.817873,50.684565,0 -119.815704,50.686515,0 -119.813209,50.690862,0 -119.810195,50.693439,0 -119.806536,50.695912,0 -119.799752,50.699007,0 -119.795966,50.701549,0 -119.792673,50.705317,0 -119.788982,50.711345,0 -119.767296,50.725262,0 -119.766027,50.726787,0 -119.762402,50.73702,0 -119.7574,50.740743,0 -119.750258,50.753704,0 -119.742004,50.762775,0 -119.740211,50.763865,0 -119.732187,50.766583,0 -119.728393,50.768367,0 -119.716763,50.777823,0 -119.710528,50.786262,0 -119.705473,50.788971,0 -119.703088,50.791105,0 -119.699938,50.801163,0 -119.699982,50.804142,0 -119.699199,50.805816,0 -119.674872,50.822534,0 -119.670365,50.826612,0 -119.668728,50.82732,0 -119.655709,50.830117,0 -119.64966,50.830766,0 -119.644205,50.832972,0 -119.638857,50.836337,0 -119.635528,50.837568,0 -119.629268,50.841368,0 -119.620155,50.845578,0 -119.608603,50.852339,0 -119.604854,50.853801,0 -119.596381,50.863315,0 -119.589887,50.865362,0 -119.583906,50.868986,0 -119.576459,50.872105,0 -119.571229,50.873006,0 -119.569038,50.875624,0 -119.565247,50.877868,0 -119.562194,50.878668,0 -119.556683,50.88118,0 -119.550659,50.882241,0 -119.542252,50.884772,0 -119.539352,50.886747,0 -119.534862,50.888253,0 -119.532503,50.891914,0 -119.518911,50.892715,0 -119.510327,50.888997,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97. Blowing snow between Mitchell Rd and Carp Lake Rd for 99.1 km (22 km north of Prince George to McLeod Lake). Limited visibility with snow. Watch for slippery sections. Compact snow. Last updated Tue Feb 10 at 6:37 AM PST. (DBCRCON-242019)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Mitchell Rd and Carp Lake Rd for 99.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; McLeod Lake to 22 km north of Prince George&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-10T06:37:15-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242019
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.60347,54.19776,0 -122.603378,54.214899,0 -122.605184,54.22648,0 -122.604554,54.231416,0 -122.60937,54.241868,0 -122.620015,54.251514,0 -122.623821,54.260147,0 -122.628907,54.266625,0 -122.627235,54.275078,0 -122.628512,54.288525,0 -122.623323,54.295809,0 -122.622552,54.297932,0 -122.624389,54.311157,0 -122.625586,54.31306,0 -122.627086,54.314144,0 -122.640978,54.321111,0 -122.642882,54.323017,0 -122.645171,54.328295,0 -122.647175,54.329559,0 -122.651531,54.331238,0 -122.653143,54.333296,0 -122.652453,54.342338,0 -122.64638,54.363511,0 -122.643641,54.36697,0 -122.636182,54.372351,0 -122.632013,54.381524,0 -122.633544,54.394174,0 -122.641433,54.410465,0 -122.64335,54.439163,0 -122.65308,54.457535,0 -122.655708,54.459545,0 -122.657705,54.46289,0 -122.660821,54.46563,0 -122.661654,54.469814,0 -122.680066,54.488312,0 -122.683763,54.495305,0 -122.695467,54.50866,0 -122.696414,54.511364,0 -122.696453,54.51895,0 -122.697168,54.521825,0 -122.702822,54.532921,0 -122.709092,54.539606,0 -122.709627,54.541784,0 -122.708735,54.54674,0 -122.709497,54.548258,0 -122.712909,54.551743,0 -122.715983,54.562749,0 -122.713512,54.583195,0 -122.706877,54.591165,0 -122.701051,54.609178,0 -122.700985,54.611049,0 -122.702129,54.6143,0 -122.699672,54.620666,0 -122.701167,54.62415,0 -122.702791,54.62577,0 -122.713042,54.630632,0 -122.716283,54.6315,0 -122.724108,54.632523,0 -122.726888,54.633429,0 -122.740285,54.641729,0 -122.747187,54.648493,0 -122.756089,54.655345,0 -122.759668,54.660811,0 -122.766466,54.664807,0 -122.768869,54.66727,0 -122.771073,54.671712,0 -122.768283,54.683351,0 -122.769144,54.685882,0 -122.776491,54.690402,0 -122.791543,54.69807,0 -122.791908,54.703523,0 -122.788914,54.708653,0 -122.785522,54.722397,0 -122.786413,54.729916,0 -122.79301,54.746002,0 -122.794979,54.749267,0 -122.80454,54.761884,0 -122.820049,54.777983,0 -122.828967,54.788238,0 -122.829881,54.79067,0 -122.829439,54.798533,0 -122.832596,54.80288,0 -122.839047,54.809163,0 -122.850578,54.818476,0 -122.870749,54.832354,0 -122.872408,54.83479,0 -122.875328,54.841908,0 -122.880541,54.847358,0 -122.882812,54.85228,0 -122.891242,54.859701,0 -122.897859,54.87108,0 -122.911442,54.882985,0 -122.919984,54.888997,0 -122.921823,54.890965,0 -122.922465,54.893624,0 -122.921419,54.899621,0 -122.92236,54.901447,0 -122.927852,54.904375,0 -122.934461,54.909115,0 -122.938019,54.914567,0 -122.943769,54.919,0 -122.955008,54.923927,0 -122.957911,54.925815,0 -122.972824,54.940737,0 -122.976343,54.945479,0 -122.982097,54.950652,0 -122.988667,54.953919,0 -122.996155,54.960127,0 -123.006296,54.96649,0 -123.014705,54.973313,0 -123.017765,54.974528,0 -123.025485,54.976079,0 -123.03065,54.978907,0 -123.032993,54.982209,0 -123.03315,54.991827,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
