@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-11 16:20:16 UTC
+        Last updated: 2026-02-11 16:47:26 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (285)</name>
+      <name>🚗 Traffic Events (287)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -991,7 +991,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 17, westbound. Vehicle incident between Grace Rd and Highway 91 Connector (Delta). Right lane is blocked. Expect delays. Next update time Wed Feb 11 at 8:30 AM PST. Last updated Wed Feb 11 at 7:55 AM PST. (DBC-87239)</name>
+          <name>Highway 17, westbound. Vehicle incident between Grace Rd and Highway 91 Connector (Delta). Right lane is blocked. Expect delays. Next update time Wed Feb 11 at 9:00 AM PST. Last updated Wed Feb 11 at 8:20 AM PST. (DBC-87239)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1003,8 +1003,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Highway 91 Connector and Grace Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T07:55:40-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-11T08:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T08:20:15-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-11T09:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-87239
@@ -5071,7 +5071,33 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector). Pavement patching is planned. Between Bjornson Rd and Umiti Pit Rd for 7.0 km (15 to 8 km north of Quesnel). Starting Wed Feb 11 at 8:30 AM PST until Wed Feb 11 at 5:00 PM PST. Watch for Crew and equipment
+          <name>Highway 1 (TransCanada Highway), in both directions. Utility work between Chief Neskonlith Dr and Shuswap Chase Creek Road for 1.7 km (5 to 3 km west of Chase). Until Wed Feb 11 at 5:00 PM PST. Centre lane closed. Last updated Wed Feb 11 at 8:27 AM PST. (DBC-87242)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Chief Neskonlith Dr and Shuswap Chase Creek Road for 1.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 to 5 km west of Chase&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T08:27:51-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87242
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.720014,50.775039,0 -119.716763,50.777823,0 -119.715267,50.779436,0 -119.714735,50.780038,0 -119.714402,50.78048,0 -119.714155,50.780798,0 -119.713891,50.78116,0 -119.713799,50.781182,0 -119.713413,50.781763,0 -119.712919,50.782547,0 -119.711302,50.78528,0 -119.711095,50.785578,0 -119.710905,50.785831,0 -119.710718,50.786049,0 -119.710528,50.786262,0 -119.710142,50.786594,0 -119.709828,50.786827,0 -119.708768,50.78748,0 -119.70826,50.787719,0 -119.707811,50.787895,0 -119.707496,50.788066,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97 (Cariboo Connector). Pavement patching underway between Bjornson Rd and Umiti Pit Rd for 7.0 km (15 to 8 km north of Quesnel). Until Wed Feb 11 at 5:00 PM PST. Watch for Crew and equipment
 Use Caution when passing. Last updated Wed Feb 11 at 8:12 AM PST. (DBC-87241)</name>
           <description>
     &lt;![CDATA[
@@ -5084,7 +5110,7 @@ Use Caution when passing. Last updated Wed Feb 11 at 8:12 AM PST. (DBC-87241)</n
     &lt;b&gt;Location:&lt;/b&gt; Between Bjornson Rd and Umiti Pit Rd for 7.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 8 to 15 km north of Quesnel&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T08:12:47-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T08:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5096,6 +5122,31 @@ Use Caution when passing. Last updated Wed Feb 11 at 8:12 AM PST. (DBC-87241)</n
             <tessellate>1</tessellate>
             <coordinates>-122.424836,53.071339,0 -122.422145,53.072381,0 -122.418456,53.073809,0 -122.415633,53.074921,0 -122.415489,53.074977,0 -122.415418,53.075005,0 -122.415355,53.07503,0 -122.415193,53.075094,0 -122.407535,53.078141,0 -122.405202,53.079069,0 -122.401811,53.080392,0 -122.400018,53.081091,0 -122.398397,53.081723,0 -122.391926,53.084408,0 -122.391721,53.084493,0 -122.391566,53.084559,0 -122.38813,53.086034,0 -122.38642,53.086767,0 -122.385303,53.087247,0 -122.384495,53.087588,0 -122.384461,53.087603,0 -122.383899,53.087841,0 -122.382093,53.088605,0 -122.3807,53.089195,0 -122.379456,53.089721,0 -122.377293,53.090636,0 -122.376537,53.090902,0 -122.375803,53.091098,0 -122.37561,53.09115,0 -122.37543,53.091184,0 -122.374615,53.091338,0 -122.372597,53.091642,0 -122.371614,53.091862,0 -122.370918,53.092082,0 -122.370239,53.092369,0 -122.369665,53.09267,0 -122.369157,53.093018,0 -122.36831,53.093724,0 -122.366968,53.094743,0 -122.366802,53.094864,0 -122.366192,53.095238,0 -122.36585,53.095448,0 -122.365296,53.095787,0 -122.363687,53.096558,0 -122.362869,53.096881,0 -122.360746,53.097624,0 -122.360004,53.097884,0 -122.359373,53.098104,0 -122.359184,53.098191,0 -122.35844,53.098532,0 -122.357734,53.098922,0 -122.356934,53.099463,0 -122.356292,53.100025,0 -122.356164,53.100137,0 -122.355631,53.100752,0 -122.354291,53.102743,0 -122.35411,53.103188,0 -122.354059,53.103662,0 -122.354128,53.104119,0 -122.354289,53.10447,0 -122.354589,53.104886,0 -122.355679,53.10591,0 -122.355992,53.106352,0 -122.356147,53.106745,0 -122.356192,53.107089,0 -122.356157,53.107495,0 -122.356069,53.10782,0 -122.354958,53.110766,0 -122.354607,53.111694,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Construction work planned at Fraser Hwy (Surrey). Starting Fri Feb 13 until Mon Mar 30. From 7:00 AM to 10:00 PM PST daily. Right lane will be closed. Shoulder will be closed. Highway 15 Pier construction. Northbound ramp from Highway 15 to Fraser Highway remains closed until March 30, 2026. Last updated Wed Feb 11 at 8:43 AM PST. (DBC-87243)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Fraser Hwy&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T08:43:22-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87243
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.734651,49.138055,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 93. Utility work between BC/US Border and Grasmere-Dorr Rd for 12.0 km (Grasmere to British Columbia and Montana Border). Until Tue Feb 17. From 7:00 AM to 7:00 PM MST on weekdays. Lane Closure. Watch for traffic control. Last updated Thu Jan 29 at 11:00 AM MST. (DBC-86668)</name>
