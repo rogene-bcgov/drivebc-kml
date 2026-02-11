@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-11 15:18:45 UTC
+        Last updated: 2026-02-11 15:46:59 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (286)</name>
+      <name>🚗 Traffic Events (287)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -991,6 +991,31 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Road cleared between Exit 32: Steveston Hwy and Deas Thruway (Richmond). Last updated Wed Feb 11 at 7:42 AM PST. (DBC-87238)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Deas Thruway and Exit 32: Steveston Hwy&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T07:42:40-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87238
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.086541,49.131406,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Silver Skagit Rd, in both directions. Washout at Flood Hope Rd. Road closed. Next update time Tue Feb 17 at 10:00 AM PST. Last updated Tue Feb 10 at 10:35 AM PST. (DBC-84723)</name>
           <description>
     &lt;![CDATA[
@@ -1013,31 +1038,6 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-121.472074,49.362355,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident at Port Mann Bridge (Surrey). Coquitlam exit lanes, the left lane is blocked. Next update time Wed Feb 11 at 7:30 AM PST. Last updated Wed Feb 11 at 6:40 AM PST. (DBC-87234)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T06:40:08-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-11T07:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87234
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.813328,49.21973,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4990,6 +4990,32 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.404713,48.459747,0 -123.404755,48.459756,0 -123.404916,48.459788,0 -123.407881,48.460383,0 -123.408011,48.460414,0 -123.408565,48.460548,0 -123.409253,48.460772,0 -123.409777,48.46099,0 -123.41006,48.46113,0 -123.411379,48.461779,0 -123.415257,48.463688,0 -123.415814,48.463874,0 -123.416656,48.464078,0 -123.417373,48.464172,0 -123.418473,48.46419,0 -123.418661,48.464184,0 -123.421099,48.464119,0 -123.421893,48.464114,0 -123.422368,48.464116,0 -123.423043,48.464118,0 -123.423365,48.46412,0 -123.426156,48.464025,0 -123.427429,48.464026,0 -123.42775,48.464033,0 -123.428887,48.464055,0 -123.430008,48.464077,0 -123.430711,48.46406,0 -123.430826,48.464057,0 -123.43094,48.464053,0 -123.430986,48.464051,0 -123.431176,48.46404,0 -123.431253,48.464036,0 -123.431984,48.463994,0 -123.432029,48.463992,0 -123.433509,48.46384,0 -123.433793,48.46379,0 -123.434809,48.463614,0 -123.435092,48.463565,0 -123.435521,48.463489,0 -123.436404,48.463333,0 -123.436752,48.463268,0 -123.437821,48.46307,0 -123.43805,48.463034,0 -123.43887,48.462935,0 -123.439049,48.46292,0 -123.444078,48.462482,0 -123.445052,48.462397,0 -123.445334,48.462372,0 -123.44697,48.462229,0 -123.448753,48.462074,0 -123.450039,48.461962,0 -123.450363,48.461933,0 -123.452938,48.46171,0 -123.453265,48.461682,0 -123.453323,48.461677,0 -123.453541,48.461659,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), in both directions. Maintenance planned between 287 St and Highway 11 / Cedar Valley Connector for 9.1 km (Mission to Maple Ridge). Starting Wed Feb 11 at 9:00 AM PST until Wed Feb 11 at 3:00 PM PST. Left lane will be closed in both directions. Centre median island cleaning. Last updated Wed Feb 11 at 7:21 AM PST. (DBC-87237)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 287 St and Highway 11 / Cedar Valley Connector for 9.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Maple Ridge to Mission&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T07:21:30-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87237
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.428956,49.17333,0 -122.428629,49.173332,0 -122.427448,49.173353,0 -122.426198,49.173234,0 -122.425971,49.173266,0 -122.425523,49.173195,0 -122.424513,49.17293,0 -122.423942,49.172753,0 -122.42199,49.172174,0 -122.419811,49.171462,0 -122.41856,49.171052,0 -122.416422,49.170211,0 -122.415072,49.169679,0 -122.412908,49.168689,0 -122.411155,49.167737,0 -122.409616,49.166771,0 -122.409024,49.166354,0 -122.408296,49.165843,0 -122.40802,49.165649,0 -122.407953,49.165548,0 -122.407238,49.164965,0 -122.40664,49.164478,0 -122.406523,49.164382,0 -122.406155,49.164087,0 -122.405811,49.163749,0 -122.405095,49.163044,0 -122.404297,49.162257,0 -122.404084,49.162047,0 -122.404056,49.162012,0 -122.403585,49.161427,0 -122.402891,49.160566,0 -122.402418,49.15998,0 -122.401769,49.159175,0 -122.401082,49.158271,0 -122.401049,49.158228,0 -122.40019,49.157366,0 -122.400096,49.157289,0 -122.400011,49.157219,0 -122.399477,49.156778,0 -122.399291,49.156705,0 -122.397051,49.155264,0 -122.395767,49.154483,0 -122.394538,49.153891,0 -122.390706,49.152313,0 -122.383608,49.14939,0 -122.382124,49.148789,0 -122.382047,49.148755,0 -122.381921,49.148699,0 -122.379814,49.147825,0 -122.375443,49.14603,0 -122.371086,49.144239,0 -122.370799,49.144122,0 -122.367468,49.142725,0 -122.367359,49.142615,0 -122.36057,49.139777,0 -122.360475,49.139737,0 -122.360174,49.139598,0 -122.360144,49.139584,0 -122.359709,49.13941,0 -122.355533,49.137735,0 -122.352947,49.136704,0 -122.352441,49.136516,0 -122.350171,49.135533,0 -122.347175,49.134369,0 -122.344495,49.133588,0 -122.342764,49.133291,0 -122.342419,49.133245,0 -122.34198,49.133201,0 -122.341965,49.1332,0 -122.33823,49.133082,0 -122.335934,49.132963,0 -122.333993,49.132925,0 -122.333522,49.132912,0 -122.333496,49.132912,0 -122.333254,49.132911,0 -122.32917,49.132895,0 -122.329092,49.132894,0 -122.326981,49.132888,0 -122.326205,49.132876,0 -122.326043,49.132875,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
