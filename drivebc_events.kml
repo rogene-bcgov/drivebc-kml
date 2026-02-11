@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-11 23:06:39 UTC
+        Last updated: 2026-02-11 23:41:50 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (266)</name>
+      <name>🚗 Traffic Events (263)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -146,6 +146,31 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.432976,52.815713,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 44 and United Blvd (Coquitlam). Right lane is blocked. Expect delays. Located in the Surrey exit lanes. Next update time Wed Feb 11 at 4:30 PM PST. Last updated Wed Feb 11 at 3:30 PM PST. (DBC-87268)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 44 and United Blvd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T15:30:53-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-11T16:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87268
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.825735,49.228138,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -914,31 +939,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road cleared between Exit 40: Brunette Ave and North Rd (Coquitlam). Last updated Wed Feb 11 at 2:54 PM PST. (DBC-87261)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between North Rd and Exit 40: Brunette Ave&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T14:54:36-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87261
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.888858,49.239875,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97B, in both directions. Watch for falling ice between Black Rd and Highway 1 for 5.6 km (Salmon Arm). Watch for falling rocks. Last updated Wed Feb 11 at 2:56 PM PST. (DBC-87094)</name>
           <description>
     &lt;![CDATA[
@@ -990,7 +990,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91A, eastbound. Stalled vehicle between Queensborough Bridge and River Dr (New Westminster). Right lane is blocked. Next update time Wed Feb 11 at 4:00 PM PST. Last updated Wed Feb 11 at 2:57 PM PST. (DBC-87266)</name>
+          <name>Highway 91A, eastbound. Road cleared between Queensborough Bridge and River Dr (New Westminster). Last updated Wed Feb 11 at 3:34 PM PST. (DBC-87266)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1002,8 +1002,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Queensborough Bridge and River Dr&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; New Westminster&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T14:57:56-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-11T16:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T15:34:16-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-87266
@@ -1195,7 +1195,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 14, eastbound. Vehicle fire between Impala Rd and Humpback Rd for 5.6 km (Langford to Metchosin). Lane Closure. Expect delays. Slow down and watch for road crew. Last updated Wed Feb 11 at 11:03 AM PST. (DBC-87151)</name>
+          <name>Highway 14, eastbound. Vehicle fire between Impala Rd and Humpback Rd for 5.6 km (Langford to Metchosin). Lane Closure. Expect delays. Slow down and watch for road crew. Last updated Wed Feb 11 at 3:33 PM PST. (DBC-87151)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1207,7 +1207,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Impala Rd and Humpback Rd for 5.6 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Metchosin to Langford&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T11:03:56-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T15:33:47-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -1221,7 +1221,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), southbound. Tree on road between Somenos Rd and Mays Rd for 1.5 km (5 to 4 km north of Duncan). Southbound lane closure. Last updated Wed Feb 11 at 11:03 AM PST. (DBC-86692)</name>
+          <name>Highway 1 (TransCanada Highway), southbound. Tree on road between Somenos Rd and Mays Rd for 1.5 km (5 to 4 km north of Duncan). Southbound lane closure. Last updated Wed Feb 11 at 3:33 PM PST. (DBC-86692)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1233,7 +1233,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Mays Rd and Somenos Rd for 1.5 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 to 4 km north of Duncan&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T11:03:48-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T15:33:53-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2883,32 +2883,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-120.181245,51.306325,0 -120.18102,51.308123,0 -120.1809,51.309082,0 -120.180683,51.310813,0 -120.180662,51.310983,0 -120.18056,51.311798,0 -120.180545,51.311915,0 -120.180445,51.312713,0 -120.180398,51.313086,0 -120.18029,51.314148,0 -120.18028,51.315047,0 -120.18041,51.315951,0 -120.180532,51.316465,0 -120.180684,51.317107,0 -120.180697,51.317163,0 -120.180727,51.317285,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97, in both directions. Utility work between Hanna Rd and Duck Range Rd for 2.4 km (5 to 8 km east of Monte Creek). Until Wed Feb 11 at 3:30 PM PST. Single lane alternating traffic. Last updated Thu Jan 22 at 9:42 AM PST. (DBC-86417)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Hanna Rd and Duck Range Rd for 2.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 8 to 5 km east of Monte Creek&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T10:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86417
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.892099,50.604928,0 -119.892489,50.606302,0 -119.8925,50.606531,0 -119.892532,50.607212,0 -119.892238,50.608233,0 -119.891962,50.608941,0 -119.89192,50.609049,0 -119.891908,50.609191,0 -119.891866,50.609686,0 -119.891973,50.610124,0 -119.892301,50.610557,0 -119.892951,50.61104,0 -119.8944,50.611553,0 -119.894936,50.611835,0 -119.895415,50.612217,0 -119.89564,50.612396,0 -119.89597,50.612797,0 -119.896288,50.613183,0 -119.896322,50.613213,0 -119.896959,50.61378,0 -119.898159,50.614404,0 -119.898686,50.614678,0 -119.90425,50.617651,0 -119.905022,50.618204,0 -119.905465,50.618603,0 -119.905693,50.618809,0 -119.905885,50.618982,0 -119.906917,50.619744,0 -119.909611,50.621154,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5952,32 +5926,6 @@ Use Caution when passing. Last updated Wed Feb 11 at 8:12 AM PST. (DBC-87241)</n
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Hemlock Valley Rd. Watch for slippery sections between the start of Hemlock Valley Rd and End of Route for 13.8 km (13 km south of Sasquatch Mountain Resort to Sasquatch Mountain Resort). Last updated Wed Feb 11 at 4:53 AM PST. (DBCRCON-242112)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Hemlock Valley Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Hemlock Valley Rd and End of Route for 13.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sasquatch Mountain Resort to 13 km south of Sasquatch Mountain Resort&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T04:53:28-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242112
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.916826,49.307935,0 -121.915338,49.309364,0 -121.916657,49.308886,0 -121.918952,49.308958,0 -121.916725,49.31017,0 -121.915802,49.311944,0 -121.914704,49.312409,0 -121.912762,49.311448,0 -121.913455,49.313105,0 -121.912603,49.313872,0 -121.911276,49.313702,0 -121.911576,49.312921,0 -121.909725,49.313515,0 -121.911664,49.315535,0 -121.91145,49.31614,0 -121.913706,49.315772,0 -121.913854,49.316072,0 -121.909245,49.317413,0 -121.90614,49.319168,0 -121.906235,49.320139,0 -121.904141,49.320267,0 -121.903954,49.321007,0 -121.905678,49.324317,0 -121.904499,49.325089,0 -121.902439,49.329257,0 -121.902229,49.33156,0 -121.899073,49.336457,0 -121.903027,49.34157,0 -121.902146,49.34701,0 -121.903,49.347033,0 -121.903262,49.346027,0 -121.905369,49.344619,0 -121.906066,49.347961,0 -121.90815,49.348109,0 -121.91205,49.34947,0 -121.916184,49.352323,0 -121.916086,49.354909,0 -121.91888,49.359564,0 -121.914464,49.358696,0 -121.9109,49.357007,0 -121.913261,49.359291,0 -121.920046,49.363218,0 -121.921066,49.362658,0 -121.922067,49.363094,0 -121.922079,49.364259,0 -121.919091,49.365951,0 -121.918751,49.367492,0 -121.922269,49.371195,0 -121.925514,49.372847,0 -121.926967,49.377406,0 -121.928258,49.377958,0 -121.930477,49.377614,0 -121.932993,49.378037,0 -121.935577,49.379524,0 -121.935244,49.379742,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Road 40 (Lillooet-Pioneer Rd). Watch for slippery sections between Haylmore Ave and Yalakom Rd for 56.7 km (99 to 42 km west of Lillooet). Last updated Wed Feb 11 at 11:03 AM PST. (DBCRCON-242150)</name>
           <description>
     &lt;![CDATA[
@@ -6836,32 +6784,6 @@ Use Caution when passing. Last updated Wed Feb 11 at 8:12 AM PST. (DBC-87241)</n
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.667486,51.874743,0 -121.668966,51.876547,0 -121.669664,51.881555,0 -121.671197,51.883789,0 -121.683452,51.889686,0 -121.697267,51.894247,0 -121.717949,51.899365,0 -121.734588,51.906003,0 -121.762099,51.929989,0 -121.805859,51.975205,0 -121.826439,51.989052,0 -121.83096,51.990276,0 -121.844533,51.991648,0 -121.853968,51.996325,0 -121.865226,52.008626,0 -121.905054,52.039965,0 -121.908041,52.044154,0 -121.918614,52.066407,0 -121.920749,52.073111,0 -121.922537,52.079593,0 -121.920554,52.089676,0 -121.920937,52.091887,0 -121.922267,52.093659,0 -121.92716,52.09717,0 -121.928357,52.098747,0 -121.928308,52.106742,0 -121.929244,52.109485,0 -121.932394,52.112479,0 -121.937883,52.115906,0 -121.941647,52.117424,0 -121.944932,52.118164,0 -121.951791,52.118349,0 -121.959444,52.116668,0 -121.970988,52.115308,0 -121.980818,52.111148,0 -121.986816,52.110831,0 -121.990303,52.111521,0 -122.002357,52.116796,0 -122.005277,52.117296,0 -122.019723,52.117723,0 -122.030029,52.119564,0 -122.032945,52.119691,0 -122.04326,52.118203,0 -122.048428,52.118284,0 -122.053499,52.117784,0 -122.05722,52.119439,0 -122.060898,52.122964,0 -122.070895,52.124555,0 -122.078984,52.124547,0 -122.082329,52.123923,0 -122.086714,52.122402,0 -122.100545,52.122091,0 -122.111397,52.122796,0 -122.127734,52.127428,0 -122.130575,52.131616,0 -122.134778,52.136027,0 -122.135368,52.140398,0 -122.136713,52.142924,0 -122.142915,52.147996,0 -122.145648,52.151995,0 -122.148622,52.154591,0 -122.148927,52.156259,0 -122.147271,52.159386,0 -122.14643,52.163038,0 -122.138576,52.166167,0 -122.120912,52.167828,0 -122.106734,52.170276,0 -122.104369,52.171,0 -122.100661,52.173332,0 -122.093948,52.175683,0 -122.088771,52.176635,0 -122.081192,52.177257,0 -122.07923,52.178513,0 -122.078832,52.179995,0 -122.079549,52.181196,0 -122.083628,52.183221,0 -122.084716,52.184286,0 -122.084889,52.185586,0 -122.083076,52.189371,0 -122.0841,52.190769,0 -122.087379,52.19318,0 -122.088937,52.195921,0 -122.088182,52.20179,0 -122.09028,52.206069,0 -122.095409,52.229027,0 -122.117476,52.243843,0 -122.118333,52.247139,0 -122.115144,52.25119,0 -122.114997,52.252632,0 -122.120203,52.258348,0 -122.122082,52.259516,0 -122.129128,52.260977,0 -122.138046,52.26513,0 -122.140244,52.267053,0 -122.142455,52.270989,0 -122.146848,52.276048,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 14. Fog patches between Cerantes Rd and Kangaroo Rd for 84.4 km (Port Renfrew to Metchosin). Last updated Wed Feb 11 at 11:02 AM PST. (DBCRCON-242131)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 14&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Cerantes Rd and Kangaroo Rd for 84.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Metchosin to Port Renfrew&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-11T11:02:44-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242131
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.422354,48.552736,0 -124.421544,48.551406,0 -124.411908,48.554941,0 -124.405136,48.555561,0 -124.392459,48.560457,0 -124.385851,48.561565,0 -124.382087,48.563091,0 -124.377669,48.561523,0 -124.371729,48.563015,0 -124.368176,48.562076,0 -124.363607,48.561842,0 -124.357581,48.560167,0 -124.353232,48.559534,0 -124.352961,48.558755,0 -124.355419,48.557,0 -124.355318,48.555743,0 -124.356369,48.554472,0 -124.355999,48.553259,0 -124.36013,48.549754,0 -124.364974,48.544006,0 -124.365439,48.541919,0 -124.364829,48.540109,0 -124.365451,48.538271,0 -124.364448,48.536367,0 -124.364865,48.534409,0 -124.363793,48.53277,0 -124.359994,48.531547,0 -124.358225,48.529749,0 -124.347781,48.524794,0 -124.336833,48.521252,0 -124.334012,48.521024,0 -124.329271,48.519096,0 -124.326282,48.518921,0 -124.322768,48.51686,0 -124.314418,48.51409,0 -124.307987,48.514552,0 -124.300616,48.513407,0 -124.294673,48.514929,0 -124.288066,48.513739,0 -124.285972,48.510389,0 -124.286296,48.508686,0 -124.288145,48.505956,0 -124.287256,48.504316,0 -124.281538,48.501864,0 -124.27905,48.49981,0 -124.275304,48.500483,0 -124.274498,48.49944,0 -124.271048,48.498484,0 -124.264297,48.49961,0 -124.264188,48.49872,0 -124.266027,48.496722,0 -124.266432,48.49439,0 -124.265727,48.493555,0 -124.264776,48.493562,0 -124.264055,48.494772,0 -124.260788,48.49563,0 -124.258755,48.495566,0 -124.255797,48.494357,0 -124.256305,48.493946,0 -124.262349,48.493141,0 -124.266601,48.490719,0 -124.26741,48.489689,0 -124.266545,48.48836,0 -124.267045,48.486821,0 -124.266299,48.486054,0 -124.26663,48.484513,0 -124.265222,48.484604,0 -124.260992,48.483524,0 -124.259706,48.482462,0 -124.25683,48.481657,0 -124.249814,48.480875,0 -124.243859,48.478688,0 -124.241076,48.478207,0 -124.238095,48.475919,0 -124.229585,48.474209,0 -124.225425,48.472027,0 -124.21733,48.470107,0 -124.215399,48.466972,0 -124.209975,48.465035,0 -124.199795,48.464504,0 -124.196518,48.463763,0 -124.18609,48.462986,0 -124.178683,48.461069,0 -124.174082,48.460921,0 -124.171861,48.460224,0 -124.167756,48.457762,0 -124.153261,48.453852,0 -124.150917,48.452011,0 -124.146821,48.45063,0 -124.137664,48.4487,0 -124.135093,48.447626,0 -124.113849,48.443826,0 -124.104098,48.439004,0 -124.099205,48.438617,0 -124.093573,48.439167,0 -124.078054,48.43876,0 -124.07633,48.434976,0 -124.071837,48.433339,0 -124.069767,48.431893,0 -124.067628,48.429305,0 -124.062623,48.427505,0 -124.056982,48.427152,0 -124.057228,48.426483,0 -124.059291,48.425934,0 -124.060166,48.424974,0 -124.059858,48.422491,0 -124.055588,48.422387,0 -124.052866,48.421462,0 -124.049458,48.421092,0 -124.047673,48.420231,0 -124.045351,48.420277,0 -124.044441,48.420865,0 -124.045381,48.422746,0 -124.044256,48.426055,0 -124.042246,48.426892,0 -124.038107,48.426001,0 -124.022961,48.420035,0 -124.017549,48.417184,0 -124.011753,48.412478,0 -124.005738,48.410243,0 -124.00263,48.410252,0 -123.994327,48.408364,0 -123.990494,48.405745,0 -123.987035,48.402186,0 -123.985794,48.399602,0 -123.984127,48.397962,0 -123.973517,48.395231,0 -123.962791,48.395678,0 -123.95706,48.397119,0 -123.950549,48.397428,0 -123.946134,48.396594,0 -123.939204,48.393921,0 -123.929451,48.394828,0 -123.923299,48.393741,0 -123.918519,48.39087,0 -123.91352,48.390724,0 -123.904916,48.38915,0 -123.898243,48.390145,0 -123.894706,48.389062,0 -123.893384,48.38968,0 -123.892658,48.392666,0 -123.891147,48.393468,0 -123.891521,48.396264,0 -123.890679,48.397243,0 -123.888806,48.397598,0 -123.879919,48.396086,0 -123.87864,48.395213,0 -123.871244,48.385969,0 -123.870536,48.380429,0 -123.869255,48.38044,0 -123.866213,48.382538,0 -123.863741,48.382196,0 -123.861953,48.380269,0 -123.852887,48.377783,0 -123.850354,48.374304,0 -123.840541,48.372806,0 -123.834431,48.369547,0 -123.830653,48.365248,0 -123.824129,48.359997,0 -123.822349,48.357753,0 -123.817993,48.358884,0 -123.814815,48.360345,0 -123.80717,48.361296,0 -123.803709,48.363058,0 -123.799434,48.363686,0 -123.794963,48.366101,0 -123.787124,48.365184,0 -123.785424,48.365821,0 -123.783605,48.367616,0 -123.779388,48.369943,0 -123.771137,48.370665,0 -123.765068,48.372072,0 -123.75056,48.3725,0 -123.740877,48.366082,0 -123.738284,48.365702,0 -123.734991,48.366188,0 -123.730748,48.368013,0 -123.725473,48.373651,0 -123.724735,48.376352,0 -123.722957,48.378083,0 -123.718726,48.37875,0 -123.711892,48.380996,0 -123.705264,48.38409,0 -123.700574,48.387543,0 -123.698397,48.387831,0 -123.685696,48.387252,0 -123.681456,48.389558,0 -123.676223,48.390844,0 -123.665198,48.391267,0 -123.65577,48.394721,0 -123.651285,48.393819,0 -123.650962,48.389812,0 -123.645705,48.38673,0 -123.644281,48.387193,0 -123.643547,48.388655,0 -123.640964,48.390935,0 -123.637521,48.391754,0 -123.635043,48.394558,0 -123.63332,48.394853,0 -123.629554,48.394428,0 -123.626451,48.395937,0 -123.622643,48.396267,0 -123.620195,48.397293,0 -123.616018,48.398106,0 -123.61031,48.397227,0 -123.607896,48.395058,0 -123.604636,48.393282,0 -123.599205,48.392835,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
