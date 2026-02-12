@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-12 16:16:55 UTC
+        Last updated: 2026-02-12 16:46:12 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -992,31 +992,6 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 6 EW, eastbound. Vehicle incident between 27 Ave and 27 St (Vernon). Eastbound lane closure. Watch for traffic control. Next update time Thu Feb 12 at 8:45 AM PST. Last updated Thu Feb 12 at 8:03 AM PST. (DBC-87304)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 6 EW&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 27 Ave and 27 St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vernon&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T08:03:10-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-12T08:45:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87304
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-119.267994,50.258161,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 97B, in both directions. Watch for falling ice between Black Rd and Highway 1 for 5.6 km (Salmon Arm). Watch for falling rocks. Last updated Thu Feb 12 at 6:39 AM PST. (DBC-87094)</name>
           <description>
     &lt;![CDATA[
@@ -1118,6 +1093,32 @@
           <Point>
             <coordinates>-121.620539,55.492652,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 6 EW, eastbound. Vehicle incident between 27A Ave and 27 St for 0.4 km (Vernon). Eastbound lane closure. Watch for traffic control. Next update time Thu Feb 12 at 8:45 AM PST. Last updated Thu Feb 12 at 8:15 AM PST. (DBC-87304)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 6 EW&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 27A Ave and 27 St for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vernon&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T08:15:53-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-12T08:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87304
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.27048,50.261102,0 -119.27002,50.260595,0 -119.269837,50.260353,0 -119.268286,50.258353,0 -119.267994,50.258161,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 97A, in both directions. Watch for falling rocks between Hutchison Rd and Main St for 16.4 km (Sicamous). Next update time Sun Feb 22 at 12:00 PM PST. Last updated Wed Feb 11 at 8:54 AM PST. (DBC-85945)</name>
