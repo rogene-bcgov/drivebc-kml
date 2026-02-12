@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-12 20:43:31 UTC
+        Last updated: 2026-02-12 21:07:03 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (267)</name>
+      <name>🚗 Traffic Events (266)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -2604,6 +2604,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Steveston Highway, northbound. Bridge construction at Highway 99. Until Tue Feb 17. From 10:00 PM to 5:00 AM PST on weekdays. Right lane closed. Eastbound to northbound loop ramp on ramp closure and detour. Follow signage and traffic control personnel. Last updated Thu Feb 12 at 12:55 PM PST. (DBC-87316)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Steveston Highway&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Highway 99&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:55:06-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87316
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086597,49.133226,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Road 40. Utility work between Moha Road and Horseshoe Bend. Until Thu Feb 12. From 8:00 AM to 4:00 PM PST on Sunday, Monday, Tuesday, Wednesday and Thursday. Single lane alternating traffic. Please watch for signage and personnel. Last updated Wed Feb 4 at 8:43 AM PST. (DBC-86920)</name>
           <description>
     &lt;![CDATA[
@@ -2626,6 +2651,31 @@
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-122.047529,50.818475,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Steveston Highway, southbound. Bridge construction planned at Highway 99. Starting Tue Feb 17 until Fri Feb 20. From 10:00 PM to 5:00 AM PST on weekdays. Right lane will be closed. Follow signage and traffic control personnel. Last updated Thu Feb 12 at 12:58 PM PST. (DBC-87317)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Steveston Highway&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Highway 99&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:58:56-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87317
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086597,49.133226,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -3217,32 +3267,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-123.585797,48.410866,0 -123.585769,48.411348,0 -123.58567,48.413042,0 -123.585486,48.413923,0 -123.585352,48.414395,0 -123.585269,48.414685,0 -123.585207,48.414906,0 -123.585126,48.415105,0 -123.585002,48.415409,0 -123.584666,48.415904,0 -123.584561,48.416016,0 -123.58426,48.416339,0 -123.58364,48.416793,0 -123.58103,48.418292,0 -123.580839,48.418439,0 -123.580561,48.418653,0 -123.580246,48.418995,0 -123.579557,48.419741,0 -123.578934,48.420278,0 -123.575307,48.422647,0 -123.574994,48.422851,0 -123.573231,48.423733,0 -123.572631,48.424061,0 -123.571792,48.424521,0 -123.571403,48.424795,0 -123.570007,48.425778,0 -123.569491,48.42603,0 -123.568892,48.42622,0 -123.56831,48.426321,0 -123.568188,48.426328,0 -123.567758,48.426351,0 -123.567735,48.426348,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 28, eastbound. Utility work between Gold River Hwy and Western Mine Rd for 0.8 km (13 to 14 km east of Gold River). Until Thu Feb 12 at 1:00 PM PST. Single lane alternating traffic. Watch for traffic control. Last updated Wed Jan 28 at 12:46 PM PST. (DBC-86634)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 28&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Gold River Hwy and Western Mine Rd for 0.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 to 13 km east of Gold River&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T09:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86634
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.908473,49.843692,0 -125.906847,49.843104,0 -125.905969,49.84274,0 -125.901478,49.840875,0 -125.901286,49.840795,0 -125.901146,49.840737,0 -125.900563,49.840496,0 -125.900042,49.84035,0 -125.899542,49.840289,0 -125.899325,49.840286,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4602,31 +4626,6 @@ Reduce speed and use caution when passing. Last updated Thu Feb 12 at 7:31 AM PS
           </Point>
         </Placemark>
         <Placemark>
-          <name>Steveston Hwy, in both directions. Bridge construction at Highway 99. Until Thu Feb 12. From 7:00 AM to 7:00 PM PST on Monday, Tuesday, Wednesday and Thursday. Right lane closed. Last updated Wed Feb 4 at 7:32 PM PST. (DBC-86708)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Steveston Hwy&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Highway 99&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-09T00:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86708
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-123.086592,49.133545,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 11, southbound. Construction work between Hazelwood Ave and Pratt St (Abbotsford). Until Thu Mar 19. From 7:00 AM to 7:00 PM PST daily. Right turn lane closed. Last updated Wed Jan 28 at 1:45 PM PST. (DBC-86636)</name>
           <description>
     &lt;![CDATA[
@@ -5346,31 +5345,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-120.455469,50.666403,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5A, southbound. Electrical maintenance between Pennask Lake Rd and Monck Park Rd (10 km north of Merritt). Until Thu Feb 12 at 1:00 PM PST. Single lane alternating traffic. Watch for traffic control. Watch for crews on scene single lane alternating in effect. Last updated Wed Feb 11 at 4:59 PM PST. (DBC-87275)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Monck Park Rd and Pennask Lake Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 10 km north of Merritt&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T10:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87275
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-120.612407,50.154257,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -7026,7 +7000,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.119653-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.129221-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7063,7 +7037,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.127349-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.143956-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7100,7 +7074,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.110833-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.120141-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7137,7 +7111,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.135451-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.155989-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7174,7 +7148,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.083393-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.094367-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7214,7 +7188,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.092405-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.102255-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7251,7 +7225,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.143731-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.166762-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7288,7 +7262,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.151262-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.180251-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7325,7 +7299,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.165425-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.197530-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7362,7 +7336,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.068287-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.069131-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7399,7 +7373,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.074896-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.083381-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7439,7 +7413,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.100945-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.110849-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7476,7 +7450,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.177126-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.208274-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7513,7 +7487,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:00:14.059912-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T13:00:14.052475-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
