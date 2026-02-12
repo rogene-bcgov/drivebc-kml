@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-12 23:05:13 UTC
+        Last updated: 2026-02-12 23:40:20 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (257)</name>
+      <name>🚗 Traffic Events (259)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -862,7 +862,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle at Second Narrows Bridge (North Vancouver - District). Right lane is blocked. Expect delays. Watch for traffic control. Next update time Thu Feb 12 at 3:30 PM PST. Last updated Thu Feb 12 at 3:01 PM PST. (DBC-87321)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Stalled vehicle between Cariboo Rd and Central Valley Greenway (Burnaby). Right lane is blocked. Watch for traffic control. Expect delays. Next update time Thu Feb 12 at 3:45 PM PST. Last updated Thu Feb 12 at 3:11 PM PST. (DBC-87323)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -871,19 +871,19 @@
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Cariboo Rd and Central Valley Greenway&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burnaby&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T15:01:21-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-12T15:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T15:11:42-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-12T15:45:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87321
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87323
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
-            <coordinates>-123.026346,49.295359,0</coordinates>
+            <coordinates>-122.909613,49.245289,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -4060,6 +4060,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 95. Electrical maintenance planned between Peterson Rd and Mons Rd for 7.1 km (21 to 28 km south of Golden). Starting Wed Feb 18 at 9:00 AM MST until Thu Feb 19 at 3:00 PM MST. Single lane alternating traffic will be in effect. Expect minor delays. Last updated Thu Feb 12 at 4:06 PM MST. (DBC-87322)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 95&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Peterson Rd and Mons Rd for 7.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 28 to 21 km south of Golden&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T15:06:23-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87322
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.692658,51.097483,0 -116.696005,51.099789,0 -116.696246,51.099987,0 -116.696661,51.100329,0 -116.697227,51.100878,0 -116.697293,51.100943,0 -116.699759,51.103643,0 -116.700698,51.104671,0 -116.701127,51.105074,0 -116.701561,51.105413,0 -116.702193,51.105823,0 -116.702523,51.105981,0 -116.702895,51.106158,0 -116.704978,51.107149,0 -116.709352,51.10923,0 -116.710971,51.11,0 -116.712686,51.110986,0 -116.71338,51.111387,0 -116.714049,51.111774,0 -116.717049,51.11351,0 -116.717302,51.113656,0 -116.717456,51.113745,0 -116.718483,51.114555,0 -116.719305,51.115262,0 -116.72296,51.118409,0 -116.72596,51.120992,0 -116.726146,51.121151,0 -116.726521,51.121419,0 -116.726721,51.121531,0 -116.726938,51.121652,0 -116.727438,51.121865,0 -116.728811,51.122346,0 -116.729325,51.122526,0 -116.729775,51.122684,0 -116.730287,51.12294,0 -116.730405,51.122999,0 -116.731681,51.123694,0 -116.732255,51.124006,0 -116.734609,51.125288,0 -116.734883,51.125438,0 -116.736207,51.126159,0 -116.740096,51.128626,0 -116.740259,51.12873,0 -116.740603,51.128949,0 -116.742448,51.130278,0 -116.742578,51.130365,0 -116.743744,51.13115,0 -116.745204,51.132002,0 -116.745865,51.132388,0 -116.746509,51.132859,0 -116.748174,51.134301,0 -116.748688,51.134673,0 -116.749662,51.135269,0 -116.749672,51.135275,0 -116.749755,51.135323,0 -116.758192,51.140216,0 -116.758755,51.140493,0 -116.759566,51.140809,0 -116.760297,51.141026,0 -116.763513,51.141749,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Construction work between York Rd and Beverly St for 0.7 km (Duncan). From 8:00 PM to 5:00 AM PST daily. Traffic reduced to two lanes overnight. Expect delays and traffic pattern changes. Construction speed limit in effect 24/7. Next update time Fri May 1 at 12:00 PM PST. Last updated Wed Jan 28 at 12:57 PM PST. (DBC-86635)</name>
           <description>
     &lt;![CDATA[
@@ -4213,6 +4239,32 @@
             <tessellate>1</tessellate>
             <coordinates>-119.650312,49.82087,0 -119.650241,49.820939,0 -119.650089,49.821088,0 -119.647831,49.823302,0 -119.647541,49.823697,0 -119.64723,49.824192,0 -119.647207,49.824228,0 -119.646257,49.826451,0 -119.645947,49.826873,0 -119.645612,49.827186,0 -119.6455,49.827266,0 -119.6451,49.827554,0 -119.64454,49.827841,0 -119.644037,49.828016,0 -119.643257,49.828175,0 -119.643022,49.828223,0 -119.642451,49.828283,0 -119.637718,49.828406,0 -119.636103,49.828414,0 -119.634501,49.828423,0 -119.6339,49.828427,0 -119.630966,49.828432,0 -119.629896,49.828451,0 -119.62819,49.828649,0 -119.626819,49.828678,0 -119.625374,49.828684,0 -119.624121,49.828714,0 -119.623796,49.82874,0 -119.62358,49.828791,0 -119.623258,49.828926,0 -119.623075,49.829058,0 -119.622887,49.82926,0 -119.622776,49.82943,0 -119.622725,49.829651,0 -119.622774,49.830517,0 -119.622717,49.830772,0 -119.622536,49.831032,0 -119.622169,49.831335,0 -119.620381,49.832649,0 -119.616019,49.835884,0 -119.615679,49.836137,0 -119.61556,49.836222,0 -119.615233,49.836465,0 -119.610968,49.839618,0 -119.610484,49.839975,0 -119.610034,49.840312,0 -119.600554,49.847401,0 -119.600136,49.847775,0 -119.599801,49.848121,0 -119.599278,49.848793,0 -119.598898,49.849452,0 -119.596675,49.854215,0 -119.595984,49.85526,0 -119.595429,49.855909,0 -119.595173,49.856206,0 -119.594851,49.856516,0 -119.594338,49.857015,0 -119.593093,49.85798,0 -119.590369,49.859899,0 -119.590286,49.859957,0 -119.590084,49.860097,0 -119.588695,49.860931,0 -119.587691,49.861369,0 -119.587249,49.861563,0 -119.586834,49.861707,0 -119.586415,49.861854,0 -119.585554,49.862097,0 -119.584143,49.8624,0 -119.582774,49.862579,0 -119.581399,49.86265,0 -119.575939,49.862605,0 -119.570077,49.862586,0 -119.568704,49.86267,0 -119.567385,49.862834,0 -119.565694,49.863193,0 -119.565138,49.863379,0 -119.564566,49.863573,0 -119.564039,49.863783,0 -119.563466,49.864016,0 -119.562688,49.864407,0 -119.562192,49.864704,0 -119.55668,49.868315,0 -119.556155,49.868659,0 -119.554254,49.869904,0 -119.553916,49.870126,0 -119.553854,49.870167,0 -119.552836,49.870833,0 -119.552225,49.87116,0 -119.551809,49.871382,0 -119.551291,49.871614,0 -119.550711,49.871822,0 -119.550291,49.871973,0 -119.544178,49.873747,0 -119.543419,49.87395,0 -119.542336,49.874344,0 -119.541681,49.874661,0 -119.540871,49.875196,0 -119.540421,49.875572,0 -119.540048,49.875956,0 -119.539641,49.876483,0 -119.538307,49.878628,0 -119.537604,49.879605,0 -119.536968,49.880387,0 -119.536396,49.880989,0 -119.53602,49.881315,0 -119.535392,49.881921,0 -119.534278,49.882788,0 -119.533141,49.883615,0 -119.531214,49.884837,0 -119.530712,49.885055,0 -119.530169,49.885195,0 -119.529652,49.885259,0 -119.529128,49.88526,0 -119.528671,49.885215,0 -119.528223,49.885123,0 -119.527695,49.884936,0 -119.527096,49.884616,0 -119.526429,49.88397,0 -119.525095,49.882681,0 -119.52438,49.881949,0 -119.524201,49.881545,0 -119.52414,49.881181,0 -119.524182,49.879554,0 -119.524041,49.879101,0 -119.523681,49.878703,0 -119.523506,49.878509,0 -119.523361,49.878385,0 -119.523003,49.878175,0 -119.522695,49.878039,0 -119.522557,49.877988,0 -119.522394,49.87794,0 -119.52138,49.877802,0 -119.52069,49.877814,0 -119.518982,49.878062,0 -119.511078,49.8795,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>21st Street South, in both directions. Utility work planned at 24th Avenue South in Cranbrook. Starting Mon Feb 23 until Fri Mar 6. Lane closures in both directions planned. Watch for traffic control personnel. Feb 23rd to Feb 27th: Single lane alternating traffic, 7:00AM to 6:00PM.
+March 3rd: Road closure with detour, 7:00AM to 9:00 PM. March 4th to March 5th: Single lane alternating traffic, 7:00AM to 6:00PM. Last updated Thu Feb 12 at 4:33 PM MST. (DBC-87324)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; 21st Street South&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At 24th Avenue South in Cranbrook&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T15:33:36-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87324
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-115.748326,49.488675,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 4, in both directions. Construction work between Heath Rd and Victoria Quay for 0.3 km (Port Alberni). Shoulder closed. Expect minor delays. Watch for traffic control. 24/7 - 30kmhr construction zone - Slow down and watch for work crews. Next update time Fri Mar 6 at 12:00 PM PST. Last updated Wed Jan 21 at 3:00 PM PST. (DBC-86381)</name>
@@ -5663,7 +5715,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 93. Watch for slippery sections between Stanley St and Simpson River Trail for 58.0 km (Radium Hot Springs to 36 km south of British Columbia and Alberta Border). Last updated Thu Feb 12 at 1:29 PM MST. (DBCRCON-242048)</name>
+          <name>Highway 93. Watch for slippery sections between Stanley St and Simpson River Trail for 58.0 km (Radium Hot Springs to 36 km south of British Columbia and Alberta Border). Last updated Thu Feb 12 at 4:22 PM MST. (DBCRCON-242048)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5675,7 +5727,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
     &lt;b&gt;Location:&lt;/b&gt; Between Stanley St and Simpson River Trail for 58.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 36 km south of British Columbia and Alberta Border to Radium Hot Springs&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:29:30-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T15:22:05-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5686,58 +5738,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.069863,50.619054,0 -116.071785,50.622265,0 -116.06646,50.626296,0 -116.064879,50.629368,0 -116.062933,50.630466,0 -116.057497,50.631924,0 -116.054862,50.633184,0 -116.049638,50.633215,0 -116.043243,50.63461,0 -116.04014,50.634791,0 -116.038413,50.63558,0 -116.03184,50.635462,0 -116.02576,50.636575,0 -116.023707,50.637238,0 -116.020309,50.639743,0 -116.015218,50.641162,0 -116.009005,50.640902,0 -116.002301,50.641541,0 -115.997087,50.642971,0 -115.981343,50.643077,0 -115.97565,50.645006,0 -115.970592,50.64577,0 -115.966622,50.648766,0 -115.962724,50.653651,0 -115.959955,50.66239,0 -115.955256,50.666647,0 -115.948945,50.669759,0 -115.947656,50.672287,0 -115.946504,50.672954,0 -115.94358,50.672797,0 -115.938153,50.67338,0 -115.933368,50.674764,0 -115.927286,50.675188,0 -115.923347,50.674535,0 -115.91816,50.672592,0 -115.912433,50.671699,0 -115.908609,50.673048,0 -115.903635,50.672064,0 -115.900022,50.672085,0 -115.896577,50.672946,0 -115.894089,50.67256,0 -115.889646,50.673555,0 -115.888271,50.674534,0 -115.888869,50.676835,0 -115.892656,50.681872,0 -115.894533,50.688437,0 -115.896581,50.69036,0 -115.896674,50.692069,0 -115.89834,50.695127,0 -115.899337,50.698955,0 -115.898333,50.702264,0 -115.898513,50.70412,0 -115.904926,50.711012,0 -115.904894,50.715116,0 -115.907394,50.722585,0 -115.906386,50.727125,0 -115.91027,50.732905,0 -115.919331,50.739054,0 -115.920902,50.74094,0 -115.921949,50.744591,0 -115.925195,50.749351,0 -115.929981,50.752887,0 -115.934634,50.755202,0 -115.948873,50.769521,0 -115.976422,50.785415,0 -115.986959,50.789836,0 -115.992898,50.79478,0 -115.995797,50.798293,0 -115.999331,50.800619,0 -116.001011,50.805261,0 -116.012683,50.817376,0 -116.01188,50.822504,0 -116.015409,50.830217,0 -116.017588,50.851559,0 -116.028326,50.864454,0 -116.041193,50.873864,0 -116.046586,50.87717,0 -116.049483,50.882689,0 -116.049053,50.884177,0 -116.045911,50.886226,0 -116.044435,50.888644,0 -116.040213,50.891132,0 -116.040041,50.892092,0 -116.041428,50.893626,0 -116.041289,50.894775,0 -116.033788,50.898393,0 -116.032309,50.899681,0 -116.031934,50.902287,0 -116.030102,50.905561,0 -116.030574,50.906755,0 -116.035229,50.91113,0 -116.035135,50.912378,0 -116.033609,50.914323,0 -116.031661,50.915052,0 -116.023125,50.915608,0 -116.01977,50.918296,0 -116.013176,50.921216,0 -116.004947,50.928333,0 -116.000489,50.930705,0 -115.997954,50.933873,0 -115.987423,50.941364,0 -115.985076,50.94469,0 -115.983375,50.946049,0 -115.980738,50.946977,0 -115.973561,50.947593,0 -115.970053,50.949373,0 -115.965988,50.950621,0 -115.962375,50.952715,0 -115.960458,50.957145,0 -115.954838,50.96062,0 -115.953091,50.965997,0 -115.94746,50.972403,0 -115.947092,50.974101,0 -115.948773,50.978288,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Thu Feb 12 at 1:29 PM MST. (DBCRCON-241959)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Beaverfoot Rd and BC/Alberta Border for 45.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 1 km west of West Boundary of Yoho National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:29:30-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241959
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Thu Feb 12 at 12:29 PM PST. (DBCRCON-241958)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T12:29:30-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241958
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.715278,51.209709,0 -117.708402,51.211371,0 -117.700185,51.2126,0 -117.68871,51.21638,0 -117.682962,51.219548,0 -117.674942,51.226495,0 -117.669622,51.229622,0 -117.664074,51.236236,0 -117.661891,51.237254,0 -117.646958,51.241161,0 -117.636952,51.245731,0 -117.634502,51.24601,0 -117.629235,51.245496,0 -117.616535,51.248077,0 -117.61,51.250736,0 -117.597572,51.251915,0 -117.58299,51.257932,0 -117.564233,51.261767,0 -117.551012,51.26225,0 -117.542573,51.259559,0 -117.539194,51.259342,0 -117.525717,51.263671,0 -117.517386,51.265797,0 -117.51127,51.268241,0 -117.504177,51.269092,0 -117.50335,51.269969,0 -117.503513,51.27111,0 -117.508468,51.274324,0 -117.513531,51.282356,0 -117.513447,51.28681,0 -117.519916,51.299263,0 -117.519849,51.305783,0 -117.514427,51.312509,0 -117.510772,51.314349,0 -117.491433,51.319414,0 -117.483001,51.320722,0 -117.474549,51.323369,0 -117.465954,51.324433,0 -117.451808,51.328721,0 -117.446853,51.329622,0 -117.444192,51.331517,0 -117.439614,51.33693,0 -117.43428,51.345369,0 -117.435887,51.348741,0 -117.436664,51.353394,0 -117.438156,51.35626,0 -117.438666,51.360597,0 -117.443273,51.367438,0 -117.447027,51.37051,0 -117.449612,51.37359,0 -117.452769,51.378901,0 -117.452436,51.381253,0 -117.448274,51.385324,0 -117.448421,51.387085,0 -117.459849,51.396511,0 -117.464835,51.402926,0 -117.468823,51.405548,0 -117.470373,51.407571,0 -117.475287,51.426085,0 -117.479182,51.432974,0 -117.47712,51.43788,0 -117.476881,51.440196,0 -117.477994,51.443507,0 -117.478154,51.450602,0 -117.479127,51.453776,0 -117.479137,51.461384,0 -117.480888,51.466222,0 -117.482285,51.475901,0 -117.473325,51.48932,0 -117.465079,51.496951,0 -117.461073,51.50215,0 -117.459211,51.502981,0 -117.449683,51.505333,0 -117.445191,51.510037,0 -117.442585,51.511528,0 -117.439232,51.512214,0 -117.435588,51.511942,0 -117.423752,51.508475,0 -117.396474,51.492685,0 -117.362033,51.478759,0 -117.359052,51.478345,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6313,6 +6313,58 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Thu Feb 12 at 4:22 PM MST. (DBCRCON-241959)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Beaverfoot Rd and BC/Alberta Border for 45.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 1 km west of West Boundary of Yoho National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T15:22:05-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241959
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Thu Feb 12 at 3:22 PM PST. (DBCRCON-241958)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T15:22:05-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-241958
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.715278,51.209709,0 -117.708402,51.211371,0 -117.700185,51.2126,0 -117.68871,51.21638,0 -117.682962,51.219548,0 -117.674942,51.226495,0 -117.669622,51.229622,0 -117.664074,51.236236,0 -117.661891,51.237254,0 -117.646958,51.241161,0 -117.636952,51.245731,0 -117.634502,51.24601,0 -117.629235,51.245496,0 -117.616535,51.248077,0 -117.61,51.250736,0 -117.597572,51.251915,0 -117.58299,51.257932,0 -117.564233,51.261767,0 -117.551012,51.26225,0 -117.542573,51.259559,0 -117.539194,51.259342,0 -117.525717,51.263671,0 -117.517386,51.265797,0 -117.51127,51.268241,0 -117.504177,51.269092,0 -117.50335,51.269969,0 -117.503513,51.27111,0 -117.508468,51.274324,0 -117.513531,51.282356,0 -117.513447,51.28681,0 -117.519916,51.299263,0 -117.519849,51.305783,0 -117.514427,51.312509,0 -117.510772,51.314349,0 -117.491433,51.319414,0 -117.483001,51.320722,0 -117.474549,51.323369,0 -117.465954,51.324433,0 -117.451808,51.328721,0 -117.446853,51.329622,0 -117.444192,51.331517,0 -117.439614,51.33693,0 -117.43428,51.345369,0 -117.435887,51.348741,0 -117.436664,51.353394,0 -117.438156,51.35626,0 -117.438666,51.360597,0 -117.443273,51.367438,0 -117.447027,51.37051,0 -117.449612,51.37359,0 -117.452769,51.378901,0 -117.452436,51.381253,0 -117.448274,51.385324,0 -117.448421,51.387085,0 -117.459849,51.396511,0 -117.464835,51.402926,0 -117.468823,51.405548,0 -117.470373,51.407571,0 -117.475287,51.426085,0 -117.479182,51.432974,0 -117.47712,51.43788,0 -117.476881,51.440196,0 -117.477994,51.443507,0 -117.478154,51.450602,0 -117.479127,51.453776,0 -117.479137,51.461384,0 -117.480888,51.466222,0 -117.482285,51.475901,0 -117.473325,51.48932,0 -117.465079,51.496951,0 -117.461073,51.50215,0 -117.459211,51.502981,0 -117.449683,51.505333,0 -117.445191,51.510037,0 -117.442585,51.511528,0 -117.439232,51.512214,0 -117.435588,51.511942,0 -117.423752,51.508475,0 -117.396474,51.492685,0 -117.362033,51.478759,0 -117.359052,51.478345,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 16 (Yellowhead Highway). Watch for slippery sections between Dome Creek Rd and Main St for 50.2 km (McBride). Last updated Thu Feb 12 at 7:13 AM PST. (DBCRCON-242242)</name>
           <description>
     &lt;![CDATA[
@@ -6339,7 +6391,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 20. Watch for slippery sections between Olsen Dr and Rainbow Range Trailhead for 77.7 km (16 km east of Bella Coola to 39 km west of Anahim Lake). Muddy sections. Last updated Thu Feb 12 at 11:14 AM PST. (DBCRCON-242220)</name>
+          <name>Highway 20. Watch for slippery sections between Olsen Dr and Rainbow Range Trailhead for 77.7 km (16 km east of Bella Coola to 39 km west of Anahim Lake). Compact snow. Muddy sections. Last updated Thu Feb 12 at 3:37 PM PST. (DBCRCON-242220)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6351,7 +6403,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
     &lt;b&gt;Location:&lt;/b&gt; Between Olsen Dr and Rainbow Range Trailhead for 77.7 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 39 km west of Anahim Lake to 16 km east of Bella Coola&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T11:14:19-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-12T15:37:11-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
