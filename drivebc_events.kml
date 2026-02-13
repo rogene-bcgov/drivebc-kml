@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-13 21:09:03 UTC
+        Last updated: 2026-02-13 21:43:00 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (276)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -607,6 +607,58 @@
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 14, westbound. Vehicle incident between Otter Ridge Dr and Otter Point Rd for 2.4 km (5 to 3 km west of Sooke). Single lane alternating traffic. Watch for traffic control, Emergency Vehicles. Last updated Fri Feb 13 at 1:32 PM PST. (DBC-87367)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 14&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Otter Point Rd and Otter Ridge Dr for 2.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 to 3 km west of Sooke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T13:32:30-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87367
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.83405,48.369226,0 -123.832747,48.367776,0 -123.832728,48.367755,0 -123.832338,48.367283,0 -123.830653,48.365248,0 -123.830041,48.364803,0 -123.829866,48.364676,0 -123.829599,48.364481,0 -123.829122,48.364135,0 -123.828189,48.363457,0 -123.825662,48.361303,0 -123.825588,48.36124,0 -123.825435,48.36111,0 -123.82485,48.360611,0 -123.824129,48.359997,0 -123.82396,48.359804,0 -123.823819,48.359643,0 -123.823682,48.359396,0 -123.823549,48.359158,0 -123.823059,48.358278,0 -123.822967,48.358113,0 -123.82273,48.357903,0 -123.822559,48.357816,0 -123.822349,48.357753,0 -123.822042,48.357722,0 -123.821751,48.357725,0 -123.821459,48.357762,0 -123.820693,48.35801,0 -123.819962,48.358247,0 -123.817993,48.358884,0 -123.816985,48.35937,0 -123.816461,48.359681,0 -123.816324,48.359747,0 -123.815711,48.360044,0 -123.815207,48.360232,0 -123.814953,48.360305,0 -123.814815,48.360345,0 -123.814072,48.360518,0 -123.813394,48.360614,0 -123.812968,48.360664,0 -123.812741,48.36069,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 19A (Island Highway), in both directions. Road cleared between Hobbs Rd and Larkdowne Rd for 0.3 km (4 km north of Qualicum Beach). Last updated Fri Feb 13 at 1:32 PM PST. (DBC-87356)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hobbs Rd and Larkdowne Rd for 0.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km north of Qualicum Beach&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T13:32:13-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87356
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.527984,49.368304,0 -124.529196,49.368418,0 -124.530111,49.368504,0 -124.531817,49.368664,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Little Fort Ferry, in both directions. Ferry is currently out of service at Little Fort Ferry (1 km west of Little Fort). Ferry route closed. Next update time Mon Feb 23 at 12:00 PM PST. Last updated Mon Jan 19 at 12:00 PM PST. (DBC-85250)</name>
           <description>
     &lt;![CDATA[
@@ -988,32 +1040,6 @@
           <Point>
             <coordinates>-121.620539,55.492652,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 19A (Island Highway), in both directions. Vehicle incident between Hobbs Rd and Larkdowne Rd for 0.3 km (4 km north of Qualicum Beach). Until Fri Feb 13 at 1:30 PM PST. Watch for traffic control. All lanes blocked. Detour available through Widgeon road and Polegate road. Next update time Fri Feb 13 at 1:30 PM PST. Last updated Fri Feb 13 at 12:17 PM PST. (DBC-87356)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Hobbs Rd and Larkdowne Rd for 0.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 4 km north of Qualicum Beach&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T12:17:25-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-13T13:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87356
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.527984,49.368304,0 -124.529196,49.368418,0 -124.530111,49.368504,0 -124.531817,49.368664,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway). Watch for falling rocks between Old Ferry Rd and Des Fosses Rd for 43.4 km (14 km east of Chase to 8 km east of Kamloops). Last updated Fri Feb 13 at 6:35 AM PST. (DBC-87299)</name>
@@ -5714,7 +5740,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 93. Watch for slippery sections between Stanley St and Simpson River Trail for 58.0 km (Radium Hot Springs to 36 km south of British Columbia and Alberta Border). Last updated Fri Feb 13 at 1:34 PM MST. (DBCRCON-242048)</name>
+          <name>Highway 93. Watch for slippery sections between Stanley St and Simpson River Trail for 58.0 km (Radium Hot Springs to 36 km south of British Columbia and Alberta Border). Last updated Fri Feb 13 at 2:16 PM MST. (DBCRCON-242048)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5726,7 +5752,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
     &lt;b&gt;Location:&lt;/b&gt; Between Stanley St and Simpson River Trail for 58.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 36 km south of British Columbia and Alberta Border to Radium Hot Springs&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T12:34:22-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T13:16:11-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5766,7 +5792,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Fri Feb 13 at 12:34 PM PST. (DBCRCON-242257)</name>
+          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Fri Feb 13 at 1:16 PM PST. (DBCRCON-242257)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5778,7 +5804,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
     &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T12:34:22-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T13:16:11-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5789,6 +5815,58 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.715278,51.209709,0 -117.708402,51.211371,0 -117.700185,51.2126,0 -117.68871,51.21638,0 -117.682962,51.219548,0 -117.674942,51.226495,0 -117.669622,51.229622,0 -117.664074,51.236236,0 -117.661891,51.237254,0 -117.646958,51.241161,0 -117.636952,51.245731,0 -117.634502,51.24601,0 -117.629235,51.245496,0 -117.616535,51.248077,0 -117.61,51.250736,0 -117.597572,51.251915,0 -117.58299,51.257932,0 -117.564233,51.261767,0 -117.551012,51.26225,0 -117.542573,51.259559,0 -117.539194,51.259342,0 -117.525717,51.263671,0 -117.517386,51.265797,0 -117.51127,51.268241,0 -117.504177,51.269092,0 -117.50335,51.269969,0 -117.503513,51.27111,0 -117.508468,51.274324,0 -117.513531,51.282356,0 -117.513447,51.28681,0 -117.519916,51.299263,0 -117.519849,51.305783,0 -117.514427,51.312509,0 -117.510772,51.314349,0 -117.491433,51.319414,0 -117.483001,51.320722,0 -117.474549,51.323369,0 -117.465954,51.324433,0 -117.451808,51.328721,0 -117.446853,51.329622,0 -117.444192,51.331517,0 -117.439614,51.33693,0 -117.43428,51.345369,0 -117.435887,51.348741,0 -117.436664,51.353394,0 -117.438156,51.35626,0 -117.438666,51.360597,0 -117.443273,51.367438,0 -117.447027,51.37051,0 -117.449612,51.37359,0 -117.452769,51.378901,0 -117.452436,51.381253,0 -117.448274,51.385324,0 -117.448421,51.387085,0 -117.459849,51.396511,0 -117.464835,51.402926,0 -117.468823,51.405548,0 -117.470373,51.407571,0 -117.475287,51.426085,0 -117.479182,51.432974,0 -117.47712,51.43788,0 -117.476881,51.440196,0 -117.477994,51.443507,0 -117.478154,51.450602,0 -117.479127,51.453776,0 -117.479137,51.461384,0 -117.480888,51.466222,0 -117.482285,51.475901,0 -117.473325,51.48932,0 -117.465079,51.496951,0 -117.461073,51.50215,0 -117.459211,51.502981,0 -117.449683,51.505333,0 -117.445191,51.510037,0 -117.442585,51.511528,0 -117.439232,51.512214,0 -117.435588,51.511942,0 -117.423752,51.508475,0 -117.396474,51.492685,0 -117.362033,51.478759,0 -117.359052,51.478345,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5. Slushy with slippery sections between Blue River Bridge and Clemina Overhead Bridge for 58.6 km (Blue River to 29 km south of Valemount). Last updated Fri Feb 13 at 1:25 PM PST. (DBCRCON-242321)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_SNOW_PACKED&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Blue River Bridge and Clemina Overhead Bridge for 58.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 29 km south of Valemount to Blue River&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T13:25:56-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242321
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.302105,52.116734,0 -119.284733,52.135562,0 -119.267248,52.164864,0 -119.259871,52.170005,0 -119.256624,52.17341,0 -119.24913,52.178043,0 -119.243445,52.182279,0 -119.240284,52.187154,0 -119.236026,52.191207,0 -119.233803,52.197008,0 -119.229381,52.202818,0 -119.222286,52.209074,0 -119.221636,52.210728,0 -119.22185,52.216152,0 -119.209726,52.234726,0 -119.206435,52.244852,0 -119.198456,52.255344,0 -119.196715,52.259279,0 -119.192483,52.262677,0 -119.187197,52.268857,0 -119.185923,52.283029,0 -119.181163,52.293894,0 -119.182488,52.306221,0 -119.17788,52.317288,0 -119.178852,52.322472,0 -119.176692,52.328345,0 -119.178288,52.333051,0 -119.177227,52.34114,0 -119.179611,52.348447,0 -119.179813,52.354397,0 -119.182085,52.359894,0 -119.181892,52.363724,0 -119.185084,52.371825,0 -119.185199,52.374102,0 -119.17778,52.389637,0 -119.168742,52.399051,0 -119.166796,52.402236,0 -119.162843,52.404674,0 -119.161291,52.406435,0 -119.15716,52.415546,0 -119.156164,52.424601,0 -119.153702,52.433458,0 -119.147661,52.439958,0 -119.143309,52.443159,0 -119.141639,52.44767,0 -119.135196,52.451413,0 -119.132205,52.454743,0 -119.13229,52.458882,0 -119.134862,52.474293,0 -119.134412,52.476474,0 -119.115843,52.493289,0 -119.108144,52.505541,0 -119.10638,52.509757,0 -119.106069,52.514064,0 -119.107355,52.518608,0 -119.109699,52.522254,0 -119.115434,52.52823,0 -119.116709,52.530705,0 -119.116938,52.533342,0 -119.109232,52.562018,0 -119.10745,52.564277,0 -119.103067,52.567389,0 -119.100689,52.570093,0 -119.095565,52.581762,0 -119.095317,52.583721,0 -119.096557,52.587576,0 -119.101347,52.594165,0 -119.110969,52.602815,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5. Compact snow between Clemina Overhead Bridge and the end of Highway 5 for 49.5 km (29 km south of Valemount to Tete Jaune). Last updated Fri Feb 13 at 6:56 AM PST. (DBCRCON-242322)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; SNOW_PACKED&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Clemina Overhead Bridge and the end of Highway 5 for 49.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Tete Jaune to 29 km south of Valemount&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T06:56:55-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242322
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.110969,52.602815,0 -119.121525,52.608436,0 -119.129245,52.613253,0 -119.133101,52.616622,0 -119.13883,52.622985,0 -119.14613,52.626451,0 -119.159557,52.637517,0 -119.167321,52.645167,0 -119.179776,52.65235,0 -119.186734,52.654613,0 -119.195906,52.658765,0 -119.19811,52.660621,0 -119.20266,52.667546,0 -119.20879,52.673166,0 -119.213556,52.675729,0 -119.22438,52.67806,0 -119.229878,52.68039,0 -119.242412,52.691936,0 -119.248858,52.696025,0 -119.251416,52.698303,0 -119.26746,52.723249,0 -119.268194,52.726622,0 -119.264081,52.759651,0 -119.253293,52.781192,0 -119.253137,52.784363,0 -119.308784,52.88315,0 -119.312324,52.88703,0 -119.396853,52.950763,0 -119.402778,52.954436,0 -119.422901,52.964437,0 -119.424805,52.966658,0 -119.425484,52.968894,0 -119.424955,52.974332,0 -119.424003,52.975446,0 -119.422687,52.975846,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6309,32 +6387,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-120.719436,53.540402,0 -120.71461,53.539637,0 -120.693364,53.533528,0 -120.659216,53.517202,0 -120.65643,53.515187,0 -120.65094,53.509691,0 -120.641791,53.503189,0 -120.637467,53.497849,0 -120.635802,53.497059,0 -120.630722,53.496117,0 -120.627023,53.494179,0 -120.622119,53.492643,0 -120.614847,53.492494,0 -120.608104,53.493558,0 -120.601931,53.495614,0 -120.593481,53.501748,0 -120.587754,53.50291,0 -120.584096,53.502486,0 -120.582633,53.501392,0 -120.580846,53.49865,0 -120.581734,53.492451,0 -120.581236,53.491298,0 -120.579507,53.490219,0 -120.569852,53.486991,0 -120.550025,53.476973,0 -120.53371,53.464361,0 -120.533097,53.462475,0 -120.535458,53.45932,0 -120.535766,53.457234,0 -120.5324,53.450287,0 -120.530623,53.448472,0 -120.525459,53.444924,0 -120.518085,53.442552,0 -120.514878,53.439128,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5. Compact snow between McMurphy Pullout; SA Boundary and the end of Highway 5 for 166.7 km (18 km south of Avola to Tete Jaune). Last updated Fri Feb 13 at 6:56 AM PST. (DBCRCON-242309)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; SNOW_PACKED&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between McMurphy Pullout; SA Boundary and the end of Highway 5 for 166.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Tete Jaune to 18 km south of Avola&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-13T06:56:55-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242309
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.475763,51.671328,0 -119.472619,51.671955,0 -119.466705,51.672077,0 -119.462421,51.673262,0 -119.451032,51.674791,0 -119.437238,51.675271,0 -119.43401,51.67585,0 -119.423772,51.68255,0 -119.417364,51.690045,0 -119.415718,51.691202,0 -119.399349,51.695956,0 -119.387661,51.697932,0 -119.378097,51.703558,0 -119.374249,51.708801,0 -119.366668,51.716057,0 -119.345501,51.732259,0 -119.342591,51.735112,0 -119.337524,51.742426,0 -119.334791,51.749784,0 -119.324093,51.768518,0 -119.324035,51.77009,0 -119.325749,51.774338,0 -119.326057,51.782821,0 -119.323608,51.785005,0 -119.317345,51.787044,0 -119.315121,51.78855,0 -119.31089,51.796047,0 -119.310274,51.801776,0 -119.309177,51.803915,0 -119.303204,51.808013,0 -119.299021,51.812876,0 -119.28994,51.819149,0 -119.285709,51.8253,0 -119.285657,51.828075,0 -119.294671,51.847608,0 -119.295499,51.853815,0 -119.302647,51.86628,0 -119.307094,51.876479,0 -119.307379,51.884584,0 -119.308547,51.888058,0 -119.321766,51.912563,0 -119.323892,51.914557,0 -119.330356,51.917865,0 -119.33174,51.919432,0 -119.331678,51.921642,0 -119.328861,51.925854,0 -119.329043,51.927814,0 -119.333164,51.932158,0 -119.339964,51.935153,0 -119.346144,51.944128,0 -119.346052,51.947028,0 -119.34735,51.9504,0 -119.345814,51.953525,0 -119.345003,51.960155,0 -119.346284,51.96332,0 -119.348485,51.966295,0 -119.349034,51.969665,0 -119.347088,51.973736,0 -119.340902,51.97906,0 -119.338462,51.988395,0 -119.335306,51.992859,0 -119.334463,52.000061,0 -119.338294,52.016824,0 -119.345045,52.023987,0 -119.345791,52.028391,0 -119.343494,52.032065,0 -119.33604,52.036822,0 -119.330613,52.042477,0 -119.329,52.049623,0 -119.329092,52.053457,0 -119.327778,52.061495,0 -119.32567,52.063454,0 -119.321225,52.065015,0 -119.319258,52.066572,0 -119.311451,52.082229,0 -119.310741,52.084575,0 -119.311374,52.103226,0 -119.310843,52.105848,0 -119.309152,52.108976,0 -119.284733,52.135562,0 -119.267248,52.164864,0 -119.259871,52.170005,0 -119.256624,52.17341,0 -119.24913,52.178043,0 -119.243445,52.182279,0 -119.240284,52.187154,0 -119.236026,52.191207,0 -119.233803,52.197008,0 -119.229381,52.202818,0 -119.222286,52.209074,0 -119.221636,52.210728,0 -119.22185,52.216152,0 -119.209726,52.234726,0 -119.206435,52.244852,0 -119.198456,52.255344,0 -119.196715,52.259279,0 -119.192483,52.262677,0 -119.187375,52.268426,0 -119.185923,52.283029,0 -119.181163,52.293894,0 -119.182488,52.306221,0 -119.17788,52.317288,0 -119.178852,52.322472,0 -119.176692,52.328345,0 -119.178288,52.333051,0 -119.177227,52.34114,0 -119.179611,52.348447,0 -119.179813,52.354397,0 -119.182085,52.359894,0 -119.181892,52.363724,0 -119.185084,52.371825,0 -119.185199,52.374102,0 -119.17778,52.389637,0 -119.168742,52.399051,0 -119.166796,52.402236,0 -119.162843,52.404674,0 -119.161291,52.406435,0 -119.15716,52.415546,0 -119.156164,52.424601,0 -119.153702,52.433458,0 -119.147661,52.439958,0 -119.143309,52.443159,0 -119.141639,52.44767,0 -119.135196,52.451413,0 -119.132205,52.454743,0 -119.13229,52.458882,0 -119.134862,52.474293,0 -119.134412,52.476474,0 -119.115843,52.493289,0 -119.106969,52.507895,0 -119.106009,52.512986,0 -119.106952,52.517668,0 -119.109699,52.522254,0 -119.115434,52.52823,0 -119.116709,52.530705,0 -119.116938,52.533342,0 -119.109232,52.562018,0 -119.10745,52.564277,0 -119.103067,52.567389,0 -119.100689,52.570093,0 -119.095565,52.581762,0 -119.095317,52.583721,0 -119.096557,52.587576,0 -119.100762,52.593427,0 -119.108884,52.601194,0 -119.112576,52.603844,0 -119.121525,52.608436,0 -119.129245,52.613253,0 -119.133101,52.616622,0 -119.13883,52.622985,0 -119.14613,52.626451,0 -119.159557,52.637517,0 -119.167321,52.645167,0 -119.179776,52.65235,0 -119.186734,52.654613,0 -119.195906,52.658765,0 -119.19811,52.660621,0 -119.20266,52.667546,0 -119.20879,52.673166,0 -119.213556,52.675729,0 -119.22438,52.67806,0 -119.229878,52.68039,0 -119.242412,52.691936,0 -119.248858,52.696025,0 -119.251416,52.698303,0 -119.26746,52.723249,0 -119.268194,52.726622,0 -119.264081,52.759651,0 -119.253293,52.781192,0 -119.253137,52.784363,0 -119.308784,52.88315,0 -119.312324,52.88703,0 -119.396853,52.950763,0 -119.402778,52.954436,0 -119.422901,52.964437,0 -119.424805,52.966658,0 -119.425484,52.968894,0 -119.424955,52.974332,0 -119.424003,52.975446,0 -119.422687,52.975846,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
