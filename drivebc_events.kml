@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-14 19:36:37 UTC
+        Last updated: 2026-02-14 20:02:26 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (322)</name>
+      <name>🚗 Traffic Events (320)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -1016,7 +1016,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle recovery planned between West Boundary of Mount Revelstoke National Park and Greely Rd (2 km west of West Boundary of Mount Revelstoke National Park). Starting Sat Feb 14 at 12:00 PM PST until Sat Feb 14 at 2:00 PM PST. Right lane will be blocked. Watch for traffic control personnel. Last updated Sat Feb 14 at 10:34 AM PST. (DBC-87392)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle recovery between West Boundary of Mount Revelstoke National Park and Greely Rd (2 km west of West Boundary of Mount Revelstoke National Park). Until Sat Feb 14 at 2:00 PM PST. Right lane is blocked. Watch for traffic control. Last updated Sat Feb 14 at 10:34 AM PST. (DBC-87392)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1028,7 +1028,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Greely Rd and West Boundary of Mount Revelstoke National Park&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km west of West Boundary of Mount Revelstoke National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T10:34:49-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5587,6 +5587,32 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Perry River Bridge and Victoria Rd W for 42.0 km (25 km east of Sicamous to Revelstoke). Slushy with slippery sections. Water pooling. Last updated Sat Feb 14 at 11:35 AM PST. (DBCRCON-242506)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Perry River Bridge and Victoria Rd W for 42.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke to 25 km east of Sicamous&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:35:14-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242506
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.692071,50.996565,0 -118.679638,51.001373,0 -118.670022,51.003257,0 -118.665523,51.003321,0 -118.655757,51.001941,0 -118.651897,51.000573,0 -118.645903,50.997421,0 -118.635518,50.989218,0 -118.629948,50.986735,0 -118.626505,50.984335,0 -118.621076,50.983216,0 -118.61629,50.981587,0 -118.611398,50.97772,0 -118.603838,50.974233,0 -118.589554,50.971076,0 -118.577741,50.970545,0 -118.572125,50.969829,0 -118.569341,50.970368,0 -118.563043,50.973665,0 -118.553354,50.975766,0 -118.546782,50.974941,0 -118.530754,50.977311,0 -118.525445,50.976434,0 -118.522662,50.975039,0 -118.519538,50.971995,0 -118.512527,50.97031,0 -118.507338,50.967955,0 -118.503959,50.965388,0 -118.502444,50.96303,0 -118.498415,50.959063,0 -118.492546,50.955909,0 -118.489623,50.952702,0 -118.48355,50.950478,0 -118.481494,50.947428,0 -118.48112,50.945618,0 -118.483442,50.94154,0 -118.48439,50.935187,0 -118.481293,50.931122,0 -118.475708,50.928038,0 -118.473145,50.927681,0 -118.460965,50.928851,0 -118.457757,50.930013,0 -118.448653,50.932043,0 -118.444791,50.933675,0 -118.432392,50.936825,0 -118.428632,50.938751,0 -118.425856,50.942506,0 -118.424183,50.943707,0 -118.417164,50.945809,0 -118.413319,50.948293,0 -118.406945,50.950761,0 -118.399896,50.957408,0 -118.385398,50.962447,0 -118.382186,50.962972,0 -118.373867,50.962803,0 -118.367575,50.965377,0 -118.361233,50.966922,0 -118.357476,50.969713,0 -118.354738,50.97078,0 -118.348773,50.971396,0 -118.338689,50.971031,0 -118.330359,50.972908,0 -118.320632,50.978033,0 -118.313319,50.979902,0 -118.307153,50.979491,0 -118.303788,50.979961,0 -118.293246,50.985518,0 -118.273109,50.991148,0 -118.269943,50.991621,0 -118.258983,50.991862,0 -118.246055,50.993916,0 -118.243558,50.995111,0 -118.239377,50.999484,0 -118.232072,51.002591,0 -118.223964,51.003767,0 -118.216001,51.009333,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 5A. Limited visibility dense fog between Exit 290: Highway 5 and Exit 290 for 54.2 km (Merritt to 30 km south of Kamloops). Watch for slippery sections. Last updated Sat Feb 14 at 11:19 AM PST. (DBCRCON-242317)</name>
           <description>
     &lt;![CDATA[
@@ -5925,32 +5951,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Albert Canyon Chain Up Area and Glacier National Park West Boundary for 14.8 km (3 km east of East Boundary of Mount Revelstoke National Park to 1 km east of West Boundary of Glacier National Park). Compact snow. Slushy with slippery sections. Last updated Sat Feb 14 at 9:32 AM PST. (DBCRCON-242498)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Albert Canyon Chain Up Area and Glacier National Park West Boundary for 14.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km east of West Boundary of Glacier National Park to 3 km east of East Boundary of Mount Revelstoke National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T09:32:24-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242498
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.874737,51.138358,0 -117.869673,51.139073,0 -117.858391,51.138975,0 -117.840167,51.144679,0 -117.837777,51.146187,0 -117.835874,51.150807,0 -117.834309,51.152022,0 -117.819887,51.154312,0 -117.81772,51.156059,0 -117.812966,51.15816,0 -117.800767,51.161477,0 -117.785365,51.168084,0 -117.76425,51.179261,0 -117.755826,51.185595,0 -117.750498,51.187712,0 -117.748566,51.192447,0 -117.745238,51.196943,0 -117.745607,51.200525,0 -117.744357,51.202504,0 -117.736002,51.205628,0 -117.733345,51.206125,0 -117.727412,51.2062,0 -117.720657,51.208955,0 -117.715278,51.209709,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 6 EW. Limited visibility with fog between Aberdeen Rd and North Fork Rd for 48.3 km (Coldstream to Cherryville). Watch for slippery sections. Last updated Sat Feb 14 at 6:52 AM PST. (DBCRCON-242465)</name>
           <description>
     &lt;![CDATA[
@@ -5974,32 +5974,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.229706,50.241516,0 -119.222679,50.238212,0 -119.221166,50.235992,0 -119.214703,50.231329,0 -119.207657,50.230384,0 -119.201833,50.22785,0 -119.193907,50.225554,0 -119.181806,50.220383,0 -119.170325,50.219905,0 -119.167157,50.218757,0 -119.162344,50.218016,0 -119.157632,50.21868,0 -119.15402,50.220178,0 -119.146251,50.22143,0 -119.134664,50.224311,0 -119.128884,50.226879,0 -119.115994,50.234212,0 -119.105587,50.236798,0 -119.102913,50.238242,0 -119.098566,50.239193,0 -119.084546,50.240616,0 -119.078155,50.242125,0 -119.067954,50.241704,0 -119.059713,50.241693,0 -119.056146,50.242133,0 -119.046755,50.241785,0 -119.031826,50.237457,0 -119.022564,50.236226,0 -119.016976,50.234278,0 -119.010911,50.233383,0 -118.995643,50.235271,0 -118.989744,50.235038,0 -118.985287,50.236137,0 -118.981736,50.23614,0 -118.98065,50.236872,0 -118.980485,50.238817,0 -118.977884,50.243189,0 -118.972923,50.244163,0 -118.968251,50.247045,0 -118.960466,50.248914,0 -118.950875,50.24861,0 -118.946887,50.24963,0 -118.935453,50.251295,0 -118.930404,50.253112,0 -118.92502,50.252837,0 -118.919144,50.250829,0 -118.914126,50.251983,0 -118.908143,50.251278,0 -118.90541,50.251757,0 -118.896945,50.25188,0 -118.889048,50.249812,0 -118.885451,50.251154,0 -118.881038,50.25171,0 -118.877054,50.251114,0 -118.872286,50.251744,0 -118.866163,50.250481,0 -118.858148,50.251267,0 -118.853616,50.251203,0 -118.849337,50.252971,0 -118.834905,50.25683,0 -118.822222,50.261296,0 -118.817763,50.260786,0 -118.815872,50.261189,0 -118.810286,50.264838,0 -118.807876,50.268757,0 -118.806043,50.270545,0 -118.801672,50.273015,0 -118.795296,50.27406,0 -118.788622,50.271353,0 -118.786377,50.271192,0 -118.771973,50.267641,0 -118.769221,50.265695,0 -118.768223,50.263695,0 -118.766141,50.26271,0 -118.761912,50.258695,0 -118.75975,50.257601,0 -118.756648,50.257494,0 -118.754584,50.256552,0 -118.750332,50.255705,0 -118.745344,50.25583,0 -118.736518,50.255108,0 -118.707015,50.249014,0 -118.698294,50.249106,0 -118.695304,50.24734,0 -118.691778,50.2472,0 -118.686268,50.244747,0 -118.675359,50.243574,0 -118.671883,50.244074,0 -118.667941,50.243781,0 -118.663128,50.245448,0 -118.660819,50.245769,0 -118.650789,50.243852,0 -118.647075,50.243721,0 -118.633008,50.247894,0 -118.630876,50.24773,0 -118.629423,50.246856,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway). Limited visibility with fog between Perry River Bridge and Albert Canyon Chain Up Area for 75.3 km (25 km east of Sicamous to 3 km east of East Boundary of Mount Revelstoke National Park). Slushy with slippery sections. Water pooling. Last updated Sat Feb 14 at 8:24 AM PST. (DBCRCON-242497)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Perry River Bridge and Albert Canyon Chain Up Area for 75.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km east of East Boundary of Mount Revelstoke National Park to 25 km east of Sicamous&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T08:24:15-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242497
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.692071,50.996565,0 -118.679638,51.001373,0 -118.670022,51.003257,0 -118.665523,51.003321,0 -118.655757,51.001941,0 -118.651897,51.000573,0 -118.645903,50.997421,0 -118.635518,50.989218,0 -118.629948,50.986735,0 -118.626505,50.984335,0 -118.621076,50.983216,0 -118.61629,50.981587,0 -118.611398,50.97772,0 -118.603838,50.974233,0 -118.589554,50.971076,0 -118.577741,50.970545,0 -118.572125,50.969829,0 -118.569341,50.970368,0 -118.563043,50.973665,0 -118.553354,50.975766,0 -118.546782,50.974941,0 -118.530754,50.977311,0 -118.525445,50.976434,0 -118.522662,50.975039,0 -118.519538,50.971995,0 -118.512527,50.97031,0 -118.507338,50.967955,0 -118.503959,50.965388,0 -118.502444,50.96303,0 -118.498415,50.959063,0 -118.492546,50.955909,0 -118.489623,50.952702,0 -118.48355,50.950478,0 -118.481494,50.947428,0 -118.48112,50.945618,0 -118.483442,50.94154,0 -118.484612,50.935763,0 -118.481293,50.931122,0 -118.474686,50.927757,0 -118.461627,50.928734,0 -118.448653,50.932043,0 -118.444791,50.933675,0 -118.430531,50.937579,0 -118.428146,50.939169,0 -118.425856,50.942506,0 -118.424183,50.943707,0 -118.417164,50.945809,0 -118.413319,50.948293,0 -118.406945,50.950761,0 -118.399896,50.957408,0 -118.385398,50.962447,0 -118.382186,50.962972,0 -118.373867,50.962803,0 -118.367575,50.965377,0 -118.361233,50.966922,0 -118.357476,50.969713,0 -118.354738,50.97078,0 -118.348773,50.971396,0 -118.338689,50.971031,0 -118.330359,50.972908,0 -118.320632,50.978033,0 -118.313319,50.979902,0 -118.307153,50.979491,0 -118.303788,50.979961,0 -118.293246,50.985518,0 -118.273109,50.991148,0 -118.269943,50.991621,0 -118.258983,50.991862,0 -118.246055,50.993916,0 -118.243558,50.995111,0 -118.239377,50.999484,0 -118.232072,51.002591,0 -118.223964,51.003767,0 -118.216001,51.009333,0 -118.213227,51.010379,0 -118.209303,51.01031,0 -118.207469,51.009661,0 -118.204305,51.007114,0 -118.198078,51.006199,0 -118.190454,51.000964,0 -118.188138,51.00007,0 -118.185654,50.999686,0 -118.169351,50.999729,0 -118.165749,50.998715,0 -118.160837,50.995395,0 -118.153688,50.992616,0 -118.147961,50.991723,0 -118.141763,50.992045,0 -118.134385,50.994129,0 -118.129545,50.997681,0 -118.12221,51.000208,0 -118.112667,51.006748,0 -118.100843,51.0091,0 -118.09007,51.01309,0 -118.081463,51.016937,0 -118.068263,51.019709,0 -118.063628,51.021647,0 -118.054958,51.023316,0 -118.048212,51.026271,0 -118.035279,51.028519,0 -118.020617,51.03259,0 -118.014799,51.035248,0 -118.00268,51.03718,0 -117.992094,51.040657,0 -117.982416,51.041055,0 -117.975915,51.04228,0 -117.968166,51.041874,0 -117.96556,51.042604,0 -117.961168,51.044854,0 -117.951154,51.047345,0 -117.943568,51.050903,0 -117.937465,51.052587,0 -117.935901,51.053574,0 -117.93438,51.062252,0 -117.932269,51.06516,0 -117.931239,51.068989,0 -117.926447,51.072992,0 -117.92861,51.078046,0 -117.927803,51.080577,0 -117.897419,51.113145,0 -117.894791,51.11514,0 -117.888646,51.11828,0 -117.887227,51.119679,0 -117.886053,51.122075,0 -117.886441,51.125497,0 -117.883111,51.128505,0 -117.883284,51.130872,0 -117.881803,51.13583,0 -117.879742,51.137344,0 -117.874737,51.138358,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6292,7 +6266,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
-          <name>Highway 23. Watch for slippery sections between Junction Highway 1 and Downie Ck. Bridge for 66.3 km (Revelstoke). Last updated Sat Feb 14 at 11:27 AM PST. (DBCRCON-242483)</name>
+          <name>Highway 23. Watch for slippery sections between Junction Highway 1 and Downie Ck. Bridge for 66.3 km (Revelstoke). Last updated Sat Feb 14 at 11:34 AM PST. (DBCRCON-242483)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6304,7 +6278,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
     &lt;b&gt;Location:&lt;/b&gt; Between Junction Highway 1 and Downie Ck. Bridge for 66.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:27:56-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:34:38-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6396,7 +6370,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Compact snow between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Slushy with slippery sections. Last updated Sat Feb 14 at 8:11 AM PST. (DBCRCON-242257)</name>
+          <name>Highway 1 (TransCanada Highway). Compact snow between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Slushy with slippery sections. Last updated Sat Feb 14 at 11:34 AM PST. (DBCRCON-242257)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6408,7 +6382,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
     &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T08:11:02-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:34:38-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6656,6 +6630,32 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Emerald Lake Rd and BC/Alberta Border for 16.9 km (Field). Compact snow. Last updated Sat Feb 14 at 12:34 PM MST. (DBCRCON-242494)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Emerald Lake Rd and BC/Alberta Border for 16.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Field&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:34:38-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242494
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.496747,51.393455,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.429482,51.420696,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Likely Rd. Watch for slippery sections between the start of Likely Rd and Quesnel Forks Rd for 78.4 km (Likely). Last updated Sat Feb 14 at 7:09 AM PST. (DBCRCON-242410)</name>
           <description>
     &lt;![CDATA[
@@ -6786,7 +6786,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 23. Slushy with slippery sections between Junction Hwy 31 and Junction Highway 1 for 49.0 km (Revelstoke). Last updated Sat Feb 14 at 8:11 AM PST. (DBCRCON-242436)</name>
+          <name>Highway 23. Slushy with slippery sections between Junction Hwy 31 and Junction Highway 1 for 49.0 km (Revelstoke). Last updated Sat Feb 14 at 11:34 AM PST. (DBCRCON-242436)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6798,7 +6798,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
     &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 31 and Junction Highway 1 for 49.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T08:11:02-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:34:38-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6809,6 +6809,84 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.928779,50.634543,0 -117.928845,50.635432,0 -117.92694,50.637807,0 -117.926932,50.639524,0 -117.935808,50.650861,0 -117.949583,50.661567,0 -117.963666,50.67962,0 -117.969144,50.682132,0 -117.982664,50.692441,0 -117.986379,50.697488,0 -117.992932,50.700871,0 -118.012188,50.727595,0 -118.01444,50.729043,0 -118.021237,50.730961,0 -118.023275,50.73259,0 -118.02655,50.738994,0 -118.029943,50.742052,0 -118.032822,50.749268,0 -118.034798,50.751628,0 -118.042616,50.768468,0 -118.04395,50.772657,0 -118.049901,50.776837,0 -118.052217,50.779352,0 -118.055853,50.791194,0 -118.057775,50.79407,0 -118.064039,50.800772,0 -118.065515,50.806435,0 -118.073953,50.813962,0 -118.078324,50.81948,0 -118.082104,50.821899,0 -118.084245,50.826081,0 -118.089326,50.828543,0 -118.101026,50.837485,0 -118.107275,50.841406,0 -118.115143,50.848174,0 -118.123213,50.852034,0 -118.127009,50.855722,0 -118.129905,50.86264,0 -118.135006,50.868369,0 -118.145025,50.874284,0 -118.147548,50.87696,0 -118.15349,50.87905,0 -118.157602,50.882953,0 -118.165089,50.886198,0 -118.175293,50.896495,0 -118.177515,50.900185,0 -118.179811,50.906404,0 -118.1813,50.908234,0 -118.188477,50.912535,0 -118.20443,50.917801,0 -118.207196,50.919344,0 -118.209685,50.921632,0 -118.211338,50.925067,0 -118.213009,50.936979,0 -118.214321,50.938298,0 -118.219647,50.940169,0 -118.226097,50.949906,0 -118.22513,50.955906,0 -118.227987,50.96004,0 -118.227766,50.96301,0 -118.230304,50.966364,0 -118.231656,50.972249,0 -118.231254,50.974817,0 -118.22651,50.980739,0 -118.225551,50.984142,0 -118.227472,50.990839,0 -118.232219,50.99406,0 -118.232849,50.996311,0 -118.231326,50.998189,0 -118.226578,51.000724,0 -118.225756,51.003262,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 23. Compact snow between Downie Ck. Bridge and Mica Dam for 83.7 km (59 km north of Revelstoke to 5 km north of Mica Dam). Slushy with slippery sections. Last updated Sat Feb 14 at 11:34 AM PST. (DBCRCON-242332)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Downie Ck. Bridge and Mica Dam for 83.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km north of Mica Dam to 59 km north of Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:34:38-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242332
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.370636,51.50145,0 -118.371321,51.502828,0 -118.37407,51.503861,0 -118.380014,51.503734,0 -118.384946,51.502818,0 -118.391377,51.500294,0 -118.396412,51.499117,0 -118.409773,51.492994,0 -118.418525,51.490145,0 -118.426566,51.484264,0 -118.429325,51.483136,0 -118.445468,51.48031,0 -118.469636,51.480033,0 -118.473411,51.481194,0 -118.483299,51.494055,0 -118.491272,51.500033,0 -118.494778,51.504509,0 -118.499181,51.50786,0 -118.504979,51.514225,0 -118.506464,51.517155,0 -118.508548,51.526294,0 -118.517079,51.53862,0 -118.531525,51.550902,0 -118.534217,51.552078,0 -118.539335,51.553046,0 -118.542125,51.554417,0 -118.553872,51.566408,0 -118.562031,51.570856,0 -118.565651,51.57366,0 -118.570118,51.576104,0 -118.581435,51.58687,0 -118.590143,51.590854,0 -118.6002,51.597771,0 -118.601399,51.599648,0 -118.601594,51.601372,0 -118.598761,51.606637,0 -118.598878,51.608741,0 -118.612035,51.623953,0 -118.616578,51.643228,0 -118.615995,51.647287,0 -118.610395,51.655761,0 -118.610353,51.65855,0 -118.617147,51.668003,0 -118.619672,51.67023,0 -118.621953,51.671369,0 -118.638908,51.67687,0 -118.640863,51.678125,0 -118.642128,51.679879,0 -118.640973,51.693199,0 -118.647709,51.704938,0 -118.648967,51.709036,0 -118.65494,51.720691,0 -118.654211,51.725198,0 -118.656441,51.73837,0 -118.655694,51.754199,0 -118.659393,51.761663,0 -118.660479,51.775259,0 -118.659791,51.779347,0 -118.659999,51.791439,0 -118.656839,51.801186,0 -118.650336,51.808239,0 -118.643203,51.817754,0 -118.641844,51.821683,0 -118.638294,51.827604,0 -118.636866,51.828751,0 -118.61917,51.837779,0 -118.614433,51.842489,0 -118.603034,51.856458,0 -118.591452,51.866441,0 -118.584594,51.870868,0 -118.577024,51.877306,0 -118.574758,51.87985,0 -118.574679,51.882191,0 -118.572214,51.884734,0 -118.56823,51.892982,0 -118.567553,51.896493,0 -118.562191,51.905111,0 -118.560894,51.912554,0 -118.559101,51.914603,0 -118.558761,51.916312,0 -118.563807,51.921805,0 -118.564811,51.925263,0 -118.56398,51.927464,0 -118.560917,51.930747,0 -118.56051,51.932227,0 -118.563084,51.935928,0 -118.564362,51.9392,0 -118.567015,51.942252,0 -118.568426,51.947079,0 -118.566197,51.953023,0 -118.563213,51.955791,0 -118.561439,51.959002,0 -118.559595,51.964434,0 -118.559545,51.969158,0 -118.561261,51.973315,0 -118.561974,51.978652,0 -118.564999,51.985307,0 -118.563527,52.002657,0 -118.564466,52.004192,0 -118.568772,52.006573,0 -118.569832,52.008008,0 -118.569586,52.009574,0 -118.567264,52.012775,0 -118.569476,52.016873,0 -118.571778,52.019317,0 -118.577165,52.023384,0 -118.579085,52.028068,0 -118.583971,52.032504,0 -118.585686,52.035303,0 -118.592458,52.041486,0 -118.593785,52.044674,0 -118.592479,52.048118,0 -118.585972,52.054395,0 -118.579816,52.056471,0 -118.575203,52.059393,0 -118.567189,52.063254,0 -118.56096,52.067232,0 -118.559641,52.069198,0 -118.557804,52.077039,0 -118.558389,52.079069,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Pine St and Goatfell for 32.6 km (Creston to 5 km west of Curzon Junction). Last updated Sat Feb 14 at 10:18 AM PST. (DBCRCON-242508)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Pine St and Goatfell for 32.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km west of Curzon Junction to Creston&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T10:18:20-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242508
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.5142,49.095693,0 -116.501398,49.095543,0 -116.49624,49.09488,0 -116.49185,49.095445,0 -116.476042,49.095456,0 -116.475323,49.095009,0 -116.475329,49.092508,0 -116.474764,49.091969,0 -116.467086,49.091837,0 -116.465499,49.090558,0 -116.464146,49.090451,0 -116.458205,49.093433,0 -116.454059,49.097011,0 -116.454568,49.104604,0 -116.451609,49.105577,0 -116.450407,49.108508,0 -116.447288,49.11184,0 -116.442688,49.114672,0 -116.44176,49.115824,0 -116.441833,49.117674,0 -116.444954,49.123074,0 -116.444523,49.124739,0 -116.439304,49.12992,0 -116.434023,49.133165,0 -116.428451,49.134997,0 -116.405136,49.140053,0 -116.394682,49.141602,0 -116.381835,49.149151,0 -116.379707,49.149447,0 -116.371696,49.149021,0 -116.36889,49.149381,0 -116.358575,49.152029,0 -116.35151,49.154576,0 -116.341578,49.156802,0 -116.331068,49.160242,0 -116.300048,49.162024,0 -116.26265,49.161445,0 -116.257168,49.160366,0 -116.245759,49.154741,0 -116.231478,49.146091,0 -116.192597,49.131545,0 -116.187045,49.126646,0 -116.182885,49.124041,0 -116.182453,49.122695,0 -116.183762,49.11973,0 -116.182992,49.118148,0 -116.169148,49.109217,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Tailings Rd and Cook St for 68.9 km (14 km east of Salmo to Creston). Slushy sections. Last updated Sat Feb 14 at 11:39 AM PST. (DBCRCON-242507)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Tailings Rd and Cook St for 68.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Creston to 14 km east of Salmo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:39:26-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242507
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.273011,49.075479,0 -117.266399,49.075247,0 -117.259303,49.073497,0 -117.256449,49.071429,0 -117.247321,49.068614,0 -117.239673,49.06268,0 -117.229751,49.053459,0 -117.222389,49.048699,0 -117.216178,49.042448,0 -117.204349,49.032695,0 -117.199205,49.030386,0 -117.196805,49.028633,0 -117.195419,49.027252,0 -117.194665,49.024847,0 -117.193345,49.023259,0 -117.18658,49.018786,0 -117.183137,49.017535,0 -117.180634,49.015882,0 -117.175785,49.014963,0 -117.170138,49.015012,0 -117.168106,49.015546,0 -117.1663,49.017083,0 -117.1606,49.019521,0 -117.15163,49.026497,0 -117.142536,49.034879,0 -117.140862,49.03955,0 -117.139539,49.041008,0 -117.131159,49.046449,0 -117.122783,49.050306,0 -117.116417,49.052159,0 -117.110831,49.054514,0 -117.105387,49.058274,0 -117.102037,49.059653,0 -117.089365,49.062695,0 -117.08599,49.062473,0 -117.080687,49.061309,0 -117.075931,49.063524,0 -117.068947,49.064626,0 -117.061096,49.062886,0 -117.056305,49.061046,0 -117.052746,49.058947,0 -117.047259,49.057664,0 -117.043935,49.05759,0 -117.040873,49.058434,0 -117.03833,49.060669,0 -117.038009,49.066623,0 -117.035533,49.070557,0 -117.021354,49.083019,0 -117.013009,49.093244,0 -117.011307,49.094129,0 -116.989521,49.097363,0 -116.980011,49.097288,0 -116.96085,49.096052,0 -116.948116,49.099206,0 -116.941874,49.102602,0 -116.935118,49.104341,0 -116.928749,49.103831,0 -116.915486,49.105174,0 -116.910248,49.104258,0 -116.895119,49.104161,0 -116.888707,49.102983,0 -116.858969,49.110398,0 -116.836862,49.119854,0 -116.826824,49.121125,0 -116.816114,49.128193,0 -116.811302,49.129476,0 -116.807766,49.131843,0 -116.800708,49.133658,0 -116.797553,49.135273,0 -116.7892,49.137566,0 -116.781018,49.139712,0 -116.776773,49.139986,0 -116.768661,49.144851,0 -116.761986,49.146171,0 -116.750961,49.145198,0 -116.741935,49.142802,0 -116.73625,49.142783,0 -116.725887,49.139712,0 -116.719297,49.139355,0 -116.7048,49.140633,0 -116.696588,49.139599,0 -116.69272,49.140548,0 -116.678269,49.142644,0 -116.67298,49.142273,0 -116.669988,49.142886,0 -116.666358,49.142605,0 -116.662798,49.143976,0 -116.656384,49.143982,0 -116.64579,49.141424,0 -116.643289,49.140318,0 -116.636425,49.135014,0 -116.635035,49.130267,0 -116.63338,49.128939,0 -116.588212,49.117395,0 -116.536706,49.117086,0 -116.523529,49.118598,0 -116.523351,49.107966,0 -116.519909,49.105291,0 -116.517044,49.098241,0 -116.5142,49.095693,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -7539,32 +7617,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Emerald Lake Rd and BC/Alberta Border for 16.9 km (Field). Compact snow. Last updated Sat Feb 14 at 9:11 AM MST. (DBCRCON-242494)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Emerald Lake Rd and BC/Alberta Border for 16.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Field&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T08:11:02-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242494
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.496747,51.393455,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.429482,51.420696,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 37. Watch for slippery sections between Nalabila Blvd and Terrace for 57.8 km (Kitimat). Fog patches. Last updated Sat Feb 14 at 6:50 AM PST. (DBCRCON-242071)</name>
           <description>
     &lt;![CDATA[
@@ -7588,32 +7640,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-128.618671,54.052665,0 -128.61585,54.053592,0 -128.608838,54.057706,0 -128.602954,54.05868,0 -128.601213,54.060105,0 -128.601219,54.061546,0 -128.607816,54.0716,0 -128.608218,54.073112,0 -128.600934,54.090667,0 -128.602138,54.112002,0 -128.5996,54.121302,0 -128.589993,54.133365,0 -128.584314,54.153556,0 -128.568632,54.179475,0 -128.565801,54.194623,0 -128.552826,54.209777,0 -128.539968,54.234203,0 -128.535736,54.240231,0 -128.533654,54.247793,0 -128.526845,54.251842,0 -128.524772,54.253641,0 -128.522412,54.263248,0 -128.520712,54.265919,0 -128.521849,54.267913,0 -128.524396,54.268737,0 -128.530161,54.26951,0 -128.532193,54.270945,0 -128.538524,54.307993,0 -128.542184,54.312534,0 -128.55217,54.319216,0 -128.55326,54.328053,0 -128.557285,54.332752,0 -128.55918,54.340581,0 -128.558677,54.343161,0 -128.556879,54.345387,0 -128.538373,54.359517,0 -128.51419,54.391871,0 -128.514068,54.394541,0 -128.518909,54.412025,0 -128.521607,54.414424,0 -128.531035,54.417814,0 -128.532557,54.41991,0 -128.532893,54.441008,0 -128.531744,54.442842,0 -128.523894,54.45009,0 -128.521496,54.453503,0 -128.521151,54.455043,0 -128.52216,54.457488,0 -128.525506,54.459706,0 -128.547654,54.464899,0 -128.554338,54.467532,0 -128.567649,54.477764,0 -128.570441,54.480735,0 -128.571708,54.489835,0 -128.570778,54.491658,0 -128.564805,54.493811,0 -128.558189,54.494831,0 -128.554272,54.496393,0 -128.552919,54.497798,0 -128.55247,54.505129,0 -128.557961,54.511542,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 23. Compact snow between Downie Ck. Bridge and Mica Dam for 83.7 km (59 km north of Revelstoke to 5 km north of Mica Dam). Slushy with slippery sections. Last updated Sat Feb 14 at 8:11 AM PST. (DBCRCON-242332)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Downie Ck. Bridge and Mica Dam for 83.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km north of Mica Dam to 59 km north of Revelstoke&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T08:11:02-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242332
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.370636,51.50145,0 -118.371321,51.502828,0 -118.37407,51.503861,0 -118.380014,51.503734,0 -118.384946,51.502818,0 -118.391377,51.500294,0 -118.396412,51.499117,0 -118.409773,51.492994,0 -118.418525,51.490145,0 -118.426566,51.484264,0 -118.429325,51.483136,0 -118.445468,51.48031,0 -118.469636,51.480033,0 -118.473411,51.481194,0 -118.483299,51.494055,0 -118.491272,51.500033,0 -118.494778,51.504509,0 -118.499181,51.50786,0 -118.504979,51.514225,0 -118.506464,51.517155,0 -118.508548,51.526294,0 -118.517079,51.53862,0 -118.531525,51.550902,0 -118.534217,51.552078,0 -118.539335,51.553046,0 -118.542125,51.554417,0 -118.553872,51.566408,0 -118.562031,51.570856,0 -118.565651,51.57366,0 -118.570118,51.576104,0 -118.581435,51.58687,0 -118.590143,51.590854,0 -118.6002,51.597771,0 -118.601399,51.599648,0 -118.601594,51.601372,0 -118.598761,51.606637,0 -118.598878,51.608741,0 -118.612035,51.623953,0 -118.616578,51.643228,0 -118.615995,51.647287,0 -118.610395,51.655761,0 -118.610353,51.65855,0 -118.617147,51.668003,0 -118.619672,51.67023,0 -118.621953,51.671369,0 -118.638908,51.67687,0 -118.640863,51.678125,0 -118.642128,51.679879,0 -118.640973,51.693199,0 -118.647709,51.704938,0 -118.648967,51.709036,0 -118.65494,51.720691,0 -118.654211,51.725198,0 -118.656441,51.73837,0 -118.655694,51.754199,0 -118.659393,51.761663,0 -118.660479,51.775259,0 -118.659791,51.779347,0 -118.659999,51.791439,0 -118.656839,51.801186,0 -118.650336,51.808239,0 -118.643203,51.817754,0 -118.641844,51.821683,0 -118.638294,51.827604,0 -118.636866,51.828751,0 -118.61917,51.837779,0 -118.614433,51.842489,0 -118.603034,51.856458,0 -118.591452,51.866441,0 -118.584594,51.870868,0 -118.577024,51.877306,0 -118.574758,51.87985,0 -118.574679,51.882191,0 -118.572214,51.884734,0 -118.56823,51.892982,0 -118.567553,51.896493,0 -118.562191,51.905111,0 -118.560894,51.912554,0 -118.559101,51.914603,0 -118.558761,51.916312,0 -118.563807,51.921805,0 -118.564811,51.925263,0 -118.56398,51.927464,0 -118.560917,51.930747,0 -118.56051,51.932227,0 -118.563084,51.935928,0 -118.564362,51.9392,0 -118.567015,51.942252,0 -118.568426,51.947079,0 -118.566197,51.953023,0 -118.563213,51.955791,0 -118.561439,51.959002,0 -118.559595,51.964434,0 -118.559545,51.969158,0 -118.561261,51.973315,0 -118.561974,51.978652,0 -118.564999,51.985307,0 -118.563527,52.002657,0 -118.564466,52.004192,0 -118.568772,52.006573,0 -118.569832,52.008008,0 -118.569586,52.009574,0 -118.567264,52.012775,0 -118.569476,52.016873,0 -118.571778,52.019317,0 -118.577165,52.023384,0 -118.579085,52.028068,0 -118.583971,52.032504,0 -118.585686,52.035303,0 -118.592458,52.041486,0 -118.593785,52.044674,0 -118.592479,52.048118,0 -118.585972,52.054395,0 -118.579816,52.056471,0 -118.575203,52.059393,0 -118.567189,52.063254,0 -118.56096,52.067232,0 -118.559641,52.069198,0 -118.557804,52.077039,0 -118.558389,52.079069,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -7669,33 +7695,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Tailings Rd and Goatfell for 101.5 km (14 km east of Salmo to 5 km west of Curzon Junction). Last updated Sat Feb 14 at 10:18 AM PST. (DBCRCON-242499)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Tailings Rd and Goatfell for 101.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km west of Curzon Junction to 14 km east of Salmo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T10:18:20-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-242499
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.273011,49.075479,0 -117.266399,49.075247,0 -117.259303,49.073497,0 -117.256449,49.071429,0 -117.247321,49.068614,0 -117.239673,49.06268,0 -117.229751,49.053459,0 -117.222389,49.048699,0 -117.216178,49.042448,0 -117.204349,49.032695,0 -117.199205,49.030386,0 -117.196805,49.028633,0 -117.195419,49.027252,0 -117.194665,49.024847,0 -117.193345,49.023259,0 -117.18658,49.018786,0 -117.183137,49.017535,0 -117.180634,49.015882,0 -117.175785,49.014963,0 -117.170138,49.015012,0 -117.168106,49.015546,0 -117.1663,49.017083,0 -117.1606,49.019521,0 -117.15163,49.026497,0 -117.142536,49.034879,0 -117.140862,49.03955,0 -117.139539,49.041008,0 -117.131159,49.046449,0 -117.122783,49.050306,0 -117.116417,49.052159,0 -117.110831,49.054514,0 -117.105387,49.058274,0 -117.102037,49.059653,0 -117.089365,49.062695,0 -117.08599,49.062473,0 -117.080687,49.061309,0 -117.075931,49.063524,0 -117.068947,49.064626,0 -117.061096,49.062886,0 -117.056305,49.061046,0 -117.052746,49.058947,0 -117.047259,49.057664,0 -117.043935,49.05759,0 -117.040873,49.058434,0 -117.03833,49.060669,0 -117.038009,49.066623,0 -117.035533,49.070557,0 -117.021354,49.083019,0 -117.013009,49.093244,0 -117.011307,49.094129,0 -116.989521,49.097363,0 -116.980011,49.097288,0 -116.96085,49.096052,0 -116.948116,49.099206,0 -116.941874,49.102602,0 -116.935118,49.104341,0 -116.928749,49.103831,0 -116.915486,49.105174,0 -116.910248,49.104258,0 -116.895119,49.104161,0 -116.888707,49.102983,0 -116.858969,49.110398,0 -116.836862,49.119854,0 -116.826824,49.121125,0 -116.816114,49.128193,0 -116.811302,49.129476,0 -116.807766,49.131843,0 -116.800708,49.133658,0 -116.797553,49.135273,0 -116.7892,49.137566,0 -116.781018,49.139712,0 -116.776773,49.139986,0 -116.768661,49.144851,0 -116.761986,49.146171,0 -116.750961,49.145198,0 -116.741935,49.142802,0 -116.73625,49.142783,0 -116.725887,49.139712,0 -116.719297,49.139355,0 -116.7048,49.140633,0 -116.696588,49.139599,0 -116.69272,49.140548,0 -116.677485,49.142727,0 -116.67298,49.142273,0 -116.669988,49.142886,0 -116.666358,49.142605,0 -116.662147,49.144044,0 -116.654682,49.143723,0 -116.64579,49.141424,0 -116.643289,49.140318,0 -116.636425,49.135014,0 -116.635035,49.130267,0 -116.63338,49.128939,0 -116.588212,49.117395,0 -116.536706,49.117086,0 -116.523529,49.118598,0 -116.523351,49.107966,0 -116.519909,49.105291,0 -116.517044,49.098241,0 -116.51409,49.095632,0 -116.501398,49.095543,0 -116.49624,49.09488,0 -116.49185,49.095445,0 -116.476042,49.095456,0 -116.475323,49.095009,0 -116.475329,49.092508,0 -116.474764,49.091969,0 -116.467086,49.091837,0 -116.464595,49.090391,0 -116.459001,49.092931,0 -116.454059,49.097011,0 -116.454568,49.104604,0 -116.451609,49.105577,0 -116.450407,49.108508,0 -116.447288,49.11184,0 -116.441954,49.115379,0 -116.441833,49.117674,0 -116.444954,49.123074,0 -116.444275,49.125097,0 -116.437657,49.13116,0 -116.431465,49.134166,0 -116.40058,49.141019,0 -116.394682,49.141602,0 -116.381835,49.149151,0 -116.379707,49.149447,0 -116.371696,49.149021,0 -116.36889,49.149381,0 -116.358575,49.152029,0 -116.35151,49.154576,0 -116.341578,49.156802,0 -116.330004,49.160434,0 -116.300048,49.162024,0 -116.261734,49.161393,0 -116.257168,49.160366,0 -116.245759,49.154741,0 -116.231478,49.146091,0 -116.192597,49.131545,0 -116.187045,49.126646,0 -116.182885,49.124041,0 -116.182453,49.122695,0 -116.183762,49.11973,0 -116.182992,49.118148,0 -116.169148,49.109217,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 93. Watch for slippery sections between Stanley St and the end of Highway 93 for 94.4 km (Radium Hot Springs to British Columbia and Alberta Border). Compact snow. Last updated Sat Feb 14 at 9:11 AM MST. (DBCRCON-242369)</name>
+          <name>Highway 93. Watch for slippery sections between Stanley St and the end of Highway 93 for 94.4 km (Radium Hot Springs to British Columbia and Alberta Border). Compact snow. Last updated Sat Feb 14 at 12:34 PM MST. (DBCRCON-242369)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7707,7 +7707,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
     &lt;b&gt;Location:&lt;/b&gt; Between Stanley St and the end of Highway 93 for 94.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Alberta Border to Radium Hot Springs&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T08:11:02-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:34:38-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -8374,61 +8374,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
           </LineString>
         </Placemark>
       </Folder>
-      <Folder>
-        <name>Chain Up Events</name>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between West Avalanche Gate and East Avalanche Gate for 0.1 km (5 to 6 km east of Kootenay Pass).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between West Avalanche Gate and East Avalanche Gate&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 5 km east of Kootenay Pass&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T00:15:06-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-242366
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.001326,49.095686,0 -117.000804,49.095756,0 -117.000087,49.095852,0 -116.999993,49.095866,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between West Avalanche Gate and East Avalanche Gate for 0.1 km (9 km west of Kootenay Pass).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between West Avalanche Gate and East Avalanche Gate&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 km west of Kootenay Pass&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T00:15:06-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-242365
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.141373,49.037791,0 -117.141141,49.038679,0</coordinates>
-          </LineString>
-        </Placemark>
-      </Folder>
     </Folder>
     <Folder>
       <name>⛴️ Ferry Routes (14)</name>
@@ -8461,7 +8406,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.268296-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.165963-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8498,7 +8443,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.280104-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.172881-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8535,7 +8480,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.255423-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.158811-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8572,7 +8517,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.292949-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.182062-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8609,7 +8554,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.223336-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.099739-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8649,7 +8594,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.234610-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.114238-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8686,7 +8631,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.304287-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.191041-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8723,7 +8668,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.314007-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.205440-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8760,7 +8705,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.330909-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.219209-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8797,7 +8742,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.200608-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.079569-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8834,7 +8779,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.210365-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.089863-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8874,7 +8819,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.245608-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.140955-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8893,16 +8838,16 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         
             &lt;h4&gt;Vessel Information&lt;/h4&gt;
-            &lt;b&gt;Name:&lt;/b&gt; M.V. Osprey 2000&lt;br/&gt;
-            &lt;b&gt;Vehicle Capacity:&lt;/b&gt; 70&lt;br/&gt;
-            &lt;b&gt;Passenger Capacity:&lt;/b&gt; 144&lt;br/&gt;
+            &lt;b&gt;Name:&lt;/b&gt; M.V. Balfour&lt;br/&gt;
+            &lt;b&gt;Vehicle Capacity:&lt;/b&gt; 28&lt;br/&gt;
+            &lt;b&gt;Passenger Capacity:&lt;/b&gt; 150&lt;br/&gt;
             &lt;b&gt;Crossing Time:&lt;/b&gt; 35 minutes&lt;br/&gt;
-            &lt;b&gt;Weight Capacity:&lt;/b&gt; 430000 kg&lt;br/&gt;
+            &lt;b&gt;Weight Capacity:&lt;/b&gt; 90000 kg&lt;br/&gt;
             &lt;b&gt;Schedule Type:&lt;/b&gt; Scheduled Sailings Morning to Night&lt;br/&gt;
             
         
         &lt;h4&gt;Schedule Information&lt;/h4&gt;
-        Service hours (M.V. Osprey 2000): The M.V. Osprey runs the regular winter schedule except when it is down for regular maintenance.&amp;nbsp; At that time the M.V. Balfour will service the run with it&amp;rsquo;s reduced capacity of 28 vehicles  From Balfour  6:30 am &amp;ndash; 9:40 pm    From Kootenay Bay  7:10 am &amp;ndash; 10:20 pm   View detailed schedule
+        Additional summer service (M.V. Balfour): The summer schedule is generally in effect from the third week of June until after the Labour Day weekend.  From Balfour  10:40 am &amp;ndash; 5:20 pm    From Kootenay Bay  11:30 am &amp;ndash; 6:10 pm   View detailed schedule
         
         
             &lt;h4&gt;Contact Information&lt;/h4&gt;
@@ -8911,7 +8856,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.339593-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.212415-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8948,7 +8893,7 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28, and Mar 3 to 5. NOTE: No work will occur
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T11:00:14.181318-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-14T12:00:14.069492-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
