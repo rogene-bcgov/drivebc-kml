@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-16 05:29:23 UTC
+        Last updated: 2026-02-16 05:56:47 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (270)</name>
+      <name>🚗 Traffic Events (269)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -810,7 +810,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 20, westbound. Vehicle incident at Bittner Rd (32 km west of Tatla Lake). All lanes blocked. Small Vehicles Only. Next update time Sun Feb 15 at 11:00 PM PST. Last updated Sun Feb 15 at 9:12 PM PST. (DBC-87430)</name>
+          <name>Highway 20, westbound. Vehicle incident between Elsey Rd and Rainbow Range Trailhead for 2.5 km (38 to 36 km west of Anahim Lake). All lanes blocked. Road is open to traffic. Small Vehicles Only. Next update time Sun Feb 15 at 11:00 PM PST. Last updated Sun Feb 15 at 9:33 PM PST. (DBC-87430)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -819,10 +819,10 @@
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
     &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 20&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Bittner Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 32 km west of Tatla Lake&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Rainbow Range Trailhead and Elsey Rd for 2.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 38 to 36 km west of Anahim Lake&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-15T21:12:41-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-15T21:33:10-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-15T23:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -830,34 +830,10 @@
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-125.001996,51.983689,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, northbound. Vehicle incident between Exit 28 and Massey Tunnel (Delta). Bus lane is partially blocked. Next update time Sun Feb 15 at 10:00 PM PST. Last updated Sun Feb 15 at 9:25 PM PST. (DBC-87431)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 28 and Massey Tunnel&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-15T21:25:26-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-15T22:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87431
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-123.059984,49.109784,0</coordinates>
-          </Point>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.813101,52.532371,0 -125.812797,52.532496,0 -125.812532,52.532604,0 -125.812064,52.532703,0 -125.811361,52.532852,0 -125.810216,52.532895,0 -125.810117,52.53288,0 -125.809142,52.532729,0 -125.808886,52.532682,0 -125.807771,52.532476,0 -125.806743,52.532463,0 -125.805645,52.532642,0 -125.804069,52.533169,0 -125.803536,52.533347,0 -125.802451,52.533507,0 -125.802138,52.5335,0 -125.801126,52.533478,0 -125.800848,52.533447,0 -125.800001,52.533353,0 -125.792904,52.532565,0 -125.78924,52.532166,0 -125.788609,52.532097,0 -125.787273,52.531951,0 -125.785818,52.531942,0 -125.784385,52.532085,0 -125.782748,52.532412,0 -125.77982,52.533256,0 -125.77864,52.533605,0 -125.778295,52.533707,0 -125.777978,52.533801,0 -125.777707,52.533881,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39 km east of Tatla Lake to 6 km west of Anahim Lake). Last updated Sun Feb 15 at 5:32 PM PST. (DBC-78509)</name>
