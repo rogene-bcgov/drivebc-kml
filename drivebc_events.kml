@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-17 15:14:45 UTC
+        Last updated: 2026-02-17 15:45:30 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (335)</name>
+      <name>🚗 Traffic Events (337)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -4060,6 +4060,31 @@ Lookout for crews in closures. Follow direction of traffic control equipment and
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 30, northbound. Tree pruning planned at Marine Dr (Port Alice). Starting Tue Feb 17 at 8:00 AM PST until Fri Feb 20 at 5:00 PM PST. From 8:00 AM to 5:00 PM PST on Tuesday, Wednesday, Thursday and Friday. Single lane alternating traffic will be in effect. Expect delays. Watch for traffic control personnel. Last updated Tue Feb 17 at 7:24 AM PST. (DBC-87466)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 30&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Marine Dr&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Port Alice&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-17T07:24:32-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87466
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-127.481378,50.4187,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 15 (Pacific Highway), northbound. Construction work at Fraser Hwy (Surrey). Until Mon Mar 30. From 7:00 AM to 10:00 PM PST daily. Right lane closed. Shoulder closed. Highway 15 Pier construction. Northbound ramp from Highway 15 to Fraser Highway remains closed until the end of the day on March 30, 2026. Last updated Wed Feb 11 at 8:51 AM PST. (DBC-87243)</name>
           <description>
     &lt;![CDATA[
@@ -7646,6 +7671,32 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28 and Mar 3 to 5. NOTE: No work will occur 
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-118.975066,49.170121,0 -118.980311,49.175896,0 -118.981272,49.178793,0 -118.980686,49.181695,0 -118.982273,49.18565,0 -118.987694,49.193299,0 -118.990593,49.195646,0 -118.992655,49.19864,0 -118.997367,49.202371,0 -119.008032,49.208282,0 -119.010536,49.213761,0 -119.013555,49.216875,0 -119.013261,49.221977,0 -119.008451,49.237656,0 -119.008648,49.240781,0 -119.006626,49.243445,0 -119.003472,49.251607,0 -119.005857,49.255696,0 -119.01789,49.26547,0 -119.019432,49.271295,0 -119.018713,49.273729,0 -119.02076,49.27603,0 -119.024651,49.277213,0 -119.02642,49.281676,0 -119.028502,49.290571,0 -119.026837,49.293804,0 -119.027753,49.297204,0 -119.034291,49.301262,0 -119.0379,49.305955,0 -119.037991,49.307996,0 -119.040014,49.313404,0 -119.036027,49.32202,0 -119.035786,49.323941,0 -119.039883,49.332383,0 -119.047863,49.339155,0 -119.051087,49.339196,0 -119.057115,49.337231,0 -119.059076,49.337438,0 -119.062667,49.338962,0 -119.070574,49.338359,0 -119.083383,49.34351,0 -119.08709,49.34728,0 -119.088848,49.352964,0 -119.092038,49.358221,0 -119.09316,49.362137,0 -119.095154,49.364412,0 -119.093864,49.371258,0 -119.095641,49.378622,0 -119.094515,49.38197,0 -119.096604,49.383781,0 -119.101672,49.391697,0 -119.102091,49.395501,0 -119.092856,49.412889,0 -119.089321,49.433099,0 -119.085574,49.439554,0 -119.078898,49.444183,0 -119.07843,49.445989,0 -119.08069,49.44905,0 -119.084989,49.452469,0 -119.087998,49.460112,0 -119.088208,49.466179,0 -119.089675,49.468237,0 -119.090213,49.470633,0 -119.09138,49.471472,0 -119.095449,49.472626,0 -119.096634,49.474976,0 -119.099044,49.476927,0 -119.100812,49.479946,0 -119.109419,49.487967,0 -119.121374,49.494418,0 -119.123842,49.496411,0 -119.124042,49.497653,0 -119.118996,49.507467,0 -119.117674,49.508131,0 -119.111822,49.508999,0 -119.109773,49.512797,0 -119.106211,49.515209,0 -119.09807,49.517602,0 -119.092919,49.520182,0 -119.090564,49.522007,0 -119.087465,49.526084,0 -119.083738,49.528222,0 -119.080113,49.531368,0 -119.073285,49.543126,0 -119.073405,49.550139,0 -119.072863,49.551777,0 -119.069985,49.555171,0 -119.066161,49.557839,0 -119.063338,49.562167,0 -119.061418,49.566592,0 -119.060653,49.573539,0 -119.058195,49.582024,0 -119.057784,49.591831,0 -119.056646,49.594241,0 -119.054151,49.596612,0 -119.056824,49.602776,0 -119.057312,49.608803,0 -119.058712,49.614109,0 -119.062193,49.617753,0 -119.062855,49.619431,0 -119.063119,49.625359,0 -119.060113,49.627917,0 -119.06416,49.634993,0 -119.063438,49.635895,0 -119.060685,49.637236,0 -119.059981,49.639381,0 -119.064476,49.645588,0 -119.076998,49.655965,0 -119.078502,49.659858,0 -119.087153,49.665173,0 -119.088975,49.667697,0 -119.089582,49.671351,0 -119.092442,49.674163,0 -119.096336,49.676533,0 -119.100216,49.681263,0 -119.101352,49.684931,0 -119.100921,49.687347,0 -119.101593,49.695412,0 -119.105069,49.705334,0 -119.10575,49.709164,0 -119.109624,49.714951,0 -119.107983,49.717921,0 -119.103332,49.720971,0 -119.102946,49.722031,0 -119.104143,49.72309,0 -119.107162,49.72359,0 -119.116698,49.731449,0 -119.120977,49.733365,0 -119.125502,49.739602,0 -119.125384,49.748707,0 -119.12702,49.752082,0 -119.126287,49.757088,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (Malahat Highway). Slushy with slippery sections between Tolmie Lane and Mill Bay Rd for 34.4 km (4 km north of Malahat Summit to 1 km north of Victoria). Last updated Tue Feb 17 at 7:19 AM PST. (DBC-87465)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_SNOW_PACKED&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Tolmie Lane and Mill Bay Rd for 34.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km north of Victoria to 4 km north of Malahat Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-17T07:19:01-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87465
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.372343,48.447803,0 -123.375929,48.453789,0 -123.377363,48.455098,0 -123.390356,48.458149,0 -123.397525,48.458345,0 -123.407881,48.460383,0 -123.415257,48.463688,0 -123.417373,48.464172,0 -123.430986,48.464051,0 -123.45502,48.461535,0 -123.461522,48.461903,0 -123.467741,48.461393,0 -123.470685,48.461894,0 -123.476526,48.464816,0 -123.480094,48.465141,0 -123.483234,48.464196,0 -123.493182,48.457816,0 -123.499865,48.456538,0 -123.505491,48.454263,0 -123.511138,48.453002,0 -123.521897,48.455399,0 -123.528231,48.453814,0 -123.530472,48.453874,0 -123.541204,48.459717,0 -123.551269,48.463009,0 -123.551934,48.464262,0 -123.552069,48.470957,0 -123.549529,48.473955,0 -123.549682,48.476099,0 -123.548659,48.478186,0 -123.550608,48.482499,0 -123.552863,48.485483,0 -123.554781,48.490204,0 -123.554817,48.494568,0 -123.556139,48.501426,0 -123.555043,48.503907,0 -123.556778,48.506197,0 -123.557121,48.507785,0 -123.555115,48.522868,0 -123.555902,48.525166,0 -123.560485,48.529248,0 -123.55969,48.534655,0 -123.561224,48.538276,0 -123.565032,48.541999,0 -123.56463,48.546571,0 -123.571761,48.554548,0 -123.572129,48.556082,0 -123.569347,48.561231,0 -123.559836,48.567174,0 -123.552212,48.56818,0 -123.546311,48.56755,0 -123.542694,48.567814,0 -123.530325,48.571002,0 -123.527422,48.573058,0 -123.52682,48.57535,0 -123.530753,48.580776,0 -123.529902,48.584733,0 -123.531742,48.588433,0 -123.532017,48.592151,0 -123.533969,48.594644,0 -123.53414,48.599006,0 -123.538193,48.609767,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
