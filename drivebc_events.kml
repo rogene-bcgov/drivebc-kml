@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-17 08:10:39 UTC
+        Last updated: 2026-02-17 08:44:27 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (328)</name>
+      <name>🚗 Traffic Events (330)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -222,6 +222,32 @@
           <Point>
             <coordinates>-126.790561,54.553891,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), in both directions. Vehicle incident between Corbin Rd and BC/AB Border for 5.7 km (6 km east of Sparwood to 1 km west of Crowsnest Pass Summit). Road closed. Assessment in progress. Watch for traffic control. Next update time Tue Feb 17 at 3:00 AM MST. Last updated Tue Feb 17 at 1:37 AM MST. (DBC-87456)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Corbin Rd and BC/AB Border for 5.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km west of Crowsnest Pass Summit to 6 km east of Sparwood&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-17T00:37:15-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-17T02:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87456
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-114.776357,49.67036,0 -114.776038,49.670272,0 -114.775431,49.670104,0 -114.774125,49.669776,0 -114.773373,49.66959,0 -114.772427,49.669401,0 -114.769631,49.66897,0 -114.767008,49.668434,0 -114.764507,49.667851,0 -114.763732,49.667752,0 -114.763065,49.667737,0 -114.762599,49.66775,0 -114.761479,49.667782,0 -114.760939,49.667757,0 -114.760229,49.667665,0 -114.755778,49.666458,0 -114.755504,49.666384,0 -114.755253,49.666316,0 -114.755075,49.666267,0 -114.754041,49.665987,0 -114.753218,49.665788,0 -114.751593,49.665451,0 -114.751131,49.665361,0 -114.748836,49.664918,0 -114.747779,49.664638,0 -114.745595,49.663646,0 -114.7449,49.663392,0 -114.744236,49.66323,0 -114.743597,49.663097,0 -114.742259,49.662821,0 -114.741552,49.662624,0 -114.740852,49.662351,0 -114.740789,49.662319,0 -114.740336,49.662091,0 -114.739709,49.661729,0 -114.739016,49.661189,0 -114.738516,49.660654,0 -114.738159,49.660102,0 -114.737964,49.659653,0 -114.737801,49.659132,0 -114.737621,49.658557,0 -114.737423,49.658098,0 -114.737055,49.657554,0 -114.737026,49.657521,0 -114.73678,49.657242,0 -114.736628,49.657069,0 -114.736003,49.656592,0 -114.734698,49.655815,0 -114.734459,49.655672,0 -114.733379,49.655029,0 -114.733266,49.654961,0 -114.733148,49.654891,0 -114.73273,49.654642,0 -114.732706,49.654628,0 -114.732144,49.654246,0 -114.732062,49.65419,0 -114.731665,49.653868,0 -114.730769,49.653021,0 -114.730105,49.652465,0 -114.729868,49.652287,0 -114.729765,49.65221,0 -114.729605,49.65209,0 -114.729286,49.651851,0 -114.728925,49.651637,0 -114.728475,49.65144,0 -114.727308,49.651075,0 -114.725744,49.650644,0 -114.722613,49.649926,0 -114.722065,49.649841,0 -114.72135,49.649729,0 -114.719233,49.6496,0 -114.718727,49.64957,0 -114.717474,49.64958,0 -114.716335,49.649652,0 -114.714576,49.649852,0 -114.713911,49.649928,0 -114.711766,49.650173,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Watch for falling rocks between Des Fosses Rd and Bernie Rd for 57.6 km (8 km west of Sicamous to 14 km east of Chase). Last updated Mon Feb 16 at 2:46 PM PST. (DBC-87093)</name>
@@ -1655,6 +1681,32 @@ Lookout for crews in closures. Follow direction of traffic control equipment and
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.937157,51.619152,0 -119.931205,51.615738,0 -119.929711,51.615026,0 -119.928321,51.614481,0 -119.925704,51.613733,0 -119.92503,51.613553,0 -119.922468,51.612867,0 -119.921918,51.61272,0 -119.920514,51.612328,0 -119.918561,51.611783,0 -119.918292,51.611702,0 -119.917196,51.611373,0 -119.915021,51.610573,0 -119.912751,51.609686,0 -119.911664,51.609263,0 -119.908931,51.608199,0 -119.906372,51.607203,0 -119.905172,51.606736,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 10, in both directions. Construction work planned between 196 St and 200 St for 0.9 km (Langley - City to Surrey). Starting Wed Feb 25 at 8:00 PM PST until Thu Feb 26 at 6:00 AM PST. Lane closures in both directions planned. Shoulder will be closed. Last updated Tue Feb 17 at 12:25 AM PST. (DBC-87455)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 196 St and 200 St for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey to Langley - City&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-17T00:25:08-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87455
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.679789,49.109801,0 -122.675866,49.111618,0 -122.675426,49.111822,0 -122.675379,49.111843,0 -122.675246,49.111904,0 -122.674866,49.112075,0 -122.674702,49.112148,0 -122.673928,49.112495,0 -122.672863,49.11292,0 -122.672156,49.113116,0 -122.671131,49.113286,0 -122.670681,49.113331,0 -122.670303,49.113345,0 -122.669986,49.113359,0 -122.668777,49.11335,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
