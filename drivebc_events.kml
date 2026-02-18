@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-18 10:13:44 UTC
+        Last updated: 2026-02-18 10:44:15 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (342)</name>
+      <name>🚗 Traffic Events (344)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -475,6 +475,57 @@
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-123.554194,48.88257,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), northbound. Police incident between Brenton-Page Rd and Simpson Rd for 1.0 km (4 to 5 km north of Ladysmith). Until Wed Feb 18 at 3:45 AM PST. Right lane is blocked. Northbound lane closure. Last updated Wed Feb 18 at 2:33 AM PST. (DBC-87525)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Brenton-Page Rd and Simpson Rd for 1.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 to 4 km north of Ladysmith&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-18T02:33:30-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87525
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.862015,49.026522,0 -123.862284,49.026838,0 -123.863394,49.028156,0 -123.863659,49.028584,0 -123.863896,49.02908,0 -123.863986,49.029443,0 -123.864028,49.030222,0 -123.86394,49.030658,0 -123.863897,49.030772,0 -123.863603,49.031556,0 -123.863001,49.033161,0 -123.862863,49.033809,0 -123.86283,49.034296,0 -123.862867,49.034735,0 -123.862887,49.034844,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Stalled vehicle between Massey Tunnel and Rice Mill Rd (Richmond). Right lane is blocked. Next update time Wed Feb 18 at 3:00 AM PST. Last updated Wed Feb 18 at 2:36 AM PST. (DBC-87526)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Massey Tunnel and Rice Mill Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-18T02:36:33-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-18T03:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87526
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.078626,49.124341,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
