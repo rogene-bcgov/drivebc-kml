@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-19 16:14:56 UTC
+        Last updated: 2026-02-19 16:45:15 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (334)</name>
+      <name>🚗 Traffic Events (335)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -5037,6 +5037,32 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28 and Mar 3 to 5. NOTE: No work will occur 
           <Point>
             <coordinates>-123.167842,49.667586,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 11, in both directions. Maintenance planned between Harris Rd and Cedar Valley Conn for 4.9 km (Abbotsford to Mission). Starting Thu Feb 19 at 9:00 AM PST until Thu Feb 19 at 1:30 PM PST. Left lane will be blocked. Centre median barrier cleaning. Last updated Thu Feb 19 at 8:28 AM PST. (DBC-87582)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Harris Rd and Cedar Valley Conn for 4.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission to Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-19T08:28:08-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87582
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.289757,49.103778,0 -122.289817,49.104083,0 -122.289967,49.104852,0 -122.290445,49.1073,0 -122.290441,49.107662,0 -122.290377,49.108169,0 -122.290225,49.108754,0 -122.290217,49.108783,0 -122.29014,49.10894,0 -122.290046,49.109129,0 -122.289957,49.109309,0 -122.288974,49.110896,0 -122.288918,49.110998,0 -122.288822,49.111174,0 -122.288743,49.111344,0 -122.288699,49.111501,0 -122.28865,49.111677,0 -122.288608,49.112086,0 -122.288639,49.112594,0 -122.288745,49.113039,0 -122.288879,49.113387,0 -122.288999,49.113576,0 -122.28914,49.113799,0 -122.289421,49.114145,0 -122.289929,49.114595,0 -122.290412,49.114935,0 -122.292192,49.115947,0 -122.292655,49.11621,0 -122.292809,49.116298,0 -122.293258,49.116553,0 -122.293905,49.116921,0 -122.294319,49.117156,0 -122.294604,49.117316,0 -122.297919,49.119182,0 -122.298705,49.119624,0 -122.299418,49.120026,0 -122.301083,49.120962,0 -122.301741,49.12133,0 -122.302057,49.121509,0 -122.302336,49.121666,0 -122.305399,49.123376,0 -122.308701,49.125249,0 -122.308884,49.125351,0 -122.309178,49.125521,0 -122.311131,49.126648,0 -122.311499,49.126861,0 -122.312528,49.127414,0 -122.31278,49.127549,0 -122.31329,49.127784,0 -122.313346,49.127807,0 -122.313816,49.127973,0 -122.314199,49.128108,0 -122.315022,49.128302,0 -122.315888,49.128445,0 -122.317279,49.128529,0 -122.317481,49.128523,0 -122.318887,49.128445,0 -122.32113,49.128274,0 -122.322671,49.128148,0 -122.323401,49.128178,0 -122.323437,49.128178,0 -122.323878,49.128236,0 -122.324074,49.128279,0 -122.324582,49.128466,0 -122.325014,49.128731,0 -122.325294,49.129002,0 -122.325511,49.129346,0 -122.325581,49.129669,0 -122.32576,49.130673,0 -122.325785,49.130817,0 -122.325809,49.130952,0 -122.325855,49.131205,0 -122.325857,49.13123,0 -122.325955,49.132368,0 -122.326007,49.132875,0 -122.326002,49.132996,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway). Construction work between Illecillewaet Brake Check and MacDonald Snowshed for 3.0 km (5 to 2 km west of West Boundary of Glacier National Park). Inactive construction zone, speed limit reduced to 80km/hr. Drive with caution. Next update time Mon Mar 2 at 12:00 PM PST. Last updated Wed Feb 18 at 8:36 AM PST. (DBC-73974)</name>
