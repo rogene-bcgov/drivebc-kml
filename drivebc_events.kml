@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-19 19:15:34 UTC
+        Last updated: 2026-02-19 19:42:22 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -7170,6 +7170,32 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28 and Mar 3 to 5. NOTE: No work will occur 
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Slushy with slippery sections between Junction Hwy 3B and Junction Hwy 6NS for 24.5 km (Salmo). Last updated Thu Feb 19 at 11:12 AM PST. (DBCRCON-243186)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3B and Junction Hwy 6NS for 24.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-19T11:12:31-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-243186
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.420458,49.18785,0 -117.411625,49.188353,0 -117.404567,49.187922,0 -117.392329,49.184288,0 -117.388904,49.183813,0 -117.381431,49.18499,0 -117.373194,49.185533,0 -117.368167,49.187762,0 -117.351456,49.191826,0 -117.343778,49.191057,0 -117.330879,49.192252,0 -117.315587,49.18954,0 -117.301727,49.192397,0 -117.295191,49.194252,0 -117.287834,49.192582,0 -117.285743,49.191573,0 -117.280558,49.176087,0 -117.272708,49.158371,0 -117.271232,49.156757,0 -117.266587,49.154043,0 -117.265308,49.15222,0 -117.264639,49.143906,0 -117.26054,49.129144,0 -117.258544,49.127241,0 -117.253044,49.125132,0 -117.251784,49.123346,0 -117.255671,49.11092,0 -117.260427,49.102476,0 -117.261806,49.096137,0 -117.270346,49.085035,0 -117.272954,49.082907,0 -117.276534,49.078536,0 -117.276145,49.076623,0 -117.275002,49.075852,0 -117.273011,49.075479,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 97 (Alaska Highway). Watch for slippery sections between Taylor Bridge and Kitt Rd for 78.2 km (Taylor to 24 km south of Wonowon). Compact snow. Last updated Thu Feb 19 at 7:00 AM MST. (DBCRCON-243297)</name>
           <description>
     &lt;![CDATA[
@@ -8154,32 +8180,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28 and Mar 3 to 5. NOTE: No work will occur 
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-118.082585,49.871851,0 -118.074708,49.872435,0 -118.070216,49.875472,0 -118.061095,49.87998,0 -118.058662,49.883461,0 -118.052737,49.903701,0 -118.050442,49.906619,0 -118.04635,49.908877,0 -118.045942,49.912431,0 -118.043491,49.914107,0 -118.038973,49.914895,0 -118.034361,49.918128,0 -118.015796,49.92612,0 -118.007483,49.931633,0 -118.002152,49.936349,0 -117.994234,49.946285,0 -117.993944,49.947707,0 -117.996449,49.950486,0 -117.995122,49.952248,0 -117.992149,49.953229,0 -117.98624,49.953488,0 -117.971705,49.958061,0 -117.957696,49.958956,0 -117.953711,49.960178,0 -117.945702,49.959425,0 -117.938775,49.961197,0 -117.929549,49.962018,0 -117.921479,49.963882,0 -117.911336,49.964417,0 -117.906836,49.965328,0 -117.903839,49.966781,0 -117.901761,49.968595,0 -117.878137,49.992454,0 -117.877588,49.995576,0 -117.882113,50.00546,0 -117.889037,50.014729,0 -117.892504,50.022062,0 -117.897516,50.02642,0 -117.898856,50.028418,0 -117.898871,50.039791,0 -117.899398,50.04164,0 -117.907403,50.060125,0 -117.918667,50.082045,0 -117.918984,50.086471,0 -117.917615,50.097417,0 -117.916587,50.098967,0 -117.913564,50.100101,0 -117.88707,50.102052,0 -117.871534,50.101118,0 -117.865448,50.103195,0 -117.856439,50.102936,0 -117.851718,50.103687,0 -117.847949,50.104962,0 -117.841662,50.108923,0 -117.83159,50.113964,0 -117.827991,50.116539,0 -117.824485,50.121222,0 -117.818699,50.125021,0 -117.808239,50.130305,0 -117.800595,50.137507,0 -117.788204,50.153512,0 -117.784146,50.160877,0 -117.786889,50.178646,0 -117.776627,50.202257,0 -117.776467,50.205272,0 -117.777948,50.208219,0 -117.783506,50.212197,0 -117.784814,50.213892,0 -117.784538,50.218708,0 -117.790442,50.228017,0 -117.789465,50.232753,0 -117.790239,50.235325,0 -117.791816,50.236783,0 -117.794408,50.237902,0 -117.805382,50.23925,0 -117.804131,50.243809,0 -117.804352,50.245266,0 -117.810183,50.249122,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Junction Hwy 3B and Junction Hwy 6NS for 24.5 km (Salmo). Last updated Thu Feb 19 at 6:37 AM PST. (DBCRCON-243186)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3B and Junction Hwy 6NS for 24.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-19T06:37:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-243186
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.420458,49.18785,0 -117.411625,49.188353,0 -117.404567,49.187922,0 -117.392329,49.184288,0 -117.388904,49.183813,0 -117.381431,49.18499,0 -117.373194,49.185533,0 -117.368167,49.187762,0 -117.351456,49.191826,0 -117.343778,49.191057,0 -117.330879,49.192252,0 -117.315587,49.18954,0 -117.301727,49.192397,0 -117.295191,49.194252,0 -117.287834,49.192582,0 -117.285743,49.191573,0 -117.280558,49.176087,0 -117.272708,49.158371,0 -117.271232,49.156757,0 -117.266587,49.154043,0 -117.265308,49.15222,0 -117.264639,49.143906,0 -117.26054,49.129144,0 -117.258544,49.127241,0 -117.253044,49.125132,0 -117.251784,49.123346,0 -117.255671,49.11092,0 -117.260427,49.102476,0 -117.261806,49.096137,0 -117.270346,49.085035,0 -117.272954,49.082907,0 -117.276534,49.078536,0 -117.276145,49.076623,0 -117.275002,49.075852,0 -117.273011,49.075479,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
