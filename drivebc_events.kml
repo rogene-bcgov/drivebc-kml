@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-20 16:08:54 UTC
+        Last updated: 2026-02-20 16:43:46 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (310)</name>
+      <name>🚗 Traffic Events (312)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -1042,7 +1042,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 44 and King Edward St (Coquitlam). HOV lane is partially blocked. Next update time Fri Feb 20 at 9:00 AM PST. Last updated Fri Feb 20 at 7:59 AM PST. (DBC-87606)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 44 and King Edward St (Coquitlam). HOV lane is blocked. Next update time Fri Feb 20 at 9:00 AM PST. Last updated Fri Feb 20 at 8:19 AM PST. (DBC-87606)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1054,7 +1054,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between King Edward St and Exit 44&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-20T07:59:09-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-20T08:19:47-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-20T09:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -1118,6 +1118,31 @@ Expect 20 minute delays. Next update time Fri Feb 20 at 3:00 PM PST. Last update
             <tessellate>1</tessellate>
             <coordinates>-119.210833,50.664031,0 -119.211506,50.664166,0 -119.213082,50.664529,0 -119.213556,50.664716,0 -119.214305,50.665091,0 -119.214935,50.665561,0 -119.215415,50.666025,0 -119.215713,50.666458,0 -119.215926,50.667039,0 -119.215942,50.667082,0 -119.215994,50.667224,0 -119.216035,50.6678,0 -119.216034,50.668674,0 -119.216034,50.668903,0 -119.216032,50.674063,0 -119.216027,50.674566,0 -119.216066,50.674851,0 -119.216215,50.675951,0 -119.216259,50.676063,0 -119.217328,50.678805,0 -119.218205,50.681056,0 -119.218286,50.681241,0 -119.219342,50.683661,0 -119.219517,50.684062,0 -119.220109,50.685328,0 -119.220641,50.686314,0 -119.220923,50.68667,0 -119.221342,50.687115,0 -119.221854,50.687543,0 -119.221957,50.687614,0 -119.222691,50.688121,0 -119.224237,50.688874,0 -119.224859,50.689177,0 -119.225573,50.689525,0 -119.226039,50.689801,0 -119.226098,50.689844,0 -119.226231,50.68994,0 -119.226462,50.690107,0 -119.227044,50.690769,0 -119.227282,50.691172,0 -119.22741,50.691563,0 -119.227446,50.691971,0 -119.227422,50.692583,0 -119.227418,50.694089,0 -119.227417,50.694918,0 -119.227415,50.695484,0 -119.22741,50.697823,0 -119.22741,50.697942,0 -119.227409,50.698345,0 -119.227406,50.699676,0 -119.227406,50.699881,0 -119.22741,50.700949,0 -119.22741,50.70098,0 -119.227411,50.701204,0 -119.227413,50.701672,0 -119.227416,50.702419,0 -119.227418,50.702931,0 -119.22742,50.703386,0 -119.227421,50.703516,0 -119.227422,50.703893,0 -119.227424,50.704468,0 -119.227424,50.704541,0 -119.227425,50.704864,0 -119.227428,50.70598,0 -119.227431,50.706836,0 -119.227431,50.707144,0 -119.227444,50.707997,0 -119.227481,50.708243,0 -119.227447,50.708375,0 -119.227611,50.708651,0 -119.227694,50.70878,0 -119.227801,50.708949,0 -119.228313,50.709471,0 -119.229203,50.709981,0 -119.229609,50.710198,0 -119.229735,50.710262,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Police incident at Port Mann Bridge (Surrey). Expect delays. The right Surrey lane is blocked just before midspan. Next update time Fri Feb 20 at 9:45 AM PST. Last updated Fri Feb 20 at 8:31 AM PST. (DBC-87607)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-20T08:31:25-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-20T09:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87607
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.813328,49.21973,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Mission Mountain Rd. Debris on roadway between Terzaghi Dam and Shalath 40 km west of Lillooet. Construction work. Watch for traffic control. Expect delays. Light traffic only, limited road widths. Last updated Thu Feb 19 at 8:04 PM PST. (DBC-84909)</name>
@@ -4553,6 +4578,32 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28 and Mar 3 to 5. NOTE: No work will occur 
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97 (Cariboo Connector). Utility work between Parke Rd and Antoine Rd for 5.1 km (Cache Creek). Until Fri Mar 13. From 8:00 AM to 4:00 PM PST on weekdays. Single lane alternating traffic. Please watch for signage and personnel. Expect minor delays of up to five minutes. Last updated Fri Feb 20 at 8:31 AM PST. (DBC-86367)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Parke Rd and Antoine Rd for 5.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Cache Creek&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-20T08:31:42-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86367
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.326691,50.81362,0 -121.327108,50.814029,0 -121.327259,50.814177,0 -121.328167,50.815069,0 -121.32894,50.815828,0 -121.330478,50.817306,0 -121.331062,50.817806,0 -121.331264,50.817958,0 -121.331962,50.81848,0 -121.333216,50.819324,0 -121.333609,50.819552,0 -121.33454,50.8201,0 -121.335667,50.82066,0 -121.336867,50.821178,0 -121.337451,50.821431,0 -121.338524,50.821823,0 -121.339576,50.822175,0 -121.350595,50.825483,0 -121.352268,50.826054,0 -121.353403,50.826506,0 -121.353661,50.826623,0 -121.360492,50.829728,0 -121.360655,50.829803,0 -121.361189,50.83001,0 -121.361456,50.830119,0 -121.362625,50.830488,0 -121.365059,50.831124,0 -121.366441,50.831484,0 -121.367552,50.831803,0 -121.367986,50.831985,0 -121.368758,50.832399,0 -121.371862,50.834318,0 -121.372482,50.834703,0 -121.372672,50.83482,0 -121.373863,50.835554,0 -121.375558,50.836522,0 -121.376247,50.836881,0 -121.377779,50.837678,0 -121.377955,50.837774,0 -121.380272,50.838966,0 -121.380572,50.839121,0 -121.38063,50.839154,0 -121.381507,50.83965,0 -121.382006,50.840053,0 -121.382237,50.840305,0 -121.382571,50.840819,0 -121.382714,50.841163,0 -121.382751,50.841288,0 -121.382787,50.841479,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Indian Road. Tree pruning between Glenora Road and Allenby Road in Duncan. Until Fri Feb 27. From 7:00 AM to 3:00 PM PST on weekdays. Single lane alternating traffic. Last updated Fri Feb 13 at 9:06 AM PST. (DBC-87353)</name>
           <description>
     &lt;![CDATA[
@@ -4576,32 +4627,6 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28 and Mar 3 to 5. NOTE: No work will occur 
           <Point>
             <coordinates>-123.731321,48.768283,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97 (Cariboo Connector). Utility work between Parke Rd and Antoine Rd for 5.1 km (Cache Creek). Until Sat Feb 28. From 8:00 AM to 4:00 PM PST on weekdays. Single lane alternating traffic. Please watch for signage and personnel. Expect minor delays of up to five minutes. Last updated Tue Feb 17 at 8:29 AM PST. (DBC-86367)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Parke Rd and Antoine Rd for 5.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Cache Creek&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-17T08:29:17-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86367
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.326691,50.81362,0 -121.327108,50.814029,0 -121.327259,50.814177,0 -121.328167,50.815069,0 -121.32894,50.815828,0 -121.330478,50.817306,0 -121.331062,50.817806,0 -121.331264,50.817958,0 -121.331962,50.81848,0 -121.333216,50.819324,0 -121.333609,50.819552,0 -121.33454,50.8201,0 -121.335667,50.82066,0 -121.336867,50.821178,0 -121.337451,50.821431,0 -121.338524,50.821823,0 -121.339576,50.822175,0 -121.350595,50.825483,0 -121.352268,50.826054,0 -121.353403,50.826506,0 -121.353661,50.826623,0 -121.360492,50.829728,0 -121.360655,50.829803,0 -121.361189,50.83001,0 -121.361456,50.830119,0 -121.362625,50.830488,0 -121.365059,50.831124,0 -121.366441,50.831484,0 -121.367552,50.831803,0 -121.367986,50.831985,0 -121.368758,50.832399,0 -121.371862,50.834318,0 -121.372482,50.834703,0 -121.372672,50.83482,0 -121.373863,50.835554,0 -121.375558,50.836522,0 -121.376247,50.836881,0 -121.377779,50.837678,0 -121.377955,50.837774,0 -121.380272,50.838966,0 -121.380572,50.839121,0 -121.38063,50.839154,0 -121.381507,50.83965,0 -121.382006,50.840053,0 -121.382237,50.840305,0 -121.382571,50.840819,0 -121.382714,50.841163,0 -121.382751,50.841288,0 -121.382787,50.841479,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway). Road construction work between Exit 6: McKenzie Ave and Exit 10: Burnside Rd W for 3.8 km (View Royal to Saanich). Construction work at Colwood Interchange, Helmcken Interchange, and McKenzie Interchange until Fall 2027. Expect speed changes, traffic pattern changes, and overnight work. Next update time Mon Mar 9 at 10:00 AM PST. Last updated Mon Jan 26 at 10:03 AM PST. (DBC-73856)</name>
@@ -5402,6 +5427,32 @@ Westbound 8:30 PM to 5 AM Feb 22 to 28 and Mar 3 to 5. NOTE: No work will occur 
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.8602,49.524796,0 -124.856974,49.522093,0 -124.855752,49.521069,0 -124.854498,49.520018,0 -124.854225,49.519788,0 -124.853401,49.519051,0 -124.852843,49.51845,0 -124.852146,49.517442,0 -124.851736,49.516613,0 -124.851476,49.515831,0 -124.851428,49.515688,0 -124.850693,49.513478,0 -124.850588,49.513165,0 -124.849835,49.510901,0 -124.849418,49.50965,0 -124.848922,49.508643,0 -124.84851,49.508003,0 -124.847399,49.506629,0 -124.847268,49.506489,0 -124.8471,49.50631,0 -124.846928,49.506127,0 -124.846561,49.50579,0 -124.846203,49.505493,0 -124.845403,49.504831,0 -124.843069,49.503085,0 -124.842229,49.502361,0 -124.841514,49.501644,0 -124.841109,49.501181,0 -124.84041,49.500276,0 -124.840259,49.500007,0 -124.839784,49.499156,0 -124.839505,49.498549,0 -124.839268,49.497825,0 -124.839086,49.497063,0 -124.838884,49.496221,0 -124.838685,49.495561,0 -124.838538,49.495031,0 -124.838308,49.49434,0 -124.838122,49.494038,0 -124.837812,49.493439,0 -124.837034,49.492303,0 -124.83616,49.491403,0 -124.835681,49.490982,0 -124.834966,49.490443,0 -124.834346,49.490039,0 -124.833757,49.489696,0 -124.833445,49.489535,0 -124.833001,49.489306,0 -124.832966,49.489291,0 -124.832067,49.488904,0 -124.831182,49.488579,0 -124.829906,49.488214,0 -124.829401,49.488089,0 -124.828312,49.487889,0 -124.824566,49.487346,0 -124.823968,49.487259,0 -124.823801,49.487235,0 -124.823331,49.487167,0 -124.820943,49.486821,0 -124.817799,49.486335,0 -124.816391,49.486,0 -124.815322,49.485666,0 -124.814302,49.485282,0 -124.81423,49.485254,0 -124.814155,49.48522,0 -124.813729,49.48503,0 -124.813448,49.484882,0 -124.81249,49.484377,0 -124.811867,49.483987,0 -124.811179,49.4835,0 -124.810726,49.483131,0 -124.810129,49.482584,0 -124.80955,49.481956,0 -124.80892,49.48108,0 -124.808669,49.480652,0 -124.804602,49.472755,0 -124.804538,49.47263,0 -124.804479,49.472517,0 -124.801432,49.466598,0 -124.800705,49.465186,0 -124.80016,49.464176,0 -124.799994,49.463922,0 -124.799795,49.463618,0 -124.799633,49.46337,0 -124.798867,49.462427,0 -124.798176,49.461758,0 -124.797677,49.461323,0 -124.797043,49.460845,0 -124.79673,49.46061,0 -124.795784,49.460006,0 -124.795711,49.459968,0 -124.795542,49.459881,0 -124.794267,49.459222,0 -124.793579,49.458932,0 -124.79266,49.458584,0 -124.791844,49.458307,0 -124.790005,49.457836,0 -124.788796,49.457569,0 -124.787239,49.457362,0 -124.784578,49.456993,0 -124.784205,49.456941,0 -124.783394,49.456807,0 -124.782518,49.456614,0 -124.781496,49.456354,0 -124.780445,49.456011,0 -124.779377,49.455578,0 -124.778529,49.455168,0 -124.778137,49.454947,0 -124.777777,49.454745,0 -124.777634,49.454655,0 -124.777058,49.454292,0 -124.775894,49.45335,0 -124.773838,49.451435,0 -124.772575,49.450356,0 -124.771873,49.449791,0 -124.771525,49.44951,0 -124.770194,49.448516,0 -124.76901,49.447685,0 -124.767813,49.446896,0 -124.76496,49.445173,0 -124.764551,49.444925,0 -124.762221,49.443517,0 -124.759166,49.441671,0 -124.75824,49.441111,0 -124.757868,49.440887,0 -124.754273,49.438715,0 -124.752595,49.437701,0 -124.752435,49.437604,0 -124.746566,49.434058,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway), westbound. Utility work planned between Becks Rd and Schneider Rd for 1.9 km (Keremeos to 2 km east of Keremeos). Starting Tue Feb 24 at 6:30 AM PST until Wed Feb 25 at 6:00 PM PST. From 6:30 AM to 6:00 PM PST on Tuesday and Wednesday. Shoulder will be closed. Watch for traffic control personnel. Last updated Fri Feb 20 at 8:40 AM PST. (DBC-87608)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Schneider Rd and Becks Rd for 1.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Keremeos to 2 km east of Keremeos&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-20T08:40:52-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87608
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.814142,49.205224,0 -119.811912,49.205222,0 -119.811335,49.205221,0 -119.809365,49.205219,0 -119.809014,49.205219,0 -119.807408,49.205218,0 -119.805966,49.205217,0 -119.805521,49.205217,0 -119.80359,49.205216,0 -119.802766,49.205215,0 -119.802409,49.205215,0 -119.801571,49.205215,0 -119.800007,49.205214,0 -119.799704,49.205214,0 -119.796862,49.205212,0 -119.796436,49.205212,0 -119.794459,49.20521,0 -119.793868,49.20521,0 -119.793333,49.205209,0 -119.791027,49.205208,0 -119.790152,49.205207,0 -119.789697,49.205207,0 -119.789462,49.205191,0 -119.788998,49.205159,0 -119.788554,49.205079,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
