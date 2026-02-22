@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-22 07:41:33 UTC
+        Last updated: 2026-02-22 08:03:47 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (294)</name>
+      <name>🚗 Traffic Events (295)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -1317,6 +1317,32 @@
           <Point>
             <coordinates>-122.264314,50.766581,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99. Slushy with slippery sections between Clarke Dr and Kwetsa Rd for 94.8 km (Squamish to Pemberton). Snowing. Last updated Sat Feb 21 at 11:38 PM PST. (DBCRCON-243857)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_SNOW_PACKED&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Clarke Dr and Kwetsa Rd for 94.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Pemberton to Squamish&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:38:09-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-243857
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.144728,49.695175,0 -123.14352,49.697704,0 -123.144519,49.702492,0 -123.147517,49.709973,0 -123.147851,49.72537,0 -123.146313,49.727115,0 -123.136783,49.731035,0 -123.1352,49.732497,0 -123.134692,49.734067,0 -123.136473,49.759668,0 -123.139379,49.770914,0 -123.139432,49.774952,0 -123.133993,49.786684,0 -123.131989,49.795399,0 -123.130187,49.796828,0 -123.123278,49.79878,0 -123.121609,49.800707,0 -123.12272,49.806348,0 -123.121311,49.810693,0 -123.122785,49.813829,0 -123.127625,49.815972,0 -123.133516,49.823408,0 -123.135185,49.828625,0 -123.135151,49.835401,0 -123.135761,49.837092,0 -123.143854,49.843778,0 -123.149429,49.846398,0 -123.15156,49.85419,0 -123.155592,49.857481,0 -123.156741,49.860427,0 -123.161077,49.867369,0 -123.159966,49.872844,0 -123.161578,49.876693,0 -123.15905,49.881183,0 -123.158719,49.884434,0 -123.160479,49.887486,0 -123.160021,49.890943,0 -123.162535,49.897446,0 -123.163385,49.903723,0 -123.162589,49.906371,0 -123.164679,49.909352,0 -123.166295,49.914861,0 -123.163521,49.918655,0 -123.16377,49.92034,0 -123.165829,49.922314,0 -123.16615,49.923834,0 -123.163791,49.926199,0 -123.162399,49.929965,0 -123.162851,49.931169,0 -123.165863,49.934009,0 -123.166315,49.938174,0 -123.167679,49.940795,0 -123.166531,49.94346,0 -123.166749,49.947129,0 -123.162725,49.95098,0 -123.160366,49.954716,0 -123.159432,49.958246,0 -123.153593,49.962949,0 -123.147519,49.966323,0 -123.146089,49.969638,0 -123.143091,49.972007,0 -123.142796,49.973772,0 -123.144411,49.976877,0 -123.142223,49.980965,0 -123.143456,49.984272,0 -123.143274,49.987749,0 -123.138326,49.990658,0 -123.134823,49.997962,0 -123.13304,50.000354,0 -123.13192,50.005247,0 -123.125831,50.009861,0 -123.123171,50.015356,0 -123.12278,50.019768,0 -123.120631,50.025282,0 -123.121204,50.028963,0 -123.123587,50.034274,0 -123.122345,50.038532,0 -123.123601,50.042095,0 -123.126632,50.046518,0 -123.125092,50.05015,0 -123.112975,50.05677,0 -123.107478,50.062118,0 -123.095851,50.069032,0 -123.092435,50.072837,0 -123.085796,50.077763,0 -123.075854,50.080477,0 -123.069488,50.083087,0 -123.063652,50.084299,0 -123.056344,50.083306,0 -123.050583,50.084614,0 -123.046383,50.086436,0 -123.041651,50.085865,0 -123.034066,50.087333,0 -123.030184,50.086865,0 -123.022335,50.087337,0 -123.018507,50.088853,0 -123.015217,50.088837,0 -123.011935,50.089987,0 -123.005958,50.090531,0 -122.99875,50.08996,0 -122.995494,50.093034,0 -122.990272,50.096477,0 -122.989897,50.097644,0 -122.99114,50.100447,0 -122.989888,50.102073,0 -122.985714,50.103886,0 -122.981383,50.103441,0 -122.979764,50.103818,0 -122.972465,50.109641,0 -122.965753,50.109732,0 -122.960973,50.11147,0 -122.959489,50.112996,0 -122.959065,50.114618,0 -122.960821,50.120958,0 -122.954391,50.128302,0 -122.953128,50.134778,0 -122.953783,50.136754,0 -122.956421,50.139296,0 -122.956998,50.142365,0 -122.962172,50.149539,0 -122.962262,50.151953,0 -122.960732,50.153807,0 -122.957618,50.155494,0 -122.955542,50.155752,0 -122.953269,50.155186,0 -122.948831,50.152694,0 -122.944843,50.151629,0 -122.943029,50.151751,0 -122.938751,50.153148,0 -122.934474,50.153091,0 -122.927473,50.157886,0 -122.926268,50.162253,0 -122.924433,50.165161,0 -122.921219,50.166626,0 -122.919042,50.169099,0 -122.917098,50.170358,0 -122.914425,50.170639,0 -122.903547,50.167332,0 -122.900154,50.167359,0 -122.897349,50.166479,0 -122.895484,50.166665,0 -122.891966,50.169332,0 -122.884659,50.172571,0 -122.875967,50.179951,0 -122.87421,50.183793,0 -122.874326,50.185773,0 -122.876862,50.189166,0 -122.877817,50.193472,0 -122.880611,50.197234,0 -122.880453,50.200001,0 -122.88243,50.207083,0 -122.884421,50.211032,0 -122.883706,50.213013,0 -122.885343,50.217688,0 -122.884093,50.219249,0 -122.873618,50.225219,0 -122.872543,50.227321,0 -122.871004,50.228686,0 -122.870887,50.232105,0 -122.86863,50.237358,0 -122.863971,50.241412,0 -122.861834,50.249396,0 -122.859853,50.252565,0 -122.860289,50.255064,0 -122.864627,50.259488,0 -122.865369,50.263075,0 -122.867317,50.265919,0 -122.867168,50.270508,0 -122.867818,50.273302,0 -122.867046,50.274666,0 -122.858641,50.279006,0 -122.856734,50.281488,0 -122.852159,50.284349,0 -122.85116,50.285527,0 -122.850306,50.285678,0 -122.848583,50.285003,0 -122.848225,50.286009,0 -122.846387,50.287145,0 -122.842869,50.28681,0 -122.83892,50.287875,0 -122.836875,50.288897,0 -122.832344,50.293099,0 -122.812541,50.29956,0 -122.80993,50.303393,0 -122.806066,50.314098,0 -122.804341,50.315966,0 -122.802365,50.316893,0 -122.798443,50.317176,0 -122.793502,50.315816,0 -122.771874,50.315776,0 -122.76562,50.31647,0 -122.761367,50.31489,0 -122.7608,50.312371,0 -122.758988,50.311114,0 -122.75574,50.311117,0 -122.749251,50.312213,0 -122.745676,50.310818,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 26. Compact snow between Sorum Rd and Barkerville Hwy for 56.1 km (25 km east of Quesnel to 6 km east of Wells). Last updated Sat Feb 21 at 3:56 PM PST. (DBCRCON-243830)</name>
@@ -7728,7 +7754,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.731639-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.764966-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7765,7 +7791,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.746371-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.773906-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7802,7 +7828,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.713256-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.754401-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7839,7 +7865,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.756988-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.785440-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7876,7 +7902,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.696126-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.726771-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7916,7 +7942,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.702421-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.737615-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7953,7 +7979,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.767215-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.796651-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7990,7 +8016,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.778555-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.806381-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8027,7 +8053,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.795395-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.823684-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8064,7 +8090,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.682135-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.710018-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8101,7 +8127,7 @@
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.688959-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.719138-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8141,7 +8167,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.708071-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.746852-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8160,16 +8186,16 @@
         
         
             &lt;h4&gt;Vessel Information&lt;/h4&gt;
-            &lt;b&gt;Name:&lt;/b&gt; M.V. Osprey 2000&lt;br/&gt;
-            &lt;b&gt;Vehicle Capacity:&lt;/b&gt; 70&lt;br/&gt;
-            &lt;b&gt;Passenger Capacity:&lt;/b&gt; 144&lt;br/&gt;
+            &lt;b&gt;Name:&lt;/b&gt; M.V. Balfour&lt;br/&gt;
+            &lt;b&gt;Vehicle Capacity:&lt;/b&gt; 28&lt;br/&gt;
+            &lt;b&gt;Passenger Capacity:&lt;/b&gt; 150&lt;br/&gt;
             &lt;b&gt;Crossing Time:&lt;/b&gt; 35 minutes&lt;br/&gt;
-            &lt;b&gt;Weight Capacity:&lt;/b&gt; 430000 kg&lt;br/&gt;
+            &lt;b&gt;Weight Capacity:&lt;/b&gt; 90000 kg&lt;br/&gt;
             &lt;b&gt;Schedule Type:&lt;/b&gt; Scheduled Sailings Morning to Night&lt;br/&gt;
             
         
         &lt;h4&gt;Schedule Information&lt;/h4&gt;
-        Service hours (M.V. Osprey 2000): The M.V. Osprey runs the regular winter schedule except when it is down for regular maintenance.&amp;nbsp; At that time the M.V. Balfour will service the run with it&amp;rsquo;s reduced capacity of 28 vehicles  From Balfour  6:30 am &amp;ndash; 9:40 pm    From Kootenay Bay  7:10 am &amp;ndash; 10:20 pm   View detailed schedule
+        Additional summer service (M.V. Balfour): The summer schedule is generally in effect from the third week of June until after the Labour Day weekend.  From Balfour  10:40 am &amp;ndash; 5:20 pm    From Kootenay Bay  11:30 am &amp;ndash; 6:10 pm   View detailed schedule
         
         
             &lt;h4&gt;Contact Information&lt;/h4&gt;
@@ -8178,7 +8204,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.804059-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.815232-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8215,7 +8241,7 @@
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-21T23:00:04.674896-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T00:00:04.700517-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
