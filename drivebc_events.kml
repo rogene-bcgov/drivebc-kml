@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-23 19:47:20 UTC
+        Last updated: 2026-02-23 20:13:39 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (344)</name>
+      <name>🚗 Traffic Events (348)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -435,6 +435,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway). Slushy with slippery sections between Perry River Bridge and Victoria Rd W for 42.0 km (25 km east of Sicamous to Revelstoke). Last updated Mon Feb 23 at 12:11 PM PST. (DBCRCON-244160)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_SNOW_PACKED&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Perry River Bridge and Victoria Rd W for 42.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke to 25 km east of Sicamous&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:11:44-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-244160
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.692071,50.996565,0 -118.679638,51.001373,0 -118.670022,51.003257,0 -118.665523,51.003321,0 -118.655757,51.001941,0 -118.651897,51.000573,0 -118.645903,50.997421,0 -118.635518,50.989218,0 -118.629948,50.986735,0 -118.626505,50.984335,0 -118.621076,50.983216,0 -118.61629,50.981587,0 -118.611398,50.97772,0 -118.603838,50.974233,0 -118.589554,50.971076,0 -118.577741,50.970545,0 -118.572125,50.969829,0 -118.569341,50.970368,0 -118.563043,50.973665,0 -118.553354,50.975766,0 -118.546782,50.974941,0 -118.530754,50.977311,0 -118.525445,50.976434,0 -118.522662,50.975039,0 -118.519538,50.971995,0 -118.512527,50.97031,0 -118.507338,50.967955,0 -118.503959,50.965388,0 -118.502444,50.96303,0 -118.498415,50.959063,0 -118.492546,50.955909,0 -118.489623,50.952702,0 -118.48355,50.950478,0 -118.481494,50.947428,0 -118.48112,50.945618,0 -118.483442,50.94154,0 -118.48439,50.935187,0 -118.481293,50.931122,0 -118.475708,50.928038,0 -118.473145,50.927681,0 -118.460965,50.928851,0 -118.457757,50.930013,0 -118.448653,50.932043,0 -118.444791,50.933675,0 -118.432392,50.936825,0 -118.428632,50.938751,0 -118.425856,50.942506,0 -118.424183,50.943707,0 -118.417164,50.945809,0 -118.413319,50.948293,0 -118.406945,50.950761,0 -118.399896,50.957408,0 -118.385398,50.962447,0 -118.382186,50.962972,0 -118.373867,50.962803,0 -118.367575,50.965377,0 -118.361233,50.966922,0 -118.357476,50.969713,0 -118.354738,50.97078,0 -118.348773,50.971396,0 -118.338689,50.971031,0 -118.330359,50.972908,0 -118.320632,50.978033,0 -118.313319,50.979902,0 -118.307153,50.979491,0 -118.303788,50.979961,0 -118.293246,50.985518,0 -118.273109,50.991148,0 -118.269943,50.991621,0 -118.258983,50.991862,0 -118.246055,50.993916,0 -118.243558,50.995111,0 -118.239377,50.999484,0 -118.232072,51.002591,0 -118.223964,51.003767,0 -118.216001,51.009333,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Waverly Park Frtg and Perry River Bridge for 95.9 km (15 km east of Chase to 25 km east of Sicamous). Last updated Mon Feb 23 at 11:07 AM PST. (DBCRCON-244115)</name>
           <description>
     &lt;![CDATA[
@@ -458,6 +484,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.510327,50.888997,0 -119.505298,50.885056,0 -119.502096,50.883451,0 -119.4873,50.88076,0 -119.472021,50.877001,0 -119.435207,50.876978,0 -119.420547,50.878452,0 -119.413825,50.878241,0 -119.40703,50.879467,0 -119.403037,50.878849,0 -119.397401,50.879103,0 -119.394632,50.878696,0 -119.392295,50.877722,0 -119.387342,50.874115,0 -119.384442,50.870083,0 -119.380005,50.866531,0 -119.372517,50.861791,0 -119.367596,50.856204,0 -119.346788,50.850501,0 -119.333195,50.845388,0 -119.329853,50.843371,0 -119.326469,50.838809,0 -119.319902,50.826393,0 -119.320006,50.809041,0 -119.320614,50.807336,0 -119.325244,50.802436,0 -119.326607,50.793555,0 -119.329124,50.787751,0 -119.339814,50.777605,0 -119.340562,50.774397,0 -119.338128,50.769294,0 -119.337511,50.766239,0 -119.331217,50.761226,0 -119.327612,50.759489,0 -119.325337,50.757329,0 -119.325442,50.750456,0 -119.323025,50.746531,0 -119.322542,50.740929,0 -119.316099,50.731725,0 -119.315642,50.730211,0 -119.318508,50.714691,0 -119.330025,50.702903,0 -119.331113,50.700857,0 -119.331599,50.697295,0 -119.329696,50.694617,0 -119.326487,50.692885,0 -119.323951,50.692539,0 -119.309961,50.692553,0 -119.29342,50.699152,0 -119.284542,50.699857,0 -119.278365,50.70211,0 -119.270045,50.702505,0 -119.268581,50.703301,0 -119.266038,50.706138,0 -119.264056,50.706948,0 -119.23686,50.707126,0 -119.234379,50.707501,0 -119.231319,50.708978,0 -119.227896,50.711801,0 -119.227204,50.713817,0 -119.227294,50.744586,0 -119.226527,50.746819,0 -119.21383,50.754735,0 -119.201282,50.765309,0 -119.185674,50.771304,0 -119.180167,50.774135,0 -119.174651,50.777944,0 -119.170922,50.781446,0 -119.165275,50.784358,0 -119.152416,50.787051,0 -119.143969,50.789425,0 -119.137944,50.790168,0 -119.133407,50.790061,0 -119.13202,50.790811,0 -119.129541,50.794011,0 -119.126206,50.794874,0 -119.123221,50.794632,0 -119.119032,50.792194,0 -119.113803,50.790707,0 -119.108885,50.790903,0 -119.102812,50.789708,0 -119.096336,50.789654,0 -119.085977,50.788719,0 -119.079999,50.789394,0 -119.073794,50.792592,0 -119.07064,50.797568,0 -119.06135,50.805442,0 -119.056209,50.806485,0 -119.049173,50.810799,0 -119.041579,50.817098,0 -119.038199,50.818722,0 -119.032944,50.822768,0 -119.030373,50.82419,0 -119.02334,50.826776,0 -119.017274,50.830097,0 -119.014443,50.830691,0 -119.008104,50.830971,0 -119.001348,50.833057,0 -118.984544,50.839692,0 -118.980465,50.839542,0 -118.97487,50.837829,0 -118.96776,50.837945,0 -118.96506,50.838708,0 -118.947868,50.849586,0 -118.943027,50.85567,0 -118.929406,50.864112,0 -118.927709,50.866229,0 -118.925572,50.871739,0 -118.923718,50.8741,0 -118.918987,50.878001,0 -118.910848,50.882909,0 -118.906724,50.884115,0 -118.887691,50.887255,0 -118.867244,50.891725,0 -118.864458,50.891622,0 -118.857678,50.889236,0 -118.852396,50.888446,0 -118.841007,50.888629,0 -118.837632,50.889136,0 -118.833993,50.890365,0 -118.823169,50.896593,0 -118.817583,50.900905,0 -118.795571,50.923253,0 -118.794434,50.925252,0 -118.79388,50.929301,0 -118.792845,50.930823,0 -118.776087,50.945813,0 -118.773377,50.947512,0 -118.746438,50.959849,0 -118.735465,50.964263,0 -118.733716,50.965734,0 -118.731153,50.969584,0 -118.725325,50.974075,0 -118.719266,50.982832,0 -118.692071,50.996565,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Compact snow between Victoria Rd W and Glacier National Park West Boundary for 48.1 km (Revelstoke to 1 km east of West Boundary of Glacier National Park). Slushy with slippery sections. Last updated Mon Feb 23 at 10:39 AM PST. (DBCRCON-244161)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; SNOW_PACKED&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Victoria Rd W and Glacier National Park West Boundary for 48.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km east of West Boundary of Glacier National Park to Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T10:39:21-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-244161
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.216001,51.009333,0 -118.212272,51.010507,0 -118.208066,51.009939,0 -118.204305,51.007114,0 -118.199281,51.006589,0 -118.197503,51.00592,0 -118.190454,51.000964,0 -118.188138,51.00007,0 -118.185654,50.999686,0 -118.169351,50.999729,0 -118.165749,50.998715,0 -118.160837,50.995395,0 -118.153688,50.992616,0 -118.147961,50.991723,0 -118.141763,50.992045,0 -118.134385,50.994129,0 -118.129545,50.997681,0 -118.12221,51.000208,0 -118.112667,51.006748,0 -118.100843,51.0091,0 -118.09007,51.01309,0 -118.081463,51.016937,0 -118.068263,51.019709,0 -118.063628,51.021647,0 -118.054958,51.023316,0 -118.048212,51.026271,0 -118.035279,51.028519,0 -118.020617,51.03259,0 -118.014799,51.035248,0 -118.00268,51.03718,0 -117.99139,51.04082,0 -117.982416,51.041055,0 -117.975915,51.04228,0 -117.970382,51.041798,0 -117.966719,51.042171,0 -117.961168,51.044854,0 -117.952094,51.047022,0 -117.943568,51.050903,0 -117.937465,51.052587,0 -117.935476,51.054176,0 -117.935661,51.056909,0 -117.93438,51.062252,0 -117.932269,51.06516,0 -117.931239,51.068989,0 -117.926447,51.072992,0 -117.92861,51.078046,0 -117.927803,51.080577,0 -117.897419,51.113145,0 -117.894791,51.11514,0 -117.888646,51.11828,0 -117.887227,51.119679,0 -117.886053,51.122075,0 -117.886441,51.125497,0 -117.883111,51.128505,0 -117.883284,51.130872,0 -117.882343,51.134783,0 -117.880519,51.13694,0 -117.878196,51.137828,0 -117.869673,51.139073,0 -117.858391,51.138975,0 -117.840167,51.144679,0 -117.837777,51.146187,0 -117.835874,51.150807,0 -117.834309,51.152022,0 -117.819887,51.154312,0 -117.81772,51.156059,0 -117.812966,51.15816,0 -117.800767,51.161477,0 -117.785365,51.168084,0 -117.76425,51.179261,0 -117.755826,51.185595,0 -117.750498,51.187712,0 -117.748566,51.192447,0 -117.745238,51.196943,0 -117.745607,51.200525,0 -117.744357,51.202504,0 -117.736002,51.205628,0 -117.733345,51.206125,0 -117.727412,51.2062,0 -117.720657,51.208955,0 -117.715278,51.209709,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -1341,32 +1393,6 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.59886,53.025848,0 -122.602031,53.024721,0 -122.605624,53.021037,0 -122.61454,53.017852,0 -122.627151,53.018647,0 -122.630151,53.018152,0 -122.63647,53.015332,0 -122.643514,53.013523,0 -122.651672,53.014589,0 -122.656751,53.014593,0 -122.660602,53.013694,0 -122.664265,53.014458,0 -122.671987,53.012821,0 -122.677918,53.013067,0 -122.682094,53.011324,0 -122.690159,53.011291,0 -122.691625,53.01034,0 -122.694269,53.005699,0 -122.694566,53.001539,0 -122.700145,52.990534,0 -122.699028,52.983682,0 -122.699534,52.982358,0 -122.702238,52.981491,0 -122.708751,52.981739,0 -122.714272,52.978255,0 -122.725699,52.975308,0 -122.738699,52.969931,0 -122.748592,52.968689,0 -122.752562,52.969009,0 -122.755686,52.970537,0 -122.757876,52.975475,0 -122.760422,52.976595,0 -122.763176,52.975996,0 -122.766396,52.972849,0 -122.768472,52.972263,0 -122.77533,52.973975,0 -122.780737,52.974016,0 -122.786049,52.976758,0 -122.788536,52.977409,0 -122.791992,52.977774,0 -122.802705,52.977754,0 -122.805735,52.976996,0 -122.810254,52.973861,0 -122.836876,52.965756,0 -122.841697,52.965046,0 -122.845608,52.965318,0 -122.85148,52.966545,0 -122.859826,52.969646,0 -122.876006,52.97278,0 -122.877782,52.974085,0 -122.881431,52.97909,0 -122.886208,52.983474,0 -122.901573,52.99256,0 -122.908294,52.994123,0 -122.914621,52.994473,0 -122.92217,52.996229,0 -122.934253,52.996209,0 -122.942297,52.997759,0 -122.948951,52.997667,0 -122.961106,52.990802,0 -122.983186,52.986855,0 -122.98998,52.984585,0 -122.99202,52.984352,0 -122.99435,52.984677,0 -122.996335,52.985661,0 -123.000754,52.991985,0 -123.006938,52.993631,0 -123.009439,52.997052,0 -123.011108,52.997684,0 -123.013164,52.997707,0 -123.017422,52.996404,0 -123.021184,52.993262,0 -123.021853,52.990176,0 -123.02353,52.9881,0 -123.033077,52.983692,0 -123.040393,52.983,0 -123.052387,52.978171,0 -123.056583,52.975988,0 -123.059874,52.975008,0 -123.076357,52.972188,0 -123.083731,52.972423,0 -123.087915,52.973684,0 -123.093503,52.979745,0 -123.097948,52.981221,0 -123.099567,52.984453,0 -123.10104,52.985923,0 -123.106179,52.985299,0 -123.110642,52.986741,0 -123.115606,52.98756,0 -123.120509,52.989452,0 -123.124979,52.992,0 -123.131464,52.994236,0 -123.135803,52.994988,0 -123.143366,52.997791,0 -123.150798,52.999207,0 -123.152633,53.001972,0 -123.15411,53.002698,0 -123.163661,53.00287,0 -123.167441,53.002167,0 -123.168616,53.002471,0 -123.170025,53.004434,0 -123.168425,53.007421,0 -123.169619,53.009915,0 -123.170946,53.010985,0 -123.17664,53.012606,0 -123.180274,53.012737,0 -123.186134,53.011065,0 -123.18909,53.011948,0 -123.193066,53.014555,0 -123.195133,53.014873,0 -123.196282,53.014393,0 -123.198613,53.011475,0 -123.200799,53.009873,0 -123.206481,53.009492,0 -123.212017,53.00788,0 -123.220422,53.007292,0 -123.231913,53.009819,0 -123.236094,53.012542,0 -123.245074,53.014864,0 -123.247708,53.014841,0 -123.252508,53.013639,0 -123.259428,53.013541,0 -123.262653,53.012905,0 -123.267173,53.014179,0 -123.271584,53.013527,0 -123.278734,53.010687,0 -123.282424,53.008636,0 -123.287233,53.009086,0 -123.289286,53.008652,0 -123.303862,53.003353,0 -123.308808,53.000622,0 -123.310306,53.000683,0 -123.313471,53.002092,0 -123.315477,53.00246,0 -123.327666,53.000718,0 -123.333849,52.999369,0 -123.335615,52.99841,0 -123.338664,52.99498,0 -123.347418,52.990475,0 -123.351075,52.987097,0 -123.354621,52.985728,0 -123.360261,52.984736,0 -123.366396,52.979385,0 -123.367354,52.976581,0 -123.365895,52.974691,0 -123.360114,52.969915,0 -123.359568,52.963928,0 -123.361905,52.959785,0 -123.361521,52.953936,0 -123.363963,52.951939,0 -123.370591,52.950555,0 -123.374044,52.948316,0 -123.384087,52.943999,0 -123.388239,52.94037,0 -123.390673,52.939284,0 -123.400242,52.937325,0 -123.408579,52.937469,0 -123.415682,52.939845,0 -123.431486,52.941805,0 -123.442529,52.94513,0 -123.446749,52.94551,0 -123.487651,52.937121,0 -123.499387,52.935356,0 -123.501009,52.934609,0 -123.503286,52.931914,0 -123.505286,52.930866,0 -123.515949,52.929293,0 -123.528379,52.926205,0 -123.530952,52.926108,0 -123.538689,52.928107,0 -123.540885,52.928042,0 -123.54219,52.927011,0 -123.543504,52.923495,0 -123.541794,52.913346,0 -123.542271,52.912473,0 -123.54359,52.911966,0 -123.545897,52.912538,0 -123.548974,52.915918,0 -123.5494,52.921928,0 -123.550686,52.92386,0 -123.563411,52.929638,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway). Compact snow between Perry River Bridge and Glacier National Park West Boundary for 90.1 km (25 km east of Sicamous to 1 km east of West Boundary of Glacier National Park). Slushy with slippery sections. Last updated Mon Feb 23 at 10:39 AM PST. (DBCRCON-244144)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; SNOW_PACKED&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Perry River Bridge and Glacier National Park West Boundary for 90.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km east of West Boundary of Glacier National Park to 25 km east of Sicamous&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T10:39:21-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-244144
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-118.692071,50.996565,0 -118.679638,51.001373,0 -118.670022,51.003257,0 -118.665523,51.003321,0 -118.655757,51.001941,0 -118.651897,51.000573,0 -118.645903,50.997421,0 -118.635518,50.989218,0 -118.629948,50.986735,0 -118.626505,50.984335,0 -118.621076,50.983216,0 -118.61629,50.981587,0 -118.611398,50.97772,0 -118.603838,50.974233,0 -118.589554,50.971076,0 -118.577741,50.970545,0 -118.572125,50.969829,0 -118.569341,50.970368,0 -118.563043,50.973665,0 -118.553354,50.975766,0 -118.546782,50.974941,0 -118.530754,50.977311,0 -118.525445,50.976434,0 -118.522662,50.975039,0 -118.519538,50.971995,0 -118.512527,50.97031,0 -118.507338,50.967955,0 -118.503959,50.965388,0 -118.502444,50.96303,0 -118.498415,50.959063,0 -118.492546,50.955909,0 -118.489623,50.952702,0 -118.48355,50.950478,0 -118.481494,50.947428,0 -118.48112,50.945618,0 -118.483442,50.94154,0 -118.48439,50.935187,0 -118.481293,50.931122,0 -118.475708,50.928038,0 -118.473954,50.927672,0 -118.460965,50.928851,0 -118.457757,50.930013,0 -118.448653,50.932043,0 -118.444791,50.933675,0 -118.432392,50.936825,0 -118.428632,50.938751,0 -118.425856,50.942506,0 -118.424183,50.943707,0 -118.417164,50.945809,0 -118.413319,50.948293,0 -118.406945,50.950761,0 -118.399896,50.957408,0 -118.385398,50.962447,0 -118.382186,50.962972,0 -118.373867,50.962803,0 -118.367575,50.965377,0 -118.361233,50.966922,0 -118.357476,50.969713,0 -118.354738,50.97078,0 -118.348773,50.971396,0 -118.338689,50.971031,0 -118.330359,50.972908,0 -118.320632,50.978033,0 -118.313319,50.979902,0 -118.307153,50.979491,0 -118.303788,50.979961,0 -118.293246,50.985518,0 -118.273109,50.991148,0 -118.269943,50.991621,0 -118.258983,50.991862,0 -118.246055,50.993916,0 -118.243558,50.995111,0 -118.239377,50.999484,0 -118.232072,51.002591,0 -118.223964,51.003767,0 -118.216001,51.009333,0 -118.213227,51.010379,0 -118.209303,51.01031,0 -118.207469,51.009661,0 -118.204305,51.007114,0 -118.198078,51.006199,0 -118.190454,51.000964,0 -118.188138,51.00007,0 -118.185654,50.999686,0 -118.169351,50.999729,0 -118.165749,50.998715,0 -118.160837,50.995395,0 -118.153688,50.992616,0 -118.146508,50.991665,0 -118.140578,50.99224,0 -118.134385,50.994129,0 -118.129545,50.997681,0 -118.12221,51.000208,0 -118.112667,51.006748,0 -118.100843,51.0091,0 -118.09007,51.01309,0 -118.081463,51.016937,0 -118.068263,51.019709,0 -118.063628,51.021647,0 -118.054958,51.023316,0 -118.048212,51.026271,0 -118.035279,51.028519,0 -118.020617,51.03259,0 -118.014799,51.035248,0 -118.00268,51.03718,0 -117.99139,51.04082,0 -117.982416,51.041055,0 -117.975915,51.04228,0 -117.970382,51.041798,0 -117.966719,51.042171,0 -117.961168,51.044854,0 -117.952094,51.047022,0 -117.943568,51.050903,0 -117.936735,51.05292,0 -117.935361,51.054528,0 -117.935661,51.056909,0 -117.93438,51.062252,0 -117.932269,51.06516,0 -117.931239,51.068989,0 -117.926447,51.072992,0 -117.92861,51.078046,0 -117.927803,51.080577,0 -117.897419,51.113145,0 -117.894791,51.11514,0 -117.888646,51.11828,0 -117.887227,51.119679,0 -117.886053,51.122075,0 -117.886441,51.125497,0 -117.883111,51.128505,0 -117.883284,51.130872,0 -117.882343,51.134783,0 -117.880519,51.13694,0 -117.878196,51.137828,0 -117.869673,51.139073,0 -117.858391,51.138975,0 -117.840167,51.144679,0 -117.837777,51.146187,0 -117.835874,51.150807,0 -117.834309,51.152022,0 -117.819887,51.154312,0 -117.81772,51.156059,0 -117.812966,51.15816,0 -117.800767,51.161477,0 -117.785365,51.168084,0 -117.76425,51.179261,0 -117.755826,51.185595,0 -117.750498,51.187712,0 -117.748566,51.192447,0 -117.745238,51.196943,0 -117.745607,51.200525,0 -117.744357,51.202504,0 -117.736002,51.205628,0 -117.733345,51.206125,0 -117.727412,51.2062,0 -117.720657,51.208955,0 -117.715278,51.209709,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3534,7 +3560,58 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Skunk Cabbage Boardwalk and Greely Rd for 13.0 km (5 km west of West Boundary of Mount Revelstoke National Park to 5 km west of East Boundary of Mount Revelstoke National Park). Westbound lane closure. Watch for traffic control. Next update time Mon Feb 23 at 2:00 PM PST. Last updated Mon Feb 23 at 11:35 AM PST. (DBC-87706)</name>
+          <name>Highway 99, southbound. Vehicle incident at Oak Street Bridge (Vancouver). Right lane is blocked. Expect delays due to congestion. Northbound left lane blocked. Next update time Mon Feb 23 at 12:30 PM PST. Last updated Mon Feb 23 at 12:01 PM PST. (DBC-87709)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Oak Street Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:01:29-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-23T12:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87709
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.125725,49.200011,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), northbound. Vehicle incident between Brenton-Page Rd and Cedar Rd for 0.9 km (4 to 5 km north of Ladysmith). Northbound lane closure. Watch for traffic control. Detour in effect. Detour in place from Brenton Page Rd, north up Code Rd, and then west down Cedar Rd. Next update time Mon Feb 23 at 12:15 PM PST. Last updated Mon Feb 23 at 12:11 PM PST. (DBC-87708)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Brenton-Page Rd and Cedar Rd for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 to 4 km north of Ladysmith&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:11:41-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-23T12:15:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87708
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.861938,49.026432,0 -123.862284,49.026838,0 -123.863394,49.028156,0 -123.863659,49.028584,0 -123.863896,49.02908,0 -123.863986,49.029443,0 -123.864028,49.030222,0 -123.86394,49.030658,0 -123.863897,49.030772,0 -123.863603,49.031556,0 -123.863001,49.033161,0 -123.862863,49.033809,0 -123.86285,49.034004,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Skunk Cabbage Boardwalk and Greely Rd for 13.0 km (5 km west of West Boundary of Mount Revelstoke National Park to 5 km west of East Boundary of Mount Revelstoke National Park). Single lane alternating traffic. Watch for traffic control. Expect delays of up to twenty minutes. Next update time Mon Feb 23 at 2:00 PM PST. Last updated Mon Feb 23 at 12:09 PM PST. (DBC-87706)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3546,7 +3623,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Greely Rd and Skunk Cabbage Boardwalk for 13.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km west of West Boundary of Mount Revelstoke National Park to 5 km west of East Boundary of Mount Revelstoke National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:35:10-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:09:12-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-23T14:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3715,7 +3792,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97. Vehicle incident between L and A Cross Rd and St. Annes Rd (10 km north of Vernon). Watch for traffic control. All lanes open. Expect lane closure for vehicle removal. Next update time Mon Feb 23 at 12:00 PM PST. Last updated Mon Feb 23 at 11:07 AM PST. (DBC-87698)</name>
+          <name>Highway 97. Vehicle incident between L and A Cross Rd and St. Annes Rd (10 km north of Vernon). Watch for traffic control. All lanes open. Expect lane closure for vehicle removal. Next update time Mon Feb 23 at 2:00 PM PST. Last updated Mon Feb 23 at 12:04 PM PST. (DBC-87698)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3727,8 +3804,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between L and A Cross Rd and St. Annes Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 10 km north of Vernon&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:07:05-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-23T12:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:04:50-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-23T14:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-87698
@@ -4530,6 +4607,31 @@
             <tessellate>1</tessellate>
             <coordinates>-123.372958,48.448783,0 -123.373289,48.449282,0 -123.373299,48.449299,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Comox Rd, westbound. Tree pruning planned between 17th st Bridge and Queneesh Rd in Courtenay. Starting Tue Feb 24 at 10:00 AM PST until Tue Feb 24 at 2:00 PM PST. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Expect delays. Last updated Mon Feb 23 at 12:03 PM PST. (DBC-87710)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Comox Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 17th st Bridge and Queneesh Rd in Courtenay&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:03:40-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87710
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.961492,49.678394,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 19A (Island Highway), in both directions. Tree pruning between Kinkade Rd and Evanson Rd for 0.7 km (1 km north of Qualicum Beach to Qualicum Beach). Until Fri Feb 27 at 4:30 PM PST. Single lane alternating traffic. Expect minor delays. Watch for traffic control. Slow down and watch for work crews. Last updated Fri Feb 13 at 8:50 AM PST. (DBC-86916)</name>
@@ -9030,7 +9132,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.913909-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.763306-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9067,7 +9169,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.921925-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.770959-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9104,7 +9206,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.905481-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.755819-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9141,7 +9243,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.930029-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.777399-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9178,7 +9280,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.879515-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.730600-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9218,7 +9320,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.884205-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.739162-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9255,7 +9357,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.934810-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.787255-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9292,7 +9394,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.938892-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.798519-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9329,7 +9431,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.952733-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.819139-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9366,7 +9468,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.869907-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.713402-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9403,7 +9505,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.874441-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.720243-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9443,7 +9545,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.892427-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.746737-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9480,7 +9582,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.958307-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.828571-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9517,7 +9619,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T11:00:10.864892-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:00:04.706450-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
