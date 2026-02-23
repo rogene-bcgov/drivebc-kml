@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-23 06:23:11 UTC
+        Last updated: 2026-02-23 06:47:40 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (318)</name>
+      <name>🚗 Traffic Events (319)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -2690,30 +2690,54 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle recovery between Jumping Creek Rd and Illecillewaet Brake Check for 0.1 km (5 km west of West Boundary of Glacier National Park). Until Sun Feb 22 at 11:30 PM PST. Expect minor delays. Watch for traffic control. Last updated Sun Feb 22 at 9:37 PM PST. (DBC-87681)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Police incident between King Edward St and Exit 44 (Coquitlam). Right lane is blocked. Next update time Sun Feb 22 at 11:00 PM PST. Last updated Sun Feb 22 at 10:31 PM PST. (DBC-87682)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Illecillewaet Brake Check and Jumping Creek Rd for 0.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 km west of West Boundary of Glacier National Park&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between King Edward St and Exit 44&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T21:37:09-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T22:31:32-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-22T23:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87681
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87682
     ]]&gt;
     </description>
           <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.763077,51.180033,0 -117.761823,51.180858,0</coordinates>
-          </LineString>
+          <Point>
+            <coordinates>-122.853118,49.231271,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Vehicle incident between Fountain Valley Rd and Sallus Creek Rd (11 km north of Lillooet). Northbound lane closure. Next update time Sun Feb 22 at 11:30 PM PST. Last updated Sun Feb 22 at 10:37 PM PST. (DBC-87683)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Fountain Valley Rd and Sallus Creek Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 km north of Lillooet&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-22T22:37:07-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-22T23:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87683
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-121.858654,50.744158,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 20, in both directions. Watch for livestock between Elsey Rd and Chipman Rd for 143.1 km (39 km east of Tatla Lake to 6 km west of Anahim Lake). Last updated Sun Feb 22 at 8:05 PM PST. (DBC-78509)</name>
