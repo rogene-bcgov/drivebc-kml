@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-24 17:46:58 UTC
+        Last updated: 2026-02-24 18:16:39 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (315)</name>
+      <name>🚗 Traffic Events (314)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -2154,31 +2154,6 @@
       <Folder>
         <name>Construction Events</name>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Electrical maintenance planned between 30 St NE and Highway 97B (Salmon Arm). Starting Tue Feb 24 at 10:00 AM PST until Tue Feb 24 at 4:00 PM PST. Right lane will be closed. Watch for traffic control personnel. Right lane closed for electrical maintenance watch for traffic control and crews on scene. Last updated Mon Feb 23 at 2:34 PM PST. (DBC-87717)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 30 St NE and Highway 97B&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmon Arm&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T14:34:30-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87717
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-119.250111,50.707139,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 14, in both directions. Utility work between Awsworth Rd and Loledo Pl for 1.7 km (Langford). Until Fri Mar 6. From 7:00 PM to 5:00 AM PST on weekdays. Single lane alternating traffic. Telus utility work. Pole access for aerial placing and splicing. Speed reduction to 60 km/hr. Last updated Wed Feb 18 at 1:37 PM PST. (DBC-87556)</name>
           <description>
     &lt;![CDATA[
@@ -2281,7 +2256,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Comox Rd, westbound. Tree pruning planned between 17th st Bridge and Queneesh Rd in Courtenay. Starting Tue Feb 24 at 10:00 AM PST until Tue Feb 24 at 2:00 PM PST. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Expect delays. Last updated Mon Feb 23 at 12:03 PM PST. (DBC-87710)</name>
+          <name>Comox Rd, westbound. Tree pruning between 17th st Bridge and Queneesh Rd in Courtenay. Until Tue Feb 24 at 2:00 PM PST. Single lane alternating traffic. Watch for traffic control. Expect delays. Last updated Mon Feb 23 at 12:03 PM PST. (DBC-87710)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2293,7 +2268,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between 17th st Bridge and Queneesh Rd in Courtenay&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T12:03:40-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2433,6 +2408,31 @@
             <tessellate>1</tessellate>
             <coordinates>-119.6825,50.817227,0 -119.680667,50.818505,0 -119.680114,50.818891,0 -119.679972,50.81899,0 -119.679653,50.819212,0 -119.679248,50.819496,0 -119.677113,50.820985,0 -119.676128,50.821673,0 -119.675784,50.821913,0 -119.675751,50.821936,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Electrical maintenance between 30 St NE and Highway 97B (Salmon Arm). Until Tue Feb 24 at 4:00 PM PST. Right lane closed. Watch for traffic control. Right lane closed for electrical maintenance watch for traffic control and crews on scene. Last updated Mon Feb 23 at 2:34 PM PST. (DBC-87717)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 30 St NE and Highway 97B&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmon Arm&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87717
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-119.250111,50.707139,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 14. Utility work planned between Otter Point Rd and Church Rd for 10.9 km (Sooke). Starting Thu Feb 26 at 7:00 PM PST until Fri Feb 27 at 6:00 AM PST. Watch for traffic control personnel. Crews working inside the traffic circle at Brownsey Blvd. Last updated Thu Feb 19 at 8:43 AM PST. (DBC-87583)</name>
@@ -7127,6 +7127,31 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </Point>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident at Second Narrows Bridge (North Vancouver - District). Centre lane blocked. Next update time Tue Feb 24 at 11:00 AM PST. Last updated Tue Feb 24 at 10:08 AM PST. (DBC-87756)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Second Narrows Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Vancouver - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:08:17-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-24T11:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87756
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.026346,49.295359,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between West Avalanche Gate and West Creston Rd for 32.1 km (10 km west of Kootenay Pass to 21 km west of Creston). Watch for falling ice. Last updated Sat Feb 21 at 11:36 AM PST. (DBC-86178)</name>
           <description>
     &lt;![CDATA[
@@ -7845,7 +7870,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 91, eastbound. Vehicle incident between No 6 Rd and No 7 Rd (Richmond). Left lane is blocked. Expect delays. Next update time Tue Feb 24 at 10:00 AM PST. Last updated Tue Feb 24 at 9:16 AM PST. (DBC-87749)</name>
+          <name>Highway 91, eastbound. Vehicle incident between No 6 Rd and No 7 Rd (Richmond). Left lane is blocked. Expect delays. Tow in progress. Next update time Tue Feb 24 at 10:30 AM PST. Last updated Tue Feb 24 at 10:00 AM PST. (DBC-87749)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7857,8 +7882,8 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
     &lt;b&gt;Location:&lt;/b&gt; Between No 6 Rd and No 7 Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:16:22-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-24T10:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:22-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-24T10:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-87749
@@ -7870,7 +7895,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 99, southbound. Stalled vehicle at Lions Gate Bridge (West Vancouver). Right lane is blocked. Next update time Tue Feb 24 at 10:00 AM PST. Last updated Tue Feb 24 at 8:57 AM PST. (DBC-87750)</name>
+          <name>Highway 99, southbound. Road cleared at Lions Gate Bridge (West Vancouver). Last updated Tue Feb 24 at 10:09 AM PST. (DBC-87750)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7882,8 +7907,8 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
     &lt;b&gt;Location:&lt;/b&gt; At Lions Gate Bridge&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; West Vancouver&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T08:57:59-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-24T10:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:09:40-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-87750
@@ -8122,61 +8147,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         </Placemark>
       </Folder>
       <Folder>
-        <name>Chain Up Events</name>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between West Avalanche Gate and East Avalanche Gate for 0.1 km (9 km west of Kootenay Pass).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between West Avalanche Gate and East Avalanche Gate&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 km west of Kootenay Pass&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T13:53:28-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-243987
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.141373,49.037791,0 -117.141141,49.038679,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Commercial chain up in effect between West Avalanche Gate and East Avalanche Gate for 0.1 km (5 to 6 km east of Kootenay Pass).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between West Avalanche Gate and East Avalanche Gate&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 5 km east of Kootenay Pass&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-23T13:53:28-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-243988
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.001326,49.095686,0 -117.000804,49.095756,0 -117.000087,49.095852,0 -116.999993,49.095866,0</coordinates>
-          </LineString>
-        </Placemark>
-      </Folder>
-      <Folder>
         <name>Special Event Events</name>
         <Placemark>
           <name>Port Albion Rd, in both directions. Special event planned between 1530 Port Albion Rd and 1855 Port Albion Rd. Starting Thu Feb 26 at 6:00 AM PST until Sat Feb 28 at 1:00 AM PST. Expect minor delays. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Slow down and watch for work crews. Last updated Thu Feb 19 at 9:28 AM PST. (DBC-87585)</name>
@@ -8262,7 +8232,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.746027-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.374396-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8299,7 +8269,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.761948-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.378890-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8336,7 +8306,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.732288-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.370133-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8373,7 +8343,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.769787-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.383612-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8410,7 +8380,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.711969-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.357237-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8450,7 +8420,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.719588-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.361512-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8487,7 +8457,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.776936-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.387614-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8524,7 +8494,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.784331-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.391317-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8561,7 +8531,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.797492-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.401850-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8598,7 +8568,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.685622-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.348020-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8635,7 +8605,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.700841-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.353096-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8675,7 +8645,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.726252-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.366137-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8712,7 +8682,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.803930-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.406819-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8749,7 +8719,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T09:00:04.673486-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-24T10:00:10.343051-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
