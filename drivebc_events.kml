@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-25 17:20:24 UTC
+        Last updated: 2026-02-25 17:46:53 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (309)</name>
+      <name>🚗 Traffic Events (310)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2173,6 +2173,32 @@ Watch f</name>
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Use Highway 97A and 97B. Single lane alternating traffic nightly Mon-Sat 8PM-6AM. No closure Wednesday, Feb 25. Next update time Wed Feb 25 at 4:30 PM PST. Last updated Wed Feb 25 at 9:35 AM PST. (DBC-70490)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sicamous&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T09:35:54-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-25T16:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-70490
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.000848,50.833265,0 -119.000039,50.833698,0 -118.998848,50.834335,0 -118.998522,50.834467,0 -118.998205,50.834596,0 -118.997539,50.834811,0 -118.995559,50.835278,0 -118.994713,50.835651,0 -118.994491,50.835756,0 -118.993768,50.836101,0 -118.993498,50.83624,0 -118.992999,50.836498,0 -118.992683,50.836644,0 -118.991655,50.837119,0 -118.989837,50.837844,0 -118.98951,50.837975,0 -118.98646,50.839194,0 -118.985835,50.839416,0 -118.985107,50.839596,0 -118.984544,50.839692,0 -118.983899,50.839768,0 -118.98341,50.839808,0 -118.982689,50.83981,0 -118.98195,50.839768,0 -118.981172,50.839674,0 -118.980465,50.839542,0 -118.979419,50.839247,0 -118.977338,50.838359,0 -118.977251,50.838279,0 -118.976874,50.838157,0 -118.976766,50.83813,0 -118.976392,50.838035,0 -118.97638,50.838033,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 14, westbound. Tree pruning between Humpback Rd and Kangaroo Rd for 5.0 km (Langford to Metchosin). Until Fri Mar 13. From 9:00 AM to 2:00 PM PST on weekdays. Watch for traffic control. Single lane alternating traffic. Last updated Tue Feb 10 at 6:58 PM PST. (DBC-87224)</name>
           <description>
     &lt;![CDATA[
@@ -2273,32 +2299,6 @@ Watch f</name>
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.76425,51.179261,0 -117.763443,51.179792,0 -117.761823,51.180858,0 -117.760608,51.181795,0 -117.759533,51.182624,0 -117.757574,51.184274,0 -117.756942,51.184806,0 -117.756355,51.185262,0 -117.755826,51.185595,0 -117.755453,51.185779,0 -117.755254,51.185878,0 -117.754406,51.186191,0 -117.753152,51.186545,0 -117.752323,51.186779,0 -117.751597,51.187042,0 -117.750973,51.187354,0 -117.750498,51.187712,0 -117.750022,51.188255,0 -117.749727,51.188955,0 -117.749461,51.189814,0 -117.748881,51.191686,0 -117.748566,51.192447,0 -117.748277,51.192886,0 -117.748139,51.193096,0 -117.745881,51.195896,0 -117.745706,51.196142,0 -117.74546,51.196489,0 -117.745238,51.196943,0 -117.745139,51.19732,0 -117.74515,51.197721,0 -117.745534,51.199757,0 -117.745557,51.199996,0 -117.745607,51.200525,0 -117.745577,51.200712,0 -117.745528,51.201023,0 -117.745352,51.201379,0 -117.745204,51.201675,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>[Truncated] Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Road closed. Use Highway 97A and 97B. Single lane alternating traffic nightly Mon-Sat 8PM-6AM. Local access to Old Sicamous Rd. And Old Spallumcheen Rd. At the top of the hour only when closures are in place. No thru-traffic. Next update time Wed Feb 25 at 12:00 PM PST. Last updated Wed Feb</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sicamous&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-18T09:25:03-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-25T12:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-70490
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.000848,50.833265,0 -119.000039,50.833698,0 -118.998848,50.834335,0 -118.998522,50.834467,0 -118.998205,50.834596,0 -118.997539,50.834811,0 -118.995559,50.835278,0 -118.994713,50.835651,0 -118.994491,50.835756,0 -118.993768,50.836101,0 -118.993498,50.83624,0 -118.992999,50.836498,0 -118.992683,50.836644,0 -118.991655,50.837119,0 -118.989837,50.837844,0 -118.98951,50.837975,0 -118.98646,50.839194,0 -118.985835,50.839416,0 -118.985107,50.839596,0 -118.984544,50.839692,0 -118.983899,50.839768,0 -118.98341,50.839808,0 -118.982689,50.83981,0 -118.98195,50.839768,0 -118.981172,50.839674,0 -118.980465,50.839542,0 -118.979419,50.839247,0 -118.977338,50.838359,0 -118.977251,50.838279,0 -118.976874,50.838157,0 -118.976766,50.83813,0 -118.976392,50.838035,0 -118.97638,50.838033,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -7431,7 +7431,7 @@ Watch f</name>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97A. Vehicle incident between Hutchison Rd and Davidson Dr for 0.2 km (5 to 6 km south of Sicamous). Road closed. Assessment in progress. Expect major delays. Expect extended delays before reopening. Alternate Route HWY 1 - Bruhn Bridge is open for all traffic. Last updated Wed Feb 25 at 9:12 AM PST. (DBC-87797)</name>
+          <name>Highway 97A. Vehicle incident between Hutchison Rd and Davidson Dr for 0.2 km (5 to 6 km south of Sicamous). Road closed. Assessment in progress. Expect major delays. Expect extended delays before reopening. Alternate Route HWY 1 - Bruhn Bridge is open for all traffic. Next update time Wed Feb 25 at 11:00 AM PST. Last updated Wed Feb 25 at 9:21 AM PST. (DBC-87797)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7443,8 +7443,8 @@ Watch f</name>
     &lt;b&gt;Location:&lt;/b&gt; Between Hutchison Rd and Davidson Dr for 0.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 5 km south of Sicamous&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T09:12:38-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T09:21:15-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-25T11:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-87797
@@ -7865,6 +7865,32 @@ Watch f</name>
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.815853,52.529657,0 -125.813859,52.531959,0 -125.811361,52.532852,0 -125.806743,52.532463,0 -125.802451,52.533507,0 -125.787273,52.531951,0 -125.782748,52.532412,0 -125.763318,52.53814,0 -125.755765,52.543578,0 -125.751554,52.544986,0 -125.74545,52.545385,0 -125.736411,52.550062,0 -125.731705,52.551051,0 -125.719882,52.552229,0 -125.713287,52.550976,0 -125.696224,52.545586,0 -125.692632,52.543851,0 -125.69264,52.542272,0 -125.690684,52.540958,0 -125.687555,52.54075,0 -125.675703,52.542204,0 -125.670676,52.541875,0 -125.667059,52.540738,0 -125.652542,52.538128,0 -125.649384,52.53671,0 -125.645995,52.536561,0 -125.643295,52.53711,0 -125.640368,52.53685,0 -125.635841,52.535543,0 -125.628388,52.536324,0 -125.623249,52.534016,0 -125.618287,52.534525,0 -125.610737,52.534278,0 -125.597998,52.538249,0 -125.586503,52.537227,0 -125.577829,52.538259,0 -125.573516,52.541897,0 -125.559887,52.542042,0 -125.552949,52.544433,0 -125.548699,52.543319,0 -125.545725,52.544034,0 -125.543321,52.543799,0 -125.539935,52.542657,0 -125.53466,52.541668,0 -125.530794,52.539325,0 -125.529071,52.539609,0 -125.527454,52.541186,0 -125.52316,52.540666,0 -125.520539,52.540963,0 -125.513977,52.537988,0 -125.499426,52.533683,0 -125.490021,52.531819,0 -125.485107,52.531829,0 -125.477116,52.530058,0 -125.470741,52.530438,0 -125.468418,52.530028,0 -125.46442,52.526309,0 -125.45784,52.524469,0 -125.452544,52.524251,0 -125.449381,52.525612,0 -125.445884,52.525865,0 -125.440328,52.523976,0 -125.433774,52.520337,0 -125.430036,52.51719,0 -125.42798,52.516139,0 -125.421131,52.515168,0 -125.415852,52.512769,0 -125.411269,52.512241,0 -125.406978,52.510106,0 -125.400463,52.510336,0 -125.397461,52.509989,0 -125.393637,52.507109,0 -125.388611,52.5063,0 -125.385754,52.505092,0 -125.382182,52.501365,0 -125.378814,52.499686,0 -125.375737,52.49668,0 -125.372103,52.494476,0 -125.369413,52.490929,0 -125.36915,52.486682,0 -125.368381,52.485863,0 -125.365374,52.484595,0 -125.36235,52.484169,0 -125.3583,52.484418,0 -125.353947,52.482957,0 -125.347506,52.482626,0 -125.338309,52.479179,0 -125.33474,52.477345,0 -125.332975,52.475501,0 -125.327589,52.46582,0 -125.317632,52.461653,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 23. Limited visibility with fog between Junction Hwy 31 and Junction Highway 1 for 49.0 km (Revelstoke). Last updated Wed Feb 25 at 9:29 AM PST. (DBCRCON-244456)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 23&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 31 and Junction Highway 1 for 49.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T09:29:41-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-244456
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.928779,50.634543,0 -117.928845,50.635432,0 -117.92694,50.637807,0 -117.926932,50.639524,0 -117.935808,50.650861,0 -117.949583,50.661567,0 -117.963666,50.67962,0 -117.969144,50.682132,0 -117.982664,50.692441,0 -117.986379,50.697488,0 -117.992932,50.700871,0 -118.012188,50.727595,0 -118.01444,50.729043,0 -118.021237,50.730961,0 -118.023275,50.73259,0 -118.02655,50.738994,0 -118.029943,50.742052,0 -118.032822,50.749268,0 -118.034798,50.751628,0 -118.042616,50.768468,0 -118.04395,50.772657,0 -118.049901,50.776837,0 -118.052217,50.779352,0 -118.055853,50.791194,0 -118.057775,50.79407,0 -118.064039,50.800772,0 -118.065515,50.806435,0 -118.073953,50.813962,0 -118.078324,50.81948,0 -118.082104,50.821899,0 -118.084245,50.826081,0 -118.089326,50.828543,0 -118.101026,50.837485,0 -118.107275,50.841406,0 -118.115143,50.848174,0 -118.123213,50.852034,0 -118.127009,50.855722,0 -118.129905,50.86264,0 -118.135006,50.868369,0 -118.145025,50.874284,0 -118.147548,50.87696,0 -118.15349,50.87905,0 -118.157602,50.882953,0 -118.165089,50.886198,0 -118.175293,50.896495,0 -118.177515,50.900185,0 -118.179811,50.906404,0 -118.1813,50.908234,0 -118.188477,50.912535,0 -118.20443,50.917801,0 -118.207196,50.919344,0 -118.209685,50.921632,0 -118.211338,50.925067,0 -118.213009,50.936979,0 -118.214321,50.938298,0 -118.219647,50.940169,0 -118.226097,50.949906,0 -118.22513,50.955906,0 -118.227987,50.96004,0 -118.227766,50.96301,0 -118.230304,50.966364,0 -118.231656,50.972249,0 -118.231254,50.974817,0 -118.22651,50.980739,0 -118.225551,50.984142,0 -118.227472,50.990839,0 -118.232219,50.99406,0 -118.232849,50.996311,0 -118.231326,50.998189,0 -118.226578,51.000724,0 -118.225756,51.003262,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
