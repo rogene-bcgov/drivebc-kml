@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-25 21:08:32 UTC
+        Last updated: 2026-02-25 21:42:28 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (308)</name>
+      <name>🚗 Traffic Events (310)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -302,6 +302,56 @@
             <tessellate>1</tessellate>
             <coordinates>-123.901828,49.512158,0 -123.896777,49.506648,0 -123.896436,49.506378,0 -123.895945,49.506108,0 -123.895504,49.50595,0 -123.893975,49.505563,0 -123.892505,49.50524,0 -123.891824,49.505145,0 -123.891194,49.505086,0 -123.889972,49.505088,0 -123.88877,49.505199,0 -123.888077,49.505319,0 -123.887101,49.505563,0 -123.886476,49.505769,0 -123.886023,49.505954,0 -123.884093,49.506874,0 -123.883476,49.507112,0 -123.882829,49.50728,0 -123.882318,49.507349,0 -123.882193,49.507365,0 -123.880995,49.507379,0 -123.878596,49.507251,0 -123.874646,49.506814,0 -123.87372,49.506779,0 -123.873378,49.506796,0 -123.872703,49.506895,0 -123.871663,49.507174,0 -123.870825,49.507342,0 -123.87026,49.507358,0 -123.869787,49.507335,0 -123.869346,49.507261,0 -123.868738,49.5071,0 -123.868117,49.506895,0 -123.867042,49.506468,0 -123.866705,49.50623,0 -123.866423,49.505892,0 -123.866313,49.50566,0 -123.866236,49.505384,0 -123.866168,49.504402,0 -123.86606,49.503981,0 -123.865822,49.503434,0 -123.863513,49.499051,0 -123.862544,49.497456,0 -123.862293,49.497167,0 -123.861794,49.496759,0 -123.861421,49.496391,0 -123.861159,49.496083,0 -123.860926,49.495689,0 -123.860671,49.49503,0 -123.860515,49.494734,0 -123.8604,49.494583,0 -123.859849,49.493849,0 -123.858436,49.492299,0 -123.857227,49.49099,0 -123.855327,49.489046,0 -123.853901,49.48746,0 -123.853727,49.487199,0 -123.853674,49.487063,0 -123.853569,49.486795,0 -123.853513,49.486371,0 -123.853508,49.485297,0 -123.853369,49.484863,0 -123.853156,49.484555,0 -123.852881,49.484299,0 -123.852456,49.484032,0 -123.850399,49.483213,0 -123.849455,49.482762,0 -123.848753,49.482294,0 -123.847938,49.481653,0 -123.84784,49.481576,0 -123.843951,49.478227,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, southbound. Construction work planned between Blundell Rd and Exit 32: Steveston Hwy (Richmond). Starting Wed Feb 25 at 10:00 PM PST until Thu Feb 26 at 12:15 AM PST. Right turn exit lane to Steveston Hwy blocked. Last updated Wed Feb 25 at 1:13 PM PST. (DBC-87803)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 32: Steveston Hwy and Blundell Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T13:13:17-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87803
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.086574,49.13483,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Steveston Hwy, in both directions. Construction work planned between No 5 Rd and Highway 99. Starting Wed Feb 25 at 8:00 PM PST until Wed Feb 25 at 10:00 PM PST. Lane Closure. Last updated Wed Feb 25 at 1:15 PM PST. (DBC-87804)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Steveston Hwy&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between No 5 Rd and Highway 99&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T13:15:30-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87804
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.090604,49.133464,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 14, in both directions. Utility work planned at Dover St (Sooke). Starting Mon Mar 2 until Mon Mar 23. From 7:00 PM to 6:00 AM PST daily. Right lane will be blocked. Telus utility work between Dover St. And Lifehouse Crt. Last updated Mon Feb 23 at 12:24 PM PST. (DBC-87711)</name>
@@ -5194,7 +5244,7 @@ Watch f</name>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97A. Vehicle incident between Hutchison Rd and Davidson Dr for 0.2 km (5 to 6 km south of Sicamous). Road closed. Assessment in progress. Expect major delays. Expect extended delays before reopening. Alternate Route HWY 1 - Bruhn Bridge is open for all traffic. Next update time Wed Feb 25 at 2:00 PM PST. Last updated Wed Feb 25 at 12:15 PM PST. (DBC-87797)</name>
+          <name>Highway 97A. Vehicle incident between Hutchison Rd and Davidson Dr for 0.2 km (5 to 6 km south of Sicamous). Road closed. Assessment in progress. Expect major delays. Expect extended delays before reopening. Alternate Route HWY 1 - Bruhn Bridge is open for all traffic. Next update time Wed Feb 25 at 2:30 PM PST. Last updated Wed Feb 25 at 1:32 PM PST. (DBC-87797)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5206,8 +5256,8 @@ Watch f</name>
     &lt;b&gt;Location:&lt;/b&gt; Between Hutchison Rd and Davidson Dr for 0.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 6 to 5 km south of Sicamous&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T12:15:37-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-25T14:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T13:32:37-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-25T14:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-87797
@@ -5423,19 +5473,19 @@ Watch f</name>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 17. Vehicle incident at Bridgeview Dr (Surrey). Expect delays. Watch for traffic control. Eastbound left turn lane to Bridgeview Dr blocked. Next update time Wed Feb 25 at 2:00 PM PST. Last updated Wed Feb 25 at 1:02 PM PST. (DBC-87801)</name>
+          <name>Highway 17, westbound. Vehicle incident at Bridgeview Dr (Surrey). Right lane is blocked. Right turn lane closed. Watch for traffic control. Eastbound left turn lane to Bridgeview Dr also blocked. Next update time Wed Feb 25 at 2:00 PM PST. Last updated Wed Feb 25 at 1:29 PM PST. (DBC-87801)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
     &lt;b&gt;Location:&lt;/b&gt; At Bridgeview Dr&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T13:02:38-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T13:29:20-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-25T14:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
