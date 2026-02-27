@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-27 18:44:04 UTC
+        Last updated: 2026-02-27 19:12:24 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (322)</name>
+      <name>🚗 Traffic Events (320)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -1266,6 +1266,31 @@
             <tessellate>1</tessellate>
             <coordinates>-119.663887,49.805886,0 -119.662852,49.806764,0 -119.661543,49.806467,0 -119.661907,49.80545,0 -119.663468,49.804713,0 -119.668808,49.804515,0 -119.692054,49.800427,0 -119.698265,49.800303,0 -119.704346,49.801347,0 -119.715458,49.805149,0 -119.729628,49.805378,0 -119.736057,49.806317,0 -119.743061,49.808494,0 -119.752626,49.809956,0 -119.766287,49.815172,0 -119.778367,49.817969,0 -119.796178,49.827526,0 -119.810765,49.831945,0 -119.829417,49.843008,0 -119.83315,49.847085,0 -119.841492,49.852721,0 -119.845149,49.857363,0 -119.859464,49.862868,0 -119.869309,49.864778,0 -119.875099,49.868907,0 -119.878596,49.870533,0 -119.883706,49.871561,0 -119.893157,49.871409,0 -119.909759,49.873228,0 -119.92312,49.871933,0 -119.931486,49.869301,0 -119.936227,49.869914,0 -119.939065,49.871843,0 -119.939735,49.874942,0 -119.933168,49.884374,0 -119.932482,49.887151,0 -119.934305,49.890474,0 -119.937384,49.892296,0 -119.940137,49.892991,0 -119.952888,49.894201,0 -119.971289,49.894997,0 -119.975929,49.895584,0 -119.982183,49.89769,0 -119.988715,49.901598,0 -119.992884,49.903149,0 -120.02808,49.910019,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla South), in both directions. There will be water pooling at Exit 200: Shylock Rd (12 km south of Great Bear Snowshed). Starting Mon Mar 2 at 7:00 AM PST until Tue Mar 3 at 3:45 PM PST. From 7:00 AM to 3:45 PM PST on Monday and Tuesday. Pooling water on Exit to to Shylock Road/Exit South Bound. Sucker truck scheduled for March 2nd. Last updated Fri Feb 27 at 10:48 AM PST. (DBC-87919)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; SURFACE_WATER_HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 200: Shylock Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 12 km south of Great Bear Snowshed&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:48:53-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87919
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <Point>
+            <coordinates>-121.213614,49.494231,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 33. Watch for slippery sections between Rupert Mainline and Highway 97 for 39.2 km (Kelowna). Last updated Fri Feb 27 at 6:13 AM PST. (DBCRCON-244932)</name>
@@ -7823,32 +7848,6 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 37. Vehicle recovery between Stikine Bridge and Tanzilla Bridge (21 km south of Dease Lake). Until Fri Feb 27 at 11:00 AM PST. Single lane alternating traffic. Expect minor delays. Last updated Thu Feb 26 at 3:55 PM PST. (DBC-87870)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 37N&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Stikine Bridge and Tanzilla Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 21 km south of Dease Lake&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T08:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87870
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-129.850207,58.25722,0 -129.850216,58.257303,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Cave Road, in both directions. Landslide at Cave Road. Road closed. Landslide on Cave Road. Next update time Wed Apr 8, 2026 at 10:00 AM PDT. Last updated Wed Apr 9 at 10:42 PM PDT. (DBC-67913)</name>
           <description>
     &lt;![CDATA[
@@ -8237,58 +8236,6 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Winter driving conditions between Riverside Dr and BC/AB Border for 50.2 km (Fernie to British Columbia and Alberta Border). Watch for slippery sections. Slushy sections. Last updated Fri Feb 27 at 6:46 AM MST. (DBCRCON-244855)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Riverside Dr and BC/AB Border for 50.2 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Alberta Border to Fernie&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T05:46:29-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-244855
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-115.070151,49.503965,0 -115.066336,49.506199,0 -115.058891,49.513838,0 -115.059059,49.515067,0 -115.061051,49.517155,0 -115.061586,49.518771,0 -115.060825,49.52112,0 -115.059715,49.522246,0 -115.055217,49.524042,0 -115.044627,49.5269,0 -115.040569,49.529059,0 -115.023999,49.54303,0 -115.004519,49.555639,0 -114.992489,49.567007,0 -114.975922,49.584105,0 -114.973504,49.585213,0 -114.966238,49.586888,0 -114.960609,49.590856,0 -114.948471,49.608774,0 -114.917753,49.638184,0 -114.908069,49.653546,0 -114.90659,49.658535,0 -114.905455,49.65956,0 -114.900412,49.661967,0 -114.894387,49.667512,0 -114.889981,49.676343,0 -114.889082,49.682634,0 -114.89418,49.6993,0 -114.893318,49.716025,0 -114.892187,49.719524,0 -114.886281,49.729102,0 -114.883843,49.731307,0 -114.880931,49.732526,0 -114.878305,49.733182,0 -114.873955,49.733264,0 -114.863411,49.729898,0 -114.85679,49.729977,0 -114.85318,49.72877,0 -114.834096,49.711924,0 -114.826225,49.700182,0 -114.822064,49.696037,0 -114.82044,49.691939,0 -114.816355,49.690369,0 -114.812121,49.687702,0 -114.803514,49.685935,0 -114.795854,49.685196,0 -114.794267,49.684608,0 -114.788442,49.677121,0 -114.780475,49.672001,0 -114.773373,49.66959,0 -114.764507,49.667851,0 -114.760229,49.667665,0 -114.747779,49.664638,0 -114.740852,49.662351,0 -114.738516,49.660654,0 -114.736628,49.657069,0 -114.729286,49.651851,0 -114.727308,49.651075,0 -114.722613,49.649926,0 -114.718727,49.64957,0 -114.705043,49.65091,0 -114.701587,49.650191,0 -114.697142,49.647596,0 -114.696048,49.646238,0 -114.691858,49.632421,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 43. Winter driving conditions between the start of Highway 43 and Alpine Way for 33.7 km (Sparwood to Elkford). Watch for slippery sections. Slushy sections. Last updated Fri Feb 27 at 6:46 AM MST. (DBCRCON-244876)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 43&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 43 and Alpine Way for 33.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Elkford to Sparwood&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T05:46:29-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-244876
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-114.87882,49.733084,0 -114.879429,49.734291,0 -114.882085,49.736421,0 -114.883343,49.745893,0 -114.886199,49.749524,0 -114.887106,49.761594,0 -114.889261,49.766025,0 -114.891023,49.767271,0 -114.89716,49.768733,0 -114.900368,49.770223,0 -114.901215,49.771381,0 -114.901422,49.799763,0 -114.900548,49.803575,0 -114.900557,49.820278,0 -114.901288,49.86306,0 -114.887971,49.889033,0 -114.888531,49.89056,0 -114.895,49.897667,0 -114.906155,49.906243,0 -114.907517,49.908017,0 -114.908336,49.927002,0 -114.909141,49.9293,0 -114.912556,49.934383,0 -114.915287,49.952852,0 -114.913326,49.958105,0 -114.915322,49.961219,0 -114.919269,49.972664,0 -114.921483,49.975733,0 -114.923267,49.980061,0 -114.923503,49.983834,0 -114.922811,49.986695,0 -114.92381,49.989933,0 -114.920738,49.992586,0 -114.918049,49.998658,0 -114.91671,50.021798,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Hemlock Valley Rd. Limited visibility with heavy snowfall between the start of Hemlock Valley Rd and End of Route for 13.8 km (13 km south of Sasquatch Mountain Resort to Sasquatch Mountain Resort). Watch for slippery sections. Compact snow. Last updated Fri Feb 27 at 6:19 AM PST. (DBCRCON-244931)</name>
           <description>
     &lt;![CDATA[
@@ -8451,7 +8398,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.856319-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.375575-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8488,7 +8435,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.870257-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.391525-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8525,7 +8472,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.850972-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.367867-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8562,7 +8509,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.881273-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.402297-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8599,7 +8546,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.820429-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.335757-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8639,7 +8586,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.832846-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.349701-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8676,7 +8623,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.897115-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.413250-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8713,7 +8660,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.906256-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.428984-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8750,7 +8697,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.923241-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.451464-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8787,7 +8734,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.799579-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.310927-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8824,7 +8771,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.810151-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.327438-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8864,7 +8811,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.842337-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.359872-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8883,16 +8830,16 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         
             &lt;h4&gt;Vessel Information&lt;/h4&gt;
-            &lt;b&gt;Name:&lt;/b&gt; M.V. Osprey 2000&lt;br/&gt;
-            &lt;b&gt;Vehicle Capacity:&lt;/b&gt; 70&lt;br/&gt;
-            &lt;b&gt;Passenger Capacity:&lt;/b&gt; 144&lt;br/&gt;
+            &lt;b&gt;Name:&lt;/b&gt; M.V. Balfour&lt;br/&gt;
+            &lt;b&gt;Vehicle Capacity:&lt;/b&gt; 28&lt;br/&gt;
+            &lt;b&gt;Passenger Capacity:&lt;/b&gt; 150&lt;br/&gt;
             &lt;b&gt;Crossing Time:&lt;/b&gt; 35 minutes&lt;br/&gt;
-            &lt;b&gt;Weight Capacity:&lt;/b&gt; 430000 kg&lt;br/&gt;
+            &lt;b&gt;Weight Capacity:&lt;/b&gt; 90000 kg&lt;br/&gt;
             &lt;b&gt;Schedule Type:&lt;/b&gt; Scheduled Sailings Morning to Night&lt;br/&gt;
             
         
         &lt;h4&gt;Schedule Information&lt;/h4&gt;
-        Service hours (M.V. Osprey 2000): The M.V. Osprey runs the regular winter schedule except when it is down for regular maintenance.&amp;nbsp; At that time the M.V. Balfour will service the run with it&amp;rsquo;s reduced capacity of 28 vehicles  From Balfour  6:30 am &amp;ndash; 9:40 pm    From Kootenay Bay  7:10 am &amp;ndash; 10:20 pm   View detailed schedule
+        Additional summer service (M.V. Balfour): The summer schedule is generally in effect from the third week of June until after the Labour Day weekend.  From Balfour  10:40 am &amp;ndash; 5:20 pm    From Kootenay Bay  11:30 am &amp;ndash; 6:10 pm   View detailed schedule
         
         
             &lt;h4&gt;Contact Information&lt;/h4&gt;
@@ -8901,7 +8848,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.934619-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.439537-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8938,7 +8885,7 @@ Right shoulder grading. Last updated Fri Feb 27 at 6:43 AM PST. (DBC-87899)</nam
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T10:00:14.791714-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T11:00:06.292862-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
