@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-02-28 17:35:55 UTC
+        Last updated: 2026-02-28 18:02:26 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (316)</name>
+      <name>🚗 Traffic Events (315)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -3717,6 +3717,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Germansen Landing Road, northbound. Geotechnical investigation between 1.5KM and 2.5KM near Fort St James. Road closed ahead. Detour in effect. Germansen Landing Road is closed at KM 1.7. Detour in Effect using the Takla Road - Teardrop Forest Service Road [FSR]. Next update time Mon Mar 30 at 9:30 AM PST. Last updated Sat Feb 28 at 9:36 AM PST. (DBC-81520)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Germansen Landing Road&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 1.5KM and 2.5KM near Fort St James&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:36:53-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-30T09:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-81520
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-124.170977,54.479559,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 7 (Lougheed Highway), in both directions. Road construction work between 266 St and 272 St for 0.5 km (Maple Ridge). Until Sat Feb 28. From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Single lane alternating traffic. Construction speed zone 50km/hr. No construction activity scheduled for February 14-16. Next update time Sat Feb 28 at 5:00 PM PST. Last updated Mon Feb 2 at 10:34 AM PST. (DBC-84056)</name>
           <description>
     &lt;![CDATA[
@@ -3741,31 +3766,6 @@
             <tessellate>1</tessellate>
             <coordinates>-122.482014,49.172361,0 -122.480744,49.172484,0 -122.48059,49.172501,0 -122.480396,49.172523,0 -122.479562,49.172613,0 -122.478686,49.17274,0 -122.477035,49.172903,0 -122.475687,49.173079,0 -122.475638,49.173085,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Germansen Landing Road, northbound. Geotechnical investigation between 1.5KM and 2.5KM near Fort St James. Road closed ahead. Detour in effect. Germansen Landing Road is closed at KM 1.7. Detour in Effect using the Takla Road - Teardrop Forest Service Road [FSR]. Next update time Sat Feb 28 at 9:30 AM PST. Last updated Fri Jan 30 at 9:46 AM PST. (DBC-81520)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Germansen Landing Road&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 1.5KM and 2.5KM near Fort St James&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-30T09:46:52-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-28T09:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-81520
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-124.170977,54.479559,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 97. Utility work between McLeese Lake and Macalister. Until Sat Mar 7 at 7:00 PM PST. From 6:30 AM to 7:00 PM PST on weekdays. Remediation work, please watch for signage and personnel. Expect minor delays. Last updated Fri Feb 27 at 10:07 AM PST. (DBC-87138)</name>
@@ -7339,32 +7339,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 93, in both directions. Avalanche control work between Simpson River Trail and the end of Highway 93 for 29.2 km (British Columbia and Alberta Border). Until Sat Feb 28 at 11:00 AM MST. Road closed. Next update time Sat Feb 28 at 11:00 AM MST. Last updated Fri Feb 27 at 10:25 AM MST. (DBC-87910)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Simpson River Trail and the end of Highway 93 for 29.2 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Alberta Border&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-28T10:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87910
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-115.996469,51.032744,0 -115.999781,51.034997,0 -116.000069,51.035193,0 -116.004553,51.038242,0 -116.005377,51.038896,0 -116.006039,51.039545,0 -116.007205,51.040575,0 -116.007626,51.040861,0 -116.008888,51.041614,0 -116.009441,51.041943,0 -116.009916,51.042263,0 -116.012018,51.043882,0 -116.013331,51.044865,0 -116.02058,51.050289,0 -116.021011,51.050722,0 -116.02103,51.050749,0 -116.021524,51.051452,0 -116.0217,51.051904,0 -116.022765,51.056472,0 -116.023135,51.058058,0 -116.023474,51.058664,0 -116.0236,51.058889,0 -116.024262,51.059578,0 -116.028151,51.062653,0 -116.032512,51.066102,0 -116.032624,51.06619,0 -116.03896,51.070607,0 -116.039624,51.071069,0 -116.040782,51.071876,0 -116.043972,51.074099,0 -116.044418,51.07441,0 -116.045415,51.075309,0 -116.046297,51.076196,0 -116.047975,51.077882,0 -116.048422,51.078331,0 -116.049469,51.079383,0 -116.049567,51.079462,0 -116.049905,51.079735,0 -116.050473,51.080103,0 -116.050677,51.080209,0 -116.05108,51.080419,0 -116.051831,51.080759,0 -116.053518,51.081521,0 -116.05541,51.082392,0 -116.056158,51.082808,0 -116.056918,51.083369,0 -116.057132,51.083561,0 -116.057874,51.084225,0 -116.058191,51.084508,0 -116.059355,51.085549,0 -116.059998,51.086125,0 -116.06478,51.0904,0 -116.06549,51.091077,0 -116.065724,51.0913,0 -116.067959,51.094154,0 -116.067999,51.094205,0 -116.069926,51.096666,0 -116.070633,51.097354,0 -116.071663,51.09807,0 -116.074053,51.099509,0 -116.074857,51.099994,0 -116.075907,51.100627,0 -116.076075,51.100728,0 -116.077216,51.101415,0 -116.078958,51.102531,0 -116.081501,51.104344,0 -116.082042,51.10473,0 -116.084286,51.106329,0 -116.08495,51.106802,0 -116.087131,51.108356,0 -116.088282,51.109176,0 -116.088363,51.109234,0 -116.091014,51.111123,0 -116.091925,51.111772,0 -116.092614,51.112263,0 -116.093256,51.112789,0 -116.094717,51.113986,0 -116.096373,51.115343,0 -116.096459,51.115413,0 -116.096789,51.115644,0 -116.097038,51.115819,0 -116.097694,51.116152,0 -116.098293,51.116359,0 -116.098359,51.116375,0 -116.099092,51.116561,0 -116.100847,51.11688,0 -116.102023,51.11722,0 -116.102643,51.117482,0 -116.104919,51.11875,0 -116.105465,51.119024,0 -116.108477,51.120106,0 -116.10917,51.12043,0 -116.112468,51.122178,0 -116.113505,51.123031,0 -116.114291,51.123761,0 -116.11475,51.124188,0 -116.115204,51.124491,0 -116.116045,51.124941,0 -116.119035,51.126115,0 -116.119672,51.126417,0 -116.120705,51.127057,0 -116.121507,51.127747,0 -116.122567,51.129083,0 -116.122939,51.129439,0 -116.123365,51.129756,0 -116.123767,51.129976,0 -116.123961,51.130082,0 -116.124706,51.130378,0 -116.131613,51.1328,0 -116.132547,51.133146,0 -116.132577,51.133157,0 -116.133873,51.13376,0 -116.137677,51.135886,0 -116.137792,51.135957,0 -116.137965,51.136064,0 -116.138634,51.136478,0 -116.139167,51.13686,0 -116.139561,51.1372,0 -116.139816,51.137421,0 -116.139885,51.137488,0 -116.143906,51.141401,0 -116.145098,51.142418,0 -116.145801,51.142893,0 -116.149678,51.145227,0 -116.150765,51.145925,0 -116.151226,51.146289,0 -116.151829,51.146972,0 -116.151917,51.147115,0 -116.152091,51.147398,0 -116.154417,51.151799,0 -116.154604,51.152259,0 -116.154705,51.1527,0 -116.154734,51.153151,0 -116.154693,51.153574,0 -116.154201,51.155543,0 -116.153896,51.156757,0 -116.153786,51.157197,0 -116.153441,51.158577,0 -116.152076,51.164028,0 -116.15171,51.165491,0 -116.15152,51.165991,0 -116.151252,51.166455,0 -116.150884,51.166892,0 -116.150459,51.167276,0 -116.14993,51.167651,0 -116.147665,51.168966,0 -116.147289,51.169185,0 -116.144711,51.17071,0 -116.144338,51.17089,0 -116.144245,51.170929,0 -116.142149,51.171799,0 -116.141681,51.172021,0 -116.141011,51.172406,0 -116.140653,51.172681,0 -116.139336,51.173868,0 -116.138462,51.174575,0 -116.137812,51.17498,0 -116.137459,51.175199,0 -116.135702,51.176159,0 -116.134984,51.176617,0 -116.129398,51.18082,0 -116.128809,51.181191,0 -116.127314,51.181989,0 -116.126876,51.182273,0 -116.126463,51.182599,0 -116.125969,51.183082,0 -116.125771,51.183276,0 -116.125698,51.183347,0 -116.125192,51.183841,0 -116.124781,51.184252,0 -116.124081,51.184953,0 -116.123575,51.185308,0 -116.122925,51.185601,0 -116.122526,51.185725,0 -116.122428,51.185755,0 -116.120237,51.186134,0 -116.118767,51.186423,0 -116.117819,51.186684,0 -116.116666,51.18713,0 -116.116003,51.187478,0 -116.114691,51.188247,0 -116.112902,51.189296,0 -116.109958,51.190824,0 -116.109282,51.191174,0 -116.108261,51.19161,0 -116.106152,51.192258,0 -116.105191,51.192674,0 -116.10351,51.193523,0 -116.102247,51.194254,0 -116.101133,51.195091,0 -116.099771,51.196112,0 -116.099409,51.19635,0 -116.098719,51.196804,0 -116.097908,51.197279,0 -116.095907,51.198336,0 -116.094848,51.198987,0 -116.094726,51.199084,0 -116.093586,51.199987,0 -116.093032,51.200426,0 -116.092616,51.200685,0 -116.092358,51.200797,0 -116.092114,51.200903,0 -116.091527,51.201069,0 -116.089826,51.201453,0 -116.089324,51.201566,0 -116.088261,51.201872,0 -116.087759,51.202085,0 -116.084279,51.203886,0 -116.084158,51.203949,0 -116.083441,51.20432,0 -116.081938,51.205098,0 -116.081476,51.205375,0 -116.08097,51.205762,0 -116.080898,51.205828,0 -116.080683,51.206027,0 -116.080282,51.20649,0 -116.07981,51.207132,0 -116.079567,51.207463,0 -116.079242,51.207817,0 -116.078524,51.208411,0 -116.078136,51.208662,0 -116.077596,51.208936,0 -116.076411,51.209428,0 -116.075878,51.20965,0 -116.075722,51.209715,0 -116.075351,51.209869,0 -116.074431,51.210251,0 -116.073778,51.210586,0 -116.073504,51.210727,0 -116.070909,51.212529,0 -116.069445,51.213545,0 -116.068599,51.214132,0 -116.068538,51.214175,0 -116.067331,51.215012,0 -116.066301,51.215887,0 -116.066275,51.215909,0 -116.065528,51.216584,0 -116.062431,51.219381,0 -116.061527,51.220085,0 -116.05629,51.224164,0 -116.055054,51.225061,0 -116.055026,51.225081,0 -116.054528,51.225443,0 -116.053809,51.225916,0 -116.053213,51.226315,0 -116.051917,51.227184,0 -116.051707,51.227335,0 -116.051465,51.227508,0 -116.050903,51.227916,0 -116.050813,51.227979,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 97A, in both directions. Watch for falling rocks between Hutchison Rd and Main St for 16.4 km (Sicamous). Watch for falling ice. Next update time Sun Mar 1 at 12:00 PM PST. Last updated Sat Feb 28 at 6:34 AM PST. (DBC-85945)</name>
           <description>
     &lt;![CDATA[
@@ -7440,6 +7414,32 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           <Point>
             <coordinates>-122.222928,50.789899,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 93, in both directions. Road cleared between Simpson River Trail and the end of Highway 93 for 29.2 km (British Columbia and Alberta Border). Last updated Sat Feb 28 at 10:54 AM MST. (DBC-87910)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Simpson River Trail and the end of Highway 93 for 29.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Alberta Border&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:54:13-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87910
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.996469,51.032744,0 -115.999781,51.034997,0 -116.000069,51.035193,0 -116.004553,51.038242,0 -116.005377,51.038896,0 -116.006039,51.039545,0 -116.007205,51.040575,0 -116.007626,51.040861,0 -116.008888,51.041614,0 -116.009441,51.041943,0 -116.009916,51.042263,0 -116.012018,51.043882,0 -116.013331,51.044865,0 -116.02058,51.050289,0 -116.021011,51.050722,0 -116.02103,51.050749,0 -116.021524,51.051452,0 -116.0217,51.051904,0 -116.022765,51.056472,0 -116.023135,51.058058,0 -116.023474,51.058664,0 -116.0236,51.058889,0 -116.024262,51.059578,0 -116.028151,51.062653,0 -116.032512,51.066102,0 -116.032624,51.06619,0 -116.03896,51.070607,0 -116.039624,51.071069,0 -116.040782,51.071876,0 -116.043972,51.074099,0 -116.044418,51.07441,0 -116.045415,51.075309,0 -116.046297,51.076196,0 -116.047975,51.077882,0 -116.048422,51.078331,0 -116.049469,51.079383,0 -116.049567,51.079462,0 -116.049905,51.079735,0 -116.050473,51.080103,0 -116.050677,51.080209,0 -116.05108,51.080419,0 -116.051831,51.080759,0 -116.053518,51.081521,0 -116.05541,51.082392,0 -116.056158,51.082808,0 -116.056918,51.083369,0 -116.057132,51.083561,0 -116.057874,51.084225,0 -116.058191,51.084508,0 -116.059355,51.085549,0 -116.059998,51.086125,0 -116.06478,51.0904,0 -116.06549,51.091077,0 -116.065724,51.0913,0 -116.067959,51.094154,0 -116.067999,51.094205,0 -116.069926,51.096666,0 -116.070633,51.097354,0 -116.071663,51.09807,0 -116.074053,51.099509,0 -116.074857,51.099994,0 -116.075907,51.100627,0 -116.076075,51.100728,0 -116.077216,51.101415,0 -116.078958,51.102531,0 -116.081501,51.104344,0 -116.082042,51.10473,0 -116.084286,51.106329,0 -116.08495,51.106802,0 -116.087131,51.108356,0 -116.088282,51.109176,0 -116.088363,51.109234,0 -116.091014,51.111123,0 -116.091925,51.111772,0 -116.092614,51.112263,0 -116.093256,51.112789,0 -116.094717,51.113986,0 -116.096373,51.115343,0 -116.096459,51.115413,0 -116.096789,51.115644,0 -116.097038,51.115819,0 -116.097694,51.116152,0 -116.098293,51.116359,0 -116.098359,51.116375,0 -116.099092,51.116561,0 -116.100847,51.11688,0 -116.102023,51.11722,0 -116.102643,51.117482,0 -116.104919,51.11875,0 -116.105465,51.119024,0 -116.108477,51.120106,0 -116.10917,51.12043,0 -116.112468,51.122178,0 -116.113505,51.123031,0 -116.114291,51.123761,0 -116.11475,51.124188,0 -116.115204,51.124491,0 -116.116045,51.124941,0 -116.119035,51.126115,0 -116.119672,51.126417,0 -116.120705,51.127057,0 -116.121507,51.127747,0 -116.122567,51.129083,0 -116.122939,51.129439,0 -116.123365,51.129756,0 -116.123767,51.129976,0 -116.123961,51.130082,0 -116.124706,51.130378,0 -116.131613,51.1328,0 -116.132547,51.133146,0 -116.132577,51.133157,0 -116.133873,51.13376,0 -116.137677,51.135886,0 -116.137792,51.135957,0 -116.137965,51.136064,0 -116.138634,51.136478,0 -116.139167,51.13686,0 -116.139561,51.1372,0 -116.139816,51.137421,0 -116.139885,51.137488,0 -116.143906,51.141401,0 -116.145098,51.142418,0 -116.145801,51.142893,0 -116.149678,51.145227,0 -116.150765,51.145925,0 -116.151226,51.146289,0 -116.151829,51.146972,0 -116.151917,51.147115,0 -116.152091,51.147398,0 -116.154417,51.151799,0 -116.154604,51.152259,0 -116.154705,51.1527,0 -116.154734,51.153151,0 -116.154693,51.153574,0 -116.154201,51.155543,0 -116.153896,51.156757,0 -116.153786,51.157197,0 -116.153441,51.158577,0 -116.152076,51.164028,0 -116.15171,51.165491,0 -116.15152,51.165991,0 -116.151252,51.166455,0 -116.150884,51.166892,0 -116.150459,51.167276,0 -116.14993,51.167651,0 -116.147665,51.168966,0 -116.147289,51.169185,0 -116.144711,51.17071,0 -116.144338,51.17089,0 -116.144245,51.170929,0 -116.142149,51.171799,0 -116.141681,51.172021,0 -116.141011,51.172406,0 -116.140653,51.172681,0 -116.139336,51.173868,0 -116.138462,51.174575,0 -116.137812,51.17498,0 -116.137459,51.175199,0 -116.135702,51.176159,0 -116.134984,51.176617,0 -116.129398,51.18082,0 -116.128809,51.181191,0 -116.127314,51.181989,0 -116.126876,51.182273,0 -116.126463,51.182599,0 -116.125969,51.183082,0 -116.125771,51.183276,0 -116.125698,51.183347,0 -116.125192,51.183841,0 -116.124781,51.184252,0 -116.124081,51.184953,0 -116.123575,51.185308,0 -116.122925,51.185601,0 -116.122526,51.185725,0 -116.122428,51.185755,0 -116.120237,51.186134,0 -116.118767,51.186423,0 -116.117819,51.186684,0 -116.116666,51.18713,0 -116.116003,51.187478,0 -116.114691,51.188247,0 -116.112902,51.189296,0 -116.109958,51.190824,0 -116.109282,51.191174,0 -116.108261,51.19161,0 -116.106152,51.192258,0 -116.105191,51.192674,0 -116.10351,51.193523,0 -116.102247,51.194254,0 -116.101133,51.195091,0 -116.099771,51.196112,0 -116.099409,51.19635,0 -116.098719,51.196804,0 -116.097908,51.197279,0 -116.095907,51.198336,0 -116.094848,51.198987,0 -116.094726,51.199084,0 -116.093586,51.199987,0 -116.093032,51.200426,0 -116.092616,51.200685,0 -116.092358,51.200797,0 -116.092114,51.200903,0 -116.091527,51.201069,0 -116.089826,51.201453,0 -116.089324,51.201566,0 -116.088261,51.201872,0 -116.087759,51.202085,0 -116.084279,51.203886,0 -116.084158,51.203949,0 -116.083441,51.20432,0 -116.081938,51.205098,0 -116.081476,51.205375,0 -116.08097,51.205762,0 -116.080898,51.205828,0 -116.080683,51.206027,0 -116.080282,51.20649,0 -116.07981,51.207132,0 -116.079567,51.207463,0 -116.079242,51.207817,0 -116.078524,51.208411,0 -116.078136,51.208662,0 -116.077596,51.208936,0 -116.076411,51.209428,0 -116.075878,51.20965,0 -116.075722,51.209715,0 -116.075351,51.209869,0 -116.074431,51.210251,0 -116.073778,51.210586,0 -116.073504,51.210727,0 -116.070909,51.212529,0 -116.069445,51.213545,0 -116.068599,51.214132,0 -116.068538,51.214175,0 -116.067331,51.215012,0 -116.066301,51.215887,0 -116.066275,51.215909,0 -116.065528,51.216584,0 -116.062431,51.219381,0 -116.061527,51.220085,0 -116.05629,51.224164,0 -116.055054,51.225061,0 -116.055026,51.225081,0 -116.054528,51.225443,0 -116.053809,51.225916,0 -116.053213,51.226315,0 -116.051917,51.227184,0 -116.051707,51.227335,0 -116.051465,51.227508,0 -116.050903,51.227916,0 -116.050813,51.227979,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Watch for falling rocks between Des Fosses Rd and Bernie Rd for 57.6 km (8 km west of Sicamous to 14 km east of Chase). Last updated Sat Feb 28 at 6:36 AM PST. (DBC-87955)</name>
@@ -7875,32 +7875,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 37. Stalled vehicle between Blue River Bridge and Border Rest Area for 19.8 km (29 to 9 km south of British Columbia and Yukon Border). Single lane alternating traffic. Next update time Sat Feb 28 at 11:00 AM PST. Last updated Fri Feb 27 at 9:50 PM PST. (DBC-87923)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 37N&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Blue River Bridge and Border Rest Area for 19.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 9 to 29 km south of British Columbia and Yukon Border&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T21:50:31-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-28T11:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87923
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-129.143852,59.781409,0 -129.142968,59.781896,0 -129.14206,59.782392,0 -129.141844,59.782556,0 -129.141501,59.782911,0 -129.141261,59.783292,0 -129.141146,59.783703,0 -129.141172,59.784125,0 -129.14136,59.784548,0 -129.141706,59.784946,0 -129.142183,59.785311,0 -129.144745,59.78664,0 -129.145205,59.787021,0 -129.145542,59.787374,0 -129.145907,59.787926,0 -129.146073,59.788459,0 -129.146081,59.788485,0 -129.14608,59.788861,0 -129.145383,59.790765,0 -129.145007,59.791344,0 -129.144428,59.791903,0 -129.142228,59.79343,0 -129.142171,59.793506,0 -129.141025,59.795023,0 -129.137825,59.800017,0 -129.137431,59.800904,0 -129.137434,59.801132,0 -129.137441,59.801584,0 -129.137586,59.802039,0 -129.138423,59.803599,0 -129.1386,59.804276,0 -129.138579,59.804723,0 -129.138438,59.805372,0 -129.138468,59.805813,0 -129.13906,59.807167,0 -129.139589,59.808063,0 -129.139662,59.80829,0 -129.139771,59.809226,0 -129.140346,59.810408,0 -129.14108,59.811529,0 -129.141141,59.811702,0 -129.141234,59.811964,0 -129.141265,59.81263,0 -129.141122,59.813068,0 -129.138086,59.816504,0 -129.135045,59.818601,0 -129.13326,59.819831,0 -129.132274,59.820869,0 -129.131875,59.821592,0 -129.131675,59.82234,0 -129.131878,59.824336,0 -129.131765,59.824918,0 -129.131407,59.825706,0 -129.130752,59.827372,0 -129.130482,59.828052,0 -129.13045,59.828488,0 -129.130438,59.828673,0 -129.130645,59.82921,0 -129.131066,59.82985,0 -129.132757,59.831568,0 -129.132901,59.831788,0 -129.132932,59.831866,0 -129.133077,59.832237,0 -129.133134,59.832696,0 -129.13306,59.833157,0 -129.13285,59.833612,0 -129.132507,59.834059,0 -129.132049,59.834468,0 -129.131765,59.834657,0 -129.129108,59.835964,0 -129.128257,59.836516,0 -129.127576,59.837137,0 -129.127097,59.837814,0 -129.12703,59.838009,0 -129.126857,59.838513,0 -129.126438,59.839731,0 -129.125972,59.840403,0 -129.123933,59.842469,0 -129.123405,59.843356,0 -129.123219,59.844049,0 -129.123289,59.844987,0 -129.123404,59.8453,0 -129.123546,59.845688,0 -129.123992,59.846366,0 -129.124631,59.846997,0 -129.12821,59.849316,0 -129.128745,59.849734,0 -129.129402,59.85042,0 -129.130402,59.851693,0 -129.131458,59.853037,0 -129.134001,59.856745,0 -129.134516,59.857233,0 -129.134644,59.857318,0 -129.134962,59.857529,0 -129.137247,59.858706,0 -129.137874,59.858953,0 -129.14086,59.859676,0 -129.141486,59.8599,0 -129.142038,59.860158,0 -129.143343,59.861055,0 -129.143822,59.861219,0 -129.144383,59.86133,0 -129.148065,59.861756,0 -129.152138,59.862166,0 -129.152728,59.862291,0 -129.153169,59.862443,0 -129.153764,59.862707,0 -129.154012,59.862865,0 -129.154202,59.863038,0 -129.154316,59.863223,0 -129.154353,59.863414,0 -129.154318,59.863604,0 -129.154072,59.863974,0 -129.153227,59.86474,0 -129.152668,59.865246,0 -129.15062,59.866634,0 -129.149758,59.867219,0 -129.149422,59.867557,0 -129.149323,59.867744,0 -129.149233,59.868142,0 -129.149331,59.875253,0 -129.149359,59.877362,0 -129.14937,59.877885,0 -129.149428,59.880914,0 -129.149446,59.881861,0 -129.149481,59.883672,0 -129.149493,59.88431,0 -129.149526,59.886027,0 -129.14941,59.886437,0 -129.149181,59.886767,0 -129.148793,59.887126,0 -129.148551,59.887307,0 -129.147952,59.887592,0 -129.147599,59.8877,0 -129.147231,59.887776,0 -129.146857,59.887814,0 -129.14615,59.887796,0 -129.137607,59.887081,0 -129.136113,59.887026,0 -129.130952,59.887013,0 -129.130717,59.887007,0 -129.129311,59.886971,0 -129.129154,59.886967,0 -129.128321,59.887008,0 -129.127589,59.887098,0 -129.116797,59.888934,0 -129.116115,59.889105,0 -129.11535,59.889433,0 -129.114807,59.889811,0 -129.114466,59.890344,0 -129.113768,59.891748,0 -129.11282,59.894154,0 -129.112592,59.894782,0 -129.109639,59.902892,0 -129.107079,59.909921,0 -129.106678,59.911022,0 -129.106336,59.911385,0 -129.106037,59.911596,0 -129.105897,59.911694,0 -129.102456,59.913583,0 -129.1019,59.913962,0 -129.101507,59.91437,0 -129.101146,59.915042,0 -129.100145,59.919091,0 -129.098904,59.924105,0 -129.098393,59.926172,0 -129.09799,59.927083,0 -129.097813,59.927533,0 -129.097191,59.92942,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 1 (TransCanada Highway). Rest area closed at Redgrave (14 km east of East Boundary of Glacier National Park). Redgrave rest area is permanently closed. New rest area will be built just west of the current location. Stay tuned for more updates as construction progresses. Last updated Sun Nov 30 at 11:48 PM MST. (DBC-73964)</name>
           <description>
     &lt;![CDATA[
@@ -8154,7 +8128,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Vehicle recovery between Shames Mountain Rd and West Amsbury (20 km west of Terrace). Single lane alternating traffic. Next update time Sat Feb 28 at 10:00 AM PST. Last updated Sat Feb 28 at 7:21 AM PST. (DBC-87956)</name>
+          <name>Highway 16 (Yellowhead Highway). Vehicle recovery between Shames Mountain Rd and West Amsbury (20 km west of Terrace). Single lane alternating traffic. Next update time Sat Feb 28 at 12:00 PM PST. Last updated Sat Feb 28 at 9:49 AM PST. (DBC-87956)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -8166,8 +8140,8 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
     &lt;b&gt;Location:&lt;/b&gt; Between Shames Mountain Rd and West Amsbury&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 20 km west of Terrace&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T08:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-28T10:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:49:38-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-02-28T12:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-87956
@@ -8291,7 +8265,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.736885-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.573624-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8328,7 +8302,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.746141-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.583984-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8365,7 +8339,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.725829-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.565682-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8402,7 +8376,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.753736-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.593925-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8439,7 +8413,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.695733-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.535754-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8479,7 +8453,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.701869-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.545755-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8516,7 +8490,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.761989-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.603892-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8553,7 +8527,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.770465-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.613085-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8590,7 +8564,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.788210-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.631967-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8627,7 +8601,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.681456-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.518286-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8664,7 +8638,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.688343-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.523105-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8704,7 +8678,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.715670-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.556802-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8741,7 +8715,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.796350-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.638344-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8778,7 +8752,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T09:00:04.670652-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-28T10:00:11.502670-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
