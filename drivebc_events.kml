@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-02 16:09:54 UTC
+        Last updated: 2026-03-02 16:44:37 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,11 +120,11 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (274)</name>
+      <name>🚗 Traffic Events (278)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Mon Mar 2 at 4:51 AM PST. (DBCRCON-245307)</name>
+          <name>Highway 1 (TransCanada Highway). Watch for slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Mon Mar 2 at 8:27 AM PST. (DBCRCON-245307)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -136,7 +136,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T04:51:21-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:27:36-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -2166,6 +2166,32 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 97 (Cariboo Connector). Shoulder maintenance between Mickey Frontage Rd and Loon Lake Rd for 7.2 km (13 km north of Cache Creek to 17 km south of Clinton). Until Mon Mar 2 at 3:30 PM PST. Single lane alternating traffic. Last updated Mon Mar 2 at 8:28 AM PST. (DBC-88020)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Mickey Frontage Rd and Loon Lake Rd for 7.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 17 km south of Clinton to 13 km north of Cache Creek&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88020
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.408185,50.914212,0 -121.408766,50.915108,0 -121.409073,50.915729,0 -121.409394,50.9167,0 -121.409508,50.917128,0 -121.409524,50.917187,0 -121.409831,50.918035,0 -121.409874,50.918152,0 -121.410054,50.918648,0 -121.410218,50.919267,0 -121.410327,50.919547,0 -121.410353,50.919609,0 -121.410625,50.920075,0 -121.410769,50.920323,0 -121.41124,50.920875,0 -121.414375,50.923554,0 -121.414721,50.923897,0 -121.415297,50.924701,0 -121.415494,50.925052,0 -121.415639,50.925397,0 -121.416225,50.927431,0 -121.41642,50.92811,0 -121.416428,50.928134,0 -121.416713,50.928973,0 -121.416858,50.929292,0 -121.417167,50.929967,0 -121.417698,50.930907,0 -121.418427,50.931993,0 -121.419126,50.933034,0 -121.419976,50.9343,0 -121.421134,50.936024,0 -121.421157,50.936053,0 -121.422316,50.937493,0 -121.422524,50.937751,0 -121.422666,50.937927,0 -121.424022,50.939611,0 -121.424194,50.939846,0 -121.424982,50.940918,0 -121.425495,50.941928,0 -121.42569,50.942313,0 -121.426516,50.94394,0 -121.426572,50.944051,0 -121.426791,50.944481,0 -121.427291,50.945467,0 -121.42752,50.945859,0 -121.428077,50.946614,0 -121.428505,50.947073,0 -121.428662,50.947242,0 -121.429464,50.947914,0 -121.431713,50.94985,0 -121.433579,50.95138,0 -121.433632,50.951417,0 -121.433753,50.951503,0 -121.434759,50.952213,0 -121.435608,50.952754,0 -121.435654,50.95278,0 -121.436592,50.953311,0 -121.441438,50.956055,0 -121.44205,50.956461,0 -121.442763,50.957026,0 -121.443203,50.957426,0 -121.443818,50.95803,0 -121.445838,50.960013,0 -121.446302,50.960423,0 -121.446713,50.960732,0 -121.447368,50.961163,0 -121.44794,50.961484,0 -121.448541,50.961774,0 -121.44935,50.962103,0 -121.450029,50.962328,0 -121.451533,50.962826,0 -121.452039,50.963036,0 -121.452813,50.9634,0 -121.45341,50.963838,0 -121.453874,50.964262,0 -121.454311,50.964778,0 -121.454602,50.9652,0 -121.455211,50.965922,0 -121.455599,50.966276,0 -121.456008,50.96658,0 -121.456452,50.966805,0 -121.456546,50.966854,0 -121.456737,50.966952,0 -121.457003,50.967042,0 -121.457856,50.967334,0 -121.458242,50.96743,0 -121.459129,50.967573,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway), eastbound. Utility work planned between Thompson River Dr and Deadman-Vidette Rd for 1.6 km (27 to 29 km east of Cache Creek). Starting Tue Mar 10 until Fri Apr 10. From 8:00 AM to 4:00 PM PST on weekdays. Lane Closure. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Thu Feb 26 at 2:15 PM PST. (DBC-87862)</name>
           <description>
     &lt;![CDATA[
@@ -2215,6 +2241,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.782042,49.293889,0 -121.783047,49.294605,0 -121.783438,49.294884,0 -121.783769,49.295203,0 -121.783949,49.295545,0 -121.784174,49.296395,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), in both directions. Road maintenance work between Glacier National Park Summit and Beaver Valley Rd for 11.1 km (Rogers Pass Summit). Until Mon Mar 2 at 12:00 PM PST. Expect delays. Expect 20 - minute delays. Next update time Mon Mar 2 at 12:00 PM PST. Last updated Mon Mar 2 at 8:33 AM PST. (DBC-88022)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park Summit and Beaver Valley Rd for 11.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Rogers Pass Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:33:26-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-02T12:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88022
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.519998,51.299827,0 -117.520008,51.299998,0 -117.520093,51.301417,0 -117.520196,51.302919,0 -117.520248,51.303673,0 -117.520251,51.303818,0 -117.520259,51.304221,0 -117.520205,51.304735,0 -117.520194,51.304833,0 -117.520151,51.304983,0 -117.519992,51.305405,0 -117.519849,51.305783,0 -117.519564,51.306268,0 -117.51535,51.31151,0 -117.514427,51.312509,0 -117.514022,51.312834,0 -117.513522,51.313168,0 -117.513305,51.313313,0 -117.513284,51.313324,0 -117.512549,51.313705,0 -117.511559,51.314106,0 -117.510772,51.314349,0 -117.51049,51.314423,0 -117.508569,51.314926,0 -117.504852,51.3159,0 -117.504134,51.316088,0 -117.500213,51.317116,0 -117.499853,51.317208,0 -117.497169,51.3179,0 -117.496913,51.317966,0 -117.494774,51.318517,0 -117.49465,51.318551,0 -117.494516,51.318587,0 -117.491711,51.31934,0 -117.491561,51.31938,0 -117.491433,51.319414,0 -117.490191,51.319711,0 -117.489282,51.319928,0 -117.488549,51.320051,0 -117.486939,51.320227,0 -117.484436,51.320499,0 -117.484015,51.320545,0 -117.483001,51.320722,0 -117.482402,51.320879,0 -117.482209,51.320943,0 -117.479864,51.321717,0 -117.479851,51.321722,0 -117.479609,51.321802,0 -117.475839,51.323114,0 -117.474549,51.323369,0 -117.470768,51.32367,0 -117.470536,51.323688,0 -117.467649,51.324073,0 -117.465954,51.324433,0 -117.464663,51.324945,0 -117.464214,51.325124,0 -117.463103,51.325536,0 -117.459951,51.326369,0 -117.459777,51.326415,0 -117.458007,51.326923,0 -117.455158,51.327744,0 -117.454498,51.327933,0 -117.454481,51.327938,0 -117.454241,51.328008,0 -117.453178,51.328339,0 -117.452914,51.328412,0 -117.452785,51.328448,0 -117.452705,51.328471,0 -117.451808,51.328721,0 -117.451349,51.328812,0 -117.450865,51.328907,0 -117.448594,51.329277,0 -117.447976,51.329377,0 -117.447962,51.32938,0 -117.447512,51.329478,0 -117.446853,51.329622,0 -117.446337,51.329832,0 -117.445879,51.330018,0 -117.44537,51.330351,0 -117.445063,51.330589,0 -117.444192,51.331517,0 -117.440203,51.336157,0 -117.439614,51.33693,0 -117.43893,51.33805,0 -117.438734,51.338421,0 -117.438287,51.339271,0 -117.437684,51.340323,0 -117.435433,51.343413,0 -117.434875,51.344179,0 -117.434662,51.344469,0 -117.434423,51.344881,0 -117.434377,51.345039,0 -117.43428,51.345369,0 -117.434249,51.345827,0 -117.434333,51.346308,0 -117.434543,51.346795,0 -117.435378,51.347861,0 -117.435619,51.348168,0 -117.435887,51.348741,0 -117.436021,51.349376,0 -117.436102,51.350201,0 -117.436213,51.35133,0 -117.436242,51.351545,0 -117.436365,51.352443,0 -117.436664,51.353394,0 -117.436888,51.35384,0 -117.437707,51.355195,0 -117.43792,51.355578,0 -117.437934,51.355619,0 -117.438152,51.356249,0 -117.438156,51.35626,0 -117.438277,51.35697,0 -117.438424,51.359007,0 -117.438666,51.360597,0 -117.439057,51.361595,0 -117.439168,51.361805,0 -117.43932,51.36209,0 -117.439783,51.362817,0 -117.443028,51.367128,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -2368,6 +2420,32 @@
           <Point>
             <coordinates>-122.492757,49.103886,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, southbound. Maintenance planned between Clemina Overhead Bridge and Albreda River South Bridge for 14.1 km (29 km south of Valemount to 42 km north of Blue River). Starting Mon Mar 16 at 8:00 AM PST until Mon Mar 16 at 8:00 PM PST. Lane Closure. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Mon Mar 2 at 8:36 AM PST. (DBC-88023)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Albreda River South Bridge and Clemina Overhead Bridge for 14.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 29 km south of Valemount to 42 km north of Blue River&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:36:31-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88023
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.124886,52.485069,0 -119.124598,52.485321,0 -119.124453,52.485448,0 -119.123582,52.48621,0 -119.121201,52.488293,0 -119.121016,52.488455,0 -119.119349,52.489913,0 -119.11929,52.489965,0 -119.118594,52.490576,0 -119.117508,52.491528,0 -119.116735,52.492279,0 -119.115843,52.493289,0 -119.114913,52.494599,0 -119.114157,52.495822,0 -119.114141,52.495848,0 -119.113568,52.496775,0 -119.113374,52.497088,0 -119.113327,52.497163,0 -119.113248,52.497291,0 -119.111564,52.500013,0 -119.111268,52.500492,0 -119.108144,52.505541,0 -119.107626,52.506465,0 -119.107341,52.507085,0 -119.106969,52.507895,0 -119.106645,52.508817,0 -119.10638,52.509757,0 -119.10617,52.510785,0 -119.106164,52.51084,0 -119.10604,52.51197,0 -119.106034,52.512017,0 -119.106009,52.512986,0 -119.106069,52.514064,0 -119.106171,52.514793,0 -119.106339,52.515555,0 -119.106514,52.51635,0 -119.106952,52.517668,0 -119.107355,52.518608,0 -119.108009,52.519847,0 -119.108582,52.520755,0 -119.109699,52.522254,0 -119.111288,52.523957,0 -119.112233,52.524898,0 -119.113494,52.526154,0 -119.113611,52.52627,0 -119.113839,52.526496,0 -119.114589,52.52727,0 -119.115086,52.527782,0 -119.115434,52.52823,0 -119.116123,52.529326,0 -119.116458,52.530029,0 -119.116709,52.530705,0 -119.11687,52.531409,0 -119.116963,52.532083,0 -119.116938,52.533342,0 -119.116472,52.535365,0 -119.115331,52.539748,0 -119.115278,52.539954,0 -119.115214,52.540199,0 -119.114905,52.541387,0 -119.113908,52.545224,0 -119.112622,52.550168,0 -119.112475,52.550734,0 -119.111792,52.55336,0 -119.111575,52.554193,0 -119.111333,52.555124,0 -119.111164,52.555696,0 -119.110216,52.558915,0 -119.109453,52.561502,0 -119.109232,52.562018,0 -119.108777,52.562796,0 -119.108327,52.563397,0 -119.10745,52.564277,0 -119.106753,52.564826,0 -119.105614,52.565588,0 -119.105479,52.565679,0 -119.105033,52.565979,0 -119.103703,52.566871,0 -119.103067,52.567389,0 -119.102157,52.568219,0 -119.101441,52.569048,0 -119.100689,52.570093,0 -119.100582,52.570327,0 -119.097551,52.577244,0 -119.097285,52.57785,0 -119.096615,52.57924,0 -119.095565,52.581762,0 -119.095366,52.582623,0 -119.095317,52.583721,0 -119.095505,52.58525,0 -119.095774,52.586028,0 -119.096366,52.587199,0 -119.096557,52.587576,0 -119.098083,52.589707,0 -119.098432,52.59016,0 -119.098584,52.590373,0 -119.100762,52.593427,0 -119.101347,52.594165,0 -119.10221,52.595129,0 -119.10295,52.595841,0 -119.107631,52.600063,0 -119.108884,52.601194,0 -119.110463,52.60247,0 -119.110969,52.602815,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Pavilion-Clinton Road. Utility work between Jesmond Road and Elliot Park Way. Until Fri Mar 13. From 8:00 AM to 4:00 PM PST on weekdays. Please watch for signage and personnel. Expect minor delays of up to five minutes. Last updated Thu Jan 29 at 3:54 PM PST. (DBC-86680)</name>
@@ -5931,6 +6009,32 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           <Point>
             <coordinates>-122.373433,52.214655,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, southbound. Vehicle recovery planned between Six Mile/HWY 5 Bridge and Finn Creek Rec Site; Messiter NB Chainup for 13.2 km (10 km south of Blue River to 1 km south of Messiter Summit). Starting Fri Mar 6 at 6:00 AM PST until Fri Mar 6 at 6:00 PM PST. Lane Closure. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Mon Mar 2 at 8:32 AM PST. (DBC-88021)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Finn Creek Rec Site; Messiter NB Chainup and Six Mile/HWY 5 Bridge for 13.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 10 km south of Blue River to 1 km south of Messiter Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:32:20-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88021
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-119.321143,51.911584,0 -119.321766,51.912563,0 -119.32238,51.913287,0 -119.323112,51.913971,0 -119.323892,51.914557,0 -119.324902,51.915171,0 -119.324931,51.915189,0 -119.32509,51.915265,0 -119.326067,51.915733,0 -119.326726,51.916048,0 -119.327914,51.916617,0 -119.328459,51.916877,0 -119.329665,51.917455,0 -119.330299,51.917831,0 -119.330356,51.917865,0 -119.330932,51.918333,0 -119.331408,51.918856,0 -119.33174,51.919432,0 -119.331928,51.920013,0 -119.331958,51.920591,0 -119.331882,51.921125,0 -119.331678,51.921642,0 -119.33072,51.923101,0 -119.330486,51.923413,0 -119.329969,51.924103,0 -119.329193,51.925138,0 -119.328861,51.925854,0 -119.328766,51.926463,0 -119.328818,51.927158,0 -119.329043,51.927814,0 -119.329483,51.928467,0 -119.329772,51.928767,0 -119.330446,51.92947,0 -119.331064,51.930113,0 -119.332609,51.931722,0 -119.332734,51.93182,0 -119.333164,51.932158,0 -119.333647,51.932438,0 -119.333882,51.932574,0 -119.334081,51.93266,0 -119.334781,51.932961,0 -119.336042,51.933372,0 -119.33788,51.933971,0 -119.338077,51.934036,0 -119.338702,51.934279,0 -119.33918,51.934541,0 -119.339554,51.9348,0 -119.339964,51.935153,0 -119.340322,51.93559,0 -119.343648,51.940915,0 -119.344187,51.941595,0 -119.344632,51.942031,0 -119.34532,51.942706,0 -119.345718,51.943184,0 -119.346012,51.943719,0 -119.346144,51.944128,0 -119.346191,51.944562,0 -119.346013,51.946488,0 -119.346052,51.947028,0 -119.346246,51.94767,0 -119.3465,51.948212,0 -119.346779,51.948687,0 -119.347135,51.94929,0 -119.347331,51.949878,0 -119.34735,51.9504,0 -119.347143,51.951115,0 -119.346551,51.952091,0 -119.345979,51.953034,0 -119.345814,51.953525,0 -119.345753,51.954026,0 -119.345783,51.954288,0 -119.345906,51.955359,0 -119.345884,51.955929,0 -119.345026,51.959487,0 -119.345025,51.959508,0 -119.345003,51.960155,0 -119.345066,51.960555,0 -119.345156,51.960848,0 -119.345219,51.961053,0 -119.345227,51.96108,0 -119.345583,51.961835,0 -119.346201,51.963143,0 -119.346284,51.96332,0 -119.346678,51.963892,0 -119.347947,51.965286,0 -119.348261,51.965772,0 -119.348485,51.966295,0 -119.349033,51.968664,0 -119.349034,51.969665,0 -119.348925,51.970089,0 -119.348643,51.970798,0 -119.348611,51.970878,0 -119.348234,51.971826,0 -119.347811,51.972743,0 -119.347503,51.973225,0 -119.347088,51.973736,0 -119.346709,51.974106,0 -119.345276,51.975243,0 -119.342216,51.977555,0 -119.341711,51.978003,0 -119.341309,51.978475,0 -119.340902,51.97906,0 -119.34084,51.979218,0 -119.340506,51.980067,0 -119.340138,51.981686,0 -119.340082,51.98193,0 -119.339569,51.984187,0 -119.339133,51.986102,0 -119.338953,51.986894,0 -119.338759,51.987399,0 -119.338675,51.987845,0 -119.338462,51.988395,0 -119.338114,51.989071,0 -119.33753,51.989933,0 -119.336365,51.991275,0 -119.335792,51.991935,0 -119.335495,51.992388,0 -119.335306,51.992859,0 -119.335296,51.992911,0 -119.335201,51.993415,0 -119.334599,51.998489,0 -119.334469,51.999997,0 -119.334463,52.000061,0 -119.334499,52.001088,0 -119.334641,52.002131,0 -119.335324,52.004879,0 -119.336448,52.009395,0 -119.336549,52.009802,0 -119.337716,52.014499,0 -119.338294,52.016824,0 -119.338482,52.017272,0 -119.33876,52.017795,0 -119.339212,52.018308,0 -119.339612,52.018659,0 -119.339828,52.018848,0 -119.340066,52.019056,0 -119.340889,52.019778,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)</name>
