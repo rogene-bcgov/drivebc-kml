@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-02 15:44:14 UTC
+        Last updated: 2026-03-02 16:09:54 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (273)</name>
+      <name>🚗 Traffic Events (274)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -2089,7 +2089,58 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 99, northbound. Pothole repair between Exit 20 and 72 St for 1.2 km (Delta). Watch for traffic control. Bus lane blocked. Next update time Mon Mar 2 at 8:00 AM PST. Last updated Mon Mar 2 at 6:14 AM PST. (DBC-87985)</name>
+          <name>Soda Creek Townsite Rd. Mowing between Soda Creek Townsite Rd and Soda Creek Townsite Rd 1 km north of Williams Lake. From 7:00 AM to 4:00 PM PST on Monday and Tuesday. Watch for slow moving vehicles and traffic control. Last updated Mon Mar 2 at 7:52 AM PST. (DBC-88019)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Soda Creek Townsite Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Soda Creek Townsite Rd and Soda Creek Townsite Rd 1 km north of Williams Lake&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:52:12-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88019
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-122.280594,52.35006,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Road sweeping between Annis Rd and Exit 109: Yale Rd for 19.0 km (Chilliwack). Until Thu Mar 26. Watch for traffic control. We will be shoulder sweeping for the next few weeks. Open shoulders and no-post runs using 2 sweepers and 2 shadow units. Last updated Wed Feb 25 at 2:53 PM PST. (DBC-87818)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 109: Yale Rd and Annis Rd for 19.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87818
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.081623,49.129756,0 -122.078795,49.131829,0 -122.077931,49.13242,0 -122.073929,49.135434,0 -122.073422,49.135758,0 -122.072647,49.136135,0 -122.071772,49.136464,0 -122.070959,49.136672,0 -122.069934,49.136878,0 -122.060004,49.138325,0 -122.05868,49.138518,0 -122.039974,49.140932,0 -122.02876,49.142377,0 -122.027027,49.142632,0 -122.025373,49.142998,0 -122.022035,49.143963,0 -122.020949,49.144189,0 -122.020039,49.144322,0 -122.0189,49.144415,0 -122.01753,49.144438,0 -122.0117,49.144303,0 -122.006977,49.144219,0 -122.006907,49.144219,0 -122.003081,49.144157,0 -121.999997,49.144107,0 -121.999873,49.144105,0 -121.99975,49.144103,0 -121.999572,49.1441,0 -121.999088,49.144092,0 -121.983239,49.143787,0 -121.977708,49.143681,0 -121.977602,49.14368,0 -121.969274,49.14352,0 -121.967859,49.143585,0 -121.967236,49.143653,0 -121.965676,49.143902,0 -121.964755,49.144076,0 -121.964486,49.144142,0 -121.962445,49.144643,0 -121.962149,49.144716,0 -121.961942,49.144767,0 -121.961366,49.144906,0 -121.958914,49.145497,0 -121.956486,49.146082,0 -121.954925,49.146458,0 -121.953519,49.146817,0 -121.94815,49.148192,0 -121.947732,49.148298,0 -121.947335,49.1484,0 -121.946974,49.148488,0 -121.945427,49.148866,0 -121.939971,49.150199,0 -121.933773,49.151746,0 -121.923113,49.154406,0 -121.921832,49.154736,0 -121.921628,49.154789,0 -121.920331,49.155035,0 -121.919293,49.155154,0 -121.918275,49.155175,0 -121.918206,49.155177,0 -121.917088,49.155194,0 -121.91326,49.155171,0 -121.909931,49.155151,0 -121.896475,49.15508,0 -121.874467,49.154959,0 -121.874419,49.154959,0 -121.874352,49.154958,0 -121.852223,49.154824,0 -121.841006,49.154755,0 -121.834565,49.154714,0 -121.834539,49.154714,0 -121.833203,49.154709,0 -121.832243,49.154705,0 -121.83014,49.154696,0 -121.830126,49.154696,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, northbound. Pothole repair between Exit 20 and 72 St for 1.2 km (Delta). Watch for traffic control. Bus lane blocked. Next update time Mon Mar 2 at 10:00 AM PST. Last updated Mon Mar 2 at 8:07 AM PST. (DBC-87985)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2101,8 +2152,8 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Exit 20 and 72 St for 1.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T06:14:20-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-02T08:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:07:22-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-02T10:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-87985
@@ -3137,32 +3188,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road sweeping planned between Annis Rd and Exit 109: Yale Rd for 19.0 km (Chilliwack). Starting Mon Mar 2 at 8:00 AM PST until Thu Mar 26. Watch for traffic control personnel. We will be shoulder sweeping for the next few weeks. Open shoulders and no-post runs using 2 sweepers and 2 shadow units. Last updated Wed Feb 25 at 2:53 PM PST. (DBC-87818)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 109: Yale Rd and Annis Rd for 19.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-25T14:53:21-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87818
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.081623,49.129756,0 -122.078795,49.131829,0 -122.077931,49.13242,0 -122.073929,49.135434,0 -122.073422,49.135758,0 -122.072647,49.136135,0 -122.071772,49.136464,0 -122.070959,49.136672,0 -122.069934,49.136878,0 -122.060004,49.138325,0 -122.05868,49.138518,0 -122.039974,49.140932,0 -122.02876,49.142377,0 -122.027027,49.142632,0 -122.025373,49.142998,0 -122.022035,49.143963,0 -122.020949,49.144189,0 -122.020039,49.144322,0 -122.0189,49.144415,0 -122.01753,49.144438,0 -122.0117,49.144303,0 -122.006977,49.144219,0 -122.006907,49.144219,0 -122.003081,49.144157,0 -121.999997,49.144107,0 -121.999873,49.144105,0 -121.99975,49.144103,0 -121.999572,49.1441,0 -121.999088,49.144092,0 -121.983239,49.143787,0 -121.977708,49.143681,0 -121.977602,49.14368,0 -121.969274,49.14352,0 -121.967859,49.143585,0 -121.967236,49.143653,0 -121.965676,49.143902,0 -121.964755,49.144076,0 -121.964486,49.144142,0 -121.962445,49.144643,0 -121.962149,49.144716,0 -121.961942,49.144767,0 -121.961366,49.144906,0 -121.958914,49.145497,0 -121.956486,49.146082,0 -121.954925,49.146458,0 -121.953519,49.146817,0 -121.94815,49.148192,0 -121.947732,49.148298,0 -121.947335,49.1484,0 -121.946974,49.148488,0 -121.945427,49.148866,0 -121.939971,49.150199,0 -121.933773,49.151746,0 -121.923113,49.154406,0 -121.921832,49.154736,0 -121.921628,49.154789,0 -121.920331,49.155035,0 -121.919293,49.155154,0 -121.918275,49.155175,0 -121.918206,49.155177,0 -121.917088,49.155194,0 -121.91326,49.155171,0 -121.909931,49.155151,0 -121.896475,49.15508,0 -121.874467,49.154959,0 -121.874419,49.154959,0 -121.874352,49.154958,0 -121.852223,49.154824,0 -121.841006,49.154755,0 -121.834565,49.154714,0 -121.834539,49.154714,0 -121.833203,49.154709,0 -121.832243,49.154705,0 -121.83014,49.154696,0 -121.830126,49.154696,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Island Highway). Utility work planned between Lakeview Rd and Browns Bay Rd for 11.8 km (6 to 18 km north of Campbell River). Starting Mon Mar 23 at 8:00 AM PST until Fri Apr 3 at 8:00 PM PST. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Wed Feb 25 at 2:52 PM PST. (DBC-87817)</name>
           <description>
     &lt;![CDATA[
@@ -3318,7 +3343,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Cariboo Connector). Utility work planned between North Star Rd and McLean St for 2.2 km (Quesnel). Starting Mon Mar 2 at 8:00 AM PST until Tue Mar 31 at 4:00 PM PST. Obey signage and traffic personnel. Possible delays. Last updated Fri Feb 27 at 9:55 AM PST. (DBC-87916)</name>
+          <name>Highway 97 (Cariboo Connector). Utility work between North Star Rd and McLean St for 2.2 km (Quesnel). Until Tue Mar 31 at 4:00 PM PST. Obey signage and traffic personnel. Possible delays. Last updated Fri Feb 27 at 9:55 AM PST. (DBC-87916)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3330,7 +3355,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
     &lt;b&gt;Location:&lt;/b&gt; Between North Star Rd and McLean St for 2.2 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Quesnel&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T09:55:29-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3959,7 +3984,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97, northbound. Utility work planned between Summit Lake Rd and Crystal Lake Rd for 7.1 km (41 to 34 km north of Prince George). Starting Mon Mar 2 at 8:00 AM PST until Tue Mar 31 at 5:00 PM PST. Lane Closure. Single lane alternating traffic will be in effect. Last updated Fri Feb 20 at 2:42 PM PST. (DBC-87619)</name>
+          <name>Highway 97, northbound. Utility work between Summit Lake Rd and Crystal Lake Rd for 7.1 km (41 to 34 km north of Prince George). Until Tue Mar 31 at 5:00 PM PST. Lane Closure. Single lane alternating traffic. Last updated Fri Feb 20 at 2:42 PM PST. (DBC-87619)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3971,7 +3996,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
     &lt;b&gt;Location:&lt;/b&gt; Between Summit Lake Rd and Crystal Lake Rd for 7.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 34 to 41 km north of Prince George&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-20T14:42:41-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -4036,32 +4061,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 97, southbound. Utility work planned between McLeod Rd and Sponaugle Rd for 2.4 km (12 to 10 km north of Prince George). Starting Mon Mar 2 at 8:00 AM PST until Tue Mar 31 at 5:00 PM PST. Lane Closure. Single lane alternating traffic will be in effect. Last updated Fri Feb 20 at 2:47 PM PST. (DBC-87620)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Sponaugle Rd and McLeod Rd for 2.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 12 to 10 km north of Prince George&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-20T14:47:29-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87620
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.658535,54.099945,0 -122.654155,54.101257,0 -122.653266,54.10159,0 -122.652531,54.101982,0 -122.651805,54.102524,0 -122.651234,54.103221,0 -122.65097,54.103787,0 -122.650953,54.103927,0 -122.65093,54.104117,0 -122.650926,54.104152,0 -122.65091,54.104286,0 -122.651141,54.105788,0 -122.651144,54.106167,0 -122.651076,54.106691,0 -122.650911,54.107208,0 -122.65065,54.107721,0 -122.650223,54.108311,0 -122.649871,54.108716,0 -122.649678,54.108917,0 -122.649156,54.109458,0 -122.64832,54.110303,0 -122.647441,54.111348,0 -122.647183,54.11207,0 -122.647094,54.112636,0 -122.647082,54.113757,0 -122.647075,54.114378,0 -122.647067,54.115193,0 -122.646936,54.115951,0 -122.646761,54.116368,0 -122.64658,54.116795,0 -122.645654,54.118069,0 -122.645236,54.118645,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 97, southbound. Utility work planned between Telford Rd and Monterey Rd for 0.3 km (Prince George). Starting Mon Mar 2 at 9:00 AM PST until Fri Mar 13 at 4:00 PM PST. Lane Closure. Last updated Thu Feb 19 at 3:32 PM PST. (DBC-87593)</name>
           <description>
     &lt;![CDATA[
@@ -4085,6 +4084,32 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.772293,53.978829,0 -122.772349,53.978864,0 -122.772814,53.979148,0 -122.775461,53.98078,0 -122.77568,53.980955,0 -122.775713,53.980981,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 97, southbound. Utility work between McLeod Rd and Sponaugle Rd for 2.4 km (12 to 10 km north of Prince George). Until Tue Mar 31 at 5:00 PM PST. Lane Closure. Single lane alternating traffic. Last updated Fri Feb 20 at 2:47 PM PST. (DBC-87620)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Sponaugle Rd and McLeod Rd for 2.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 12 to 10 km north of Prince George&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87620
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.658535,54.099945,0 -122.654155,54.101257,0 -122.653266,54.10159,0 -122.652531,54.101982,0 -122.651805,54.102524,0 -122.651234,54.103221,0 -122.65097,54.103787,0 -122.650953,54.103927,0 -122.65093,54.104117,0 -122.650926,54.104152,0 -122.65091,54.104286,0 -122.651141,54.105788,0 -122.651144,54.106167,0 -122.651076,54.106691,0 -122.650911,54.107208,0 -122.65065,54.107721,0 -122.650223,54.108311,0 -122.649871,54.108716,0 -122.649678,54.108917,0 -122.649156,54.109458,0 -122.64832,54.110303,0 -122.647441,54.111348,0 -122.647183,54.11207,0 -122.647094,54.112636,0 -122.647082,54.113757,0 -122.647075,54.114378,0 -122.647067,54.115193,0 -122.646936,54.115951,0 -122.646761,54.116368,0 -122.64658,54.116795,0 -122.645654,54.118069,0 -122.645236,54.118645,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -7180,7 +7205,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.750535-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.809462-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7217,7 +7242,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.759706-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.821298-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7254,7 +7279,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.743437-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.789830-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7291,7 +7316,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.768125-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.832549-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7328,7 +7353,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.709794-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.742273-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7368,7 +7393,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.722327-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.757994-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7405,7 +7430,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.780308-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.842579-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7442,7 +7467,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.791414-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.853389-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7479,7 +7504,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.816614-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.874683-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7516,7 +7541,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.676018-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.714411-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7553,7 +7578,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.695824-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.728338-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7593,7 +7618,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.731932-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.769840-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7630,7 +7655,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.799213-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.864445-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -7667,7 +7692,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T07:00:04.663392-08:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:04.701489-08:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
