@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-03 15:14:38 UTC
+        Last updated: 2026-03-03 15:44:46 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,9 +120,35 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (276)</name>
+      <name>🚗 Traffic Events (278)</name>
       <Folder>
         <name>Construction Events</name>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Pothole repair between Skeena Crossing Rd and Suskwa Forest Service Rd for 36.6 km (Gitsegukla to 10 km east of New Hazelton). Until Tue Mar 3 at 4:30 PM PST. Expect delays. Pot hole repair. Single alternating traffic. Expect minor delays. Crew and equipment working. Last updated Tue Mar 3 at 7:13 AM PST. (DBC-88065)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Skeena Crossing Rd and Suskwa Forest Service Rd for 36.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 10 km east of New Hazelton to Gitsegukla&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T07:13:03-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88065
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-127.818448,55.092813,0 -127.813275,55.094124,0 -127.812752,55.094257,0 -127.81136,55.094611,0 -127.809691,55.095097,0 -127.808623,55.095471,0 -127.8068,55.096169,0 -127.805699,55.096662,0 -127.804602,55.097209,0 -127.803396,55.097868,0 -127.793035,55.103897,0 -127.786265,55.10783,0 -127.784564,55.108818,0 -127.781321,55.110719,0 -127.779453,55.111815,0 -127.778641,55.11229,0 -127.777483,55.113072,0 -127.776534,55.113871,0 -127.775523,55.114936,0 -127.774924,55.115791,0 -127.774423,55.116684,0 -127.774102,55.117504,0 -127.773896,55.118371,0 -127.773818,55.119208,0 -127.773819,55.119916,0 -127.773822,55.123181,0 -127.773822,55.123512,0 -127.773666,55.124322,0 -127.773418,55.125016,0 -127.773061,55.1257,0 -127.772543,55.126417,0 -127.770565,55.128777,0 -127.76966,55.130244,0 -127.76959,55.130356,0 -127.769484,55.130528,0 -127.769458,55.130601,0 -127.768893,55.132162,0 -127.768092,55.13438,0 -127.767387,55.135849,0 -127.767132,55.137138,0 -127.766977,55.137916,0 -127.767076,55.141577,0 -127.7672,55.143102,0 -127.767351,55.147345,0 -127.766794,55.153222,0 -127.766748,55.153407,0 -127.766658,55.15377,0 -127.766457,55.154578,0 -127.765957,55.155837,0 -127.765279,55.157014,0 -127.765092,55.157337,0 -127.763336,55.159813,0 -127.763095,55.160153,0 -127.761992,55.161786,0 -127.761934,55.161872,0 -127.76149,55.16253,0 -127.761142,55.162921,0 -127.760539,55.163359,0 -127.756998,55.165349,0 -127.751655,55.168245,0 -127.74754,55.170475,0 -127.742044,55.173452,0 -127.73813,55.175017,0 -127.735233,55.176176,0 -127.734137,55.176614,0 -127.726766,55.179561,0 -127.723649,55.180807,0 -127.723488,55.180871,0 -127.720816,55.181937,0 -127.720484,55.182069,0 -127.71598,55.183866,0 -127.714831,55.184324,0 -127.714446,55.184525,0 -127.714013,55.184847,0 -127.713919,55.184918,0 -127.713548,55.185368,0 -127.713534,55.185388,0 -127.713469,55.185482,0 -127.712495,55.186895,0 -127.712199,55.187168,0 -127.711975,55.187375,0 -127.711723,55.187569,0 -127.71153,55.187719,0 -127.709838,55.188617,0 -127.709162,55.188977,0 -127.708446,55.189357,0 -127.707934,55.189628,0 -127.707036,55.190277,0 -127.705468,55.19171,0 -127.705231,55.191926,0 -127.704732,55.192382,0 -127.703903,55.19314,0 -127.703253,55.193734,0 -127.703058,55.193849,0 -127.702797,55.194004,0 -127.702119,55.194336,0 -127.701741,55.194477,0 -127.701235,55.194667,0 -127.70033,55.195006,0 -127.698661,55.195632,0 -127.695676,55.19675,0 -127.694897,55.196955,0 -127.694619,55.196995,0 -127.694224,55.197051,0 -127.693611,55.197101,0 -127.692074,55.197071,0 -127.690074,55.197032,0 -127.689272,55.197087,0 -127.688573,55.197202,0 -127.688099,55.1973,0 -127.687365,55.19754,0 -127.686824,55.197755,0 -127.686143,55.198103,0 -127.68463,55.198876,0 -127.684127,55.199091,0 -127.68026,55.200196,0 -127.679384,55.200365,0 -127.677693,55.20058,0 -127.676724,55.200806,0 -127.675851,55.201087,0 -127.674983,55.201547,0 -127.674436,55.201982,0 -127.674035,55.202392,0 -127.673746,55.202865,0 -127.672826,55.205348,0 -127.672403,55.20588,0 -127.672005,55.20626,0 -127.671504,55.206605,0 -127.67026,55.207292,0 -127.666325,55.209468,0 -127.666083,55.209576,0 -127.664411,55.210319,0 -127.664176,55.210423,0 -127.662249,55.211136,0 -127.661246,55.211506,0 -127.660771,55.211681,0 -127.655686,55.213539,0 -127.654763,55.214036,0 -127.65415,55.214461,0 -127.653764,55.214817,0 -127.653362,55.215304,0 -127.653052,55.215882,0 -127.652913,55.216417,0 -127.652934,55.21712,0 -127.653057,55.217558,0 -127.653732,55.219215,0 -127.653925,55.219924,0 -127.653931,55.219947,0 -127.653988,55.222293,0 -127.654058,55.225144,0 -127.654155,55.229141,0 -127.654219,55.231748,0 -127.65427,55.233831,0 -127.654311,55.235523,0 -127.654149,55.235999,0 -127.653907,55.236535,0 -127.653582,55.23696,0 -127.653082,55.237451,0 -127.652517,55.237857,0 -127.651852,55.23822,0 -127.651108,55.238526,0 -127.650287,55.238771,0 -127.648661,55.239141,0 -127.647782,55.239311,0 -127.64575,55.239695,0 -127.643879,55.24005,0 -127.642932,55.240162,0 -127.638885,55.24046,0 -127.63782,55.240538,0 -127.634898,55.240755,0 -127.6335,55.240924,0 -127.629643,55.241493,0 -127.628062,55.241727,0 -127.622988,55.242472,0 -127.621993,55.242537,0 -127.620975,55.242527,0 -127.619281,55.242399,0 -127.618891,55.242369,0 -127.61806,55.242371,0 -127.617344,55.242416,0 -127.61649,55.242536,0 -127.616241,55.242587,0 -127.615752,55.242688,0 -127.608247,55.244674,0 -127.607324,55.244868,0 -127.605997,55.245102,0 -127.605863,55.245117,0 -127.603174,55.245425,0 -127.602952,55.245447,0 -127.601503,55.245594,0 -127.599988,55.245745,0 -127.599407,55.245803,0 -127.598985,55.245845,0 -127.598825,55.245861,0 -127.597728,55.24605,0 -127.596176,55.246434,0 -127.595252,55.246662,0 -127.594917,55.246745,0 -127.594171,55.246825,0 -127.593554,55.246856,0 -127.592831,55.246839,0 -127.590459,55.246748,0 -127.590119,55.246735,0 -127.589616,55.246716,0 -127.588498,55.246675,0 -127.586446,55.246673,0 -127.584409,55.246686,0 -127.582383,55.2467,0 -127.580333,55.246695,0 -127.578005,55.246723,0 -127.574116,55.246736,0 -127.566149,55.246756,0 -127.564354,55.24672,0 -127.563323,55.246599,0 -127.559955,55.245901,0 -127.559866,55.245882,0 -127.558456,55.245712,0 -127.557711,55.24569,0 -127.557354,55.245679,0 -127.556024,55.245738,0 -127.554665,55.245914,0 -127.552012,55.24644,0 -127.550833,55.246553,0 -127.549812,55.246548,0 -127.548752,55.246453,0 -127.547826,55.24629,0 -127.544748,55.245536,0 -127.542874,55.24502,0 -127.541996,55.244747,0 -127.53997,55.243986,0 -127.538364,55.243378,0 -127.518929,55.236019,0 -127.518642,55.23591,0 -127.50099,55.229216,0 -127.492156,55.22587,0 -127.479737,55.221164,0 -127.47784,55.220348,0 -127.476017,55.219316,0 -127.475488,55.21891,0 -127.474703,55.218307,0 -127.47395,55.217623,0 -127.472968,55.216492,0 -127.472485,55.215788,0 -127.471297,55.213301,0 -127.470532,55.211698,0 -127.47006,55.211164,0 -127.469492,55.210734,0 -127.468818,55.210403,0 -127.467925,55.210118,0 -127.467017,55.209963,0 -127.466147,55.209918,0 -127.443518,55.210689,0 -127.441741,55.210749,0 -127.441579,55.210755,0 -127.44086,55.210779,0 -127.439984,55.21081,0 -127.438887,55.210755,0 -127.438168,55.210618,0 -127.437855,55.210526,0 -127.437414,55.210396,0 -127.436833,55.210157,0 -127.436256,55.209793,0</coordinates>
+          </LineString>
+        </Placemark>
         <Placemark>
           <name>Highway 14, in both directions. Utility work between Awsworth Rd and Loledo Pl for 1.7 km (Langford). Until Fri Mar 6. From 7:00 PM to 5:00 AM PST on weekdays. Single lane alternating traffic. Telus utility work. Pole access for aerial placing and splicing. Speed reduction to 60 km/hr. Last updated Wed Feb 18 at 1:37 PM PST. (DBC-87556)</name>
           <description>
@@ -2917,7 +2943,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Pothole repair planned between Augier Rd and Priestly Station Rd for 8.3 km (10 to 2 km west of Priestly Hill). Starting Tue Mar 3 at 7:30 AM PST until Tue Mar 3 at 12:30 PM PST. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Tue Mar 3 at 6:57 AM PST. (DBC-88064)</name>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Pothole repair between Augier Rd and Priestly Station Rd for 8.3 km (10 to 2 km west of Priestly Hill). Until Tue Mar 3 at 12:30 PM PST. Single lane alternating traffic. Watch for traffic control. Last updated Tue Mar 3 at 6:57 AM PST. (DBC-88064)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -2929,7 +2955,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
     &lt;b&gt;Location:&lt;/b&gt; Between Augier Rd and Priestly Station Rd for 8.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 to 10 km west of Priestly Hill&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T06:57:39-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T07:30:00-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3430,32 +3456,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 101, in both directions. Utility work planned between Silverstone Lane and Shorncliffe Ave for 0.9 km (Sechelt). Starting Tue Mar 3 at 7:30 AM PST until Tue Mar 3 at 6:00 PM PST. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Tue Feb 17 at 1:22 PM PST. (DBC-87483)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Silverstone Lane and Shorncliffe Ave for 0.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sechelt&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-17T13:22:18-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87483
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.777155,49.470029,0 -123.775284,49.470653,0 -123.774889,49.470744,0 -123.774147,49.470827,0 -123.773762,49.470805,0 -123.773422,49.470785,0 -123.772083,49.47052,0 -123.771564,49.470476,0 -123.770898,49.4705,0 -123.769827,49.470671,0 -123.769156,49.470716,0 -123.767663,49.470572,0 -123.766548,49.470557,0 -123.765177,49.470686,0 -123.764856,49.470709,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Renfrew Rd. Utility work at Shawnigan Lake Rd near Mill Bay. Until Thu Mar 26 at 4:00 PM PST. From 8:00 AM to 4:00 PM PST daily. Tree pruning. Single lane alternating traffic. Last updated Tue Feb 17 at 1:45 PM PST. (DBC-87485)</name>
           <description>
     &lt;![CDATA[
@@ -3479,6 +3479,32 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           <Point>
             <coordinates>-123.626977,48.657246,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 101, in both directions. Utility work between Silverstone Lane and Shorncliffe Ave for 0.9 km (Sechelt). Until Tue Mar 3 at 6:00 PM PST. Single lane alternating traffic. Watch for traffic control. Last updated Tue Feb 17 at 1:22 PM PST. (DBC-87483)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 101&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Silverstone Lane and Shorncliffe Ave for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Sechelt&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T07:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87483
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.777155,49.470029,0 -123.775284,49.470653,0 -123.774889,49.470744,0 -123.774147,49.470827,0 -123.773762,49.470805,0 -123.773422,49.470785,0 -123.772083,49.47052,0 -123.771564,49.470476,0 -123.770898,49.4705,0 -123.769827,49.470671,0 -123.769156,49.470716,0 -123.767663,49.470572,0 -123.766548,49.470557,0 -123.765177,49.470686,0 -123.764856,49.470709,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 1 (TransCanada Highway), in both directions. Maintenance planned between Perry River Bridge and Highway 23 South for 40.6 km (26 km east of Sicamous to Revelstoke). Starting Wed Apr 1 until Sun Jun 14. From 5:00 AM to 6:00 PM PST daily. Watch for traffic control personnel. Weed control works. Watch for slow moving vehicles on shoulder. Last updated Thu Feb 26 at 4:00 PM PST. (DBC-87863)</name>
@@ -4688,6 +4714,31 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident at Exit 66: 232nd St (Langley - District). Left lane is blocked. Next update time Tue Mar 3 at 8:30 AM PST. Last updated Tue Mar 3 at 7:29 AM PST. (DBC-88066)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 66: 232nd St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T07:29:00-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-03T08:30:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88066
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.581332,49.136075,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Wildlife advisory in effect between Livesly Rd and Queens Ave for 37.3 km (1 km west of Curzon Junction to Moyie). Until Tue Mar 3 at 6:00 PM PST. Watch for falling rocks. Last updated Tue Mar 3 at 5:56 AM PST. (DBC-88054)</name>
           <description>
     &lt;![CDATA[
@@ -5815,6 +5866,32 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 31. Compact snow between Goat Range Provincial Pk and Junction Hwy 23 for 57.5 km (Trout Lake). Last updated Tue Mar 3 at 7:33 AM PST. (DBCRCON-245403)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; SNOW_PACKED&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 31&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Goat Range Provincial Pk and Junction Hwy 23 for 57.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Trout Lake&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T07:33:37-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-245403
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.275938,50.510415,0 -117.277968,50.513083,0 -117.285154,50.51692,0 -117.290712,50.51774,0 -117.293682,50.51905,0 -117.29748,50.519554,0 -117.302573,50.521145,0 -117.30425,50.520647,0 -117.309955,50.520738,0 -117.318327,50.52431,0 -117.319086,50.525048,0 -117.325724,50.5269,0 -117.336058,50.531692,0 -117.342961,50.537049,0 -117.353372,50.541624,0 -117.355759,50.543209,0 -117.357199,50.545381,0 -117.358314,50.544506,0 -117.359539,50.544548,0 -117.367031,50.548556,0 -117.371599,50.55155,0 -117.374441,50.554603,0 -117.374718,50.557797,0 -117.374146,50.559034,0 -117.374662,50.559826,0 -117.373683,50.5609,0 -117.375923,50.560689,0 -117.381299,50.562909,0 -117.385206,50.56623,0 -117.390402,50.572125,0 -117.389532,50.573491,0 -117.394157,50.572747,0 -117.395911,50.573191,0 -117.406942,50.580093,0 -117.409269,50.582576,0 -117.410872,50.583208,0 -117.40998,50.584664,0 -117.412905,50.58436,0 -117.419046,50.590162,0 -117.422316,50.592171,0 -117.42337,50.593782,0 -117.42287,50.595152,0 -117.423931,50.595115,0 -117.427001,50.596828,0 -117.434059,50.599337,0 -117.435154,50.600636,0 -117.434884,50.603683,0 -117.437512,50.603592,0 -117.443808,50.607516,0 -117.453166,50.61008,0 -117.460865,50.613524,0 -117.465005,50.616424,0 -117.466297,50.616535,0 -117.469383,50.618433,0 -117.480776,50.622471,0 -117.490296,50.627699,0 -117.496158,50.632531,0 -117.500529,50.634532,0 -117.502864,50.636693,0 -117.505341,50.636869,0 -117.518742,50.642427,0 -117.526371,50.646647,0 -117.531214,50.646967,0 -117.533133,50.648752,0 -117.544414,50.652329,0 -117.548503,50.656241,0 -117.555595,50.658175,0 -117.562775,50.661314,0 -117.568827,50.662687,0 -117.582553,50.666876,0 -117.588537,50.666906,0 -117.591814,50.667941,0 -117.600713,50.667945,0 -117.604585,50.668885,0 -117.61023,50.669402,0 -117.617764,50.671482,0 -117.621662,50.671513,0 -117.631251,50.674869,0 -117.642252,50.682581,0 -117.650014,50.684748,0 -117.654598,50.687393,0 -117.667711,50.692198,0 -117.676008,50.693408,0 -117.684636,50.698357,0 -117.688167,50.698992,0 -117.697778,50.701908,0 -117.704481,50.70126,0 -117.709882,50.70253,0 -117.712589,50.703878,0 -117.716567,50.707596,0 -117.719293,50.708433,0 -117.729955,50.707581,0 -117.733439,50.706844,0 -117.740766,50.703538,0 -117.746959,50.698929,0 -117.749563,50.698326,0 -117.753174,50.696291,0 -117.756732,50.695259,0 -117.765402,50.691339,0 -117.772282,50.686807,0 -117.779324,50.678093,0 -117.793853,50.670388,0 -117.798805,50.669668,0 -117.807369,50.666781,0 -117.828071,50.6535,0 -117.847422,50.643727,0 -117.849573,50.641032,0 -117.854071,50.632237,0 -117.852912,50.625719,0 -117.85336,50.623586,0 -117.8589,50.615411,0 -117.86654,50.611237,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 37. Compact snow between Commercial Dr and Dease River Bridge for 67.9 km (Dease Lake to 46 km south of Jade City). Last updated Tue Mar 3 at 6:50 AM PST. (DBCRCON-245009)</name>
           <description>
     &lt;![CDATA[
@@ -6228,32 +6305,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97C (Okanagan Connector). Watch for slippery sections between Junction Hwy 97 and Pennask Summit for 33.0 km (West Kelowna to Pennask Summit). Last updated Tue Mar 3 at 7:10 AM PST. (DBCRCON-245380)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97C&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T07:10:41-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-245380
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.663887,49.805886,0 -119.662852,49.806764,0 -119.661543,49.806467,0 -119.661907,49.80545,0 -119.663468,49.804713,0 -119.668808,49.804515,0 -119.692054,49.800427,0 -119.698265,49.800303,0 -119.704346,49.801347,0 -119.715458,49.805149,0 -119.729628,49.805378,0 -119.736057,49.806317,0 -119.743061,49.808494,0 -119.752626,49.809956,0 -119.766287,49.815172,0 -119.778367,49.817969,0 -119.796178,49.827526,0 -119.810765,49.831945,0 -119.829417,49.843008,0 -119.83315,49.847085,0 -119.841492,49.852721,0 -119.845149,49.857363,0 -119.859464,49.862868,0 -119.869309,49.864778,0 -119.875099,49.868907,0 -119.878596,49.870533,0 -119.883706,49.871561,0 -119.893157,49.871409,0 -119.909759,49.873228,0 -119.92312,49.871933,0 -119.931486,49.869301,0 -119.936227,49.869914,0 -119.939065,49.871843,0 -119.939735,49.874942,0 -119.933168,49.884374,0 -119.932482,49.887151,0 -119.934305,49.890474,0 -119.937384,49.892296,0 -119.940137,49.892991,0 -119.952888,49.894201,0 -119.971289,49.894997,0 -119.975929,49.895584,0 -119.982183,49.89769,0 -119.988715,49.901598,0 -119.992884,49.903149,0 -120.02808,49.910019,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
