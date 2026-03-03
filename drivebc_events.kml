@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-03 18:11:16 UTC
+        Last updated: 2026-03-03 18:44:31 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (283)</name>
+      <name>🚗 Traffic Events (285)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -511,6 +511,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Upper Arrow Lake Ferry, in both directions. Safety inspection at Upper Arrow Lake Ferry (Upper Arrow Lake). Expect delays up to 20 minutes. Next update time Tue Mar 3 at 11:45 AM PST. Last updated Tue Mar 3 at 10:25 AM PST. (DBC-88072)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ALMOST_IMPASSABLE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Upper Arrow Lake Ferry&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Upper Arrow Lake Ferry&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Upper Arrow Lake&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T10:25:05-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-03T11:45:00-08:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88072
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-117.898614,50.629029,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 1 (TransCanada Highway). Construction work between Nicomen River Rd and Junction Hwy 8 (13 km west of Spences Bridge). Until Wed Jun 30, 2027. Sackum Overhead Replacement project. Feb 10-17th &amp; 17-21st 24/7 single lane alternating traffic. Speed reduction to 50km/hr. Watch for signage and personnel. Expect delays. Next update time Tue Jun 30. Last updated Thu Feb 12 at 5:08 PM PST. (DBC-86190)</name>
           <description>
     &lt;![CDATA[
@@ -559,6 +584,32 @@
           <Point>
             <coordinates>-123.662306,48.780713,0</coordinates>
           </Point>
+        </Placemark>
+        <Placemark>
+          <name>Blackwater Rd, southbound. Utility work planned between Jutland Rd; Frenkel Rd and Muralt Rd for 0.9 km (1 km south of Prince George to Prince George). Starting Mon Mar 9 at 8:00 AM PST until Fri Mar 13 at 4:00 PM PST. Lane Closure. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Tue Mar 3 at 10:29 AM PST. (DBC-88073)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Blackwater Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Muralt Rd and Jutland Rd; Frenkel Rd for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km south of Prince George to Prince George&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T10:29:06-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88073
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.85665,53.809271,0 -122.856559,53.809318,0 -122.855964,53.809733,0 -122.855632,53.810062,0 -122.854121,53.811869,0 -122.853773,53.812285,0 -122.853083,53.813293,0 -122.852597,53.814004,0 -122.852362,53.814286,0 -122.852049,53.814662,0 -122.851492,53.815214,0 -122.850553,53.816014,0</coordinates>
+          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 16 (Yellowhead Highway). Utility work between Perow Station Rd and Topley Post Office Rd for 9.5 km (Topley). Single lane alternating traffic. Expect minor delays. Last updated Tue Feb 17 at 3:46 PM PST. (DBC-87498)</name>
@@ -6206,6 +6257,32 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Junction Hwy 3B and Cook St for 93.4 km (10 km west of Salmo to Creston). Last updated Tue Mar 3 at 10:16 AM PST. (DBCRCON-245373)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3B and Cook St for 93.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Creston to 10 km west of Salmo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T10:16:55-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-245373
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.420458,49.18785,0 -117.411625,49.188353,0 -117.404567,49.187922,0 -117.392329,49.184288,0 -117.388904,49.183813,0 -117.381431,49.18499,0 -117.373194,49.185533,0 -117.368167,49.187762,0 -117.351456,49.191826,0 -117.343778,49.191057,0 -117.330879,49.192252,0 -117.315587,49.18954,0 -117.301727,49.192397,0 -117.295191,49.194252,0 -117.287834,49.192582,0 -117.285743,49.191573,0 -117.280558,49.176087,0 -117.272708,49.158371,0 -117.271232,49.156757,0 -117.266587,49.154043,0 -117.265308,49.15222,0 -117.264639,49.143906,0 -117.26054,49.129144,0 -117.258544,49.127241,0 -117.253044,49.125132,0 -117.251784,49.123346,0 -117.255671,49.11092,0 -117.260427,49.102476,0 -117.261806,49.096137,0 -117.270346,49.085035,0 -117.276224,49.079074,0 -117.276562,49.077204,0 -117.274206,49.075593,0 -117.266399,49.075247,0 -117.259303,49.073497,0 -117.256449,49.071429,0 -117.247321,49.068614,0 -117.239673,49.06268,0 -117.229751,49.053459,0 -117.222389,49.048699,0 -117.216178,49.042448,0 -117.204349,49.032695,0 -117.199205,49.030386,0 -117.196805,49.028633,0 -117.195419,49.027252,0 -117.194665,49.024847,0 -117.193345,49.023259,0 -117.187082,49.019078,0 -117.183137,49.017535,0 -117.181216,49.016116,0 -117.176481,49.015033,0 -117.168944,49.015198,0 -117.1663,49.017083,0 -117.1606,49.019521,0 -117.15163,49.026497,0 -117.143334,49.034064,0 -117.141833,49.036035,0 -117.140862,49.03955,0 -117.139539,49.041008,0 -117.131159,49.046449,0 -117.122783,49.050306,0 -117.116417,49.052159,0 -117.110831,49.054514,0 -117.105387,49.058274,0 -117.102037,49.059653,0 -117.089365,49.062695,0 -117.08599,49.062473,0 -117.080687,49.061309,0 -117.075931,49.063524,0 -117.068947,49.064626,0 -117.061096,49.062886,0 -117.056305,49.061046,0 -117.052746,49.058947,0 -117.047259,49.057664,0 -117.043935,49.05759,0 -117.040873,49.058434,0 -117.03833,49.060669,0 -117.038009,49.066623,0 -117.035533,49.070557,0 -117.021354,49.083019,0 -117.013009,49.093244,0 -117.011307,49.094129,0 -116.989521,49.097363,0 -116.980011,49.097288,0 -116.96085,49.096052,0 -116.948116,49.099206,0 -116.941874,49.102602,0 -116.935118,49.104341,0 -116.928749,49.103831,0 -116.915486,49.105174,0 -116.910248,49.104258,0 -116.895119,49.104161,0 -116.888707,49.102983,0 -116.858969,49.110398,0 -116.836862,49.119854,0 -116.826824,49.121125,0 -116.816114,49.128193,0 -116.811302,49.129476,0 -116.807766,49.131843,0 -116.800708,49.133658,0 -116.797553,49.135273,0 -116.7892,49.137566,0 -116.781018,49.139712,0 -116.776773,49.139986,0 -116.768661,49.144851,0 -116.761986,49.146171,0 -116.750961,49.145198,0 -116.741935,49.142802,0 -116.73625,49.142783,0 -116.725887,49.139712,0 -116.719297,49.139355,0 -116.7048,49.140633,0 -116.696588,49.139599,0 -116.69272,49.140548,0 -116.678269,49.142644,0 -116.67298,49.142273,0 -116.669988,49.142886,0 -116.666358,49.142605,0 -116.662798,49.143976,0 -116.656384,49.143982,0 -116.64579,49.141424,0 -116.643289,49.140318,0 -116.636425,49.135014,0 -116.635035,49.130267,0 -116.63338,49.128939,0 -116.588212,49.117395,0 -116.536706,49.117086,0 -116.523529,49.118598,0 -116.523351,49.107966,0 -116.519909,49.105291,0 -116.517044,49.098241,0 -116.5142,49.095693,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 26. Watch for slippery sections between Sorum Rd and Barkerville Hwy for 56.1 km (25 km east of Quesnel to 6 km east of Wells). Compact snow. Last updated Tue Mar 3 at 7:04 AM PST. (DBCRCON-245258)</name>
           <description>
     &lt;![CDATA[
@@ -6281,32 +6358,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.21158,49.278304,0 -117.206635,49.274864,0 -117.208029,49.269749,0 -117.207777,49.264981,0 -117.209522,49.264003,0 -117.21341,49.259462,0 -117.217275,49.257411,0 -117.227193,49.253702,0 -117.228073,49.252528,0 -117.2293,49.247196,0 -117.23073,49.244907,0 -117.232109,49.244404,0 -117.236839,49.244082,0 -117.241877,49.241815,0 -117.249331,49.232279,0 -117.255813,49.226953,0 -117.257639,49.223161,0 -117.257966,49.2201,0 -117.264849,49.20877,0 -117.281092,49.193134,0 -117.285743,49.191573,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between Junction Hwy 3B and Cook St for 93.4 km (10 km west of Salmo to Creston). Last updated Tue Mar 3 at 6:37 AM PST. (DBCRCON-245373)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Junction Hwy 3B and Cook St for 93.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Creston to 10 km west of Salmo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T06:37:08-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-245373
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.420458,49.18785,0 -117.411625,49.188353,0 -117.404567,49.187922,0 -117.392329,49.184288,0 -117.388904,49.183813,0 -117.381431,49.18499,0 -117.373194,49.185533,0 -117.368167,49.187762,0 -117.351456,49.191826,0 -117.343778,49.191057,0 -117.330879,49.192252,0 -117.315587,49.18954,0 -117.301727,49.192397,0 -117.295191,49.194252,0 -117.287834,49.192582,0 -117.285743,49.191573,0 -117.280558,49.176087,0 -117.272708,49.158371,0 -117.271232,49.156757,0 -117.266587,49.154043,0 -117.265308,49.15222,0 -117.264639,49.143906,0 -117.26054,49.129144,0 -117.258544,49.127241,0 -117.253044,49.125132,0 -117.251784,49.123346,0 -117.255671,49.11092,0 -117.260427,49.102476,0 -117.261806,49.096137,0 -117.270346,49.085035,0 -117.276224,49.079074,0 -117.276562,49.077204,0 -117.274206,49.075593,0 -117.266399,49.075247,0 -117.259303,49.073497,0 -117.256449,49.071429,0 -117.247321,49.068614,0 -117.239673,49.06268,0 -117.229751,49.053459,0 -117.222389,49.048699,0 -117.216178,49.042448,0 -117.204349,49.032695,0 -117.199205,49.030386,0 -117.196805,49.028633,0 -117.195419,49.027252,0 -117.194665,49.024847,0 -117.193345,49.023259,0 -117.187082,49.019078,0 -117.183137,49.017535,0 -117.181216,49.016116,0 -117.176481,49.015033,0 -117.168944,49.015198,0 -117.1663,49.017083,0 -117.1606,49.019521,0 -117.15163,49.026497,0 -117.143334,49.034064,0 -117.141833,49.036035,0 -117.140862,49.03955,0 -117.139539,49.041008,0 -117.131159,49.046449,0 -117.122783,49.050306,0 -117.116417,49.052159,0 -117.110831,49.054514,0 -117.105387,49.058274,0 -117.102037,49.059653,0 -117.089365,49.062695,0 -117.08599,49.062473,0 -117.080687,49.061309,0 -117.075931,49.063524,0 -117.068947,49.064626,0 -117.061096,49.062886,0 -117.056305,49.061046,0 -117.052746,49.058947,0 -117.047259,49.057664,0 -117.043935,49.05759,0 -117.040873,49.058434,0 -117.03833,49.060669,0 -117.038009,49.066623,0 -117.035533,49.070557,0 -117.021354,49.083019,0 -117.013009,49.093244,0 -117.011307,49.094129,0 -116.989521,49.097363,0 -116.980011,49.097288,0 -116.96085,49.096052,0 -116.948116,49.099206,0 -116.941874,49.102602,0 -116.935118,49.104341,0 -116.928749,49.103831,0 -116.915486,49.105174,0 -116.910248,49.104258,0 -116.895119,49.104161,0 -116.888707,49.102983,0 -116.858969,49.110398,0 -116.836862,49.119854,0 -116.826824,49.121125,0 -116.816114,49.128193,0 -116.811302,49.129476,0 -116.807766,49.131843,0 -116.800708,49.133658,0 -116.797553,49.135273,0 -116.7892,49.137566,0 -116.781018,49.139712,0 -116.776773,49.139986,0 -116.768661,49.144851,0 -116.761986,49.146171,0 -116.750961,49.145198,0 -116.741935,49.142802,0 -116.73625,49.142783,0 -116.725887,49.139712,0 -116.719297,49.139355,0 -116.7048,49.140633,0 -116.696588,49.139599,0 -116.69272,49.140548,0 -116.678269,49.142644,0 -116.67298,49.142273,0 -116.669988,49.142886,0 -116.666358,49.142605,0 -116.662798,49.143976,0 -116.656384,49.143982,0 -116.64579,49.141424,0 -116.643289,49.140318,0 -116.636425,49.135014,0 -116.635035,49.130267,0 -116.63338,49.128939,0 -116.588212,49.117395,0 -116.536706,49.117086,0 -116.523529,49.118598,0 -116.523351,49.107966,0 -116.519909,49.105291,0 -116.517044,49.098241,0 -116.5142,49.095693,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
