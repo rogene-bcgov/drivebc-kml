@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-03 08:07:53 UTC
+        Last updated: 2026-03-03 08:43:55 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (270)</name>
+      <name>🚗 Traffic Events (271)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -6881,6 +6881,32 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
       </Folder>
       <Folder>
         <name>Weather Condition Events</name>
+        <Placemark>
+          <name>Highway 6 NS. Limited visibility with fog between Spruce St and Junction Hwy 3 for 12.1 km (Salmo). Last updated Tue Mar 3 at 12:34 AM PST. (DBCRCON-245360)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 6 NS&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Spruce St and Junction Hwy 3 for 12.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T00:34:23-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-245360
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.21158,49.278304,0 -117.206635,49.274864,0 -117.208029,49.269749,0 -117.207777,49.264981,0 -117.209522,49.264003,0 -117.21341,49.259462,0 -117.217275,49.257411,0 -117.227193,49.253702,0 -117.228073,49.252528,0 -117.2293,49.247196,0 -117.23073,49.244907,0 -117.232109,49.244404,0 -117.236839,49.244082,0 -117.241877,49.241815,0 -117.249331,49.232279,0 -117.255813,49.226953,0 -117.257639,49.223161,0 -117.257966,49.2201,0 -117.264849,49.20877,0 -117.281092,49.193134,0 -117.285743,49.191573,0</coordinates>
+          </LineString>
+        </Placemark>
         <Placemark>
           <name>Highway 52 E. Blowing snow between Kelly Lake Rd and the end of Highway 52 E for 79.4 km (Tumbler Ridge). Limited visibility with snow. Watch for slippery sections. Compact snow. Last updated Mon Mar 2 at 9:35 PM MST. (DBCRCON-245334)</name>
           <description>
