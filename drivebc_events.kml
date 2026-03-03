@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-03 09:11:46 UTC
+        Last updated: 2026-03-03 09:44:11 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (271)</name>
+      <name>🚗 Traffic Events (270)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -4763,31 +4763,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Exit 53: 176th St / Highway 15 and Golden Ears Way (Surrey). Westbound HOV lane blocked. Eastbound HOV and left lane blocked. Next update time Tue Mar 3 at 1:30 AM PST. Last updated Tue Mar 3 at 12:44 AM PST. (DBC-88051)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 53: 176th St / Highway 15 and Golden Ears Way&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T00:44:22-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-03T01:30:00-08:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88051
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.729406,49.17994,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 31A, in both directions. Watch for falling rocks between Junction Hwy 6NS and Retallak for 19.5 km (New Denver). Last updated Mon Mar 2 at 5:52 AM PST. (DBC-87036)</name>
           <description>
     &lt;![CDATA[
@@ -5731,33 +5706,61 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
         </Placemark>
       </Folder>
       <Folder>
-        <name>Road Condition Events</name>
+        <name>Special Event Events</name>
         <Placemark>
-          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Mon Mar 2 at 10:23 PM MST. (DBCRCON-245344)</name>
+          <name>Campbell St, in both directions. Special event planned between First St and Fourth St. Starting Sat Mar 14 at 10:00 AM PST until Sat Mar 14 at 11:00 AM PST. Road closure planned. Expect minor delays. Watch for traffic control personnel. Parade of Whales and Wonder. Last updated Fri Feb 27 at 8:37 AM PST. (DBC-87903)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Beaverfoot Rd and BC/Alberta Border for 45.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 1 km west of West Boundary of Yoho National Park&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Campbell St&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between First St and Fourth St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T21:23:23-08:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T08:37:57-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-87903
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-125.902739,49.152381,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, in both directions. Special event planned between W Pender St and Stanley Park Dr for 3.0 km (Vancouver). Starting Sun Apr 19 at 7:00 AM PST until Sun Apr 19 at 12:00 PM PST. Roadway will be reduced to two lanes. Expect delays. Last updated Wed Jan 14 at 2:28 PM PST. (DBC-86061)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between W Pender St and Stanley Park Dr for 3.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-14T14:28:26-08:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-245344
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86061
     ]]&gt;
     </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
+            <coordinates>-123.130597,49.290575,0 -123.132114,49.291606,0 -123.133719,49.292623,0 -123.135273,49.293615,0 -123.136072,49.294137,0 -123.136244,49.294137,0 -123.136722,49.294458,0 -123.136887,49.29474,0 -123.136912,49.29492,0 -123.13692,49.294981,0 -123.136836,49.295275,0 -123.136654,49.295583,0 -123.136414,49.295989,0 -123.13618,49.296289,0 -123.136196,49.296444,0 -123.136203,49.296515,0 -123.136253,49.296637,0 -123.136356,49.296887,0 -123.136697,49.297255,0 -123.137119,49.297661,0 -123.137454,49.297886,0 -123.137476,49.2979,0 -123.138138,49.298188,0 -123.1387,49.298398,0 -123.140184,49.298952,0 -123.141785,49.299809,0 -123.142121,49.300046,0 -123.142213,49.300111,0 -123.142981,49.300633,0 -123.143285,49.300962,0 -123.144427,49.302113,0 -123.144862,49.303018,0 -123.14525,49.304069,0 -123.145247,49.305536,0 -123.145167,49.306506,0 -123.144757,49.307919,0 -123.144318,49.308697,0 -123.143977,49.309341,0 -123.14375,49.309663,0 -123.143365,49.310162,0 -123.142958,49.310641,0 -123.142639,49.311007,0 -123.142583,49.311079,0 -123.142543,49.311126,0 -123.141936,49.311811,0 -123.141758,49.311997,0 -123.141232,49.312548,0</coordinates>
           </LineString>
         </Placemark>
+      </Folder>
+      <Folder>
+        <name>Road Condition Events</name>
         <Placemark>
           <name>Road 40 (Lillooet-Pioneer Rd). Watch for slippery sections between Haylmore Ave and Yalakom Rd for 56.7 km (99 to 42 km west of Lillooet). Last updated Mon Mar 2 at 8:35 PM PST. (DBCRCON-245319)</name>
           <description>
@@ -5834,6 +5837,32 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-118.400095,50.054617,0 -118.394561,50.046119,0 -118.390035,50.041841,0 -118.382588,50.038073,0 -118.379528,50.035508,0 -118.371984,50.032868,0 -118.368768,50.031037,0 -118.360377,50.025168,0 -118.357401,50.021318,0 -118.352955,50.018092,0 -118.351065,50.014484,0 -118.352189,50.010035,0 -118.351868,50.007107,0 -118.347689,50.001316,0 -118.341716,49.998085,0 -118.340938,49.995925,0 -118.337253,49.995273,0 -118.32694,49.990194,0 -118.320333,49.988493,0 -118.317309,49.986357,0 -118.315758,49.985956,0 -118.31364,49.98398,0 -118.30538,49.982005,0 -118.299425,49.976879,0 -118.291263,49.975332,0 -118.288428,49.973997,0 -118.285537,49.972048,0 -118.282518,49.968375,0 -118.28024,49.968124,0 -118.28072,49.96672,0 -118.279955,49.96634,0 -118.279021,49.966545,0 -118.277733,49.967965,0 -118.270804,49.967611,0 -118.261654,49.964919,0 -118.250016,49.962842,0 -118.243125,49.958975,0 -118.235181,49.958641,0 -118.226467,49.956529,0 -118.22136,49.949011,0 -118.218615,49.943275,0 -118.217576,49.924195,0 -118.212982,49.910189,0 -118.207847,49.906427,0 -118.204545,49.904866,0 -118.196912,49.899001,0 -118.188706,49.89551,0 -118.188613,49.891477,0 -118.177478,49.877444,0 -118.175496,49.876847,0 -118.156877,49.876828,0 -118.155034,49.876483,0 -118.152926,49.875101,0 -118.150326,49.867778,0 -118.149058,49.866408,0 -118.146398,49.865009,0 -118.138214,49.862401,0 -118.136177,49.86057,0 -118.134649,49.860464,0 -118.129747,49.867273,0 -118.129492,49.888513,0 -118.125938,49.896064,0 -118.125252,49.896429,0 -118.120922,49.885807,0 -118.11973,49.88456,0 -118.114119,49.88196,0 -118.107648,49.875819,0 -118.10492,49.874014,0 -118.100915,49.872934,0 -118.09743,49.874179,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Tue Mar 3 at 2:30 AM MST. (DBCRCON-245344)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Beaverfoot Rd and BC/Alberta Border for 45.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 1 km west of West Boundary of Yoho National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T01:30:02-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-245344
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6822,60 +6851,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time F
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-129.556111,54.225456,0 -129.541988,54.227055,0 -129.534254,54.227343,0 -129.532243,54.227864,0 -129.521995,54.237192,0 -129.521657,54.241146,0 -129.520483,54.242833,0 -129.506314,54.247979,0 -129.496523,54.249582,0 -129.485887,54.247938,0 -129.47337,54.247582,0 -129.457413,54.249164,0 -129.438703,54.253041,0 -129.434291,54.256038,0 -129.432262,54.26063,0 -129.429207,54.265008,0 -129.423486,54.270477,0 -129.422645,54.272722,0 -129.422399,54.279395,0 -129.42166,54.280577,0 -129.413986,54.285569,0 -129.408511,54.288131,0 -129.404087,54.292524,0 -129.395872,54.295132,0 -129.39196,54.299029,0 -129.389542,54.300268,0 -129.373567,54.30538,0 -129.341222,54.316997,0 -129.323072,54.322983,0 -129.30481,54.326113,0 -129.301351,54.328081,0 -129.298719,54.33155,0 -129.293287,54.334503,0 -129.291444,54.334998,0 -129.273399,54.335643,0 -129.21039,54.336916,0 -129.204682,54.337337,0 -129.201589,54.338794,0 -129.197274,54.339369,0 -129.187354,54.342945,0 -129.184016,54.34615,0 -129.173139,54.353794,0 -129.165615,54.36134,0 -129.163991,54.362347,0 -129.157057,54.36384,0 -129.14503,54.364567,0 -129.141781,54.365495,0 -129.139757,54.367256,0 -129.13908,54.370462,0 -129.138011,54.371538,0 -129.124609,54.380003,0 -129.120622,54.381213,0 -129.082115,54.389265,0 -129.074387,54.392353,0 -129.066557,54.397966,0 -129.062792,54.39954,0 -129.033725,54.402673,0 -128.995117,54.411972,0 -128.984557,54.410769,0 -128.957525,54.409594,0 -128.903564,54.409731,0 -128.874487,54.416613,0 -128.861283,54.420339,0 -128.853336,54.424467,0 -128.848627,54.431035,0 -128.840315,54.433718,0 -128.810221,54.453195,0 -128.795808,54.459775,0 -128.784412,54.46244,0 -128.779594,54.466708,0 -128.768083,54.472151,0 -128.756069,54.476135,0 -128.74731,54.482299,0 -128.736541,54.48632,0 -128.727536,54.488418,0 -128.712338,54.497968,0 -128.697134,54.503852,0 -128.690102,54.505636,0 -128.684452,54.510182,0 -128.679946,54.518743,0 -128.672564,54.521504,0 -128.665046,54.522278,0 -128.654682,54.518966,0 -128.596301,54.515735,0 -128.596548,54.513277,0 -128.584225,54.513115,0 -128.578654,54.512008,0 -128.559015,54.511756,0 -128.557711,54.511459,0 -128.547747,54.511849,0 -128.544213,54.512559,0 -128.540809,54.514276,0 -128.528112,54.528147,0 -128.525971,54.52952,0 -128.517652,54.532493,0 -128.503268,54.535881,0 -128.495756,54.539143,0 -128.483658,54.53994,0 -128.479729,54.541007,0 -128.473558,54.544074,0 -128.471352,54.545745,0 -128.469311,54.551873,0 -128.466526,54.554372,0 -128.464007,54.555413,0 -128.441447,54.561652,0 -128.437849,54.563369,0 -128.432331,54.567234,0 -128.426919,54.569759,0 -128.40318,54.5916,0 -128.401895,54.595072,0 -128.403544,54.601991,0 -128.403611,54.605762,0 -128.400089,54.617302,0 -128.400196,54.618837,0 -128.402384,54.621466,0 -128.408336,54.624821,0 -128.40938,54.626574,0 -128.409485,54.628368,0 -128.407817,54.630922,0 -128.40395,54.633588,0 -128.397197,54.640033,0 -128.393064,54.648212,0 -128.382805,54.660461,0 -128.379045,54.662372,0 -128.373377,54.663452,0 -128.366548,54.665487,0 -128.362445,54.666032,0 -128.3569,54.66805,0 -128.355293,54.669282,0 -128.341934,54.687665,0 -128.338647,54.689679,0 -128.326699,54.693624,0 -128.319776,54.698753,0 -128.318576,54.701806,0 -128.316416,54.704162,0 -128.311347,54.712963,0 -128.310669,54.716943,0 -128.311213,54.72455,0 -128.309059,54.727242,0 -128.296683,54.732776,0 -128.287526,54.733525,0 -128.281704,54.733061,0 -128.276356,54.734385,0 -128.272591,54.737418,0 -128.266668,54.73919,0 -128.26373,54.740791,0 -128.2581,54.749574,0 -128.257227,54.752546,0 -128.257942,54.761606,0 -128.259326,54.763405,0 -128.260349,54.766955,0 -128.259445,54.771371,0 -128.264148,54.785571,0 -128.274684,54.798209,0 -128.2822,54.814028,0 -128.284031,54.815273,0 -128.289448,54.816455,0 -128.291112,54.817487,0 -128.291639,54.818837,0 -128.291079,54.821494,0 -128.291774,54.823778,0 -128.293039,54.824951,0 -128.30939,54.830328,0 -128.313888,54.832684,0</coordinates>
-          </LineString>
-        </Placemark>
-      </Folder>
-      <Folder>
-        <name>Special Event Events</name>
-        <Placemark>
-          <name>Campbell St, in both directions. Special event planned between First St and Fourth St. Starting Sat Mar 14 at 10:00 AM PST until Sat Mar 14 at 11:00 AM PST. Road closure planned. Expect minor delays. Watch for traffic control personnel. Parade of Whales and Wonder. Last updated Fri Feb 27 at 8:37 AM PST. (DBC-87903)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Campbell St&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between First St and Fourth St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-02-27T08:37:57-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87903
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <Point>
-            <coordinates>-125.902739,49.152381,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, in both directions. Special event planned between W Pender St and Stanley Park Dr for 3.0 km (Vancouver). Starting Sun Apr 19 at 7:00 AM PST until Sun Apr 19 at 12:00 PM PST. Roadway will be reduced to two lanes. Expect delays. Last updated Wed Jan 14 at 2:28 PM PST. (DBC-86061)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between W Pender St and Stanley Park Dr for 3.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-14T14:28:26-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86061
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.130597,49.290575,0 -123.132114,49.291606,0 -123.133719,49.292623,0 -123.135273,49.293615,0 -123.136072,49.294137,0 -123.136244,49.294137,0 -123.136722,49.294458,0 -123.136887,49.29474,0 -123.136912,49.29492,0 -123.13692,49.294981,0 -123.136836,49.295275,0 -123.136654,49.295583,0 -123.136414,49.295989,0 -123.13618,49.296289,0 -123.136196,49.296444,0 -123.136203,49.296515,0 -123.136253,49.296637,0 -123.136356,49.296887,0 -123.136697,49.297255,0 -123.137119,49.297661,0 -123.137454,49.297886,0 -123.137476,49.2979,0 -123.138138,49.298188,0 -123.1387,49.298398,0 -123.140184,49.298952,0 -123.141785,49.299809,0 -123.142121,49.300046,0 -123.142213,49.300111,0 -123.142981,49.300633,0 -123.143285,49.300962,0 -123.144427,49.302113,0 -123.144862,49.303018,0 -123.14525,49.304069,0 -123.145247,49.305536,0 -123.145167,49.306506,0 -123.144757,49.307919,0 -123.144318,49.308697,0 -123.143977,49.309341,0 -123.14375,49.309663,0 -123.143365,49.310162,0 -123.142958,49.310641,0 -123.142639,49.311007,0 -123.142583,49.311079,0 -123.142543,49.311126,0 -123.141936,49.311811,0 -123.141758,49.311997,0 -123.141232,49.312548,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
