@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-06 09:08:59 UTC
+        Last updated: 2026-03-06 09:43:38 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (303)</name>
+      <name>🚗 Traffic Events (304)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -7907,6 +7907,35 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-115.055859,48.999825,0 -115.047423,49.014112,0 -115.04583,49.020878,0 -115.046098,49.023984,0 -115.048197,49.027668,0 -115.056473,49.034671,0 -115.05932,49.039102,0 -115.063233,49.050273,0 -115.08527,49.102526,0 -115.098075,49.140774,0 -115.101404,49.143791,0 -115.13262,49.161875,0 -115.136433,49.163288,0 -115.155319,49.168225,0 -115.158266,49.169458,0 -115.16036,49.171022,0 -115.169609,49.181986,0 -115.171142,49.184909,0 -115.170965,49.187671,0 -115.167197,49.197376,0 -115.166698,49.201914,0 -115.167209,49.207238,0 -115.166101,49.210211,0 -115.143968,49.228617,0 -115.140066,49.232938,0 -115.136931,49.238341,0 -115.125576,49.293769,0</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Chain Up Events</name>
+        <Placemark>
+          <name>Highway 5 (Coquihalla South). Commercial chain up in effect between Exit 202: Portia and Exit 217: Zopkios Brake Check for 0.1 km (2 km south of Great Bear Snowshed).</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 202: Portia and Exit 217: Zopkios Brake Check&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km south of Great Bear Snowshed&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-06T01:08:29-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-245641
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CHAIN_UP</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.180268,49.574926,0 -121.179513,49.575614,0 -121.179464,49.575658,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
