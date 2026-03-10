@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-10 17:14:37 UTC
+        Last updated: 2026-03-10 17:44:35 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (351)</name>
+      <name>🚗 Traffic Events (352)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2077,6 +2077,32 @@ oversize, over width or extraordinar</name>
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 19A (Island Highway), southbound. Tree pruning planned between Holiday Rd and Cougar Smith Rd for 1.5 km (2 to 3 km south of Buckley Bay Ferry Terminal). Starting Wed Mar 11 at 9:00 AM PDT until Fri Mar 13 at 3:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Tue Mar 10 at 10:15 AM PDT. (DBC-88392)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Cougar Smith Rd and Holiday Rd for 1.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 to 3 km south of Buckley Bay Ferry Terminal&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T10:15:46-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88392
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-124.823457,49.500192,0 -124.823458,49.500219,0 -124.823496,49.501643,0 -124.823531,49.501928,0 -124.823629,49.502242,0 -124.823779,49.502447,0 -124.823997,49.502745,0 -124.825504,49.504347,0 -124.827541,49.506056,0 -124.830447,49.508729,0 -124.830921,49.509239,0 -124.832085,49.510279,0 -124.833278,49.511153,0 -124.833908,49.511741,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 9, northbound. Utility work planned between Pine Ave and Balsam Ave for 0.3 km (Harrison Hot Springs). Starting Wed Mar 11 at 9:00 AM PST until Wed Mar 11 at 3:00 PM PST. Single lane alternating traffic will be in effect. Last updated Thu Feb 26 at 10:45 AM PST. (DBC-87823)</name>
           <description>
     &lt;![CDATA[
@@ -3176,32 +3202,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <Point>
             <coordinates>-122.250724,52.326006,0</coordinates>
           </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 19A (Island Highway), southbound. Tree pruning planned between Holiday Rd and Cougar Smith Rd for 1.5 km (2 to 3 km south of Buckley Bay Ferry Terminal). Starting Wed Mar 11 at 9:00 AM PDT until Thu Mar 12 at 3:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Mon Mar 9 at 11:58 AM PDT. (DBC-88392)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 19A&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Cougar Smith Rd and Holiday Rd for 1.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 to 3 km south of Buckley Bay Ferry Terminal&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-09T11:58:26-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88392
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-124.823457,49.500192,0 -124.823458,49.500219,0 -124.823496,49.501643,0 -124.823531,49.501928,0 -124.823629,49.502242,0 -124.823779,49.502447,0 -124.823997,49.502745,0 -124.825504,49.504347,0 -124.827541,49.506056,0 -124.830447,49.508729,0 -124.830921,49.509239,0 -124.832085,49.510279,0 -124.833278,49.511153,0 -124.833908,49.511741,0</coordinates>
-          </LineString>
         </Placemark>
         <Placemark>
           <name>Highway 19 (Island Highway). Utility work planned between Lakeview Rd and Browns Bay Rd for 11.8 km (6 to 18 km north of Campbell River). Starting Mon Mar 23 at 8:00 AM PST until Fri Apr 3 at 8:00 PM PST. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Wed Feb 25 at 2:52 PM PST. (DBC-87817)</name>
@@ -5853,31 +5853,6 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared between Exit 66: 232nd St and 248 St (Langley - District). Last updated Tue Mar 10 at 10:03 AM PDT. (DBC-88450)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 66: 232nd St and 248 St&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T10:03:46-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88450
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.580794,49.135863,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Mission Mountain Rd. Debris on roadway between Terzaghi Dam and Shalath 40 km west of Lillooet. Construction work. Watch for traffic control. Expect delays. Light traffic only, limited road widths. Last updated Tue Mar 10 at 7:43 AM PDT. (DBC-84909)</name>
           <description>
     &lt;![CDATA[
@@ -7086,7 +7061,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 23. Compact snow between Junction Highway 1 and Downie Ck. Bridge for 66.3 km (Revelstoke). Slushy with slippery sections. Last updated Tue Mar 10 at 9:44 AM PDT. (DBCRCON-246165)</name>
+          <name>Highway 23. Slushy with slippery sections between Junction Highway 1 and Downie Ck. Bridge for 66.3 km (Revelstoke). Last updated Tue Mar 10 at 10:21 AM PDT. (DBCRCON-246165)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7098,7 +7073,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
     &lt;b&gt;Location:&lt;/b&gt; Between Junction Highway 1 and Downie Ck. Bridge for 66.3 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T09:44:23-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T10:21:54-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7346,6 +7321,32 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway). Water pooling between Perry River Bridge and Victoria Rd W for 42.0 km (25 km east of Sicamous to Revelstoke). Last updated Tue Mar 10 at 10:19 AM PDT. (DBCRCON-246205)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; SURFACE_WATER_HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Perry River Bridge and Victoria Rd W for 42.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke to 25 km east of Sicamous&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T10:19:42-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-246205
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-118.692071,50.996565,0 -118.679638,51.001373,0 -118.670022,51.003257,0 -118.665523,51.003321,0 -118.655757,51.001941,0 -118.651897,51.000573,0 -118.645903,50.997421,0 -118.635518,50.989218,0 -118.629948,50.986735,0 -118.626505,50.984335,0 -118.621076,50.983216,0 -118.61629,50.981587,0 -118.611398,50.97772,0 -118.603838,50.974233,0 -118.589554,50.971076,0 -118.577741,50.970545,0 -118.572125,50.969829,0 -118.569341,50.970368,0 -118.563043,50.973665,0 -118.553354,50.975766,0 -118.546782,50.974941,0 -118.530754,50.977311,0 -118.525445,50.976434,0 -118.522662,50.975039,0 -118.519538,50.971995,0 -118.512527,50.97031,0 -118.507338,50.967955,0 -118.503959,50.965388,0 -118.502444,50.96303,0 -118.498415,50.959063,0 -118.492546,50.955909,0 -118.489623,50.952702,0 -118.48355,50.950478,0 -118.481494,50.947428,0 -118.48112,50.945618,0 -118.483442,50.94154,0 -118.48439,50.935187,0 -118.481293,50.931122,0 -118.475708,50.928038,0 -118.473145,50.927681,0 -118.460965,50.928851,0 -118.457757,50.930013,0 -118.448653,50.932043,0 -118.444791,50.933675,0 -118.432392,50.936825,0 -118.428632,50.938751,0 -118.425856,50.942506,0 -118.424183,50.943707,0 -118.417164,50.945809,0 -118.413319,50.948293,0 -118.406945,50.950761,0 -118.399896,50.957408,0 -118.385398,50.962447,0 -118.382186,50.962972,0 -118.373867,50.962803,0 -118.367575,50.965377,0 -118.361233,50.966922,0 -118.357476,50.969713,0 -118.354738,50.97078,0 -118.348773,50.971396,0 -118.338689,50.971031,0 -118.330359,50.972908,0 -118.320632,50.978033,0 -118.313319,50.979902,0 -118.307153,50.979491,0 -118.303788,50.979961,0 -118.293246,50.985518,0 -118.273109,50.991148,0 -118.269943,50.991621,0 -118.258983,50.991862,0 -118.246055,50.993916,0 -118.243558,50.995111,0 -118.239377,50.999484,0 -118.232072,51.002591,0 -118.223964,51.003767,0 -118.216001,51.009333,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 3A. Watch for slippery sections between Kootenay Bay Ferry and Junction Hwy 3 for 78.0 km (1 km north of Kootenay Bay Ferry Landing to Creston). Last updated Tue Mar 10 at 6:47 AM PDT. (DBCRCON-246145)</name>
           <description>
     &lt;![CDATA[
@@ -7369,6 +7370,58 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.872787,49.675194,0 -116.869584,49.680326,0 -116.868513,49.683637,0 -116.866982,49.684694,0 -116.864769,49.684387,0 -116.862739,49.686543,0 -116.860027,49.684736,0 -116.857346,49.686232,0 -116.855034,49.685956,0 -116.847912,49.683119,0 -116.844543,49.683865,0 -116.83771,49.683528,0 -116.833705,49.680499,0 -116.830167,49.681793,0 -116.825176,49.6817,0 -116.824555,49.681086,0 -116.824782,49.672564,0 -116.815745,49.672048,0 -116.811229,49.669502,0 -116.809499,49.666091,0 -116.809653,49.664358,0 -116.807464,49.663119,0 -116.805126,49.660809,0 -116.80331,49.654821,0 -116.799432,49.649762,0 -116.799466,49.648154,0 -116.796825,49.645847,0 -116.796567,49.644678,0 -116.792393,49.641955,0 -116.791538,49.64031,0 -116.787287,49.637032,0 -116.788367,49.630306,0 -116.787022,49.628325,0 -116.786973,49.626804,0 -116.788991,49.622734,0 -116.787517,49.620394,0 -116.787498,49.618783,0 -116.789192,49.612895,0 -116.789065,49.609182,0 -116.790569,49.605841,0 -116.794245,49.603536,0 -116.793867,49.601667,0 -116.794721,49.598967,0 -116.798305,49.594917,0 -116.799839,49.59028,0 -116.798732,49.586558,0 -116.799661,49.583184,0 -116.798336,49.580971,0 -116.797089,49.576389,0 -116.798313,49.573861,0 -116.798366,49.571783,0 -116.795684,49.568875,0 -116.794819,49.560383,0 -116.792453,49.557877,0 -116.791618,49.555359,0 -116.78852,49.5528,0 -116.789557,49.550136,0 -116.787485,49.547381,0 -116.788055,49.544681,0 -116.785957,49.540851,0 -116.784505,49.535963,0 -116.782717,49.533134,0 -116.782715,49.529346,0 -116.783804,49.526922,0 -116.781625,49.524549,0 -116.780954,49.520636,0 -116.783449,49.515904,0 -116.784491,49.511325,0 -116.786701,49.508445,0 -116.7857,49.507498,0 -116.785744,49.504162,0 -116.783695,49.503213,0 -116.782407,49.501478,0 -116.781922,49.497831,0 -116.780476,49.496013,0 -116.779818,49.492928,0 -116.776317,49.491,0 -116.775879,49.4884,0 -116.774401,49.486799,0 -116.770682,49.476874,0 -116.767135,49.473499,0 -116.767774,49.470049,0 -116.765823,49.464621,0 -116.766185,49.459345,0 -116.764925,49.45553,0 -116.763182,49.45402,0 -116.760158,49.45298,0 -116.756174,49.444281,0 -116.75682,49.442316,0 -116.755106,49.440195,0 -116.756257,49.429563,0 -116.755465,49.428444,0 -116.753673,49.427559,0 -116.752909,49.424938,0 -116.754298,49.423587,0 -116.754945,49.421302,0 -116.754523,49.418825,0 -116.755165,49.415046,0 -116.753859,49.414321,0 -116.747703,49.413693,0 -116.74712,49.411984,0 -116.744133,49.409436,0 -116.742946,49.405883,0 -116.739765,49.404539,0 -116.738844,49.40361,0 -116.73691,49.400804,0 -116.737133,49.399076,0 -116.735505,49.395065,0 -116.735752,49.390575,0 -116.733485,49.389033,0 -116.73273,49.387416,0 -116.730661,49.38623,0 -116.726377,49.379208,0 -116.726073,49.377444,0 -116.728313,49.372772,0 -116.727239,49.371058,0 -116.727124,49.367032,0 -116.727164,49.359234,0 -116.728954,49.355959,0 -116.72815,49.352444,0 -116.724628,49.346564,0 -116.721843,49.345379,0 -116.721146,49.343813,0 -116.716891,49.341476,0 -116.712116,49.337867,0 -116.711699,49.3366,0 -116.710581,49.335852,0 -116.710211,49.333805,0 -116.706822,49.330698,0 -116.705757,49.330229,0 -116.703641,49.330942,0 -116.702294,49.330586,0 -116.698189,49.326811,0 -116.688281,49.320747,0 -116.685122,49.319415,0 -116.679258,49.314433,0 -116.674592,49.312007,0 -116.663021,49.302983,0 -116.6617,49.300395,0 -116.659422,49.298817,0 -116.657354,49.29536,0 -116.652474,49.290045,0 -116.652343,49.287445,0 -116.654109,49.284372,0 -116.651437,49.276954,0 -116.652234,49.274378,0 -116.649982,49.271975,0 -116.648079,49.266853,0 -116.648277,49.26534,0 -116.645673,49.260561,0 -116.639234,49.25681,0 -116.632285,49.254381,0 -116.627151,49.251982,0 -116.619576,49.241594,0 -116.611329,49.235478,0 -116.602987,49.22158,0 -116.600921,49.219357,0 -116.600343,49.216488,0 -116.596473,49.214498,0 -116.596236,49.212573,0 -116.591204,49.20928,0 -116.589559,49.205555,0 -116.579712,49.197171,0 -116.578658,49.190341,0 -116.5718,49.187859,0 -116.56887,49.185433,0 -116.563079,49.182435,0 -116.558676,49.181947,0 -116.551468,49.179722,0 -116.549151,49.178158,0 -116.540918,49.17656,0 -116.539889,49.175962,0 -116.540086,49.164765,0 -116.53893,49.160599,0 -116.539301,49.154833,0 -116.533796,49.147053,0 -116.532621,49.142401,0 -116.529789,49.136458,0 -116.525023,49.130055,0 -116.523622,49.126706,0 -116.523529,49.118598,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 16 (Yellowhead Highway). Slushy sections between Prince Rupert Ferry Terminal and Maintenance Boundary SA27 for 71.3 km (Prince Rupert). Compact snow. Last updated Tue Mar 10 at 10:37 AM PDT. (DBCRCON-246179)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_SNOW_PACKED&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Prince Rupert Ferry Terminal and Maintenance Boundary SA27 for 71.3 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince Rupert&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T10:37:40-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-246179
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-130.353918,54.297682,0 -130.35196,54.296177,0 -130.352449,54.293086,0 -130.348077,54.293672,0 -130.345118,54.294631,0 -130.33429,54.306447,0 -130.333903,54.308349,0 -130.321984,54.315677,0 -130.313667,54.310988,0 -130.307504,54.308825,0 -130.303674,54.308501,0 -130.300534,54.309075,0 -130.298396,54.310043,0 -130.294846,54.313338,0 -130.288209,54.315681,0 -130.283287,54.319478,0 -130.280516,54.32008,0 -130.274523,54.319753,0 -130.272572,54.318877,0 -130.271634,54.317579,0 -130.269753,54.309314,0 -130.268479,54.306445,0 -130.268114,54.301127,0 -130.272569,54.293373,0 -130.273633,54.285948,0 -130.271026,54.282214,0 -130.270571,54.278124,0 -130.27395,54.269992,0 -130.271505,54.264596,0 -130.265052,54.258223,0 -130.259445,54.255117,0 -130.258474,54.252967,0 -130.257335,54.252245,0 -130.255925,54.252169,0 -130.236795,54.256078,0 -130.23254,54.25602,0 -130.207968,54.250264,0 -130.194578,54.242627,0 -130.191349,54.241497,0 -130.187847,54.241374,0 -130.183115,54.241966,0 -130.174449,54.244752,0 -130.170708,54.245029,0 -130.167911,54.244325,0 -130.164598,54.241303,0 -130.162813,54.240381,0 -130.14587,54.237466,0 -130.142923,54.237579,0 -130.136591,54.239227,0 -130.131209,54.240053,0 -130.123622,54.242639,0 -130.118129,54.242829,0 -130.114657,54.241614,0 -130.108397,54.237313,0 -130.103301,54.235538,0 -130.098392,54.232983,0 -130.080054,54.229717,0 -130.070462,54.229263,0 -130.066504,54.2299,0 -130.064167,54.231423,0 -130.063055,54.234132,0 -130.061672,54.235646,0 -130.056967,54.23758,0 -130.046627,54.239043,0 -130.037335,54.238714,0 -130.034584,54.237671,0 -130.031293,54.233711,0 -130.030858,54.229986,0 -130.029427,54.227556,0 -130.027797,54.226225,0 -130.023037,54.224305,0 -130.017621,54.221035,0 -130.015024,54.220169,0 -130.006072,54.218441,0 -130.003555,54.218436,0 -129.997466,54.219485,0 -129.993889,54.218937,0 -129.987222,54.212108,0 -129.976854,54.205568,0 -129.972756,54.202232,0 -129.969522,54.201268,0 -129.955483,54.201787,0 -129.944616,54.203544,0 -129.936581,54.206344,0 -129.928245,54.210842,0 -129.923056,54.214312,0 -129.908318,54.216264,0 -129.901636,54.219003,0 -129.89706,54.220268,0 -129.891944,54.223353,0 -129.884288,54.224946,0 -129.872103,54.232916,0 -129.868136,54.234851,0 -129.860907,54.236863,0 -129.851568,54.237546,0 -129.822379,54.236162,0 -129.815085,54.23525,0 -129.794601,54.228967,0 -129.781928,54.223423,0 -129.767201,54.220378,0 -129.761725,54.219915,0 -129.751091,54.220211,0 -129.745127,54.219886,0 -129.73026,54.218134,0 -129.719894,54.216443,0 -129.713739,54.216024,0 -129.691327,54.212234,0 -129.676573,54.206705,0 -129.649769,54.189233,0 -129.64536,54.187989,0 -129.639542,54.187159,0 -129.623227,54.187046,0 -129.619929,54.187722,0 -129.610622,54.191759,0 -129.60343,54.196346,0 -129.596345,54.198773,0 -129.588257,54.203991,0 -129.58697,54.205457,0 -129.585035,54.210901,0 -129.584445,54.216242,0 -129.582852,54.218365,0 -129.579714,54.220678,0 -129.575156,54.222675,0 -129.571874,54.223548,0 -129.556111,54.225456,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Ocean View Dr. Watch for slippery sections between the start of Ocean View Dr and Queen Charlotte Mainline for 7.5 km (Skidegate to Queen Charlotte). Compact snow. Last updated Tue Mar 10 at 10:37 AM PDT. (DBCRCON-245868)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Ocean View Dr&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between the start of Ocean View Dr and Queen Charlotte Mainline for 7.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Queen Charlotte to Skidegate&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T10:37:40-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-245868
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-132.009534,53.247209,0 -132.011081,53.247689,0 -132.012751,53.24751,0 -132.013849,53.24677,0 -132.014721,53.244216,0 -132.016234,53.243779,0 -132.018607,53.243861,0 -132.023097,53.245662,0 -132.027602,53.249446,0 -132.028985,53.250035,0 -132.048257,53.252573,0 -132.053653,53.252828,0 -132.058559,53.251902,0 -132.066321,53.254321,0 -132.078071,53.254932,0 -132.090445,53.254854,0 -132.095986,53.254146,0 -132.100862,53.254693,0 -132.104532,53.253903,0 -132.110017,53.253777,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -7476,7 +7529,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (on Haida Gwaii). Watch for slippery sections between Old Beach Rd and Skidgate Ferry Terminal for 102.1 km (Masset to Skidegate). Compact snow. Last updated Tue Mar 10 at 6:59 AM PDT. (DBCRCON-245867)</name>
+          <name>Highway 16 (on Haida Gwaii). Watch for slippery sections between Old Beach Rd and Skidgate Ferry Terminal for 102.1 km (Masset to Skidegate). Compact snow. Last updated Tue Mar 10 at 10:37 AM PDT. (DBCRCON-245867)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -7488,7 +7541,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
     &lt;b&gt;Location:&lt;/b&gt; Between Old Beach Rd and Skidgate Ferry Terminal for 102.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Skidegate to Masset&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T06:59:03-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T10:37:40-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7788,32 +7841,6 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Slushy sections between Prince Rupert Ferry Terminal and Maintenance Boundary SA27 for 71.3 km (Prince Rupert). Compact snow. Last updated Tue Mar 10 at 6:57 AM PDT. (DBCRCON-246179)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_SNOW_PACKED&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Prince Rupert Ferry Terminal and Maintenance Boundary SA27 for 71.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Prince Rupert&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T06:57:42-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-246179
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-130.353918,54.297682,0 -130.35196,54.296177,0 -130.352449,54.293086,0 -130.348077,54.293672,0 -130.345118,54.294631,0 -130.33429,54.306447,0 -130.333903,54.308349,0 -130.321984,54.315677,0 -130.313667,54.310988,0 -130.307504,54.308825,0 -130.303674,54.308501,0 -130.300534,54.309075,0 -130.298396,54.310043,0 -130.294846,54.313338,0 -130.288209,54.315681,0 -130.283287,54.319478,0 -130.280516,54.32008,0 -130.274523,54.319753,0 -130.272572,54.318877,0 -130.271634,54.317579,0 -130.269753,54.309314,0 -130.268479,54.306445,0 -130.268114,54.301127,0 -130.272569,54.293373,0 -130.273633,54.285948,0 -130.271026,54.282214,0 -130.270571,54.278124,0 -130.27395,54.269992,0 -130.271505,54.264596,0 -130.265052,54.258223,0 -130.259445,54.255117,0 -130.258474,54.252967,0 -130.257335,54.252245,0 -130.255925,54.252169,0 -130.236795,54.256078,0 -130.23254,54.25602,0 -130.207968,54.250264,0 -130.194578,54.242627,0 -130.191349,54.241497,0 -130.187847,54.241374,0 -130.183115,54.241966,0 -130.174449,54.244752,0 -130.170708,54.245029,0 -130.167911,54.244325,0 -130.164598,54.241303,0 -130.162813,54.240381,0 -130.14587,54.237466,0 -130.142923,54.237579,0 -130.136591,54.239227,0 -130.131209,54.240053,0 -130.123622,54.242639,0 -130.118129,54.242829,0 -130.114657,54.241614,0 -130.108397,54.237313,0 -130.103301,54.235538,0 -130.098392,54.232983,0 -130.080054,54.229717,0 -130.070462,54.229263,0 -130.066504,54.2299,0 -130.064167,54.231423,0 -130.063055,54.234132,0 -130.061672,54.235646,0 -130.056967,54.23758,0 -130.046627,54.239043,0 -130.037335,54.238714,0 -130.034584,54.237671,0 -130.031293,54.233711,0 -130.030858,54.229986,0 -130.029427,54.227556,0 -130.027797,54.226225,0 -130.023037,54.224305,0 -130.017621,54.221035,0 -130.015024,54.220169,0 -130.006072,54.218441,0 -130.003555,54.218436,0 -129.997466,54.219485,0 -129.993889,54.218937,0 -129.987222,54.212108,0 -129.976854,54.205568,0 -129.972756,54.202232,0 -129.969522,54.201268,0 -129.955483,54.201787,0 -129.944616,54.203544,0 -129.936581,54.206344,0 -129.928245,54.210842,0 -129.923056,54.214312,0 -129.908318,54.216264,0 -129.901636,54.219003,0 -129.89706,54.220268,0 -129.891944,54.223353,0 -129.884288,54.224946,0 -129.872103,54.232916,0 -129.868136,54.234851,0 -129.860907,54.236863,0 -129.851568,54.237546,0 -129.822379,54.236162,0 -129.815085,54.23525,0 -129.794601,54.228967,0 -129.781928,54.223423,0 -129.767201,54.220378,0 -129.761725,54.219915,0 -129.751091,54.220211,0 -129.745127,54.219886,0 -129.73026,54.218134,0 -129.719894,54.216443,0 -129.713739,54.216024,0 -129.691327,54.212234,0 -129.676573,54.206705,0 -129.649769,54.189233,0 -129.64536,54.187989,0 -129.639542,54.187159,0 -129.623227,54.187046,0 -129.619929,54.187722,0 -129.610622,54.191759,0 -129.60343,54.196346,0 -129.596345,54.198773,0 -129.588257,54.203991,0 -129.58697,54.205457,0 -129.585035,54.210901,0 -129.584445,54.216242,0 -129.582852,54.218365,0 -129.579714,54.220678,0 -129.575156,54.222675,0 -129.571874,54.223548,0 -129.556111,54.225456,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Nisga'a Hwy (Highway 113). Watch for slippery sections between Broad St and Highway 16 for 168.5 km (Gingolx to Terrace). Compact snow. Last updated Tue Mar 10 at 6:57 AM PDT. (DBCRCON-246110)</name>
           <description>
     &lt;![CDATA[
@@ -7915,32 +7942,6 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-116.964255,50.243817,0 -116.963609,50.248808,0 -116.965679,50.252168,0 -116.969503,50.262561,0 -116.970189,50.268862,0 -116.968417,50.273542,0 -116.966418,50.274524,0 -116.964778,50.276582,0 -116.965659,50.285407,0 -116.964394,50.292665,0 -116.970355,50.303501,0 -116.977996,50.31142,0 -116.98051,50.314776,0 -116.981338,50.317302,0 -116.988347,50.325202,0 -116.990824,50.329166,0 -116.998729,50.33687,0 -117.013437,50.34077,0 -117.017799,50.342502,0 -117.018692,50.343459,0 -117.019371,50.346413,0 -117.025399,50.350643,0 -117.027608,50.351253,0 -117.031222,50.354306,0 -117.034588,50.355749,0 -117.051274,50.370073,0 -117.06769,50.379172,0 -117.072524,50.384786,0 -117.077816,50.387872,0 -117.079381,50.388081,0 -117.081284,50.387549,0 -117.085234,50.389095,0 -117.086192,50.389994,0 -117.086505,50.39217,0 -117.090576,50.394829,0 -117.094142,50.398378,0 -117.096395,50.398961,0 -117.104692,50.399672,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Ocean View Dr. Watch for slippery sections between the start of Ocean View Dr and Queen Charlotte Mainline for 7.5 km (Skidegate to Queen Charlotte). Compact snow. Last updated Tue Mar 10 at 6:59 AM PDT. (DBCRCON-245868)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Ocean View Dr&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Ocean View Dr and Queen Charlotte Mainline for 7.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Queen Charlotte to Skidegate&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T06:59:03-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-245868
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-132.009534,53.247209,0 -132.011081,53.247689,0 -132.012751,53.24751,0 -132.013849,53.24677,0 -132.014721,53.244216,0 -132.016234,53.243779,0 -132.018607,53.243861,0 -132.023097,53.245662,0 -132.027602,53.249446,0 -132.028985,53.250035,0 -132.048257,53.252573,0 -132.053653,53.252828,0 -132.058559,53.251902,0 -132.066321,53.254321,0 -132.078071,53.254932,0 -132.090445,53.254854,0 -132.095986,53.254146,0 -132.100862,53.254693,0 -132.104532,53.253903,0 -132.110017,53.253777,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -8803,6 +8804,32 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.916826,49.307935,0 -121.915338,49.309364,0 -121.916657,49.308886,0 -121.918952,49.308958,0 -121.916725,49.31017,0 -121.915802,49.311944,0 -121.914704,49.312409,0 -121.912762,49.311448,0 -121.913455,49.313105,0 -121.912603,49.313872,0 -121.911276,49.313702,0 -121.911576,49.312921,0 -121.909725,49.313515,0 -121.911664,49.315535,0 -121.91145,49.31614,0 -121.913706,49.315772,0 -121.913854,49.316072,0 -121.909245,49.317413,0 -121.90614,49.319168,0 -121.906235,49.320139,0 -121.904141,49.320267,0 -121.903954,49.321007,0 -121.905678,49.324317,0 -121.904499,49.325089,0 -121.902439,49.329257,0 -121.902229,49.33156,0 -121.899073,49.336457,0 -121.903027,49.34157,0 -121.902146,49.34701,0 -121.903,49.347033,0 -121.903262,49.346027,0 -121.905369,49.344619,0 -121.906066,49.347961,0 -121.90815,49.348109,0 -121.91205,49.34947,0 -121.916184,49.352323,0 -121.916086,49.354909,0 -121.91888,49.359564,0 -121.914464,49.358696,0 -121.9109,49.357007,0 -121.913261,49.359291,0 -121.920046,49.363218,0 -121.921066,49.362658,0 -121.922067,49.363094,0 -121.922079,49.364259,0 -121.919091,49.365951,0 -121.918751,49.367492,0 -121.922269,49.371195,0 -121.925514,49.372847,0 -121.926967,49.377406,0 -121.928258,49.377958,0 -121.930477,49.377614,0 -121.932993,49.378037,0 -121.935577,49.379524,0 -121.935244,49.379742,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 4, in both directions. Weather advisory in effect between Tofino-Ucluelet Hwy and Rupert Rd W for 126.0 km (1 km east of Southern Boundary of Pacific Rim National Park to 3 km west of Qualicum Beach). Winter driving conditions. Drive with extra caution and ensure you have the proper tires. Next update time Tue Mar 10 at 3:00 PM PDT. Last updated Tue Mar 10 at 10:21 AM PDT. (DBC-88454)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 4&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Tofino-Ucluelet Hwy and Rupert Rd W for 126.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 km west of Qualicum Beach to 1 km east of Southern Boundary of Pacific Rim National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T10:21:04-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-10T15:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88454
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-125.587791,48.992173,0 -125.584709,48.994412,0 -125.582457,48.995242,0 -125.581669,48.996653,0 -125.574328,49.003058,0 -125.57145,49.004912,0 -125.568337,49.009391,0 -125.570466,49.012563,0 -125.571829,49.013401,0 -125.570581,49.015112,0 -125.554943,49.018274,0 -125.551047,49.020693,0 -125.546514,49.021348,0 -125.542342,49.024148,0 -125.539432,49.028487,0 -125.538671,49.031145,0 -125.541033,49.034814,0 -125.540595,49.035481,0 -125.534346,49.038264,0 -125.531107,49.038981,0 -125.528935,49.040437,0 -125.519385,49.041497,0 -125.507059,49.044384,0 -125.502496,49.046464,0 -125.498929,49.047263,0 -125.49179,49.047801,0 -125.489205,49.048662,0 -125.487711,49.049978,0 -125.482397,49.051918,0 -125.48106,49.053734,0 -125.479047,49.054681,0 -125.475959,49.060777,0 -125.474461,49.062345,0 -125.46801,49.064963,0 -125.467199,49.069572,0 -125.469317,49.076463,0 -125.465225,49.079245,0 -125.464642,49.082831,0 -125.460885,49.081575,0 -125.457207,49.082642,0 -125.456927,49.08357,0 -125.457949,49.085765,0 -125.456585,49.090133,0 -125.455995,49.090548,0 -125.453846,49.090033,0 -125.452825,49.090515,0 -125.452284,49.094808,0 -125.450946,49.096827,0 -125.453585,49.103619,0 -125.457087,49.106439,0 -125.454317,49.108619,0 -125.452912,49.110774,0 -125.45303,49.11209,0 -125.449742,49.112614,0 -125.449733,49.114182,0 -125.445025,49.115027,0 -125.437236,49.113035,0 -125.437264,49.114147,0 -125.439851,49.115006,0 -125.440032,49.116097,0 -125.436256,49.117167,0 -125.435716,49.119481,0 -125.433751,49.120412,0 -125.431921,49.121017,0 -125.428342,49.120901,0 -125.425466,49.122308,0 -125.424981,49.124673,0 -125.427624,49.128653,0 -125.419137,49.129641,0 -125.416654,49.131186,0 -125.416238,49.134515,0 -125.41864,49.139033,0 -125.417842,49.144882,0 -125.42251,49.15032,0 -125.421162,49.152655,0 -125.421369,49.155756,0 -125.419741,49.159052,0 -125.41197,49.161758,0 -125.406965,49.165271,0 -125.403495,49.166478,0 -125.399513,49.170108,0 -125.395638,49.178259,0 -125.397187,49.180031,0 -125.397417,49.183297,0 -125.402253,49.18703,0 -125.402501,49.190837,0 -125.400961,49.192032,0 -125.398499,49.192955,0 -125.393331,49.19325,0 -125.391052,49.19389,0 -125.383992,49.198633,0 -125.380666,49.199767,0 -125.375133,49.204937,0 -125.375755,49.207727,0 -125.373713,49.208864,0 -125.367232,49.214558,0 -125.367584,49.215648,0 -125.370116,49.21737,0 -125.370036,49.218762,0 -125.368534,49.220707,0 -125.364988,49.222581,0 -125.363653,49.227116,0 -125.359501,49.230475,0 -125.358761,49.233796,0 -125.355807,49.238,0 -125.359517,49.242271,0 -125.365514,49.243112,0 -125.368867,49.244815,0 -125.370587,49.246306,0 -125.370885,49.248307,0 -125.36959,49.250506,0 -125.371044,49.253778,0 -125.371209,49.255915,0 -125.370122,49.25988,0 -125.370835,49.26294,0 -125.367021,49.265799,0 -125.364513,49.271331,0 -125.364249,49.274547,0 -125.360423,49.275703,0 -125.357679,49.278693,0 -125.347892,49.283189,0 -125.348032,49.285403,0 -125.345862,49.286601,0 -125.344572,49.288943,0 -125.342317,49.290672,0 -125.335497,49.291101,0 -125.328814,49.292383,0 -125.31263,49.291228,0 -125.301788,49.292449,0 -125.296682,49.294961,0 -125.294537,49.298259,0 -125.29189,49.299037,0 -125.284928,49.29733,0 -125.271888,49.295096,0 -125.266384,49.294659,0 -125.26393,49.293775,0 -125.250542,49.291933,0 -125.233926,49.288797,0 -125.222023,49.290794,0 -125.215819,49.28988,0 -125.210183,49.289996,0 -125.204025,49.288806,0 -125.192146,49.288872,0 -125.183208,49.285174,0 -125.178302,49.28095,0 -125.1694,49.278575,0 -125.163877,49.278387,0 -125.152232,49.279135,0 -125.146279,49.280248,0 -125.131781,49.278129,0 -125.126836,49.27914,0 -125.116498,49.278798,0 -125.114001,49.279397,0 -125.110967,49.281718,0 -125.105856,49.283281,0 -125.098927,49.283568,0 -125.086803,49.280513,0 -125.082155,49.279786,0 -125.07677,49.279343,0 -125.071424,49.279986,0 -125.066469,49.279313,0 -125.0614,49.278395,0 -125.05199,49.274964,0 -125.042846,49.274036,0 -125.039417,49.274653,0 -125.033448,49.27919,0 -125.031813,49.279644,0 -125.023374,49.279986,0 -125.021252,49.280944,0 -125.018744,49.283099,0 -125.017137,49.283606,0 -125.008457,49.283777,0 -125.001755,49.282717,0 -124.998173,49.281447,0 -124.991567,49.280024,0 -124.988698,49.279844,0 -124.979596,49.283906,0 -124.97612,49.286191,0 -124.96801,49.287052,0 -124.957061,49.290896,0 -124.947631,49.295407,0 -124.943248,49.295721,0 -124.933172,49.295091,0 -124.927258,49.296329,0 -124.925965,49.29592,0 -124.923761,49.293835,0 -124.922065,49.293228,0 -124.90902,49.293283,0 -124.903209,49.289364,0 -124.897389,49.287634,0 -124.893382,49.282022,0 -124.886746,49.278234,0 -124.874937,49.27338,0 -124.87275,49.270864,0 -124.870907,49.269712,0 -124.863847,49.268849,0 -124.856377,49.269054,0 -124.853201,49.266602,0 -124.850713,49.266855,0 -124.848353,49.268163,0 -124.845689,49.267936,0 -124.835321,49.262782,0 -124.827672,49.26104,0 -124.816354,49.259517,0 -124.813567,49.257465,0 -124.801003,49.26231,0 -124.787487,49.265909,0 -124.777309,49.266552,0 -124.766629,49.266418,0 -124.757215,49.264339,0 -124.747749,49.265812,0 -124.743534,49.264815,0 -124.733414,49.266649,0 -124.732,49.266147,0 -124.730305,49.264417,0 -124.728113,49.263721,0 -124.722563,49.265069,0 -124.715233,49.264678,0 -124.712037,49.26001,0 -124.71153,49.257105,0 -124.707251,49.251654,0 -124.705299,49.250929,0 -124.695918,49.249477,0 -124.687067,49.245887,0 -124.685392,49.24571,0 -124.679355,49.247332,0 -124.676126,49.247485,0 -124.671305,49.248753,0 -124.667474,49.248745,0 -124.662367,49.247591,0 -124.660829,49.248449,0 -124.660693,49.251135,0 -124.671219,49.260432,0 -124.673759,49.265082,0 -124.673548,49.267914,0 -124.675649,49.270932,0 -124.674829,49.273878,0 -124.675196,49.282729,0 -124.668079,49.28925,0 -124.663497,49.291067,0 -124.660451,49.291547,0 -124.658083,49.291362,0 -124.653346,49.290411,0 -124.644636,49.289887,0 -124.631263,49.287893,0 -124.628567,49.288069,0 -124.621591,49.289708,0 -124.618704,49.289474,0 -124.616234,49.287986,0 -124.61053,49.288983,0 -124.601429,49.286933,0 -124.596317,49.287465,0 -124.592868,49.285735,0 -124.590512,49.285482,0 -124.587875,49.286158,0 -124.584254,49.288589,0 -124.578203,49.288913,0 -124.573336,49.292757,0 -124.566255,49.293822,0 -124.562612,49.295333,0 -124.559736,49.297455,0 -124.558184,49.300009,0 -124.554568,49.302725,0 -124.543774,49.307993,0 -124.537863,49.309726,0 -124.530587,49.311076,0 -124.524432,49.3108,0 -124.511878,49.312471,0 -124.503227,49.311402,0 -124.495786,49.309752,0 -124.487708,49.306482,0 -124.473543,49.306227,0 -124.458098,49.303377,0 -124.45439,49.303589,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
