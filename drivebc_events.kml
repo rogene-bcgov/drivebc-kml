@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-14 16:04:38 UTC
+        Last updated: 2026-03-14 16:42:08 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -6548,6 +6548,31 @@ During active cable stay snow cle</name>
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, northbound. Vehicle incident at Exit 36: Westminster Hwy (Richmond). Watch for traffic control. The left turn lanes on to Westminster Highway are being blocked after an earlier vehicle incident took out the traffic lights. Keep right on the exit ramp. Next update time Sat Mar 14 at 11:00 AM PDT. Last updated Sat Mar 14 at 9:25 AM PDT. (DBC-88640)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 36: Westminster Hwy&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-14T09:25:33-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-14T11:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88640
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-123.086899,49.170362,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Cave Road, in both directions. Landslide at Cave Road. Road closed. Landslide on Cave Road. Next update time Wed Apr 8, 2026 at 10:00 AM PDT. Last updated Wed Apr 9 at 10:42 PM PDT. (DBC-67913)</name>
           <description>
     &lt;![CDATA[
@@ -6803,32 +6828,6 @@ During active cable stay snow cle</name>
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-117.141373,49.037791,0 -117.141141,49.038679,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 5 (Coquihalla South). Commercial chain up in effect between Exit 202: Portia and Exit 217: Zopkios Brake Check for 0.1 km (2 km south of Great Bear Snowshed).</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CHAIN_UP&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 202: Portia and Exit 217: Zopkios Brake Check&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 2 km south of Great Bear Snowshed&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-14T06:46:52-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCCNUP-246885
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CHAIN_UP</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.180268,49.574926,0 -121.179513,49.575614,0 -121.179464,49.575658,0</coordinates>
           </LineString>
         </Placemark>
       </Folder>
