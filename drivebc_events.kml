@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-14 15:05:19 UTC
+        Last updated: 2026-03-14 15:39:13 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (376)</name>
+      <name>🚗 Traffic Events (379)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -5183,6 +5183,58 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 93. Winter driving conditions between BC/US Border and Mission Ft Steele Rd for 36.7 km (British Columbia and Montana Border to 25 km north of Grasmere). Compact snow. Slushy with slippery sections. Snowing. Last updated Sat Mar 14 at 9:07 AM MDT. (DBCRCON-246901)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 93&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between BC/US Border and Mission Ft Steele Rd for 36.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 25 km north of Grasmere to British Columbia and Montana Border&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-14T08:07:40-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-246901
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.055859,48.999825,0 -115.047423,49.014112,0 -115.04583,49.020878,0 -115.046098,49.023984,0 -115.048197,49.027668,0 -115.056473,49.034671,0 -115.05932,49.039102,0 -115.063233,49.050273,0 -115.08527,49.102526,0 -115.098075,49.140774,0 -115.101404,49.143791,0 -115.13262,49.161875,0 -115.136433,49.163288,0 -115.155319,49.168225,0 -115.158266,49.169458,0 -115.16036,49.171022,0 -115.169609,49.181986,0 -115.171142,49.184909,0 -115.170965,49.187671,0 -115.167197,49.197376,0 -115.166698,49.201914,0 -115.167209,49.207238,0 -115.166101,49.210211,0 -115.143968,49.228617,0 -115.140066,49.232938,0 -115.136931,49.238341,0 -115.125576,49.293769,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 3 (Crowsnest Highway). Winter driving conditions between Bull Rd and 4th St for 58.6 km (9 km west of Jaffray to Fernie). Compact snow. Slushy with slippery sections. Snowing. Last updated Sat Mar 14 at 9:07 AM MDT. (DBCRCON-246900)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Bull Rd and 4th St for 58.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Fernie to 9 km west of Jaffray&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-14T08:07:40-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-246900
+    ]]&gt;
+    </description>
+          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-115.402231,49.421821,0 -115.389467,49.413471,0 -115.38403,49.409176,0 -115.371636,49.40179,0 -115.358388,49.396825,0 -115.348653,49.395184,0 -115.340651,49.39485,0 -115.337763,49.394086,0 -115.328304,49.389855,0 -115.318817,49.386325,0 -115.30847,49.378215,0 -115.30497,49.376537,0 -115.29955,49.376198,0 -115.291349,49.378173,0 -115.278157,49.379681,0 -115.273965,49.378493,0 -115.265826,49.372369,0 -115.258951,49.369987,0 -115.255542,49.369743,0 -115.24481,49.370617,0 -115.240427,49.371985,0 -115.233014,49.372781,0 -115.229373,49.372574,0 -115.225614,49.371487,0 -115.222643,49.369682,0 -115.19955,49.350019,0 -115.160449,49.299789,0 -115.150287,49.291986,0 -115.145615,49.290442,0 -115.136708,49.29036,0 -115.129808,49.293129,0 -115.116498,49.294999,0 -115.114957,49.296184,0 -115.115913,49.300117,0 -115.114855,49.301758,0 -115.113715,49.30241,0 -115.107489,49.303747,0 -115.102337,49.306505,0 -115.095794,49.307079,0 -115.087276,49.308875,0 -115.080975,49.310494,0 -115.07535,49.312912,0 -115.066627,49.313226,0 -115.061855,49.311503,0 -115.060095,49.311361,0 -115.057785,49.311987,0 -115.054386,49.311964,0 -115.051184,49.313106,0 -115.044318,49.31399,0 -115.036833,49.316859,0 -115.032303,49.32101,0 -115.02677,49.323887,0 -115.019415,49.329866,0 -115.017721,49.332152,0 -115.016332,49.337474,0 -115.013412,49.341001,0 -115.013118,49.345106,0 -115.010345,49.348442,0 -115.011786,49.351281,0 -115.011834,49.353422,0 -115.010955,49.355508,0 -115.012299,49.357523,0 -115.013209,49.360771,0 -115.013819,49.3668,0 -115.017323,49.371485,0 -115.016702,49.377541,0 -115.021453,49.384253,0 -115.02392,49.397782,0 -115.025044,49.400406,0 -115.028331,49.4042,0 -115.038621,49.411691,0 -115.040177,49.414214,0 -115.041726,49.419129,0 -115.047103,49.422393,0 -115.051699,49.427369,0 -115.053488,49.429919,0 -115.054333,49.433158,0 -115.061785,49.447056,0 -115.06714,49.452172,0 -115.070803,49.45702,0 -115.075572,49.469074,0 -115.075501,49.471433,0 -115.072949,49.47488,0 -115.072532,49.476745,0 -115.080852,49.49072,0 -115.080725,49.496815,0 -115.078878,49.499114,0 -115.070151,49.503965,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 21. Snowing between Porthill Rd and Junction Hwy 3 for 14.3 km (British Columbia and Idaho Border to 3 km north of Creston). Last updated Sat Mar 14 at 6:41 AM PDT. (DBCRCON-246872)</name>
           <description>
     &lt;![CDATA[
@@ -6495,6 +6547,32 @@ During active cable stay snow cle</name>
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 37A, in both directions. Vehicle recovery planned between Surprise Pullout/Windy Chain Up and Meziadin Maintenance Yard for 8.4 km (13 to 5 km west of Meziadin). Starting Sat Mar 14 at 10:00 AM PDT until Sat Mar 14 at 2:00 PM PDT. Single lane alternating traffic will be in effect. Expect minor delays. Watch for crews and equipment working. Last updated Sat Mar 14 at 8:30 AM PDT. (DBC-88639)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 37A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Surprise Pullout/Windy Chain Up and Meziadin Maintenance Yard for 8.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 5 to 13 km west of Meziadin&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-14T08:30:09-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88639
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-129.482441,56.092182,0 -129.472839,56.092742,0 -129.471147,56.092841,0 -129.470548,56.092875,0 -129.469974,56.092909,0 -129.467879,56.093031,0 -129.467075,56.093179,0 -129.467018,56.09319,0 -129.466428,56.093381,0 -129.465874,56.093658,0 -129.465463,56.093967,0 -129.465058,56.094467,0 -129.464967,56.095018,0 -129.465904,56.100348,0 -129.465881,56.100622,0 -129.465557,56.101353,0 -129.462293,56.106777,0 -129.462281,56.106792,0 -129.461897,56.107286,0 -129.461404,56.107671,0 -129.460691,56.10799,0 -129.459806,56.10819,0 -129.458823,56.108275,0 -129.455695,56.108049,0 -129.454983,56.108095,0 -129.454341,56.108249,0 -129.4537,56.108565,0 -129.452127,56.110086,0 -129.451292,56.110609,0 -129.450568,56.11092,0 -129.44981,56.111177,0 -129.446498,56.112028,0 -129.44561,56.112233,0 -129.444712,56.112347,0 -129.443872,56.112377,0 -129.443228,56.112354,0 -129.442559,56.112263,0 -129.435398,56.110558,0 -129.434469,56.110414,0 -129.433602,56.110405,0 -129.432789,56.11051,0 -129.432092,56.110731,0 -129.431516,56.111056,0 -129.430197,56.112219,0 -129.429951,56.112358,0 -129.42975,56.112472,0 -129.429104,56.112743,0 -129.428372,56.112941,0 -129.42739,56.11304,0 -129.426557,56.113002,0 -129.426193,56.112945,0 -129.425679,56.112864,0 -129.416418,56.110312,0 -129.407398,56.107775,0 -129.405674,56.107425,0 -129.404655,56.107346,0 -129.403335,56.107375,0 -129.384693,56.109133,0 -129.38383,56.109185,0 -129.38318,56.109162,0 -129.382618,56.109093,0 -129.381934,56.108933,0 -129.378763,56.107961,0 -129.378588,56.107907,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Cave Road, in both directions. Landslide at Cave Road. Road closed. Landslide on Cave Road. Next update time Wed Apr 8, 2026 at 10:00 AM PDT. Last updated Wed Apr 9 at 10:42 PM PDT. (DBC-67913)</name>
           <description>
     &lt;![CDATA[
@@ -7042,19 +7120,19 @@ During active cable stay snow cle</name>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97 (Alaska Highway). Compact snow between 230 Rd and Taylor Bridge for 8.7 km (Taylor). Watch for slippery sections. Last updated Sat Mar 14 at 6:42 AM MST. (DBC-88635)</name>
+          <name>Highway 97 (Alaska Highway), in both directions. Compact snow between 230 Rd and Taylor Bridge for 8.7 km (Taylor). Watch for slippery sections. Last updated Sat Mar 14 at 8:30 AM MST. (DBC-88635)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
     &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
     &lt;b&gt;Sub Type:&lt;/b&gt; SNOW_PACKED&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
     &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
     &lt;b&gt;Location:&lt;/b&gt; Between 230 Rd and Taylor Bridge for 8.7 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Taylor&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-14T06:42:55-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-14T08:30:47-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
