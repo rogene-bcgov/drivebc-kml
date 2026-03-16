@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-16 17:20:30 UTC
+        Last updated: 2026-03-16 17:48:16 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (387)</name>
+      <name>🚗 Traffic Events (388)</name>
       <Folder>
         <name>Road Condition Events</name>
         <Placemark>
@@ -4761,6 +4761,84 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 11, northbound. Utility work between Old Clayburn Rd and Cedar Valley Conn for 11.0 km (Abbotsford to Mission). Until Mon Mar 16 at 3:30 PM PDT. Left lane is blocked. Last updated Mon Mar 16 at 10:19 AM PDT. (DBC-88720)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 11&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Old Clayburn Rd and Cedar Valley Conn for 11.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission to Abbotsford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T10:19:07-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88720
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.273152,49.055706,0 -122.273897,49.056268,0 -122.275212,49.057013,0 -122.276001,49.057362,0 -122.276299,49.057494,0 -122.276431,49.057553,0 -122.27727,49.057842,0 -122.278237,49.058119,0 -122.279373,49.058378,0 -122.281208,49.058614,0 -122.282221,49.058667,0 -122.282931,49.058672,0 -122.285984,49.058696,0 -122.286381,49.058699,0 -122.286504,49.0587,0 -122.2865,49.058932,0 -122.286411,49.059021,0 -122.286345,49.060038,0 -122.286343,49.060116,0 -122.286293,49.061835,0 -122.286256,49.063098,0 -122.286244,49.063584,0 -122.286241,49.06369,0 -122.28622,49.064246,0 -122.286147,49.066107,0 -122.286042,49.06909,0 -122.285977,49.07081,0 -122.285941,49.071775,0 -122.285507,49.074338,0 -122.285442,49.074716,0 -122.285384,49.075041,0 -122.28488,49.077864,0 -122.284724,49.07919,0 -122.284772,49.080806,0 -122.284924,49.081356,0 -122.285058,49.081857,0 -122.285167,49.082251,0 -122.285876,49.084819,0 -122.286731,49.089065,0 -122.286759,49.089201,0 -122.286792,49.089365,0 -122.288215,49.096481,0 -122.288451,49.097659,0 -122.28898,49.10014,0 -122.289685,49.103438,0 -122.28975,49.103746,0 -122.289757,49.103778,0 -122.289817,49.104083,0 -122.289967,49.104852,0 -122.290445,49.1073,0 -122.290441,49.107662,0 -122.290377,49.108169,0 -122.290225,49.108754,0 -122.290217,49.108783,0 -122.29014,49.10894,0 -122.290046,49.109129,0 -122.289957,49.109309,0 -122.288974,49.110896,0 -122.288918,49.110998,0 -122.288822,49.111174,0 -122.288743,49.111344,0 -122.288699,49.111501,0 -122.28865,49.111677,0 -122.288608,49.112086,0 -122.288639,49.112594,0 -122.288745,49.113039,0 -122.288879,49.113387,0 -122.288999,49.113576,0 -122.28914,49.113799,0 -122.289421,49.114145,0 -122.289929,49.114595,0 -122.290412,49.114935,0 -122.292192,49.115947,0 -122.292655,49.11621,0 -122.292809,49.116298,0 -122.293258,49.116553,0 -122.293905,49.116921,0 -122.294319,49.117156,0 -122.294604,49.117316,0 -122.297919,49.119182,0 -122.298705,49.119624,0 -122.299418,49.120026,0 -122.301083,49.120962,0 -122.301741,49.12133,0 -122.302057,49.121509,0 -122.302336,49.121666,0 -122.305399,49.123376,0 -122.308701,49.125249,0 -122.308884,49.125351,0 -122.309178,49.125521,0 -122.311131,49.126648,0 -122.311499,49.126861,0 -122.312528,49.127414,0 -122.31278,49.127549,0 -122.31329,49.127784,0 -122.313346,49.127807,0 -122.313816,49.127973,0 -122.314199,49.128108,0 -122.315022,49.128302,0 -122.315888,49.128445,0 -122.317279,49.128529,0 -122.317481,49.128523,0 -122.318887,49.128445,0 -122.32113,49.128274,0 -122.322671,49.128148,0 -122.323401,49.128178,0 -122.323437,49.128178,0 -122.323878,49.128236,0 -122.324074,49.128279,0 -122.324582,49.128466,0 -122.325014,49.128731,0 -122.325294,49.129002,0 -122.325511,49.129346,0 -122.325581,49.129669,0 -122.32576,49.130673,0 -122.325785,49.130817,0 -122.325809,49.130952,0 -122.325855,49.131205,0 -122.325857,49.13123,0 -122.325955,49.132368,0 -122.326007,49.132875,0 -122.326002,49.132996,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), westbound. Utility work between Nelson St and Silverdale Ave for 3.7 km (Mission). Until Mon Mar 16 at 3:30 PM PDT. Right lane closed. Last updated Mon Mar 16 at 10:21 AM PDT. (DBC-88721)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Silverdale Ave and Nelson St for 3.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Mission&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T10:21:34-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88721
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.401082,49.158271,0 -122.401049,49.158228,0 -122.40019,49.157366,0 -122.400096,49.157289,0 -122.400011,49.157219,0 -122.399477,49.156778,0 -122.399291,49.156705,0 -122.397051,49.155264,0 -122.395767,49.154483,0 -122.394538,49.153891,0 -122.390706,49.152313,0 -122.383608,49.14939,0 -122.382124,49.148789,0 -122.382047,49.148755,0 -122.381921,49.148699,0 -122.379814,49.147825,0 -122.375443,49.14603,0 -122.371086,49.144239,0 -122.370799,49.144122,0 -122.367468,49.142725,0 -122.367359,49.142615,0 -122.36057,49.139777,0 -122.360475,49.139737,0 -122.360174,49.139598,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 15 (Pacific Highway), southbound. Utility work between 176 St and 48 Ave for 0.4 km (Surrey). Until Mon Mar 16 at 5:00 PM PDT. Shoulder closed. Last updated Mon Mar 16 at 10:21 AM PDT. (DBC-88722)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 48 Ave and 176 St for 0.4 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T10:21:59-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88722
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.735059,49.089583,0 -122.734993,49.095766,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Frayne Road. Utility work between Boompond Road and Partridge Road 1 km north of Mill Bay. Until Sat May 30. From 7:00 AM to 7:00 PM PST on weekdays. Single lane alternating traffic. Last updated Mon Jan 26 at 1:45 PM PST. (DBC-86563)</name>
           <description>
     &lt;![CDATA[
@@ -7455,32 +7533,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), southbound. Maintenance between Exit 7 and Fielding Rd for 0.1 km (Nanaimo). Until Mon Mar 16 at 12:00 PM PDT. Shoulder closed. Watch for traffic control. Last updated Mon Mar 16 at 7:54 AM PDT. (DBC-88707)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Fielding Rd and Exit 7 for 0.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Nanaimo&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T09:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88707
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.897445,49.107032,0 -123.898798,49.107952,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Hwy 99 / Hwy 17. Utility work planned at Exit 13A (Burns Dr) in Delta. Starting Fri Mar 20 at 6:00 PM PST until Tue Apr 21 at 6:00 AM PST. From 6:00 PM to 6:00 AM PST daily. Watch for traffic control personnel. Exit 13A closed. Burns Dr closed north of Hwy 17 exit ramp to Hwy 99. Last updated Fri Feb 20 at 10:34 AM PST. (DBC-87611)</name>
           <description>
     &lt;![CDATA[
@@ -8203,7 +8255,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway), in both directions. Travel advisory in effect between Munroe St and Wakefield Rd for 237.0 km (Terrace to 16 km east of Telkwa). Rain on compact snow. Next update time Mon Mar 16 at 12:00 PM PDT. Last updated Mon Mar 16 at 10:04 AM PDT. (DBC-88713)</name>
+          <name>Highway 16 (Yellowhead Highway), in both directions. Travel advisory in effect between Munroe St and Wakefield Rd for 237.0 km (Terrace to 16 km east of Telkwa). Rain on compact snow. Avoid all non essential travel. Next update time Mon Mar 16 at 2:00 PM PDT. Last updated Mon Mar 16 at 10:45 AM PDT. (DBC-88713)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -8215,8 +8267,8 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
     &lt;b&gt;Location:&lt;/b&gt; Between Munroe St and Wakefield Rd for 237.0 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Telkwa to Terrace&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T10:04:49-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-16T12:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T10:45:19-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-16T14:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-88713
@@ -8637,31 +8689,6 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
             <tessellate>1</tessellate>
             <coordinates>-129.011584,54.407977,0 -129.009122,54.408604,0 -129.005689,54.409479,0 -129.005473,54.409533,0 -129.004886,54.409683,0 -129.002401,54.410316,0 -129.000024,54.410921,0 -128.999018,54.411177,0 -128.998607,54.411281,0 -128.998038,54.411426,0 -128.996914,54.411712,0 -128.996094,54.411864,0 -128.995117,54.411972,0 -128.994115,54.411992,0 -128.993057,54.411921,0 -128.989633,54.411316,0 -128.988887,54.411185,0 -128.987209,54.410958,0 -128.987019,54.410933,0 -128.98658,54.410904,0 -128.984557,54.410769,0 -128.982956,54.410699,0 -128.981969,54.410657,0 -128.98126,54.410626,0 -128.975489,54.410375,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 91, westbound. Road cleared between Exit 11: Westminster Hwy and Exit 15 (Richmond). Last updated Mon Mar 16 at 10:13 AM PDT. (DBC-88719)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 15 and Exit 11: Westminster Hwy&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T10:13:32-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88719
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.997936,49.169446,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 37A, in both directions. Watch for falling rocks between Bitter Cr. Bridge and Surprise Pullout/Windy Chain Up for 34.6 km (13 km west of Meziadin to 11 km east of Stewart). Last updated Mon Mar 16 at 7:09 AM PDT. (DBC-74957)</name>
@@ -9303,7 +9330,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 28, westbound. Stalled vehicle between Western Mine Rd and Gold River Hwy (11 km east of Gold River). Until Mon Mar 16. Watch for traffic control. Next update time Mon Mar 16 at 12:00 PM PDT. Last updated Mon Mar 16 at 8:00 AM PDT. (DBC-88709)</name>
+          <name>Highway 28, westbound. Stalled vehicle between Western Mine Rd and Gold River Hwy (11 km east of Gold River). Until Mon Mar 16. Watch for traffic control. Last updated Mon Mar 16 at 10:23 AM PDT. (DBC-88709)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -9315,8 +9342,8 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
     &lt;b&gt;Location:&lt;/b&gt; Between Gold River Hwy and Western Mine Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 km east of Gold River&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T08:00:38-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-16T12:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T10:23:23-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-88709
