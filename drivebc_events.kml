@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-17 19:21:40 UTC
+        Last updated: 2026-03-17 19:46:30 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (348)</name>
+      <name>🚗 Traffic Events (350)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -1685,6 +1685,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-124.039847,49.207646,0 -124.039635,49.207532,0 -124.038781,49.207149,0 -124.037836,49.206816,0 -124.03616,49.206352,0 -124.035043,49.206045,0 -124.034019,49.205757,0 -124.033273,49.20555,0 -124.032453,49.205258,0 -124.031868,49.204987,0 -124.030995,49.204495,0 -124.030731,49.204304,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 13, in both directions. Construction work planned between 30A Ave and 36 Ave for 0.2 km (Langley - District). Starting Tue Mar 17 at 7:00 PM PDT until Wed Mar 18 at 3:00 AM PDT. Lane Closure. Last updated Tue Mar 17 at 12:43 PM PDT. (DBC-88800)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 13&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 30A Ave and 36 Ave for 0.2 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T12:43:14-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88800
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.492688,49.059639,0 -122.492693,49.059828,0 -122.492704,49.060317,0 -122.492708,49.061299,0 -122.49271,49.061906,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5542,31 +5568,6 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Stalled vehicle between Port Mann Bridge and United Blvd (Coquitlam). Right through lane blocked. Next update time Tue Mar 17 at 1:00 PM PDT. Last updated Tue Mar 17 at 11:47 AM PDT. (DBC-88796)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between United Blvd and Port Mann Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Coquitlam&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T11:47:08-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-17T13:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88796
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.818822,49.226408,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway), in both directions. Avalanche control work planned between West Avalanche Gate and East Avalanche Gate for 18.0 km (Kootenay Pass). Starting Wed Mar 18 at 3:00 AM PDT until Wed Mar 18 at 6:00 AM PDT. Road closure planned. Next update time Wed Mar 18 at 6:00 AM PDT. Last updated Tue Mar 17 at 12:05 PM PDT. (DBC-88797)</name>
           <description>
     &lt;![CDATA[
@@ -5615,6 +5616,56 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-122.939041,49.150355,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91, southbound. Road cleared between River Rd and Nordel Crt (Delta). Last updated Tue Mar 17 at 12:36 PM PDT. (DBC-88799)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between River Rd and Nordel Crt&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T12:36:37-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88799
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.939374,49.151177,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5, southbound. Vehicle incident between Chappell Creek Rec Site and Miledge Creek Bridge (19 km north of Blue River). Road closed. Next update time Tue Mar 17 at 2:00 PM PDT. Last updated Tue Mar 17 at 12:43 PM PDT. (DBC-88801)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Miledge Creek Bridge and Chappell Creek Rec Site&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 19 km north of Blue River&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T12:43:47-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-17T14:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88801
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-119.18174,52.29205,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
