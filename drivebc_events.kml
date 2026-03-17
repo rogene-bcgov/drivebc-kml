@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-17 16:21:12 UTC
+        Last updated: 2026-03-17 16:48:17 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (358)</name>
+      <name>🚗 Traffic Events (359)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -406,6 +406,32 @@
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.266699,50.032547,0 -125.268497,50.032569,0 -125.270536,50.032727,0 -125.272068,50.032899,0 -125.272651,50.033011,0 -125.273102,50.033098,0 -125.274121,50.033268,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 5 (Coquihalla South), southbound. Road maintenance work between Exit 238: Juliet Rd and Exit 231: Mine Creek Rd for 6.7 km (12 to 19 km north of Coquihalla Summit). Until Tue Mar 17 at 5:00 PM PDT. Right lane closed. Last updated Tue Mar 17 at 9:31 AM PDT. (DBC-88786)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 5&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Exit 231: Mine Creek Rd and Exit 238: Juliet Rd for 6.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 12 to 19 km north of Coquihalla Summit&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T09:31:11-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88786
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-121.013409,49.681902,0 -121.013209,49.683089,0 -121.01319,49.684035,0 -121.013173,49.68457,0 -121.013129,49.687459,0 -121.013104,49.68912,0 -121.013189,49.690795,0 -121.01322,49.691399,0 -121.013139,49.691872,0 -121.013086,49.692185,0 -121.012887,49.692677,0 -121.012549,49.69323,0 -121.011567,49.694599,0 -121.011191,49.695204,0 -121.010953,49.695925,0 -121.010896,49.696611,0 -121.011023,49.697529,0 -121.011405,49.698853,0 -121.011948,49.700072,0 -121.013864,49.703146,0 -121.016088,49.706714,0 -121.016347,49.707361,0 -121.016436,49.707848,0 -121.016431,49.708378,0 -121.016346,49.70887,0 -121.016143,49.70946,0 -121.015868,49.709939,0 -121.015272,49.710671,0 -121.012989,49.712986,0 -121.012509,49.713718,0 -121.012249,49.714364,0 -121.012132,49.715164,0 -121.012256,49.716067,0 -121.013233,49.718591,0 -121.013441,49.719522,0 -121.013532,49.720631,0 -121.013068,49.726254,0 -121.01233,49.729288,0 -121.012146,49.731072,0 -121.012285,49.739664,0 -121.012295,49.740278,0 -121.012307,49.740484,0 -121.01233,49.74088,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -1766,7 +1792,7 @@
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Utility work between Thompson River Dr and Deadman-Vidette Rd for 1.6 km (27 to 29 km east of Cache Creek). Until Fri Apr 10. From 8:00 AM to 4:00 PM PDT on weekdays. Lane Closure. Single lane alternating traffic. Watch for traffic control. Last updated Thu Feb 26 at 2:15 PM PDT. (DBC-87862)</name>
+          <name>Highway 1 (TransCanada Highway), eastbound. Utility work planned between Thompson River Dr and Deadman-Vidette Rd for 1.6 km (27 to 29 km east of Cache Creek). Starting Fri Apr 10 until Fri Apr 17. From 8:00 AM to 4:00 PM PDT on weekdays. Lane Closure. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Tue Mar 17 at 9:30 AM PDT. (DBC-87862)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1778,7 +1804,7 @@
     &lt;b&gt;Location:&lt;/b&gt; Between Thompson River Dr and Deadman-Vidette Rd for 1.6 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 29 to 27 km east of Cache Creek&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T09:30:42-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3175,31 +3201,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
             <tessellate>1</tessellate>
             <coordinates>-115.739479,49.536139,0 -115.739407,49.536195,0 -115.738997,49.536511,0 -115.737961,49.537431,0 -115.737904,49.537511,0 -115.737621,49.537908,0 -115.737522,49.538228,0 -115.73752,49.538271,0 -115.737518,49.538304,0 -115.737496,49.538676,0 -115.737686,49.539241,0 -115.737834,49.539536,0 -115.737954,49.539776,0 -115.73796,49.539787,0 -115.738081,49.540031,0 -115.738394,49.540659,0 -115.738902,49.541343,0 -115.739523,49.542019,0 -115.739715,49.542229,0 -115.740109,49.542658,0 -115.740505,49.543078,0 -115.741082,49.543692,0 -115.741426,49.544151,0 -115.741544,49.544361,0 -115.741733,49.544699,0 -115.742552,49.546882,0 -115.742723,49.547184,0 -115.742775,49.547276,0 -115.743107,49.547661,0 -115.743364,49.547871,0 -115.743933,49.548161,0 -115.744518,49.548337,0 -115.745122,49.548431,0 -115.745642,49.548472,0 -115.745808,49.548485,0 -115.747365,49.548512,0 -115.748684,49.548529,0 -115.749031,49.548534,0 -115.750696,49.548583,0 -115.751048,49.548608,0 -115.751185,49.548617,0 -115.751339,49.548628,0 -115.751942,49.548689,0 -115.752086,49.548704,0 -115.752343,49.54873,0 -115.752466,49.54875,0 -115.752508,49.548757,0 -115.75255,49.548764,0 -115.752882,49.548818,0 -115.753596,49.548945,0 -115.753694,49.548963,0 -115.754378,49.549129,0 -115.754523,49.549164,0 -115.754774,49.549243,0 -115.755948,49.549612,0 -115.756682,49.549901,0 -115.75728,49.55017,0 -115.758306,49.550714,0 -115.760291,49.55198,0 -115.761882,49.552995,0 -115.763368,49.553943,0 -115.76345,49.554002,0 -115.765035,49.555142,0 -115.766014,49.555775,0 -115.767983,49.556906,0 -115.769696,49.55789,0 -115.770935,49.558755,0 -115.77114,49.558898,0 -115.771747,49.559398,0 -115.772305,49.559909,0 -115.772376,49.559975,0 -115.772714,49.560342,0 -115.77298,49.560633,0 -115.774354,49.562463,0 -115.774761,49.562936,0 -115.775442,49.563611,0 -115.775517,49.563685,0 -115.776012,49.564093,0 -115.776283,49.564316,0 -115.77692,49.56477,0 -115.777253,49.564978,0 -115.777457,49.565106,0 -115.777585,49.565187,0 -115.77788,49.565359,0 -115.778122,49.565501,0 -115.779254,49.566161,0 -115.779743,49.566447,0 -115.780107,49.566659,0 -115.780197,49.566712,0 -115.780716,49.567015,0 -115.782522,49.568059,0 -115.784401,49.569146,0 -115.785811,49.569962,0 -115.785848,49.569983,0 -115.785886,49.570005,0 -115.786246,49.570214,0 -115.788297,49.571405,0 -115.789046,49.572034,0 -115.789543,49.572686,0 -115.78984,49.573321,0 -115.78997,49.573852,0 -115.790014,49.574032,0 -115.790026,49.574077,0 -115.790666,49.577183,0 -115.790903,49.577755,0 -115.791381,49.578455,0 -115.791739,49.578829,0 -115.792293,49.579232,0 -115.792485,49.579347,0 -115.79322,49.579788,0 -115.793263,49.579815,0 -115.795408,49.58096,0 -115.79652,49.581554,0 -115.797448,49.582049,0 -115.798225,49.582463,0 -115.798491,49.582604,0 -115.798544,49.582633,0 -115.799542,49.583164,0 -115.79964,49.583217,0 -115.800012,49.583416,0 -115.800781,49.583829,0 -115.801493,49.584114,0 -115.802208,49.584291,0 -115.803096,49.584411,0 -115.804997,49.584526,0 -115.805764,49.58464,0 -115.806162,49.584746,0 -115.806635,49.584872,0 -115.807425,49.585215,0 -115.810534,49.586908,0 -115.810969,49.587144,0 -115.811414,49.587401,0 -115.814118,49.588959,0 -115.814735,49.589299,0 -115.815533,49.589697,0 -115.816379,49.589959,0 -115.817391,49.590118,0 -115.818062,49.590126,0 -115.818325,49.590129,0 -115.818987,49.590069,0 -115.820275,49.589953,0 -115.821084,49.589941,0 -115.821274,49.589953,0 -115.821801,49.589984,0 -115.822643,49.590149,0 -115.823391,49.590383,0 -115.823884,49.590598,0 -115.824674,49.591109,0 -115.825431,49.591689,0 -115.825571,49.591776,0 -115.825719,49.591868,0 -115.825939,49.592005,0 -115.826423,49.592258,0 -115.826973,49.592473,0 -115.827338,49.592589,0 -115.828193,49.592772,0 -115.828386,49.592806,0 -115.82987,49.593076,0 -115.836298,49.594241,0 -115.837406,49.594502,0 -115.838379,49.594847,0 -115.839114,49.595217,0 -115.839966,49.595806,0 -115.840174,49.596029,0 -115.841436,49.597385,0 -115.841945,49.597815,0 -115.842142,49.597942,0 -115.842554,49.598208,0 -115.84329,49.598568,0 -115.843665,49.598705,0 -115.844074,49.598855,0 -115.847573,49.600023,0 -115.851361,49.601287,0 -115.851873,49.601457,0 -115.853282,49.601928,0 -115.858519,49.603675,0 -115.859041,49.603849,0 -115.861533,49.604684,0 -115.862336,49.604887,0 -115.862752,49.604954,0 -115.862924,49.604982,0 -115.862999,49.604994,0 -115.863335,49.605022,0 -115.86364,49.605047,0 -115.863786,49.605059,0 -115.863946,49.605073,0 -115.864209,49.605094,0 -115.865219,49.605075,0 -115.866299,49.604916,0 -115.867379,49.604635,0 -115.869218,49.604017,0 -115.869931,49.603839,0 -115.870205,49.60377,0 -115.871214,49.603592,0 -115.872266,49.603478,0 -115.87306,49.603462,0 -115.873184,49.603459,0 -115.874128,49.603493,0 -115.874968,49.603572,0 -115.875877,49.603707,0 -115.876545,49.60385,0 -115.877325,49.604069,0 -115.877643,49.604159,0 -115.878673,49.604558,0 -115.878751,49.604594,0 -115.879284,49.604843,0 -115.890702,49.61017,0 -115.893409,49.611433,0 -115.8945,49.611942,0 -115.894521,49.611952,0 -115.895845,49.612505,0 -115.895943,49.612544,0 -115.896444,49.612742,0 -115.898525,49.613567,0 -115.89972,49.614036,0 -115.900915,49.614504,0 -115.901535,49.614748,0 -115.902387,49.615082,0 -115.90312,49.615323,0 -115.903223,49.615357,0 -115.904055,49.615557,0 -115.904572,49.615651,0 -115.905475,49.615761,0 -115.906424,49.61582,0 -115.907768,49.615878,0 -115.91201,49.616064,0 -115.912833,49.616149,0 -115.913688,49.616293,0 -115.914409,49.616445,0 -115.915179,49.616662,0 -115.915949,49.61694,0 -115.916768,49.617279,0 -115.919525,49.618723,0 -115.921294,49.61965,0 -115.921842,49.619937,0 -115.922471,49.620301,0 -115.923075,49.62069,0 -115.923599,49.621093,0 -115.924225,49.621628,0 -115.927441,49.624549,0 -115.930812,49.627609,0 -115.93147,49.628206,0 -115.931606,49.62833,0 -115.9324,49.62905,0 -115.933261,49.629907,0 -115.934323,49.631159,0 -115.934847,49.631806,0 -115.935357,49.632437,0 -115.93566,49.632769,0 -115.936198,49.633184,0 -115.93661,49.63342,0 -115.936852,49.633558,0 -115.937972,49.633929,0 -115.938728,49.634069,0 -115.939196,49.634117,0 -115.939487,49.634147,0 -115.93955,49.634153,0 -115.942412,49.634447,0 -115.943422,49.634555,0 -115.944786,49.634701,0 -115.947222,49.634981,0 -115.947919,49.635064,0 -115.948565,49.635177,0 -115.948591,49.635181,0 -115.949351,49.635358,0 -115.94986,49.635476,0 -115.949989,49.635516,0 -115.950849,49.635777,0 -115.951237,49.635895,0 -115.951987,49.636116,0 -115.95247,49.636258,0 -115.952911,49.636346,0 -115.953391,49.636408,0 -115.953764,49.636453,0 -115.955024,49.636481,0 -115.956587,49.636483,0</coordinates>
           </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), eastbound. Avalanche control activity is underway at Malakwa Rd (17 km east of Sicamous). Industrial traffic may slow or block regular traffic. Road closed. Eastbound commercial vehicles will be held in Malakwa for the duration of the Revelstoke to Golden Avalanche Control closure. Passenger vehicles can bypass the Malakwa closure using the Frontage Rd. Next update time Tue Mar 17 at 9:30 AM PDT. Last updated Tue Mar 17 at 9:12 AM PDT. (DBC-88667)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; AVALANCHE_HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Malakwa Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 17 km east of Sicamous&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T09:12:47-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-17T09:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88667
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-118.779732,50.942389,0</coordinates>
-          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 16 (on Haida Gwaii), in both directions. Road maintenance work between Lawnhill Rd and Miller Rd for 9.3 km (13 to 4 km west of Skidegate). Watch for traffic control. Culvert work, reduce speed, watch for crews, obey traffic signs. Next update time Fri Mar 20 at 8:00 AM PDT. Last updated Fri Mar 13 at 8:00 AM PDT. (DBC-80321)</name>
@@ -5078,31 +5079,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Vehicle incident between Port Mann East Service Rd and Port Mann Bridge (Surrey). Left Coquitlam exit lane blocked. Next update time Tue Mar 17 at 9:30 AM PDT. Last updated Tue Mar 17 at 8:45 AM PDT. (DBC-88780)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Port Mann Bridge and Port Mann East Service Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T08:45:59-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-17T09:30:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88780
-    ]]&gt;
-    </description>
-          <styleUrl>#style_INCIDENT</styleUrl>
-          <Point>
-            <coordinates>-122.810512,49.213072,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling ice between West Avalanche Gate and East Avalanche Gate for 18.0 km (Kootenay Pass). Last updated Mon Mar 9 at 1:35 PM PDT. (DBC-87017)</name>
           <description>
     &lt;![CDATA[
@@ -5127,6 +5103,31 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
             <tessellate>1</tessellate>
             <coordinates>-117.15163,49.026497,0 -117.151085,49.026971,0 -117.150075,49.027896,0 -117.145493,49.032089,0 -117.143334,49.034064,0 -117.142536,49.034879,0 -117.142221,49.035302,0 -117.141833,49.036035,0 -117.141644,49.036752,0 -117.14103,49.039105,0 -117.140862,49.03955,0 -117.140571,49.040069,0 -117.140566,49.040078,0 -117.140207,49.040482,0 -117.139539,49.041008,0 -117.139021,49.041346,0 -117.133555,49.04491,0 -117.131791,49.04606,0 -117.131496,49.046242,0 -117.131159,49.046449,0 -117.13067,49.046673,0 -117.130553,49.046727,0 -117.128188,49.047534,0 -117.127248,49.048,0 -117.12683,49.048226,0 -117.124041,49.049741,0 -117.123708,49.049901,0 -117.123369,49.050064,0 -117.122783,49.050306,0 -117.122026,49.050552,0 -117.121437,49.050721,0 -117.118476,49.051569,0 -117.116417,49.052159,0 -117.11366,49.053298,0 -117.112669,49.053724,0 -117.111945,49.054035,0 -117.110831,49.054514,0 -117.110024,49.054954,0 -117.106553,49.057562,0 -117.105656,49.05811,0 -117.105387,49.058274,0 -117.104311,49.058816,0 -117.103203,49.059261,0 -117.102601,49.059463,0 -117.102037,49.059653,0 -117.101959,49.059673,0 -117.10076,49.05997,0 -117.099323,49.060245,0 -117.098023,49.060419,0 -117.097499,49.060489,0 -117.096643,49.060659,0 -117.096032,49.060828,0 -117.095063,49.06116,0 -117.093733,49.061717,0 -117.092624,49.062134,0 -117.092467,49.062172,0 -117.091576,49.06239,0 -117.090538,49.062592,0 -117.089365,49.062695,0 -117.089061,49.062695,0 -117.088172,49.062696,0 -117.08785,49.062696,0 -117.086951,49.062617,0 -117.08599,49.062473,0 -117.085633,49.062392,0 -117.085041,49.062258,0 -117.084217,49.062006,0 -117.0838,49.061856,0 -117.082951,49.06155,0 -117.082481,49.061415,0 -117.081899,49.061308,0 -117.081209,49.06128,0 -117.080687,49.061309,0 -117.080136,49.061413,0 -117.079557,49.061595,0 -117.078909,49.061909,0 -117.078603,49.062093,0 -117.077177,49.062956,0 -117.076689,49.063219,0 -117.075931,49.063524,0 -117.07526,49.063704,0 -117.074773,49.063788,0 -117.072271,49.064218,0 -117.070334,49.064551,0 -117.069829,49.064605,0 -117.06964,49.064625,0 -117.068947,49.064626,0 -117.068195,49.064545,0 -117.067317,49.064371,0 -117.0622,49.063214,0 -117.061096,49.062886,0 -117.0603,49.062603,0 -117.059062,49.062165,0 -117.058284,49.061863,0 -117.057286,49.061476,0 -117.056305,49.061046,0 -117.055693,49.060698,0 -117.055537,49.06059,0 -117.05509,49.060282,0 -117.054137,49.059624,0 -117.053483,49.059248,0 -117.052746,49.058947,0 -117.051578,49.058627,0 -117.050083,49.058294,0 -117.048447,49.057929,0 -117.047259,49.057664,0 -117.046523,49.05755,0 -117.045736,49.057488,0 -117.044976,49.057501,0 -117.043935,49.05759,0 -117.042867,49.057775,0 -117.04179,49.058056,0 -117.040873,49.058434,0 -117.040463,49.058667,0 -117.040331,49.058742,0 -117.040011,49.058924,0 -117.039921,49.058991,0 -117.039815,49.05907,0 -117.039375,49.059397,0 -117.039027,49.05975,0 -117.038904,49.059875,0 -117.03833,49.060669,0 -117.038019,49.061461,0 -117.037994,49.061591,0 -117.037925,49.061959,0 -117.03792,49.061984,0 -117.037931,49.062806,0 -117.038089,49.065876,0 -117.038009,49.066623,0 -117.037789,49.067323,0 -117.037398,49.068024,0 -117.03719,49.06832,0 -117.036971,49.068629,0 -117.035533,49.070557,0 -117.034529,49.071567,0 -117.029897,49.075379,0 -117.028236,49.076746,0 -117.025511,49.078988,0 -117.023849,49.0806,0 -117.02198,49.082412,0 -117.021354,49.083019,0 -117.021135,49.083284,0 -117.018861,49.086044,0 -117.016617,49.088838,0 -117.014719,49.091201,0 -117.014371,49.091649,0 -117.01395,49.092193,0 -117.013009,49.093244,0 -117.012238,49.09374,0 -117.011981,49.093848,0 -117.011307,49.094129,0 -117.010084,49.094374,0 -117.007689,49.094738,0 -117.002372,49.095544,0 -117.00229,49.095557,0 -117.002065,49.095587,0 -117.001955,49.095602,0 -117.000804,49.095756,0 -117.000087,49.095852,0 -116.999993,49.095866,0 -116.999456,49.095947,0 -116.998003,49.096163,0 -116.997413,49.09625,0 -116.994995,49.096609,0 -116.993533,49.096826,0 -116.991175,49.097175,0 -116.99069,49.09723,0 -116.989521,49.097363,0 -116.985479,49.09736,0 -116.985425,49.09736,0 -116.981694,49.097357,0 -116.980011,49.097288,0 -116.976577,49.097011,0 -116.97636,49.096994,0 -116.975103,49.096892,0 -116.972659,49.096695,0 -116.970745,49.096541,0 -116.969089,49.096407,0</coordinates>
           </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91A, eastbound. Road cleared between Howes St and Boyd St (New Westminster). Last updated Tue Mar 17 at 9:42 AM PDT. (DBC-88785)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91A&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Howes St and Boyd St&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; New Westminster&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T09:42:50-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88785
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.942483,49.190976,0</coordinates>
+          </Point>
         </Placemark>
         <Placemark>
           <name>Highway 3 (Crowsnest Highway). Watch for falling rocks between West Avalanche Gate and West Creston Rd for 32.1 km (10 km west of Kootenay Pass to 21 km west of Creston). Last updated Mon Mar 9 at 1:35 PM PDT. (DBC-86178)</name>
@@ -5900,6 +5901,31 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 1 (TransCanada Highway), eastbound. Road cleared at Malakwa Rd (17 km east of Sicamous). Last updated Tue Mar 17 at 9:35 AM PDT. (DBC-88667)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; AVALANCHE_HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; E&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Malakwa Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 17 km east of Sicamous&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T09:35:57-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88667
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-118.779732,50.942389,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Westham Island Bridge, in both directions. Travel advisory in effect between River Road and Trim Road. Vehicle incident. Bridge is closed. Https://buzzer.Translink.Ca/westham-island-bridge. Next update time Tue Mar 17 at 3:00 PM PDT. Last updated Mon Mar 9 at 3:03 PM PDT. (DBC-86343)</name>
           <description>
     &lt;![CDATA[
@@ -6079,7 +6105,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Avalanche control work between Townley St and Anderson Rd for 141.4 km (Revelstoke to 1 km west of Golden). Detour not available. Watch for traffic control. Next update time Tue Mar 17 at 9:30 AM PDT. Last updated Tue Mar 17 at 9:13 AM PDT. (DBC-88665)</name>
+          <name>Highway 1 (TransCanada Highway), in both directions. Road cleared between Townley St and Anderson Rd for 141.4 km (Revelstoke to 1 km west of Golden). Last updated Tue Mar 17 at 9:36 AM PDT. (DBC-88665)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6091,8 +6117,8 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
     &lt;b&gt;Location:&lt;/b&gt; Between Townley St and Anderson Rd for 141.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 km west of Golden to Revelstoke&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T09:13:07-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-17T09:30:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T09:36:04-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-88665
