@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-18 20:43:36 UTC
+        Last updated: 2026-03-18 21:09:25 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (341)</name>
+      <name>🚗 Traffic Events (340)</name>
       <Folder>
         <name>Construction Events</name>
         <Placemark>
@@ -2612,6 +2612,31 @@
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 37, in both directions. Bridge maintenance planned at Bell 1 Bridge (32 km north of Meziadin). Starting Thu Mar 19 at 7:00 AM PDT until Thu Mar 19 at 4:30 PM PDT. Single lane alternating traffic will be in effect. Expect delays. Last updated Wed Mar 18 at 1:55 PM PDT. (DBC-88869)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 37N&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Bell 1 Bridge&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 32 km north of Meziadin&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:55:57-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88869
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-129.300497,56.327324,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 97A, in both directions. Utility work between Riverside Rd and Swansea Point Rd for 10.9 km (5 to 16 km south of Sicamous). Until Fri Apr 17 at 4:00 PM PDT. Single lane alternating traffic. Last updated Thu Mar 5 at 11:55 AM PDT. (DBC-88218)</name>
           <description>
     &lt;![CDATA[
@@ -3198,32 +3223,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-125.544485,50.21303,0 -125.544205,50.212821,0 -125.544044,50.212726,0 -125.54384,50.212607,0 -125.540209,50.210813,0 -125.539489,50.210378,0 -125.539191,50.210193,0 -125.538735,50.209855,0 -125.538389,50.209542,0 -125.537974,50.209075,0 -125.536612,50.207239,0 -125.536409,50.206848,0 -125.536288,50.20653,0 -125.536239,50.206402,0 -125.53614,50.205952,0 -125.5361,50.205525,0 -125.53634,50.204133,0 -125.53635,50.20401,0 -125.536391,50.203536,0 -125.536325,50.203108,0 -125.536174,50.202712,0 -125.535945,50.202305,0 -125.535664,50.201971,0 -125.535257,50.201608,0 -125.534691,50.201254,0 -125.532371,50.200018,0 -125.531809,50.199718,0 -125.530731,50.199184,0 -125.530401,50.199044,0 -125.53012,50.198925,0 -125.529335,50.198661,0 -125.528511,50.198428,0 -125.526018,50.197958,0 -125.525511,50.197818,0 -125.524977,50.197604,0 -125.524573,50.197378,0 -125.524175,50.197102,0 -125.523907,50.196849,0 -125.523582,50.196466,0 -125.523489,50.196339,0 -125.523099,50.195808,0 -125.522543,50.195233,0 -125.522069,50.19489,0 -125.52151,50.194592,0 -125.520882,50.194354,0 -125.515593,50.192827,0 -125.515261,50.192711,0 -125.514814,50.192554,0 -125.514705,50.192516,0 -125.513902,50.192177,0 -125.511317,50.190973,0 -125.510274,50.190487,0 -125.509646,50.190194,0 -125.508843,50.18978,0 -125.506284,50.188344,0 -125.505308,50.187896,0 -125.504562,50.18764,0 -125.504089,50.187523,0 -125.503878,50.187471,0 -125.502234,50.187064,0 -125.501391,50.186782,0 -125.501207,50.186705,0 -125.500998,50.186618,0 -125.500846,50.186554,0 -125.500203,50.186213,0 -125.499806,50.186001,0 -125.497451,50.184414,0 -125.495434,50.183054,0 -125.494756,50.182597,0 -125.494646,50.182523,0 -125.49373,50.181905,0 -125.491713,50.180546,0 -125.491309,50.180273,0 -125.491263,50.180237,0 -125.491111,50.180117,0 -125.488728,50.178238,0 -125.487485,50.177257,0 -125.486287,50.176423,0 -125.483633,50.174961,0 -125.482847,50.174463,0 -125.482339,50.174074,0 -125.480987,50.173038,0 -125.48074,50.172871,0 -125.480181,50.172493,0 -125.479214,50.171937,0 -125.478021,50.171351,0 -125.476981,50.170939,0 -125.476065,50.170614,0 -125.474285,50.169982,0 -125.473489,50.169655,0 -125.47217,50.169055,0 -125.469681,50.167746,0 -125.467791,50.16677,0 -125.466545,50.166096,0 -125.466117,50.165871,0 -125.464701,50.165127,0 -125.46342,50.164523,0 -125.463226,50.164441,0 -125.462374,50.164082,0 -125.462043,50.16396,0 -125.461007,50.16358,0 -125.457116,50.16233,0 -125.454011,50.161105,0 -125.453054,50.160729,0 -125.451322,50.160048,0 -125.449875,50.159479,0 -125.448283,50.158943,0 -125.445522,50.158143,0 -125.444994,50.15799,0 -125.443584,50.157436,0 -125.441319,50.156426,0 -125.440654,50.15613,0 -125.439511,50.155663,0 -125.438899,50.155412,0 -125.438541,50.155288,0 -125.437486,50.154923,0 -125.4351,50.154248,0 -125.434332,50.15403,0 -125.433317,50.153743,0 -125.432164,50.153394,0 -125.428493,50.151971,0 -125.426147,50.151062,0 -125.422833,50.149777,0 -125.422274,50.149525,0 -125.421372,50.149119,0 -125.419982,50.148438,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), in both directions. Road maintenance work between Toll Rd and Anderson River Mainline for 8.1 km (19 to 11 km north of Yale). There is lights out in the tunnels, right before Alexandria Bridge and before Sailor Bar Tunnel. Please drive with caution. Last updated Mon Mar 9 at 12:25 PM PDT. (DBC-88394)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Toll Rd and Anderson River Mainline for 8.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 11 to 19 km north of Yale&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-09T12:25:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88394
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.410444,49.642405,0 -121.410891,49.644779,0 -121.410755,49.645627,0 -121.410708,49.645924,0 -121.410495,49.646354,0 -121.408892,49.648337,0 -121.407821,49.650072,0 -121.407288,49.651015,0 -121.406089,49.653136,0 -121.405791,49.654282,0 -121.40574,49.654481,0 -121.405776,49.655444,0 -121.406067,49.656412,0 -121.406623,49.657341,0 -121.407413,49.658184,0 -121.408496,49.659009,0 -121.409669,49.659619,0 -121.410595,49.660032,0 -121.410931,49.66018,0 -121.41374,49.66144,0 -121.416549,49.662698,0 -121.417675,49.663258,0 -121.418153,49.663621,0 -121.418378,49.663865,0 -121.418568,49.664071,0 -121.418751,49.66427,0 -121.418844,49.664416,0 -121.419056,49.664761,0 -121.419323,49.66524,0 -121.419714,49.665735,0 -121.419973,49.666133,0 -121.420172,49.666601,0 -121.420174,49.667593,0 -121.419895,49.66831,0 -121.418612,49.67097,0 -121.418552,49.671257,0 -121.418436,49.671805,0 -121.41843,49.672633,0 -121.418576,49.674362,0 -121.418707,49.675693,0 -121.4186,49.676372,0 -121.41725,49.680516,0 -121.416183,49.683791,0 -121.415969,49.684446,0 -121.415783,49.68548,0 -121.415774,49.685825,0 -121.415746,49.686977,0 -121.415559,49.688285,0 -121.414999,49.68989,0 -121.414486,49.690761,0 -121.412135,49.694474,0 -121.411776,49.695257,0 -121.411499,49.696682,0 -121.411557,49.69838,0 -121.41142,49.698915,0 -121.411315,49.699115,0 -121.41118,49.699374,0 -121.410971,49.699775,0 -121.410853,49.699999,0 -121.410466,49.700734,0 -121.40981,49.701983,0 -121.409374,49.702812,0 -121.409196,49.703152,0 -121.408897,49.703877,0 -121.408841,49.704754,0 -121.409112,49.705517,0 -121.409346,49.705885,0 -121.409744,49.706275,0 -121.410194,49.706602,0 -121.410421,49.706766,0 -121.412653,49.708263,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4228,31 +4227,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <styleUrl>#style_CONSTRUCTION</styleUrl>
           <Point>
             <coordinates>-122.06909,49.186261,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Mt Seymour Rd, in both directions. Construction work at 3km Mark in North Vancouver - District. Until Wed Mar 18 at 2:00 PM PDT. Roadway reduced to one lane. Last updated Wed Mar 18 at 9:01 AM PDT. (DBC-88847)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Mt Seymour Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At 3km Mark in North Vancouver - District&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T09:01:32-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88847
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-122.946537,49.344784,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -8942,7 +8916,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.044018-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:26.005071-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8979,7 +8953,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.052455-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:26.012004-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9016,7 +8990,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.035550-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:25.997038-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9053,7 +9027,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.061534-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:26.018130-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9090,7 +9064,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.007996-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:25.977005-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9130,7 +9104,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.017394-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:25.983772-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9167,7 +9141,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.069417-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:26.024178-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9204,7 +9178,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.077947-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:26.030515-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9241,7 +9215,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.096550-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:26.042853-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9278,7 +9252,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:25.988498-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:25.962245-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9315,7 +9289,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:25.996746-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:25.970951-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9355,7 +9329,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.027039-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:25.989796-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9392,7 +9366,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:26.105645-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:26.048592-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -9429,7 +9403,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T13:00:25.979416-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T14:00:25.954383-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
