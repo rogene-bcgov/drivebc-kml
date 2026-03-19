@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-19 04:39:02 UTC
+        Last updated: 2026-03-19 05:27:18 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (312)</name>
+      <name>🚗 Traffic Events (313)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -1353,7 +1353,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Winter operations will occur at Port Mann Bridge (Surrey). Starting Wed Mar 18 at 10:00 PM PDT until Thu Mar 19 at 4:00 AM PDT. Lane Closure. Watch for traffic control personnel. Westbound Coquitlam lanes down to 1 lane. Last updated Tue Mar 17 at 1:27 PM PDT. (DBC-88805)</name>
+          <name>Highway 1 (TransCanada Highway), westbound. Winter operations are occuring at Port Mann Bridge (Surrey). Until Thu Mar 19 at 4:00 AM PDT. Lane Closure. Watch for traffic control. Westbound Coquitlam lanes down to 1 lane. Last updated Tue Mar 17 at 1:27 PM PDT. (DBC-88805)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -1365,7 +1365,7 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
     &lt;b&gt;Location:&lt;/b&gt; At Port Mann Bridge&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-17T13:27:50-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -3843,6 +3843,32 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-121.440327,56.222545,0 -121.439044,56.223081,0 -121.437601,56.223514,0 -121.43565,56.224145,0 -121.434035,56.224661,0 -121.432422,56.22516,0 -121.431181,56.225529,0 -121.430071,56.225884,0 -121.429451,56.226203,0 -121.428758,56.226592,0 -121.428154,56.227055,0 -121.427635,56.227611,0 -121.427311,56.228174,0 -121.427114,56.228695,0 -121.427076,56.229065,0 -121.427066,56.233324,0 -121.427055,56.23338,0 -121.42699,56.2337,0 -121.426899,56.233869,0 -121.426588,56.234163,0 -121.425865,56.234497,0 -121.424869,56.234881,0 -121.421299,56.236254,0 -121.419311,56.237119,0 -121.418728,56.237308,0 -121.418524,56.237374,0 -121.415207,56.23802,0 -121.41001,56.239033,0 -121.409941,56.239041,0 -121.408186,56.239254,0 -121.407427,56.239402,0 -121.406725,56.239615,0 -121.406228,56.239821,0 -121.404759,56.240567,0 -121.404199,56.240795,0 -121.404044,56.240858,0 -121.403574,56.241002,0 -121.402839,56.241228,0 -121.402332,56.241343,0 -121.401699,56.241487,0 -121.400899,56.241611,0 -121.40003,56.241701,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway), northbound. Road sweeping between Morden Rd and Needham St for 7.7 km (Nanaimo). Until Thu Mar 19 at 2:30 AM PDT. Watch for traffic control. Watch for slow-moving vehicle. Last updated Wed Mar 18 at 9:46 PM PDT. (DBC-88884)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Morden Rd and Needham St for 7.7 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Nanaimo&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88884
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.885812,49.093664,0 -123.88594,49.093835,0 -123.886149,49.094114,0 -123.886218,49.094205,0 -123.890572,49.100007,0 -123.893008,49.103251,0 -123.894164,49.104519,0 -123.894643,49.104947,0 -123.894844,49.105127,0 -123.895017,49.105283,0 -123.895181,49.105431,0 -123.896008,49.106054,0 -123.899593,49.108493,0 -123.900802,49.109526,0 -123.901365,49.110009,0 -123.90148,49.110108,0 -123.901565,49.110182,0 -123.901642,49.110248,0 -123.902983,49.111399,0 -123.90496,49.113005,0 -123.906101,49.113896,0 -123.911944,49.118455,0 -123.912475,49.118933,0 -123.912541,49.119005,0 -123.913036,49.119547,0 -123.91352,49.120236,0 -123.914063,49.121277,0 -123.914616,49.12234,0 -123.914975,49.122887,0 -123.915876,49.123965,0 -123.916363,49.124549,0 -123.916402,49.124594,0 -123.916418,49.124613,0 -123.916482,49.12469,0 -123.916747,49.124978,0 -123.917811,49.126141,0 -123.9195,49.128072,0 -123.920714,49.129493,0 -123.920964,49.129881,0 -123.921213,49.130388,0 -123.921269,49.130537,0 -123.921347,49.130746,0 -123.921412,49.131016,0 -123.921511,49.131424,0 -123.921646,49.132696,0 -123.921658,49.132813,0 -123.921682,49.133042,0 -123.921744,49.133621,0 -123.921836,49.134492,0 -123.921985,49.135027,0 -123.922136,49.135431,0 -123.922205,49.135553,0 -123.922333,49.135779,0 -123.922448,49.135975,0 -123.922803,49.136455,0 -123.92305,49.136736,0 -123.923495,49.137141,0 -123.924434,49.137898,0 -123.926285,49.13939,0 -123.92659,49.139663,0 -123.926861,49.139975,0 -123.927233,49.140604,0 -123.927529,49.141796,0 -123.927772,49.142524,0 -123.927811,49.142641,0 -123.928025,49.142997,0 -123.928329,49.143312,0 -123.928758,49.143677,0 -123.930439,49.144794,0 -123.930759,49.14501,0 -123.930916,49.145065,0 -123.931163,49.145215,0 -123.931911,49.145828,0 -123.932506,49.146387,0 -123.932953,49.146839,0 -123.93322,49.147197,0 -123.933465,49.147723,0 -123.933506,49.147865,0 -123.933595,49.148221,0 -123.933716,49.150644,0 -123.933821,49.152524,0 -123.933851,49.153367,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -8188,7 +8214,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.086432-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.068111-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8225,7 +8251,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.095115-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.077317-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8262,7 +8288,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.078071-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.060200-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8299,7 +8325,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.103749-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.085343-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8336,7 +8362,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.050081-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.032498-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8376,7 +8402,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.059402-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.041529-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8413,7 +8439,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.112346-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.094269-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8450,7 +8476,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.121066-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.101401-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8487,7 +8513,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.137844-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.119136-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8524,7 +8550,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.033082-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.013858-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8561,7 +8587,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.041417-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.023161-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8601,7 +8627,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.067448-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.051571-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8620,16 +8646,16 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
             &lt;h4&gt;Vessel Information&lt;/h4&gt;
-            &lt;b&gt;Name:&lt;/b&gt; M.V. Osprey 2000&lt;br/&gt;
-            &lt;b&gt;Vehicle Capacity:&lt;/b&gt; 70&lt;br/&gt;
-            &lt;b&gt;Passenger Capacity:&lt;/b&gt; 144&lt;br/&gt;
+            &lt;b&gt;Name:&lt;/b&gt; M.V. Balfour&lt;br/&gt;
+            &lt;b&gt;Vehicle Capacity:&lt;/b&gt; 28&lt;br/&gt;
+            &lt;b&gt;Passenger Capacity:&lt;/b&gt; 150&lt;br/&gt;
             &lt;b&gt;Crossing Time:&lt;/b&gt; 35 minutes&lt;br/&gt;
-            &lt;b&gt;Weight Capacity:&lt;/b&gt; 430000 kg&lt;br/&gt;
+            &lt;b&gt;Weight Capacity:&lt;/b&gt; 90000 kg&lt;br/&gt;
             &lt;b&gt;Schedule Type:&lt;/b&gt; Scheduled Sailings Morning to Night&lt;br/&gt;
             
         
         &lt;h4&gt;Schedule Information&lt;/h4&gt;
-        Service hours (M.V. Osprey 2000): The M.V. Osprey runs the regular winter schedule except when it is down for regular maintenance.&amp;nbsp; At that time the M.V. Balfour will service the run with it&amp;rsquo;s reduced capacity of 28 vehicles  From Balfour  6:30 am &amp;ndash; 9:40 pm    From Kootenay Bay  7:10 am &amp;ndash; 10:20 pm   View detailed schedule
+        Additional summer service (M.V. Balfour): The summer schedule is generally in effect from the third week of June until after the Labour Day weekend.  From Balfour  10:40 am &amp;ndash; 5:20 pm    From Kootenay Bay  11:30 am &amp;ndash; 6:10 pm   View detailed schedule
         
         
             &lt;h4&gt;Contact Information&lt;/h4&gt;
@@ -8638,7 +8664,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.145026-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.110874-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8675,7 +8701,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T21:00:26.023545-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-18T22:00:26.004773-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
