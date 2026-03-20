@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-20 17:12:37 UTC
+        Last updated: 2026-03-20 17:42:40 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (354)</name>
+      <name>🚗 Traffic Events (353)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -297,6 +297,31 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           <styleUrl>#style_INCIDENT</styleUrl>
           <Point>
             <coordinates>-118.225756,51.003262,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 10, in both directions. Vehicle incident at Junction Fraser Highway (Langley - District). Emergency vehicles on scene. Expect delays. Down to one lane in both directions on Highway 10. Westbound blocked on Fraser Hwy. Next update time Fri Mar 20 at 11:00 AM PDT. Last updated Fri Mar 20 at 10:25 AM PDT. (DBC-88967)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 10&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Junction Fraser Highway&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langley - District&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-20T10:25:54-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-20T11:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88967
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.675379,49.111843,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -8500,58 +8525,6 @@ Work on roadway will be done 7pm - 7am. Excluding weekends and Stat's. Last upda
       </Folder>
       <Folder>
         <name>Weather Condition Events</name>
-        <Placemark>
-          <name>Highway 35. Snowing between the start of Highway 35 and the end of Highway 35 for 23.4 km (Northbank to Burns Lake). Last updated Fri Mar 20 at 5:28 AM PDT. (DBCRCON-247628)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 35&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between the start of Highway 35 and the end of Highway 35 for 23.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Burns Lake to Northbank&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-20T05:28:13-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-247628
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-125.756538,54.05101,0 -125.756885,54.051756,0 -125.754921,54.051894,0 -125.743567,54.05117,0 -125.74354,54.061393,0 -125.742057,54.065557,0 -125.750189,54.077702,0 -125.749865,54.080877,0 -125.747642,54.082687,0 -125.741671,54.084872,0 -125.734149,54.085901,0 -125.732001,54.086573,0 -125.725181,54.090181,0 -125.717746,54.099544,0 -125.717457,54.103948,0 -125.716378,54.106669,0 -125.710156,54.111969,0 -125.708817,54.11506,0 -125.709528,54.118959,0 -125.71263,54.124938,0 -125.72189,54.135632,0 -125.727907,54.147983,0 -125.728682,54.157106,0 -125.731153,54.16332,0 -125.730212,54.164662,0 -125.726522,54.166932,0 -125.725148,54.168795,0 -125.724826,54.170971,0 -125.732619,54.187576,0 -125.735441,54.191382,0 -125.737565,54.19603,0 -125.739746,54.198519,0 -125.74435,54.20056,0 -125.75363,54.205929,0 -125.765718,54.21516,0 -125.764399,54.222616,0 -125.760971,54.224135,0 -125.756036,54.22402,0 -125.754113,54.224861,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Snowing between 6 Mile Hill Brakecheck and SA24/23 Maintenance Boundary for 73.7 km (9 km east of Topley to Priestly Hill). Last updated Fri Mar 20 at 5:28 AM PDT. (DBCRCON-247659)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; WEATHER_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 6 Mile Hill Brakecheck and SA24/23 Maintenance Boundary for 73.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Priestly Hill to 9 km east of Topley&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-20T05:28:13-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-247659
-    ]]&gt;
-    </description>
-          <styleUrl>#style_WEATHER_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-126.194693,54.452571,0 -126.187285,54.438757,0 -126.18277,54.435216,0 -126.179477,54.431172,0 -126.177541,54.430252,0 -126.164416,54.428494,0 -126.145325,54.422179,0 -126.107137,54.41402,0 -126.102262,54.413464,0 -126.09146,54.413553,0 -126.087215,54.412918,0 -126.084215,54.410994,0 -126.079659,54.403352,0 -126.078014,54.402144,0 -126.07559,54.401449,0 -126.043398,54.40306,0 -126.016658,54.399933,0 -126.000083,54.398602,0 -125.98646,54.396522,0 -125.978445,54.393713,0 -125.953333,54.380922,0 -125.937558,54.371732,0 -125.925565,54.362788,0 -125.917465,54.353661,0 -125.910869,54.348755,0 -125.900729,54.345937,0 -125.898357,54.34475,0 -125.888963,54.336872,0 -125.886748,54.331196,0 -125.880465,54.323303,0 -125.869352,54.317972,0 -125.856333,54.308608,0 -125.843756,54.304167,0 -125.836421,54.299095,0 -125.835134,54.297714,0 -125.832526,54.291362,0 -125.826666,54.284931,0 -125.81958,54.281233,0 -125.787511,54.252286,0 -125.78217,54.246679,0 -125.779371,54.24456,0 -125.77626,54.240185,0 -125.772073,54.236387,0 -125.763708,54.233225,0 -125.762437,54.229594,0 -125.762735,54.228713,0 -125.756425,54.225701,0 -125.751602,54.224029,0 -125.745028,54.223245,0 -125.742179,54.223973,0 -125.737188,54.227511,0 -125.733836,54.227405,0 -125.724311,54.223113,0 -125.723525,54.222018,0 -125.723232,54.218673,0 -125.714416,54.212065,0 -125.711895,54.210977,0 -125.706633,54.209664,0 -125.704065,54.20787,0 -125.702088,54.207213,0 -125.698477,54.207567,0 -125.694092,54.210668,0 -125.691007,54.211839,0 -125.666711,54.214772,0 -125.663756,54.214442,0 -125.655483,54.212392,0 -125.647904,54.213435,0 -125.626245,54.210939,0 -125.615786,54.210979,0 -125.613463,54.210238,0 -125.610095,54.20758,0 -125.58307,54.194626,0 -125.580524,54.193817,0 -125.571003,54.194125,0 -125.566257,54.19331,0 -125.543392,54.191741,0 -125.526028,54.192036,0 -125.496808,54.189221,0 -125.491867,54.18828,0 -125.46921,54.179603,0 -125.456322,54.169227,0 -125.445531,54.164179,0 -125.423157,54.151414,0 -125.417637,54.150192,0 -125.402899,54.150612,0 -125.395729,54.149816,0 -125.382705,54.145642,0 -125.374644,54.142106,0 -125.366747,54.140147,0 -125.364308,54.138547,0 -125.36038,54.13412,0 -125.349789,54.129069,0 -125.349351,54.12716,0 -125.351299,54.124436,0 -125.350475,54.122561,0</coordinates>
-          </LineString>
-        </Placemark>
         <Placemark>
           <name>Highway 33. Limited visibility with fog between Rupert Mainline and Highway 97 for 39.2 km (Kelowna). Last updated Fri Mar 20 at 7:11 AM PDT. (DBCRCON-247747)</name>
           <description>
