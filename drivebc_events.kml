@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-27 06:34:21 UTC
+        Last updated: 2026-03-27 07:24:36 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (319)</name>
+      <name>🚗 Traffic Events (314)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -1924,6 +1924,32 @@ Last sailing from Galena Bay 5:30pm. Next update time Fri Mar 27 at 5:00 AM PDT.
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 15 (Pacific Highway), northbound. Utility work between 4 Ave and 8 Ave for 0.8 km (Surrey). Until Tue Mar 31. From 8:00 AM to 4:00 PM PDT on weekdays. Right lane closed. Last updated Thu Mar 5 at 12:55 PM PDT. (DBC-88220)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between 4 Ave and 8 Ave for 0.8 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88220
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.73526,49.00941,0 -122.735242,49.015208,0 -122.73524,49.015989,0 -122.735236,49.016267,0 -122.735234,49.016654,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>Highway 3A, in both directions. Utility work between Barlelo Rd and Stagecoach Rd for 4.6 km (3 to 8 km east of Keremeos). Until Wed May 20. From 7:00 AM to 6:00 PM PST daily. Last updated Wed Mar 4 at 9:33 AM PST. (DBC-88143)</name>
           <description>
     &lt;![CDATA[
@@ -1999,32 +2025,6 @@ Last sailing from Galena Bay 5:30pm. Next update time Fri Mar 27 at 5:00 AM PDT.
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.292837,49.034037,0 -122.292704,49.034027,0 -122.288914,49.033744,0 -122.287318,49.033674,0 -122.285711,49.033603,0 -122.281557,49.033405,0 -122.277746,49.033386,0 -122.272465,49.033359,0 -122.272181,49.033358,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 15 (Pacific Highway), northbound. Utility work planned between 4 Ave and 8 Ave for 0.8 km (Surrey). Starting Fri Mar 27 until Tue Mar 31. From 8:00 AM to 4:00 PM PST on weekdays. Right lane will be closed. Last updated Thu Mar 5 at 12:55 PM PST. (DBC-88220)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 15&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 4 Ave and 8 Ave for 0.8 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Surrey&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-05T12:55:43-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88220
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.73526,49.00941,0 -122.735242,49.015208,0 -122.73524,49.015989,0 -122.735236,49.016267,0 -122.735234,49.016654,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -3182,7 +3182,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Sylvester Rd, in both directions. Utility work planned between Dale Rd and Farms Rd. Starting Fri Mar 27 until Fri Apr 10. From 7:00 AM to 7:00 PM PDT daily. Road closure planned. Detour via Farms Rd and Dale Rd. Access maintained for local vehicles and commercial trucks accessing the gravel pit. Watch for traffic control. Last updated Mon Mar 23 at 10:33 AM PDT. (DBC-88393)</name>
+          <name>Sylvester Rd, in both directions. Utility work between Dale Rd and Farms Rd. Until Fri Apr 10. From 7:00 AM to 7:00 PM PDT daily. Road closed. Detour via Farms Rd and Dale Rd. Access maintained for local vehicles and commercial trucks accessing the gravel pit. Watch for traffic control. Last updated Mon Mar 23 at 10:33 AM PDT. (DBC-88393)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -3194,7 +3194,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
     &lt;b&gt;Location:&lt;/b&gt; Between Dale Rd and Farms Rd&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-23T10:33:42-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
     &lt;hr/&gt;
@@ -3361,32 +3361,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Road sweeping between 10 Ave SW and Highway 97B for 7.0 km (Salmon Arm). Until Thu Mar 26. From 7:00 AM to 4:00 PM PDT on Monday, Tuesday, Wednesday and Thursday. Lane Closure. Watch for traffic control. Moving work zone. Slow down and obey traffic control signage &amp; personnel. Last updated Tue Mar 10 at 9:34 AM PDT. (DBC-88447)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 10 Ave SW and Highway 97B for 7.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmon Arm&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88447
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.319689,50.69247,0 -119.319647,50.692469,0 -119.319032,50.692471,0 -119.310478,50.692501,0 -119.309961,50.692553,0 -119.309842,50.692577,0 -119.309303,50.692687,0 -119.308667,50.692832,0 -119.308076,50.693135,0 -119.307563,50.693331,0 -119.307286,50.693466,0 -119.304509,50.694628,0 -119.30408,50.694804,0 -119.300313,50.696373,0 -119.299162,50.696862,0 -119.298847,50.696943,0 -119.298465,50.697083,0 -119.297,50.697685,0 -119.29342,50.699152,0 -119.292211,50.699453,0 -119.291685,50.699542,0 -119.290819,50.699627,0 -119.289321,50.699654,0 -119.288282,50.69965,0 -119.286156,50.699643,0 -119.28516,50.699741,0 -119.285103,50.699751,0 -119.285089,50.699754,0 -119.284542,50.699857,0 -119.283881,50.700043,0 -119.283807,50.700068,0 -119.283356,50.700222,0 -119.281789,50.700851,0 -119.280679,50.701297,0 -119.279211,50.701881,0 -119.278855,50.702004,0 -119.278365,50.70211,0 -119.277985,50.702158,0 -119.27762,50.702173,0 -119.2756,50.702169,0 -119.272014,50.702185,0 -119.271734,50.702202,0 -119.271265,50.702232,0 -119.270643,50.702343,0 -119.270045,50.702505,0 -119.269517,50.702712,0 -119.269041,50.702967,0 -119.26893,50.703047,0 -119.268581,50.703301,0 -119.268177,50.703699,0 -119.2678,50.704173,0 -119.266828,50.705397,0 -119.266475,50.705785,0 -119.266038,50.706138,0 -119.265549,50.706429,0 -119.265163,50.706609,0 -119.264656,50.706793,0 -119.264056,50.706948,0 -119.263299,50.707059,0 -119.262875,50.707088,0 -119.262136,50.707089,0 -119.261426,50.707091,0 -119.260984,50.707091,0 -119.260913,50.707091,0 -119.260474,50.707094,0 -119.258495,50.707103,0 -119.254895,50.707119,0 -119.252108,50.707131,0 -119.250528,50.707139,0 -119.249809,50.70714,0 -119.245862,50.707144,0 -119.244599,50.707145,0 -119.244217,50.707146,0 -119.241838,50.707149,0 -119.241338,50.707149,0 -119.240854,50.707148,0 -119.238994,50.707138,0 -119.237972,50.707132,0 -119.237716,50.707131,0 -119.23686,50.707126,0 -119.236173,50.70717,0 -119.236088,50.707182,0 -119.235327,50.707285,0 -119.234379,50.707501,0 -119.233404,50.707832,0 -119.232495,50.708264,0 -119.231756,50.708713,0 -119.231319,50.708978,0 -119.230233,50.709744,0 -119.229709,50.71012,0 -119.229609,50.710198,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 19 (Island Highway). Utility work between Lakeview Rd and Browns Bay Rd for 11.8 km (6 to 18 km north of Campbell River). Until Fri Apr 3 at 8:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Last updated Wed Feb 25 at 2:52 PM PDT. (DBC-87817)</name>
           <description>
     &lt;![CDATA[
@@ -3486,32 +3460,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-119.53351,50.890527,0 -119.533408,50.890962,0 -119.53321,50.891345,0 -119.533057,50.891523,0 -119.532864,50.891688,0 -119.532503,50.891914,0 -119.532127,50.89206,0 -119.531523,50.892218,0 -119.53101,50.89226,0 -119.530124,50.892179,0 -119.52934,50.892079,0 -119.528841,50.892046,0 -119.528627,50.89206,0 -119.525806,50.892452,0 -119.52451,50.892503,0 -119.52283,50.892446,0 -119.521683,50.892465,0 -119.519692,50.892727,0 -119.518911,50.892715,0 -119.518534,50.892662,0 -119.51769,50.892489,0 -119.517362,50.892371,0 -119.515785,50.891664,0 -119.513877,50.890835,0 -119.51289,50.890398,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 97B. Road sweeping between 10 Ave SE and Highway 1 for 0.4 km (Salmon Arm). Until Thu Mar 26. From 7:00 AM to 3:30 PM PDT on Monday, Tuesday, Wednesday and Thursday. Lane Closure. Watch for traffic control. Moving work zone. Slow down and obey traffic control signage &amp; personnel. Last updated Tue Mar 10 at 9:40 AM PDT. (DBC-88449)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97B&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between 10 Ave SE and Highway 1 for 0.4 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Salmon Arm&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-16T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88449
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-119.227431,50.707075,0 -119.227431,50.707144,0 -119.227444,50.707997,0 -119.227481,50.708243,0 -119.227447,50.708375,0 -119.227611,50.708651,0 -119.227694,50.70878,0 -119.227801,50.708949,0 -119.228313,50.709471,0 -119.229203,50.709981,0 -119.229609,50.710198,0 -119.229735,50.710262,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4356,6 +4304,31 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
+          <name>Highway 99, southbound. Road maintenance work at Massey Tunnel (Richmond). Until Fri Mar 27 at 3:00 AM PDT. Left lane is closed. Last updated Fri Mar 27 at 12:03 AM PDT. (DBC-89258)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Massey Tunnel&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Richmond&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:03:13-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-89258
+    ]]&gt;
+    </description>
+          <styleUrl>#style_CONSTRUCTION</styleUrl>
+          <Point>
+            <coordinates>-123.075821,49.122079,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>Highway 11, in both directions. Utility work at Hazelwood Ave (Abbotsford). Until Sat Mar 28 at 4:00 PM PDT. No access between Hazelwood Avenue and Highway 11 due to drilling and pipe installation. Southbound left turn lane and northbound right turn lane closed. Next update time Sat Mar 28 at 4:00 PM PDT. Last updated Tue Mar 10 at 11:49 AM PDT. (DBC-85502)</name>
           <description>
     &lt;![CDATA[
@@ -4430,32 +4403,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.623651,54.306194,0 -122.623934,54.308097,0 -122.624211,54.309959,0 -122.624389,54.311157,0 -122.624629,54.31181,0 -122.62504,54.312439,0 -122.625586,54.31306,0 -122.626027,54.31344,0 -122.62633,54.31367,0 -122.627086,54.314144,0 -122.630262,54.315718,0 -122.63211,54.316634,0 -122.634065,54.317603,0 -122.635387,54.318255,0 -122.639801,54.320432,0 -122.640978,54.321111,0 -122.641571,54.321594,0 -122.641904,54.321864,0 -122.642514,54.322516,0 -122.642882,54.323017,0 -122.64294,54.323139,0 -122.643275,54.323835,0 -122.643727,54.325142,0 -122.644445,54.327217,0 -122.644723,54.327741,0 -122.645171,54.328295,0 -122.645795,54.328822,0 -122.646421,54.329205,0 -122.647175,54.329559,0 -122.649203,54.330229,0 -122.650022,54.330499,0 -122.650831,54.33083,0 -122.651531,54.331238,0 -122.652058,54.331644,0 -122.652508,54.332094,0 -122.652877,54.332619,0 -122.653143,54.333296,0 -122.653203,54.333826,0 -122.652501,54.34179,0 -122.652453,54.342338,0 -122.651027,54.347413,0 -122.649533,54.352732,0 -122.649359,54.353355,0 -122.646783,54.362326,0 -122.646755,54.362408,0 -122.64673,54.362484,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (TransCanada Highway), westbound. Road sweeping between Annis Rd and Exit 109: Yale Rd for 19.0 km (Chilliwack). Until Thu Mar 26. Watch for traffic control. We will be shoulder sweeping for the next few weeks. Open shoulders and no-post runs using 2 sweepers and 2 shadow units. Last updated Wed Feb 25 at 2:53 PM PST. (DBC-87818)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; W&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Exit 109: Yale Rd and Annis Rd for 19.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Chilliwack&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-02T08:00:00-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-87818
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.081623,49.129756,0 -122.078795,49.131829,0 -122.077931,49.13242,0 -122.073929,49.135434,0 -122.073422,49.135758,0 -122.072647,49.136135,0 -122.071772,49.136464,0 -122.070959,49.136672,0 -122.069934,49.136878,0 -122.060004,49.138325,0 -122.05868,49.138518,0 -122.039974,49.140932,0 -122.02876,49.142377,0 -122.027027,49.142632,0 -122.025373,49.142998,0 -122.022035,49.143963,0 -122.020949,49.144189,0 -122.020039,49.144322,0 -122.0189,49.144415,0 -122.01753,49.144438,0 -122.0117,49.144303,0 -122.006977,49.144219,0 -122.006907,49.144219,0 -122.003081,49.144157,0 -121.999997,49.144107,0 -121.999873,49.144105,0 -121.99975,49.144103,0 -121.999572,49.1441,0 -121.999088,49.144092,0 -121.983239,49.143787,0 -121.977708,49.143681,0 -121.977602,49.14368,0 -121.969274,49.14352,0 -121.967859,49.143585,0 -121.967236,49.143653,0 -121.965676,49.143902,0 -121.964755,49.144076,0 -121.964486,49.144142,0 -121.962445,49.144643,0 -121.962149,49.144716,0 -121.961942,49.144767,0 -121.961366,49.144906,0 -121.958914,49.145497,0 -121.956486,49.146082,0 -121.954925,49.146458,0 -121.953519,49.146817,0 -121.94815,49.148192,0 -121.947732,49.148298,0 -121.947335,49.1484,0 -121.946974,49.148488,0 -121.945427,49.148866,0 -121.939971,49.150199,0 -121.933773,49.151746,0 -121.923113,49.154406,0 -121.921832,49.154736,0 -121.921628,49.154789,0 -121.920331,49.155035,0 -121.919293,49.155154,0 -121.918275,49.155175,0 -121.918206,49.155177,0 -121.917088,49.155194,0 -121.91326,49.155171,0 -121.909931,49.155151,0 -121.896475,49.15508,0 -121.874467,49.154959,0 -121.874419,49.154959,0 -121.874352,49.154958,0 -121.852223,49.154824,0 -121.841006,49.154755,0 -121.834565,49.154714,0 -121.834539,49.154714,0 -121.833203,49.154709,0 -121.832243,49.154705,0 -121.83014,49.154696,0 -121.830126,49.154696,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -4737,32 +4684,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-118.256904,50.992146,0 -118.24821,50.993529,0 -118.246809,50.993752,0 -118.246663,50.993784,0 -118.246055,50.993916,0 -118.245417,50.994106,0 -118.245329,50.994133,0 -118.245016,50.994265,0 -118.244585,50.994447,0 -118.244194,50.994672,0 -118.244059,50.994749,0 -118.243558,50.995111,0 -118.24318,50.995497,0 -118.243165,50.995515,0 -118.242071,50.996923,0 -118.241406,50.997779,0 -118.241255,50.997973,0 -118.240729,50.998521,0 -118.240196,50.998958,0 -118.239377,50.999484,0 -118.239221,50.999562,0 -118.238431,50.999958,0 -118.238397,50.999975,0 -118.238304,51.000015,0 -118.237207,51.00049,0 -118.23389,51.00192,0 -118.233806,51.001957,0 -118.233075,51.002272,0 -118.23297,51.002305,0 -118.232072,51.002591,0 -118.231022,51.002779,0 -118.230772,51.002802,0 -118.22645,51.003198,0 -118.225756,51.003262,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 26. Ditching between Blue Ridge Rd and Corbett Rd for 4.7 km (8 to 13 km east of Quesnel). Until Thu Mar 26. Single lane alternating traffic. Watch for Crew and Equipment. Last updated Thu Mar 26 at 8:29 AM PDT. (DBC-89221)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 26&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Blue Ridge Rd and Corbett Rd for 4.7 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 13 to 8 km east of Quesnel&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T10:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-89221
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.376824,53.024117,0 -122.374118,53.023146,0 -122.373152,53.02284,0 -122.372417,53.022658,0 -122.371609,53.022517,0 -122.370895,53.022467,0 -122.369893,53.02247,0 -122.367145,53.022635,0 -122.364086,53.022819,0 -122.362607,53.022908,0 -122.361206,53.022992,0 -122.361036,53.023002,0 -122.359328,53.023156,0 -122.358625,53.023239,0 -122.356024,53.023544,0 -122.355726,53.023579,0 -122.347449,53.024551,0 -122.343265,53.025043,0 -122.338606,53.025589,0 -122.336403,53.025848,0 -122.336281,53.025854,0 -122.335533,53.025895,0 -122.335307,53.025907,0 -122.334058,53.025896,0 -122.334016,53.025893,0 -122.331265,53.025685,0 -122.330703,53.025643,0 -122.329562,53.025534,0 -122.327598,53.025348,0 -122.326438,53.025237,0 -122.325112,53.025111,0 -122.322435,53.024877,0 -122.319545,53.024623,0 -122.3184,53.024523,0 -122.31088,53.023863,0 -122.308009,53.023611,0 -122.307783,53.023591,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -5513,31 +5434,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 97, in both directions. Bridge maintenance at William R Bennett Bridge (Kelowna). Until Thu Mar 26. From 9:00 PM to 5:00 AM PDT on Sunday, Monday, Tuesday, Wednesday and Thursday. Lane Closure. Watch for traffic control. Watch for slow-moving equipment. Last updated Wed Mar 18 at 3:36 PM PDT. (DBC-88874)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 97&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At William R Bennett Bridge&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Kelowna&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-22T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88874
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <Point>
-            <coordinates>-119.511078,49.8795,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>Highway 10, in both directions. Utility work between 124 St and 128 St (Surrey). Until Tue Mar 31. From 9:00 AM to 3:00 PM PDT daily. Lane Closure. Watch for traffic control. Expect delays. Night work on Mar 17 from 8pm-5am. Last updated Tue Mar 17 at 3:49 PM PDT. (DBC-88388)</name>
           <description>
     &lt;![CDATA[
@@ -5770,7 +5666,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Utility work planned between Gagnon Rd and Spokeshute St for 4.1 km (5 to 1 km west of Terrace). Starting Fri Mar 27 until Fri Apr 17. From 8:00 AM to 4:00 PM PDT on weekdays. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Last updated Tue Mar 24 at 1:55 PM PDT. (DBC-89112)</name>
+          <name>Highway 16 (Yellowhead Highway). Utility work between Gagnon Rd and Spokeshute St for 4.1 km (5 to 1 km west of Terrace). Until Fri Apr 17. From 8:00 AM to 4:00 PM PDT on weekdays. Single lane alternating traffic. Watch for traffic control. Last updated Tue Mar 24 at 1:55 PM PDT. (DBC-89112)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -5782,7 +5678,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
     &lt;b&gt;Location:&lt;/b&gt; Between Gagnon Rd and Spokeshute St for 4.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 to 5 km west of Terrace&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-24T13:55:27-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:00-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -5973,32 +5869,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.805792,50.314526,0 -122.805625,50.314761,0 -122.805458,50.31493,0 -122.805068,50.315324,0 -122.804796,50.315592,0 -122.804689,50.31568,0 -122.804341,50.315966,0 -122.803701,50.31635,0 -122.803622,50.316398,0 -122.803064,50.316648,0 -122.802365,50.316893,0 -122.801756,50.31705,0 -122.801041,50.31717,0 -122.80067,50.317194,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 16 (Yellowhead Highway). Utility work between Gagnon Rd and Spokeshute St for 4.1 km (5 to 1 km west of Terrace). Until Thu Mar 26. From 8:00 AM to 4:00 PM PDT daily. Single lane alternating traffic. Watch for traffic control. Last updated Wed Mar 18 at 8:52 AM PDT. (DBC-88843)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 16&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Gagnon Rd and Spokeshute St for 4.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 1 to 5 km west of Terrace&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-25T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88843
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-128.714081,54.49708,0 -128.713365,54.497474,0 -128.712338,54.497968,0 -128.708498,54.499462,0 -128.704122,54.501164,0 -128.698234,54.503454,0 -128.697134,54.503852,0 -128.696079,54.504135,0 -128.692602,54.504774,0 -128.691635,54.50504,0 -128.690927,54.505287,0 -128.690102,54.505636,0 -128.689348,54.506057,0 -128.688711,54.506476,0 -128.686269,54.50848,0 -128.685526,54.509086,0 -128.68488,54.509691,0 -128.684452,54.510182,0 -128.684089,54.510677,0 -128.68368,54.511399,0 -128.683373,54.512048,0 -128.683272,54.512263,0 -128.682131,54.51468,0 -128.680922,54.517243,0 -128.680897,54.517296,0 -128.680499,54.518075,0 -128.680203,54.518479,0 -128.679946,54.518743,0 -128.679689,54.518952,0 -128.67928,54.519219,0 -128.678657,54.51953,0 -128.677911,54.519802,0 -128.674568,54.520866,0 -128.673731,54.521133,0 -128.672564,54.521504,0 -128.671664,54.521721,0 -128.670922,54.521842,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6575,7 +6445,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 93. Slushy with slippery sections between Stanley St and the end of Highway 93 for 94.4 km (Radium Hot Springs to British Columbia and Alberta Border). Last updated Thu Mar 26 at 9:51 PM MDT. (DBCRCON-249500)</name>
+          <name>Highway 93. Slushy with slippery sections between Stanley St and the end of Highway 93 for 94.4 km (Radium Hot Springs to British Columbia and Alberta Border). Last updated Fri Mar 27 at 1:03 AM MDT. (DBCRCON-249500)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6587,7 +6457,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
     &lt;b&gt;Location:&lt;/b&gt; Between Stanley St and the end of Highway 93 for 94.4 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; British Columbia and Alberta Border to Radium Hot Springs&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T20:51:35-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:03:52-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -6676,6 +6546,58 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-126.846526,54.608741,0 -126.839478,54.595554,0 -126.821433,54.589706,0 -126.816422,54.586571,0 -126.759995,54.515061,0 -126.740825,54.492067,0 -126.740563,54.490634,0 -126.747655,54.470481,0 -126.747498,54.458972,0 -126.751484,54.45345,0 -126.751719,54.450676,0 -126.747012,54.445346,0 -126.745969,54.434811,0 -126.739445,54.429528,0 -126.727475,54.408225,0 -126.72276,54.401359,0 -126.719347,54.398592,0 -126.7148,54.396041,0 -126.713331,54.392819,0 -126.711363,54.391498,0 -126.686948,54.389012,0 -126.682556,54.389132,0 -126.678846,54.389913,0 -126.656016,54.39798,0 -126.653353,54.398408,0 -126.645573,54.401106,0 -126.642352,54.401444,0 -126.641229,54.402463,0 -126.641584,54.407977,0 -126.640048,54.411164,0 -126.621676,54.428698,0 -126.618466,54.430969,0 -126.584644,54.445941,0 -126.579448,54.446985,0 -126.550241,54.449494,0 -126.538053,54.454667,0 -126.503119,54.477327,0 -126.490009,54.487188,0 -126.484955,54.493657,0 -126.468788,54.510866,0 -126.466156,54.512672,0 -126.463505,54.513707,0 -126.452553,54.515429,0 -126.443552,54.517426,0 -126.430865,54.519005,0 -126.417303,54.518997,0 -126.406324,54.520815,0 -126.395597,54.524196,0 -126.389266,54.524653,0 -126.38587,54.52439,0 -126.377926,54.522634,0 -126.369318,54.521841,0 -126.357305,54.517881,0 -126.348157,54.517365,0 -126.33626,54.515479,0 -126.321868,54.512494,0 -126.308698,54.509092,0 -126.301051,54.507079,0 -126.293114,54.504291,0 -126.285441,54.502979,0 -126.27961,54.500606,0 -126.272206,54.495161,0 -126.26681,54.493476,0 -126.260063,54.492259,0 -126.253244,54.488903,0 -126.244218,54.486542,0 -126.231614,54.485206,0 -126.226736,54.483763,0 -126.210598,54.472137,0 -126.205725,54.466465,0 -126.20093,54.463529,0 -126.196505,54.459667,0 -126.195406,54.457424,0 -126.19581,54.454651,0 -126.187631,54.439303,0 -126.18277,54.435216,0 -126.179905,54.431601,0 -126.178324,54.430501,0 -126.164416,54.428494,0 -126.145325,54.422179,0 -126.107137,54.41402,0 -126.102262,54.413464,0 -126.09146,54.413553,0 -126.087215,54.412918,0 -126.084215,54.410994,0 -126.079659,54.403352,0 -126.078014,54.402144,0 -126.07559,54.401449,0 -126.043398,54.40306,0 -126.016658,54.399933,0 -126.000083,54.398602,0 -125.98646,54.396522,0 -125.978445,54.393713,0 -125.953333,54.380922,0 -125.937558,54.371732,0 -125.924426,54.361868,0 -125.918399,54.354645,0 -125.914806,54.351536,0 -125.910151,54.348378,0 -125.89895,54.345158,0 -125.889518,54.337394,0 -125.888067,54.335487,0 -125.886748,54.331196,0 -125.881042,54.323717,0 -125.869352,54.317972,0 -125.856333,54.308608,0 -125.843756,54.304167,0 -125.836421,54.299095,0 -125.835134,54.297714,0 -125.832526,54.291362,0 -125.826666,54.284931,0 -125.81958,54.281233,0 -125.787511,54.252286,0 -125.78217,54.246679,0 -125.779371,54.24456,0 -125.77626,54.240185,0 -125.772073,54.236387,0 -125.763708,54.233225,0 -125.762437,54.229594,0 -125.762735,54.228713,0 -125.756425,54.225701,0 -125.751602,54.224029,0 -125.745028,54.223245,0 -125.742179,54.223973,0 -125.737188,54.227511,0 -125.733836,54.227405,0 -125.724311,54.223113,0 -125.723525,54.222018,0 -125.723232,54.218673,0 -125.714416,54.212065,0 -125.711895,54.210977,0 -125.706633,54.209664,0 -125.704065,54.20787,0 -125.702088,54.207213,0 -125.698477,54.207567,0 -125.694092,54.210668,0 -125.691007,54.211839,0 -125.666711,54.214772,0 -125.663756,54.214442,0 -125.655483,54.212392,0 -125.647904,54.213435,0 -125.626245,54.210939,0 -125.615786,54.210979,0 -125.613463,54.210238,0 -125.610095,54.20758,0 -125.58307,54.194626,0 -125.580524,54.193817,0 -125.571003,54.194125,0 -125.566257,54.19331,0 -125.543392,54.191741,0 -125.526028,54.192036,0 -125.496808,54.189221,0 -125.491867,54.18828,0 -125.46921,54.179603,0 -125.456322,54.169227,0 -125.445531,54.164179,0 -125.423157,54.151414,0 -125.417637,54.150192,0 -125.402899,54.150612,0 -125.395729,54.149816,0 -125.382705,54.145642,0 -125.374644,54.142106,0 -125.366747,54.140147,0 -125.364308,54.138547,0 -125.36038,54.13412,0 -125.349789,54.129069,0 -125.349351,54.12716,0 -125.351299,54.124436,0 -125.350475,54.122561,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Fri Mar 27 at 1:03 AM MDT. (DBCRCON-249535)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Beaverfoot Rd and BC/Alberta Border for 45.6 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 1 km west of West Boundary of Yoho National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:03:52-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-249535
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Highway 1 (TransCanada Highway). Slushy with slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Fri Mar 27 at 12:03 AM PDT. (DBCRCON-249232)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_SNOW_PACKED&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:03:52-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-249232
+    ]]&gt;
+    </description>
+          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-117.715278,51.209709,0 -117.708402,51.211371,0 -117.700185,51.2126,0 -117.68871,51.21638,0 -117.682962,51.219548,0 -117.674942,51.226495,0 -117.669622,51.229622,0 -117.664074,51.236236,0 -117.661891,51.237254,0 -117.646958,51.241161,0 -117.636952,51.245731,0 -117.634502,51.24601,0 -117.629235,51.245496,0 -117.616535,51.248077,0 -117.61,51.250736,0 -117.597572,51.251915,0 -117.58299,51.257932,0 -117.564233,51.261767,0 -117.551012,51.26225,0 -117.542573,51.259559,0 -117.539194,51.259342,0 -117.525717,51.263671,0 -117.517386,51.265797,0 -117.51127,51.268241,0 -117.504177,51.269092,0 -117.50335,51.269969,0 -117.503513,51.27111,0 -117.508468,51.274324,0 -117.513531,51.282356,0 -117.513447,51.28681,0 -117.519916,51.299263,0 -117.519849,51.305783,0 -117.514427,51.312509,0 -117.510772,51.314349,0 -117.491433,51.319414,0 -117.483001,51.320722,0 -117.474549,51.323369,0 -117.465954,51.324433,0 -117.451808,51.328721,0 -117.446853,51.329622,0 -117.444192,51.331517,0 -117.439614,51.33693,0 -117.43428,51.345369,0 -117.435887,51.348741,0 -117.436664,51.353394,0 -117.438156,51.35626,0 -117.438666,51.360597,0 -117.443273,51.367438,0 -117.447027,51.37051,0 -117.449612,51.37359,0 -117.452769,51.378901,0 -117.452436,51.381253,0 -117.448274,51.385324,0 -117.448421,51.387085,0 -117.459849,51.396511,0 -117.464835,51.402926,0 -117.468823,51.405548,0 -117.470373,51.407571,0 -117.475287,51.426085,0 -117.479182,51.432974,0 -117.47712,51.43788,0 -117.476881,51.440196,0 -117.477994,51.443507,0 -117.478154,51.450602,0 -117.479127,51.453776,0 -117.479137,51.461384,0 -117.480888,51.466222,0 -117.482285,51.475901,0 -117.473325,51.48932,0 -117.465079,51.496951,0 -117.461073,51.50215,0 -117.459211,51.502981,0 -117.449683,51.505333,0 -117.445191,51.510037,0 -117.442585,51.511528,0 -117.439232,51.512214,0 -117.435588,51.511942,0 -117.423752,51.508475,0 -117.396474,51.492685,0 -117.362033,51.478759,0 -117.359052,51.478345,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -6783,7 +6705,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 23. Watch for slippery sections between Junction Highway 1 and Mica Dam for 150.1 km (Revelstoke). Last updated Thu Mar 26 at 8:51 PM PDT. (DBCRCON-249512)</name>
+          <name>Highway 23. Watch for slippery sections between Junction Highway 1 and Mica Dam for 150.1 km (Revelstoke). Last updated Fri Mar 27 at 12:03 AM PDT. (DBCRCON-249512)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -6795,7 +6717,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
     &lt;b&gt;Location:&lt;/b&gt; Between Junction Highway 1 and Mica Dam for 150.1 km&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; Revelstoke&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T20:51:35-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:03:52-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
@@ -7121,32 +7043,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Highway 1 (TransCanada Highway). Slushy with slippery sections between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km (1 km east of West Boundary of Glacier National Park to 14 km east of East Boundary of Glacier National Park). Last updated Thu Mar 26 at 8:51 PM PDT. (DBCRCON-249232)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_SNOW_PACKED&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Glacier National Park West Boundary and Quartz Creek Bridge (Structure) for 57.1 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 14 km east of East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T20:51:35-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-249232
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-117.715278,51.209709,0 -117.708402,51.211371,0 -117.700185,51.2126,0 -117.68871,51.21638,0 -117.682962,51.219548,0 -117.674942,51.226495,0 -117.669622,51.229622,0 -117.664074,51.236236,0 -117.661891,51.237254,0 -117.646958,51.241161,0 -117.636952,51.245731,0 -117.634502,51.24601,0 -117.629235,51.245496,0 -117.616535,51.248077,0 -117.61,51.250736,0 -117.597572,51.251915,0 -117.58299,51.257932,0 -117.564233,51.261767,0 -117.551012,51.26225,0 -117.542573,51.259559,0 -117.539194,51.259342,0 -117.525717,51.263671,0 -117.517386,51.265797,0 -117.51127,51.268241,0 -117.504177,51.269092,0 -117.50335,51.269969,0 -117.503513,51.27111,0 -117.508468,51.274324,0 -117.513531,51.282356,0 -117.513447,51.28681,0 -117.519916,51.299263,0 -117.519849,51.305783,0 -117.514427,51.312509,0 -117.510772,51.314349,0 -117.491433,51.319414,0 -117.483001,51.320722,0 -117.474549,51.323369,0 -117.465954,51.324433,0 -117.451808,51.328721,0 -117.446853,51.329622,0 -117.444192,51.331517,0 -117.439614,51.33693,0 -117.43428,51.345369,0 -117.435887,51.348741,0 -117.436664,51.353394,0 -117.438156,51.35626,0 -117.438666,51.360597,0 -117.443273,51.367438,0 -117.447027,51.37051,0 -117.449612,51.37359,0 -117.452769,51.378901,0 -117.452436,51.381253,0 -117.448274,51.385324,0 -117.448421,51.387085,0 -117.459849,51.396511,0 -117.464835,51.402926,0 -117.468823,51.405548,0 -117.470373,51.407571,0 -117.475287,51.426085,0 -117.479182,51.432974,0 -117.47712,51.43788,0 -117.476881,51.440196,0 -117.477994,51.443507,0 -117.478154,51.450602,0 -117.479127,51.453776,0 -117.479137,51.461384,0 -117.480888,51.466222,0 -117.482285,51.475901,0 -117.473325,51.48932,0 -117.465079,51.496951,0 -117.461073,51.50215,0 -117.459211,51.502981,0 -117.449683,51.505333,0 -117.445191,51.510037,0 -117.442585,51.511528,0 -117.439232,51.512214,0 -117.435588,51.511942,0 -117.423752,51.508475,0 -117.396474,51.492685,0 -117.362033,51.478759,0 -117.359052,51.478345,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>Highway 37. Compact ice between Dease River Bridge and the end of Highway 37 for 164.6 km (46 km south of Jade City to British Columbia and Yukon Border). Watch for slippery sections. Last updated Thu Mar 26 at 3:46 PM PDT. (DBCRCON-249417)</name>
           <description>
     &lt;![CDATA[
@@ -7196,32 +7092,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-126.301051,54.507079,0 -126.297826,54.51281,0 -126.293928,54.515497,0 -126.293331,54.516815,0 -126.301625,54.544083,0 -126.299518,54.550398,0 -126.300584,54.563267,0 -126.299757,54.564593,0 -126.295107,54.568152,0 -126.29463,54.569497,0 -126.295305,54.570926,0 -126.318744,54.592879,0 -126.32073,54.595576,0 -126.320984,54.597978,0 -126.315533,54.623612,0 -126.321899,54.638011,0 -126.321724,54.639987,0 -126.296747,54.662415,0 -126.264898,54.673485,0 -126.262353,54.675132,0 -126.247183,54.698359,0 -126.240719,54.703262,0 -126.239979,54.704939,0 -126.239284,54.714591,0 -126.238474,54.716209,0 -126.236166,54.717979,0 -126.212389,54.72841,0 -126.210725,54.730089,0 -126.202899,54.742973,0 -126.196379,54.746965,0 -126.188343,54.750497,0 -126.183626,54.753507,0 -126.178565,54.757893,0 -126.176913,54.760581,0 -126.176854,54.763027,0 -126.178505,54.765311,0 -126.183115,54.768679,0 -126.183961,54.770501,0 -126.183397,54.77325,0 -126.182006,54.774807,0 -126.156696,54.792235,0 -126.155465,54.794223,0 -126.160464,54.812653,0 -126.16199,54.814006,0 -126.166302,54.81587,0 -126.169424,54.825788,0 -126.172199,54.830427,0 -126.178921,54.836146,0 -126.181248,54.840051,0 -126.183356,54.842074,0 -126.188616,54.85075,0 -126.18821,54.855614,0 -126.185261,54.858583,0 -126.186221,54.864039,0 -126.189887,54.866425,0 -126.191779,54.869326,0 -126.200396,54.874119,0 -126.203468,54.876634,0 -126.203541,54.883347,0 -126.20659,54.887351,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 1 (Kicking Horse Pass). Watch for slippery sections between Beaverfoot Rd and BC/Alberta Border for 45.6 km (1 km west of West Boundary of Yoho National Park to 16 km east of Field). Last updated Thu Mar 26 at 9:51 PM MDT. (DBCRCON-249535)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 1&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Beaverfoot Rd and BC/Alberta Border for 45.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 16 km east of Field to 1 km west of West Boundary of Yoho National Park&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T20:51:35-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-249535
-    ]]&gt;
-    </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-116.652654,51.239147,0 -116.641104,51.23211,0 -116.618543,51.222365,0 -116.609352,51.222883,0 -116.596108,51.218645,0 -116.582961,51.216888,0 -116.579195,51.217512,0 -116.573846,51.22082,0 -116.573077,51.222222,0 -116.573271,51.223856,0 -116.58056,51.236959,0 -116.579509,51.244074,0 -116.586545,51.250988,0 -116.590146,51.262413,0 -116.596073,51.266938,0 -116.598287,51.270343,0 -116.596988,51.272376,0 -116.585442,51.27915,0 -116.58278,51.282051,0 -116.582499,51.291302,0 -116.579672,51.297586,0 -116.579959,51.306209,0 -116.574805,51.322731,0 -116.573687,51.324309,0 -116.571165,51.32585,0 -116.558379,51.328628,0 -116.554893,51.330594,0 -116.531772,51.357875,0 -116.520683,51.368228,0 -116.514043,51.372366,0 -116.513015,51.373937,0 -116.511884,51.380024,0 -116.510133,51.381331,0 -116.506152,51.382807,0 -116.503837,51.384324,0 -116.493909,51.397377,0 -116.482256,51.403739,0 -116.464582,51.410793,0 -116.445868,51.419159,0 -116.430842,51.420355,0 -116.428772,51.420984,0 -116.421972,51.424336,0 -116.415428,51.429558,0 -116.413607,51.430451,0 -116.394079,51.431856,0 -116.391518,51.432712,0 -116.386705,51.43584,0 -116.384078,51.436495,0 -116.37989,51.436345,0 -116.375078,51.43696,0 -116.368479,51.436479,0 -116.360559,51.437024,0 -116.358499,51.43767,0 -116.353195,51.440686,0 -116.339529,51.442878,0 -116.331513,51.446632,0 -116.316025,51.449748,0 -116.309383,51.451849,0 -116.285948,51.453348,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -8371,7 +8241,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1102.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1095.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1094.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.714890-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.041728-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/adams-lake-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8408,7 +8278,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1049.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1048.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1050.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.719935-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.051428-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/arrow-park-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8445,7 +8315,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.708566-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.033025-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/glade-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8482,7 +8352,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/569.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/567.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/570.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.831323-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.062030-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/harrop-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8519,7 +8389,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://prd-images.drivebc.ca/bchighwaycam/pub/cameras/860.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/442.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1027.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1043.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1028.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.687488-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.002387-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/needles-cable-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8559,7 +8429,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/983.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/986.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/985.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.691837-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.013268-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/barnston-island-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8596,7 +8466,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.838180-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.071505-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/big-bar-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8633,7 +8503,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.842934-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.084100-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/usk-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8670,7 +8540,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.862844-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.107193-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/little-fort-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8707,7 +8577,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.676587-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:25.982991-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/lytton-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8744,7 +8614,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.683063-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:25.991361-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/mclure-reaction-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8784,7 +8654,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/140.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1083.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.700494-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.022607-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/francois-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8821,7 +8691,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/304.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1031.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/303.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/1030.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.871086-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:26.117883-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
@@ -8858,7 +8728,7 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         
         &lt;h4&gt;Live Webcams&lt;/h4&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/188.jpg' target='_blank'&gt;Webcam 1&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/518.jpg' target='_blank'&gt;Webcam 2&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/969.jpg' target='_blank'&gt;Webcam 3&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/481.jpg' target='_blank'&gt;Webcam 4&lt;/a&gt;&lt;br/&gt;&lt;a href='https://images.drivebc.ca/bchighwaycam/pub/cameras/482.jpg' target='_blank'&gt;Webcam 5&lt;/a&gt;&lt;br/&gt;
         
-        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-26T23:00:31.665615-07:00&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T00:00:25.972482-07:00&lt;/p&gt;
         
         &lt;p&gt;&lt;a href=&quot;https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/upper-arrow-lake-ferry&quot; target=&quot;_blank&quot;&gt;More Information&lt;/a&gt;&lt;/p&gt;
         ]]&gt;
