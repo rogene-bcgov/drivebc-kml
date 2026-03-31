@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-31 20:10:15 UTC
+        Last updated: 2026-03-31 20:43:59 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -554,7 +554,32 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
           </Point>
         </Placemark>
         <Placemark>
-          <name>Highway 91A, westbound. Vehicle incident between Queensborough Bridge and Queensborough Bridge (New Westminster). Right lane is blocked. Expect delays. Next update time Tue Mar 31 at 1:15 PM PDT. Last updated Tue Mar 31 at 1:05 PM PDT. (DBC-89429)</name>
+          <name>Highway 91, southbound. Police incident at Exit 6: 72 Ave (Delta). Right lane of exit ramp closed. Watch for traffic control. Next update time Tue Mar 31 at 1:45 PM PDT. Last updated Tue Mar 31 at 1:14 PM PDT. (DBC-89431)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; INCIDENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; HAZARD&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; S&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 91&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 6: 72 Ave&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Delta&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-31T13:14:48-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-31T13:45:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-89431
+    ]]&gt;
+    </description>
+          <styleUrl>#style_INCIDENT</styleUrl>
+          <Point>
+            <coordinates>-122.928994,49.134119,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 91A, westbound. Road cleared between Queensborough Bridge and Queensborough Bridge (New Westminster). Last updated Tue Mar 31 at 1:25 PM PDT. (DBC-89429)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
@@ -566,8 +591,8 @@ Nearby rest areas that remain open: Illecillewaet Break check rest area (Commerc
     &lt;b&gt;Location:&lt;/b&gt; Between Queensborough Bridge and Queensborough Bridge&lt;br/&gt;
     &lt;b&gt;Closest Landmark:&lt;/b&gt; New Westminster&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-31T13:05:46-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-03-31T13:15:00-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-31T13:25:18-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
     &lt;b&gt;ID:&lt;/b&gt; DBC-89429
@@ -2714,32 +2739,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-122.733672,49.104153,0 -122.731688,49.104131,0 -122.730303,49.104116,0 -122.723841,49.104079,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Highway 9, northbound. Utility work planned between Pine Ave and Balsam Ave for 0.3 km (Harrison Hot Springs). Starting Wed Apr 8 at 9:00 AM PDT until Wed Apr 8 at 3:00 PM PDT. Single lane alternating traffic will be in effect. Last updated Tue Mar 31 at 12:55 PM PDT. (DBC-89430)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; CONSTRUCTION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; ROAD_MAINTENANCE&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 9&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Pine Ave and Balsam Ave for 0.3 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Harrison Hot Springs&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-31T12:55:01-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-89430
-    ]]&gt;
-    </description>
-          <styleUrl>#style_CONSTRUCTION</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-121.782042,49.293889,0 -121.783047,49.294605,0 -121.783438,49.294884,0 -121.783769,49.295203,0 -121.783949,49.295545,0 -121.784174,49.296395,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
