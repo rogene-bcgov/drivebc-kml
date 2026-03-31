@@ -4,7 +4,7 @@
     <name>DriveBC Traffic Events &amp; Ferry Information (Live)</name>
     <description>
         Live traffic events and ferry information from DriveBC API
-        Last updated: 2026-03-31 07:28:57 UTC
+        Last updated: 2026-03-31 07:55:56 UTC
         
         Includes:
         • Traffic events (construction, incidents, road conditions, weather)
@@ -120,7 +120,7 @@
       </LineStyle>
     </Style>
     <Folder>
-      <name>🚗 Traffic Events (276)</name>
+      <name>🚗 Traffic Events (275)</name>
       <Folder>
         <name>Incident Events</name>
         <Placemark>
@@ -5749,33 +5749,263 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
         </Placemark>
       </Folder>
       <Folder>
-        <name>Road Condition Events</name>
+        <name>Special Event Events</name>
         <Placemark>
-          <name>Highway 3 (Crowsnest Highway). Watch for slippery sections between First Avalanche Gate and Sunday Summit for 78.6 km (17 km east of Hope to 32 km west of Princeton). Compact snow. Last updated Mon Mar 30 at 7:50 AM PDT. (DBCRCON-249908)</name>
+          <name>Highway 17 (Patricia Bay Highway), northbound. Special event planned at Exit 26: McTavish Rd (North Saanich). Starting Sun Apr 12 at 10:30 AM PDT until Sun Apr 12 at 12:15 PM PDT. Right turn lane will be closed. Watch for traffic control personnel. Expect delays. Last updated Tue Mar 10 at 4:37 PM PDT. (DBC-88471)</name>
           <description>
     &lt;![CDATA[
     &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; ROAD_CONDITION&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PARTLY_ICY&lt;br/&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
     &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 3&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between First Avalanche Gate and Sunday Summit for 78.6 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 32 km west of Princeton to 17 km east of Hope&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At Exit 26: McTavish Rd&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Saanich&lt;br/&gt;
     &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-30T07:50:23-07:00&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T16:37:53-07:00&lt;br/&gt;
     &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
     &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
     &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBCRCON-249908
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88471
     ]]&gt;
     </description>
-          <styleUrl>#style_ROAD_CONDITION</styleUrl>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-123.411927,48.630531,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Road 40 . Special event between Yolakom and Terzaghi Dam. Until Tue Mar 31. From 7:00 AM to 5:00 PM PDT on weekdays. Watch for traffic control. Last updated Wed Mar 11 at 2:30 PM PDT. (DBC-88502)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Road 40&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Yolakom and Terzaghi Dam&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-11T14:30:27-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88502
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-122.425921,50.838288,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 99, in both directions. Special event planned between W Pender St and Stanley Park Dr for 3.0 km (Vancouver). Starting Sun Apr 19 at 7:00 AM PST until Sun Apr 19 at 12:00 PM PST. Roadway will be reduced to two lanes. Expect delays. Last updated Wed Jan 14 at 2:28 PM PST. (DBC-86061)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between W Pender St and Stanley Park Dr for 3.0 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-14T14:28:26-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-86061
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-121.235149,49.27626,0 -121.217733,49.268489,0 -121.21274,49.266848,0 -121.20664,49.262967,0 -121.195862,49.260128,0 -121.185761,49.250763,0 -121.181895,49.250114,0 -121.174967,49.249943,0 -121.170616,49.248959,0 -121.156965,49.241588,0 -121.141789,49.239558,0 -121.133345,49.23904,0 -121.131305,49.238449,0 -121.120901,49.233826,0 -121.108944,49.229334,0 -121.098965,49.223819,0 -121.093858,49.221711,0 -121.088829,49.218229,0 -121.081998,49.215181,0 -121.078272,49.211984,0 -121.07485,49.210778,0 -121.07279,49.211283,0 -121.072168,49.213906,0 -121.060645,49.228505,0 -121.058423,49.229271,0 -121.056761,49.228243,0 -121.055649,49.224966,0 -121.052985,49.223396,0 -121.05155,49.223119,0 -121.048391,49.223734,0 -121.043947,49.22312,0 -121.040688,49.221779,0 -121.038862,49.222085,0 -121.033746,49.221318,0 -121.026773,49.217154,0 -121.022522,49.213731,0 -121.016148,49.210199,0 -121.014191,49.20971,0 -121.009964,49.209654,0 -121.005536,49.20752,0 -121.000673,49.20665,0 -120.990303,49.203662,0 -120.987459,49.201491,0 -120.98342,49.200334,0 -120.98268,49.199299,0 -120.982813,49.196561,0 -120.980976,49.195637,0 -120.977297,49.194965,0 -120.973489,49.190988,0 -120.971175,49.18979,0 -120.968896,49.186274,0 -120.969471,49.18515,0 -120.969021,49.182173,0 -120.964063,49.176878,0 -120.957281,49.173817,0 -120.956101,49.172155,0 -120.950523,49.167344,0 -120.94259,49.163801,0 -120.930204,49.160161,0 -120.925447,49.158293,0 -120.920237,49.157591,0 -120.911432,49.154768,0 -120.899454,49.148482,0 -120.89518,49.146645,0 -120.890853,49.145509,0 -120.889777,49.144064,0 -120.890082,49.140491,0 -120.888236,49.138296,0 -120.883756,49.135055,0 -120.881976,49.130866,0 -120.878225,49.127646,0 -120.877622,49.123831,0 -120.874493,49.120051,0 -120.869113,49.116521,0 -120.849058,49.111722,0 -120.846891,49.110663,0 -120.844495,49.10759,0 -120.839858,49.105813,0 -120.836146,49.102051,0 -120.834919,49.10017,0 -120.834316,49.095934,0 -120.829767,49.090877,0 -120.823555,49.087145,0 -120.813095,49.079693,0 -120.810709,49.076191,0 -120.806051,49.074298,0 -120.802553,49.071468,0 -120.798636,49.069857,0 -120.793397,49.068495,0 -120.790086,49.066203,0 -120.780704,49.062128,0 -120.77752,49.061398,0 -120.758858,49.060128,0 -120.749014,49.056364,0 -120.740155,49.056892,0 -120.731711,49.058184,0 -120.729804,49.059254,0 -120.724244,49.066258,0 -120.72185,49.068147,0 -120.713824,49.072415,0 -120.705126,49.074281,0 -120.699579,49.07619,0 -120.694222,49.082327,0 -120.69015,49.084446,0 -120.688214,49.087714,0 -120.673492,49.094843,0 -120.669597,49.099403,0 -120.665742,49.101401,0 -120.662748,49.105407,0 -120.659286,49.107235,0 -120.656661,49.109722,0 -120.648047,49.112746,0 -120.63849,49.118671,0 -120.6285,49.122642,0 -120.623873,49.129757,0 -120.619654,49.134883,0 -120.611242,49.141487,0 -120.609126,49.145791,0 -120.607658,49.147227,0 -120.598487,49.152674,0 -120.59573,49.153141,0 -120.58928,49.153101,0 -120.58744,49.15384,0 -120.586563,49.15547,0 -120.584253,49.157146,0 -120.583691,49.159253,0 -120.584135,49.16265,0 -120.581995,49.16478,0 -120.57808,49.166133,0 -120.574624,49.165731,0 -120.572401,49.166788,0 -120.570176,49.165725,0 -120.56889,49.165771,0 -120.566768,49.166734,0 -120.565066,49.169656,0 -120.561608,49.169677,0 -120.557954,49.170705,0 -120.552204,49.174941,0 -120.551557,49.176333,0 -120.551728,49.178887,0 -120.554308,49.181891,0 -120.555649,49.186701,0 -120.557472,49.188664,0 -120.560484,49.188506,0 -120.561806,49.18913,0 -120.561459,49.189686,0 -120.559825,49.190141,0 -120.55938,49.191562,0 -120.561563,49.197952,0 -120.55966,49.202098,0 -120.557654,49.203559,0 -120.555085,49.207112,0 -120.555038,49.208762,0 -120.552177,49.209627,0 -120.551212,49.210469,0 -120.551733,49.216154,0 -120.548772,49.217382,0 -120.547383,49.219252,0 -120.546243,49.224631,0 -120.548697,49.226888,0 -120.54981,49.231815,0 -120.554325,49.234982,0 -120.558742,49.23603,0 -120.561894,49.238868,0</coordinates>
+            <coordinates>-123.130597,49.290575,0 -123.132114,49.291606,0 -123.133719,49.292623,0 -123.135273,49.293615,0 -123.136072,49.294137,0 -123.136244,49.294137,0 -123.136722,49.294458,0 -123.136887,49.29474,0 -123.136912,49.29492,0 -123.13692,49.294981,0 -123.136836,49.295275,0 -123.136654,49.295583,0 -123.136414,49.295989,0 -123.13618,49.296289,0 -123.136196,49.296444,0 -123.136203,49.296515,0 -123.136253,49.296637,0 -123.136356,49.296887,0 -123.136697,49.297255,0 -123.137119,49.297661,0 -123.137454,49.297886,0 -123.137476,49.2979,0 -123.138138,49.298188,0 -123.1387,49.298398,0 -123.140184,49.298952,0 -123.141785,49.299809,0 -123.142121,49.300046,0 -123.142213,49.300111,0 -123.142981,49.300633,0 -123.143285,49.300962,0 -123.144427,49.302113,0 -123.144862,49.303018,0 -123.14525,49.304069,0 -123.145247,49.305536,0 -123.145167,49.306506,0 -123.144757,49.307919,0 -123.144318,49.308697,0 -123.143977,49.309341,0 -123.14375,49.309663,0 -123.143365,49.310162,0 -123.142958,49.310641,0 -123.142639,49.311007,0 -123.142583,49.311079,0 -123.142543,49.311126,0 -123.141936,49.311811,0 -123.141758,49.311997,0 -123.141232,49.312548,0</coordinates>
           </LineString>
         </Placemark>
+        <Placemark>
+          <name>Fox Mountain Road - North Side. Special event at West of Eider Drive near Williams Lake. Until Fri Apr 24. BC Wildfire Service - Controlled burning planned periodically on the North side of Fox Mountain, west of Eider Drive. Traveler's may see smoke while driving. No planned traffic interruptions. Last updated Wed Mar 25 at 3:18 PM PDT. (DBC-89186)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Fox Mountain Road - North Side&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; At West of Eider Drive near Williams Lake&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-31T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-89186
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-122.112241,52.138805,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 14, in both directions. Special event planned between Meaford Ave and Danbrook Ave for 0.5 km (Langford). Starting Thu Apr 9 at 7:00 PM PST until Thu Apr 9 at 9:00 PM PST. Road closure planned. Royal Canadian Legion Parade. Next update time Thu Apr 9 at 9:00 PM PST. Last updated Tue Mar 3 at 2:26 PM PST. (DBC-88084)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 14&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Meaford Ave and Danbrook Ave for 0.5 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langford&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T14:26:05-08:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; 2026-04-09T21:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88084
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-123.497415,48.444246,0 -123.497089,48.444633,0 -123.496511,48.44575,0 -123.495964,48.446805,0 -123.495817,48.44709,0 -123.495809,48.447104,0 -123.495702,48.447316,0 -123.495628,48.447462,0 -123.495511,48.447792,0 -123.49541,48.44808,0 -123.495306,48.448511,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Hwy 20  . Special event between Highway 97 and Mackenzie Ave S. Until Sat Apr 4. Prescribed burn on WL Stampede Grounds. Smoke will be visible. No planned traffic interruptions. Last updated Thu Mar 26 at 2:38 PM PDT. (DBC-89242)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Hwy 20&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Highway 97 and Mackenzie Ave S&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-30T00:00:00-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-89242
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-122.128364,52.125018,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Jingle Pot Rd, in both directions. Special event planned between Allsop Road and Andres Road. Starting Sun May 10 at 7:30 AM PDT until Sun May 10 at 11:00 AM PDT. Watch for traffic control personnel. Westwood Lake Triathlon - slow down and watch for cyclists. Last updated Fri Mar 20 at 9:29 AM PDT. (DBC-88964)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Jingle Pot Rd&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Allsop Road and Andres Road&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-20T09:29:20-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-88964
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-124.040996,49.19068,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Hwy 20. Special event planned between Sheep Creek Brake Check and Chilanko Forks Road. Starting Wed Apr 1 until Tue Jun 30. Watch for traffic control personnel. Last updated Mon Mar 30 at 11:48 AM PDT. (DBC-89374)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Hwy 20&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Sheep Creek Brake Check and Chilanko Forks Road&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-30T11:48:23-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-89374
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-123.090536,51.945186,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Highway 7 (Lougheed Highway), in both directions. Special event planned between Hawkins Pickle Rd and Gledhill Rd for 0.9 km (4 to 3 km east of Mission). Starting Wed Apr 15 at 9:00 AM PDT until Wed Apr 15 at 12:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Bridge opening ceremony. Last updated Fri Mar 27 at 10:53 AM PDT. (DBC-89277)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hawkins Pickle Rd and Gledhill Rd for 0.9 km&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 to 4 km east of Mission&lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T10:53:58-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-89277
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-122.19663,49.16468,0 -122.196292,49.16448,0 -122.196274,49.164469,0 -122.195328,49.163623,0 -122.194772,49.163327,0 -122.194514,49.163229,0 -122.194227,49.163119,0 -122.192958,49.162635,0 -122.192672,49.162525,0 -122.192434,49.162434,0 -122.191334,49.162041,0 -122.190972,49.161941,0 -122.190384,49.161836,0 -122.190037,49.161806,0 -122.183754,49.161808,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Moha Road - Lillooet . Special event planned between Hollywood Cres - South End and Hollywood Cres North End. Starting Thu Apr 2 at 6:00 PM PDT until Thu Apr 2 at 8:00 PM PDT. Road closure planned. Watch for traffic control personnel. Planned burn between Landfill Road and Moha Road detour available via Hollywood Crescent. Expect limited visibility due to smoke. Last updated Wed Mar 25 at 3:20 PM PDT. (DBC-89163)</name>
+          <description>
+    &lt;![CDATA[
+    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
+    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
+    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
+    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
+    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
+    &lt;b&gt;Route:&lt;/b&gt; Moha Road - Lillooet&lt;br/&gt;
+    &lt;b&gt;Location:&lt;/b&gt; Between Hollywood Cres - South End and Hollywood Cres North End&lt;br/&gt;
+    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
+    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
+    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-25T15:20:10-07:00&lt;br/&gt;
+    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
+    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
+    &lt;hr/&gt;
+    &lt;b&gt;ID:&lt;/b&gt; DBC-89163
+    ]]&gt;
+    </description>
+          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
+          <Point>
+            <coordinates>-121.925342,50.711589,0</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Road Condition Events</name>
         <Placemark>
           <name>Highway 20. Watch for slippery sections between Hunlen Falls Turner Lakes Trailhead and Kappan Mtn Rd for 40.7 km (Anahim Lake). Compact snow. Muddy sections. Last updated Tue Mar 31 at 12:14 AM PDT. (DBCRCON-249888)</name>
           <description>
@@ -6970,262 +7200,6 @@ More info: https://news.Gov.Bc.Ca/releases/2026TT0016-000090. Next update time M
             <tessellate>1</tessellate>
             <coordinates>-116.069863,50.619054,0 -116.071785,50.622265,0 -116.06646,50.626296,0 -116.064879,50.629368,0 -116.062933,50.630466,0 -116.057497,50.631924,0 -116.054862,50.633184,0 -116.049638,50.633215,0 -116.043243,50.63461,0 -116.04014,50.634791,0 -116.038413,50.63558,0 -116.03184,50.635462,0 -116.02576,50.636575,0 -116.023707,50.637238,0 -116.020309,50.639743,0 -116.015218,50.641162,0 -116.009005,50.640902,0 -116.002301,50.641541,0 -115.997087,50.642971,0 -115.981343,50.643077,0 -115.97565,50.645006,0 -115.970592,50.64577,0 -115.966622,50.648766,0 -115.962724,50.653651,0 -115.959955,50.66239,0 -115.955256,50.666647,0 -115.948945,50.669759,0 -115.947656,50.672287,0 -115.946504,50.672954,0 -115.94358,50.672797,0 -115.938153,50.67338,0 -115.933368,50.674764,0 -115.927286,50.675188,0 -115.923347,50.674535,0 -115.91816,50.672592,0 -115.913232,50.671716,0 -115.907907,50.673066,0 -115.904344,50.672147,0 -115.900535,50.67203,0 -115.897461,50.67289,0 -115.894089,50.67256,0 -115.889646,50.673555,0 -115.888111,50.675022,0 -115.892656,50.681872,0 -115.894533,50.688437,0 -115.896581,50.69036,0 -115.896674,50.692069,0 -115.89834,50.695127,0 -115.899337,50.698955,0 -115.898333,50.702264,0 -115.898513,50.70412,0 -115.904926,50.711012,0 -115.904894,50.715116,0 -115.907394,50.722585,0 -115.906386,50.727125,0 -115.91027,50.732905,0 -115.919331,50.739054,0 -115.920902,50.74094,0 -115.921949,50.744591,0 -115.925195,50.749351,0 -115.929981,50.752887,0 -115.934634,50.755202,0 -115.948873,50.769521,0 -115.976422,50.785415,0 -115.986959,50.789836,0 -115.992898,50.79478,0 -115.995797,50.798293,0 -115.999331,50.800619,0 -116.001011,50.805261,0 -116.012683,50.817376,0 -116.01188,50.822504,0 -116.015409,50.830217,0 -116.017588,50.851559,0 -116.028326,50.864454,0 -116.041193,50.873864,0 -116.046586,50.87717,0 -116.049483,50.882689,0 -116.049053,50.884177,0 -116.045911,50.886226,0 -116.044435,50.888644,0 -116.040213,50.891132,0 -116.040041,50.892092,0 -116.041428,50.893626,0 -116.041289,50.894775,0 -116.033788,50.898393,0 -116.032309,50.899681,0 -116.031934,50.902287,0 -116.030102,50.905561,0 -116.030574,50.906755,0 -116.035229,50.91113,0 -116.035135,50.912378,0 -116.033609,50.914323,0 -116.031661,50.915052,0 -116.023125,50.915608,0 -116.01977,50.918296,0 -116.013176,50.921216,0 -116.004947,50.928333,0 -116.000489,50.930705,0 -115.997954,50.933873,0 -115.987423,50.941364,0 -115.98397,50.945671,0 -115.980738,50.946977,0 -115.973561,50.947593,0 -115.970053,50.949373,0 -115.96551,50.950856,0 -115.961874,50.953158,0 -115.960458,50.957145,0 -115.955119,50.960293,0 -115.953091,50.965997,0 -115.947916,50.971803,0 -115.947102,50.973554,0 -115.949745,50.980514,0 -115.953291,50.987176,0 -115.95902,50.996256,0 -115.964424,51.001694,0 -115.966932,51.005063,0 -115.97053,51.007488,0 -115.972912,51.010763,0 -115.980637,51.024787,0 -115.993331,51.030636,0 -116.004553,51.038242,0 -116.02058,51.050289,0 -116.0217,51.051904,0 -116.023135,51.058058,0 -116.024262,51.059578,0 -116.032624,51.06619,0 -116.044418,51.07441,0 -116.049905,51.079735,0 -116.056918,51.083369,0 -116.065724,51.0913,0 -116.070633,51.097354,0 -116.078958,51.102531,0 -116.097038,51.115819,0 -116.102023,51.11722,0 -116.10917,51.12043,0 -116.112468,51.122178,0 -116.115204,51.124491,0 -116.120705,51.127057,0 -116.123961,51.130082,0 -116.132577,51.133157,0 -116.138634,51.136478,0 -116.145098,51.142418,0 -116.151226,51.146289,0 -116.154604,51.152259,0 -116.15171,51.165491,0 -116.150459,51.167276,0 -116.141011,51.172406,0 -116.126876,51.182273,0 -116.123575,51.185308,0 -116.116666,51.18713,0 -116.109282,51.191174,0 -116.10351,51.193523,0 -116.092616,51.200685,0 -116.088261,51.201872,0 -116.081476,51.205375,0 -116.078524,51.208411,0 -116.073504,51.210727,0 -116.067331,51.215012,0 -116.062431,51.219381,0 -116.050903,51.227916,0</coordinates>
           </LineString>
-        </Placemark>
-      </Folder>
-      <Folder>
-        <name>Special Event Events</name>
-        <Placemark>
-          <name>Highway 17 (Patricia Bay Highway), northbound. Special event planned at Exit 26: McTavish Rd (North Saanich). Starting Sun Apr 12 at 10:30 AM PDT until Sun Apr 12 at 12:15 PM PDT. Right turn lane will be closed. Watch for traffic control personnel. Expect delays. Last updated Tue Mar 10 at 4:37 PM PDT. (DBC-88471)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; N&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 17&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At Exit 26: McTavish Rd&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; North Saanich&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-10T16:37:53-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88471
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <Point>
-            <coordinates>-123.411927,48.630531,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Road 40 . Special event between Yolakom and Terzaghi Dam. Until Tue Mar 31. From 7:00 AM to 5:00 PM PDT on weekdays. Watch for traffic control. Last updated Wed Mar 11 at 2:30 PM PDT. (DBC-88502)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Road 40&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Yolakom and Terzaghi Dam&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-11T14:30:27-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88502
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <Point>
-            <coordinates>-122.425921,50.838288,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 99, in both directions. Special event planned between W Pender St and Stanley Park Dr for 3.0 km (Vancouver). Starting Sun Apr 19 at 7:00 AM PST until Sun Apr 19 at 12:00 PM PST. Roadway will be reduced to two lanes. Expect delays. Last updated Wed Jan 14 at 2:28 PM PST. (DBC-86061)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 99&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between W Pender St and Stanley Park Dr for 3.0 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Vancouver&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-01-14T14:28:26-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-86061
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.130597,49.290575,0 -123.132114,49.291606,0 -123.133719,49.292623,0 -123.135273,49.293615,0 -123.136072,49.294137,0 -123.136244,49.294137,0 -123.136722,49.294458,0 -123.136887,49.29474,0 -123.136912,49.29492,0 -123.13692,49.294981,0 -123.136836,49.295275,0 -123.136654,49.295583,0 -123.136414,49.295989,0 -123.13618,49.296289,0 -123.136196,49.296444,0 -123.136203,49.296515,0 -123.136253,49.296637,0 -123.136356,49.296887,0 -123.136697,49.297255,0 -123.137119,49.297661,0 -123.137454,49.297886,0 -123.137476,49.2979,0 -123.138138,49.298188,0 -123.1387,49.298398,0 -123.140184,49.298952,0 -123.141785,49.299809,0 -123.142121,49.300046,0 -123.142213,49.300111,0 -123.142981,49.300633,0 -123.143285,49.300962,0 -123.144427,49.302113,0 -123.144862,49.303018,0 -123.14525,49.304069,0 -123.145247,49.305536,0 -123.145167,49.306506,0 -123.144757,49.307919,0 -123.144318,49.308697,0 -123.143977,49.309341,0 -123.14375,49.309663,0 -123.143365,49.310162,0 -123.142958,49.310641,0 -123.142639,49.311007,0 -123.142583,49.311079,0 -123.142543,49.311126,0 -123.141936,49.311811,0 -123.141758,49.311997,0 -123.141232,49.312548,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Fox Mountain Road - North Side. Special event at West of Eider Drive near Williams Lake. Until Fri Apr 24. BC Wildfire Service - Controlled burning planned periodically on the North side of Fox Mountain, west of Eider Drive. Traveler's may see smoke while driving. No planned traffic interruptions. Last updated Wed Mar 25 at 3:18 PM PDT. (DBC-89186)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Fox Mountain Road - North Side&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; At West of Eider Drive near Williams Lake&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-31T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-89186
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <Point>
-            <coordinates>-122.112241,52.138805,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 14, in both directions. Special event planned between Meaford Ave and Danbrook Ave for 0.5 km (Langford). Starting Thu Apr 9 at 7:00 PM PST until Thu Apr 9 at 9:00 PM PST. Road closure planned. Royal Canadian Legion Parade. Next update time Thu Apr 9 at 9:00 PM PST. Last updated Tue Mar 3 at 2:26 PM PST. (DBC-88084)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 14&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Meaford Ave and Danbrook Ave for 0.5 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; Langford&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-03T14:26:05-08:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; 2026-04-09T21:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88084
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-123.497415,48.444246,0 -123.497089,48.444633,0 -123.496511,48.44575,0 -123.495964,48.446805,0 -123.495817,48.44709,0 -123.495809,48.447104,0 -123.495702,48.447316,0 -123.495628,48.447462,0 -123.495511,48.447792,0 -123.49541,48.44808,0 -123.495306,48.448511,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Hwy 20  . Special event between Highway 97 and Mackenzie Ave S. Until Sat Apr 4. Prescribed burn on WL Stampede Grounds. Smoke will be visible. No planned traffic interruptions. Last updated Thu Mar 26 at 2:38 PM PDT. (DBC-89242)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Hwy 20&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Highway 97 and Mackenzie Ave S&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-30T00:00:00-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-89242
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <Point>
-            <coordinates>-122.128364,52.125018,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Jingle Pot Rd, in both directions. Special event planned between Allsop Road and Andres Road. Starting Sun May 10 at 7:30 AM PDT until Sun May 10 at 11:00 AM PDT. Watch for traffic control personnel. Westwood Lake Triathlon - slow down and watch for cyclists. Last updated Fri Mar 20 at 9:29 AM PDT. (DBC-88964)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Jingle Pot Rd&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Allsop Road and Andres Road&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-20T09:29:20-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-88964
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <Point>
-            <coordinates>-124.040996,49.19068,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Hwy 20. Special event planned between Sheep Creek Brake Check and Chilanko Forks Road. Starting Wed Apr 1 until Tue Jun 30. Watch for traffic control personnel. Last updated Mon Mar 30 at 11:48 AM PDT. (DBC-89374)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Hwy 20&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Sheep Creek Brake Check and Chilanko Forks Road&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-30T11:48:23-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-89374
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <Point>
-            <coordinates>-123.090536,51.945186,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>Highway 7 (Lougheed Highway), in both directions. Special event planned between Hawkins Pickle Rd and Gledhill Rd for 0.9 km (4 to 3 km east of Mission). Starting Wed Apr 15 at 9:00 AM PDT until Wed Apr 15 at 12:00 PM PDT. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Bridge opening ceremony. Last updated Fri Mar 27 at 10:53 AM PDT. (DBC-89277)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; PLANNED_EVENT&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; BOTH&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Highway 7&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Hawkins Pickle Rd and Gledhill Rd for 0.9 km&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; 3 to 4 km east of Mission&lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-27T10:53:58-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; No&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-89277
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-122.19663,49.16468,0 -122.196292,49.16448,0 -122.196274,49.164469,0 -122.195328,49.163623,0 -122.194772,49.163327,0 -122.194514,49.163229,0 -122.194227,49.163119,0 -122.192958,49.162635,0 -122.192672,49.162525,0 -122.192434,49.162434,0 -122.191334,49.162041,0 -122.190972,49.161941,0 -122.190384,49.161836,0 -122.190037,49.161806,0 -122.183754,49.161808,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>Moha Road - Lillooet . Special event planned between Hollywood Cres - South End and Hollywood Cres North End. Starting Thu Apr 2 at 6:00 PM PDT until Thu Apr 2 at 8:00 PM PDT. Road closure planned. Watch for traffic control personnel. Planned burn between Landfill Road and Moha Road detour available via Hollywood Crescent. Expect limited visibility due to smoke. Last updated Wed Mar 25 at 3:20 PM PDT. (DBC-89163)</name>
-          <description>
-    &lt;![CDATA[
-    &lt;h3&gt;Traffic Event Details&lt;/h3&gt;
-    &lt;b&gt;Event Type:&lt;/b&gt; SPECIAL_EVENT&lt;br/&gt;
-    &lt;b&gt;Sub Type:&lt;/b&gt; POOR_VISIBILITY&lt;br/&gt;
-    &lt;b&gt;Status:&lt;/b&gt; ACTIVE&lt;br/&gt;
-    &lt;b&gt;Direction:&lt;/b&gt; NONE&lt;br/&gt;
-    &lt;b&gt;Route:&lt;/b&gt; Moha Road - Lillooet&lt;br/&gt;
-    &lt;b&gt;Location:&lt;/b&gt; Between Hollywood Cres - South End and Hollywood Cres North End&lt;br/&gt;
-    &lt;b&gt;Closest Landmark:&lt;/b&gt; &lt;br/&gt;
-    &lt;b&gt;Incident Level:&lt;/b&gt; Unknown&lt;br/&gt;
-    &lt;b&gt;Last Updated:&lt;/b&gt; 2026-03-25T15:20:10-07:00&lt;br/&gt;
-    &lt;b&gt;Next Update:&lt;/b&gt; None&lt;br/&gt;
-    &lt;b&gt;Closed:&lt;/b&gt; Yes&lt;br/&gt;
-    &lt;hr/&gt;
-    &lt;b&gt;ID:&lt;/b&gt; DBC-89163
-    ]]&gt;
-    </description>
-          <styleUrl>#style_SPECIAL_EVENT</styleUrl>
-          <Point>
-            <coordinates>-121.925342,50.711589,0</coordinates>
-          </Point>
         </Placemark>
       </Folder>
     </Folder>
